@@ -17,19 +17,8 @@ type Link struct {
 	Detail     string `json:"detail"`
 }
 
-func addLinks(subject string, link string, date string, department string, user string, detail string) {
-	// Create a new Link instance with the provided data
-	newLink := Link{
-		Subject:    subject,
-		Link:       link,
-		Date:       date,
-		Department: department,
-		User:       user,
-		Detail:     detail,
-	}
+func checkFile(file string)(result []byte){
 
-	// Read existing JSON data from the file, if any
-	file := "dist/latest.json"
 	data, err := os.ReadFile(file)
 	if err != nil {
 		if os.IsNotExist(err) {
@@ -57,6 +46,23 @@ func addLinks(subject string, link string, date string, department string, user 
 			return
 		}
 	}
+	return data
+}
+
+func addLinks(file string, subject string, link string, date string, department string, user string, detail string) {
+	// Create a new Link instance with the provided data
+	newLink := Link{
+		Subject:    subject,
+		Link:       link,
+		Date:       date,
+		Department: department,
+		User:       user,
+		Detail:     detail,
+	}
+
+	// Read existing JSON data from the file, if any
+	checkFile(file)
+	data, err := os.ReadFile(file)
 
 
 	var links []Link
@@ -127,6 +133,6 @@ func main() {
 
 		// fmt.Print(subject, link, date, department, user, detail, "\n")
 
-		addLinks(subject, link, date, department, user, detail)
+		addLinks("dist/latest.json", subject, link, date, department, user, detail)
 	}
 }
