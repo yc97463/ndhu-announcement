@@ -60,7 +60,7 @@ func addLinks(subject string, link string, date string, department string, user 
 		return
 	}
 
-	fmt.Println("Link added successfully!")
+	fmt.Println("Link added successfully | ", subject)
 }
 
 func announce_detail(host string, link string) (result string) {
