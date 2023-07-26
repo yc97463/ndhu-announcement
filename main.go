@@ -37,8 +37,6 @@ func createFile(file string){
 		fmt.Println("Error writing to file:", err)
 		return
 	}
-
-	return 
 }
 
 func addLinks(file string, subject string, link string, date string, department string, user string, detail string) {
@@ -63,7 +61,7 @@ func addLinks(file string, subject string, link string, date string, department 
 			return
 		}
 	}
-	
+
 	// if err != nil {
 	// 	createFile(file)
 	// }
