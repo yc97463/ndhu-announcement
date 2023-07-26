@@ -36,7 +36,7 @@ func createDir(dir string){
 	}
 }
 
-func createFile(file string){
+func createFile(file string, jsonType string){
 	// Create the file
 	if file, err := os.Create(file); err != nil {
 		fmt.Println("Error creating file:", err)
@@ -69,7 +69,7 @@ func insertSummary(file string, timestamp string, title string, url string, date
 	
 	data, err := os.ReadFile(file)
 	if err != nil {
-		createFile(file)
+		createFile(file, "summary")
 		data, err = os.ReadFile(file)
 		if err != nil {
 			fmt.Println("Error reading file:", err)
@@ -122,7 +122,7 @@ func createArticle(file string, timestamp string, title string, url string, date
 
 	data, err := os.ReadFile(file)
 	if err != nil {
-		createFile(file)
+		createFile(file, "detail")
 		data, err = os.ReadFile(file)
 		if err != nil {
 			fmt.Println("Error reading file:", err)
@@ -139,7 +139,10 @@ func createArticle(file string, timestamp string, title string, url string, date
 	}
 
 	// Append the newLink to the links slice
-	detail = append(detail, newDetail)
+	// detail = append(detail, newDetail)
+
+	// write newDetail to detail
+	detail = []Detail{newDetail}
 
 	// Marshal the updated links slice back to JSON
 	updatedData, err := json.MarshalIndent(detail, "", "    ")
