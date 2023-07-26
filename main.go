@@ -17,36 +17,28 @@ type Link struct {
 	Detail     string `json:"detail"`
 }
 
-func checkFile(file string)(result []byte){
+func createFile(file string){
 
-	data, err := os.ReadFile(file)
-	if err != nil {
-		if os.IsNotExist(err) {
-			// Create the 'dist' directory if it doesn't exist
-			if err := os.MkdirAll("dist", 0755); err != nil {
-				fmt.Println("Error creating 'dist' directory:", err)
-				return
-			}
-			// Create the file
-			if file, err := os.Create(file); err != nil {
-				fmt.Println("Error creating file:", err)
-				return
-			} else {
-				// Close the file when done with it
-				defer file.Close()
-			}
-
-			// Write an empty JSON array to the file
-			if err := os.WriteFile(file, []byte("[]"), 0644); err != nil {
-				fmt.Println("Error writing to file:", err)
-				return
-			}
-		} else {
-			fmt.Println("Error reading file:", err)
-			return
-		}
+	if err := os.MkdirAll("dist", 0755); err != nil {
+		fmt.Println("Error creating 'dist' directory:", err)
+		return
 	}
-	return data
+	// Create the file
+	if file, err := os.Create(file); err != nil {
+		fmt.Println("Error creating file:", err)
+		return
+	} else {
+		// Close the file when done with it
+		defer file.Close()
+	}
+
+	// Write an empty JSON array to the file
+	if err := os.WriteFile(file, []byte("[]"), 0644); err != nil {
+		fmt.Println("Error writing to file:", err)
+		return
+	}
+
+	return 
 }
 
 func addLinks(file string, subject string, link string, date string, department string, user string, detail string) {
@@ -61,8 +53,20 @@ func addLinks(file string, subject string, link string, date string, department 
 	}
 
 	// Read existing JSON data from the file, if any
-	checkFile(file)
-	// data, err := os.ReadFile(file)
+	
+	data, err := os.ReadFile(file)
+	if err != nil {
+		createFile(file)
+		data, err = os.ReadFile(file)
+		if err != nil {
+			fmt.Println("Error reading file:", err)
+			return
+		}
+	}
+	
+	// if err != nil {
+	// 	createFile(file)
+	// }
 
 
 	var links []Link
