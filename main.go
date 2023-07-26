@@ -159,8 +159,8 @@ func addDetail(file string, timestamp string, title string, url string, date str
 
 }
 
-func announce_detail(host string, link string) (result string) {
-	resp, err := soup.Get(host + link)
+func announce_detail(endpoint string, link string) (result string) {
+	resp, err := soup.Get(endpoint + link)
 	if err != nil {
 		os.Exit(1)
 	}
@@ -174,21 +174,18 @@ func announce_detail(host string, link string) (result string) {
 }
 
 func main() {
-	host := "https://announce.ndhu.edu.tw/"
-	resp, err := soup.Get(host + "mail_page.php?sort=0")
+	endpoint := "https://announce.ndhu.edu.tw/"
+	resp, err := soup.Get(endpoint + "mail_page.php?sort=0")
 	if err != nil {
 		os.Exit(1)
 	}
 	doc := soup.HTMLParse(resp)
-	// table := doc.Find("div", "class", "column1-unit").FindAll("table")
 	table := doc.Find("div", "class", "column1-unit").Find("table").Find("tbody")
 	items := table.FindAll("tr")
 
 	fmt.Printf("Found %d items:\n", len(items))
 
 	for _, item := range items {
-		// fmt.Println(link.Text(), "| Link :", link.Attrs()["href"])
-		// addLinks(link.Text(), link.Attrs()["href"])
 
 		title := item.Find("td", "class", "subject").FindAll("a")[0].Text()
 		url := item.Find("td", "class", "subject").FindAll("a")[0].Attrs()["href"]
@@ -196,11 +193,8 @@ func main() {
 		date := item.Find("td", "class", "date").Text()
 		department := item.Find("td", "class", "department").Text()
 		author := item.Find("td", "class", "user").Text()
-		announce_detail(host, url)
-		content := announce_detail(host, url)
-
-		// fmt.Print(subject, link, date, department, user, detail, "\n")
-
+		announce_detail(endpoint, url)
+		content := announce_detail(endpoint, url)
 
 		addLinks("dist/latest.json", timestamp, title, url, date, department, author, content)
 		addDetail("dist/"+timestamp+".json", timestamp, title, url, date, department, author, content)
