@@ -41,19 +41,7 @@ jobs:
         run: golangci-lint run
       - name: Run
         run: ./crawler
-      - name: Commit
-        continue-on-error: true
-        run: |
-          git config --global user.name "yc97463"
-          git config --global user.email "hi@imych.one"
-          git add .
-          git commit -m "Update announces."
-      - name: Push Changes
-        if: success()
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Deploy
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GH_PAT }}
