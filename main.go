@@ -10,7 +10,7 @@ import (
 )
 
 type Link struct {
-	Subject    string `json:"subject"`
+	Title    string `json:"title"`
 	Timestamp	 string `json:"timestamp"`
 	Url       string `json:"url"`
 	Date       string `json:"date"`
@@ -20,7 +20,7 @@ type Link struct {
 }
 
 type Detail struct {
-	Subject    string `json:"subject"`
+	Title    string `json:"title"`
 	Timestamp	 string `json:"timestamp"`
 	Url       string `json:"url"`
 	Date       string `json:"date"`
