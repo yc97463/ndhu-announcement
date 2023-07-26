@@ -3,7 +3,6 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"io/ioutil"
 	"os"
 
 	"github.com/anaskhan96/soup"
@@ -31,7 +30,7 @@ func addLinks(subject string, link string, date string, department string, user 
 
 	// Read existing JSON data from the file, if any
 	file := "dist/announce.json"
-	data, err := ioutil.ReadFile(file)
+	data, err := os.ReadFile(file)
 	if err != nil {
 		fmt.Println("Error reading file:", err)
 		return
@@ -56,7 +55,7 @@ func addLinks(subject string, link string, date string, department string, user 
 	}
 
 	// Write the updated data back to the file
-	if err := ioutil.WriteFile(file, updatedData, 0644); err != nil {
+	if err := os.WriteFile(file, updatedData, 0644); err != nil {
 		fmt.Println("Error writing to file:", err)
 		return
 	}
@@ -64,8 +63,8 @@ func addLinks(subject string, link string, date string, department string, user 
 	fmt.Println("Link added successfully!")
 }
 
-func announce_detail(host string, link string)(result string) {
-	resp, err := soup.Get(host+link)
+func announce_detail(host string, link string) (result string) {
+	resp, err := soup.Get(host + link)
 	if err != nil {
 		os.Exit(1)
 	}
@@ -74,13 +73,13 @@ func announce_detail(host string, link string)(result string) {
 	content := doc.Find("div", "class", "column1-unit").HTML()
 
 	// fmt.Print(content.HTML(), "\n", "\n", "\n", "\n")
-	
+
 	return content
 }
 
 func main() {
 	host := "https://announce.ndhu.edu.tw/"
-	resp, err := soup.Get(host+"mail_page.php?sort=0")
+	resp, err := soup.Get(host + "mail_page.php?sort=0")
 	if err != nil {
 		os.Exit(1)
 	}
@@ -94,7 +93,7 @@ func main() {
 	for _, item := range items {
 		// fmt.Println(link.Text(), "| Link :", link.Attrs()["href"])
 		// addLinks(link.Text(), link.Attrs()["href"])
-		
+
 		subject := item.Find("td", "class", "subject").FindAll("a")[0].Text()
 		link := item.Find("td", "class", "subject").FindAll("a")[0].Attrs()["href"]
 		date := item.Find("td", "class", "date").Text()
@@ -102,7 +101,7 @@ func main() {
 		user := item.Find("td", "class", "user").Text()
 		announce_detail(host, link)
 		detail := announce_detail(host, link)
-		
+
 		// fmt.Print(subject, link, date, department, user, detail, "\n")
 
 		addLinks(subject, link, date, department, user, detail)
