@@ -175,28 +175,45 @@ func announce_detail(endpoint string, link string) (result string) {
 
 func main() {
 	endpoint := "https://announce.ndhu.edu.tw/"
-	resp, err := soup.Get(endpoint + "mail_page.php?sort=0")
-	if err != nil {
-		os.Exit(1)
+
+	category := map[string]string{
+		"0": "latest",
+		"1": "administration",
+		"2": "events",
+		"3": "course",
+		"4": "admission",
+		"5": "conference",
+		"6": "pt-scholarship",
+		"7": "carreer",
+		"8": "other",
 	}
-	doc := soup.HTMLParse(resp)
-	table := doc.Find("div", "class", "column1-unit").Find("table").Find("tbody")
-	items := table.FindAll("tr")
 
-	fmt.Printf("Found %d items:\n", len(items))
+	for key, value := range category {
+		fmt.Println("Category: ", value)
+		resp, err := soup.Get(endpoint + "mail_page.php?sort=" + key)
+		if err != nil {
+			os.Exit(1)
+		}
 
-	for _, item := range items {
+		doc := soup.HTMLParse(resp)
+		table := doc.Find("div", "class", "column1-unit").Find("table").Find("tbody")
+		items := table.FindAll("tr")
 
-		title := item.Find("td", "class", "subject").FindAll("a")[0].Text()
-		url := item.Find("td", "class", "subject").FindAll("a")[0].Attrs()["href"]
-		timestamp := strings.Split(url, "?timestamp=")[1]
-		date := item.Find("td", "class", "date").Text()
-		department := item.Find("td", "class", "department").Text()
-		author := item.Find("td", "class", "user").Text()
-		announce_detail(endpoint, url)
-		content := announce_detail(endpoint, url)
+		fmt.Printf("Found %d items:\n", len(items))
 
-		addLinks("dist/latest.json", timestamp, title, url, date, department, author, content)
-		addDetail("dist/"+timestamp+".json", timestamp, title, url, date, department, author, content)
+		for _, item := range items {
+
+			title := item.Find("td", "class", "subject").FindAll("a")[0].Text()
+			url := item.Find("td", "class", "subject").FindAll("a")[0].Attrs()["href"]
+			timestamp := strings.Split(url, "?timestamp=")[1]
+			date := item.Find("td", "class", "date").Text()
+			department := item.Find("td", "class", "department").Text()
+			author := item.Find("td", "class", "user").Text()
+			announce_detail(endpoint, url)
+			content := announce_detail(endpoint, url)
+
+			addLinks("dist/"+value+".json", timestamp, title, url, date, department, author, content)
+			addDetail("dist/"+timestamp+".json", timestamp, title, url, date, department, author, content)
+		}
 	}
 }
