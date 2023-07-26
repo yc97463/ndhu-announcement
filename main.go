@@ -29,11 +29,13 @@ func addLinks(subject string, link string, date string, department string, user 
 	}
 
 	// Read existing JSON data from the file, if any
-	file := "dist/announce.json"
+	file := "dist/latest.json"
 	data, err := os.ReadFile(file)
 	if err != nil {
 		fmt.Println("Error reading file:", err)
-		return
+		os.Create(file)
+		os.WriteFile(file, []byte("[]"), 0644)
+		// return
 	}
 
 	var links []Link
