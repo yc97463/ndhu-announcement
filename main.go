@@ -52,10 +52,10 @@ func createFile(file string){
 	}
 }
 
-func addLinks(file string, timestamp string, subject string, url string, date string, department string, author string, content string) {
+func addLinks(file string, timestamp string, title string, url string, date string, department string, author string, content string) {
 	// Create a new Link instance with the provided data
 	newLink := Link{
-		Subject:    subject,
+		Title:    title,
 		Timestamp:  timestamp,
 		Url:       url,
 		Date:       date,
@@ -105,12 +105,12 @@ func addLinks(file string, timestamp string, subject string, url string, date st
 		return
 	}
 
-	fmt.Println("Link added successfully | ", subject)
+	fmt.Println("Link added successfully | ", title)
 }
 
-func addDetail(file string, timestamp string, subject string, url string, date string, department string, author string, content string) {
+func addDetail(file string, timestamp string, title string, url string, date string, department string, author string, content string) {
 	newDetail := Detail{
-		Subject:    subject,
+		Title: 	title,
 		Timestamp:  timestamp,
 		Url:       url,
 		Date:       date,
@@ -153,7 +153,7 @@ func addDetail(file string, timestamp string, subject string, url string, date s
 		return
 	}
 
-	fmt.Println("Detail added successfully | ", subject)
+	fmt.Println("Detail added successfully | ", title)
 
 
 
