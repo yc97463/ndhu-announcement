@@ -16,7 +16,6 @@ type Link struct {
 	Date       string `json:"date"`
 	Department string `json:"department"`
 	Author       string `json:"author"`
-	Content     string `json:"content"`
 }
 
 type Detail struct {
@@ -53,7 +52,7 @@ func createFile(file string, jsonType string){
 	}
 }
 
-func insertSummary(file string, timestamp string, title string, url string, date string, department string, author string, content string) {
+func insertSummary(file string, timestamp string, title string, url string, date string, department string, author string) {
 	// Create a new Link instance with the provided data
 	newLink := Link{
 		Title:    title,
@@ -62,7 +61,6 @@ func insertSummary(file string, timestamp string, title string, url string, date
 		Date:       date,
 		Department: department,
 		Author:       author,
-		Content:     content,
 	}
 
 	// Read existing JSON data from the file, if any
@@ -233,7 +231,7 @@ func main() {
 				author := item.Find("td", "class", "user").Text()
 				content := announce_detail(baseUrl, url)
 
-				insertSummary("dist/"+value+"/"+page+".json", timestamp, title, url, date, department, author, content)
+				insertSummary("dist/"+value+"/"+page+".json", timestamp, title, url, date, department, author)
 				createArticle("dist/article/"+timestamp+".json", timestamp, title, url, date, department, author, content)
 			}
 		}
