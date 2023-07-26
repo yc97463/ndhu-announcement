@@ -1,0 +1,36 @@
+name: Crawler CI
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  schedule:
+    - cron: "0/15 * * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Golang
+        uses: actions/setup-go@v2
+        with:
+          go-version: 1.20
+      - name: Build
+        run: go build -o crawler
+      - name: Test
+        run: go test ./...
+      - name: Lint
+        run: golangci-lint run
+      - name: Run
+        run: ./crawler
+      - name: Commit
+        run: |
+          git config --global user.name "yc97463"
+          git config --global user.email "hi@imych.one"
+          git add .
+          git commit -m "Update announces."
+      - name: Push Changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
