@@ -35,7 +35,7 @@ func addLinks(subject string, link string, date string, department string, user 
 		fmt.Println("Error reading file:", err)
 		os.Create(file)
 		os.WriteFile(file, []byte("[]"), 0644)
-		// return
+		return
 	}
 
 	var links []Link
