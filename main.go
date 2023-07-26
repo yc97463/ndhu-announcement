@@ -29,6 +29,12 @@ type Detail struct {
 	Content     string `json:"content"`
 }
 
+func createDir(dir string){
+	if err := os.MkdirAll(dir, 0755); err != nil {
+		fmt.Println("Error creating 'dist' directory:", err)
+		return
+	}
+}
 
 func createFile(file string){
 
@@ -182,6 +188,12 @@ func main() {
 		"8": "other",
 	}
 
+	createDir("dist/article")
+	// create dir from category
+	for _, value := range category {
+		createDir("dist/"+value)
+	}
+
 	for key, value := range category {
 		fmt.Println("Category: ", value)
 		resp, err := soup.Get(endpoint + "mail_page.php?sort=" + key)
@@ -206,8 +218,8 @@ func main() {
 			announce_detail(endpoint, url)
 			content := announce_detail(endpoint, url)
 
-			addLinks("dist/"+value+".json", timestamp, title, url, date, department, author, content)
-			addDetail("dist/"+timestamp+".json", timestamp, title, url, date, department, author, content)
+			addLinks("dist/"+value+"/1.json", timestamp, title, url, date, department, author, content)
+			addDetail("dist/article/"+timestamp+".json", timestamp, title, url, date, department, author, content)
 		}
 	}
 }
