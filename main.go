@@ -12,7 +12,7 @@ import (
 type Link struct {
 	Subject    string `json:"subject"`
 	Timestamp	 string `json:"timestamp"`
-	Url       string `json:"Url"`
+	Url       string `json:"url"`
 	Date       string `json:"date"`
 	Department string `json:"department"`
 	Author       string `json:"author"`
@@ -22,7 +22,7 @@ type Link struct {
 type Detail struct {
 	Subject    string `json:"subject"`
 	Timestamp	 string `json:"timestamp"`
-	Url       string `json:"Url"`
+	Url       string `json:"url"`
 	Date       string `json:"date"`
 	Department string `json:"department"`
 	Author       string `json:"author"`
