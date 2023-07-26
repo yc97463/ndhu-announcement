@@ -47,4 +47,4 @@ jobs:
           github_token: ${{ secrets.GH_PAT }}
           publish_dir: dist
           force_orphan: false
-          keep_files: true
+          keep_files: false
