@@ -11,6 +11,7 @@ import (
 
 type Link struct {
 	Subject    string `json:"subject"`
+	Timestamp	 string `json:"timestamp"`
 	Link       string `json:"link"`
 	Date       string `json:"date"`
 	Department string `json:"department"`
@@ -20,6 +21,7 @@ type Link struct {
 
 type Detail struct {
 	Subject    string `json:"subject"`
+	Timestamp	 string `json:"timestamp"`
 	Link       string `json:"link"`
 	Date       string `json:"date"`
 	Department string `json:"department"`
@@ -54,6 +56,7 @@ func addLinks(file string, timestamp string, subject string, link string, date s
 	// Create a new Link instance with the provided data
 	newLink := Link{
 		Subject:    subject,
+		Timestamp:  timestamp,
 		Link:       link,
 		Date:       date,
 		Department: department,
@@ -108,6 +111,7 @@ func addLinks(file string, timestamp string, subject string, link string, date s
 func addDetail(file string, timestamp string, subject string, link string, date string, department string, user string, content string) {
 	newDetail := Detail{
 		Subject:    subject,
+		Timestamp:  timestamp,
 		Link:       link,
 		Date:       date,
 		Department: department,
@@ -196,6 +200,7 @@ func main() {
 		detail := announce_detail(host, link)
 
 		// fmt.Print(subject, link, date, department, user, detail, "\n")
+
 
 		addLinks("dist/latest.json", timestamp, subject, link, date, department, user, detail)
 		addDetail("dist/"+timestamp+".json", timestamp, subject, link, date, department, user, detail)
