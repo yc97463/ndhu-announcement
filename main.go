@@ -138,9 +138,6 @@ func createArticle(file string, timestamp string, title string, url string, date
 		return
 	}
 
-	// Append the newLink to the links slice
-	// detail = append(detail, newDetail)
-
 	// write newDetail to detail
 	detail = []Detail{newDetail}
 
