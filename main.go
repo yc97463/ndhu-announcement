@@ -37,11 +37,6 @@ func createDir(dir string){
 }
 
 func createFile(file string){
-
-	if err := os.MkdirAll("dist", 0755); err != nil {
-		fmt.Println("Error creating 'dist' directory:", err)
-		return
-	}
 	// Create the file
 	if file, err := os.Create(file); err != nil {
 		fmt.Println("Error creating file:", err)
@@ -58,7 +53,7 @@ func createFile(file string){
 	}
 }
 
-func addLinks(file string, timestamp string, title string, url string, date string, department string, author string, content string) {
+func insertSummary(file string, timestamp string, title string, url string, date string, department string, author string, content string) {
 	// Create a new Link instance with the provided data
 	newLink := Link{
 		Title:    title,
@@ -114,7 +109,7 @@ func addLinks(file string, timestamp string, title string, url string, date stri
 	fmt.Println("Link added successfully   | ", title)
 }
 
-func addDetail(file string, timestamp string, title string, url string, date string, department string, author string, content string) {
+func createArticle(file string, timestamp string, title string, url string, date string, department string, author string, content string) {
 	newDetail := Detail{
 		Title: 	title,
 		Timestamp:  timestamp,
@@ -162,8 +157,8 @@ func addDetail(file string, timestamp string, title string, url string, date str
 	fmt.Println("Detail added successfully | ", title)
 }
 
-func announce_detail(endpoint string, link string) (result string) {
-	resp, err := soup.Get(endpoint + link)
+func announce_detail(baseUrl string, link string) (result string) {
+	resp, err := soup.Get(baseUrl + link)
 	if err != nil {
 		os.Exit(1)
 	}
@@ -174,8 +169,8 @@ func announce_detail(endpoint string, link string) (result string) {
 }
 
 func main() {
-	endpoint := "https://announce.ndhu.edu.tw/"
-
+	// baseUrl
+	baseUrl := "https://announce.ndhu.edu.tw/"
 	category := map[string]string{
 		"0": "latest",
 		"1": "administration",
@@ -188,38 +183,59 @@ func main() {
 		"8": "other",
 	}
 
+	// create directories
+	createDir("dist")
 	createDir("dist/article")
 	// create dir from category
 	for _, value := range category {
 		createDir("dist/"+value)
 	}
 
+	// get data from announce.ndhu.edu.tw
 	for key, value := range category {
+		fmt.Print("\n=====================================\n")
 		fmt.Println("Category: ", value)
-		resp, err := soup.Get(endpoint + "mail_page.php?sort=" + key)
-		if err != nil {
-			os.Exit(1)
-		}
 
-		doc := soup.HTMLParse(resp)
-		table := doc.Find("div", "class", "column1-unit").Find("table").Find("tbody")
-		items := table.FindAll("tr")
+		// loop for 5 times
+		for i := 0; i < 5; i++ {
+			page := fmt.Sprintf("%d", i+1)
 
-		fmt.Printf("Found %d items:\n", len(items))
+			// print page
+			fmt.Println("Page: ", page)
 
-		for _, item := range items {
+			// get data in category
+			resp, err := soup.Get(baseUrl + "mail_page.php?sort=" + key + "&page=" + page)
+			if err != nil {
+				os.Exit(1)
+			}
 
-			title := item.Find("td", "class", "subject").FindAll("a")[0].Text()
-			url := item.Find("td", "class", "subject").FindAll("a")[0].Attrs()["href"]
-			timestamp := strings.Split(url, "?timestamp=")[1]
-			date := item.Find("td", "class", "date").Text()
-			department := item.Find("td", "class", "department").Text()
-			author := item.Find("td", "class", "user").Text()
-			announce_detail(endpoint, url)
-			content := announce_detail(endpoint, url)
+			// parse data to HTML
+			doc := soup.HTMLParse(resp)
 
-			addLinks("dist/"+value+"/1.json", timestamp, title, url, date, department, author, content)
-			addDetail("dist/article/"+timestamp+".json", timestamp, title, url, date, department, author, content)
+			// get tr in table
+			table := doc.Find("div", "class", "column1-unit").Find("table").Find("tbody")
+			items := table.FindAll("tr")
+
+			// print found data
+			fmt.Printf("Found %d items:\n", len(items))
+
+
+
+				// get data in tr
+			for _, item := range items {
+
+				// fields
+				title := item.Find("td", "class", "subject").FindAll("a")[0].Text()
+				url := item.Find("td", "class", "subject").FindAll("a")[0].Attrs()["href"]
+				timestamp := strings.Split(url, "?timestamp=")[1]
+				date := item.Find("td", "class", "date").Text()
+				department := item.Find("td", "class", "department").Text()
+				author := item.Find("td", "class", "user").Text()
+				content := announce_detail(baseUrl, url)
+
+				insertSummary("dist/"+value+"/"+page+".json", timestamp, title, url, date, department, author, content)
+				createArticle("dist/article/"+timestamp+".json", timestamp, title, url, date, department, author, content)
+			}
 		}
 	}
 }
