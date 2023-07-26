@@ -105,7 +105,7 @@ func addLinks(file string, timestamp string, title string, url string, date stri
 		return
 	}
 
-	fmt.Println("Link added successfully | ", title)
+	fmt.Println("Link added successfully   | ", title)
 }
 
 func addDetail(file string, timestamp string, title string, url string, date string, department string, author string, content string) {
@@ -154,9 +154,6 @@ func addDetail(file string, timestamp string, title string, url string, date str
 	}
 
 	fmt.Println("Detail added successfully | ", title)
-
-
-
 }
 
 func announce_detail(endpoint string, link string) (result string) {
@@ -165,10 +162,7 @@ func announce_detail(endpoint string, link string) (result string) {
 		os.Exit(1)
 	}
 	doc := soup.HTMLParse(resp)
-
 	content := doc.Find("div", "class", "column1-unit").HTML()
-
-	// fmt.Print(content.HTML(), "\n", "\n", "\n", "\n")
 
 	return content
 }
