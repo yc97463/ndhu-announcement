@@ -4,6 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"os"
+	"strings"
 
 	"github.com/anaskhan96/soup"
 )
@@ -16,6 +17,16 @@ type Link struct {
 	User       string `json:"user"`
 	Detail     string `json:"detail"`
 }
+
+type Detail struct {
+	Subject    string `json:"subject"`
+	Link       string `json:"link"`
+	Date       string `json:"date"`
+	Department string `json:"department"`
+	User       string `json:"user"`
+	Detail     string `json:"detail"`
+}
+
 
 func createFile(file string){
 
@@ -94,6 +105,56 @@ func addLinks(file string, subject string, link string, date string, department 
 	fmt.Println("Link added successfully | ", subject)
 }
 
+func addDetail(file string, subject string, link string, date string, department string, user string, content string) {
+	newDetail := Detail{
+		Subject:    subject,
+		Link:       link,
+		Date:       date,
+		Department: department,
+		User:       user,
+		Detail:     content,
+	}
+
+	data, err := os.ReadFile(file)
+	if err != nil {
+		createFile(file)
+		data, err = os.ReadFile(file)
+		if err != nil {
+			fmt.Println("Error reading file:", err)
+			return
+		}
+	}
+
+	var detail []Detail
+
+	// Unmarshal the existing JSON data into the links slice
+	if err := json.Unmarshal(data, &detail); err != nil {
+		fmt.Println("Error unmarshaling JSON:", err)
+		return
+	}
+
+	// Append the newLink to the links slice
+	detail = append(detail, newDetail)
+
+	// Marshal the updated links slice back to JSON
+	updatedData, err := json.MarshalIndent(detail, "", "    ")
+	if err != nil {
+		fmt.Println("Error marshaling JSON:", err)
+		return
+	}
+
+	// Write the updated data back to the file
+	if err := os.WriteFile(file, updatedData, 0644); err != nil {
+		fmt.Println("Error writing to file:", err)
+		return
+	}
+
+	fmt.Println("Detail added successfully | ", subject)
+
+
+
+}
+
 func announce_detail(host string, link string) (result string) {
 	resp, err := soup.Get(host + link)
 	if err != nil {
@@ -136,5 +197,6 @@ func main() {
 		// fmt.Print(subject, link, date, department, user, detail, "\n")
 
 		addLinks("dist/latest.json", subject, link, date, department, user, detail)
+		addDetail("dist/"+strings.Split(link, "?timestamp=")[1]+".json", subject, link, date, department, user, detail)
 	}
 }
