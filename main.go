@@ -33,8 +33,20 @@ func addLinks(subject string, link string, date string, department string, user 
 	data, err := os.ReadFile(file)
 	if err != nil {
 		fmt.Println("Error reading file:", err)
-		os.Create(file)
-		os.WriteFile(file, []byte("[]"), 0644)
+		// Create the file
+		if file, err := os.Create(file); err != nil {
+			fmt.Println("Error creating file:", err)
+			return
+		} else {
+			// Close the file when done with it
+			defer file.Close()
+		}
+
+		// Write an empty JSON array to the file
+		if err := os.WriteFile(file, []byte("[]"), 0644); err != nil {
+			fmt.Println("Error writing to file:", err)
+			return
+		}
 		return
 	}
 
