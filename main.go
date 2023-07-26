@@ -32,23 +32,32 @@ func addLinks(subject string, link string, date string, department string, user 
 	file := "dist/latest.json"
 	data, err := os.ReadFile(file)
 	if err != nil {
-		fmt.Println("Error reading file:", err)
-		// Create the file
-		if file, err := os.Create(file); err != nil {
-			fmt.Println("Error creating file:", err)
-			return
-		} else {
-			// Close the file when done with it
-			defer file.Close()
-		}
+		if os.IsNotExist(err) {
+			// Create the 'dist' directory if it doesn't exist
+			if err := os.MkdirAll("dist", 0755); err != nil {
+				fmt.Println("Error creating 'dist' directory:", err)
+				return
+			}
+			// Create the file
+			if file, err := os.Create(file); err != nil {
+				fmt.Println("Error creating file:", err)
+				return
+			} else {
+				// Close the file when done with it
+				defer file.Close()
+			}
 
-		// Write an empty JSON array to the file
-		if err := os.WriteFile(file, []byte("[]"), 0644); err != nil {
-			fmt.Println("Error writing to file:", err)
+			// Write an empty JSON array to the file
+			if err := os.WriteFile(file, []byte("[]"), 0644); err != nil {
+				fmt.Println("Error writing to file:", err)
+				return
+			}
+		} else {
+			fmt.Println("Error reading file:", err)
 			return
 		}
-		return
 	}
+
 
 	var links []Link
 
