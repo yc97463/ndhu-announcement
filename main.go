@@ -62,7 +62,7 @@ func addLinks(file string, subject string, link string, date string, department 
 
 	// Read existing JSON data from the file, if any
 	checkFile(file)
-	data, err := os.ReadFile(file)
+	// data, err := os.ReadFile(file)
 
 
 	var links []Link
