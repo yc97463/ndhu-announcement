@@ -15,8 +15,8 @@ type Link struct {
 	Url       string `json:"Url"`
 	Date       string `json:"date"`
 	Department string `json:"department"`
-	User       string `json:"user"`
-	Detail     string `json:"detail"`
+	Author       string `json:"author"`
+	Content     string `json:"content"`
 }
 
 type Detail struct {
@@ -25,8 +25,8 @@ type Detail struct {
 	Url       string `json:"Url"`
 	Date       string `json:"date"`
 	Department string `json:"department"`
-	User       string `json:"user"`
-	Detail     string `json:"detail"`
+	Author       string `json:"author"`
+	Content     string `json:"content"`
 }
 
 
@@ -52,7 +52,7 @@ func createFile(file string){
 	}
 }
 
-func addLinks(file string, timestamp string, subject string, url string, date string, department string, user string, detail string) {
+func addLinks(file string, timestamp string, subject string, url string, date string, department string, author string, content string) {
 	// Create a new Link instance with the provided data
 	newLink := Link{
 		Subject:    subject,
@@ -60,8 +60,8 @@ func addLinks(file string, timestamp string, subject string, url string, date st
 		Url:       url,
 		Date:       date,
 		Department: department,
-		User:       user,
-		Detail:     detail,
+		Author:       author,
+		Content:     content,
 	}
 
 	// Read existing JSON data from the file, if any
@@ -108,15 +108,15 @@ func addLinks(file string, timestamp string, subject string, url string, date st
 	fmt.Println("Link added successfully | ", subject)
 }
 
-func addDetail(file string, timestamp string, subject string, url string, date string, department string, user string, content string) {
+func addDetail(file string, timestamp string, subject string, url string, date string, department string, author string, content string) {
 	newDetail := Detail{
 		Subject:    subject,
 		Timestamp:  timestamp,
 		Url:       url,
 		Date:       date,
 		Department: department,
-		User:       user,
-		Detail:     content,
+		Author:       author,
+		Content:     content,
 	}
 
 	data, err := os.ReadFile(file)
@@ -195,14 +195,14 @@ func main() {
 		timestamp := strings.Split(url, "?timestamp=")[1]
 		date := item.Find("td", "class", "date").Text()
 		department := item.Find("td", "class", "department").Text()
-		user := item.Find("td", "class", "user").Text()
+		author := item.Find("td", "class", "user").Text()
 		announce_detail(host, url)
-		detail := announce_detail(host, url)
+		content := announce_detail(host, url)
 
 		// fmt.Print(subject, link, date, department, user, detail, "\n")
 
 
-		addLinks("dist/latest.json", timestamp, title, url, date, department, user, detail)
-		addDetail("dist/"+timestamp+".json", timestamp, title, url, date, department, user, detail)
+		addLinks("dist/latest.json", timestamp, title, url, date, department, author, content)
+		addDetail("dist/"+timestamp+".json", timestamp, title, url, date, department, author, content)
 	}
 }
