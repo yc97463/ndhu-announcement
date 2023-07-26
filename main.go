@@ -50,7 +50,7 @@ func createFile(file string){
 	}
 }
 
-func addLinks(file string, subject string, link string, date string, department string, user string, detail string) {
+func addLinks(file string, timestamp string, subject string, link string, date string, department string, user string, detail string) {
 	// Create a new Link instance with the provided data
 	newLink := Link{
 		Subject:    subject,
@@ -105,7 +105,7 @@ func addLinks(file string, subject string, link string, date string, department 
 	fmt.Println("Link added successfully | ", subject)
 }
 
-func addDetail(file string, subject string, link string, date string, department string, user string, content string) {
+func addDetail(file string, timestamp string, subject string, link string, date string, department string, user string, content string) {
 	newDetail := Detail{
 		Subject:    subject,
 		Link:       link,
@@ -188,6 +188,7 @@ func main() {
 
 		subject := item.Find("td", "class", "subject").FindAll("a")[0].Text()
 		link := item.Find("td", "class", "subject").FindAll("a")[0].Attrs()["href"]
+		timestamp := strings.Split(link, "?timestamp=")[1]
 		date := item.Find("td", "class", "date").Text()
 		department := item.Find("td", "class", "department").Text()
 		user := item.Find("td", "class", "user").Text()
@@ -196,7 +197,7 @@ func main() {
 
 		// fmt.Print(subject, link, date, department, user, detail, "\n")
 
-		addLinks("dist/latest.json", subject, link, date, department, user, detail)
-		addDetail("dist/"+strings.Split(link, "?timestamp=")[1]+".json", subject, link, date, department, user, detail)
+		addLinks("dist/latest.json", timestamp, subject, link, date, department, user, detail)
+		addDetail("dist/"+timestamp+".json", timestamp, subject, link, date, department, user, detail)
 	}
 }
