@@ -1,0 +1,49 @@
+[
+  {
+    "id": 0,
+    "name": "最新消息",
+    "category": "latest"
+  },
+  {
+    "id": 1,
+    "name": "行政公告",
+    "category": "administration"
+  },
+  {
+    "id": 2,
+    "name": "活動訊息",
+    "category": "events"
+  },
+  {
+    "id": 3,
+    "name": "課程資訊",
+    "category": "course"
+  },
+  {
+    "id": 4,
+    "name": "招生訊息",
+    "category": "admission"
+  },
+  {
+    "id": 5,
+    "name": "研討會訊息",
+    "category": "conference"
+  },
+  {
+    "id": 6,
+    "name": "獎助學金及工讀",
+    "category": "pt-scholarship"
+  },
+  {
+    "id": 7,
+    "name": "徵才資訊",
+    "category": "carreer"
+  },
+  {
+    "id": 8,
+    "name": "其他訊息",
+    "category": "other"
+  }
+  
+  
+]
