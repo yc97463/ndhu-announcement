@@ -12,7 +12,7 @@ import (
 type Link struct {
 	Subject    string `json:"subject"`
 	Timestamp	 string `json:"timestamp"`
-	Link       string `json:"link"`
+	Url       string `json:"Url"`
 	Date       string `json:"date"`
 	Department string `json:"department"`
 	User       string `json:"user"`
@@ -22,7 +22,7 @@ type Link struct {
 type Detail struct {
 	Subject    string `json:"subject"`
 	Timestamp	 string `json:"timestamp"`
-	Link       string `json:"link"`
+	Url       string `json:"Url"`
 	Date       string `json:"date"`
 	Department string `json:"department"`
 	User       string `json:"user"`
@@ -52,12 +52,12 @@ func createFile(file string){
 	}
 }
 
-func addLinks(file string, timestamp string, subject string, link string, date string, department string, user string, detail string) {
+func addLinks(file string, timestamp string, subject string, url string, date string, department string, user string, detail string) {
 	// Create a new Link instance with the provided data
 	newLink := Link{
 		Subject:    subject,
 		Timestamp:  timestamp,
-		Link:       link,
+		Url:       url,
 		Date:       date,
 		Department: department,
 		User:       user,
@@ -108,11 +108,11 @@ func addLinks(file string, timestamp string, subject string, link string, date s
 	fmt.Println("Link added successfully | ", subject)
 }
 
-func addDetail(file string, timestamp string, subject string, link string, date string, department string, user string, content string) {
+func addDetail(file string, timestamp string, subject string, url string, date string, department string, user string, content string) {
 	newDetail := Detail{
 		Subject:    subject,
 		Timestamp:  timestamp,
-		Link:       link,
+		Url:       url,
 		Date:       date,
 		Department: department,
 		User:       user,
@@ -190,19 +190,19 @@ func main() {
 		// fmt.Println(link.Text(), "| Link :", link.Attrs()["href"])
 		// addLinks(link.Text(), link.Attrs()["href"])
 
-		subject := item.Find("td", "class", "subject").FindAll("a")[0].Text()
-		link := item.Find("td", "class", "subject").FindAll("a")[0].Attrs()["href"]
-		timestamp := strings.Split(link, "?timestamp=")[1]
+		title := item.Find("td", "class", "subject").FindAll("a")[0].Text()
+		url := item.Find("td", "class", "subject").FindAll("a")[0].Attrs()["href"]
+		timestamp := strings.Split(url, "?timestamp=")[1]
 		date := item.Find("td", "class", "date").Text()
 		department := item.Find("td", "class", "department").Text()
 		user := item.Find("td", "class", "user").Text()
-		announce_detail(host, link)
-		detail := announce_detail(host, link)
+		announce_detail(host, url)
+		detail := announce_detail(host, url)
 
 		// fmt.Print(subject, link, date, department, user, detail, "\n")
 
 
-		addLinks("dist/latest.json", timestamp, subject, link, date, department, user, detail)
-		addDetail("dist/"+timestamp+".json", timestamp, subject, link, date, department, user, detail)
+		addLinks("dist/latest.json", timestamp, title, url, date, department, user, detail)
+		addDetail("dist/"+timestamp+".json", timestamp, title, url, date, department, user, detail)
 	}
 }
