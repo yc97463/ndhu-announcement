@@ -1,5 +1,13 @@
 [
     {
+        "title": "[網路緊急公告]六期宿舍光纖骨幹斷線說明",
+        "timestamp": "1688351433",
+        "url": "mail_display.php?timestamp=1688351433",
+        "date": "2023/07/03 10:30",
+        "department": "圖書資訊處網路管理組",
+        "author": "楊志偉"
+    },
+    {
         "title": "【通識】113學年度新增校核心課程(通識)申請作業",
         "timestamp": "1688345652",
         "url": "mail_display.php?timestamp=1688345652",
@@ -110,13 +118,5 @@
         "date": "2023/06/19 16:23",
         "department": "研發處",
         "author": "洪乃慈"
-    },
-    {
-        "title": "暑期住宿 宿舍網路使用公告",
-        "timestamp": "1687143755",
-        "url": "mail_display.php?timestamp=1687143755",
-        "date": "2023/06/19 11:02",
-        "department": "圖書資訊處網路管理組",
-        "author": "賴銀富"
     }
 ]
