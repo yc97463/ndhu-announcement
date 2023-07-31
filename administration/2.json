@@ -1,5 +1,13 @@
 [
     {
+        "title": "本校汽車車輛識別證優惠措施公告。",
+        "timestamp": "1690339975",
+        "url": "mail_display.php?timestamp=1690339975",
+        "date": "2023/07/26 10:52",
+        "department": "總務處事務組",
+        "author": "羅靖雯"
+    },
+    {
         "title": "【公告】主計室會計系統資料庫伺服器主機維修",
         "timestamp": "1690334404",
         "url": "mail_display.php?timestamp=1690334404",
@@ -110,13 +118,5 @@
         "date": "2023/07/20 09:10",
         "department": "總務處文書組",
         "author": "黃章傑"
-    },
-    {
-        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
-        "timestamp": "1689813648",
-        "url": "mail_display.php?timestamp=1689813648",
-        "date": "2023/07/20 08:40",
-        "department": "圖書資訊處校務系統組",
-        "author": "林志軒"
     }
 ]
