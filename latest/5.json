@@ -1,5 +1,13 @@
 [
     {
+        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
+        "timestamp": "1689813648",
+        "url": "mail_display.php?timestamp=1689813648",
+        "date": "2023/07/20 08:40",
+        "department": "圖書資訊處校務系統組",
+        "author": "林志軒"
+    },
+    {
         "title": "學務處【交通安全plus團隊】成員招募(歡迎起飛生參加)",
         "timestamp": "1689759853",
         "url": "mail_display.php?timestamp=1689759853",
@@ -110,13 +118,5 @@
         "date": "2023/07/18 23:47",
         "department": "研發處",
         "author": "蔡語棠"
-    },
-    {
-        "title": "環境學院電梯1(A棟)停用公告",
-        "timestamp": "1689683733",
-        "url": "mail_display.php?timestamp=1689683733",
-        "date": "2023/07/18 20:35",
-        "department": "總務處營繕組",
-        "author": "陳正雄"
     }
 ]
