@@ -1,5 +1,13 @@
 [
     {
+        "title": "【公告】主計室會計系統持續搶修中",
+        "timestamp": "1690761350",
+        "url": "mail_display.php?timestamp=1690761350",
+        "date": "2023/07/31 07:55",
+        "department": "主計室",
+        "author": "曾俊達"
+    },
+    {
         "title": "為辦理本校112年度績優職員及團體選拔，請尚未提送「績優職員選拔優良事蹟表」(個人及團體)之單位儘速辦理，各一級【行政】單位如不推薦人選亦請回復不推薦(第2次公告)",
         "timestamp": "1690696350",
         "url": "mail_display.php?timestamp=1690696350",
@@ -110,13 +118,5 @@
         "date": "2023/07/26 13:56",
         "department": "圖書資訊處",
         "author": "周小萍"
-    },
-    {
-        "title": "提醒防颱準備",
-        "timestamp": "1690350767",
-        "url": "mail_display.php?timestamp=1690350767",
-        "date": "2023/07/26 13:52",
-        "department": "總務處事務組",
-        "author": "周邦鴻"
     }
 ]
