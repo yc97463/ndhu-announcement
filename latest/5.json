@@ -1,5 +1,13 @@
 [
     {
+        "title": "公文系統主機更新停機公告",
+        "timestamp": "1689815416",
+        "url": "mail_display.php?timestamp=1689815416",
+        "date": "2023/07/20 09:10",
+        "department": "總務處文書組",
+        "author": "黃章傑"
+    },
+    {
         "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
         "timestamp": "1689813648",
         "url": "mail_display.php?timestamp=1689813648",
@@ -110,13 +118,5 @@
         "date": "2023/07/19 08:25",
         "department": "學務處",
         "author": "葉俊良"
-    },
-    {
-        "title": "公共工程委員會之近期招標資訊公告摘錄",
-        "timestamp": "1689695263",
-        "url": "mail_display.php?timestamp=1689695263",
-        "date": "2023/07/18 23:47",
-        "department": "研發處",
-        "author": "蔡語棠"
     }
 ]
