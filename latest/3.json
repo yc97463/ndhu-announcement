@@ -1,5 +1,13 @@
 [
     {
+        "title": "【獎助學金申請】美國康德基金會112學年度「台灣大學生黃金年華助學金」(限中低收及年收70萬以下家境困難者)",
+        "timestamp": "1690293590",
+        "url": "mail_display.php?timestamp=1690293590",
+        "date": "2023/07/25 21:59",
+        "department": "學務處",
+        "author": "葉俊良"
+    },
+    {
         "title": "【海上陸上颱風警報】「杜蘇芮颱風」海上陸上警報已於本日(25日)14:30發布，請注意！The Central Weather Bureau Typhoon Watch Advisory 【DOKSURI】",
         "timestamp": "1690269944",
         "url": "mail_display.php?timestamp=1690269944",
@@ -110,13 +118,5 @@
         "date": "2023/07/23 14:02",
         "department": "圖書資訊處校務系統組",
         "author": "蕭弘毅"
-    },
-    {
-        "title": "學人宿舍(居南邨、素心里)水錶更換施工公告(7月24日~10月16日)",
-        "timestamp": "1689993582",
-        "url": "mail_display.php?timestamp=1689993582",
-        "date": "2023/07/22 10:39",
-        "department": "總務處營繕組",
-        "author": "馬晨偉"
     }
 ]
