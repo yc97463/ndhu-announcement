@@ -1,5 +1,13 @@
 [
     {
+        "title": "112-1學生就學貸款申請公告Student Loan application for Fall Semester",
+        "timestamp": "1689218084",
+        "url": "mail_display.php?timestamp=1689218084",
+        "date": "2023/07/13 11:14",
+        "department": "學務處生活輔導組",
+        "author": "王文和"
+    },
+    {
         "title": "【轉知】112年度「大專校院推動創新創業教育計畫」進階系列課程-「創新創業團隊輔導實務教戰PITCH篇」",
         "timestamp": "1689124224",
         "url": "mail_display.php?timestamp=1689124224",
@@ -110,13 +118,5 @@
         "date": "2023/07/03 15:29",
         "department": "跨領域學術研究中心",
         "author": "跨領域學術研究中心"
-    },
-    {
-        "title": "行政大樓數位電話主機故障維修公告。",
-        "timestamp": "1688352402",
-        "url": "mail_display.php?timestamp=1688352402",
-        "date": "2023/07/03 10:46",
-        "department": "總務處事務組",
-        "author": "郭張全"
     }
 ]
