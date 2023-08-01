@@ -1,5 +1,13 @@
 [
     {
+        "title": "公文系統主機更新停機公告",
+        "timestamp": "1689815416",
+        "url": "mail_display.php?timestamp=1689815416",
+        "date": "2023/07/20 09:10",
+        "department": "總務處文書組",
+        "author": "黃章傑"
+    },
+    {
         "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
         "timestamp": "1689813648",
         "url": "mail_display.php?timestamp=1689813648",
@@ -110,13 +118,5 @@
         "date": "2023/07/13 16:52",
         "department": "總務處環境保護組",
         "author": "邱健榮"
-    },
-    {
-        "title": "總務處事務組誠徵夜管人員一名",
-        "timestamp": "1689148305",
-        "url": "mail_display.php?timestamp=1689148305",
-        "date": "2023/07/12 15:51",
-        "department": "總務處事務組",
-        "author": "周邦鴻"
     }
 ]
