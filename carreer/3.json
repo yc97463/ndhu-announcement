@@ -1,5 +1,13 @@
 [
     {
+        "title": "【徵才訊息】國際事務處國際合作組徵聘校務基金學士級助理一名",
+        "timestamp": "1686100812",
+        "url": "mail_display.php?timestamp=1686100812",
+        "date": "2023/06/07 09:20",
+        "department": "國際事務處",
+        "author": "羅靖儀"
+    },
+    {
         "title": "【徵才公告】國立東華大學管理學院徵聘校務基金助理1名",
         "timestamp": "1686099555",
         "url": "mail_display.php?timestamp=1686099555",
@@ -110,13 +118,5 @@
         "date": "2023/05/18 15:36",
         "department": "總務處文書組",
         "author": "趙文玲"
-    },
-    {
-        "title": "【徵才公告】國立東華大學理工學院徵聘校務基金助理一名",
-        "timestamp": "1684285043",
-        "url": "mail_display.php?timestamp=1684285043",
-        "date": "2023/05/17 08:57",
-        "department": "理工學院",
-        "author": "潘姿瑜"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "【徵才公告】國立東華大學圖書資訊處徵聘【校務行政系統開發】碩士級技術師一名",
+        "timestamp": "1681611897",
+        "url": "mail_display.php?timestamp=1681611897",
+        "date": "2023/04/16 10:24",
+        "department": "圖書資訊處",
+        "author": "周小萍"
+    },
+    {
         "title": "國立東華大學藝術學院音樂學系-誠徵系主任候選人公告",
         "timestamp": "1681442383",
         "url": "mail_display.php?timestamp=1681442383",
@@ -110,13 +118,5 @@
         "date": "2023/03/08 16:01",
         "department": "總務處文書組",
         "author": "何孝元"
-    },
-    {
-        "title": "【徵才訊息】國際處國際合作組徵聘計畫助理一名（第二次公告）",
-        "timestamp": "1678179888",
-        "url": "mail_display.php?timestamp=1678179888",
-        "date": "2023/03/07 17:04",
-        "department": "國際事務處",
-        "author": "羅靖儀"
     }
 ]
