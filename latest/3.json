@@ -1,5 +1,13 @@
 [
     {
+        "title": "提醒防颱準備",
+        "timestamp": "1690350767",
+        "url": "mail_display.php?timestamp=1690350767",
+        "date": "2023/07/26 13:52",
+        "department": "總務處事務組",
+        "author": "周邦鴻"
+    },
+    {
         "title": "【徵才公告】資訊工程學系徵求計畫專任助理1~2名(學士級)",
         "timestamp": "1690344417",
         "url": "mail_display.php?timestamp=1690344417",
@@ -110,13 +118,5 @@
         "date": "2023/07/24 20:53",
         "department": "學務處",
         "author": "王玉君"
-    },
-    {
-        "title": "【訊息轉知】國立臺灣大學「智財工作坊：數位教育資源的 CC 授權及 AI 演算應用」",
-        "timestamp": "1690178559",
-        "url": "mail_display.php?timestamp=1690178559",
-        "date": "2023/07/24 14:02",
-        "department": "教學卓越中心",
-        "author": "王立凡"
     }
 ]
