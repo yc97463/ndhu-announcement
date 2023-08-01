@@ -1,5 +1,13 @@
 [
     {
+        "title": "【徵才公告】國立東華大學管理學院徵聘校務基金助理1名",
+        "timestamp": "1686099555",
+        "url": "mail_display.php?timestamp=1686099555",
+        "date": "2023/06/07 08:59",
+        "department": "管理學院",
+        "author": "林香君"
+    },
+    {
         "title": "【徵才】國立東華大學教務處課務組徵聘校務基金學士級助理一名",
         "timestamp": "1686097613",
         "url": "mail_display.php?timestamp=1686097613",
@@ -110,13 +118,5 @@
         "date": "2023/05/17 08:57",
         "department": "理工學院",
         "author": "潘姿瑜"
-    },
-    {
-        "title": "【國立東華大學洄瀾共好USR計畫辦公室誠徵教育部計畫專任助理】",
-        "timestamp": "1683279566",
-        "url": "mail_display.php?timestamp=1683279566",
-        "date": "2023/05/05 17:39",
-        "department": "管理學院",
-        "author": "洄瀾共好大學社會責任中心"
     }
 ]
