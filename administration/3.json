@@ -1,5 +1,13 @@
 [
     {
+        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
+        "timestamp": "1690092141",
+        "url": "mail_display.php?timestamp=1690092141",
+        "date": "2023/07/23 14:02",
+        "department": "圖書資訊處校務系統組",
+        "author": "蕭弘毅"
+    },
+    {
         "title": "學人宿舍(居南邨、素心里)水錶更換施工公告(7月24日~10月16日)",
         "timestamp": "1689993582",
         "url": "mail_display.php?timestamp=1689993582",
@@ -110,13 +118,5 @@
         "date": "2023/07/18 16:40",
         "department": "總務處",
         "author": "陳宇欽"
-    },
-    {
-        "title": "防範社交公工程演練教育訓練",
-        "timestamp": "1689661814",
-        "url": "mail_display.php?timestamp=1689661814",
-        "date": "2023/07/18 14:30",
-        "department": "圖書資訊處網路管理組",
-        "author": "劉維忠"
     }
 ]
