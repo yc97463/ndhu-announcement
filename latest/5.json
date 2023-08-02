@@ -1,5 +1,13 @@
 [
     {
+        "title": "【海上陸上颱風警報】「杜蘇芮颱風」海上陸上警報已於本日(25日)14:30發布，請注意！The Central Weather Bureau Typhoon Watch Advisory 【DOKSURI】",
+        "timestamp": "1690269944",
+        "url": "mail_display.php?timestamp=1690269944",
+        "date": "2023/07/25 15:25",
+        "department": "學務處生活輔導組",
+        "author": "林黃漢穎"
+    },
+    {
         "title": "【轉知】國立雲林科技大學辦理「Certificate for Practicing Teachers」EMI認證課程",
         "timestamp": "1690269742",
         "url": "mail_display.php?timestamp=1690269742",
@@ -110,13 +118,5 @@
         "date": "2023/07/22 10:39",
         "department": "總務處營繕組",
         "author": "馬晨偉"
-    },
-    {
-        "title": "2023東臺灣社區母語推廣計畫火熱邀集中！🌟",
-        "timestamp": "1689987913",
-        "url": "mail_display.php?timestamp=1689987913",
-        "date": "2023/07/22 09:05",
-        "department": "管理學院",
-        "author": "洄瀾共好大學社會責任中心"
     }
 ]
