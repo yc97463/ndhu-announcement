@@ -1,5 +1,13 @@
 [
     {
+        "title": "【颱風警報】「卡努颱風」海上陸上警報已於本日(2日)17:30發布，請注意！The Central Weather Bureau Typhoon Watch Advisory 【KHANUN】",
+        "timestamp": "1690973557",
+        "url": "mail_display.php?timestamp=1690973557",
+        "date": "2023/08/02 18:52",
+        "department": "學務處生活輔導組",
+        "author": "鄭袁建中"
+    },
+    {
         "title": "教育部修正「大專校院因應嚴重特殊傳染性肺炎防疫管理指引」，如說明，公告周知。",
         "timestamp": "1690968255",
         "url": "mail_display.php?timestamp=1690968255",
@@ -110,13 +118,5 @@
         "date": "2023/07/31 10:25",
         "department": "總務處保管組",
         "author": "林慧濘"
-    },
-    {
-        "title": "112學年第1學期 google meet 升級版預約",
-        "timestamp": "1690769031",
-        "url": "mail_display.php?timestamp=1690769031",
-        "date": "2023/07/31 10:03",
-        "department": "圖書資訊處圖資服務組",
-        "author": "葉宏達"
     }
 ]
