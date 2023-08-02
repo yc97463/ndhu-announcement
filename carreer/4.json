@@ -1,5 +1,13 @@
 [
     {
+        "title": "[徵才公告]總務處文書組徵助理職務代理人1名",
+        "timestamp": "1684395418",
+        "url": "mail_display.php?timestamp=1684395418",
+        "date": "2023/05/18 15:36",
+        "department": "總務處文書組",
+        "author": "趙文玲"
+    },
+    {
         "title": "【徵才公告】國立東華大學理工學院徵聘校務基金助理一名",
         "timestamp": "1684285043",
         "url": "mail_display.php?timestamp=1684285043",
@@ -110,13 +118,5 @@
         "date": "2023/04/21 13:30",
         "department": "華語文中心",
         "author": "黃品瑄"
-    },
-    {
-        "title": "【徵聘】本校「校安人員」乙名甄選公告(第三次公告)",
-        "timestamp": "1681703452",
-        "url": "mail_display.php?timestamp=1681703452",
-        "date": "2023/04/17 11:50",
-        "department": "學務處",
-        "author": "王玉君"
     }
 ]
