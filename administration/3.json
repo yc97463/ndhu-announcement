@@ -1,13 +1,5 @@
 [
     {
-        "title": "求職防詐宣導",
-        "timestamp": "1690166682",
-        "url": "mail_display.php?timestamp=1690166682",
-        "date": "2023/07/24 10:44",
-        "department": "學務處",
-        "author": "劉豫海"
-    },
-    {
         "title": "【人事室】敬邀參加8月1日「婚姻與家庭之性別平權」研習 (第2次公告)",
         "timestamp": "1690158520",
         "url": "mail_display.php?timestamp=1690158520",
@@ -118,5 +110,13 @@
         "date": "2023/07/19 09:34",
         "department": "總務處環境保護組",
         "author": "陳俐穎"
+    },
+    {
+        "title": "環境學院電梯1(A棟)停用公告",
+        "timestamp": "1689683733",
+        "url": "mail_display.php?timestamp=1689683733",
+        "date": "2023/07/18 20:35",
+        "department": "總務處營繕組",
+        "author": "陳正雄"
     }
 ]
