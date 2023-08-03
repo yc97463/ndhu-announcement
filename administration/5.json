@@ -1,5 +1,13 @@
 [
     {
+        "title": "【Student Dormitory】 Personal Data Viewing and Modification in the e-Portfolio System(2023.07.12)",
+        "timestamp": "1689128308",
+        "url": "mail_display.php?timestamp=1689128308",
+        "date": "2023/07/12 10:18",
+        "department": "學務處生活輔導組",
+        "author": "陳怡秀"
+    },
+    {
         "title": "國立東華大學112學年度人事甄審暨考績委員會票選委員候選人名冊",
         "timestamp": "1689072674",
         "url": "mail_display.php?timestamp=1689072674",
@@ -110,13 +118,5 @@
         "date": "2023/07/04 17:08",
         "department": "人事室",
         "author": "葉珏廷"
-    },
-    {
-        "title": "112年7月11日(二)多容館停電公告",
-        "timestamp": "1688455826",
-        "url": "mail_display.php?timestamp=1688455826",
-        "date": "2023/07/04 15:30",
-        "department": "總務處營繕組",
-        "author": "馬晨"
     }
 ]
