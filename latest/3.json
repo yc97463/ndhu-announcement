@@ -1,5 +1,13 @@
 [
     {
+        "title": "【公告】主計室請購系統已修復",
+        "timestamp": "1690944948",
+        "url": "mail_display.php?timestamp=1690944948",
+        "date": "2023/08/02 10:55",
+        "department": "主計室",
+        "author": "曾俊達"
+    },
+    {
         "title": "《徵人公告》國立東華大學理工學院 徵聘計畫助理",
         "timestamp": "1690941455",
         "url": "mail_display.php?timestamp=1690941455",
@@ -110,13 +118,5 @@
         "date": "2023/08/01 14:02",
         "department": "學務處",
         "author": "葉俊良"
-    },
-    {
-        "title": "112-1學期學生培力方案通過名單",
-        "timestamp": "1690869308",
-        "url": "mail_display.php?timestamp=1690869308",
-        "date": "2023/08/01 13:55",
-        "department": "教學卓越中心",
-        "author": "鄭宏昱"
     }
 ]
