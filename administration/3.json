@@ -1,5 +1,13 @@
 [
     {
+        "title": "提醒防颱準備",
+        "timestamp": "1690350767",
+        "url": "mail_display.php?timestamp=1690350767",
+        "date": "2023/07/26 13:52",
+        "department": "總務處事務組",
+        "author": "周邦鴻"
+    },
+    {
         "title": "本校汽車車輛識別證優惠措施公告(修正連結網址)。",
         "timestamp": "1690343591",
         "url": "mail_display.php?timestamp=1690343591",
@@ -110,13 +118,5 @@
         "date": "2023/07/21 10:57",
         "department": "總務處保管組",
         "author": "林慧濘"
-    },
-    {
-        "title": "112學年度第1學期兵役緩徵、儘召網路登錄注意事項",
-        "timestamp": "1689898700",
-        "url": "mail_display.php?timestamp=1689898700",
-        "date": "2023/07/21 08:18",
-        "department": "學務處生活輔導組",
-        "author": "陳詩啓"
     }
 ]

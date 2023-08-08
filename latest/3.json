@@ -1,5 +1,21 @@
 [
     {
+        "title": "本校行政大樓地下室機車停車格開放申請公告。",
+        "timestamp": "1691021570",
+        "url": "mail_display.php?timestamp=1691021570",
+        "date": "2023/08/03 08:12",
+        "department": "總務處事務組",
+        "author": "周邦鴻"
+    },
+    {
+        "title": "【颱風警報】「卡努颱風」海上陸上警報已於本日(2日)17:30發布，請注意！The Central Weather Bureau Typhoon Watch Advisory 【KHANUN】",
+        "timestamp": "1690973557",
+        "url": "mail_display.php?timestamp=1690973557",
+        "date": "2023/08/02 18:52",
+        "department": "學務處生活輔導組",
+        "author": "鄭袁建中"
+    },
+    {
         "title": "教育部修正「大專校院因應嚴重特殊傳染性肺炎防疫管理指引」，如說明，公告周知。",
         "timestamp": "1690968255",
         "url": "mail_display.php?timestamp=1690968255",
@@ -102,21 +118,5 @@
         "date": "2023/08/01 22:03",
         "department": "學務處生活輔導組",
         "author": "林黃漢穎"
-    },
-    {
-        "title": "【徵才公告】國立東華大學管理學院會計學系徵聘專任教師一名（第1次公告，收件截止日期：112年09月04日(一)）",
-        "timestamp": "1690885062",
-        "url": "mail_display.php?timestamp=1690885062",
-        "date": "2023/08/01 18:17",
-        "department": "會計學系",
-        "author": "會計學系"
-    },
-    {
-        "title": "【徴聘教師】國立東華大學生命科學系徴聘專任教師一名",
-        "timestamp": "1690879301",
-        "url": "mail_display.php?timestamp=1690879301",
-        "date": "2023/08/01 16:41",
-        "department": "生命科學系",
-        "author": "元淑英"
     }
 ]
