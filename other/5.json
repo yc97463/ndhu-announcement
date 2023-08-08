@@ -1,5 +1,13 @@
 [
     {
+        "title": "【通知】校園內中醫暑假期間定點服務時間採預約制",
+        "timestamp": "1687832106",
+        "url": "mail_display.php?timestamp=1687832106",
+        "date": "2023/06/27 10:15",
+        "department": "學務處衛生保健組",
+        "author": "王惠貞"
+    },
+    {
         "title": "【轉知】「2023塞普勒斯國際發明展」",
         "timestamp": "1687761204",
         "url": "mail_display.php?timestamp=1687761204",
@@ -110,13 +118,5 @@
         "date": "2023/06/19 16:23",
         "department": "研發處",
         "author": "洪乃慈"
-    },
-    {
-        "title": "【K書中心公告】K書中心A館於6/22(五)~6/25(日)「休館四日」",
-        "timestamp": "1686815924",
-        "url": "mail_display.php?timestamp=1686815924",
-        "date": "2023/06/15 15:58",
-        "department": "教學卓越中心",
-        "author": "林志瓏"
     }
 ]
