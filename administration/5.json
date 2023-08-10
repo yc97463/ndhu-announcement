@@ -1,5 +1,13 @@
 [
     {
+        "title": "防範社交公工程演練教育訓練",
+        "timestamp": "1689661814",
+        "url": "mail_display.php?timestamp=1689661814",
+        "date": "2023/07/18 14:30",
+        "department": "圖書資訊處網路管理組",
+        "author": "劉維忠"
+    },
+    {
         "title": "湖畔餐廳冷卻水塔拆除清運作業公告",
         "timestamp": "1689556434",
         "url": "mail_display.php?timestamp=1689556434",
@@ -110,13 +118,5 @@
         "date": "2023/07/11 15:11",
         "department": "人事室",
         "author": "巫仁凱"
-    },
-    {
-        "title": "★★徵才公告★★ 2023國立東華大學華語文中心徵聘華語文儲備教師",
-        "timestamp": "1689059196",
-        "url": "mail_display.php?timestamp=1689059196",
-        "date": "2023/07/11 15:06",
-        "department": "華語文中心",
-        "author": "黃小姐"
     }
 ]
