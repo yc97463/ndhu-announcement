@@ -1,5 +1,13 @@
 [
     {
+        "title": "【徵才公告】國立東華大學資訊工程學系徵聘校務基金助理1名",
+        "timestamp": "1691659925",
+        "url": "mail_display.php?timestamp=1691659925",
+        "date": "2023/08/10 17:32",
+        "department": "資訊工程學系",
+        "author": "葉子綺助理"
+    },
+    {
         "title": "【公告】主計室網路請購系統停機",
         "timestamp": "1691657851",
         "url": "mail_display.php?timestamp=1691657851",
@@ -110,13 +118,5 @@
         "date": "2023/08/08 16:45",
         "department": "國際事務處永續發展組",
         "author": "張元銘"
-    },
-    {
-        "title": "校園等道路改善工程施工公告",
-        "timestamp": "1691473799",
-        "url": "mail_display.php?timestamp=1691473799",
-        "date": "2023/08/08 13:49",
-        "department": "總務處營繕組",
-        "author": "許珅銘"
     }
 ]
