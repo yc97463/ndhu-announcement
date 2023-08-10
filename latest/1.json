@@ -1,19 +1,27 @@
 [
     {
+        "title": "【徵聘公告】國立東華大學歷史學系徵聘專任教師一名",
+        "timestamp": "1691655606",
+        "url": "mail_display.php?timestamp=1691655606",
+        "date": "2023/08/10 16:20",
+        "department": "歷史學系",
+        "author": "江妍靜"
+    },
+    {
+        "title": "【修正公告，請以此公告為主】112年補助本校師生進行本島企業參訪，即日起受理申請至8月30日截止。",
+        "timestamp": "1691653514",
+        "url": "mail_display.php?timestamp=1691653514",
+        "date": "2023/08/10 15:45",
+        "department": "國際事務處",
+        "author": "羅靖儀"
+    },
+    {
         "title": "外環道光電線路新設施作公告",
         "timestamp": "1691652806",
         "url": "mail_display.php?timestamp=1691652806",
         "date": "2023/08/10 15:33",
         "department": "總務處事務組",
         "author": "羅靖雯"
-    },
-    {
-        "title": "【公告】112年補助本校師生進行本島企業參訪，即日起受理申請至8月30日截止。(第一次公告)",
-        "timestamp": "1691651126",
-        "url": "mail_display.php?timestamp=1691651126",
-        "date": "2023/08/10 15:05",
-        "department": "國際事務處",
-        "author": "羅靖儀"
     },
     {
         "title": "【敬邀參加】8/22 淨零碳排科技國際競賽 \u0026 企業淨零技術展示及論壇 Net Zero Tech International Contest@Taiwan",
@@ -110,13 +118,5 @@
         "date": "2023/08/08 13:48",
         "department": "總務處營繕組",
         "author": "許珅銘"
-    },
-    {
-        "title": "【公告】國科會「科研產業化平台」113年度第一梯次徵案，申請截至112年9月25日止",
-        "timestamp": "1691460463",
-        "url": "mail_display.php?timestamp=1691460463",
-        "date": "2023/08/08 10:07",
-        "department": "跨領域學術研究中心",
-        "author": "江東隆"
     }
 ]

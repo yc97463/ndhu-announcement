@@ -1,5 +1,13 @@
 [
     {
+        "title": "【第一次公告】國立東華大學應用數學系誠徵國科會計劃專任助理一名",
+        "timestamp": "1688545011",
+        "url": "mail_display.php?timestamp=1688545011",
+        "date": "2023/07/05 16:16",
+        "department": "應用數學系",
+        "author": "陳素琳"
+    },
+    {
         "title": "【徵才公告】國立東華大學美崙校區徵聘行政組計畫助理1名（收件至7/21中午12:00止）",
         "timestamp": "1688534769",
         "url": "mail_display.php?timestamp=1688534769",
@@ -110,13 +118,5 @@
         "date": "2023/06/16 08:53",
         "department": "管理學院",
         "author": "林香君"
-    },
-    {
-        "title": "【人事徵才】國立東華大學洄瀾共好USR計畫辦公室誠徵計畫專任助理",
-        "timestamp": "1686820645",
-        "url": "mail_display.php?timestamp=1686820645",
-        "date": "2023/06/15 17:17",
-        "department": "管理學院",
-        "author": "洄瀾共好大學社會責任中心"
     }
 ]
