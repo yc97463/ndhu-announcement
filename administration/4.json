@@ -1,5 +1,13 @@
 [
     {
+        "title": "【海上颱風警報】「杜蘇芮颱風」海上警報已於本日(24日)20:30發布，請注意！The Central Weather Bureau Typhoon Watch Advisory 【DOKSURI】",
+        "timestamp": "1690203211",
+        "url": "mail_display.php?timestamp=1690203211",
+        "date": "2023/07/24 20:53",
+        "department": "學務處",
+        "author": "王玉君"
+    },
+    {
         "title": "理工二館 4樓 E403室 AI教室建置施工",
         "timestamp": "1690178048",
         "url": "mail_display.php?timestamp=1690178048",
@@ -110,13 +118,5 @@
         "date": "2023/07/19 12:36",
         "department": "學務處生活輔導組",
         "author": "林黃漢穎"
-    },
-    {
-        "title": "學生宿舍】112學年學生宿舍候補Ⅲ作業相關事項 【Student Dormitory】112th Academic Year(2023~2024) Dormitory Application(StageⅢ)",
-        "timestamp": "1689737501",
-        "url": "mail_display.php?timestamp=1689737501",
-        "date": "2023/07/19 11:31",
-        "department": "學務處生活輔導組",
-        "author": "陳怡秀"
     }
 ]
