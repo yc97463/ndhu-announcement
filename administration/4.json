@@ -1,5 +1,13 @@
 [
     {
+        "title": "【公告】主計室會計系統資料庫伺服器主機維修",
+        "timestamp": "1690334404",
+        "url": "mail_display.php?timestamp=1690334404",
+        "date": "2023/07/26 09:20",
+        "department": "主計室",
+        "author": "曾俊達"
+    },
+    {
         "title": "針對「颱風『杜蘇芮』陸上警報警戒區域，東部地區『萬安46號演習』取消」",
         "timestamp": "1690331683",
         "url": "mail_display.php?timestamp=1690331683",
@@ -110,13 +118,5 @@
         "date": "2023/07/20 08:40",
         "department": "圖書資訊處校務系統組",
         "author": "林志軒"
-    },
-    {
-        "title": "學務處【交通安全plus團隊】成員招募(歡迎起飛生參加)",
-        "timestamp": "1689759853",
-        "url": "mail_display.php?timestamp=1689759853",
-        "date": "2023/07/19 17:44",
-        "department": "學務處生活輔導組",
-        "author": "林嘉瑩"
     }
 ]
