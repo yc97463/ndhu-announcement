@@ -1,5 +1,13 @@
 [
     {
+        "title": "清洗蓄水池及水塔停水通知",
+        "timestamp": "1691974702",
+        "url": "mail_display.php?timestamp=1691974702",
+        "date": "2023/08/14 08:58",
+        "department": "總務處環境保護組",
+        "author": "陳泳志"
+    },
+    {
         "title": "本校行政大樓地下室機車停車格開放申請公告(第二次公告)。",
         "timestamp": "1691971222",
         "url": "mail_display.php?timestamp=1691971222",
@@ -110,13 +118,5 @@
         "date": "2023/08/08 17:48",
         "department": "人事室",
         "author": "陳治豪"
-    },
-    {
-        "title": "【藝設系推廣教育】藝術欣賞、木藝、陶藝、暗房等推廣課程陸續開班中，歡迎踴躍報名~",
-        "timestamp": "1691484964",
-        "url": "mail_display.php?timestamp=1691484964",
-        "date": "2023/08/08 16:56",
-        "department": "藝術與設計學系",
-        "author": "邱苡芳"
     }
 ]
