@@ -1,5 +1,21 @@
 [
     {
+        "title": "【獎助學金申請】臺北市失業勞工子女112-1就學補助 (限臺北市籍)",
+        "timestamp": "1692371188",
+        "url": "mail_display.php?timestamp=1692371188",
+        "date": "2023/08/18 23:06",
+        "department": "學務處",
+        "author": "葉俊良"
+    },
+    {
+        "title": "【獎助學金申請】恒大文教基金會112年度清寒獎學金",
+        "timestamp": "1692369964",
+        "url": "mail_display.php?timestamp=1692369964",
+        "date": "2023/08/18 22:46",
+        "department": "學務處",
+        "author": "葉俊良"
+    },
+    {
         "title": "【論文獎助】榮民榮眷基金會112年碩博士論文獎勵",
         "timestamp": "1692367571",
         "url": "mail_display.php?timestamp=1692367571",
@@ -102,21 +118,5 @@
         "date": "2023/08/17 13:23",
         "department": "理工學院",
         "author": "潘姿瑜"
-    },
-    {
-        "title": "112年8月25日校務行政系統停機公告 (Suspension of School Administrative-affair System)",
-        "timestamp": "1692242802",
-        "url": "mail_display.php?timestamp=1692242802",
-        "date": "2023/08/17 11:26",
-        "department": "圖書資訊處校務系統組",
-        "author": "林志軒"
-    },
-    {
-        "title": "本校112學年度車輛識別證申辦 Academic Year 2023–2024 Vehicle Permit Application(第二次公告)",
-        "timestamp": "1692242362",
-        "url": "mail_display.php?timestamp=1692242362",
-        "date": "2023/08/17 11:19",
-        "department": "總務處事務組",
-        "author": "羅靖雯"
     }
 ]
