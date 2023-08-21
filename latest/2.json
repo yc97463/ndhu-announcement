@@ -1,5 +1,13 @@
 [
     {
+        "title": "【獎助學金申請】宜蘭縣112-1優秀學生獎學金 (限宜蘭縣籍)",
+        "timestamp": "1692378279",
+        "url": "mail_display.php?timestamp=1692378279",
+        "date": "2023/08/19 01:04",
+        "department": "學務處",
+        "author": "葉俊良"
+    },
+    {
         "title": "【獎助學金申請】台灣少年權益與福利促進聯盟112學年度逆風教育助學計劃 (限經濟困難者)",
         "timestamp": "1692377277",
         "url": "mail_display.php?timestamp=1692377277",
@@ -110,13 +118,5 @@
         "date": "2023/08/17 15:37",
         "department": "人事室",
         "author": "陳治豪"
-    },
-    {
-        "title": "【出國交換】2024年第一次國際交換學生甄選",
-        "timestamp": "1692251888",
-        "url": "mail_display.php?timestamp=1692251888",
-        "date": "2023/08/17 13:58",
-        "department": "國際事務處國際合作組",
-        "author": "陳良愛"
     }
 ]
