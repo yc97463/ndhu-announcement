@@ -1,5 +1,13 @@
 [
     {
+        "title": "【徵才公告】國立東華大學資訊工程學系徵聘校務基金助理1名",
+        "timestamp": "1691659925",
+        "url": "mail_display.php?timestamp=1691659925",
+        "date": "2023/08/10 17:32",
+        "department": "資訊工程學系",
+        "author": "葉子綺助理"
+    },
+    {
         "title": "【修正公告，請以此公告為主】112年補助本校師生進行本島企業參訪，即日起受理申請至8月30日截止。",
         "timestamp": "1691653514",
         "url": "mail_display.php?timestamp=1691653514",
@@ -110,13 +118,5 @@
         "date": "2023/08/01 16:37",
         "department": "總務處營繕組",
         "author": "賴名塑"
-    },
-    {
-        "title": "第六屆「總統創新獎」自即日起至112年9月28日止受理報名",
-        "timestamp": "1690878536",
-        "url": "mail_display.php?timestamp=1690878536",
-        "date": "2023/08/01 16:28",
-        "department": "研發處",
-        "author": "李淑淳"
     }
 ]
