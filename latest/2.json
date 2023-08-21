@@ -1,5 +1,21 @@
 [
     {
+        "title": "【獎助學金申請】南投縣112-1清寒優秀學生獎學金 (限南投縣籍)",
+        "timestamp": "1692373956",
+        "url": "mail_display.php?timestamp=1692373956",
+        "date": "2023/08/18 23:52",
+        "department": "學務處",
+        "author": "葉俊良"
+    },
+    {
+        "title": "【獎助學金申請】臺北市失業勞工子女112-1就學補助 (限臺北市籍)",
+        "timestamp": "1692371188",
+        "url": "mail_display.php?timestamp=1692371188",
+        "date": "2023/08/18 23:06",
+        "department": "學務處",
+        "author": "葉俊良"
+    },
+    {
         "title": "【獎助學金申請】恒大文教基金會112年度清寒獎學金",
         "timestamp": "1692369964",
         "url": "mail_display.php?timestamp=1692369964",
@@ -102,21 +118,5 @@
         "date": "2023/08/17 13:30",
         "department": "學務處畢業生及校友服務組",
         "author": "陳良玫"
-    },
-    {
-        "title": "國立東華大學理工學院徵聘校務基金助理一名",
-        "timestamp": "1692249802",
-        "url": "mail_display.php?timestamp=1692249802",
-        "date": "2023/08/17 13:23",
-        "department": "理工學院",
-        "author": "潘姿瑜"
-    },
-    {
-        "title": "112年8月25日校務行政系統停機公告 (Suspension of School Administrative-affair System)",
-        "timestamp": "1692242802",
-        "url": "mail_display.php?timestamp=1692242802",
-        "date": "2023/08/17 11:26",
-        "department": "圖書資訊處校務系統組",
-        "author": "林志軒"
     }
 ]
