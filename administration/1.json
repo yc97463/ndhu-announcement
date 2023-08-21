@@ -1,5 +1,13 @@
 [
     {
+        "title": "[公告]本校112學年度第1學期行政及學術主管名冊(112.8.21)",
+        "timestamp": "1692596637",
+        "url": "mail_display.php?timestamp=1692596637",
+        "date": "2023/08/21 13:43",
+        "department": "人事室",
+        "author": "巫仁凱"
+    },
+    {
         "title": "公文系統主機更新停機公告",
         "timestamp": "1692587815",
         "url": "mail_display.php?timestamp=1692587815",
@@ -110,13 +118,5 @@
         "date": "2023/08/15 10:54",
         "department": "學務處生活輔導組",
         "author": "陳詩啓"
-    },
-    {
-        "title": "有關公務員得否依公務員服務法第14條第2項但書規定擔任獨立董事",
-        "timestamp": "1692066289",
-        "url": "mail_display.php?timestamp=1692066289",
-        "date": "2023/08/15 10:24",
-        "department": "人事室",
-        "author": "張琇茹"
     }
 ]
