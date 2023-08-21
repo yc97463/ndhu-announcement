@@ -1,5 +1,45 @@
 [
     {
+        "title": "112年7月11日(二)多容館停電公告",
+        "timestamp": "1688455826",
+        "url": "mail_display.php?timestamp=1688455826",
+        "date": "2023/07/04 15:30",
+        "department": "總務處營繕組",
+        "author": "馬晨"
+    },
+    {
+        "title": "東華電子報 2023年0６月刊 ",
+        "timestamp": "1688430945",
+        "url": "mail_display.php?timestamp=1688430945",
+        "date": "2023/07/04 08:35",
+        "department": "秘書室公關宣傳組",
+        "author": "林佩瑤"
+    },
+    {
+        "title": "徵求參展：【ESG科技與管理】媒合展示會 ★ 請於7月5日前回覆",
+        "timestamp": "1688369341",
+        "url": "mail_display.php?timestamp=1688369341",
+        "date": "2023/07/03 15:29",
+        "department": "跨領域學術研究中心",
+        "author": "跨領域學術研究中心"
+    },
+    {
+        "title": "行政大樓數位電話主機故障維修公告。",
+        "timestamp": "1688352402",
+        "url": "mail_display.php?timestamp=1688352402",
+        "date": "2023/07/03 10:46",
+        "department": "總務處事務組",
+        "author": "郭張全"
+    },
+    {
+        "title": "✨️✨️原住民族7月歲時祭儀日✨️✨️",
+        "timestamp": "1688105241",
+        "url": "mail_display.php?timestamp=1688105241",
+        "date": "2023/06/30 14:07",
+        "department": "原住民族學生資源中心",
+        "author": "林佳儀"
+    },
+    {
         "title": "【轉知】社團法人中華專業人才協會舉辦「112年夏季-職場必備專業交流」",
         "timestamp": "1688091891",
         "url": "mail_display.php?timestamp=1688091891",
@@ -78,45 +118,5 @@
         "date": "2023/06/27 16:33",
         "department": "教學卓越中心",
         "author": "郭心怡"
-    },
-    {
-        "title": "【學生自主學習社群】112-1學期社群6/5起開放徵件，歡迎有興趣的同學組團申請!!",
-        "timestamp": "1687851107",
-        "url": "mail_display.php?timestamp=1687851107",
-        "date": "2023/06/27 15:31",
-        "department": "教學卓越中心",
-        "author": "李貞穎"
-    },
-    {
-        "title": "【截止日期延後】112-1人社院【在地社會實踐】駐地學習密集課程-「宗教與在地：新城神社舊址古蹟之活化呈現與實踐」",
-        "timestamp": "1687837853",
-        "url": "mail_display.php?timestamp=1687837853",
-        "date": "2023/06/27 11:50",
-        "department": "人文社會科學學院",
-        "author": "姜妃澤"
-    },
-    {
-        "title": "【通知】校園內中醫暑假期間定點服務時間採預約制",
-        "timestamp": "1687832106",
-        "url": "mail_display.php?timestamp=1687832106",
-        "date": "2023/06/27 10:15",
-        "department": "學務處衛生保健組",
-        "author": "王惠貞"
-    },
-    {
-        "title": "【轉知】「2023塞普勒斯國際發明展」",
-        "timestamp": "1687761204",
-        "url": "mail_display.php?timestamp=1687761204",
-        "date": "2023/06/26 14:33",
-        "department": "研發處",
-        "author": "李淑淳"
-    },
-    {
-        "title": "【轉知】文化部第47屆金鼎獎報名事宜",
-        "timestamp": "1687488821",
-        "url": "mail_display.php?timestamp=1687488821",
-        "date": "2023/06/23 10:53",
-        "department": "圖書資訊處採訪編目組",
-        "author": "蔡欣婷"
     }
 ]

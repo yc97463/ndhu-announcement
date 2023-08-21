@@ -1,5 +1,13 @@
 [
     {
+        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
+        "timestamp": "1692582837",
+        "url": "mail_display.php?timestamp=1692582837",
+        "date": "2023/08/21 09:53",
+        "department": "圖書資訊處校務系統組",
+        "author": "林志軒"
+    },
+    {
         "title": "【公告】修正「補助(委辧)計畫經費流用變更申請表」",
         "timestamp": "1692577274",
         "url": "mail_display.php?timestamp=1692577274",
@@ -110,13 +118,5 @@
         "date": "2023/08/15 08:59",
         "department": "國際事務處永續發展組",
         "author": "張元銘"
-    },
-    {
-        "title": "【公告】主計室請購系統已恢復可以使用",
-        "timestamp": "1691999149",
-        "url": "mail_display.php?timestamp=1691999149",
-        "date": "2023/08/14 15:45",
-        "department": "主計室",
-        "author": "曾俊達"
     }
 ]
