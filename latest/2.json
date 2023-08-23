@@ -1,5 +1,13 @@
 [
     {
+        "title": "道路施工通知 Road construction announcement",
+        "timestamp": "1692609261",
+        "url": "mail_display.php?timestamp=1692609261",
+        "date": "2023/08/21 17:14",
+        "department": "總務處營繕組",
+        "author": "郭家銘"
+    },
+    {
         "title": "國立東華大學理工學院 徵聘計畫助理1~2名",
         "timestamp": "1692604743",
         "url": "mail_display.php?timestamp=1692604743",
@@ -110,13 +118,5 @@
         "date": "2023/08/21 08:21",
         "department": "主計室",
         "author": "曾俊達"
-    },
-    {
-        "title": "【獎助學金申請】宜蘭縣112-1優秀學生獎學金 (限宜蘭縣籍)",
-        "timestamp": "1692378279",
-        "url": "mail_display.php?timestamp=1692378279",
-        "date": "2023/08/19 01:04",
-        "department": "學務處",
-        "author": "葉俊良"
     }
 ]
