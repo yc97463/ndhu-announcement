@@ -1,5 +1,13 @@
 [
     {
+        "title": "【海上颱風警報】「蘇拉颱風」海上警報已於本日23時30分發布，請注意！The Central Weather Bureau Typhoon Watch Advisory #09【SAOLA】",
+        "timestamp": "1693237835",
+        "url": "mail_display.php?timestamp=1693237835",
+        "date": "2023/08/28 23:50",
+        "department": "學務處生活輔導組",
+        "author": "郭詩妘"
+    },
+    {
         "title": "【Student Dormitories】Due to the potential landing of the typhoon, the summer accommodation closing and relocation procedures will be moved up to 8/30 (Wednesday). Please take note!",
         "timestamp": "1693213336",
         "url": "mail_display.php?timestamp=1693213336",
@@ -110,13 +118,5 @@
         "date": "2023/08/21 08:21",
         "department": "主計室",
         "author": "曾俊達"
-    },
-    {
-        "title": "【Cashier Section】The tuition and miscellaneous fees payment form for the first semester of 2023 academic year can be downloaded from August 21!",
-        "timestamp": "1692333713",
-        "url": "mail_display.php?timestamp=1692333713",
-        "date": "2023/08/18 12:41",
-        "department": "總務處出納組",
-        "author": "鄧瑞美"
     }
 ]
