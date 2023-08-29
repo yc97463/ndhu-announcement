@@ -1,5 +1,13 @@
 [
     {
+        "title": "【公告】主計室請購系統已恢復可以使用",
+        "timestamp": "1691999149",
+        "url": "mail_display.php?timestamp=1691999149",
+        "date": "2023/08/14 15:45",
+        "department": "主計室",
+        "author": "曾俊達"
+    },
+    {
         "title": "清洗蓄水池及水塔停水通知",
         "timestamp": "1691974702",
         "url": "mail_display.php?timestamp=1691974702",
@@ -110,13 +118,5 @@
         "date": "2023/08/03 08:12",
         "department": "總務處事務組",
         "author": "周邦鴻"
-    },
-    {
-        "title": "【颱風警報】「卡努颱風」海上陸上警報已於本日(2日)17:30發布，請注意！The Central Weather Bureau Typhoon Watch Advisory 【KHANUN】",
-        "timestamp": "1690973557",
-        "url": "mail_display.php?timestamp=1690973557",
-        "date": "2023/08/02 18:52",
-        "department": "學務處生活輔導組",
-        "author": "鄭袁建中"
     }
 ]
