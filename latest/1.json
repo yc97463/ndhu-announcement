@@ -1,5 +1,13 @@
 [
     {
+        "title": "【網路異常公告】08/28網路異常狀況說明",
+        "timestamp": "1693280431",
+        "url": "mail_display.php?timestamp=1693280431",
+        "date": "2023/08/29 11:40",
+        "department": "圖書資訊處網路管理組",
+        "author": "李宇峰"
+    },
+    {
         "title": "【轉知】國家圖書館「母語的媠花滿開：迎接台語文學新時代(Bó-gíê Suí-hue Buán-khai: Gîng-tsiap Tâi-gí Bûn-ha̍k Sin-sî-tāi )」講座",
         "timestamp": "1693279286",
         "url": "mail_display.php?timestamp=1693279286",
@@ -110,13 +118,5 @@
         "date": "2023/08/28 17:02",
         "department": "學務處",
         "author": "鍾佩玲"
-    },
-    {
-        "title": "[性平及法治教育] 尊重自律，謹言慎行。",
-        "timestamp": "1693213128",
-        "url": "mail_display.php?timestamp=1693213128",
-        "date": "2023/08/28 16:58",
-        "department": "學務處",
-        "author": "王玉君"
     }
 ]
