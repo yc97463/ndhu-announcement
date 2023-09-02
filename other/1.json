@@ -1,5 +1,13 @@
 [
     {
+        "title": "提醒防颱準備",
+        "timestamp": "1693661101",
+        "url": "mail_display.php?timestamp=1693661101",
+        "date": "2023/09/02 21:25",
+        "department": "總務處事務組",
+        "author": "許健興"
+    },
+    {
         "title": "【陸上颱風警報】「海葵颱風」陸上警報已於本日11時30分發布，請注意！The Central Weather Bureau Typhoon Watch Advisory #11【HAIKUI】",
         "timestamp": "1693626402",
         "url": "mail_display.php?timestamp=1693626402",
@@ -110,13 +118,5 @@
         "date": "2023/08/28 09:49",
         "department": "總務處營繕組",
         "author": "馬晨偉"
-    },
-    {
-        "title": "【訊息轉知】中華人事主管協會主辦9/7晚上7:00「從人資角度談AI時代新浪潮對於未來工作及人才影響」優質講座",
-        "timestamp": "1693184761",
-        "url": "mail_display.php?timestamp=1693184761",
-        "date": "2023/08/28 09:06",
-        "department": "學務處畢業生及校友服務組",
-        "author": "溫小姐"
     }
 ]
