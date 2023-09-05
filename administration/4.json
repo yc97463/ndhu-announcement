@@ -1,5 +1,21 @@
 [
     {
+        "title": "【公告】主計室網路請購系統停機",
+        "timestamp": "1691657851",
+        "url": "mail_display.php?timestamp=1691657851",
+        "date": "2023/08/10 16:57",
+        "department": "主計室",
+        "author": "曾俊達"
+    },
+    {
+        "title": "【修正公告，請以此公告為主】112年補助本校師生進行本島企業參訪，即日起受理申請至8月30日截止。",
+        "timestamp": "1691653514",
+        "url": "mail_display.php?timestamp=1691653514",
+        "date": "2023/08/10 15:45",
+        "department": "國際事務處",
+        "author": "羅靖儀"
+    },
+    {
         "title": "外環道光電線路新設施作公告",
         "timestamp": "1691652806",
         "url": "mail_display.php?timestamp=1691652806",
@@ -102,21 +118,5 @@
         "date": "2023/08/02 13:36",
         "department": "學務處生活輔導組",
         "author": "陳詩啓"
-    },
-    {
-        "title": "為搶修學人宿舍(居南邨)自來水管線，本日(8/2)下午2時至5時停水公告",
-        "timestamp": "1690946872",
-        "url": "mail_display.php?timestamp=1690946872",
-        "date": "2023/08/02 11:27",
-        "department": "總務處營繕組",
-        "author": "馬晨偉"
-    },
-    {
-        "title": "【出納組公告】配合主計室艾富會計系統主機維修狀況調整付款作業",
-        "timestamp": "1690945643",
-        "url": "mail_display.php?timestamp=1690945643",
-        "date": "2023/08/02 11:07",
-        "department": "總務處出納組",
-        "author": "李小萍"
     }
 ]
