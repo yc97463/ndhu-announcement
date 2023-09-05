@@ -16,14 +16,6 @@
         "author": "曲小姐"
     },
     {
-        "title": "本校垃圾車9月4日(星期一)暫停清運。",
-        "timestamp": "1693750749",
-        "url": "mail_display.php?timestamp=1693750749",
-        "date": "2023/09/03 22:19",
-        "department": "總務處環境保護組",
-        "author": "許智翔"
-    },
-    {
         "title": "【人事室】依行政院人事行政總處公告，明(4)日(一)停止上班上課",
         "timestamp": "1693742652",
         "url": "mail_display.php?timestamp=1693742652",
@@ -72,14 +64,6 @@
         "author": "洄瀾共好大學社會責任中心"
     },
     {
-        "title": "因應海葵颱風來襲原訂9月2日至3日室外病媒防治消毒工作延期。",
-        "timestamp": "1693578169",
-        "url": "mail_display.php?timestamp=1693578169",
-        "date": "2023/09/01 22:22",
-        "department": "總務處環境保護組",
-        "author": "許智翔"
-    },
-    {
         "title": "【海上颱風警報】「海葵颱風」海上警報已於本日20時30分發布，請注意！The Central Weather Bureau Typhoon Watch Advisory #11【HAIKUI】",
         "timestamp": "1693572041",
         "url": "mail_display.php?timestamp=1693572041",
@@ -118,5 +102,21 @@
         "date": "2023/08/31 16:18",
         "department": "管理學院",
         "author": "洄瀾共好大學社會責任中心"
+    },
+    {
+        "title": "[公告]有關112年6月9日修正公布之之「內政部組織法」及同日制定公布之「內政部消防署組織法」、「內政部國土管理署組織法」、「內政部國家公園署組織法」一事",
+        "timestamp": "1693460162",
+        "url": "mail_display.php?timestamp=1693460162",
+        "date": "2023/08/31 13:36",
+        "department": "人事室",
+        "author": "巫仁凱"
+    },
+    {
+        "title": "居南邨本日(8/31)下午1時30分至4時30停水公告",
+        "timestamp": "1693453250",
+        "url": "mail_display.php?timestamp=1693453250",
+        "date": "2023/08/31 11:40",
+        "department": "總務處營繕組",
+        "author": "馬"
     }
 ]
