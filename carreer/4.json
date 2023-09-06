@@ -1,5 +1,13 @@
 [
     {
+        "title": "【徵才公告】國立東華大學理工學院徵聘校務基金助理一名(第二次公告)",
+        "timestamp": "1685950845",
+        "url": "mail_display.php?timestamp=1685950845",
+        "date": "2023/06/05 15:40",
+        "department": "理工學院",
+        "author": "潘姿瑜"
+    },
+    {
         "title": "國立東華大學教務處課務組徵聘校務基金學士級助理一名",
         "timestamp": "1685429387",
         "url": "mail_display.php?timestamp=1685429387",
@@ -110,13 +118,5 @@
         "date": "2023/05/02 15:45",
         "department": "人事室",
         "author": "陳建文"
-    },
-    {
-        "title": "國立東華大學管理學院  國際企業學系系主任徵求公告（第2次公告）",
-        "timestamp": "1683008014",
-        "url": "mail_display.php?timestamp=1683008014",
-        "date": "2023/05/02 14:13",
-        "department": "管理學院",
-        "author": "林香君"
     }
 ]
