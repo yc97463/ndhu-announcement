@@ -1,5 +1,13 @@
 [
     {
+        "title": "因應學生宿舍開放入住，調整施作建築物周邊病媒防治作業時間",
+        "timestamp": "1693882668",
+        "url": "mail_display.php?timestamp=1693882668",
+        "date": "2023/09/05 10:57",
+        "department": "總務處環境保護組",
+        "author": "許智翔"
+    },
+    {
         "title": "【人事室】依行政院人事行政總處公告，明(4)日(一)停止上班上課",
         "timestamp": "1693742652",
         "url": "mail_display.php?timestamp=1693742652",
@@ -110,13 +118,5 @@
         "date": "2023/08/28 11:19",
         "department": "學務處",
         "author": "鍾佩玲"
-    },
-    {
-        "title": "[公告]國立高雄科技大學公開徵求第一任創新設計學院院長候選人公告啟事",
-        "timestamp": "1693181809",
-        "url": "mail_display.php?timestamp=1693181809",
-        "date": "2023/08/28 08:16",
-        "department": "人事室",
-        "author": "巫仁凱"
     }
 ]
