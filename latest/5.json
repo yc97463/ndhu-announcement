@@ -1,5 +1,13 @@
 [
     {
+        "title": "【Student Dormitory】Deposit and Claim of Luggage Services",
+        "timestamp": "1693890376",
+        "url": "mail_display.php?timestamp=1693890376",
+        "date": "2023/09/05 13:06",
+        "department": "學務處",
+        "author": "鍾佩玲"
+    },
+    {
         "title": "【學生宿舍】寄放行李領取服務相關事宜，請務必詳閱，並配合與遵守！",
         "timestamp": "1693890256",
         "url": "mail_display.php?timestamp=1693890256",
@@ -110,13 +118,5 @@
         "date": "2023/09/05 09:53",
         "department": "學務處",
         "author": "葉俊良"
-    },
-    {
-        "title": "【轉知】敬邀參加112年海外留遊學定型化契約查核業務線上講習會",
-        "timestamp": "1693877289",
-        "url": "mail_display.php?timestamp=1693877289",
-        "date": "2023/09/05 09:28",
-        "department": "國際事務處國際合作組",
-        "author": "陳良愛"
     }
 ]
