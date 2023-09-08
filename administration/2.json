@@ -1,5 +1,13 @@
 [
     {
+        "title": "居南邨9/7上午8時30分至12時30分停水公告",
+        "timestamp": "1693903617",
+        "url": "mail_display.php?timestamp=1693903617",
+        "date": "2023/09/05 16:46",
+        "department": "總務處營繕組",
+        "author": "馬晨偉"
+    },
+    {
         "title": "人社二館(A棟)等電梯停用公告",
         "timestamp": "1693903408",
         "url": "mail_display.php?timestamp=1693903408",
@@ -110,13 +118,5 @@
         "date": "2023/08/30 13:26",
         "department": "總務處事務組",
         "author": "周邦鴻"
-    },
-    {
-        "title": "學生宿舍網路IP申請公告",
-        "timestamp": "1693367353",
-        "url": "mail_display.php?timestamp=1693367353",
-        "date": "2023/08/30 11:49",
-        "department": "圖書資訊處網路管理組",
-        "author": "賴銀富"
     }
 ]
