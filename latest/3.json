@@ -1,5 +1,13 @@
 [
     {
+        "title": "【獎助學金申請】本校112學年度「凌羣獎學金」 (限電機、資工)",
+        "timestamp": "1694059518",
+        "url": "mail_display.php?timestamp=1694059518",
+        "date": "2023/09/07 12:05",
+        "department": "學務處",
+        "author": "葉俊良"
+    },
+    {
         "title": "【獎助學金申請】本校112學年度「敦陽科技公司獎助學金」 (限家境清寒)",
         "timestamp": "1694057156",
         "url": "mail_display.php?timestamp=1694057156",
@@ -110,13 +118,5 @@
         "date": "2023/09/07 08:19",
         "department": "主計室",
         "author": "曾俊達"
-    },
-    {
-        "title": "【獎助學金申請】中華民國善愛協會「第41期古秉家先生清寒獎助學金」",
-        "timestamp": "1694045813",
-        "url": "mail_display.php?timestamp=1694045813",
-        "date": "2023/09/07 08:16",
-        "department": "學務處",
-        "author": "葉俊良"
     }
 ]
