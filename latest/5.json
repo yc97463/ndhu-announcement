@@ -1,5 +1,13 @@
 [
     {
+        "title": "【課務組公告】112-1學期選課相關公告 Announcement about 112-1 courses selection",
+        "timestamp": "1693982904",
+        "url": "mail_display.php?timestamp=1693982904",
+        "date": "2023/09/06 14:48",
+        "department": "教務處課務組",
+        "author": "課務組"
+    },
+    {
         "title": "【獎助學金申請】祥和文教基金會112年優秀清寒獎學金 (限台中市籍)",
         "timestamp": "1693980840",
         "url": "mail_display.php?timestamp=1693980840",
@@ -110,13 +118,5 @@
         "date": "2023/09/05 17:30",
         "department": "國際事務處國際合作組",
         "author": "陳良愛"
-    },
-    {
-        "title": "【Student Dormitory】Announcement of 2022-2023 Student Dormitory and 2023 Summer Dormitory Deposit Refund",
-        "timestamp": "1693906083",
-        "url": "mail_display.php?timestamp=1693906083",
-        "date": "2023/09/05 17:28",
-        "department": "學務處生活輔導組",
-        "author": "陳怡秀"
     }
 ]
