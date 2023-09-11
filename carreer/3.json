@@ -1,5 +1,13 @@
 [
     {
+        "title": "行政總務助理",
+        "timestamp": "1688455736",
+        "url": "mail_display.php?timestamp=1688455736",
+        "date": "2023/07/04 15:28",
+        "department": "東華創新研究園區",
+        "author": "藍悅心"
+    },
+    {
         "title": "【轉知】遠東科技大學公開徵求校長候選人 ",
         "timestamp": "1688118085",
         "url": "mail_display.php?timestamp=1688118085",
@@ -110,13 +118,5 @@
         "date": "2023/06/07 08:26",
         "department": "教務處課務組",
         "author": "宋育縈"
-    },
-    {
-        "title": "【徵才訊息】國立東華大學國際事務處誠徵計畫專任助理",
-        "timestamp": "1686020725",
-        "url": "mail_display.php?timestamp=1686020725",
-        "date": "2023/06/06 11:05",
-        "department": "國際事務處",
-        "author": "羅靖儀"
     }
 ]

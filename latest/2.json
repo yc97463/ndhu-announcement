@@ -1,5 +1,21 @@
 [
     {
+        "title": "【獎助學金申請】嘉義縣112-1清寒優秀學生獎學金 (限嘉義縣籍)",
+        "timestamp": "1694277402",
+        "url": "mail_display.php?timestamp=1694277402",
+        "date": "2023/09/10 00:36",
+        "department": "學務處",
+        "author": "葉俊良"
+    },
+    {
+        "title": "【獎助學金申請】大和建設機構112-1大和何溪明優秀清寒獎學金",
+        "timestamp": "1694269735",
+        "url": "mail_display.php?timestamp=1694269735",
+        "date": "2023/09/09 22:28",
+        "department": "學務處",
+        "author": "葉俊良"
+    },
+    {
         "title": "【獎助學金申請】鹿港天后宮112年清寒獎助學金 (限彰化縣籍)",
         "timestamp": "1694267320",
         "url": "mail_display.php?timestamp=1694267320",
@@ -102,21 +118,5 @@
         "date": "2023/09/08 09:31",
         "department": "心理諮商輔導中心",
         "author": "林賢謀"
-    },
-    {
-        "title": "【重要訊息】112年9月「專題研究計畫聘任及薪資統一審查系統」關閉提醒，敬請查照。",
-        "timestamp": "1694135141",
-        "url": "mail_display.php?timestamp=1694135141",
-        "date": "2023/09/08 09:05",
-        "department": "研發處",
-        "author": "劉乃綺"
-    },
-    {
-        "title": "【轉知】文藻外語大學舉辦「EMI教學演示教師增能社群」系列專題講座",
-        "timestamp": "1694135111",
-        "url": "mail_display.php?timestamp=1694135111",
-        "date": "2023/09/08 09:05",
-        "department": "英語培力學術中心",
-        "author": "蔡瑩寰"
     }
 ]
