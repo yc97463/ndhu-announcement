@@ -1,5 +1,45 @@
 [
     {
+        "title": "【獎助學金申請】本校112學年度「凌羣獎學金」 (限電機、資工)",
+        "timestamp": "1694059518",
+        "url": "mail_display.php?timestamp=1694059518",
+        "date": "2023/09/07 12:05",
+        "department": "學務處",
+        "author": "葉俊良"
+    },
+    {
+        "title": "【獎助學金申請】本校112學年度「敦陽科技公司獎助學金」 (限家境清寒)",
+        "timestamp": "1694057156",
+        "url": "mail_display.php?timestamp=1694057156",
+        "date": "2023/09/07 11:25",
+        "department": "學務處",
+        "author": "葉俊良"
+    },
+    {
+        "title": "【公告】本(112)年度分配至各單位之部門預算「資本門」，至9月30日止之執行率應達90%",
+        "timestamp": "1694056360",
+        "url": "mail_display.php?timestamp=1694056360",
+        "date": "2023/09/07 11:12",
+        "department": "主計室",
+        "author": "曾俊達"
+    },
+    {
+        "title": "【獎助學金申請】本校112學年度「任江履昇女士清寒獎學金」",
+        "timestamp": "1694055634",
+        "url": "mail_display.php?timestamp=1694055634",
+        "date": "2023/09/07 11:00",
+        "department": "學務處",
+        "author": "葉俊良"
+    },
+    {
+        "title": "【獎助學金申請】法治推廣服務基金會112年獎學金 (限法律相關系所)",
+        "timestamp": "1694053156",
+        "url": "mail_display.php?timestamp=1694053156",
+        "date": "2023/09/07 10:19",
+        "department": "學務處",
+        "author": "葉俊良"
+    },
+    {
         "title": "【獎助學金申請】黃土英文教基金會112學年度英士獎學金 (限家境清寒或家逢變故)",
         "timestamp": "1694052485",
         "url": "mail_display.php?timestamp=1694052485",
@@ -78,45 +118,5 @@
         "date": "2023/09/07 08:19",
         "department": "主計室",
         "author": "曾俊達"
-    },
-    {
-        "title": "【獎助學金申請】中華民國善愛協會「第41期古秉家先生清寒獎助學金」",
-        "timestamp": "1694045813",
-        "url": "mail_display.php?timestamp=1694045813",
-        "date": "2023/09/07 08:16",
-        "department": "學務處",
-        "author": "葉俊良"
-    },
-    {
-        "title": "【公行系新生活動】112學士班院系時間(學系說明)暨新生座談會(限公行一新生報名)",
-        "timestamp": "1694044505",
-        "url": "mail_display.php?timestamp=1694044505",
-        "date": "2023/09/07 07:55",
-        "department": "人文社會科學學院 公共行政學系",
-        "author": "蔡語宸"
-    },
-    {
-        "title": "「織圓·知原」東專區原資中心全民原教巡迴列車--開幕餐會暨系列活動",
-        "timestamp": "1694044504",
-        "url": "mail_display.php?timestamp=1694044504",
-        "date": "2023/09/07 07:55",
-        "department": "學務處 原住民族學生資源中心",
-        "author": "曾暐娟"
-    },
-    {
-        "title": "諮商中心資源教室：【身心障礙者轉銜就業資源講座(場次三)】",
-        "timestamp": "1694044503",
-        "url": "mail_display.php?timestamp=1694044503",
-        "date": "2023/09/07 07:55",
-        "department": "心理諮商輔導中心 資源開發組",
-        "author": "鍾雅琳"
-    },
-    {
-        "title": "諮商中心資源教室：【身心障礙者轉銜就業資源講座(場次二)】",
-        "timestamp": "1694044502",
-        "url": "mail_display.php?timestamp=1694044502",
-        "date": "2023/09/07 07:55",
-        "department": "心理諮商輔導中心 資源開發組",
-        "author": "鍾雅琳"
     }
 ]
