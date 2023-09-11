@@ -1,13 +1,5 @@
 [
     {
-        "title": "第10屆東華角落藝術節 創作者招募",
-        "timestamp": "1694393619",
-        "url": "mail_display.php?timestamp=1694393619",
-        "date": "2023/09/11 08:53",
-        "department": "藝術與設計學系",
-        "author": "陳紘崧"
-    },
-    {
         "title": "112族文系迎新‧迎心",
         "timestamp": "1694217302",
         "url": "mail_display.php?timestamp=1694217302",
@@ -118,5 +110,13 @@
         "date": "2023/09/07 07:55",
         "department": "心理諮商輔導中心 資源開發組",
         "author": "鍾雅琳"
+    },
+    {
+        "title": "【創新創意實踐提案競賽】說明會與課程活動",
+        "timestamp": "1694027686",
+        "url": "mail_display.php?timestamp=1694027686",
+        "date": "2023/09/07 03:14",
+        "department": "研發處創新育成中心",
+        "author": "吳其璁"
     }
 ]
