@@ -1,5 +1,13 @@
 [
     {
+        "title": "【網路異常公告】08/28網路異常狀況說明",
+        "timestamp": "1693280431",
+        "url": "mail_display.php?timestamp=1693280431",
+        "date": "2023/08/29 11:40",
+        "department": "圖書資訊處網路管理組",
+        "author": "李宇峰"
+    },
+    {
         "title": "【海上颱風警報】「蘇拉颱風」海上警報已於本日23時30分發布，請注意！The Central Weather Bureau Typhoon Watch Advisory #09【SAOLA】",
         "timestamp": "1693237835",
         "url": "mail_display.php?timestamp=1693237835",
@@ -110,13 +118,5 @@
         "date": "2023/08/21 09:53",
         "department": "圖書資訊處校務系統組",
         "author": "林志軒"
-    },
-    {
-        "title": "【公告】修正「補助(委辧)計畫經費流用變更申請表」",
-        "timestamp": "1692577274",
-        "url": "mail_display.php?timestamp=1692577274",
-        "date": "2023/08/21 08:21",
-        "department": "主計室",
-        "author": "曾俊達"
     }
 ]
