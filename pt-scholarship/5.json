@@ -1,5 +1,13 @@
 [
     {
+        "title": "【獎助學金申請】陽光社會福利基金會「112年度仁寶電腦-陽光電腦獎助學金」",
+        "timestamp": "1692866471",
+        "url": "mail_display.php?timestamp=1692866471",
+        "date": "2023/08/24 16:41",
+        "department": "學務處",
+        "author": "葉俊良"
+    },
+    {
         "title": "【獎助學金申請】陽光社會福利基金會112年度「陽光獎」獎學金",
         "timestamp": "1692866167",
         "url": "mail_display.php?timestamp=1692866167",
@@ -110,13 +118,5 @@
         "date": "2023/08/21 09:31",
         "department": "研發處創新育成中心",
         "author": "吳其璁"
-    },
-    {
-        "title": "【獎助學金申請】宜蘭縣112-1優秀學生獎學金 (限宜蘭縣籍)",
-        "timestamp": "1692378279",
-        "url": "mail_display.php?timestamp=1692378279",
-        "date": "2023/08/19 01:04",
-        "department": "學務處",
-        "author": "葉俊良"
     }
 ]
