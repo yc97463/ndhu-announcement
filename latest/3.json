@@ -1,5 +1,13 @@
 [
     {
+        "title": "【課務組公告】請注意網路加退選時間 Please Notice the Period for Online Add/Drop Courses",
+        "timestamp": "1694413547",
+        "url": "mail_display.php?timestamp=1694413547",
+        "date": "2023/09/11 14:25",
+        "department": "教務處課務組",
+        "author": "課務組"
+    },
+    {
         "title": "[公告]有關​考選部組織法修正一事",
         "timestamp": "1694411736",
         "url": "mail_display.php?timestamp=1694411736",
@@ -110,13 +118,5 @@
         "date": "2023/09/11 10:08",
         "department": "藝術與設計學系",
         "author": "陳紘崧"
-    },
-    {
-        "title": "【訊息轉知】德明財經科技大學舉辦「遠距教學活動設計與相關工具應用」講座",
-        "timestamp": "1694397433",
-        "url": "mail_display.php?timestamp=1694397433",
-        "date": "2023/09/11 09:57",
-        "department": "教學卓越中心",
-        "author": "王立凡"
     }
 ]
