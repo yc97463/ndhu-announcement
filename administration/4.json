@@ -1,5 +1,21 @@
 [
     {
+        "title": "【學生宿舍】寄放行李領取服務相關事宜，請務必詳閱，並配合與遵守！",
+        "timestamp": "1693890256",
+        "url": "mail_display.php?timestamp=1693890256",
+        "date": "2023/09/05 13:04",
+        "department": "學務處",
+        "author": "鍾佩玲"
+    },
+    {
+        "title": "林道生文庫開幕暨專題演講",
+        "timestamp": "1693886100",
+        "url": "mail_display.php?timestamp=1693886100",
+        "date": "2023/09/05 11:55",
+        "department": "圖書資訊處",
+        "author": "周小萍"
+    },
+    {
         "title": "本校汽車車輛識別證優惠措施公告。(第三次公告)",
         "timestamp": "1693884552",
         "url": "mail_display.php?timestamp=1693884552",
@@ -102,21 +118,5 @@
         "date": "2023/08/29 11:53",
         "department": "圖書資訊處網路管理組",
         "author": "李宇峰"
-    },
-    {
-        "title": "【網路異常公告】08/28網路異常狀況說明",
-        "timestamp": "1693280431",
-        "url": "mail_display.php?timestamp=1693280431",
-        "date": "2023/08/29 11:40",
-        "department": "圖書資訊處網路管理組",
-        "author": "李宇峰"
-    },
-    {
-        "title": "【海上颱風警報】「蘇拉颱風」海上警報已於本日23時30分發布，請注意！The Central Weather Bureau Typhoon Watch Advisory #09【SAOLA】",
-        "timestamp": "1693237835",
-        "url": "mail_display.php?timestamp=1693237835",
-        "date": "2023/08/28 23:50",
-        "department": "學務處生活輔導組",
-        "author": "郭詩妘"
     }
 ]
