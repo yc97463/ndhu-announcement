@@ -1,5 +1,13 @@
 [
     {
+        "title": "人社二館(A棟)等電梯停用公告",
+        "timestamp": "1693903408",
+        "url": "mail_display.php?timestamp=1693903408",
+        "date": "2023/09/05 16:43",
+        "department": "總務處營繕組",
+        "author": "余少禾"
+    },
+    {
         "title": "【Student Dormitory】Deposit and Claim of Luggage Services",
         "timestamp": "1693890376",
         "url": "mail_display.php?timestamp=1693890376",
@@ -110,13 +118,5 @@
         "date": "2023/08/30 11:49",
         "department": "圖書資訊處網路管理組",
         "author": "賴銀富"
-    },
-    {
-        "title": "112年9月份全校綠地除草維護時間及施作區域公告",
-        "timestamp": "1693363678",
-        "url": "mail_display.php?timestamp=1693363678",
-        "date": "2023/08/30 10:47",
-        "department": "總務處環境保護組",
-        "author": "余承鴻"
     }
 ]
