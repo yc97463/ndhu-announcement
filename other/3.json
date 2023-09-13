@@ -1,5 +1,29 @@
 [
     {
+        "title": "提醒防颱準備",
+        "timestamp": "1693661101",
+        "url": "mail_display.php?timestamp=1693661101",
+        "date": "2023/09/02 21:25",
+        "department": "總務處事務組",
+        "author": "許健興"
+    },
+    {
+        "title": "【陸上颱風警報】「海葵颱風」陸上警報已於本日11時30分發布，請注意！The Central Weather Bureau Typhoon Watch Advisory #11【HAIKUI】",
+        "timestamp": "1693626402",
+        "url": "mail_display.php?timestamp=1693626402",
+        "date": "2023/09/02 11:46",
+        "department": "學務處",
+        "author": "劉豫海"
+    },
+    {
+        "title": "在地企業合作【洄遊吧FISH BAR】食魚教育課程校外教學報名優惠",
+        "timestamp": "1693450354",
+        "url": "mail_display.php?timestamp=1693450354",
+        "date": "2023/08/31 10:52",
+        "department": "研發處創新育成中心",
+        "author": "吳其璁"
+    },
+    {
         "title": "【轉知】有關「公教人員保險監理委員會組織規程」業經考試院會同行政院於112年8月9日修正發布。檢附原函及其附件影本各1份。",
         "timestamp": "1693385239",
         "url": "mail_display.php?timestamp=1693385239",
@@ -94,29 +118,5 @@
         "date": "2023/08/28 09:49",
         "department": "總務處營繕組",
         "author": "馬晨偉"
-    },
-    {
-        "title": "【訊息轉知】中華人事主管協會主辦9/7晚上7:00「從人資角度談AI時代新浪潮對於未來工作及人才影響」優質講座",
-        "timestamp": "1693184761",
-        "url": "mail_display.php?timestamp=1693184761",
-        "date": "2023/08/28 09:06",
-        "department": "學務處畢業生及校友服務組",
-        "author": "溫小姐"
-    },
-    {
-        "title": "【活動轉知】磨課師AI遠距評量議題實作工作坊",
-        "timestamp": "1692847544",
-        "url": "mail_display.php?timestamp=1692847544",
-        "date": "2023/08/24 11:25",
-        "department": "教學卓越中心",
-        "author": "王立凡"
-    },
-    {
-        "title": "【徵才公告】國際事務處徵聘國際專修部-校務基金助理乙名 ",
-        "timestamp": "1692780538",
-        "url": "mail_display.php?timestamp=1692780538",
-        "date": "2023/08/23 16:48",
-        "department": "國際事務處",
-        "author": "羅靖儀"
     }
 ]
