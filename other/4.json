@@ -1,5 +1,13 @@
 [
     {
+        "title": "行政院環境保護署「笑氣危害知多少」影片！",
+        "timestamp": "1693209766",
+        "url": "mail_display.php?timestamp=1693209766",
+        "date": "2023/08/28 16:02",
+        "department": "學務處",
+        "author": "王玉君"
+    },
+    {
         "title": "為搶修學人宿舍(居南邨)自來水管線，本日(8/28)上午10時至12時停水公告",
         "timestamp": "1693187399",
         "url": "mail_display.php?timestamp=1693187399",
@@ -110,13 +118,5 @@
         "date": "2023/08/18 00:12",
         "department": "人事室",
         "author": "陳治豪"
-    },
-    {
-        "title": "公共工程委員會公告之近期招標資訊摘錄",
-        "timestamp": "1692281928",
-        "url": "mail_display.php?timestamp=1692281928",
-        "date": "2023/08/17 22:18",
-        "department": "研發處",
-        "author": "蔡語棠"
     }
 ]
