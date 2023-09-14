@@ -1,6 +1,14 @@
 [
     {
         "title": "【徵才訊息】國際事務處國際合作組徵聘校務基金學士級助理一名",
+        "timestamp": "1686617882",
+        "url": "mail_display.php?timestamp=1686617882",
+        "date": "2023/06/13 08:58",
+        "department": "國際事務處國際合作組",
+        "author": "劉力綺"
+    },
+    {
+        "title": "【徵才訊息】國際事務處國際合作組徵聘校務基金學士級助理一名",
         "timestamp": "1686100812",
         "url": "mail_display.php?timestamp=1686100812",
         "date": "2023/06/07 09:20",
@@ -110,13 +118,5 @@
         "date": "2023/05/18 18:31",
         "department": "人事室",
         "author": "陳建文"
-    },
-    {
-        "title": "[徵才公告]總務處文書組徵助理職務代理人1名",
-        "timestamp": "1684395418",
-        "url": "mail_display.php?timestamp=1684395418",
-        "date": "2023/05/18 15:36",
-        "department": "總務處文書組",
-        "author": "趙文玲"
     }
 ]
