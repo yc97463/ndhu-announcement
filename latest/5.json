@@ -1,5 +1,13 @@
 [
     {
+        "title": "運動不停歇．健康一起來",
+        "timestamp": "1694572747",
+        "url": "mail_display.php?timestamp=1694572747",
+        "date": "2023/09/13 10:39",
+        "department": "體育中心",
+        "author": "邱健榮"
+    },
+    {
         "title": "【訊息轉知】靜宜大學開設7門磨課師(MOOCs)線上課程",
         "timestamp": "1694571440",
         "url": "mail_display.php?timestamp=1694571440",
@@ -110,13 +118,5 @@
         "date": "2023/09/12 17:00",
         "department": "研發處",
         "author": "彭惠玉"
-    },
-    {
-        "title": "【農服中心敬邀】2023有機驗證稽核員培訓系列課程",
-        "timestamp": "1694508692",
-        "url": "mail_display.php?timestamp=1694508692",
-        "date": "2023/09/12 16:51",
-        "department": "農業驗證與服務提升中心",
-        "author": "林欣余"
     }
 ]
