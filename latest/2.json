@@ -1,6 +1,14 @@
 [
     {
         "title": "【歡迎修課】文學家族專題課",
+        "timestamp": "1694741558",
+        "url": "mail_display.php?timestamp=1694741558",
+        "date": "2023/09/15 09:32",
+        "department": "縱谷跨域書院學士學位學程",
+        "author": "蔡怡臻"
+    },
+    {
+        "title": "【歡迎修課】文學家族專題課",
         "timestamp": "1694741541",
         "url": "mail_display.php?timestamp=1694741541",
         "date": "2023/09/15 09:32",
@@ -108,14 +116,6 @@
         "timestamp": "1694671475",
         "url": "mail_display.php?timestamp=1694671475",
         "date": "2023/09/14 14:04",
-        "department": "體育中心",
-        "author": "邱健榮"
-    },
-    {
-        "title": "本校體育運動社團及代表隊選拔時間及地點",
-        "timestamp": "1694670903",
-        "url": "mail_display.php?timestamp=1694670903",
-        "date": "2023/09/14 13:55",
         "department": "體育中心",
         "author": "邱健榮"
     }
