@@ -1,5 +1,21 @@
 [
     {
+        "title": "車輛違規紀錄請儘速以愛校服務或繳納處理費完成銷單。",
+        "timestamp": "1694747828",
+        "url": "mail_display.php?timestamp=1694747828",
+        "date": "2023/09/15 11:17",
+        "department": "總務處事務組",
+        "author": "羅靖雯"
+    },
+    {
+        "title": "112年建築物機房設施公共安全檢查公告",
+        "timestamp": "1694746561",
+        "url": "mail_display.php?timestamp=1694746561",
+        "date": "2023/09/15 10:56",
+        "department": "總務處營繕組",
+        "author": "許珅銘"
+    },
+    {
         "title": "【轉知】成大科研產業化平台將在台南舉辦-東進美國新創分享會，歡迎有意了解美國市場發展的老師團隊參加，報名至112年9月23日(三)止。",
         "timestamp": "1694745735",
         "url": "mail_display.php?timestamp=1694745735",
@@ -102,21 +118,5 @@
         "date": "2023/09/14 17:09",
         "department": "教務處註冊組",
         "author": "廖瑞珠"
-    },
-    {
-        "title": "【轉知】國立臺灣海洋大學舉辦雙語教學專題講座",
-        "timestamp": "1694681261",
-        "url": "mail_display.php?timestamp=1694681261",
-        "date": "2023/09/14 16:47",
-        "department": "英語培力學術中心",
-        "author": "蔡瑩寰"
-    },
-    {
-        "title": "藝設系112-1推廣教育--陶藝創作、暗房體驗等推廣課程陸續開班中，歡迎踴躍報名~",
-        "timestamp": "1694681059",
-        "url": "mail_display.php?timestamp=1694681059",
-        "date": "2023/09/14 16:44",
-        "department": "藝術與設計學系",
-        "author": "邱苡芳"
     }
 ]
