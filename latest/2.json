@@ -1,5 +1,13 @@
 [
     {
+        "title": "【歡迎修課】文學家族專題課",
+        "timestamp": "1694741541",
+        "url": "mail_display.php?timestamp=1694741541",
+        "date": "2023/09/15 09:32",
+        "department": "縱谷跨域書院學士學位學程",
+        "author": "蔡怡臻"
+    },
+    {
         "title": "【歡迎修課】量子物理學的宇宙觀",
         "timestamp": "1694741433",
         "url": "mail_display.php?timestamp=1694741433",
@@ -110,13 +118,5 @@
         "date": "2023/09/14 13:55",
         "department": "體育中心",
         "author": "邱健榮"
-    },
-    {
-        "title": "【公告】敬邀本校教職員參加112年度中秋節暨教師節聯誼餐會。",
-        "timestamp": "1694665101",
-        "url": "mail_display.php?timestamp=1694665101",
-        "date": "2023/09/14 12:18",
-        "department": "人事室",
-        "author": "陳治豪"
     }
 ]
