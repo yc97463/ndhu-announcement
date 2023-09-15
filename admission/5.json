@@ -1,6 +1,14 @@
 [
     {
         "title": "東華大學數位學伴中心 - 111-2 學期【大學伴】招募公告",
+        "timestamp": "1676994647",
+        "url": "mail_display.php?timestamp=1676994647",
+        "date": "2023/02/21 23:50",
+        "department": "花師教育學院",
+        "author": "楊語申"
+    },
+    {
+        "title": "東華大學數位學伴中心 - 111-2 學期【大學伴】招募公告",
         "timestamp": "1676994641",
         "url": "mail_display.php?timestamp=1676994641",
         "date": "2023/02/21 23:50",
@@ -110,13 +118,5 @@
         "date": "2023/02/09 15:52",
         "department": "花師教育學院",
         "author": "楊語申"
-    },
-    {
-        "title": "【大專生金融就業公益專班公告】",
-        "timestamp": "1675663157",
-        "url": "mail_display.php?timestamp=1675663157",
-        "date": "2023/02/06 13:59",
-        "department": "財務金融學系",
-        "author": "蔡季諭"
     }
 ]
