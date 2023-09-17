@@ -1,5 +1,13 @@
 [
     {
+        "title": "【人文學經典導讀系列講座】",
+        "timestamp": "1694920537",
+        "url": "mail_display.php?timestamp=1694920537",
+        "date": "2023/09/17 11:15",
+        "department": "人文社會科學學院",
+        "author": "姜妃澤"
+    },
+    {
         "title": "【歡迎修課】專題研究與論文寫作",
         "timestamp": "1694741728",
         "url": "mail_display.php?timestamp=1694741728",
@@ -110,13 +118,5 @@
         "date": "2023/09/11 16:13",
         "department": "心理諮商輔導中心",
         "author": "魏凡涓"
-    },
-    {
-        "title": "【課務組公告】請注意網路加退選時間 Please Notice the Period for Online Add/Drop Courses",
-        "timestamp": "1694413547",
-        "url": "mail_display.php?timestamp=1694413547",
-        "date": "2023/09/11 14:25",
-        "department": "教務處課務組",
-        "author": "課務組"
     }
 ]
