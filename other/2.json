@@ -1,5 +1,13 @@
 [
     {
+        "title": "【交通安全宣導】志學街(中正路)請依告示停放；勿隨意臨停，以免影響交通，遭到拖吊！",
+        "timestamp": "1694569622",
+        "url": "mail_display.php?timestamp=1694569622",
+        "date": "2023/09/13 09:47",
+        "department": "學務處生活輔導組",
+        "author": "林嘉瑩"
+    },
+    {
         "title": "【性平宣導】網路交友安全宣導",
         "timestamp": "1694435325",
         "url": "mail_display.php?timestamp=1694435325",
@@ -110,13 +118,5 @@
         "date": "2023/09/08 08:55",
         "department": "研發處",
         "author": "李淑淳"
-    },
-    {
-        "title": "本校112學年9月開學校內委外廠商營業時間公告",
-        "timestamp": "1694069571",
-        "url": "mail_display.php?timestamp=1694069571",
-        "date": "2023/09/07 14:52",
-        "department": "總務處事務組",
-        "author": "黃俊傑"
     }
 ]
