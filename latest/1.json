@@ -1,9 +1,25 @@
 [
     {
+        "title": "【獎助學金申請】勞動部112-1失業勞工子女就學補助",
+        "timestamp": "1695001353",
+        "url": "mail_display.php?timestamp=1695001353",
+        "date": "2023/09/18 09:42",
+        "department": "學務處",
+        "author": "葉俊良"
+    },
+    {
+        "title": "【獎助學金申請】彰化縣112-1自強優秀學生獎學金 (限彰化縣籍)",
+        "timestamp": "1694999901",
+        "url": "mail_display.php?timestamp=1694999901",
+        "date": "2023/09/18 09:18",
+        "department": "學務處",
+        "author": "葉俊良"
+    },
+    {
         "title": "【獎助學金申請】雲林縣112-1清寒優秀學生獎學金 (限雲林縣籍)",
-        "timestamp": "1694997959",
-        "url": "mail_display.php?timestamp=1694997959",
-        "date": "2023/09/18 08:45",
+        "timestamp": "1694999691",
+        "url": "mail_display.php?timestamp=1694999691",
+        "date": "2023/09/18 09:14",
         "department": "學務處",
         "author": "葉俊良"
     },
@@ -102,21 +118,5 @@
         "date": "2023/09/16 07:55",
         "department": "花師教育學院 教育行政與管理學系",
         "author": "莊璦綺"
-    },
-    {
-        "title": "社會學系期初系員大會",
-        "timestamp": "1694822102",
-        "url": "mail_display.php?timestamp=1694822102",
-        "date": "2023/09/16 07:55",
-        "department": "人文社會科學學院 社會學系",
-        "author": "葉珮芳"
-    },
-    {
-        "title": "【說明會】LINE  FRESH數位創生實踐營，熱血招募中！",
-        "timestamp": "1694771302",
-        "url": "mail_display.php?timestamp=1694771302",
-        "date": "2023/09/15 17:48",
-        "department": "研發處創新育成中心",
-        "author": "吳其璁"
     }
 ]
