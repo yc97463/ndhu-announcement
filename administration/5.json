@@ -1,5 +1,13 @@
 [
     {
+        "title": "有關海葵颱風災損請於本日下午16:30時前回報",
+        "timestamp": "1693977593",
+        "url": "mail_display.php?timestamp=1693977593",
+        "date": "2023/09/06 13:19",
+        "department": "總務處營繕組",
+        "author": "賴名塑"
+    },
+    {
         "title": "112-1體育中心體能訓練室開放公告",
         "timestamp": "1693961121",
         "url": "mail_display.php?timestamp=1693961121",
@@ -110,13 +118,5 @@
         "date": "2023/08/31 13:36",
         "department": "人事室",
         "author": "巫仁凱"
-    },
-    {
-        "title": "居南邨本日(8/31)下午1時30分至4時30停水公告",
-        "timestamp": "1693453250",
-        "url": "mail_display.php?timestamp=1693453250",
-        "date": "2023/08/31 11:40",
-        "department": "總務處營繕組",
-        "author": "馬"
     }
 ]

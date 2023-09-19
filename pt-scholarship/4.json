@@ -1,13 +1,5 @@
 [
     {
-        "title": "【獎助學金申請】中華電信基金會112年方賢齊先生獎學金 (修正申請網址)",
-        "timestamp": "1693909192",
-        "url": "mail_display.php?timestamp=1693909192",
-        "date": "2023/09/05 18:19",
-        "department": "學務處",
-        "author": "葉俊良"
-    },
-    {
         "title": "【獎助學金申請】台灣金融服務業聯合總會112學年度金融服務業教育獎助學金",
         "timestamp": "1693905874",
         "url": "mail_display.php?timestamp=1693905874",
@@ -116,6 +108,14 @@
         "timestamp": "1693302296",
         "url": "mail_display.php?timestamp=1693302296",
         "date": "2023/08/29 17:44",
+        "department": "學務處",
+        "author": "葉俊良"
+    },
+    {
+        "title": "【獎助學金申請】嘉義市「112學年度補助高中職及大專院校清寒學生學習活動計畫」(限嘉義市籍)",
+        "timestamp": "1693300574",
+        "url": "mail_display.php?timestamp=1693300574",
+        "date": "2023/08/29 17:16",
         "department": "學務處",
         "author": "葉俊良"
     }
