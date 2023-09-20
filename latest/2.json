@@ -1,5 +1,13 @@
 [
     {
+        "title": "【校外住宿】請校外住宿同學上網填報或更新資料 【Off-Campus Housing】Accommodation information Update by living off-campus students",
+        "timestamp": "1695125227",
+        "url": "mail_display.php?timestamp=1695125227",
+        "date": "2023/09/19 20:07",
+        "department": "學務處生活輔導組",
+        "author": "陳詩啓"
+    },
+    {
         "title": "【獎助學金申請】基隆市112-1清寒優秀學生獎學金 (限基隆市籍)",
         "timestamp": "1695117570",
         "url": "mail_display.php?timestamp=1695117570",
@@ -110,13 +118,5 @@
         "date": "2023/09/19 12:03",
         "department": "學務處課外活動組",
         "author": "余惠真"
-    },
-    {
-        "title": "【訊息轉知】國立宜蘭大學開設16門磨課師(MOOCs)線上課程",
-        "timestamp": "1695096029",
-        "url": "mail_display.php?timestamp=1695096029",
-        "date": "2023/09/19 12:00",
-        "department": "教學卓越中心",
-        "author": "王立凡"
     }
 ]
