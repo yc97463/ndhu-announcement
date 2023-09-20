@@ -1,5 +1,13 @@
 [
     {
+        "title": "【重要訊息】公告112-1校核心課程停開資訊",
+        "timestamp": "1695171798",
+        "url": "mail_display.php?timestamp=1695171798",
+        "date": "2023/09/20 09:03",
+        "department": "通識教育中心",
+        "author": "陳美娥"
+    },
+    {
         "title": "【課務組通知】112-1加退選後課程確認及加簽作業(9/21-9/28) 【Curriculum Division】Course Confirm Online and Add Course Requests (Sep. 21-Sep. 28)",
         "timestamp": "1695171433",
         "url": "mail_display.php?timestamp=1695171433",
@@ -110,13 +118,5 @@
         "date": "2023/09/19 15:17",
         "department": "學務處畢業生及校友服務組",
         "author": "溫小姐"
-    },
-    {
-        "title": "[公告]臺北醫學大學公開徵求醫學資訊研究所所長候選人啟事",
-        "timestamp": "1695107105",
-        "url": "mail_display.php?timestamp=1695107105",
-        "date": "2023/09/19 15:05",
-        "department": "人事室",
-        "author": "巫仁凱"
     }
 ]
