@@ -1,6 +1,14 @@
 [
     {
         "title": "東華大學數位學伴中心 - 112-1 學期【大學伴招募說明會】",
+        "timestamp": "1694587950",
+        "url": "mail_display.php?timestamp=1694587950",
+        "date": "2023/09/13 14:52",
+        "department": "花師教育學院",
+        "author": "楊語申"
+    },
+    {
+        "title": "東華大學數位學伴中心 - 112-1 學期【大學伴招募說明會】",
         "timestamp": "1694587925",
         "url": "mail_display.php?timestamp=1694587925",
         "date": "2023/09/13 14:52",
@@ -110,13 +118,5 @@
         "date": "2023/09/07 16:20",
         "department": "社會參與中心",
         "author": "黃小姐"
-    },
-    {
-        "title": "歡迎來上文化探索與生命實踐垂直整合專題學程（10學分）",
-        "timestamp": "1694060754",
-        "url": "mail_display.php?timestamp=1694060754",
-        "date": "2023/09/07 12:25",
-        "department": "洄瀾學院",
-        "author": "陳復院長"
     }
 ]
