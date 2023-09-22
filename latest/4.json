@@ -1,5 +1,61 @@
 [
     {
+        "title": "【重要訊息】公告112-1校核心課程停開資訊",
+        "timestamp": "1695171798",
+        "url": "mail_display.php?timestamp=1695171798",
+        "date": "2023/09/20 09:03",
+        "department": "通識教育中心",
+        "author": "陳美娥"
+    },
+    {
+        "title": "【課務組通知】112-1加退選後課程確認及加簽作業(9/21-9/28) 【Curriculum Division】Course Confirm Online and Add Course Requests (Sep. 21-Sep. 28)",
+        "timestamp": "1695171433",
+        "url": "mail_display.php?timestamp=1695171433",
+        "date": "2023/09/20 08:57",
+        "department": "教務處課務組",
+        "author": "課務組"
+    },
+    {
+        "title": "112年國際經貿青年培力計劃",
+        "timestamp": "1695167704",
+        "url": "mail_display.php?timestamp=1695167704",
+        "date": "2023/09/20 07:55",
+        "department": "國際事務處",
+        "author": "梁忠誠"
+    },
+    {
+        "title": "112年度旅宿業校園紮根說明會_旅人‧宿之美",
+        "timestamp": "1695167703",
+        "url": "mail_display.php?timestamp=1695167703",
+        "date": "2023/09/20 07:55",
+        "department": "學務處 畢業生及校友服務組",
+        "author": "陳良玫"
+    },
+    {
+        "title": "蛋白內的電子自旋回音",
+        "timestamp": "1695167702",
+        "url": "mail_display.php?timestamp=1695167702",
+        "date": "2023/09/20 07:55",
+        "department": "理工學院 物理學系",
+        "author": "劉芝葳"
+    },
+    {
+        "title": "【專題演講】9/22(五)_An alternative view of digital reality",
+        "timestamp": "1695167701",
+        "url": "mail_display.php?timestamp=1695167701",
+        "date": "2023/09/20 07:55",
+        "department": "理工學院 電機工程學系",
+        "author": "邱昭儒"
+    },
+    {
+        "title": "【校外住宿】請校外住宿同學上網填報或更新資料 【Off-Campus Housing】Accommodation information Update by living off-campus students",
+        "timestamp": "1695125227",
+        "url": "mail_display.php?timestamp=1695125227",
+        "date": "2023/09/19 20:07",
+        "department": "學務處生活輔導組",
+        "author": "陳詩啓"
+    },
+    {
         "title": "【獎助學金申請】基隆市112-1清寒優秀學生獎學金 (限基隆市籍)",
         "timestamp": "1695117570",
         "url": "mail_display.php?timestamp=1695117570",
@@ -62,61 +118,5 @@
         "date": "2023/09/19 15:17",
         "department": "學務處畢業生及校友服務組",
         "author": "溫小姐"
-    },
-    {
-        "title": "[公告]臺北醫學大學公開徵求醫學資訊研究所所長候選人啟事",
-        "timestamp": "1695107105",
-        "url": "mail_display.php?timestamp=1695107105",
-        "date": "2023/09/19 15:05",
-        "department": "人事室",
-        "author": "巫仁凱"
-    },
-    {
-        "title": "【轉知】元培醫事科技大學語文中心辦理「EMI全英語教學研習會」相關資訊",
-        "timestamp": "1695101823",
-        "url": "mail_display.php?timestamp=1695101823",
-        "date": "2023/09/19 13:37",
-        "department": "英語培力學術中心",
-        "author": "蔡瑩寰"
-    },
-    {
-        "title": "【轉知】教育部為預祝全體教師教師節快樂，委託拍攝之敬師微電影《老師：那個比我還相信自己的人》業於112年9月15日（星期五）上線。",
-        "timestamp": "1695097683",
-        "url": "mail_display.php?timestamp=1695097683",
-        "date": "2023/09/19 12:28",
-        "department": "人事室",
-        "author": "陳治豪"
-    },
-    {
-        "title": "【獎助學金申請】清宗文化教育基金會112學年度獎學金 (限低收、中低收)",
-        "timestamp": "1695097030",
-        "url": "mail_display.php?timestamp=1695097030",
-        "date": "2023/09/19 12:17",
-        "department": "學務處",
-        "author": "葉俊良"
-    },
-    {
-        "title": "【教育優先區】113年寒假教育優先區中小學營隊活動校內申請即日起至112年10月20日(五)下午17:00收件截止!!! Application for the K-12 School Camp Activities during winter break of academic year 2023-2024",
-        "timestamp": "1695096309",
-        "url": "mail_display.php?timestamp=1695096309",
-        "date": "2023/09/19 12:05",
-        "department": "學務處課外活動組",
-        "author": "余惠真"
-    },
-    {
-        "title": "112-1第一場《東華Friday Night》戶外表演活動-「火舞迎新光舞秀」，就在9/22！",
-        "timestamp": "1695096181",
-        "url": "mail_display.php?timestamp=1695096181",
-        "date": "2023/09/19 12:03",
-        "department": "學務處課外活動組",
-        "author": "余惠真"
-    },
-    {
-        "title": "【訊息轉知】國立宜蘭大學開設16門磨課師(MOOCs)線上課程",
-        "timestamp": "1695096029",
-        "url": "mail_display.php?timestamp=1695096029",
-        "date": "2023/09/19 12:00",
-        "department": "教學卓越中心",
-        "author": "王立凡"
     }
 ]
