@@ -1,5 +1,29 @@
 [
     {
+        "title": "公文系統主機今(9/20)日中午更新停機公告",
+        "timestamp": "1695178851",
+        "url": "mail_display.php?timestamp=1695178851",
+        "date": "2023/09/20 11:00",
+        "department": "總務處文書組",
+        "author": "黃章傑"
+    },
+    {
+        "title": "112年9月20至30日辦理本校田園基地開放申請作業(第二次公告)",
+        "timestamp": "1695177678",
+        "url": "mail_display.php?timestamp=1695177678",
+        "date": "2023/09/20 10:41",
+        "department": "總務處環境保護組",
+        "author": "余承鴻"
+    },
+    {
+        "title": "【財金系專題演講】9/22(五)14:00~16:00 全人均衡理財-A new investment paradigm for ordinary people",
+        "timestamp": "1695177428",
+        "url": "mail_display.php?timestamp=1695177428",
+        "date": "2023/09/20 10:37",
+        "department": "財務金融學系",
+        "author": "林役霜"
+    },
+    {
         "title": "112-1 國立東華大學「銀髮健身俱樂部」運動志工招募(第二次公告)",
         "timestamp": "1695173923",
         "url": "mail_display.php?timestamp=1695173923",
@@ -94,29 +118,5 @@
         "date": "2023/09/19 15:37",
         "department": "國際事務處",
         "author": "陳梅艇"
-    },
-    {
-        "title": "【交通接駁資訊】中秋及國慶連續假期辦理學校往返志學火車站接駁車，敬請多加運用。",
-        "timestamp": "1695108718",
-        "url": "mail_display.php?timestamp=1695108718",
-        "date": "2023/09/19 15:31",
-        "department": "學務處生活輔導組",
-        "author": "林嘉瑩"
-    },
-    {
-        "title": "【計畫申請】勞動部113年度「結合大專校院就業服務補助計畫」開始申請(本校申請期限：即日起至112年9月30日止)(第二次公告)",
-        "timestamp": "1695108441",
-        "url": "mail_display.php?timestamp=1695108441",
-        "date": "2023/09/19 15:27",
-        "department": "學務處畢業生及校友服務組",
-        "author": "陳良玫"
-    },
-    {
-        "title": "【交通宣導】112年中秋及國慶連假搭乘公路公共運輸享有多項優惠，請多加利用。",
-        "timestamp": "1695108310",
-        "url": "mail_display.php?timestamp=1695108310",
-        "date": "2023/09/19 15:25",
-        "department": "學務處生活輔導組",
-        "author": "林嘉瑩"
     }
 ]
