@@ -1,5 +1,13 @@
 [
     {
+        "title": "公共工程委員會之近期招標資訊摘錄",
+        "timestamp": "1695216259",
+        "url": "mail_display.php?timestamp=1695216259",
+        "date": "2023/09/20 21:24",
+        "department": "研發處",
+        "author": "蔡語棠"
+    },
+    {
         "title": "重要訊息【獎學金申請】112學年度「趙涵華博士華語文教育獎學金」受理申請，申請至112年9月30日止(第二次公告)",
         "timestamp": "1695210250",
         "url": "mail_display.php?timestamp=1695210250",
@@ -110,13 +118,5 @@
         "date": "2023/09/20 10:37",
         "department": "財務金融學系",
         "author": "林役霜"
-    },
-    {
-        "title": "112-1 國立東華大學「銀髮健身俱樂部」運動志工招募(第二次公告)",
-        "timestamp": "1695173923",
-        "url": "mail_display.php?timestamp=1695173923",
-        "date": "2023/09/20 09:38",
-        "department": "體育中心",
-        "author": "邱健榮"
     }
 ]
