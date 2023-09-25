@@ -1,5 +1,13 @@
 [
     {
+        "title": "公文系統主機今(9/20)日中午更新停機公告",
+        "timestamp": "1695178851",
+        "url": "mail_display.php?timestamp=1695178851",
+        "date": "2023/09/20 11:00",
+        "department": "總務處文書組",
+        "author": "黃章傑"
+    },
+    {
         "title": "112年9月20至30日辦理本校田園基地開放申請作業(第二次公告)",
         "timestamp": "1695177678",
         "url": "mail_display.php?timestamp=1695177678",
@@ -110,13 +118,5 @@
         "date": "2023/09/18 08:32",
         "department": "秘書室公關宣傳組",
         "author": "林佩瑤"
-    },
-    {
-        "title": "【重要訊息】112年9月「專題研究計畫聘任及薪資統一審查系統」關閉提醒，敬請查照。(第2次通知)",
-        "timestamp": "1694996388",
-        "url": "mail_display.php?timestamp=1694996388",
-        "date": "2023/09/18 08:19",
-        "department": "研發處",
-        "author": "劉乃綺"
     }
 ]
