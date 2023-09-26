@@ -1,5 +1,21 @@
 [
     {
+        "title": "E起來讀，電子資源推廣活動(C)",
+        "timestamp": "1695686109",
+        "url": "mail_display.php?timestamp=1695686109",
+        "date": "2023/09/26 07:55",
+        "department": "圖書資訊處 圖資服務組",
+        "author": "陳昱佐"
+    },
+    {
+        "title": "E起來讀，電子資源推廣活動(B)",
+        "timestamp": "1695686108",
+        "url": "mail_display.php?timestamp=1695686108",
+        "date": "2023/09/26 07:55",
+        "department": "圖書資訊處 圖資服務組",
+        "author": "陳昱佐"
+    },
+    {
         "title": "E起來讀，電子資源推廣活動(A)",
         "timestamp": "1695686107",
         "url": "mail_display.php?timestamp=1695686107",
@@ -102,21 +118,5 @@
         "date": "2023/09/25 15:49",
         "department": "研發處",
         "author": "洪乃慈"
-    },
-    {
-        "title": "【英美校友卓越講座】從航空業到科技業，職涯，啟動！－又名學姊的父權社會職場北漂記",
-        "timestamp": "1695621093",
-        "url": "mail_display.php?timestamp=1695621093",
-        "date": "2023/09/25 13:51",
-        "department": "英美語文學系",
-        "author": "劉珮萱"
-    },
-    {
-        "title": "【課務組通知】徵詢教師支援112學年度第2學期課程，有意協助開課教師請於10月6日前提出申請",
-        "timestamp": "1695613001",
-        "url": "mail_display.php?timestamp=1695613001",
-        "date": "2023/09/25 11:36",
-        "department": "教務處課務組",
-        "author": "宋育縈"
     }
 ]
