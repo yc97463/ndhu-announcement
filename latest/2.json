@@ -1,5 +1,21 @@
 [
     {
+        "title": "E起來讀，電子資源推廣活動(F)",
+        "timestamp": "1695686112",
+        "url": "mail_display.php?timestamp=1695686112",
+        "date": "2023/09/26 07:55",
+        "department": "圖書資訊處 圖資服務組",
+        "author": "陳昱佐"
+    },
+    {
+        "title": "E起來讀，電子資源推廣活動(E)",
+        "timestamp": "1695686111",
+        "url": "mail_display.php?timestamp=1695686111",
+        "date": "2023/09/26 07:55",
+        "department": "圖書資訊處 圖資服務組",
+        "author": "陳昱佐"
+    },
+    {
         "title": "E起來讀，電子資源推廣活動(D)",
         "timestamp": "1695686110",
         "url": "mail_display.php?timestamp=1695686110",
@@ -102,21 +118,5 @@
         "date": "2023/09/25 16:42",
         "department": "研發處創新育成中心",
         "author": "吳其璁"
-    },
-    {
-        "title": "【公告】國立東華大學第九任校長候選人治校理念說明會與意見交流",
-        "timestamp": "1695631078",
-        "url": "mail_display.php?timestamp=1695631078",
-        "date": "2023/09/25 16:37",
-        "department": "人事室",
-        "author": "陳建文"
-    },
-    {
-        "title": "[公告]臺北醫學大學公開徵求醫學資訊研究所所長候選人延長啟事",
-        "timestamp": "1695630763",
-        "url": "mail_display.php?timestamp=1695630763",
-        "date": "2023/09/25 16:32",
-        "department": "人事室",
-        "author": "巫仁凱"
     }
 ]

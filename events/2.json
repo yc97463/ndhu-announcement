@@ -1,5 +1,13 @@
 [
     {
+        "title": "E起來讀，電子資源推廣活動(E)",
+        "timestamp": "1695686111",
+        "url": "mail_display.php?timestamp=1695686111",
+        "date": "2023/09/26 07:55",
+        "department": "圖書資訊處 圖資服務組",
+        "author": "陳昱佐"
+    },
+    {
         "title": "E起來讀，電子資源推廣活動(D)",
         "timestamp": "1695686110",
         "url": "mail_display.php?timestamp=1695686110",
@@ -110,13 +118,5 @@
         "date": "2023/09/25 13:51",
         "department": "英美語文學系",
         "author": "劉珮萱"
-    },
-    {
-        "title": "運動不停歇．健康一起來 【淺談經絡保健】",
-        "timestamp": "1695608217",
-        "url": "mail_display.php?timestamp=1695608217",
-        "date": "2023/09/25 10:16",
-        "department": "體育中心",
-        "author": "張嘉珍"
     }
 ]
