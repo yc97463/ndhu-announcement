@@ -1,5 +1,13 @@
 [
     {
+        "title": "E起來讀，電子資源推廣活動(D)",
+        "timestamp": "1695686110",
+        "url": "mail_display.php?timestamp=1695686110",
+        "date": "2023/09/26 07:55",
+        "department": "圖書資訊處 圖資服務組",
+        "author": "陳昱佐"
+    },
+    {
         "title": "E起來讀，電子資源推廣活動(C)",
         "timestamp": "1695686109",
         "url": "mail_display.php?timestamp=1695686109",
@@ -110,13 +118,5 @@
         "date": "2023/09/25 16:32",
         "department": "人事室",
         "author": "巫仁凱"
-    },
-    {
-        "title": "【推廣教育】教育部來函為維護各校推廣教育教學品質及保障學員受教權益請依規辦理",
-        "timestamp": "1695628154",
-        "url": "mail_display.php?timestamp=1695628154",
-        "date": "2023/09/25 15:49",
-        "department": "研發處",
-        "author": "洪乃慈"
     }
 ]
