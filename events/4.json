@@ -1,5 +1,13 @@
 [
     {
+        "title": "E起來讀，電子資源推廣活動(B)",
+        "timestamp": "1695686108",
+        "url": "mail_display.php?timestamp=1695686108",
+        "date": "2023/09/26 07:55",
+        "department": "圖書資訊處 圖資服務組",
+        "author": "陳昱佐"
+    },
+    {
         "title": "E起來讀，電子資源推廣活動(A)",
         "timestamp": "1695686107",
         "url": "mail_display.php?timestamp=1695686107",
@@ -110,13 +118,5 @@
         "date": "2023/09/25 07:55",
         "department": "藝術學院 藝術與設計學系",
         "author": "陳紘崧"
-    },
-    {
-        "title": "【專題演講】紅學研究中心跨界對談--「正常人？噢，不！——《紅樓夢》與現代精神醫學的相遇」",
-        "timestamp": "1695599702",
-        "url": "mail_display.php?timestamp=1695599702",
-        "date": "2023/09/25 07:55",
-        "department": "人文社會科學學院 國際紅學研究中心",
-        "author": "朱嘉雯"
     }
 ]
