@@ -1,5 +1,13 @@
 [
     {
+        "title": "公共工程委員會之近期招標資訊摘錄",
+        "timestamp": "1695216259",
+        "url": "mail_display.php?timestamp=1695216259",
+        "date": "2023/09/20 21:24",
+        "department": "研發處",
+        "author": "蔡語棠"
+    },
+    {
         "title": "【防災演練】人社樓館112年度地震防災演練公告與說明 / 2023 Humanities and Social Sciences Buildings Earthquake Evacuation Drill Notice",
         "timestamp": "1695199539",
         "url": "mail_display.php?timestamp=1695199539",
@@ -110,13 +118,5 @@
         "date": "2023/09/17 23:12",
         "department": "研發處創新育成中心",
         "author": "吳其璁"
-    },
-    {
-        "title": "【人文學經典導讀系列講座】",
-        "timestamp": "1694920734",
-        "url": "mail_display.php?timestamp=1694920734",
-        "date": "2023/09/17 11:18",
-        "department": "人文社會科學學院",
-        "author": "姜妃澤"
     }
 ]
