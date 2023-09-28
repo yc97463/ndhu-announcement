@@ -1,5 +1,21 @@
 [
     {
+        "title": "[公告]臺北醫學大學公開徵求醫學院院長候選人延長公告啟事",
+        "timestamp": "1695886374",
+        "url": "mail_display.php?timestamp=1695886374",
+        "date": "2023/09/28 15:32",
+        "department": "人事室",
+        "author": "巫仁凱"
+    },
+    {
+        "title": "[公告]國立臺北科技大學公開徵求經營管理系系主任候選人啟事",
+        "timestamp": "1695885859",
+        "url": "mail_display.php?timestamp=1695885859",
+        "date": "2023/09/28 15:24",
+        "department": "人事室",
+        "author": "巫仁凱"
+    },
+    {
         "title": "教育部疫後就學貸款補助方案宣導",
         "timestamp": "1695884754",
         "url": "mail_display.php?timestamp=1695884754",
@@ -102,21 +118,5 @@
         "date": "2023/09/28 07:55",
         "department": "英語培力學術中心 培力組",
         "author": "林澄億"
-    },
-    {
-        "title": "【英培中心】Let's talk about... 線上英語會話：Physical and Mental Health",
-        "timestamp": "1695858905",
-        "url": "mail_display.php?timestamp=1695858905",
-        "date": "2023/09/28 07:55",
-        "department": "英語培力學術中心 培力組",
-        "author": "林澄億"
-    },
-    {
-        "title": "阿美族學生會迎新(限工作人員)",
-        "timestamp": "1695858904",
-        "url": "mail_display.php?timestamp=1695858904",
-        "date": "2023/09/28 07:55",
-        "department": "學務處 原住民族學生資源中心",
-        "author": "曾暐娟"
     }
 ]
