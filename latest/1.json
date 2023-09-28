@@ -1,5 +1,13 @@
 [
     {
+        "title": "【代轉學生會公告】東華學生會學術部二次招募",
+        "timestamp": "1695888464",
+        "url": "mail_display.php?timestamp=1695888464",
+        "date": "2023/09/28 16:07",
+        "department": "學務處課外活動組",
+        "author": "姜紫淇"
+    },
+    {
         "title": "[公告]臺北醫學大學公開徵求醫學院院長候選人延長公告啟事",
         "timestamp": "1695886374",
         "url": "mail_display.php?timestamp=1695886374",
@@ -110,13 +118,5 @@
         "date": "2023/09/28 07:55",
         "department": "環境暨海洋學院 校園環境中心",
         "author": "程曦"
-    },
-    {
-        "title": "【英培中心】Let's talk about... 線上英語會話：Science and Innovation",
-        "timestamp": "1695858906",
-        "url": "mail_display.php?timestamp=1695858906",
-        "date": "2023/09/28 07:55",
-        "department": "英語培力學術中心 培力組",
-        "author": "林澄億"
     }
 ]

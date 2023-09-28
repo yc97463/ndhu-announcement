@@ -1,5 +1,13 @@
 [
     {
+        "title": "國立東華大學理工學院徵聘校務基金助理一名",
+        "timestamp": "1695691807",
+        "url": "mail_display.php?timestamp=1695691807",
+        "date": "2023/09/26 09:30",
+        "department": "理工學院",
+        "author": "潘姿瑜"
+    },
+    {
         "title": "英倫牛津體驗營成果發表會",
         "timestamp": "1695691607",
         "url": "mail_display.php?timestamp=1695691607",
@@ -110,13 +118,5 @@
         "date": "2023/09/26 07:55",
         "department": "洄瀾學院 語言中心",
         "author": "呂岳芳"
-    },
-    {
-        "title": "E起來讀，電子資源推廣活動(F)",
-        "timestamp": "1695686112",
-        "url": "mail_display.php?timestamp=1695686112",
-        "date": "2023/09/26 07:55",
-        "department": "圖書資訊處 圖資服務組",
-        "author": "陳昱佐"
     }
 ]
