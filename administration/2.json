@@ -1,5 +1,13 @@
 [
     {
+        "title": "【兵役訊息】內政部辦理112年就讀專科以上83至93年次在學男子，申請分階段接受常備兵役軍事訓練，請於每年11月15日以前向戶籍地鄉（鎮、市、區）公所申請",
+        "timestamp": "1695602377",
+        "url": "mail_display.php?timestamp=1695602377",
+        "date": "2023/09/25 08:39",
+        "department": "學務處生活輔導組",
+        "author": "黃勇程"
+    },
+    {
         "title": "【圖書館公告】中秋節【112.09.29 (五)】休館一日！ Library will be Closed for Mid-autumn festival on September 29, 2023",
         "timestamp": "1695525099",
         "url": "mail_display.php?timestamp=1695525099",
@@ -110,13 +118,5 @@
         "date": "2023/09/20 11:22",
         "department": "學務處生活輔導組",
         "author": "黃勇程"
-    },
-    {
-        "title": "公文系統主機今(9/20)日中午更新停機公告",
-        "timestamp": "1695178851",
-        "url": "mail_display.php?timestamp=1695178851",
-        "date": "2023/09/20 11:00",
-        "department": "總務處文書組",
-        "author": "黃章傑"
     }
 ]
