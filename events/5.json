@@ -1,5 +1,13 @@
 [
     {
+        "title": "E起來讀，原創性比對系統教育訓練(B)",
+        "timestamp": "1695686117",
+        "url": "mail_display.php?timestamp=1695686117",
+        "date": "2023/09/26 07:55",
+        "department": "圖書資訊處 圖資服務組",
+        "author": "陳昱佐"
+    },
+    {
         "title": "E起來讀，原創性比對系統教育訓練(A)",
         "timestamp": "1695686116",
         "url": "mail_display.php?timestamp=1695686116",
@@ -110,13 +118,5 @@
         "date": "2023/09/26 07:55",
         "department": "學務處 生活輔導組",
         "author": "黃勇程"
-    },
-    {
-        "title": "電影欣賞:你在我心上",
-        "timestamp": "1695686102",
-        "url": "mail_display.php?timestamp=1695686102",
-        "date": "2023/09/26 07:55",
-        "department": "圖書資訊處 圖資服務組",
-        "author": "廖銘珠"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "中國語文學系【民間文學講座】12/27‧林仁昱教授演講",
+        "timestamp": "1695772507",
+        "url": "mail_display.php?timestamp=1695772507",
+        "date": "2023/09/27 07:55",
+        "department": "人文社會科學學院 中國語文學系",
+        "author": "駱星羽"
+    },
+    {
         "title": "中國語文學系【海洋文學講座】11/30‧吳智雄教授演講",
         "timestamp": "1695772506",
         "url": "mail_display.php?timestamp=1695772506",
@@ -110,13 +118,5 @@
         "date": "2023/09/26 16:36",
         "department": "學務處",
         "author": "王玉君"
-    },
-    {
-        "title": "急救訓練課程招生",
-        "timestamp": "1695716600",
-        "url": "mail_display.php?timestamp=1695716600",
-        "date": "2023/09/26 16:23",
-        "department": "學務處衛生保健組",
-        "author": "楊曉青"
     }
 ]
