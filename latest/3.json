@@ -1,5 +1,29 @@
 [
     {
+        "title": "【用創意行動讓夢想實踐】進階課程(歡迎參加)",
+        "timestamp": "1698368399",
+        "url": "mail_display.php?timestamp=1698368399",
+        "date": "2023/10/27 08:59",
+        "department": "研發處創新育成中心",
+        "author": "吳其璁"
+    },
+    {
+        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
+        "timestamp": "1698367167",
+        "url": "mail_display.php?timestamp=1698367167",
+        "date": "2023/10/27 08:39",
+        "department": "圖書資訊處校務系統組",
+        "author": "林志軒"
+    },
+    {
+        "title": "ISMS教育訓練-資安新聞宣導課程",
+        "timestamp": "1698366369",
+        "url": "mail_display.php?timestamp=1698366369",
+        "date": "2023/10/27 08:26",
+        "department": "圖書資訊處網路管理組",
+        "author": "劉維忠"
+    },
+    {
         "title": "【112-1學期資管演講】台灣5G專網發展現況 (座位有限不提供現場報名)",
         "timestamp": "1698364504",
         "url": "mail_display.php?timestamp=1698364504",
@@ -94,29 +118,5 @@
         "date": "2023/10/26 10:50",
         "department": "總務處事務組",
         "author": "羅靖雯"
-    },
-    {
-        "title": "尚未辦理112學年度第1學期兵役緩徵、儘召網路登錄之役男請注意",
-        "timestamp": "1698286505",
-        "url": "mail_display.php?timestamp=1698286505",
-        "date": "2023/10/26 10:15",
-        "department": "學務處生活輔導組",
-        "author": "黃勇程"
-    },
-    {
-        "title": "【光電系演講】斜槓人生的量子思維",
-        "timestamp": "1698278110",
-        "url": "mail_display.php?timestamp=1698278110",
-        "date": "2023/10/26 07:55",
-        "department": "理工學院 光電工程學系",
-        "author": "劉碧純"
-    },
-    {
-        "title": "【光電/電機系聯合演講】Harnessing the Power of Compound Semiconductors: Cu(In, Ga)Se2 Thin Film Solar Cells",
-        "timestamp": "1698278109",
-        "url": "mail_display.php?timestamp=1698278109",
-        "date": "2023/10/26 07:55",
-        "department": "理工學院 光電工程學系",
-        "author": "劉碧純"
     }
 ]
