@@ -1,5 +1,13 @@
 [
     {
+        "title": "提醒防颱準備",
+        "timestamp": "1696312244",
+        "url": "mail_display.php?timestamp=1696312244",
+        "date": "2023/10/03 13:50",
+        "department": "總務處事務組",
+        "author": "羅靖雯"
+    },
+    {
         "title": "【海上陸上颱風警報】「小犬」海上陸上警報已於本日(3日)12:15發布，請注意！The Central Weather Bureau Typhoon Watch Advisory 【KOINU】",
         "timestamp": "1696310764",
         "url": "mail_display.php?timestamp=1696310764",
@@ -110,13 +118,5 @@
         "date": "2023/09/28 08:57",
         "department": "主計室",
         "author": "曾俊達"
-    },
-    {
-        "title": "【宣導】無菸校園相關規定",
-        "timestamp": "1695802171",
-        "url": "mail_display.php?timestamp=1695802171",
-        "date": "2023/09/27 16:09",
-        "department": "學務處衛生保健組",
-        "author": "楊曉青"
     }
 ]
