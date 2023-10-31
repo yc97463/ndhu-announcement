@@ -1,5 +1,13 @@
 [
     {
+        "title": "校園健走~一起感受美麗校園!!",
+        "timestamp": "1698729151",
+        "url": "mail_display.php?timestamp=1698729151",
+        "date": "2023/10/31 13:12",
+        "department": "學務處衛生保健組",
+        "author": "楊曉青"
+    },
+    {
         "title": "「健康DIY，經絡保健實作」運動講座",
         "timestamp": "1698723614",
         "url": "mail_display.php?timestamp=1698723614",
@@ -110,13 +118,5 @@
         "date": "2023/10/31 07:55",
         "department": "藝術學院 藝術創意產業學系",
         "author": "謝明海"
-    },
-    {
-        "title": "(資工系)校友講座－11/23(四) 林育慈 校友(學士班第16屆畢業)",
-        "timestamp": "1698710101",
-        "url": "mail_display.php?timestamp=1698710101",
-        "date": "2023/10/31 07:55",
-        "department": "理工學院 資訊工程學系",
-        "author": "葉子綺"
     }
 ]

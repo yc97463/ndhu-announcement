@@ -1,5 +1,13 @@
 [
     {
+        "title": "【Cashier Section】Reminder: The due date for paying the credit fees for the first semester of 2023 academic year is approaching.",
+        "timestamp": "1698309243",
+        "url": "mail_display.php?timestamp=1698309243",
+        "date": "2023/10/26 16:34",
+        "department": "總務處出納組",
+        "author": "鄧瑞美"
+    },
+    {
         "title": "提醒112學年度第1學期加選學分費繳費期限將屆",
         "timestamp": "1698309058",
         "url": "mail_display.php?timestamp=1698309058",
@@ -110,13 +118,5 @@
         "date": "2023/10/26 07:55",
         "department": "管理學院 觀光暨休閒遊憩學系",
         "author": "汪欣新"
-    },
-    {
-        "title": "初領車證新生交通安全宣導活動11月共兩場，有意申領校園車輛識別證同學，盡速上網報名。",
-        "timestamp": "1698277013",
-        "url": "mail_display.php?timestamp=1698277013",
-        "date": "2023/10/26 07:36",
-        "department": "學務處生活輔導組",
-        "author": "林嘉瑩"
     }
 ]
