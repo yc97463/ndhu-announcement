@@ -1,5 +1,13 @@
 [
     {
+        "title": "自資系專題演講-社會革新與社區在臺灣東部的實踐",
+        "timestamp": "1698278106",
+        "url": "mail_display.php?timestamp=1698278106",
+        "date": "2023/10/26 07:55",
+        "department": "環境暨海洋學院 自然資源與環境學系",
+        "author": "夏懿心"
+    },
+    {
         "title": "海洋推廣教育課程-6",
         "timestamp": "1698278105",
         "url": "mail_display.php?timestamp=1698278105",
@@ -110,13 +118,5 @@
         "date": "2023/10/25 07:55",
         "department": "管理學院 會計學系",
         "author": "吳佳玟"
-    },
-    {
-        "title": "華語師資培力工作坊",
-        "timestamp": "1698191709",
-        "url": "mail_display.php?timestamp=1698191709",
-        "date": "2023/10/25 07:55",
-        "department": "洄瀾學院 華語文中心",
-        "author": "黃韻竹"
     }
 ]
