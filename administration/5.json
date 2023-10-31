@@ -1,5 +1,21 @@
 [
     {
+        "title": "【學生宿舍】未領取寄放宿舍行李與物品之同學，請儘速領取",
+        "timestamp": "1696318063",
+        "url": "mail_display.php?timestamp=1696318063",
+        "date": "2023/10/03 15:27",
+        "department": "學務處",
+        "author": "鍾佩玲"
+    },
+    {
+        "title": "【代轉學生會公告】第九任校長遴選候選人座談會- 其昂帶你走一遭～ 歡迎參加 10 月 05 日第二場座談會～",
+        "timestamp": "1696317517",
+        "url": "mail_display.php?timestamp=1696317517",
+        "date": "2023/10/03 15:18",
+        "department": "學務處課外活動組",
+        "author": "姜紫淇"
+    },
+    {
         "title": "(第二次公告)113年1～6月份「推動國際學術合作交流補助」計畫於10月15日至10月27日受理申請。",
         "timestamp": "1696314850",
         "url": "mail_display.php?timestamp=1696314850",
@@ -100,22 +116,6 @@
         "timestamp": "1695890879",
         "url": "mail_display.php?timestamp=1695890879",
         "date": "2023/09/28 16:47",
-        "department": "學務處課外活動組",
-        "author": "姜紫淇"
-    },
-    {
-        "title": "【代轉學生會公告】第九任校長遴選候選人座談會 -東華的未來，輝常光明！歡迎參加10月03日第一場座談會～",
-        "timestamp": "1695890866",
-        "url": "mail_display.php?timestamp=1695890866",
-        "date": "2023/09/28 16:47",
-        "department": "學務處課外活動組",
-        "author": "姜紫淇"
-    },
-    {
-        "title": "【代轉學生會公告】東華學生會學術部二次招募",
-        "timestamp": "1695888464",
-        "url": "mail_display.php?timestamp=1695888464",
-        "date": "2023/09/28 16:07",
         "department": "學務處課外活動組",
         "author": "姜紫淇"
     }

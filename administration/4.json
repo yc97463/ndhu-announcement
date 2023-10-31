@@ -1,5 +1,21 @@
 [
     {
+        "title": "本校垃圾車暫停清運公告。",
+        "timestamp": "1696410268",
+        "url": "mail_display.php?timestamp=1696410268",
+        "date": "2023/10/04 17:04",
+        "department": "總務處環境保護組",
+        "author": "許智翔"
+    },
+    {
+        "title": "【交通安全宣導】國慶連假交通安全教育宣導及遵守志學火車站停車規定",
+        "timestamp": "1696410064",
+        "url": "mail_display.php?timestamp=1696410064",
+        "date": "2023/10/04 17:01",
+        "department": "學務處生活輔導組",
+        "author": "林嘉瑩"
+    },
+    {
         "title": "【圖書館公告】調整放假及國慶日【112.10.09-10 (一至二)】休館二日！ Library will be Closed for National Day on October 09-10, 2023",
         "timestamp": "1696407934",
         "url": "mail_display.php?timestamp=1696407934",
@@ -102,21 +118,5 @@
         "date": "2023/10/03 15:28",
         "department": "學務處",
         "author": "鍾佩玲"
-    },
-    {
-        "title": "【學生宿舍】未領取寄放宿舍行李與物品之同學，請儘速領取",
-        "timestamp": "1696318063",
-        "url": "mail_display.php?timestamp=1696318063",
-        "date": "2023/10/03 15:27",
-        "department": "學務處",
-        "author": "鍾佩玲"
-    },
-    {
-        "title": "【代轉學生會公告】第九任校長遴選候選人座談會- 其昂帶你走一遭～ 歡迎參加 10 月 05 日第二場座談會～",
-        "timestamp": "1696317517",
-        "url": "mail_display.php?timestamp=1696317517",
-        "date": "2023/10/03 15:18",
-        "department": "學務處課外活動組",
-        "author": "姜紫淇"
     }
 ]
