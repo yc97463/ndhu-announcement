@@ -1,5 +1,13 @@
 [
     {
+        "title": "🎙️畢業歌徵選開始囉！！🎙️",
+        "timestamp": "1698823081",
+        "url": "mail_display.php?timestamp=1698823081",
+        "date": "2023/11/01 15:18",
+        "department": "學務處畢業生及校友服務組",
+        "author": "溫小姐"
+    },
+    {
         "title": "【敬邀參加】藝術學院2023教授聯展開幕活動",
         "timestamp": "1698821599",
         "url": "mail_display.php?timestamp=1698821599",
@@ -110,13 +118,5 @@
         "date": "2023/10/31 16:28",
         "department": "研發處",
         "author": "劉美卿"
-    },
-    {
-        "title": "Chung-Ang University International Winter Program 2024",
-        "timestamp": "1698733922",
-        "url": "mail_display.php?timestamp=1698733922",
-        "date": "2023/10/31 14:32",
-        "department": "國際事務處國際合作組",
-        "author": "梁忠誠"
     }
 ]
