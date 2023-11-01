@@ -1,5 +1,13 @@
 [
     {
+        "title": "【國立東華大學藝術學院18周年院慶紀念系列活動】",
+        "timestamp": "1698210939",
+        "url": "mail_display.php?timestamp=1698210939",
+        "date": "2023/10/25 13:15",
+        "department": "藝術學院",
+        "author": "黃小姐"
+    },
+    {
         "title": "【公告】勞動部​檢送「113年全國模範勞工選拔及表揚要點」1份，請於112年11月30日（以郵戳為憑）前，推薦「企（產）業勞工組」符合資格者參與選拔。",
         "timestamp": "1698200339",
         "url": "mail_display.php?timestamp=1698200339",
@@ -110,13 +118,5 @@
         "date": "2023/10/24 17:56",
         "department": "教學卓越中心",
         "author": "陳禮凡"
-    },
-    {
-        "title": "【講座公告】華語師資培力工作坊",
-        "timestamp": "1698139649",
-        "url": "mail_display.php?timestamp=1698139649",
-        "date": "2023/10/24 17:27",
-        "department": "華語文中心",
-        "author": "黃韻竹"
     }
 ]
