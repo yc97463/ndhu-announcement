@@ -1,5 +1,29 @@
 [
     {
+        "title": "行政會議及擴大行政會議 會議紀錄公告通知",
+        "timestamp": "1698817022",
+        "url": "mail_display.php?timestamp=1698817022",
+        "date": "2023/11/01 13:37",
+        "department": "秘書室議事公文組",
+        "author": "陳婉婉"
+    },
+    {
+        "title": "【課務組】112-1專任(案)教師授課時數確認通知（請於11/30前完成，謝謝！）",
+        "timestamp": "1698816566",
+        "url": "mail_display.php?timestamp=1698816566",
+        "date": "2023/11/01 13:29",
+        "department": "教務處課務組",
+        "author": "課務組"
+    },
+    {
+        "title": "理二B區電梯維修停用公告",
+        "timestamp": "1698816475",
+        "url": "mail_display.php?timestamp=1698816475",
+        "date": "2023/11/01 13:27",
+        "department": "總務處營繕組",
+        "author": "劉宏銘"
+    },
+    {
         "title": "【出納組公告】本校教職員工台企薪轉帳戶新增手續費優惠說明",
         "timestamp": "1698809763",
         "url": "mail_display.php?timestamp=1698809763",
@@ -94,29 +118,5 @@
         "date": "2023/10/27 14:36",
         "department": "總務處環境保護組",
         "author": "余承鴻"
-    },
-    {
-        "title": "【法規宣導】計畫專任人員資遣問題",
-        "timestamp": "1698384370",
-        "url": "mail_display.php?timestamp=1698384370",
-        "date": "2023/10/27 13:26",
-        "department": "研發處",
-        "author": "劉乃綺"
-    },
-    {
-        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
-        "timestamp": "1698367167",
-        "url": "mail_display.php?timestamp=1698367167",
-        "date": "2023/10/27 08:39",
-        "department": "圖書資訊處校務系統組",
-        "author": "林志軒"
-    },
-    {
-        "title": "【Cashier Section】Reminder: The due date for paying the credit fees for the first semester of 2023 academic year is approaching.",
-        "timestamp": "1698309243",
-        "url": "mail_display.php?timestamp=1698309243",
-        "date": "2023/10/26 16:34",
-        "department": "總務處出納組",
-        "author": "鄧瑞美"
     }
 ]
