@@ -1,5 +1,13 @@
 [
     {
+        "title": "【獎助學金申請】勞動部112-1失業勞工子女就學補助",
+        "timestamp": "1695001353",
+        "url": "mail_display.php?timestamp=1695001353",
+        "date": "2023/09/18 09:42",
+        "department": "學務處",
+        "author": "葉俊良"
+    },
+    {
         "title": "【獎助學金申請】彰化縣112-1自強優秀學生獎學金 (限彰化縣籍)",
         "timestamp": "1694999901",
         "url": "mail_display.php?timestamp=1694999901",
@@ -110,13 +118,5 @@
         "date": "2023/09/12 08:37",
         "department": "學務處",
         "author": "葉俊良"
-    },
-    {
-        "title": "東華大學數位學伴中心 - 112-1 學期大學伴招募公告",
-        "timestamp": "1694433057",
-        "url": "mail_display.php?timestamp=1694433057",
-        "date": "2023/09/11 19:50",
-        "department": "花師教育學院",
-        "author": "楊語申"
     }
 ]
