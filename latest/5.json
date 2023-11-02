@@ -1,5 +1,21 @@
 [
     {
+        "title": "【藝起同樂】112.11.10『藝家烤肉。萬家香』(限本系大一，認證2小時)",
+        "timestamp": "1698710102",
+        "url": "mail_display.php?timestamp=1698710102",
+        "date": "2023/10/31 07:55",
+        "department": "藝術學院 藝術創意產業學系",
+        "author": "謝明海"
+    },
+    {
+        "title": "(資工系)校友講座－11/23(四) 林育慈 校友(學士班第16屆畢業)",
+        "timestamp": "1698710101",
+        "url": "mail_display.php?timestamp=1698710101",
+        "date": "2023/10/31 07:55",
+        "department": "理工學院 資訊工程學系",
+        "author": "葉子綺"
+    },
+    {
         "title": "【公告】國立東華大學第九任校長遴選結果",
         "timestamp": "1698656997",
         "url": "mail_display.php?timestamp=1698656997",
@@ -102,21 +118,5 @@
         "date": "2023/10/29 07:55",
         "department": "圖書資訊處 圖資服務組",
         "author": "廖銘珠"
-    },
-    {
-        "title": "【獎助學金申請】主計協進社112年主計獎學金 (限會計、統計相關學系)",
-        "timestamp": "1698506594",
-        "url": "mail_display.php?timestamp=1698506594",
-        "date": "2023/10/28 23:23",
-        "department": "學務處",
-        "author": "葉俊良"
-    },
-    {
-        "title": "【獎助學金申請】台北市雨揚慈善基金會112-1弱勢學子獎助學金",
-        "timestamp": "1698504099",
-        "url": "mail_display.php?timestamp=1698504099",
-        "date": "2023/10/28 22:41",
-        "department": "學務處",
-        "author": "葉俊良"
     }
 ]
