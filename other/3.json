@@ -1,5 +1,13 @@
 [
     {
+        "title": "公共工程委員會之近期招標資訊公告摘錄",
+        "timestamp": "1697879730",
+        "url": "mail_display.php?timestamp=1697879730",
+        "date": "2023/10/21 17:15",
+        "department": "研發處",
+        "author": "蔡語棠"
+    },
+    {
         "title": "【徵才公告】國際事務處徵聘國際專修部-校務基金助理乙名（延長徵件至10/31）",
         "timestamp": "1697784499",
         "url": "mail_display.php?timestamp=1697784499",
@@ -110,13 +118,5 @@
         "date": "2023/10/13 14:06",
         "department": "教務處課務組",
         "author": "課務組"
-    },
-    {
-        "title": "Weather is getting changeable,please keep warm! !",
-        "timestamp": "1697159707",
-        "url": "mail_display.php?timestamp=1697159707",
-        "date": "2023/10/13 09:15",
-        "department": "學務處衛生保健組",
-        "author": "王惠貞"
     }
 ]
