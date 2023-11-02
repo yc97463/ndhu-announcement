@@ -1,5 +1,13 @@
 [
     {
+        "title": "【圖書館公告】期中考延長開館時間。[Library NOTICE] Library Extended Opening Hours for Study and Exam Periods.",
+        "timestamp": "1698890417",
+        "url": "mail_display.php?timestamp=1698890417",
+        "date": "2023/11/02 10:00",
+        "department": "圖書資訊處圖資服務組",
+        "author": "詹依萍"
+    },
+    {
         "title": "行政會議及擴大行政會議 會議紀錄公告通知",
         "timestamp": "1698817022",
         "url": "mail_display.php?timestamp=1698817022",
@@ -110,13 +118,5 @@
         "date": "2023/10/30 14:19",
         "department": "社會參與中心",
         "author": "葉小姐"
-    },
-    {
-        "title": "112年11月份全校綠地除草維護時間及施作區域公告",
-        "timestamp": "1698388572",
-        "url": "mail_display.php?timestamp=1698388572",
-        "date": "2023/10/27 14:36",
-        "department": "總務處環境保護組",
-        "author": "余承鴻"
     }
 ]
