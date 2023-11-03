@@ -1,5 +1,13 @@
 [
     {
+        "title": "校園健走~一起感受美麗校園!!",
+        "timestamp": "1698969303",
+        "url": "mail_display.php?timestamp=1698969303",
+        "date": "2023/11/03 07:55",
+        "department": "學務處 衛生保健組",
+        "author": "楊曉青"
+    },
+    {
         "title": "【資工系專題講座】11/17(五) 財團法人國家實驗研究院台灣半導體研究中心 丁明盛技術師",
         "timestamp": "1698969302",
         "url": "mail_display.php?timestamp=1698969302",
@@ -110,13 +118,5 @@
         "date": "2023/11/02 11:10",
         "department": "人事室",
         "author": "陳建文"
-    },
-    {
-        "title": "【圖書館公告】期中考延長開館時間。[Library NOTICE] Library Extended Opening Hours for Study and Exam Periods.",
-        "timestamp": "1698890417",
-        "url": "mail_display.php?timestamp=1698890417",
-        "date": "2023/11/02 10:00",
-        "department": "圖書資訊處圖資服務組",
-        "author": "詹依萍"
     }
 ]
