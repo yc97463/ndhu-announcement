@@ -1,5 +1,21 @@
 [
     {
+        "title": "《2023幼教系光棍傳情系列活動—幼！我喜歡你》",
+        "timestamp": "1699002244",
+        "url": "mail_display.php?timestamp=1699002244",
+        "date": "2023/11/03 17:04",
+        "department": "幼兒教育學系",
+        "author": "林同學"
+    },
+    {
+        "title": "籃球比賽-校慶系列活動",
+        "timestamp": "1699001210",
+        "url": "mail_display.php?timestamp=1699001210",
+        "date": "2023/11/03 16:46",
+        "department": "體育中心",
+        "author": "校慶運動會工作小組"
+    },
+    {
         "title": "2023 年校慶運動會系列活動—籃球賽，即日起開始報名。",
         "timestamp": "1699000283",
         "url": "mail_display.php?timestamp=1699000283",
@@ -102,21 +118,5 @@
         "date": "2023/11/02 16:02",
         "department": "國際事務處國際合作組",
         "author": "梁忠誠"
-    },
-    {
-        "title": "【吉林大學】第二十屆台灣學生“北國風情”冬令營",
-        "timestamp": "1698911829",
-        "url": "mail_display.php?timestamp=1698911829",
-        "date": "2023/11/02 15:57",
-        "department": "國際事務處國際合作組",
-        "author": "梁忠誠"
-    },
-    {
-        "title": "【活動公告】第14屆金漫獎入圍作品展",
-        "timestamp": "1698908080",
-        "url": "mail_display.php?timestamp=1698908080",
-        "date": "2023/11/02 14:54",
-        "department": "圖書資訊處圖資服務組",
-        "author": "廖銘珠"
     }
 ]
