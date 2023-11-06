@@ -1,5 +1,13 @@
 [
     {
+        "title": "務農體驗工作坊",
+        "timestamp": "1699142105",
+        "url": "mail_display.php?timestamp=1699142105",
+        "date": "2023/11/05 07:55",
+        "department": "管理學院 國際企業學系",
+        "author": "蔡季芸"
+    },
+    {
         "title": "【企管系專題講座】策略轉型：從技術專家到策略思考者的旅程",
         "timestamp": "1699142104",
         "url": "mail_display.php?timestamp=1699142104",
@@ -110,13 +118,5 @@
         "date": "2023/11/04 07:55",
         "department": "人文社會科學學院 英美語文學系",
         "author": "劉珮萱"
-    },
-    {
-        "title": "12/08【華文系友講座】張瀚翔先生、蔡易澄先生",
-        "timestamp": "1699055709",
-        "url": "mail_display.php?timestamp=1699055709",
-        "date": "2023/11/04 07:55",
-        "department": "人文社會科學學院 華文文學系",
-        "author": "伍佳雯"
     }
 ]
