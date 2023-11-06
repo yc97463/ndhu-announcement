@@ -1,5 +1,13 @@
 [
     {
+        "title": "本校體育館、體能訓練室因小犬颱風影響暫停開放。",
+        "timestamp": "1696412245",
+        "url": "mail_display.php?timestamp=1696412245",
+        "date": "2023/10/04 17:37",
+        "department": "體育中心",
+        "author": "沈正雄"
+    },
+    {
         "title": "本校垃圾車暫停清運公告。",
         "timestamp": "1696410268",
         "url": "mail_display.php?timestamp=1696410268",
@@ -110,13 +118,5 @@
         "date": "2023/10/03 16:17",
         "department": "圖書資訊處綜合業務組",
         "author": "林循美"
-    },
-    {
-        "title": "【Student Dormitory】Please claim personal belongings in the storage area as soon as possible",
-        "timestamp": "1696318128",
-        "url": "mail_display.php?timestamp=1696318128",
-        "date": "2023/10/03 15:28",
-        "department": "學務處",
-        "author": "鍾佩玲"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "【公告】本校舉辦第九任校長候選人認可投票作業說明",
+        "timestamp": "1697197428",
+        "url": "mail_display.php?timestamp=1697197428",
+        "date": "2023/10/13 19:43",
+        "department": "人事室",
+        "author": "陳建文"
+    },
+    {
         "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
         "timestamp": "1697099397",
         "url": "mail_display.php?timestamp=1697099397",
@@ -110,13 +118,5 @@
         "date": "2023/10/04 17:58",
         "department": "人事室",
         "author": "陳建文"
-    },
-    {
-        "title": "本校體育館、體能訓練室因小犬颱風影響暫停開放。",
-        "timestamp": "1696412245",
-        "url": "mail_display.php?timestamp=1696412245",
-        "date": "2023/10/04 17:37",
-        "department": "體育中心",
-        "author": "沈正雄"
     }
 ]

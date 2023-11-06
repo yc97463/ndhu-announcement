@@ -1,5 +1,21 @@
 [
     {
+        "title": "【企管系暨運籌所】校友卓越講座",
+        "timestamp": "1699142102",
+        "url": "mail_display.php?timestamp=1699142102",
+        "date": "2023/11/05 07:55",
+        "department": "管理學院 企業管理學系",
+        "author": "陳雅芳"
+    },
+    {
+        "title": "【112-1 帶著性別的眼睛去旅行：性別教育與文化觀光講座】身體上的旅行來回穿梭具象的國境邊界",
+        "timestamp": "1699142101",
+        "url": "mail_display.php?timestamp=1699142101",
+        "date": "2023/11/05 07:55",
+        "department": "花師教育學院 教育與潛能開發學系",
+        "author": "張德勝"
+    },
+    {
         "title": "本日(11/04)下午因自來水公司搶修停水公告",
         "timestamp": "1699086784",
         "url": "mail_display.php?timestamp=1699086784",
@@ -102,21 +118,5 @@
         "date": "2023/11/04 07:55",
         "department": "理工學院 電機工程學系",
         "author": "邱昭儒"
-    },
-    {
-        "title": "【電機系】參加東華2023校慶運動會開幕典禮（限本系學生報名）",
-        "timestamp": "1699055706",
-        "url": "mail_display.php?timestamp=1699055706",
-        "date": "2023/11/04 07:55",
-        "department": "理工學院 電機工程學系",
-        "author": "楊嘉琳"
-    },
-    {
-        "title": "112年「校友卓越講座」-【教行系】小文藝週暨校友回娘家《嘿!大學生活規劃書》",
-        "timestamp": "1699055705",
-        "url": "mail_display.php?timestamp=1699055705",
-        "date": "2023/11/04 07:55",
-        "department": "花師教育學院 教育行政與管理學系",
-        "author": "莊璦綺"
     }
 ]
