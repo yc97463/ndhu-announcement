@@ -1,5 +1,13 @@
 [
     {
+        "title": "兩性平等教育",
+        "timestamp": "1699055702",
+        "url": "mail_display.php?timestamp=1699055702",
+        "date": "2023/11/04 07:55",
+        "department": "花師教育學院 體育與運動科學系",
+        "author": "蔡依珊"
+    },
+    {
         "title": "【臺灣系】專題演講－台灣荷治時期熱蘭遮與普羅民遮的建築與空間之重建研究",
         "timestamp": "1699055701",
         "url": "mail_display.php?timestamp=1699055701",
@@ -110,13 +118,5 @@
         "date": "2023/11/03 07:55",
         "department": "學務處 課外活動組",
         "author": "鄭淑亭"
-    },
-    {
-        "title": "【觀遊系專題講座】餐旅業二三事",
-        "timestamp": "1698969305",
-        "url": "mail_display.php?timestamp=1698969305",
-        "date": "2023/11/03 07:55",
-        "department": "管理學院 觀光暨休閒遊憩學系",
-        "author": "莊月玲"
     }
 ]
