@@ -1,5 +1,13 @@
 [
     {
+        "title": "本日(11/04)下午因自來水公司搶修停水公告",
+        "timestamp": "1699086781",
+        "url": "mail_display.php?timestamp=1699086781",
+        "date": "2023/11/04 16:33",
+        "department": "總務處營繕組",
+        "author": "劉宏銘"
+    },
+    {
         "title": "2023台灣國際女性影展花蓮巡迴場_《交易 Charcoal》",
         "timestamp": "1699055717",
         "url": "mail_display.php?timestamp=1699055717",
@@ -110,13 +118,5 @@
         "date": "2023/11/04 07:55",
         "department": "理工學院 生命科學系",
         "author": "元淑英"
-    },
-    {
-        "title": "〔跨域就業GET系列講座〕證明存在—公證人職涯業務分享",
-        "timestamp": "1699055703",
-        "url": "mail_display.php?timestamp=1699055703",
-        "date": "2023/11/04 07:55",
-        "department": "人文社會科學學院 法律學系",
-        "author": "黃亦靖"
     }
 ]
