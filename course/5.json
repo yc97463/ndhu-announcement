@@ -1,5 +1,13 @@
 [
     {
+        "title": "【課務組公告】請注意網路加退選時間 Please Notice the Period for Online Add/Drop Courses",
+        "timestamp": "1694413547",
+        "url": "mail_display.php?timestamp=1694413547",
+        "date": "2023/09/11 14:25",
+        "department": "教務處課務組",
+        "author": "課務組"
+    },
+    {
         "title": "【人文學經典導讀系列講座】9/15讀墨電子書龐文真執行長｜人文經典如何讀？紙本書與電子書之間",
         "timestamp": "1694411207",
         "url": "mail_display.php?timestamp=1694411207",
@@ -110,13 +118,5 @@
         "date": "2023/09/04 10:38",
         "department": "社會參與中心",
         "author": "曲小姐"
-    },
-    {
-        "title": "【還不知道新學期修什麼課？ 或許這堂玩遊戲的很適合你！】",
-        "timestamp": "1693578469",
-        "url": "mail_display.php?timestamp=1693578469",
-        "date": "2023/09/01 22:27",
-        "department": "管理學院",
-        "author": "洄瀾共好大學社會責任中心"
     }
 ]
