@@ -1,11 +1,19 @@
 [
     {
-        "title": "test",
-        "timestamp": "1699410709",
-        "url": "mail_display.php?timestamp=1699410709",
-        "date": "2023/11/08 10:31",
-        "department": "圖書資訊處圖資服務組",
-        "author": "honda"
+        "title": "瑜伽與聲音療癒  講座",
+        "timestamp": "1699415519",
+        "url": "mail_display.php?timestamp=1699415519",
+        "date": "2023/11/08 11:51",
+        "department": "體育中心",
+        "author": "體育中心"
+    },
+    {
+        "title": "因「無卡分期」手法遭詐騙-法扶基金會提供免費法律諮詢",
+        "timestamp": "1699414924",
+        "url": "mail_display.php?timestamp=1699414924",
+        "date": "2023/11/08 11:42",
+        "department": "學務處",
+        "author": "劉豫海"
     },
     {
         "title": "【賀】本校111學年度教師行政服務獎章獎勵金發放名冊",
@@ -108,14 +116,6 @@
         "timestamp": "1699372000",
         "url": "mail_display.php?timestamp=1699372000",
         "date": "2023/11/07 23:46",
-        "department": "管理學院",
-        "author": "洄瀾共好大學社會責任中心"
-    },
-    {
-        "title": "東華同學注意了！新世代青年城市論壇-東華大學最強卡司，參加提供跨域學習時數認證",
-        "timestamp": "1699371817",
-        "url": "mail_display.php?timestamp=1699371817",
-        "date": "2023/11/07 23:43",
         "department": "管理學院",
         "author": "洄瀾共好大學社會責任中心"
     }
