@@ -1,5 +1,13 @@
 [
     {
+        "title": "【課務組】敬請教師切勿於上課點名單上揭露學生隱私資料",
+        "timestamp": "1699508187",
+        "url": "mail_display.php?timestamp=1699508187",
+        "date": "2023/11/09 13:36",
+        "department": "教務處課務組",
+        "author": "課務組"
+    },
+    {
         "title": "校務行政系統主機線路調整",
         "timestamp": "1699435768",
         "url": "mail_display.php?timestamp=1699435768",
@@ -110,13 +118,5 @@
         "date": "2023/11/03 17:30",
         "department": "秘書室議事公文組",
         "author": "陳婉婉"
-    },
-    {
-        "title": "【圖書館公告】期中考延長開館時間。[Library NOTICE] Library Extended Opening Hours for Study and Exam Periods.",
-        "timestamp": "1698890417",
-        "url": "mail_display.php?timestamp=1698890417",
-        "date": "2023/11/02 10:00",
-        "department": "圖書資訊處圖資服務組",
-        "author": "詹依萍"
     }
 ]
