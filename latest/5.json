@@ -1,5 +1,13 @@
 [
     {
+        "title": "電影欣賞:你家還不是我家",
+        "timestamp": "1699314901",
+        "url": "mail_display.php?timestamp=1699314901",
+        "date": "2023/11/07 07:55",
+        "department": "圖書資訊處 圖資服務組",
+        "author": "廖銘珠"
+    },
+    {
         "title": "112年11月10日至12日辦理全校建築物室外病媒防治消毒。",
         "timestamp": "1699313630",
         "url": "mail_display.php?timestamp=1699313630",
@@ -110,13 +118,5 @@
         "date": "2023/11/05 23:16",
         "department": "花師教育學院",
         "author": "楊語申"
-    },
-    {
-        "title": "112年「校友卓越講座」：嚮往海外工作嗎？前輩帶領你啟航(線上)",
-        "timestamp": "1699142107",
-        "url": "mail_display.php?timestamp=1699142107",
-        "date": "2023/11/05 07:55",
-        "department": "管理學院 國際企業學系",
-        "author": "蔡季芸"
     }
 ]

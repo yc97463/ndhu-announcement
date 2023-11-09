@@ -1,5 +1,13 @@
 [
     {
+        "title": "[公告]臺北醫學大學公開徵求醫學資訊研究所所長候選人啟事",
+        "timestamp": "1695107105",
+        "url": "mail_display.php?timestamp=1695107105",
+        "date": "2023/09/19 15:05",
+        "department": "人事室",
+        "author": "巫仁凱"
+    },
+    {
         "title": "【ROTC招生訊息】國防部1 1 3 年大學儲備軍官訓練團甄選(招生)簡章  宣導",
         "timestamp": "1695007635",
         "url": "mail_display.php?timestamp=1695007635",
@@ -110,13 +118,5 @@
         "date": "2023/08/23 16:48",
         "department": "國際事務處",
         "author": "羅靖儀"
-    },
-    {
-        "title": "國立東華大學理工學院 徵聘計畫助理1~2名",
-        "timestamp": "1692604743",
-        "url": "mail_display.php?timestamp=1692604743",
-        "date": "2023/08/21 15:59",
-        "department": "理工學院",
-        "author": "白潔儒"
     }
 ]
