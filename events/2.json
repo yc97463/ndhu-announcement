@@ -1,13 +1,5 @@
 [
     {
-        "title": "【社會系專題演講】112/11/24(五)社會學之美: 從 「食」招來",
-        "timestamp": "1699401306",
-        "url": "mail_display.php?timestamp=1699401306",
-        "date": "2023/11/08 07:55",
-        "department": "人文社會科學學院 社會學系",
-        "author": "葉珮芳"
-    },
-    {
         "title": "第八屆中山東華研究生聯合論文發表會-工作人員",
         "timestamp": "1699401305",
         "url": "mail_display.php?timestamp=1699401305",
@@ -118,5 +110,13 @@
         "date": "2023/11/07 09:43",
         "department": "學務處生活輔導組",
         "author": "林嘉瑩"
+    },
+    {
+        "title": "【觀遊系統計學專題講座】陳良棟博士：氣候變遷統計資料的應用",
+        "timestamp": "1699314918",
+        "url": "mail_display.php?timestamp=1699314918",
+        "date": "2023/11/07 07:55",
+        "department": "管理學院 觀光暨休閒遊憩學系",
+        "author": "莊月玲"
     }
 ]

@@ -1,13 +1,5 @@
 [
     {
-        "title": "【觀遊系統計學專題講座】陳良棟博士：氣候變遷統計資料的應用",
-        "timestamp": "1699314918",
-        "url": "mail_display.php?timestamp=1699314918",
-        "date": "2023/11/07 07:55",
-        "department": "管理學院 觀光暨休閒遊憩學系",
-        "author": "莊月玲"
-    },
-    {
         "title": "【職涯講座】求職實踐力: 英語求職必勝技巧",
         "timestamp": "1699314917",
         "url": "mail_display.php?timestamp=1699314917",
@@ -118,5 +110,13 @@
         "date": "2023/11/07 07:55",
         "department": "人文社會科學學院 英美語文學系",
         "author": "劉珮萱"
+    },
+    {
+        "title": "國立東華大學2023校慶音樂會",
+        "timestamp": "1699314903",
+        "url": "mail_display.php?timestamp=1699314903",
+        "date": "2023/11/07 07:55",
+        "department": "藝術學院 音樂學系",
+        "author": "張純倩"
     }
 ]
