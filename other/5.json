@@ -1,5 +1,13 @@
 [
     {
+        "title": "【課務組通知】「期中教學意見回饋」系統將自10月16日(一)起開放學生填寫 NDHU’s mid-term teaching feedback system will open on October 16.",
+        "timestamp": "1697180270",
+        "url": "mail_display.php?timestamp=1697180270",
+        "date": "2023/10/13 14:57",
+        "department": "教務處課務組",
+        "author": "課務組"
+    },
+    {
         "title": "【教務處通知】112-1學期「期中教學意見回饋」系統自10月16日(一)起開放學生填寫",
         "timestamp": "1697177165",
         "url": "mail_display.php?timestamp=1697177165",
@@ -110,13 +118,5 @@
         "date": "2023/10/04 16:21",
         "department": "教學卓越中心",
         "author": "游守正"
-    },
-    {
-        "title": "【函轉】The Earthshot Prize 獎項提名作業",
-        "timestamp": "1696406407",
-        "url": "mail_display.php?timestamp=1696406407",
-        "date": "2023/10/04 16:00",
-        "department": "國際事務處永續發展組",
-        "author": "李莉莉 (Li-Li Lee)"
     }
 ]
