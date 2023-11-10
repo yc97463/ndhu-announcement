@@ -1,5 +1,13 @@
 [
     {
+        "title": "調整財產管理系統身分驗證",
+        "timestamp": "1699508405",
+        "url": "mail_display.php?timestamp=1699508405",
+        "date": "2023/11/09 13:40",
+        "department": "總務處保管組",
+        "author": "陳楚治"
+    },
+    {
         "title": "【課務組】敬請教師切勿於上課點名單上揭露學生隱私資料",
         "timestamp": "1699508187",
         "url": "mail_display.php?timestamp=1699508187",
@@ -108,14 +116,6 @@
         "timestamp": "1699428200",
         "url": "mail_display.php?timestamp=1699428200",
         "date": "2023/11/08 15:23",
-        "department": "教學卓越中心",
-        "author": "王立凡"
-    },
-    {
-        "title": "【活動轉知】科技導入數位教材工作坊：平板電腦導入學習過程之應用",
-        "timestamp": "1699427979",
-        "url": "mail_display.php?timestamp=1699427979",
-        "date": "2023/11/08 15:19",
         "department": "教學卓越中心",
         "author": "王立凡"
     }
