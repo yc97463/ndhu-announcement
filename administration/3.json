@@ -1,5 +1,13 @@
 [
     {
+        "title": "公文系統主機10月31日(二)中午更新停機公告",
+        "timestamp": "1698717041",
+        "url": "mail_display.php?timestamp=1698717041",
+        "date": "2023/10/31 09:50",
+        "department": "總務處文書組",
+        "author": "黃章傑"
+    },
+    {
         "title": "【公告】112會計年度結束經費報支注意事項《第二次》",
         "timestamp": "1698716340",
         "url": "mail_display.php?timestamp=1698716340",
@@ -110,13 +118,5 @@
         "date": "2023/10/23 10:28",
         "department": "圖書資訊處校務系統組",
         "author": "林志軒"
-    },
-    {
-        "title": "涵星二莊10/23上午關閉水源汰換幹管閘閥施工公告",
-        "timestamp": "1697984394",
-        "url": "mail_display.php?timestamp=1697984394",
-        "date": "2023/10/22 22:19",
-        "department": "總務處營繕組",
-        "author": "劉宏銘"
     }
 ]

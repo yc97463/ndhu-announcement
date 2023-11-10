@@ -1,5 +1,13 @@
 [
     {
+        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
+        "timestamp": "1697099397",
+        "url": "mail_display.php?timestamp=1697099397",
+        "date": "2023/10/12 16:29",
+        "department": "圖書資訊處校務系統組",
+        "author": "王建中"
+    },
+    {
         "title": "112學年度「大專校院弱勢學生助學計畫」申請公告(第二次公告)",
         "timestamp": "1697080546",
         "url": "mail_display.php?timestamp=1697080546",
@@ -110,13 +118,5 @@
         "date": "2023/10/04 17:37",
         "department": "體育中心",
         "author": "沈正雄"
-    },
-    {
-        "title": "本校垃圾車暫停清運公告。",
-        "timestamp": "1696410268",
-        "url": "mail_display.php?timestamp=1696410268",
-        "date": "2023/10/04 17:04",
-        "department": "總務處環境保護組",
-        "author": "許智翔"
     }
 ]
