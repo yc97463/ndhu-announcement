@@ -1,5 +1,13 @@
 [
     {
+        "title": "教育系~生涯系列講座-「圓夢教育分享」",
+        "timestamp": "1699660512",
+        "url": "mail_display.php?timestamp=1699660512",
+        "date": "2023/11/11 07:55",
+        "department": "花師教育學院 教育與潛能開發學系",
+        "author": "黃偲婷"
+    },
+    {
         "title": "親密關係中的性自主與積極同意工作坊",
         "timestamp": "1699660511",
         "url": "mail_display.php?timestamp=1699660511",
@@ -110,13 +118,5 @@
         "date": "2023/11/10 16:03",
         "department": "資訊工程學系",
         "author": "葉助理"
-    },
-    {
-        "title": "環境學院B側塔樓施工公告",
-        "timestamp": "1699597694",
-        "url": "mail_display.php?timestamp=1699597694",
-        "date": "2023/11/10 14:28",
-        "department": "總務處營繕組",
-        "author": "賴名塑"
     }
 ]
