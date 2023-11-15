@@ -1,5 +1,109 @@
 [
     {
+        "title": "【2023校慶系列活動】校慶園遊會歡迎大家來逗熱鬧~ School Carnival in the Academic Year of 2023.",
+        "timestamp": "1700007070",
+        "url": "mail_display.php?timestamp=1700007070",
+        "date": "2023/11/15 08:11",
+        "department": "學務處課外活動組",
+        "author": "余惠真"
+    },
+    {
+        "title": "【經濟學系專題演講】112.12.08(五)柯烽堯執行董事(台灣凱瑞科技公司)",
+        "timestamp": "1700006112",
+        "url": "mail_display.php?timestamp=1700006112",
+        "date": "2023/11/15 07:55",
+        "department": "人文社會科學學院 經濟學系",
+        "author": "張筱茵"
+    },
+    {
+        "title": "歷史學系專題演講：知識的旨趣 - 一個觀察十九世紀德國史學史的角度",
+        "timestamp": "1700006111",
+        "url": "mail_display.php?timestamp=1700006111",
+        "date": "2023/11/15 07:55",
+        "department": "人文社會科學學院 歷史學系",
+        "author": "吳芷萱"
+    },
+    {
+        "title": "《複眼人》在越南的轉譯與接受",
+        "timestamp": "1700006110",
+        "url": "mail_display.php?timestamp=1700006110",
+        "date": "2023/11/15 07:55",
+        "department": "人文社會科學學院 ",
+        "author": "吳雅萍"
+    },
+    {
+        "title": "【觀遊系專題講座】張凱智副教授：地方參與式教學實踐與自我省思",
+        "timestamp": "1700006109",
+        "url": "mail_display.php?timestamp=1700006109",
+        "date": "2023/11/15 07:55",
+        "department": "管理學院 觀光暨休閒遊憩學系",
+        "author": "莊月玲"
+    },
+    {
+        "title": "112-1諮商與臨床心理學系校友講座(三)--白頭宮女憶當年",
+        "timestamp": "1700006108",
+        "url": "mail_display.php?timestamp=1700006108",
+        "date": "2023/11/15 07:55",
+        "department": "人文社會科學學院 諮商與臨床心理學系",
+        "author": "郭如珮"
+    },
+    {
+        "title": "112-1諮商與臨床心理學系校友講座(三)--白頭宮女憶當年",
+        "timestamp": "1700006107",
+        "url": "mail_display.php?timestamp=1700006107",
+        "date": "2023/11/15 07:55",
+        "department": "人文社會科學學院 諮商與臨床心理學系",
+        "author": "郭如珮"
+    },
+    {
+        "title": "112-1 教育系系電影-我的嗝嗝老師",
+        "timestamp": "1700006106",
+        "url": "mail_display.php?timestamp=1700006106",
+        "date": "2023/11/15 07:55",
+        "department": "花師教育學院 教育與潛能開發學系",
+        "author": "黃偲婷"
+    },
+    {
+        "title": "112學年度畢咖必腳(ㄎㄚ)-鐵馬樂活行徵工讀服務人員",
+        "timestamp": "1700006105",
+        "url": "mail_display.php?timestamp=1700006105",
+        "date": "2023/11/15 07:55",
+        "department": "學務處 生活輔導組",
+        "author": "黃勇程"
+    },
+    {
+        "title": "【交通安全活動資訊】112年11/22日「道路安全我最罩」機車安駕研習活動二場次，請同學踴躍報名。",
+        "timestamp": "1700006104",
+        "url": "mail_display.php?timestamp=1700006104",
+        "date": "2023/11/15 07:55",
+        "department": "學務處 生活輔導組",
+        "author": "林嘉瑩"
+    },
+    {
+        "title": "【交通安全活動資訊】112年11/22日「道路安全我最罩」機車安駕研習活動一場次，請同學踴躍報名。",
+        "timestamp": "1700006103",
+        "url": "mail_display.php?timestamp=1700006103",
+        "date": "2023/11/15 07:55",
+        "department": "學務處 生活輔導組",
+        "author": "林嘉瑩"
+    },
+    {
+        "title": "112-1族文系校友卓越講座：現實，和你想的不一樣",
+        "timestamp": "1700006102",
+        "url": "mail_display.php?timestamp=1700006102",
+        "date": "2023/11/15 07:55",
+        "department": "原住民民族學院 族群關係與文化學系",
+        "author": "黃淑美"
+    },
+    {
+        "title": "【課程講座】集大陳-以數位與美學轉譯，傳承大陳人生活的美好(線上直播)",
+        "timestamp": "1700006101",
+        "url": "mail_display.php?timestamp=1700006101",
+        "date": "2023/11/15 07:55",
+        "department": "人文社會科學學院 臺灣文化學系",
+        "author": "唐家渝"
+    },
+    {
         "title": "育成輔導團隊【活動資訊轉發】ECOpoint-環保積分計畫",
         "timestamp": "1699981130",
         "url": "mail_display.php?timestamp=1699981130",
@@ -14,109 +118,5 @@
         "date": "2023/11/14 20:56",
         "department": "管理學院",
         "author": "洄瀾共好大學社會責任中心"
-    },
-    {
-        "title": "㊣無邊境永續生活員生消費合作社㊣ 與你校慶園遊會見",
-        "timestamp": "1699955404",
-        "url": "mail_display.php?timestamp=1699955404",
-        "date": "2023/11/14 17:50",
-        "department": "管理學院",
-        "author": "洄瀾共好大學社會責任中心"
-    },
-    {
-        "title": "東華同學注意了！新世代青年城市論壇X東華國際處，參加提供跨域學習時數認證！參加面試工作坊專屬好康！",
-        "timestamp": "1699954925",
-        "url": "mail_display.php?timestamp=1699954925",
-        "date": "2023/11/14 17:42",
-        "department": "國際事務處",
-        "author": "鄭海樂"
-    },
-    {
-        "title": "112-1第四場《東華Friday Night》戶外表演活動-「Party Night」即將開始，就在11/17！",
-        "timestamp": "1699954378",
-        "url": "mail_display.php?timestamp=1699954378",
-        "date": "2023/11/14 17:32",
-        "department": "學務處課外活動組",
-        "author": "余惠真"
-    },
-    {
-        "title": "【Promote the event!活動推推】東華永續講座暨市集 From University to Infinity -Sustainable Practices in NDHU",
-        "timestamp": "1699953736",
-        "url": "mail_display.php?timestamp=1699953736",
-        "date": "2023/11/14 17:22",
-        "department": "國際事務處永續發展組",
-        "author": "李莉莉 (Li-Li Lee)"
-    },
-    {
-        "title": "2023面山面海教育與安全機制論壇",
-        "timestamp": "1699950952",
-        "url": "mail_display.php?timestamp=1699950952",
-        "date": "2023/11/14 16:35",
-        "department": "體育與運動科學系",
-        "author": "蔡依珊"
-    },
-    {
-        "title": "2023東華大學運動會-免繳交各系旗乙事(第二次公告)",
-        "timestamp": "1699943666",
-        "url": "mail_display.php?timestamp=1699943666",
-        "date": "2023/11/14 14:34",
-        "department": "體育中心",
-        "author": "校慶動會-場地器材組"
-    },
-    {
-        "title": "東北師範大學2023海峽兩岸大學生未來教育者研習營",
-        "timestamp": "1699927072",
-        "url": "mail_display.php?timestamp=1699927072",
-        "date": "2023/11/14 09:57",
-        "department": "國際事務處國際合作組",
-        "author": "梁忠誠"
-    },
-    {
-        "title": "【民發/社系】112-1校友卓越講座：「原」來溫暖遍及偏鄉，長照旅途漫漫盡是你我他！(陸思敏學姊)",
-        "timestamp": "1699919709",
-        "url": "mail_display.php?timestamp=1699919709",
-        "date": "2023/11/14 07:55",
-        "department": "原住民民族學院 民族社會工作學士學位學程",
-        "author": "郭雅婷"
-    },
-    {
-        "title": "公平交易法與多層次傳銷管理法宣講活動",
-        "timestamp": "1699919708",
-        "url": "mail_display.php?timestamp=1699919708",
-        "date": "2023/11/14 07:55",
-        "department": "學務處 生活輔導組",
-        "author": "劉豫海"
-    },
-    {
-        "title": "健走東華--放下3C，漫步在東華(親近自然遠離網癮工作坊)",
-        "timestamp": "1699919707",
-        "url": "mail_display.php?timestamp=1699919707",
-        "date": "2023/11/14 07:55",
-        "department": "心理諮商輔導中心 心理諮商組",
-        "author": "王淳羽"
-    },
-    {
-        "title": "認識漢服：不是Cosplay、不是韓服、也不是和服！",
-        "timestamp": "1699919706",
-        "url": "mail_display.php?timestamp=1699919706",
-        "date": "2023/11/14 07:55",
-        "department": "洄瀾學院 縱谷跨域書院學士學位學程",
-        "author": "李百中"
-    },
-    {
-        "title": "認識漢服：不是Cosplay、不是韓服、也不是和服！",
-        "timestamp": "1699919705",
-        "url": "mail_display.php?timestamp=1699919705",
-        "date": "2023/11/14 07:55",
-        "department": "洄瀾學院 縱谷跨域書院學士學位學程",
-        "author": "李百中"
-    },
-    {
-        "title": "歷史學系專題演講：重讀清帝國檔案中的臺灣原住民族",
-        "timestamp": "1699919704",
-        "url": "mail_display.php?timestamp=1699919704",
-        "date": "2023/11/14 07:55",
-        "department": "人文社會科學學院 歷史學系",
-        "author": "吳芷萱"
     }
 ]
