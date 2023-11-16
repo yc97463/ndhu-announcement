@@ -1,5 +1,13 @@
 [
     {
+        "title": "有關校慶運動會及系列活動資訊請至體育中心網頁查閱",
+        "timestamp": "1699855402",
+        "url": "mail_display.php?timestamp=1699855402",
+        "date": "2023/11/13 14:03",
+        "department": "體育中心",
+        "author": "校慶運動會工作小組"
+    },
+    {
         "title": "李忠男文庫開幕暨合唱曲演出~邀請您一同來閱讀臺灣歌曲的搖籃推手",
         "timestamp": "1699855059",
         "url": "mail_display.php?timestamp=1699855059",
@@ -110,13 +118,5 @@
         "date": "2023/11/11 07:55",
         "department": "人文社會科學學院 法律學系",
         "author": "黃亦靖"
-    },
-    {
-        "title": "【臺灣系】專題演講－探險家的寫生簿與地形速寫",
-        "timestamp": "1699660505",
-        "url": "mail_display.php?timestamp=1699660505",
-        "date": "2023/11/11 07:55",
-        "department": "人文社會科學學院 臺灣文化學系",
-        "author": "唐家渝"
     }
 ]
