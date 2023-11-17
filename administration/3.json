@@ -1,5 +1,13 @@
 [
     {
+        "title": "【交通安全宣導】近來天氣不穩定，適逢期中考試期間，切勿疲勞駕駛，行經路口請務必慢、看、停！",
+        "timestamp": "1699229056",
+        "url": "mail_display.php?timestamp=1699229056",
+        "date": "2023/11/06 08:04",
+        "department": "學務處生活輔導組",
+        "author": "林嘉瑩"
+    },
+    {
         "title": "本日(11/04)下午因自來水公司搶修停水公告",
         "timestamp": "1699086784",
         "url": "mail_display.php?timestamp=1699086784",
@@ -110,13 +118,5 @@
         "date": "2023/10/31 09:50",
         "department": "總務處文書組",
         "author": "黃章傑"
-    },
-    {
-        "title": "【公告】112會計年度結束經費報支注意事項《第二次》",
-        "timestamp": "1698716340",
-        "url": "mail_display.php?timestamp=1698716340",
-        "date": "2023/10/31 09:39",
-        "department": "主計室",
-        "author": "曾俊達"
     }
 ]

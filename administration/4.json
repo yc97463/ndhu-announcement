@@ -1,5 +1,13 @@
 [
     {
+        "title": "【公告】112會計年度結束經費報支注意事項《第二次》",
+        "timestamp": "1698716340",
+        "url": "mail_display.php?timestamp=1698716340",
+        "date": "2023/10/31 09:39",
+        "department": "主計室",
+        "author": "曾俊達"
+    },
+    {
         "title": "【公告】國立東華大學第九任校長遴選結果",
         "timestamp": "1698656997",
         "url": "mail_display.php?timestamp=1698656997",
@@ -110,13 +118,5 @@
         "date": "2023/10/22 22:19",
         "department": "總務處營繕組",
         "author": "劉宏銘"
-    },
-    {
-        "title": "【公告】國立東華大學第九任校長候選人認可投票開票結果",
-        "timestamp": "1697793445",
-        "url": "mail_display.php?timestamp=1697793445",
-        "date": "2023/10/20 17:17",
-        "department": "人事室",
-        "author": "陳建文"
     }
 ]
