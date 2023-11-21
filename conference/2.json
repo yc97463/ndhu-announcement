@@ -1,13 +1,5 @@
 [
     {
-        "title": "【線上講座】嚮往海外工作嗎？日本\u0026越南工作經驗達5年以上的前輩帶領你啟航",
-        "timestamp": "1699700634",
-        "url": "mail_display.php?timestamp=1699700634",
-        "date": "2023/11/11 19:03",
-        "department": "國際企業學系",
-        "author": "陳怡廷"
-    },
-    {
         "title": "【代轉學生會公告】性別系列-男子漢製造機？現今社會如何壓迫男權",
         "timestamp": "1699583611",
         "url": "mail_display.php?timestamp=1699583611",
@@ -118,5 +110,13 @@
         "date": "2023/10/27 11:18",
         "department": "環境學院",
         "author": "謝家榛"
+    },
+    {
+        "title": "【轉知】國立臺北科技大學雙語化學習推動中心辦理「Fulbright EMI workshop」活動",
+        "timestamp": "1698369481",
+        "url": "mail_display.php?timestamp=1698369481",
+        "date": "2023/10/27 09:18",
+        "department": "英語培力學術中心",
+        "author": "蔡瑩寰"
     }
 ]
