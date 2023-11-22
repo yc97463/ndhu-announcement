@@ -1,5 +1,13 @@
 [
     {
+        "title": "【歡迎修課】文學家族專題課",
+        "timestamp": "1694741541",
+        "url": "mail_display.php?timestamp=1694741541",
+        "date": "2023/09/15 09:32",
+        "department": "縱谷跨域書院學士學位學程",
+        "author": "蔡怡臻"
+    },
+    {
         "title": "【歡迎修課】量子物理學的宇宙觀",
         "timestamp": "1694741433",
         "url": "mail_display.php?timestamp=1694741433",
@@ -110,13 +118,5 @@
         "date": "2023/09/11 12:36",
         "department": "原住民族學生資源中心",
         "author": "曾暐娟"
-    },
-    {
-        "title": "主旨：請授課教師提供112學年度第1學期「教師指定參考書清單」。",
-        "timestamp": "1694395588",
-        "url": "mail_display.php?timestamp=1694395588",
-        "date": "2023/09/11 09:26",
-        "department": "圖書資訊處圖資服務組",
-        "author": "陳昱佐"
     }
 ]
