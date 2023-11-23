@@ -1,6 +1,14 @@
 [
     {
         "title": "【歡迎修課】文學家族專題課",
+        "timestamp": "1694741558",
+        "url": "mail_display.php?timestamp=1694741558",
+        "date": "2023/09/15 09:32",
+        "department": "縱谷跨域書院學士學位學程",
+        "author": "蔡怡臻"
+    },
+    {
+        "title": "【歡迎修課】文學家族專題課",
         "timestamp": "1694741541",
         "url": "mail_display.php?timestamp=1694741541",
         "date": "2023/09/15 09:32",
@@ -110,13 +118,5 @@
         "date": "2023/09/11 13:46",
         "department": "人文社會科學學院",
         "author": "姜妃澤"
-    },
-    {
-        "title": "9/18「織圓·知原」開幕餐會暨系列活動",
-        "timestamp": "1694406974",
-        "url": "mail_display.php?timestamp=1694406974",
-        "date": "2023/09/11 12:36",
-        "department": "原住民族學生資源中心",
-        "author": "曾暐娟"
     }
 ]
