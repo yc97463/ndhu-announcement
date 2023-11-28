@@ -1,5 +1,29 @@
 [
     {
+        "title": "【圖書館公告】期中考延長開館時間。[Library NOTICE] Library Extended Opening Hours for Study and Exam Periods.",
+        "timestamp": "1698890417",
+        "url": "mail_display.php?timestamp=1698890417",
+        "date": "2023/11/02 10:00",
+        "department": "圖書資訊處圖資服務組",
+        "author": "詹依萍"
+    },
+    {
+        "title": "行政會議及擴大行政會議 會議紀錄公告通知",
+        "timestamp": "1698817022",
+        "url": "mail_display.php?timestamp=1698817022",
+        "date": "2023/11/01 13:37",
+        "department": "秘書室議事公文組",
+        "author": "陳婉婉"
+    },
+    {
+        "title": "【課務組】112-1專任(案)教師授課時數確認通知（請於11/30前完成，謝謝！）",
+        "timestamp": "1698816566",
+        "url": "mail_display.php?timestamp=1698816566",
+        "date": "2023/11/01 13:29",
+        "department": "教務處課務組",
+        "author": "課務組"
+    },
+    {
         "title": "理二B區電梯維修停用公告",
         "timestamp": "1698816475",
         "url": "mail_display.php?timestamp=1698816475",
@@ -94,29 +118,5 @@
         "date": "2023/10/30 14:19",
         "department": "社會參與中心",
         "author": "葉小姐"
-    },
-    {
-        "title": "112年11月份全校綠地除草維護時間及施作區域公告",
-        "timestamp": "1698388572",
-        "url": "mail_display.php?timestamp=1698388572",
-        "date": "2023/10/27 14:36",
-        "department": "總務處環境保護組",
-        "author": "余承鴻"
-    },
-    {
-        "title": "【法規宣導】計畫專任人員資遣問題",
-        "timestamp": "1698384370",
-        "url": "mail_display.php?timestamp=1698384370",
-        "date": "2023/10/27 13:26",
-        "department": "研發處",
-        "author": "劉乃綺"
-    },
-    {
-        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
-        "timestamp": "1698367167",
-        "url": "mail_display.php?timestamp=1698367167",
-        "date": "2023/10/27 08:39",
-        "department": "圖書資訊處校務系統組",
-        "author": "林志軒"
     }
 ]
