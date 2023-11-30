@@ -1,13 +1,5 @@
 [
     {
-        "title": "【活動宣導】東華校園無車日 交通安全我重視",
-        "timestamp": "1699581709",
-        "url": "mail_display.php?timestamp=1699581709",
-        "date": "2023/11/10 10:01",
-        "department": "學務處",
-        "author": "王玉君"
-    },
-    {
         "title": "【公告】本校「教授休假研究實施要點」修正意見調查(第二次通知)",
         "timestamp": "1699526155",
         "url": "mail_display.php?timestamp=1699526155",
@@ -118,5 +110,13 @@
         "date": "2023/11/06 15:53",
         "department": "人事室",
         "author": "張琇茹"
+    },
+    {
+        "title": "【交通安全宣導】安全騎乘自行車 前後車燈不可少",
+        "timestamp": "1699250808",
+        "url": "mail_display.php?timestamp=1699250808",
+        "date": "2023/11/06 14:06",
+        "department": "學務處生活輔導組",
+        "author": "林嘉瑩"
     }
 ]

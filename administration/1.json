@@ -1,13 +1,5 @@
 [
     {
-        "title": "【公告】112會計年度結束經費結報注意事項《第三次》",
-        "timestamp": "1701310776",
-        "url": "mail_display.php?timestamp=1701310776",
-        "date": "2023/11/30 10:19",
-        "department": "主計室",
-        "author": "曾俊達"
-    },
-    {
         "title": "本校針對11月29日校級教師評審委員會衝突事件之說明",
         "timestamp": "1701310342",
         "url": "mail_display.php?timestamp=1701310342",
@@ -118,5 +110,13 @@
         "date": "2023/11/24 09:37",
         "department": "體育中心",
         "author": "邱健榮"
+    },
+    {
+        "title": "向晴莊後側停車場地坪施工公告",
+        "timestamp": "1700789439",
+        "url": "mail_display.php?timestamp=1700789439",
+        "date": "2023/11/24 09:30",
+        "department": "總務處營繕組",
+        "author": "許珅銘"
     }
 ]
