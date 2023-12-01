@@ -1,5 +1,13 @@
 [
     {
+        "title": "體育中心相關活動",
+        "timestamp": "1701129306",
+        "url": "mail_display.php?timestamp=1701129306",
+        "date": "2023/11/28 07:55",
+        "department": "洄瀾學院 體育中心",
+        "author": "邱健榮"
+    },
+    {
         "title": "112年度第1學期人文社會科學學院《魏晉南北朝佛教接受與禪理解：以《佛般泥洹經》系為線索研究》分享會",
         "timestamp": "1701129305",
         "url": "mail_display.php?timestamp=1701129305",
@@ -110,13 +118,5 @@
         "date": "2023/11/25 07:55",
         "department": "人文社會科學學院 臺灣文化學系",
         "author": "唐家渝"
-    },
-    {
-        "title": "【112-1學期資管演講暨校友卓越講座】工作經驗分享",
-        "timestamp": "1700870108",
-        "url": "mail_display.php?timestamp=1700870108",
-        "date": "2023/11/25 07:55",
-        "department": "管理學院 資訊管理學系",
-        "author": "吳佳芬"
     }
 ]
