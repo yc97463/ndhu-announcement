@@ -1,5 +1,29 @@
 [
     {
+        "title": "資訊資產盤點暨風險評鑑教育訓練",
+        "timestamp": "1701648385",
+        "url": "mail_display.php?timestamp=1701648385",
+        "date": "2023/12/04 08:06",
+        "department": "圖書資訊處網路管理組",
+        "author": "劉維忠"
+    },
+    {
+        "title": "【資工系專題講座】12/11(一)－臺灣人工智慧實驗室（Taiwan AI Labs）創始人 杜奕瑾 先生",
+        "timestamp": "1701647702",
+        "url": "mail_display.php?timestamp=1701647702",
+        "date": "2023/12/04 07:55",
+        "department": "理工學院 資訊工程學系",
+        "author": "葉子綺"
+    },
+    {
+        "title": "【亭午風起，有詩東華】112-1 英詩小講堂 12/13 第6場 \"Lyrical Lunch at Dong Hwa\" Poetry Reading Session 6",
+        "timestamp": "1701647701",
+        "url": "mail_display.php?timestamp=1701647701",
+        "date": "2023/12/04 07:55",
+        "department": "洄瀾學院 語言中心",
+        "author": "呂岳芳"
+    },
+    {
         "title": "〔Rikec原住民族法學講座〕Truku自治的展望",
         "timestamp": "1701561302",
         "url": "mail_display.php?timestamp=1701561302",
@@ -94,29 +118,5 @@
         "date": "2023/12/01 07:55",
         "department": "人文社會科學學院 法律學系",
         "author": "黃亦靖"
-    },
-    {
-        "title": "敬邀響應世界愛滋日 用愛終止歧視 Fight Bias With Love 參加可得宣導品1份",
-        "timestamp": "1701388529",
-        "url": "mail_display.php?timestamp=1701388529",
-        "date": "2023/12/01 07:55",
-        "department": "學務處 衛生保健組",
-        "author": "王惠貞"
-    },
-    {
-        "title": "食安講座~生活X食 毒X安全",
-        "timestamp": "1701388528",
-        "url": "mail_display.php?timestamp=1701388528",
-        "date": "2023/12/01 07:55",
-        "department": "學務處 衛生保健組",
-        "author": "吳星穎"
-    },
-    {
-        "title": "【112-1資訊管理學系】SAP ERP演講",
-        "timestamp": "1701388527",
-        "url": "mail_display.php?timestamp=1701388527",
-        "date": "2023/12/01 07:55",
-        "department": "管理學院 資訊管理學系",
-        "author": "吳佳芬"
     }
 ]
