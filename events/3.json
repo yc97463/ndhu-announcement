@@ -1,5 +1,13 @@
 [
     {
+        "title": "【112-1資訊管理學系】SAP ERP演講",
+        "timestamp": "1701388527",
+        "url": "mail_display.php?timestamp=1701388527",
+        "date": "2023/12/01 07:55",
+        "department": "管理學院 資訊管理學系",
+        "author": "吳佳芬"
+    },
+    {
         "title": "【觀遊系專題講座】林濰榕副教授：The Process of Scale Development: Sharing the Paper \"A Scale for Measuring Tourists’ Technological Competence",
         "timestamp": "1701388526",
         "url": "mail_display.php?timestamp=1701388526",
@@ -110,13 +118,5 @@
         "date": "2023/12/01 07:55",
         "department": "人文社會科學學院 社會學系",
         "author": "葉珮芳"
-    },
-    {
-        "title": "Web of Science/Journal Citation Reports資料庫與Endnote書目管理軟體教育訓練(B)",
-        "timestamp": "1701388512",
-        "url": "mail_display.php?timestamp=1701388512",
-        "date": "2023/12/01 07:55",
-        "department": "圖書資訊處 圖資服務組",
-        "author": "陳昱佐"
     }
 ]
