@@ -1,5 +1,13 @@
 [
     {
+        "title": "【公告】113年寒休事宜",
+        "timestamp": "1700101766",
+        "url": "mail_display.php?timestamp=1700101766",
+        "date": "2023/11/16 10:29",
+        "department": "人事室",
+        "author": "劉依虹"
+    },
+    {
         "title": "請同學加強防範一氧化碳中毒",
         "timestamp": "1700039911",
         "url": "mail_display.php?timestamp=1700039911",
@@ -110,13 +118,5 @@
         "date": "2023/11/09 13:40",
         "department": "總務處保管組",
         "author": "陳楚治"
-    },
-    {
-        "title": "【課務組】敬請教師切勿於上課點名單上揭露學生隱私資料",
-        "timestamp": "1699508187",
-        "url": "mail_display.php?timestamp=1699508187",
-        "date": "2023/11/09 13:36",
-        "department": "教務處課務組",
-        "author": "課務組"
     }
 ]
