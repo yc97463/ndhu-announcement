@@ -1,5 +1,13 @@
 [
     {
+        "title": "公共工程委員會之近期招標資訊公告摘錄",
+        "timestamp": "1700478090",
+        "url": "mail_display.php?timestamp=1700478090",
+        "date": "2023/11/20 19:01",
+        "department": "研發處",
+        "author": "蔡語棠"
+    },
+    {
         "title": "仰山莊與環境學院11月23日高空作業施工公告",
         "timestamp": "1700466418",
         "url": "mail_display.php?timestamp=1700466418",
@@ -110,13 +118,5 @@
         "date": "2023/11/10 17:12",
         "department": "學務處生活輔導組",
         "author": "黃勇程"
-    },
-    {
-        "title": "【徵聘公告】國立東華大學資訊工程學系徵聘專任「資安」教師一名 (第二次公告)",
-        "timestamp": "1699603432",
-        "url": "mail_display.php?timestamp=1699603432",
-        "date": "2023/11/10 16:03",
-        "department": "資訊工程學系",
-        "author": "葉助理"
     }
 ]
