@@ -1,5 +1,13 @@
 [
     {
+        "title": "請同學加強防範一氧化碳中毒",
+        "timestamp": "1700039889",
+        "url": "mail_display.php?timestamp=1700039889",
+        "date": "2023/11/15 17:18",
+        "department": "學務處生活輔導組",
+        "author": "陳詩啓"
+    },
+    {
         "title": "人社二館電梯1(A棟)維修停用公告",
         "timestamp": "1699864251",
         "url": "mail_display.php?timestamp=1699864251",
@@ -110,13 +118,5 @@
         "date": "2023/11/08 17:29",
         "department": "圖書資訊處校務系統組",
         "author": "張繼元"
-    },
-    {
-        "title": "校務行政系統主機線路調整",
-        "timestamp": "1699424673",
-        "url": "mail_display.php?timestamp=1699424673",
-        "date": "2023/11/08 14:24",
-        "department": "圖書資訊處校務系統組",
-        "author": "王建中"
     }
 ]
