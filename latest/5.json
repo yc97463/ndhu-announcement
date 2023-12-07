@@ -1,5 +1,13 @@
 [
     {
+        "title": "歷史系專題演講：台灣舊石器時代考古",
+        "timestamp": "1701738447",
+        "url": "mail_display.php?timestamp=1701738447",
+        "date": "2023/12/05 09:07",
+        "department": "歷史學系",
+        "author": "吳助理"
+    },
+    {
         "title": "學生請假規則修訂公告1121205",
         "timestamp": "1701737835",
         "url": "mail_display.php?timestamp=1701737835",
@@ -110,13 +118,5 @@
         "date": "2023/12/04 10:19",
         "department": "法律學系",
         "author": "黃亦靖"
-    },
-    {
-        "title": "【財金系專題演講】12/8(五)14:00~16:00 日本產業創新之多面向實證分析",
-        "timestamp": "1701654368",
-        "url": "mail_display.php?timestamp=1701654368",
-        "date": "2023/12/04 09:46",
-        "department": "財務金融學系",
-        "author": "林役霜"
     }
 ]
