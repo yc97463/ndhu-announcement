@@ -1,5 +1,13 @@
 [
     {
+        "title": "校務會議紀錄公告通知",
+        "timestamp": "1701941831",
+        "url": "mail_display.php?timestamp=1701941831",
+        "date": "2023/12/07 17:37",
+        "department": "秘書室議事公文組",
+        "author": "陳婉婉"
+    },
+    {
         "title": "【資安公告】本校ISMS文件與資通安全政策發行公告（112年11月20日發行）",
         "timestamp": "1701939601",
         "url": "mail_display.php?timestamp=1701939601",
@@ -110,13 +118,5 @@
         "date": "2023/12/07 07:55",
         "department": "人文社會科學學院 ",
         "author": "吳雅萍"
-    },
-    {
-        "title": "112-1【Lunchtime Chats 午餐英語】12/27：第10場 Session 10",
-        "timestamp": "1701906901",
-        "url": "mail_display.php?timestamp=1701906901",
-        "date": "2023/12/07 07:55",
-        "department": "洄瀾學院 語言中心",
-        "author": "呂岳芳"
     }
 ]

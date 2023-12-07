@@ -1,5 +1,13 @@
 [
     {
+        "title": "校務會議紀錄公告通知",
+        "timestamp": "1701941831",
+        "url": "mail_display.php?timestamp=1701941831",
+        "date": "2023/12/07 17:37",
+        "department": "秘書室議事公文組",
+        "author": "陳婉婉"
+    },
+    {
         "title": "【資安公告】本校ISMS文件與資通安全政策發行公告（112年11月20日發行）",
         "timestamp": "1701939601",
         "url": "mail_display.php?timestamp=1701939601",
@@ -110,13 +118,5 @@
         "date": "2023/12/04 13:28",
         "department": "人事室",
         "author": "陳治豪"
-    },
-    {
-        "title": "【112-2人社院基礎課程新課】-縱目歐亞-空間與人文的對話",
-        "timestamp": "1701663684",
-        "url": "mail_display.php?timestamp=1701663684",
-        "date": "2023/12/04 12:21",
-        "department": "人文社會科學學院",
-        "author": "姜妃澤"
     }
 ]
