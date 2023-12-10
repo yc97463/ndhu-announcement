@@ -1,5 +1,21 @@
 [
     {
+        "title": "行政會議 會議紀錄公告通知",
+        "timestamp": "1701842620",
+        "url": "mail_display.php?timestamp=1701842620",
+        "date": "2023/12/06 14:03",
+        "department": "秘書室議事公文組",
+        "author": "陳婉婉"
+    },
+    {
+        "title": "【課務組通知】各學制學生112-2課程初選事宜     Preliminary Course Selection for Next Semester",
+        "timestamp": "1701836022",
+        "url": "mail_display.php?timestamp=1701836022",
+        "date": "2023/12/06 12:13",
+        "department": "教務處課務組",
+        "author": "課務組"
+    },
+    {
         "title": "【轉知】國立成功大學「專業英語（ESP）專業發展課程需求」問卷",
         "timestamp": "1701834708",
         "url": "mail_display.php?timestamp=1701834708",
@@ -99,22 +115,6 @@
         "title": "112-2人社院在地社會實踐課程-「後山人文走讀」選課說明會",
         "timestamp": "1701820512",
         "url": "mail_display.php?timestamp=1701820512",
-        "date": "2023/12/06 07:55",
-        "department": "人文社會科學學院 ",
-        "author": "姜妃澤"
-    },
-    {
-        "title": "在地社會實踐課程成果發表_宗教與在地：新城神社舊址古蹟之活化呈現與實踐",
-        "timestamp": "1701820511",
-        "url": "mail_display.php?timestamp=1701820511",
-        "date": "2023/12/06 07:55",
-        "department": "人文社會科學學院 ",
-        "author": "姜妃澤"
-    },
-    {
-        "title": "在地社會實踐課程成果發表_在地療癒",
-        "timestamp": "1701820510",
-        "url": "mail_display.php?timestamp=1701820510",
         "date": "2023/12/06 07:55",
         "department": "人文社會科學學院 ",
         "author": "姜妃澤"
