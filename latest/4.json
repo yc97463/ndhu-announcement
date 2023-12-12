@@ -1,5 +1,21 @@
 [
     {
+        "title": "【資工系專題講座】12/11(一)臺灣人工智慧實驗室 創辦人 杜奕瑾 先生",
+        "timestamp": "1702023697",
+        "url": "mail_display.php?timestamp=1702023697",
+        "date": "2023/12/08 16:21",
+        "department": "資訊工程學系",
+        "author": "葉子綺助理"
+    },
+    {
+        "title": "【轉知】實踐大學辦理『2023臺灣高等國際教育之展望』座談會",
+        "timestamp": "1702022568",
+        "url": "mail_display.php?timestamp=1702022568",
+        "date": "2023/12/08 16:02",
+        "department": "國際事務處",
+        "author": "羅靖儀"
+    },
+    {
         "title": "【重要訊息】112年12月「專題研究計畫聘任及薪資統一審查系統」關閉提醒，敬請查照。(第2次公告)",
         "timestamp": "1702000900",
         "url": "mail_display.php?timestamp=1702000900",
@@ -102,21 +118,5 @@
         "date": "2023/12/07 21:54",
         "department": "研發處創新育成中心",
         "author": "吳其璁"
-    },
-    {
-        "title": "校務會議紀錄公告通知",
-        "timestamp": "1701941831",
-        "url": "mail_display.php?timestamp=1701941831",
-        "date": "2023/12/07 17:37",
-        "department": "秘書室議事公文組",
-        "author": "陳婉婉"
-    },
-    {
-        "title": "【資安公告】本校ISMS文件與資通安全政策發行公告（112年11月20日發行）",
-        "timestamp": "1701939601",
-        "url": "mail_display.php?timestamp=1701939601",
-        "date": "2023/12/07 17:00",
-        "department": "圖書資訊處網路管理組",
-        "author": "何振揚"
     }
 ]
