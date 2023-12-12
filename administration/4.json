@@ -1,5 +1,13 @@
 [
     {
+        "title": " 人社二館電梯1(A棟)維修停用公告",
+        "timestamp": "1700795027",
+        "url": "mail_display.php?timestamp=1700795027",
+        "date": "2023/11/24 11:03",
+        "department": "總務處營繕組",
+        "author": "劉宏銘 "
+    },
+    {
         "title": "教育部「國民體適能檢測實施辦法」條文修正公告。",
         "timestamp": "1700789843",
         "url": "mail_display.php?timestamp=1700789843",
@@ -110,13 +118,5 @@
         "date": "2023/11/20 13:39",
         "department": "人事室",
         "author": "陳治豪"
-    },
-    {
-        "title": "【重要訊息】國科會113年度專題研究計畫補助案受理申請(年度大批申請) (校內截止期限為113年1月1日晚上11:59前)  (第1次通知)",
-        "timestamp": "1700447008",
-        "url": "mail_display.php?timestamp=1700447008",
-        "date": "2023/11/20 10:23",
-        "department": "研發處",
-        "author": "彭惠玉"
     }
 ]
