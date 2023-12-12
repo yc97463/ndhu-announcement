@@ -1,5 +1,13 @@
 [
     {
+        "title": "【列印維運公告】列印主機更新維護公告",
+        "timestamp": "1702367483",
+        "url": "mail_display.php?timestamp=1702367483",
+        "date": "2023/12/12 15:51",
+        "department": "圖書資訊處綜合業務組",
+        "author": "王奕筌"
+    },
+    {
         "title": "【第二次公告】宣導資安訓練時數規定，請轉知所屬。",
         "timestamp": "1702345727",
         "url": "mail_display.php?timestamp=1702345727",
@@ -110,13 +118,5 @@
         "date": "2023/12/07 15:25",
         "department": "圖書資訊處網路管理組",
         "author": "何振揚"
-    },
-    {
-        "title": "【教務處公告】提醒任課教師於期末選課前(112/12/18)維護是否公開成績分佈圖功能",
-        "timestamp": "1701923406",
-        "url": "mail_display.php?timestamp=1701923406",
-        "date": "2023/12/07 12:30",
-        "department": "教務處註冊組",
-        "author": "莊珆芸組員"
     }
 ]
