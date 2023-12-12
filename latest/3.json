@@ -1,5 +1,13 @@
 [
     {
+        "title": "役男跨縣市申請代辦體檢線上預約系統通知",
+        "timestamp": "1702255190",
+        "url": "mail_display.php?timestamp=1702255190",
+        "date": "2023/12/11 08:39",
+        "department": "學務處生活輔導組",
+        "author": "黃勇程"
+    },
+    {
         "title": "112-1辦理學生敍獎作業通知(Notice of 112-1 Student Honor and Disciplinary)",
         "timestamp": "1702254803",
         "url": "mail_display.php?timestamp=1702254803",
@@ -110,13 +118,5 @@
         "date": "2023/12/08 10:01",
         "department": "研發處",
         "author": "劉乃綺"
-    },
-    {
-        "title": "【重要訊息】國科會113年度專題研究計畫補助案受理申請(年度大批申請) (校內截止期限為113年1月1日晚上11:59前)  (第2次通知)",
-        "timestamp": "1702000409",
-        "url": "mail_display.php?timestamp=1702000409",
-        "date": "2023/12/08 09:53",
-        "department": "研發處",
-        "author": "彭惠玉"
     }
 ]
