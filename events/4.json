@@ -1,5 +1,13 @@
 [
     {
+        "title": "【會計學系活動】112-1學期會計周晚會",
+        "timestamp": "1702079707",
+        "url": "mail_display.php?timestamp=1702079707",
+        "date": "2023/12/09 07:55",
+        "department": "管理學院 會計學系",
+        "author": "吳佳玟"
+    },
+    {
         "title": "【會計學系活動】112-1學期會計周卡卡盃",
         "timestamp": "1702079706",
         "url": "mail_display.php?timestamp=1702079706",
@@ -110,13 +118,5 @@
         "date": "2023/12/08 07:55",
         "department": "學務處 生活輔導組",
         "author": "林嘉瑩"
-    },
-    {
-        "title": "【學生團隊資訊轉發】填問卷，抽禮卷！東華時間銀行服務交換/媒合平台使用意願問卷填寫邀請",
-        "timestamp": "1701967055",
-        "url": "mail_display.php?timestamp=1701967055",
-        "date": "2023/12/08 00:37",
-        "department": "研發處創新育成中心",
-        "author": "吳其璁"
     }
 ]
