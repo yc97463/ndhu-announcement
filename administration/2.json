@@ -1,5 +1,13 @@
 [
     {
+        "title": "【資安公告】本校ISMS文件與資通安全政策發行公告（112年11月20日發行）",
+        "timestamp": "1701939601",
+        "url": "mail_display.php?timestamp=1701939601",
+        "date": "2023/12/07 17:00",
+        "department": "圖書資訊處網路管理組",
+        "author": "何振揚"
+    },
+    {
         "title": "【資安宣導】請定期變更您的密碼",
         "timestamp": "1701933947",
         "url": "mail_display.php?timestamp=1701933947",
@@ -110,13 +118,5 @@
         "date": "2023/12/04 12:21",
         "department": "人文社會科學學院",
         "author": "姜妃澤"
-    },
-    {
-        "title": "【健康宣導】時序進入秋冬，已到水痘好發季節，請大家做好水痘預防工作",
-        "timestamp": "1701658923",
-        "url": "mail_display.php?timestamp=1701658923",
-        "date": "2023/12/04 11:02",
-        "department": "學務處衛生保健組",
-        "author": "王惠貞"
     }
 ]
