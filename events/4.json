@@ -1,5 +1,13 @@
 [
     {
+        "title": "112-1經濟學系學士班專題報告A場",
+        "timestamp": "1702338902",
+        "url": "mail_display.php?timestamp=1702338902",
+        "date": "2023/12/12 07:55",
+        "department": "人文社會科學學院 經濟學系",
+        "author": "張筱茵"
+    },
+    {
         "title": "112-1化學系期末系員大會",
         "timestamp": "1702338901",
         "url": "mail_display.php?timestamp=1702338901",
@@ -110,13 +118,5 @@
         "date": "2023/12/09 07:55",
         "department": "管理學院 企業管理學系",
         "author": "陳雅芳"
-    },
-    {
-        "title": "112-1【Lunchtime Chats 午餐英語】12/20：第9場 Session 9",
-        "timestamp": "1702079702",
-        "url": "mail_display.php?timestamp=1702079702",
-        "date": "2023/12/09 07:55",
-        "department": "洄瀾學院 語言中心",
-        "author": "呂岳芳"
     }
 ]
