@@ -1,5 +1,29 @@
 [
     {
+        "title": "12/23 【教育系校友講座】跨越界限：從大學教育到國際學校就業的實戰指南",
+        "timestamp": "1702432850",
+        "url": "mail_display.php?timestamp=1702432850",
+        "date": "2023/12/13 10:00",
+        "department": "教育與潛能開發學系",
+        "author": "黃偲婷"
+    },
+    {
+        "title": "NISSAN E-POWER 創意社群行銷說明會",
+        "timestamp": "1702431786",
+        "url": "mail_display.php?timestamp=1702431786",
+        "date": "2023/12/13 09:43",
+        "department": "國際企業學系",
+        "author": "蔡助理"
+    },
+    {
+        "title": "[材料系演講公告]12/18(一)15:10-17:00從量子物理到量子計算-- 量子電腦簡介",
+        "timestamp": "1702425305",
+        "url": "mail_display.php?timestamp=1702425305",
+        "date": "2023/12/13 07:55",
+        "department": "理工學院 材料科學與工程學系",
+        "author": "林淑玲"
+    },
+    {
         "title": "2023東華秋藝季~隆信真隆愛真雙鋼琴音樂會",
         "timestamp": "1702425304",
         "url": "mail_display.php?timestamp=1702425304",
@@ -94,29 +118,5 @@
         "date": "2023/12/12 11:12",
         "department": "語言中心",
         "author": "呂岳芳"
-    },
-    {
-        "title": "法律系112-1期末系員大會",
-        "timestamp": "1702338905",
-        "url": "mail_display.php?timestamp=1702338905",
-        "date": "2023/12/12 07:55",
-        "department": "人文社會科學學院 法律學系",
-        "author": "陳雅慧"
-    },
-    {
-        "title": "【社會學系期末系員大會活動】1121227 社會學系期末系員大會",
-        "timestamp": "1702338904",
-        "url": "mail_display.php?timestamp=1702338904",
-        "date": "2023/12/12 07:55",
-        "department": "人文社會科學學院 社會學系",
-        "author": "葉珮芳"
-    },
-    {
-        "title": "112-1經濟學系學士班專題報告B場",
-        "timestamp": "1702338903",
-        "url": "mail_display.php?timestamp=1702338903",
-        "date": "2023/12/12 07:55",
-        "department": "人文社會科學學院 經濟學系",
-        "author": "張筱茵"
     }
 ]
