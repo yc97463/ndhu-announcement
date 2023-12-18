@@ -1,5 +1,13 @@
 [
     {
+        "title": "112學年度第2學期「學生就學優待減免學雜費」申請",
+        "timestamp": "1700700902",
+        "url": "mail_display.php?timestamp=1700700902",
+        "date": "2023/11/23 08:55",
+        "department": "學務處生活輔導組",
+        "author": "李欣憓"
+    },
+    {
         "title": "校務發展委員會會議紀錄公告通知",
         "timestamp": "1700634269",
         "url": "mail_display.php?timestamp=1700634269",
@@ -110,13 +118,5 @@
         "date": "2023/11/16 16:24",
         "department": "總務處保管組",
         "author": "林慧濘"
-    },
-    {
-        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
-        "timestamp": "1700119309",
-        "url": "mail_display.php?timestamp=1700119309",
-        "date": "2023/11/16 15:21",
-        "department": "圖書資訊處校務系統組",
-        "author": "林志軒"
     }
 ]
