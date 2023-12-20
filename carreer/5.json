@@ -1,5 +1,13 @@
 [
     {
+        "title": "【徵聘公告】國立東華大學歷史學系徵聘專任教師一名",
+        "timestamp": "1691655606",
+        "url": "mail_display.php?timestamp=1691655606",
+        "date": "2023/08/10 16:20",
+        "department": "歷史學系",
+        "author": "江妍靜"
+    },
+    {
         "title": "《徵人公告》國立東華大學理工學院 徵聘計畫助理",
         "timestamp": "1690941455",
         "url": "mail_display.php?timestamp=1690941455",
@@ -110,13 +118,5 @@
         "date": "2023/07/06 12:03",
         "department": "人事室",
         "author": "陳建文"
-    },
-    {
-        "title": "【第一次公告】國立東華大學應用數學系誠徵國科會計劃專任助理一名",
-        "timestamp": "1688545011",
-        "url": "mail_display.php?timestamp=1688545011",
-        "date": "2023/07/05 16:16",
-        "department": "應用數學系",
-        "author": "陳素琳"
     }
 ]
