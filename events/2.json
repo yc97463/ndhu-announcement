@@ -1,13 +1,5 @@
 [
     {
-        "title": " 【更正】國立東華大學教育大數據計畫—微學程招生說明會加開直播囉！",
-        "timestamp": "1702956766",
-        "url": "mail_display.php?timestamp=1702956766",
-        "date": "2023/12/19 11:32",
-        "department": "教學卓越中心課程與科技組",
-        "author": "洪小姐"
-    },
-    {
         "title": "【轉知】2024年臺德(NSTC-DAAD)青年暑期營計畫",
         "timestamp": "1702950580",
         "url": "mail_display.php?timestamp=1702950580",
@@ -118,5 +110,13 @@
         "date": "2023/12/18 19:03",
         "department": "通識教育中心",
         "author": "林小姐"
+    },
+    {
+        "title": "【爵士 那一夜】 東華大學爵士大樂團期末公演",
+        "timestamp": "1702891957",
+        "url": "mail_display.php?timestamp=1702891957",
+        "date": "2023/12/18 17:32",
+        "department": "音樂學系",
+        "author": "張純倩"
     }
 ]
