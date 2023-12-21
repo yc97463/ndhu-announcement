@@ -1,5 +1,45 @@
 [
     {
+        "title": "【爵士 那一夜】 東華大學爵士大樂團期末公演",
+        "timestamp": "1702891957",
+        "url": "mail_display.php?timestamp=1702891957",
+        "date": "2023/12/18 17:32",
+        "department": "音樂學系",
+        "author": "張純倩"
+    },
+    {
+        "title": "國立東華大學教育大數據計畫—微學程招生說明會加開直播囉！學習如何以大數據方法來分析解讀教育的問題！",
+        "timestamp": "1702891388",
+        "url": "mail_display.php?timestamp=1702891388",
+        "date": "2023/12/18 17:23",
+        "department": "教學卓越中心課程與科技組",
+        "author": "洪小姐"
+    },
+    {
+        "title": "外環道整體規劃改善公開說明會（第一期）Outer Ring Road Master Plan Improvement Public Briefing (Phase I)",
+        "timestamp": "1702887233",
+        "url": "mail_display.php?timestamp=1702887233",
+        "date": "2023/12/18 16:13",
+        "department": "總務處營繕組",
+        "author": "郭家銘"
+    },
+    {
+        "title": "【語言中心】112-1 午餐英語聊天時間 第9場！Lunchtime Chats Session 9: 12/20",
+        "timestamp": "1702882685",
+        "url": "mail_display.php?timestamp=1702882685",
+        "date": "2023/12/18 14:58",
+        "department": "語言中心",
+        "author": "呂岳芳"
+    },
+    {
+        "title": "敬邀參加12/26楊牧文學講座演講",
+        "timestamp": "1702868562",
+        "url": "mail_display.php?timestamp=1702868562",
+        "date": "2023/12/18 11:02",
+        "department": "楊牧文學研究中心",
+        "author": "王乃葵"
+    },
+    {
         "title": "【人社院歲末贈寫春聯活動】書書相印，好運連連 ─人社院贈寫春聯活動開鑼了！",
         "timestamp": "1702858069",
         "url": "mail_display.php?timestamp=1702858069",
@@ -78,45 +118,5 @@
         "date": "2023/12/15 08:32",
         "department": "學務處課外活動組",
         "author": "余惠真"
-    },
-    {
-        "title": "2023東華秋藝季~《華麗伸展台》2023茱莉亞校友們巡迴音樂會",
-        "timestamp": "1702598105",
-        "url": "mail_display.php?timestamp=1702598105",
-        "date": "2023/12/15 07:55",
-        "department": "洄瀾學院 藝術中心",
-        "author": "周葦綸"
-    },
-    {
-        "title": "【樂藝學程】112-1專業實習 實習發表會",
-        "timestamp": "1702598104",
-        "url": "mail_display.php?timestamp=1702598104",
-        "date": "2023/12/15 07:55",
-        "department": "原住民民族學院 原住民族樂舞與藝術學士學位學程",
-        "author": "黃鎂婷"
-    },
-    {
-        "title": "12/20【華文文學講座】鄭順聰老師",
-        "timestamp": "1702598103",
-        "url": "mail_display.php?timestamp=1702598103",
-        "date": "2023/12/15 07:55",
-        "department": "人文社會科學學院 華文文學系",
-        "author": "伍佳雯"
-    },
-    {
-        "title": "【專題演講】12/15(五)_從電腦對局的人工智慧技術到產業應用",
-        "timestamp": "1702598102",
-        "url": "mail_display.php?timestamp=1702598102",
-        "date": "2023/12/15 07:55",
-        "department": "理工學院 電機工程學系",
-        "author": "邱昭儒"
-    },
-    {
-        "title": "族文系期末系員大會",
-        "timestamp": "1702598101",
-        "url": "mail_display.php?timestamp=1702598101",
-        "date": "2023/12/15 07:55",
-        "department": "原住民民族學院 族群關係與文化學系",
-        "author": "黃淑美"
     }
 ]

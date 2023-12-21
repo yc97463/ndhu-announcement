@@ -1,6 +1,14 @@
 [
     {
         "title": "Open admission for Winter class!!!華語文中心冬季班招生囉！！！",
+        "timestamp": "1699324564",
+        "url": "mail_display.php?timestamp=1699324564",
+        "date": "2023/11/07 10:36",
+        "department": "華語文中心",
+        "author": "黃品瑄"
+    },
+    {
+        "title": "Open admission for Winter class!!!華語文中心冬季班招生囉！！！",
         "timestamp": "1699324560",
         "url": "mail_display.php?timestamp=1699324560",
         "date": "2023/11/07 10:36",
@@ -110,13 +118,5 @@
         "date": "2023/09/13 14:52",
         "department": "花師教育學院",
         "author": "楊語申"
-    },
-    {
-        "title": "學務處衛保組招募健康促進服務學習志工",
-        "timestamp": "1694587086",
-        "url": "mail_display.php?timestamp=1694587086",
-        "date": "2023/09/13 14:38",
-        "department": "學務處衛生保健組",
-        "author": "楊曉青"
     }
 ]
