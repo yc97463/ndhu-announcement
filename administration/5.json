@@ -1,5 +1,13 @@
 [
     {
+        "title": "學人及學生宿舍網路線路調整公告",
+        "timestamp": "1701007374",
+        "url": "mail_display.php?timestamp=1701007374",
+        "date": "2023/11/26 22:02",
+        "department": "圖書資訊處網路管理組",
+        "author": "黃金城"
+    },
+    {
         "title": "教育部「2024總統教育獎」校內申請收件即日起至112年12月14日(四)下午17時收件截止",
         "timestamp": "1700815306",
         "url": "mail_display.php?timestamp=1700815306",
@@ -110,13 +118,5 @@
         "date": "2023/11/20 15:43",
         "department": "總務處環境保護組",
         "author": "余承鴻"
-    },
-    {
-        "title": "公文系統主機11月22日(三)中午更新停機公告",
-        "timestamp": "1700465165",
-        "url": "mail_display.php?timestamp=1700465165",
-        "date": "2023/11/20 15:26",
-        "department": "總務處文書組",
-        "author": "黃章傑"
     }
 ]
