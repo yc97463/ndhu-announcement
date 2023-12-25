@@ -1,5 +1,13 @@
 [
     {
+        "title": "役男跨縣市申請代辦體檢線上預約系統通知",
+        "timestamp": "1702255190",
+        "url": "mail_display.php?timestamp=1702255190",
+        "date": "2023/12/11 08:39",
+        "department": "學務處生活輔導組",
+        "author": "黃勇程"
+    },
+    {
         "title": "112-1辦理學生敍獎作業通知(Notice of 112-1 Student Honor and Disciplinary)",
         "timestamp": "1702254803",
         "url": "mail_display.php?timestamp=1702254803",
@@ -110,13 +118,5 @@
         "date": "2023/12/06 09:22",
         "department": "學務處生活輔導組",
         "author": "黃勇程"
-    },
-    {
-        "title": "轉內政部自113年1月1日起，民國94年次出生尚未履行兵役義務役男出境應經核准通知",
-        "timestamp": "1701822770",
-        "url": "mail_display.php?timestamp=1701822770",
-        "date": "2023/12/06 08:32",
-        "department": "學務處生活輔導組",
-        "author": "黃勇"
     }
 ]
