@@ -1,5 +1,13 @@
 [
     {
+        "title": "【資安宣導】請定期變更您的密碼",
+        "timestamp": "1701933947",
+        "url": "mail_display.php?timestamp=1701933947",
+        "date": "2023/12/07 15:25",
+        "department": "圖書資訊處網路管理組",
+        "author": "何振揚"
+    },
+    {
         "title": "【教務處公告】提醒任課教師於期末選課前(112/12/18)維護是否公開成績分佈圖功能",
         "timestamp": "1701923406",
         "url": "mail_display.php?timestamp=1701923406",
@@ -110,13 +118,5 @@
         "date": "2023/12/04 11:02",
         "department": "學務處衛生保健組",
         "author": "王惠貞"
-    },
-    {
-        "title": "資訊資產盤點暨風險評鑑教育訓練",
-        "timestamp": "1701648385",
-        "url": "mail_display.php?timestamp=1701648385",
-        "date": "2023/12/04 08:06",
-        "department": "圖書資訊處網路管理組",
-        "author": "劉維忠"
     }
 ]
