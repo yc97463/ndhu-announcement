@@ -1,5 +1,21 @@
 [
     {
+        "title": "【圖書館公告】期末考延長開館時間。[Library NOTICE] Library Extended Opening Hours for Study and Exam Periods.",
+        "timestamp": "1703554824",
+        "url": "mail_display.php?timestamp=1703554824",
+        "date": "2023/12/26 09:40",
+        "department": "圖書資訊處圖資服務組",
+        "author": "詹依萍"
+    },
+    {
+        "title": "【圖書館公告】元旦【113.01.01 (一)】休館一日。Library Announcement – Library will be Closed on January 01, 2024.",
+        "timestamp": "1703554496",
+        "url": "mail_display.php?timestamp=1703554496",
+        "date": "2023/12/26 09:34",
+        "department": "圖書資訊處圖資服務組",
+        "author": "詹依萍"
+    },
+    {
         "title": "113年1月1日 (週一)本校垃圾車停收1日。On January 1, 2024, school garbage trucks will be closed for one day",
         "timestamp": "1703549072",
         "url": "mail_display.php?timestamp=1703549072",
@@ -102,21 +118,5 @@
         "date": "2023/12/20 15:34",
         "department": "秘書室公關宣傳組",
         "author": "陳傳智"
-    },
-    {
-        "title": "校園外環道流浪犬出沒，請提高警覺，注意行車安全。",
-        "timestamp": "1702960926",
-        "url": "mail_display.php?timestamp=1702960926",
-        "date": "2023/12/19 12:42",
-        "department": "總務處環境保護組",
-        "author": "余承鴻"
-    },
-    {
-        "title": "112 年度校區內客貨電梯進行月保養排程通告( 12 月保養)",
-        "timestamp": "1702946561",
-        "url": "mail_display.php?timestamp=1702946561",
-        "date": "2023/12/19 08:42",
-        "department": "總務處營繕組",
-        "author": "劉宏銘"
     }
 ]
