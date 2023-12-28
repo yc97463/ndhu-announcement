@@ -1,5 +1,29 @@
 [
     {
+        "title": "【圖書館公告】元旦【113.01.01 (一)】休館一日。Library Announcement – Library will be Closed on January 01, 2024.",
+        "timestamp": "1703554496",
+        "url": "mail_display.php?timestamp=1703554496",
+        "date": "2023/12/26 09:34",
+        "department": "圖書資訊處圖資服務組",
+        "author": "詹依萍"
+    },
+    {
+        "title": "113年1月1日 (週一)本校垃圾車停收1日。On January 1, 2024, school garbage trucks will be closed for one day",
+        "timestamp": "1703549072",
+        "url": "mail_display.php?timestamp=1703549072",
+        "date": "2023/12/26 08:04",
+        "department": "總務處環境保護組",
+        "author": "許智翔"
+    },
+    {
+        "title": "敬邀參加-第35屆校園試映會(電影製作藝術、紀錄片製作成果發表)",
+        "timestamp": "1703474765",
+        "url": "mail_display.php?timestamp=1703474765",
+        "date": "2023/12/25 11:26",
+        "department": "通識教育中心",
+        "author": "陳美娥"
+    },
+    {
         "title": "敬邀參加-第35屆校園試映會(電影製作藝術、紀錄片製作成果發表)",
         "timestamp": "1703474754",
         "url": "mail_display.php?timestamp=1703474754",
@@ -94,29 +118,5 @@
         "date": "2023/12/19 12:42",
         "department": "總務處環境保護組",
         "author": "余承鴻"
-    },
-    {
-        "title": "112 年度校區內客貨電梯進行月保養排程通告( 12 月保養)",
-        "timestamp": "1702946561",
-        "url": "mail_display.php?timestamp=1702946561",
-        "date": "2023/12/19 08:42",
-        "department": "總務處營繕組",
-        "author": "劉宏銘"
-    },
-    {
-        "title": "外環道整體規劃改善公開說明會（第一期）Outer Ring Road Master Plan Improvement Public Briefing (Phase I)",
-        "timestamp": "1702887233",
-        "url": "mail_display.php?timestamp=1702887233",
-        "date": "2023/12/18 16:13",
-        "department": "總務處營繕組",
-        "author": "郭家銘"
-    },
-    {
-        "title": "轉知中醫每週二校內醫療巡迴結束服務Notice - Weekly On-Campus Chinese Medicine Clinic Service Ends",
-        "timestamp": "1702860924",
-        "url": "mail_display.php?timestamp=1702860924",
-        "date": "2023/12/18 08:55",
-        "department": "學務處衛生保健組",
-        "author": "王惠貞"
     }
 ]
