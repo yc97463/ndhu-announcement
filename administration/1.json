@@ -1,5 +1,13 @@
 [
     {
+        "title": "【交通安全宣導】元旦連假出遊，行車請遵守速限規定、保持安全距離。",
+        "timestamp": "1703752888",
+        "url": "mail_display.php?timestamp=1703752888",
+        "date": "2023/12/28 16:41",
+        "department": "學務處生活輔導組",
+        "author": "林嘉瑩"
+    },
+    {
         "title": "本校人社1館防鴿設施施作公告。",
         "timestamp": "1703742016",
         "url": "mail_display.php?timestamp=1703742016",
@@ -110,13 +118,5 @@
         "date": "2023/12/26 11:34",
         "department": "學務處生活輔導組",
         "author": "陳詩啓"
-    },
-    {
-        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
-        "timestamp": "1703557324",
-        "url": "mail_display.php?timestamp=1703557324",
-        "date": "2023/12/26 10:22",
-        "department": "圖書資訊處校務系統組",
-        "author": "林志軒"
     }
 ]
