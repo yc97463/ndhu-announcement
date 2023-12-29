@@ -1,5 +1,13 @@
 [
     {
+        "title": "【教務處公告】提醒任課教師於期末選課前(112/12/18)維護是否公開成績分佈圖功能",
+        "timestamp": "1701923406",
+        "url": "mail_display.php?timestamp=1701923406",
+        "date": "2023/12/07 12:30",
+        "department": "教務處註冊組",
+        "author": "莊珆芸組員"
+    },
+    {
         "title": "【註冊組】112-1學期應屆畢業生辦理離校領取學位證書流程",
         "timestamp": "1701854509",
         "url": "mail_display.php?timestamp=1701854509",
@@ -110,13 +118,5 @@
         "date": "2023/12/04 08:06",
         "department": "圖書資訊處網路管理組",
         "author": "劉維忠"
-    },
-    {
-        "title": "112年12月份全校綠地除草維護時間及施作區域公告",
-        "timestamp": "1701409362",
-        "url": "mail_display.php?timestamp=1701409362",
-        "date": "2023/12/01 13:42",
-        "department": "總務處環境保護組",
-        "author": "余承鴻"
     }
 ]
