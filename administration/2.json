@@ -1,5 +1,13 @@
 [
     {
+        "title": "公文系統主機12/29(五)中午更新停機公告",
+        "timestamp": "1703638634",
+        "url": "mail_display.php?timestamp=1703638634",
+        "date": "2023/12/27 08:57",
+        "department": "總務處文書組",
+        "author": "黃章傑"
+    },
+    {
         "title": "【第三次公告】宣導資安訓練時數規定，請轉知所屬。",
         "timestamp": "1703581089",
         "url": "mail_display.php?timestamp=1703581089",
@@ -110,13 +118,5 @@
         "date": "2023/12/22 08:22",
         "department": "總務處文書組",
         "author": "余俊賢"
-    },
-    {
-        "title": "寒流到來請節省盥洗用熱水",
-        "timestamp": "1703152127",
-        "url": "mail_display.php?timestamp=1703152127",
-        "date": "2023/12/21 17:48",
-        "department": "總務處營繕組",
-        "author": "劉宏銘"
     }
 ]
