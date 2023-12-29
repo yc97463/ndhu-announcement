@@ -1,5 +1,13 @@
 [
     {
+        "title": "「廢品借用通知」公告",
+        "timestamp": "1702372004",
+        "url": "mail_display.php?timestamp=1702372004",
+        "date": "2023/12/12 17:06",
+        "department": "總務處保管組",
+        "author": "林慧濘"
+    },
+    {
         "title": "【列印維運公告】列印主機更新維護公告",
         "timestamp": "1702367483",
         "url": "mail_display.php?timestamp=1702367483",
@@ -108,14 +116,6 @@
         "timestamp": "1701939601",
         "url": "mail_display.php?timestamp=1701939601",
         "date": "2023/12/07 17:00",
-        "department": "圖書資訊處網路管理組",
-        "author": "何振揚"
-    },
-    {
-        "title": "【資安宣導】請定期變更您的密碼",
-        "timestamp": "1701933947",
-        "url": "mail_display.php?timestamp=1701933947",
-        "date": "2023/12/07 15:25",
         "department": "圖書資訊處網路管理組",
         "author": "何振揚"
     }
