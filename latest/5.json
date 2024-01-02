@@ -1,5 +1,13 @@
 [
     {
+        "title": "【圖書館公告】期末考延長開館時間。[Library NOTICE] Library Extended Opening Hours for Study and Exam Periods.",
+        "timestamp": "1703554824",
+        "url": "mail_display.php?timestamp=1703554824",
+        "date": "2023/12/26 09:40",
+        "department": "圖書資訊處圖資服務組",
+        "author": "詹依萍"
+    },
+    {
         "title": "【圖書館志工招募】113年寒假暨112-2學期校園志工招募，誠摯邀請您加入服務的行列。",
         "timestamp": "1703554752",
         "url": "mail_display.php?timestamp=1703554752",
@@ -110,13 +118,5 @@
         "date": "2023/12/25 14:12",
         "department": "教學卓越中心",
         "author": "鄭宏昱"
-    },
-    {
-        "title": "112-1東華書藝獎競賽得獎名單公告",
-        "timestamp": "1703480539",
-        "url": "mail_display.php?timestamp=1703480539",
-        "date": "2023/12/25 13:02",
-        "department": "中國語文學系",
-        "author": "李秀華"
     }
 ]

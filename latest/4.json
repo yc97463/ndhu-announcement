@@ -1,5 +1,13 @@
 [
     {
+        "title": "【提醒】112學年度第1學期休學截止日",
+        "timestamp": "1703639623",
+        "url": "mail_display.php?timestamp=1703639623",
+        "date": "2023/12/27 09:13",
+        "department": "教務處註冊組",
+        "author": "謝小姐"
+    },
+    {
         "title": "公文系統主機12/29(五)中午更新停機公告",
         "timestamp": "1703638634",
         "url": "mail_display.php?timestamp=1703638634",
@@ -110,13 +118,5 @@
         "date": "2023/12/26 09:59",
         "department": "教學卓越中心",
         "author": "王立凡"
-    },
-    {
-        "title": "【圖書館公告】期末考延長開館時間。[Library NOTICE] Library Extended Opening Hours for Study and Exam Periods.",
-        "timestamp": "1703554824",
-        "url": "mail_display.php?timestamp=1703554824",
-        "date": "2023/12/26 09:40",
-        "department": "圖書資訊處圖資服務組",
-        "author": "詹依萍"
     }
 ]
