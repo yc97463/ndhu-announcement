@@ -1,5 +1,13 @@
 [
     {
+        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
+        "timestamp": "1703557324",
+        "url": "mail_display.php?timestamp=1703557324",
+        "date": "2023/12/26 10:22",
+        "department": "圖書資訊處校務系統組",
+        "author": "林志軒"
+    },
+    {
         "title": "【圖書館公告】期末考延長開館時間。[Library NOTICE] Library Extended Opening Hours for Study and Exam Periods.",
         "timestamp": "1703554824",
         "url": "mail_display.php?timestamp=1703554824",
@@ -110,13 +118,5 @@
         "date": "2023/12/20 15:55",
         "department": "圖書資訊處網路管理組",
         "author": "何振揚"
-    },
-    {
-        "title": "本校112年11月29日校級教師評審委員會衝突事件，補充說明。",
-        "timestamp": "1703057674",
-        "url": "mail_display.php?timestamp=1703057674",
-        "date": "2023/12/20 15:34",
-        "department": "秘書室公關宣傳組",
-        "author": "陳傳智"
     }
 ]
