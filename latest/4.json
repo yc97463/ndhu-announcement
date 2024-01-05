@@ -1,5 +1,21 @@
 [
     {
+        "title": "【獎助學金申請】內政部移民署112學年度新住民及其子女培力與獎助(勵)學金",
+        "timestamp": "1704158744",
+        "url": "mail_display.php?timestamp=1704158744",
+        "date": "2024/01/02 09:25",
+        "department": "學務處",
+        "author": "葉俊良"
+    },
+    {
+        "title": "【訊息轉知】樹德科技大學開設2門磨課師(MOOCs)線上課程",
+        "timestamp": "1704157807",
+        "url": "mail_display.php?timestamp=1704157807",
+        "date": "2024/01/02 09:10",
+        "department": "教學卓越中心",
+        "author": "王立凡"
+    },
+    {
         "title": "【訊息轉知】中華大學開設Python推薦系統磨課師(MOOCs)線上課程",
         "timestamp": "1704157694",
         "url": "mail_display.php?timestamp=1704157694",
@@ -102,21 +118,5 @@
         "date": "2023/12/29 14:20",
         "department": "通識教育中心",
         "author": "陳美娥"
-    },
-    {
-        "title": "互動國際數位股份有限公司贈與本校ESRI ArcGIS軟體",
-        "timestamp": "1703830778",
-        "url": "mail_display.php?timestamp=1703830778",
-        "date": "2023/12/29 14:19",
-        "department": "圖書資訊處綜合業務組",
-        "author": "王奕筌"
-    },
-    {
-        "title": "【112-1教卓】TA證書申請 (更新申請網站) / Application for TA certificate",
-        "timestamp": "1703828181",
-        "url": "mail_display.php?timestamp=1703828181",
-        "date": "2023/12/29 13:36",
-        "department": "教學卓越中心",
-        "author": "游家盛"
     }
 ]
