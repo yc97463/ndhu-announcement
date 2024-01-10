@@ -1,5 +1,13 @@
 [
     {
+        "title": "【提醒】112學年度第1學期休學截止日",
+        "timestamp": "1703639623",
+        "url": "mail_display.php?timestamp=1703639623",
+        "date": "2023/12/27 09:13",
+        "department": "教務處註冊組",
+        "author": "謝小姐"
+    },
+    {
         "title": "公文系統主機12/29(五)中午更新停機公告",
         "timestamp": "1703638634",
         "url": "mail_display.php?timestamp=1703638634",
@@ -110,13 +118,5 @@
         "date": "2023/12/22 09:18",
         "department": "研發處",
         "author": "劉乃綺"
-    },
-    {
-        "title": "新年度即將開始，請各單位將112年度的公文儘速辦畢歸檔",
-        "timestamp": "1703204527",
-        "url": "mail_display.php?timestamp=1703204527",
-        "date": "2023/12/22 08:22",
-        "department": "總務處文書組",
-        "author": "余俊賢"
     }
 ]
