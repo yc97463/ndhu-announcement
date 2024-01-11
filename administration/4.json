@@ -1,5 +1,21 @@
 [
     {
+        "title": "【教務處公告】112-1學期成績預計於1月19日(週五)下班前開放線上查詢",
+        "timestamp": "1704176369",
+        "url": "mail_display.php?timestamp=1704176369",
+        "date": "2024/01/02 14:19",
+        "department": "教務處註冊組",
+        "author": "莊珆芸組員"
+    },
+    {
+        "title": "【學生宿舍】教育部113年「大專校院學生校內住宿補貼方案」計畫",
+        "timestamp": "1704159406",
+        "url": "mail_display.php?timestamp=1704159406",
+        "date": "2024/01/02 09:36",
+        "department": "學務處生活輔導組",
+        "author": "陳怡秀"
+    },
+    {
         "title": "理工二館電梯1(BC區)故障維修公告",
         "timestamp": "1703838806",
         "url": "mail_display.php?timestamp=1703838806",
@@ -102,21 +118,5 @@
         "date": "2023/12/27 11:22",
         "department": "總務處文書組",
         "author": "黃章傑"
-    },
-    {
-        "title": "今日12/27(三)晚間公文系統版本更新停機公告",
-        "timestamp": "1703647319",
-        "url": "mail_display.php?timestamp=1703647319",
-        "date": "2023/12/27 11:21",
-        "department": "總務處文書組",
-        "author": "黃章傑"
-    },
-    {
-        "title": "112年12 月30日-113年1月1日為元旦連續假期，電腦教室暫不開放。The computer lab one will be closed on December 30,2023- January 01, 2024.",
-        "timestamp": "1703643917",
-        "url": "mail_display.php?timestamp=1703643917",
-        "date": "2023/12/27 10:25",
-        "department": "圖書資訊處綜合業務組",
-        "author": "林循美"
     }
 ]
