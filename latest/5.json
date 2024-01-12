@@ -1,5 +1,21 @@
 [
     {
+        "title": "【圖書館公告】113年寒假開館時間。【Library Announce】Library opening time for the coming winter vacation.",
+        "timestamp": "1704678795",
+        "url": "mail_display.php?timestamp=1704678795",
+        "date": "2024/01/08 09:53",
+        "department": "圖書資訊處圖資服務組",
+        "author": "詹依萍"
+    },
+    {
+        "title": "【圖書館公告】選舉投票日【113.01.13 (六)】休館一天！ Library will be closed for Election Day on January 13, 2024.",
+        "timestamp": "1704678682",
+        "url": "mail_display.php?timestamp=1704678682",
+        "date": "2024/01/08 09:51",
+        "department": "圖書資訊處圖資服務組",
+        "author": "詹依萍"
+    },
+    {
         "title": "【活動公告】第47屆金鼎獎獲獎圖書作品展。",
         "timestamp": "1704677989",
         "url": "mail_display.php?timestamp=1704677989",
@@ -102,21 +118,5 @@
         "date": "2024/01/05 15:26",
         "department": "原住民族學生資源中心",
         "author": "林佳儀"
-    },
-    {
-        "title": "【原資中心】✨已填寫調查問卷，並截圖留存填表單證明之同學，可以至原資中心兌換7-11禮券50元囉 ‼✨【兌換領取通知】",
-        "timestamp": "1704439484",
-        "url": "mail_display.php?timestamp=1704439484",
-        "date": "2024/01/05 15:24",
-        "department": "原住民族學生資源中心",
-        "author": "林佳儀"
-    },
-    {
-        "title": "國科會113年大專學生研究計畫申請案，自即日起至113年2月21日中午12：00前完成線上申請，歡迎踴躍申請。【第1次公告】",
-        "timestamp": "1704432837",
-        "url": "mail_display.php?timestamp=1704432837",
-        "date": "2024/01/05 13:33",
-        "department": "研發處",
-        "author": "彭惠玉"
     }
 ]
