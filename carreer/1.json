@@ -1,5 +1,13 @@
 [
     {
+        "title": "【徵才公告】國立東華大學特殊教育中心誠徵計畫專任助理一名",
+        "timestamp": "1705020222",
+        "url": "mail_display.php?timestamp=1705020222",
+        "date": "2024/01/12 08:43",
+        "department": "特殊教育中心",
+        "author": "魏文慧"
+    },
+    {
         "title": "【徵才公告】資訊工程學系徵求計畫專任助理1名",
         "timestamp": "1704960616",
         "url": "mail_display.php?timestamp=1704960616",
@@ -110,13 +118,5 @@
         "date": "2023/12/22 14:50",
         "department": "原住民族課程發展協作中心",
         "author": "Peydang Siyu"
-    },
-    {
-        "title": "【徴才公告】國立東華管理學院大學會計與資訊管理國際學士班徵聘專任教師二名",
-        "timestamp": "1703214416",
-        "url": "mail_display.php?timestamp=1703214416",
-        "date": "2023/12/22 11:06",
-        "department": "會計與資訊管理國際學士班",
-        "author": "蘇麗晴"
     }
 ]
