@@ -1,5 +1,13 @@
 [
     {
+        "title": "【公告】國立東華大學卸新任校長交接典禮",
+        "timestamp": "1704787242",
+        "url": "mail_display.php?timestamp=1704787242",
+        "date": "2024/01/09 16:00",
+        "department": "人事室",
+        "author": "陳建文"
+    },
+    {
         "title": "行政大樓、仰山莊廢品室廢品清運作業公告",
         "timestamp": "1704782551",
         "url": "mail_display.php?timestamp=1704782551",
@@ -110,13 +118,5 @@
         "date": "2024/01/08 13:38",
         "department": "總務處營繕組",
         "author": "劉宏銘"
-    },
-    {
-        "title": "行政院性別平等處函送政府機關「促進性別友善職場情境手冊」電子檔",
-        "timestamp": "1704685899",
-        "url": "mail_display.php?timestamp=1704685899",
-        "date": "2024/01/08 11:51",
-        "department": "人事室",
-        "author": "張琇茹"
     }
 ]
