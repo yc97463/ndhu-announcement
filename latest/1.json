@@ -1,5 +1,13 @@
 [
     {
+        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
+        "timestamp": "1705378281",
+        "url": "mail_display.php?timestamp=1705378281",
+        "date": "2024/01/16 12:11",
+        "department": "圖書資訊處校務系統組",
+        "author": "林志軒"
+    },
+    {
         "title": "112-2學生就學貸款申請第1次公告Student Loan application for Spring Semester",
         "timestamp": "1705372567",
         "url": "mail_display.php?timestamp=1705372567",
@@ -110,13 +118,5 @@
         "date": "2024/01/15 10:14",
         "department": "通識教育中心",
         "author": "李睿芬"
-    },
-    {
-        "title": "【網路維護】核心骨幹網路系統更換【第一次公告】",
-        "timestamp": "1705282574",
-        "url": "mail_display.php?timestamp=1705282574",
-        "date": "2024/01/15 09:36",
-        "department": "圖書資訊處網路管理組",
-        "author": "黃金城"
     }
 ]
