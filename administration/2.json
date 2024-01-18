@@ -1,5 +1,13 @@
 [
     {
+        "title": "更正誤植日期:衛生保健組寒假上班時間調整Health Center Adjust working hours in winter",
+        "timestamp": "1705021771",
+        "url": "mail_display.php?timestamp=1705021771",
+        "date": "2024/01/12 09:09",
+        "department": "學務處衛生保健組",
+        "author": "王惠貞"
+    },
+    {
         "title": "【傳染病防治宣導】寒假將至，請各單位持續落實校園環境管理，並落實相關蚊媒（登革熱/屈公病/茲卡病毒感染症）防治工作",
         "timestamp": "1704963557",
         "url": "mail_display.php?timestamp=1704963557",
@@ -110,13 +118,5 @@
         "date": "2024/01/10 14:22",
         "department": "秘書室議事公文組",
         "author": "陳婉婉"
-    },
-    {
-        "title": "【交通安全宣導】寒假期間宣導交通安全注意事項",
-        "timestamp": "1704856032",
-        "url": "mail_display.php?timestamp=1704856032",
-        "date": "2024/01/10 11:07",
-        "department": "學務處生活輔導組",
-        "author": "林嘉瑩"
     }
 ]

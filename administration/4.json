@@ -1,5 +1,13 @@
 [
     {
+        "title": "【圖書館公告】選舉投票日【113.01.13 (六)】休館一天！ Library will be closed for Election Day on January 13, 2024.",
+        "timestamp": "1704678682",
+        "url": "mail_display.php?timestamp=1704678682",
+        "date": "2024/01/08 09:51",
+        "department": "圖書資訊處圖資服務組",
+        "author": "詹依萍"
+    },
+    {
         "title": "1/9~1/10臺灣學術倫理教育資源中心網站停機通知",
         "timestamp": "1704673111",
         "url": "mail_display.php?timestamp=1704673111",
@@ -110,13 +118,5 @@
         "date": "2024/01/03 13:47",
         "department": "總務處文書組",
         "author": "黃章傑"
-    },
-    {
-        "title": "居南邨幹管漏水搶修停水公告(1/03 13:00)",
-        "timestamp": "1704255978",
-        "url": "mail_display.php?timestamp=1704255978",
-        "date": "2024/01/03 12:26",
-        "department": "總務處營繕組",
-        "author": "劉宏銘"
     }
 ]
