@@ -1,5 +1,13 @@
 [
     {
+        "title": "【獎助學金申請】中國工程師學會113年「優秀工程學生獎學金」 (限工程相關學系學士班應屆畢業生)",
+        "timestamp": "1705469731",
+        "url": "mail_display.php?timestamp=1705469731",
+        "date": "2024/01/17 13:35",
+        "department": "學務處",
+        "author": "葉俊良"
+    },
+    {
         "title": "【網路服務維運公告】TWAREN SSL-VPN維護公告",
         "timestamp": "1705458526",
         "url": "mail_display.php?timestamp=1705458526",
@@ -110,13 +118,5 @@
         "date": "2024/01/16 09:14",
         "department": "國際事務處國際合作組",
         "author": "陳良愛"
-    },
-    {
-        "title": "公文系統主機1月19日(五)中午更新停機公告",
-        "timestamp": "1705366925",
-        "url": "mail_display.php?timestamp=1705366925",
-        "date": "2024/01/16 09:02",
-        "department": "總務處文書組",
-        "author": "黃章傑"
     }
 ]

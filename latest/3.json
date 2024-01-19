@@ -1,5 +1,13 @@
 [
     {
+        "title": "公文系統主機1月19日(五)中午更新停機公告",
+        "timestamp": "1705366925",
+        "url": "mail_display.php?timestamp=1705366925",
+        "date": "2024/01/16 09:02",
+        "department": "總務處文書組",
+        "author": "黃章傑"
+    },
+    {
         "title": "【獎助學金申請】幼幼社會福利慈善基金會「113年跨縣市求學清寒學子助學」",
         "timestamp": "1705327902",
         "url": "mail_display.php?timestamp=1705327902",
@@ -110,13 +118,5 @@
         "date": "2024/01/13 07:55",
         "department": "理工學院 光電工程學系",
         "author": "劉碧純"
-    },
-    {
-        "title": "圖書館入口網更改網址",
-        "timestamp": "1705046145",
-        "url": "mail_display.php?timestamp=1705046145",
-        "date": "2024/01/12 15:55",
-        "department": "圖書資訊處圖資服務組",
-        "author": "何銘俊"
     }
 ]
