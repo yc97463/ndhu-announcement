@@ -1,5 +1,13 @@
 [
     {
+        "title": "【獎助學金申請】本校112學年度「張水治女士愛心獎助學金」",
+        "timestamp": "1706083047",
+        "url": "mail_display.php?timestamp=1706083047",
+        "date": "2024/01/24 15:57",
+        "department": "學務處",
+        "author": "葉俊良"
+    },
+    {
         "title": "【獎助學金申請】本校112學年度「花蓮普明寺洋霞教育獎學金」",
         "timestamp": "1706081865",
         "url": "mail_display.php?timestamp=1706081865",
@@ -110,13 +118,5 @@
         "date": "2024/01/24 10:18",
         "department": "環境學院",
         "author": "程曦"
-    },
-    {
-        "title": "【獎助學金申請】臺北市九如禪林基金會第三屆(112年度)清寒弱勢優秀學生獎助學金",
-        "timestamp": "1706056418",
-        "url": "mail_display.php?timestamp=1706056418",
-        "date": "2024/01/24 08:33",
-        "department": "學務處",
-        "author": "葉俊良"
     }
 ]
