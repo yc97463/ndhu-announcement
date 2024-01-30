@@ -1,5 +1,37 @@
 [
     {
+        "title": "【Student Dormitory】To view dormitory-related fees for student dormitories in Bank of Taiwan, please enter the collection category as '1194'",
+        "timestamp": "1706496195",
+        "url": "mail_display.php?timestamp=1706496195",
+        "date": "2024/01/29 10:43",
+        "department": "學務處生活輔導組",
+        "author": "陳怡秀"
+    },
+    {
+        "title": "【學生宿舍】臺灣銀行之學生宿舍住宿相關費用檢視，代收類別輸入「1194」始可查看",
+        "timestamp": "1706496135",
+        "url": "mail_display.php?timestamp=1706496135",
+        "date": "2024/01/29 10:42",
+        "department": "學務處生活輔導組",
+        "author": "陳怡秀"
+    },
+    {
+        "title": "本校「物品借用管理系統」及「教室講堂借用系統」線上借用與審核功能啟用公告。",
+        "timestamp": "1706493288",
+        "url": "mail_display.php?timestamp=1706493288",
+        "date": "2024/01/29 09:54",
+        "department": "總務處事務組",
+        "author": "邱愛茵"
+    },
+    {
+        "title": "【徵才公告】國立東華大學原住民族樂舞與藝術學士學位學程徵聘校務基金助理一名",
+        "timestamp": "1706488570",
+        "url": "mail_display.php?timestamp=1706488570",
+        "date": "2024/01/29 08:36",
+        "department": "原住民族樂舞與藝術學士學位學程",
+        "author": "黃鎂婷"
+    },
+    {
         "title": "【國立東華大學無邊境員生消費合作社誠徵專任人員】",
         "timestamp": "1706268298",
         "url": "mail_display.php?timestamp=1706268298",
@@ -86,37 +118,5 @@
         "date": "2024/01/24 15:15",
         "department": "學務處",
         "author": "王玉君"
-    },
-    {
-        "title": "【獎助學金申請】本校112學年度「生命鐵人獎學金」(已近畢業之身心障礙生)",
-        "timestamp": "1706078137",
-        "url": "mail_display.php?timestamp=1706078137",
-        "date": "2024/01/24 14:35",
-        "department": "學務處",
-        "author": "葉俊良"
-    },
-    {
-        "title": "【獎助學金申請】本校112學年度「紀念吳兆棠博士獎學金」(限應屆畢業生)",
-        "timestamp": "1706077761",
-        "url": "mail_display.php?timestamp=1706077761",
-        "date": "2024/01/24 14:29",
-        "department": "學務處",
-        "author": "葉俊良"
-    },
-    {
-        "title": "【獎助學金申請】本校112學年度「施冠慨教授孝親獎學金」(限應屆畢業)",
-        "timestamp": "1706077217",
-        "url": "mail_display.php?timestamp=1706077217",
-        "date": "2024/01/24 14:20",
-        "department": "學務處",
-        "author": "葉俊良"
-    },
-    {
-        "title": "【公告】國家文官學院辦理113年「公務英語力UP訓練」系列課程－「實用PRO英語工作坊」第1梯次至第3梯次。",
-        "timestamp": "1706075474",
-        "url": "mail_display.php?timestamp=1706075474",
-        "date": "2024/01/24 13:51",
-        "department": "人事室",
-        "author": "張淑慧"
     }
 ]
