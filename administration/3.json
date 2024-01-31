@@ -1,5 +1,21 @@
 [
     {
+        "title": "圖書館入口網更改網址",
+        "timestamp": "1705046145",
+        "url": "mail_display.php?timestamp=1705046145",
+        "date": "2024/01/12 15:55",
+        "department": "圖書資訊處圖資服務組",
+        "author": "何銘俊"
+    },
+    {
+        "title": "【交通安全宣導】113年寒假期間交通安全宣導注意事項",
+        "timestamp": "1705030111",
+        "url": "mail_display.php?timestamp=1705030111",
+        "date": "2024/01/12 11:28",
+        "department": "學務處生活輔導組",
+        "author": "林嘉瑩"
+    },
+    {
         "title": "【更正附件】113年寒假及春節假期間總務處業務相關注意事項",
         "timestamp": "1705029995",
         "url": "mail_display.php?timestamp=1705029995",
@@ -102,21 +118,5 @@
         "date": "2024/01/11 09:39",
         "department": "研發處",
         "author": "李淑淳"
-    },
-    {
-        "title": "112-2校核心「氣候變遷科學基礎」課程因故停開，敬請改選其他課程",
-        "timestamp": "1704933802",
-        "url": "mail_display.php?timestamp=1704933802",
-        "date": "2024/01/11 08:43",
-        "department": "通識教育中心",
-        "author": "陳美娥"
-    },
-    {
-        "title": "本校學生活動中心防鴿設施施作公告。",
-        "timestamp": "1704873936",
-        "url": "mail_display.php?timestamp=1704873936",
-        "date": "2024/01/10 16:05",
-        "department": "總務處環境保護組",
-        "author": "賴榮璉"
     }
 ]
