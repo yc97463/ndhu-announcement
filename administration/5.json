@@ -1,5 +1,13 @@
 [
     {
+        "title": "行政大樓、仰山莊廢品室廢品清運作業公告",
+        "timestamp": "1704782551",
+        "url": "mail_display.php?timestamp=1704782551",
+        "date": "2024/01/09 14:42",
+        "department": "總務處保管組",
+        "author": "林慧濘"
+    },
+    {
         "title": "113 年度校區內客貨電梯進行月保養排程通告( 1 月保養)",
         "timestamp": "1704765194",
         "url": "mail_display.php?timestamp=1704765194",
@@ -110,13 +118,5 @@
         "date": "2024/01/05 13:33",
         "department": "研發處",
         "author": "彭惠玉"
-    },
-    {
-        "title": "國立東華大學對監察院糾正案之聲明 ",
-        "timestamp": "1704431993",
-        "url": "mail_display.php?timestamp=1704431993",
-        "date": "2024/01/05 13:19",
-        "department": "秘書室公關宣傳組",
-        "author": "陳傳智"
     }
 ]
