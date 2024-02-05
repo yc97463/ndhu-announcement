@@ -1,5 +1,13 @@
 [
     {
+        "title": "居南邨水管維修停水公告(1/31)",
+        "timestamp": "1706514668",
+        "url": "mail_display.php?timestamp=1706514668",
+        "date": "2024/01/29 15:51",
+        "department": "總務處營繕組",
+        "author": "郭張全"
+    },
+    {
         "title": "藝術學院113/01/30緊急停水公告",
         "timestamp": "1706509836",
         "url": "mail_display.php?timestamp=1706509836",
@@ -110,13 +118,5 @@
         "date": "2024/01/18 08:59",
         "department": "總務處環境保護組",
         "author": "許智翔"
-    },
-    {
-        "title": "【網路服務維運公告】TWAREN SSL-VPN維護公告",
-        "timestamp": "1705458526",
-        "url": "mail_display.php?timestamp=1705458526",
-        "date": "2024/01/17 10:28",
-        "department": "圖書資訊處網路管理組",
-        "author": "李宇峰"
     }
 ]
