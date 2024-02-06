@@ -1,5 +1,13 @@
 [
     {
+        "title": "【Student Dormitory】To view dormitory-related fees for student dormitories in Bank of Taiwan, please enter the collection category as '1194'",
+        "timestamp": "1706496195",
+        "url": "mail_display.php?timestamp=1706496195",
+        "date": "2024/01/29 10:43",
+        "department": "學務處生活輔導組",
+        "author": "陳怡秀"
+    },
+    {
         "title": "【學生宿舍】臺灣銀行之學生宿舍住宿相關費用檢視，代收類別輸入「1194」始可查看",
         "timestamp": "1706496135",
         "url": "mail_display.php?timestamp=1706496135",
@@ -110,13 +118,5 @@
         "date": "2024/01/24 15:15",
         "department": "學務處",
         "author": "王玉君"
-    },
-    {
-        "title": "【獎助學金申請】本校112學年度「生命鐵人獎學金」(已近畢業之身心障礙生)",
-        "timestamp": "1706078137",
-        "url": "mail_display.php?timestamp=1706078137",
-        "date": "2024/01/24 14:35",
-        "department": "學務處",
-        "author": "葉俊良"
     }
 ]
