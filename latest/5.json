@@ -1,5 +1,21 @@
 [
     {
+        "title": "【學生宿舍】臺灣銀行之學生宿舍住宿相關費用檢視，代收類別輸入「1194」始可查看",
+        "timestamp": "1706496135",
+        "url": "mail_display.php?timestamp=1706496135",
+        "date": "2024/01/29 10:42",
+        "department": "學務處生活輔導組",
+        "author": "陳怡秀"
+    },
+    {
+        "title": "本校「物品借用管理系統」及「教室講堂借用系統」線上借用與審核功能啟用公告。",
+        "timestamp": "1706493288",
+        "url": "mail_display.php?timestamp=1706493288",
+        "date": "2024/01/29 09:54",
+        "department": "總務處事務組",
+        "author": "邱愛茵"
+    },
+    {
         "title": "【徵才公告】國立東華大學原住民族樂舞與藝術學士學位學程徵聘校務基金助理一名",
         "timestamp": "1706488570",
         "url": "mail_display.php?timestamp=1706488570",
@@ -100,22 +116,6 @@
         "timestamp": "1706078137",
         "url": "mail_display.php?timestamp=1706078137",
         "date": "2024/01/24 14:35",
-        "department": "學務處",
-        "author": "葉俊良"
-    },
-    {
-        "title": "【獎助學金申請】本校112學年度「紀念吳兆棠博士獎學金」(限應屆畢業生)",
-        "timestamp": "1706077761",
-        "url": "mail_display.php?timestamp=1706077761",
-        "date": "2024/01/24 14:29",
-        "department": "學務處",
-        "author": "葉俊良"
-    },
-    {
-        "title": "【獎助學金申請】本校112學年度「施冠慨教授孝親獎學金」(限應屆畢業)",
-        "timestamp": "1706077217",
-        "url": "mail_display.php?timestamp=1706077217",
-        "date": "2024/01/24 14:20",
         "department": "學務處",
         "author": "葉俊良"
     }
