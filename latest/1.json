@@ -1,5 +1,13 @@
 [
     {
+        "title": "【徵件】2024島鏈亞太國際藝術展",
+        "timestamp": "1707356448",
+        "url": "mail_display.php?timestamp=1707356448",
+        "date": "2024/02/08 09:40",
+        "department": "藝術學院",
+        "author": "黃小姐"
+    },
+    {
         "title": "理工一館電梯1故障維修公告",
         "timestamp": "1707294254",
         "url": "mail_display.php?timestamp=1707294254",
@@ -110,13 +118,5 @@
         "date": "2024/02/06 19:45",
         "department": "社會參與中心",
         "author": "童小姐"
-    },
-    {
-        "title": "【微學程推廣】國立東華大學教育大數據微學程—學習如何以大數據來解讀教育的問題！",
-        "timestamp": "1707205901",
-        "url": "mail_display.php?timestamp=1707205901",
-        "date": "2024/02/06 15:51",
-        "department": "教學卓越中心",
-        "author": "黃小姐"
     }
 ]
