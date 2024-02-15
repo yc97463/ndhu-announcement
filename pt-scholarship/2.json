@@ -1,5 +1,13 @@
 [
     {
+        "title": "【獎助學金申請】台南市112-2清寒優秀學生獎學金 (限台南市籍)",
+        "timestamp": "1706583621",
+        "url": "mail_display.php?timestamp=1706583621",
+        "date": "2024/01/30 11:00",
+        "department": "學務處",
+        "author": "葉俊良"
+    },
+    {
         "title": "【獎助學金申請】得力教育基金會112-2清寒獎助學金",
         "timestamp": "1706575700",
         "url": "mail_display.php?timestamp=1706575700",
@@ -110,13 +118,5 @@
         "date": "2024/01/20 20:42",
         "department": "學務處",
         "author": "葉俊良"
-    },
-    {
-        "title": "【轉知】2024學年度土耳其獎學金開放申請",
-        "timestamp": "1705541095",
-        "url": "mail_display.php?timestamp=1705541095",
-        "date": "2024/01/18 09:24",
-        "department": "國際事務處國際合作組",
-        "author": "陳良愛"
     }
 ]
