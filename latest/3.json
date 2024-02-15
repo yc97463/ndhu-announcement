@@ -1,5 +1,13 @@
 [
     {
+        "title": "【徴聘教師】國立東華大學生命科學系徴聘專任教師一名(收件至3/8)",
+        "timestamp": "1707125908",
+        "url": "mail_display.php?timestamp=1707125908",
+        "date": "2024/02/05 17:38",
+        "department": "生命科學系",
+        "author": "元淑英"
+    },
+    {
         "title": "行政會議 會議紀錄公告通知",
         "timestamp": "1707123914",
         "url": "mail_display.php?timestamp=1707123914",
@@ -110,13 +118,5 @@
         "date": "2024/02/01 09:28",
         "department": "學務處生活輔導組",
         "author": "黃勇程"
-    },
-    {
-        "title": "東華e學苑改版公告",
-        "timestamp": "1706750397",
-        "url": "mail_display.php?timestamp=1706750397",
-        "date": "2024/02/01 09:19",
-        "department": "教學卓越中心",
-        "author": "王立凡"
     }
 ]
