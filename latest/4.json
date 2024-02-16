@@ -1,5 +1,21 @@
 [
     {
+        "title": "【徴聘教師】國立東華大學生命科學系徴聘專任教師一名(收件至3/8)",
+        "timestamp": "1707125908",
+        "url": "mail_display.php?timestamp=1707125908",
+        "date": "2024/02/05 17:38",
+        "department": "生命科學系",
+        "author": "元淑英"
+    },
+    {
+        "title": "行政會議 會議紀錄公告通知",
+        "timestamp": "1707123914",
+        "url": "mail_display.php?timestamp=1707123914",
+        "date": "2024/02/05 17:05",
+        "department": "秘書室議事公文組",
+        "author": "陳婉婉"
+    },
+    {
         "title": "【微學程推廣】國立東華大學教育大數據微學程—學習如何以大數據來解讀教育的問題！",
         "timestamp": "1707114396",
         "url": "mail_display.php?timestamp=1707114396",
@@ -102,21 +118,5 @@
         "date": "2024/02/01 09:28",
         "department": "學務處生活輔導組",
         "author": "黃勇程"
-    },
-    {
-        "title": "東華e學苑改版公告",
-        "timestamp": "1706750397",
-        "url": "mail_display.php?timestamp=1706750397",
-        "date": "2024/02/01 09:19",
-        "department": "教學卓越中心",
-        "author": "王立凡"
-    },
-    {
-        "title": "【課務組】112學年度第2學期學士班課程「免修」申請（自即日起至02/21(三)午夜23:59止）",
-        "timestamp": "1706747507",
-        "url": "mail_display.php?timestamp=1706747507",
-        "date": "2024/02/01 08:31",
-        "department": "教務處課務組",
-        "author": "課務組"
     }
 ]
