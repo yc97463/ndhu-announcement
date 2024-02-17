@@ -1,5 +1,13 @@
 [
     {
+        "title": "【課務組公告】請注意網路加退選時間  Please Notice the Period for Online Add/Drop Courses",
+        "timestamp": "1708064081",
+        "url": "mail_display.php?timestamp=1708064081",
+        "date": "2024/02/16 14:14",
+        "department": "教務處課務組",
+        "author": "課務組"
+    },
+    {
         "title": "【通識】112-2學期通識課程活動補助申請(第三次公告)",
         "timestamp": "1708062419",
         "url": "mail_display.php?timestamp=1708062419",
@@ -110,13 +118,5 @@
         "date": "2024/02/15 14:43",
         "department": "人事室",
         "author": "張淑慧"
-    },
-    {
-        "title": " 敬邀參加112年國立東華大學教育大數據計畫—微學程招生說明會！學習如何以大數據方法來分析解讀教育的問題！",
-        "timestamp": "1707979072",
-        "url": "mail_display.php?timestamp=1707979072",
-        "date": "2024/02/15 14:37",
-        "department": "教學卓越中心",
-        "author": "黃小姐"
     }
 ]
