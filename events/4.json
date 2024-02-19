@@ -1,13 +1,5 @@
 [
     {
-        "title": "體育館『體能訓練室』寒假期間免費開放公告(開放時間修正)",
-        "timestamp": "1705023363",
-        "url": "mail_display.php?timestamp=1705023363",
-        "date": "2024/01/12 09:36",
-        "department": "體育中心",
-        "author": "沈正雄"
-    },
-    {
         "title": "體育館『體能訓練室』寒假期間免費開放公告",
         "timestamp": "1704960924",
         "url": "mail_display.php?timestamp=1704960924",
@@ -118,5 +110,13 @@
         "date": "2024/01/08 09:39",
         "department": "圖書資訊處圖資服務組",
         "author": "廖銘珠"
+    },
+    {
+        "title": "【藝創系】113.1.8「112-1藝創系學會期末系大會」限本系(1小時認證)",
+        "timestamp": "1704498903",
+        "url": "mail_display.php?timestamp=1704498903",
+        "date": "2024/01/06 07:55",
+        "department": "藝術學院 藝術創意產業學系",
+        "author": "謝明海"
     }
 ]
