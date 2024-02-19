@@ -1,5 +1,21 @@
 [
     {
+        "title": "【獎助學金申請】台北市台灣許姓宗祠113年許姓宗親子女獎學金",
+        "timestamp": "1707290126",
+        "url": "mail_display.php?timestamp=1707290126",
+        "date": "2024/02/07 15:15",
+        "department": "學務處",
+        "author": "葉俊良"
+    },
+    {
+        "title": "【課務組公告】112-2學期選課相關公告  Announcement about 112-2 Courses Selection",
+        "timestamp": "1707288484",
+        "url": "mail_display.php?timestamp=1707288484",
+        "date": "2024/02/07 14:48",
+        "department": "教務處課務組",
+        "author": "課務組"
+    },
+    {
         "title": "【獎助學金申請】台東縣112-2清寒優秀學生愛心-安心就學獎學金 (限台東縣籍低收或中低收)",
         "timestamp": "1707288139",
         "url": "mail_display.php?timestamp=1707288139",
@@ -102,21 +118,5 @@
         "date": "2024/02/06 11:23",
         "department": "學務處生活輔導組",
         "author": "黃勇程"
-    },
-    {
-        "title": "【公告Notice】春節期間中英文編譯服務暫停收件 Proofreading and Translation Service closed during the Lunar New Year",
-        "timestamp": "1707186650",
-        "url": "mail_display.php?timestamp=1707186650",
-        "date": "2024/02/06 10:30",
-        "department": "語言中心",
-        "author": "呂岳芳"
-    },
-    {
-        "title": "【活動】第21屆全國法語歌唱大賽-東區複賽 21ème Concours de chansons Francophones Demi-finale est",
-        "timestamp": "1707186514",
-        "url": "mail_display.php?timestamp=1707186514",
-        "date": "2024/02/06 10:28",
-        "department": "語言中心",
-        "author": "呂岳芳"
     }
 ]
