@@ -1,5 +1,13 @@
 [
     {
+        "title": "【獎助學金申請】勞動部112-2失業勞工子女就學補助",
+        "timestamp": "1708140968",
+        "url": "mail_display.php?timestamp=1708140968",
+        "date": "2024/02/17 11:36",
+        "department": "學務處",
+        "author": "葉俊良"
+    },
+    {
         "title": "【獎助學金申請】賑災基金會112-2天然災害受災家庭 (低收或中低收)子女助學金",
         "timestamp": "1708138436",
         "url": "mail_display.php?timestamp=1708138436",
@@ -110,13 +118,5 @@
         "date": "2024/02/16 14:14",
         "department": "教務處課務組",
         "author": "課務組"
-    },
-    {
-        "title": "【通識】112-2學期通識課程活動補助申請(第三次公告)",
-        "timestamp": "1708062419",
-        "url": "mail_display.php?timestamp=1708062419",
-        "date": "2024/02/16 13:46",
-        "department": "通識教育中心",
-        "author": "李睿芬"
     }
 ]
