@@ -1,5 +1,13 @@
 [
     {
+        "title": "本校「物品借用管理系統」及「教室講堂借用系統」線上借用與審核功能啟用公告。",
+        "timestamp": "1706493288",
+        "url": "mail_display.php?timestamp=1706493288",
+        "date": "2024/01/29 09:54",
+        "department": "總務處事務組",
+        "author": "邱愛茵"
+    },
+    {
         "title": "【人事室公告】113年寒休事宜",
         "timestamp": "1706173660",
         "url": "mail_display.php?timestamp=1706173660",
@@ -110,13 +118,5 @@
         "date": "2024/01/16 12:11",
         "department": "圖書資訊處校務系統組",
         "author": "林志軒"
-    },
-    {
-        "title": "公文系統主機1月19日(五)中午更新停機公告",
-        "timestamp": "1705366925",
-        "url": "mail_display.php?timestamp=1705366925",
-        "date": "2024/01/16 09:02",
-        "department": "總務處文書組",
-        "author": "黃章傑"
     }
 ]
