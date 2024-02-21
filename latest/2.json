@@ -1,5 +1,21 @@
 [
     {
+        "title": "開學應該來點...",
+        "timestamp": "1708424417",
+        "url": "mail_display.php?timestamp=1708424417",
+        "date": "2024/02/20 18:20",
+        "department": "管理學院",
+        "author": "洄瀾共好大學社會責任中心"
+    },
+    {
+        "title": "【公告】本校112學年度人事甄審暨考績委員會組成",
+        "timestamp": "1708420435",
+        "url": "mail_display.php?timestamp=1708420435",
+        "date": "2024/02/20 17:13",
+        "department": "人事室",
+        "author": "陳建文"
+    },
+    {
         "title": "【獎助學金申請】中華民國紅心字會113年度「紅心向日葵獎助學金」 (限受刑人子女)",
         "timestamp": "1708419734",
         "url": "mail_display.php?timestamp=1708419734",
@@ -102,21 +118,5 @@
         "date": "2024/02/19 17:58",
         "department": "體育中心",
         "author": "楊永義"
-    },
-    {
-        "title": "國立東華大學數位學伴－112-2學期【大學伴熱烈招募中】",
-        "timestamp": "1708336467",
-        "url": "mail_display.php?timestamp=1708336467",
-        "date": "2024/02/19 17:54",
-        "department": "花師教育學院",
-        "author": "李宛玲"
-    },
-    {
-        "title": "請授課教師提供112學年度第2學期「教師指定參考書清單」。",
-        "timestamp": "1708331674",
-        "url": "mail_display.php?timestamp=1708331674",
-        "date": "2024/02/19 16:34",
-        "department": "圖書資訊處圖資服務組",
-        "author": "陳昱佐"
     }
 ]
