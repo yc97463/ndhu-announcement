@@ -1,5 +1,13 @@
 [
     {
+        "title": "【獎助學金申請】臺北市輔世慈善基金會112-2勵學金",
+        "timestamp": "1708532470",
+        "url": "mail_display.php?timestamp=1708532470",
+        "date": "2024/02/22 00:21",
+        "department": "學務處",
+        "author": "葉俊良"
+    },
+    {
         "title": "【獎助學金申請】本校112學年度「LGBT研究暨社團服務獎助學金」(含僑、外、陸生)",
         "timestamp": "1708522400",
         "url": "mail_display.php?timestamp=1708522400",
@@ -110,13 +118,5 @@
         "date": "2024/02/21 10:11",
         "department": "學務處",
         "author": "鄭淑亭"
-    },
-    {
-        "title": "Chung-Ang University International Summer Program 2024",
-        "timestamp": "1708481030",
-        "url": "mail_display.php?timestamp=1708481030",
-        "date": "2024/02/21 10:03",
-        "department": "國際事務處國際合作組",
-        "author": "梁忠誠"
     }
 ]
