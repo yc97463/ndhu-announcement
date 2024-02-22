@@ -1,5 +1,13 @@
 [
     {
+        "title": "體育中心新學期的推廣課程開始報名",
+        "timestamp": "1708336689",
+        "url": "mail_display.php?timestamp=1708336689",
+        "date": "2024/02/19 17:58",
+        "department": "體育中心",
+        "author": "楊永義"
+    },
+    {
         "title": "國立東華大學數位學伴－112-2學期【大學伴熱烈招募中】",
         "timestamp": "1708336467",
         "url": "mail_display.php?timestamp=1708336467",
@@ -110,13 +118,5 @@
         "date": "2024/02/19 12:03",
         "department": "學務處",
         "author": "葉俊良"
-    },
-    {
-        "title": "112-2有你真好!心理諮商中心志工大募集!",
-        "timestamp": "1708314304",
-        "url": "mail_display.php?timestamp=1708314304",
-        "date": "2024/02/19 11:45",
-        "department": "心理諮商輔導中心",
-        "author": "林賢謀"
     }
 ]
