@@ -1,5 +1,13 @@
 [
     {
+        "title": "112-1體育中心-身心靈推廣課程",
+        "timestamp": "1694762198",
+        "url": "mail_display.php?timestamp=1694762198",
+        "date": "2023/09/15 15:16",
+        "department": "體育中心",
+        "author": "楊永義"
+    },
+    {
         "title": "東華大學數位學伴中心－112年9月14日（四）【大學伴招募說明會】",
         "timestamp": "1694678423",
         "url": "mail_display.php?timestamp=1694678423",
@@ -110,13 +118,5 @@
         "date": "2023/08/03 14:13",
         "department": "東華創新研究園區",
         "author": "陳于凡"
-    },
-    {
-        "title": "國立東華大學探索體驗教育場繩索初階訓練課程招生",
-        "timestamp": "1686881851",
-        "url": "mail_display.php?timestamp=1686881851",
-        "date": "2023/06/16 10:17",
-        "department": "體育中心",
-        "author": "楊永義"
     }
 ]
