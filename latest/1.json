@@ -1,5 +1,13 @@
 [
     {
+        "title": "你是不是還不知道......",
+        "timestamp": "1708692618",
+        "url": "mail_display.php?timestamp=1708692618",
+        "date": "2024/02/23 20:50",
+        "department": "管理學院",
+        "author": "洄瀾共好大學社會責任中心"
+    },
+    {
         "title": "多容館綿花田麵包廠商無預警停業說明",
         "timestamp": "1708677512",
         "url": "mail_display.php?timestamp=1708677512",
@@ -110,13 +118,5 @@
         "date": "2024/02/22 16:28",
         "department": "學務處衛生保健組",
         "author": "王惠貞"
-    },
-    {
-        "title": "【新創大學堂】迎接AI時代，如何為未來做好準備",
-        "timestamp": "1708588716",
-        "url": "mail_display.php?timestamp=1708588716",
-        "date": "2024/02/22 15:58",
-        "department": "研發處創新育成中心",
-        "author": "吳其璁"
     }
 ]
