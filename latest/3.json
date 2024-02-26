@@ -1,6 +1,14 @@
 [
     {
         "title": "政府心理諮商服務資源",
+        "timestamp": "1708656149",
+        "url": "mail_display.php?timestamp=1708656149",
+        "date": "2024/02/23 10:42",
+        "department": "心理諮商輔導中心",
+        "author": "林賢謀"
+    },
+    {
+        "title": "政府心理諮商服務資源",
         "timestamp": "1708656133",
         "url": "mail_display.php?timestamp=1708656133",
         "date": "2024/02/23 10:42",
@@ -110,13 +118,5 @@
         "date": "2024/02/22 13:30",
         "department": "學務處",
         "author": "鄭淑亭"
-    },
-    {
-        "title": "【公告】112學年度第2學期資訊科技(程式設計)課程免修申請審核通過名單 ",
-        "timestamp": "1708579168",
-        "url": "mail_display.php?timestamp=1708579168",
-        "date": "2024/02/22 13:19",
-        "department": "通識教育中心",
-        "author": "陳美娥"
     }
 ]
