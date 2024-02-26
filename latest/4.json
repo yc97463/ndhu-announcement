@@ -1,5 +1,29 @@
 [
     {
+        "title": "中等教育學程 報名公告",
+        "timestamp": "1708517628",
+        "url": "mail_display.php?timestamp=1708517628",
+        "date": "2024/02/21 20:13",
+        "department": "師資培育中心",
+        "author": "中等學程組"
+    },
+    {
+        "title": "第24屆東華奇萊文學獎徵文活動~歡迎踴躍投稿~",
+        "timestamp": "1708501758",
+        "url": "mail_display.php?timestamp=1708501758",
+        "date": "2024/02/21 15:49",
+        "department": "人文社會科學學院",
+        "author": "姜妃澤"
+    },
+    {
+        "title": "【交通安全宣導】學生上、放學期間，請注意行車安全",
+        "timestamp": "1708500528",
+        "url": "mail_display.php?timestamp=1708500528",
+        "date": "2024/02/21 15:28",
+        "department": "學務處生活輔導組",
+        "author": "林嘉瑩"
+    },
+    {
         "title": "【公告】「客家委員會補助全國公務人員、教育人員及軍警 人 員參加113年度客語能力認證報名費實施計畫」案，詳如說明，請查照。",
         "timestamp": "1708500319",
         "url": "mail_display.php?timestamp=1708500319",
@@ -94,29 +118,5 @@
         "date": "2024/02/21 09:44",
         "department": "總務處環境保護組",
         "author": "許智翔"
-    },
-    {
-        "title": "【學生宿舍】112學年第一學期電費、扣罰彙整明細公告 【Student Dormitory】 Announcement of Billing Verification for the Fall Semester , 2023-2024 Academic Year",
-        "timestamp": "1708479359",
-        "url": "mail_display.php?timestamp=1708479359",
-        "date": "2024/02/21 09:35",
-        "department": "學務處生活輔導組",
-        "author": "陳怡秀"
-    },
-    {
-        "title": "紐西蘭懷卡托大學×東華法專班交流分享會",
-        "timestamp": "1708478308",
-        "url": "mail_display.php?timestamp=1708478308",
-        "date": "2024/02/21 09:18",
-        "department": "法律學系",
-        "author": "黃亦靖"
-    },
-    {
-        "title": "國立東華大學創新育成中心徵聘專案助理(駐點人員)",
-        "timestamp": "1708442278",
-        "url": "mail_display.php?timestamp=1708442278",
-        "date": "2024/02/20 23:17",
-        "department": "研發處創新育成中心",
-        "author": "吳其璁"
     }
 ]
