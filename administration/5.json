@@ -1,5 +1,13 @@
 [
     {
+        "title": "【學生宿舍】臺灣銀行之學生宿舍住宿相關費用檢視，代收類別輸入「1194」始可查看",
+        "timestamp": "1706496135",
+        "url": "mail_display.php?timestamp=1706496135",
+        "date": "2024/01/29 10:42",
+        "department": "學務處生活輔導組",
+        "author": "陳怡秀"
+    },
+    {
         "title": "本校「物品借用管理系統」及「教室講堂借用系統」線上借用與審核功能啟用公告。",
         "timestamp": "1706493288",
         "url": "mail_display.php?timestamp=1706493288",
@@ -110,13 +118,5 @@
         "date": "2024/01/16 14:00",
         "department": "學務處生活輔導組",
         "author": "陳詩啓"
-    },
-    {
-        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
-        "timestamp": "1705378281",
-        "url": "mail_display.php?timestamp=1705378281",
-        "date": "2024/01/16 12:11",
-        "department": "圖書資訊處校務系統組",
-        "author": "林志軒"
     }
 ]
