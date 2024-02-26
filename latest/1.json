@@ -1,5 +1,13 @@
 [
     {
+        "title": "【K書中心公告】K書中心A館(2/28)休館1日 [K Book Center Announcement] K Book Center A Building will be closed on February 28 for one day.",
+        "timestamp": "1708945288",
+        "url": "mail_display.php?timestamp=1708945288",
+        "date": "2024/02/26 19:01",
+        "department": "教學卓越中心",
+        "author": "游守正"
+    },
+    {
         "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
         "timestamp": "1708941933",
         "url": "mail_display.php?timestamp=1708941933",
@@ -110,13 +118,5 @@
         "date": "2024/02/26 10:11",
         "department": "體育中心",
         "author": "楊永義"
-    },
-    {
-        "title": "113年3月份全校綠地除草維護時間及施作區域公告",
-        "timestamp": "1708911132",
-        "url": "mail_display.php?timestamp=1708911132",
-        "date": "2024/02/26 09:32",
-        "department": "總務處環境保護組",
-        "author": "賴榮璉"
     }
 ]
