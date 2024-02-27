@@ -1,5 +1,13 @@
 [
     {
+        "title": "【論文獎助】臺灣教育大學系統「第十屆優良博碩士學位論文獎助」",
+        "timestamp": "1709047251",
+        "url": "mail_display.php?timestamp=1709047251",
+        "date": "2024/02/27 23:20",
+        "department": "學務處",
+        "author": "葉俊良"
+    },
+    {
         "title": "【獎助學金申請】新北市112學年度高中以上學校學生獎學金 (限新北市籍)",
         "timestamp": "1709043770",
         "url": "mail_display.php?timestamp=1709043770",
@@ -110,13 +118,5 @@
         "date": "2024/02/27 13:24",
         "department": "人工智慧辦公室",
         "author": "林佩瑤"
-    },
-    {
-        "title": "【獎助學金申請】中華開發文教基金會113年「技藝職能獎學金」(體育、藝術、技職等家境清寒)",
-        "timestamp": "1709003926",
-        "url": "mail_display.php?timestamp=1709003926",
-        "date": "2024/02/27 11:18",
-        "department": "學務處",
-        "author": "葉俊良"
     }
 ]
