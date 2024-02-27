@@ -1,5 +1,37 @@
 [
     {
+        "title": "【獎助學金申請】臺北市輔世慈善基金會112-2勵學金",
+        "timestamp": "1708532470",
+        "url": "mail_display.php?timestamp=1708532470",
+        "date": "2024/02/22 00:21",
+        "department": "學務處",
+        "author": "葉俊良"
+    },
+    {
+        "title": "【獎助學金申請】本校112學年度「LGBT研究暨社團服務獎助學金」(含僑、外、陸生)",
+        "timestamp": "1708522400",
+        "url": "mail_display.php?timestamp=1708522400",
+        "date": "2024/02/21 21:33",
+        "department": "學務處",
+        "author": "葉俊良"
+    },
+    {
+        "title": "【獎助學金申請】本校112學年度「張阿尾女士孝親獎助學金」(含僑、外、陸生)",
+        "timestamp": "1708521898",
+        "url": "mail_display.php?timestamp=1708521898",
+        "date": "2024/02/21 21:24",
+        "department": "學務處",
+        "author": "葉俊良"
+    },
+    {
+        "title": "中等教育學程 報名公告",
+        "timestamp": "1708517628",
+        "url": "mail_display.php?timestamp=1708517628",
+        "date": "2024/02/21 20:13",
+        "department": "師資培育中心",
+        "author": "中等學程組"
+    },
+    {
         "title": "第24屆東華奇萊文學獎徵文活動~歡迎踴躍投稿~",
         "timestamp": "1708501758",
         "url": "mail_display.php?timestamp=1708501758",
@@ -86,37 +118,5 @@
         "date": "2024/02/21 10:11",
         "department": "學務處",
         "author": "鄭淑亭"
-    },
-    {
-        "title": "Chung-Ang University International Summer Program 2024",
-        "timestamp": "1708481030",
-        "url": "mail_display.php?timestamp=1708481030",
-        "date": "2024/02/21 10:03",
-        "department": "國際事務處國際合作組",
-        "author": "梁忠誠"
-    },
-    {
-        "title": "「112-2學期財物報廢時間」公告",
-        "timestamp": "1708480298",
-        "url": "mail_display.php?timestamp=1708480298",
-        "date": "2024/02/21 09:51",
-        "department": "總務處保管組",
-        "author": "林慧濘"
-    },
-    {
-        "title": "二二八和平紀念日(2月28日星期三)暫停收取垃圾一日。Suspension of Garbage Collection for 228 Peace Memorial Day",
-        "timestamp": "1708479887",
-        "url": "mail_display.php?timestamp=1708479887",
-        "date": "2024/02/21 09:44",
-        "department": "總務處環境保護組",
-        "author": "許智翔"
-    },
-    {
-        "title": "【學生宿舍】112學年第一學期電費、扣罰彙整明細公告 【Student Dormitory】 Announcement of Billing Verification for the Fall Semester , 2023-2024 Academic Year",
-        "timestamp": "1708479359",
-        "url": "mail_display.php?timestamp=1708479359",
-        "date": "2024/02/21 09:35",
-        "department": "學務處生活輔導組",
-        "author": "陳怡秀"
     }
 ]
