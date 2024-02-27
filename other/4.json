@@ -1,5 +1,13 @@
 [
     {
+        "title": "【公告】有關附設實驗國民小學辦理113學年度一年級新生暨附設幼兒園新生登記入學事宜，請本校教職員工有意願登記者，於本(113)年3月6日(星期三)前將相關資料寄送至人事室。",
+        "timestamp": "1708053701",
+        "url": "mail_display.php?timestamp=1708053701",
+        "date": "2024/02/16 11:21",
+        "department": "人事室",
+        "author": "劉依虹"
+    },
+    {
         "title": "教育部青年發展署辦理113年「大專生公部門見習計畫」及「經濟自立青年工讀計畫」",
         "timestamp": "1708048985",
         "url": "mail_display.php?timestamp=1708048985",
@@ -110,13 +118,5 @@
         "date": "2024/01/31 08:44",
         "department": "人事室",
         "author": "張淑慧"
-    },
-    {
-        "title": "【K書中心公告】K書中心A館春節休館日期(2/02-2/18)--K Book Center Building A will be closed on Feb 02 -Feb 18,2024.",
-        "timestamp": "1706604163",
-        "url": "mail_display.php?timestamp=1706604163",
-        "date": "2024/01/30 16:42",
-        "department": "教學卓越中心",
-        "author": "游守正"
     }
 ]
