@@ -1,6 +1,14 @@
 [
     {
         "title": "開學應該來點...",
+        "timestamp": "1708424490",
+        "url": "mail_display.php?timestamp=1708424490",
+        "date": "2024/02/20 18:21",
+        "department": "管理學院",
+        "author": "洄瀾共好大學社會責任中心"
+    },
+    {
+        "title": "開學應該來點...",
         "timestamp": "1708424464",
         "url": "mail_display.php?timestamp=1708424464",
         "date": "2024/02/20 18:21",
@@ -110,13 +118,5 @@
         "date": "2024/02/19 09:02",
         "department": "學務處畢業生及校友服務組",
         "author": "陳良玫"
-    },
-    {
-        "title": "【實體】第三部曲：ESG報告書新篇章--TCFD及SBT",
-        "timestamp": "1708214101",
-        "url": "mail_display.php?timestamp=1708214101",
-        "date": "2024/02/18 07:55",
-        "department": "永續發展中心籌備處 ",
-        "author": "李莉莉"
     }
 ]

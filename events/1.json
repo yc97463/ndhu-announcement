@@ -1,6 +1,14 @@
 [
     {
         "title": "【校內講座分享】如何應用AI工具以提升學術研究生產力",
+        "timestamp": "1709013558",
+        "url": "mail_display.php?timestamp=1709013558",
+        "date": "2024/02/27 13:59",
+        "department": "人工智慧辦公室",
+        "author": "林佩瑤"
+    },
+    {
+        "title": "【校內講座分享】如何應用AI工具以提升學術研究生產力",
         "timestamp": "1709011459",
         "url": "mail_display.php?timestamp=1709011459",
         "date": "2024/02/27 13:24",
@@ -110,13 +118,5 @@
         "date": "2024/02/23 10:02",
         "department": "通識教育中心",
         "author": "陳美娥"
-    },
-    {
-        "title": "【工作坊】113/4/3 國內外氣候治理動態及產業碳風險、氣候治理動態與碳權",
-        "timestamp": "1708651945",
-        "url": "mail_display.php?timestamp=1708651945",
-        "date": "2024/02/23 09:32",
-        "department": "永續發展中心籌備處",
-        "author": "李敏賢"
     }
 ]
