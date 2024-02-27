@@ -1,5 +1,29 @@
 [
     {
+        "title": "你是不是還不知道......",
+        "timestamp": "1708692618",
+        "url": "mail_display.php?timestamp=1708692618",
+        "date": "2024/02/23 20:50",
+        "department": "管理學院",
+        "author": "洄瀾共好大學社會責任中心"
+    },
+    {
+        "title": "多容館綿花田麵包廠商無預警停業說明",
+        "timestamp": "1708677512",
+        "url": "mail_display.php?timestamp=1708677512",
+        "date": "2024/02/23 16:38",
+        "department": "總務處事務組",
+        "author": "馬瑋濃"
+    },
+    {
+        "title": "勞動部勞動力發展署辦理「關鍵就業力課程」第二梯次師資甄選",
+        "timestamp": "1708674206",
+        "url": "mail_display.php?timestamp=1708674206",
+        "date": "2024/02/23 15:43",
+        "department": "學務處畢業生及校友服務組",
+        "author": "黃文雯"
+    },
+    {
         "title": "國立東華大學理工學院 應用數學系系主任徵求公告",
         "timestamp": "1708673318",
         "url": "mail_display.php?timestamp=1708673318",
@@ -94,29 +118,5 @@
         "date": "2024/02/22 16:28",
         "department": "學務處衛生保健組",
         "author": "王惠貞"
-    },
-    {
-        "title": "【新創大學堂】迎接AI時代，如何為未來做好準備",
-        "timestamp": "1708588716",
-        "url": "mail_display.php?timestamp=1708588716",
-        "date": "2024/02/22 15:58",
-        "department": "研發處創新育成中心",
-        "author": "吳其璁"
-    },
-    {
-        "title": "【新創大學堂】迎接AI時代，如何為未來做好準備",
-        "timestamp": "1708588715",
-        "url": "mail_display.php?timestamp=1708588715",
-        "date": "2024/02/22 15:58",
-        "department": "研發處創新育成中心",
-        "author": "吳其璁"
-    },
-    {
-        "title": "國立東華大學理工學院 物理學系系主任徵求公告",
-        "timestamp": "1708588477",
-        "url": "mail_display.php?timestamp=1708588477",
-        "date": "2024/02/22 15:54",
-        "department": "理工學院",
-        "author": "潘姿瑜"
     }
 ]
