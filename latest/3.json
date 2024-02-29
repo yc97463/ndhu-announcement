@@ -1,6 +1,14 @@
 [
     {
         "title": "【校內講座分享】如何應用AI工具以提升學術研究生產力",
+        "timestamp": "1709013558",
+        "url": "mail_display.php?timestamp=1709013558",
+        "date": "2024/02/27 13:59",
+        "department": "人工智慧辦公室",
+        "author": "林佩瑤"
+    },
+    {
+        "title": "【校內講座分享】如何應用AI工具以提升學術研究生產力",
         "timestamp": "1709011459",
         "url": "mail_display.php?timestamp=1709011459",
         "date": "2024/02/27 13:24",
@@ -110,13 +118,5 @@
         "date": "2024/02/26 18:05",
         "department": "圖書資訊處校務系統組",
         "author": "林志軒"
-    },
-    {
-        "title": "【獎助學金申請】平凡基金會2024年獎助學金 (含僑、外、陸生)",
-        "timestamp": "1708941607",
-        "url": "mail_display.php?timestamp=1708941607",
-        "date": "2024/02/26 18:00",
-        "department": "學務處",
-        "author": "葉俊良"
     }
 ]
