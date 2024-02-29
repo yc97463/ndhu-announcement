@@ -1,5 +1,29 @@
 [
     {
+        "title": "公文系統主機2月29日(四)中午更新停機公告",
+        "timestamp": "1709175133",
+        "url": "mail_display.php?timestamp=1709175133",
+        "date": "2024/02/29 10:52",
+        "department": "總務處文書組",
+        "author": "黃章傑"
+    },
+    {
+        "title": "【重要訊息】公告112-2校核心課程停開資訊",
+        "timestamp": "1709170614",
+        "url": "mail_display.php?timestamp=1709170614",
+        "date": "2024/02/29 09:36",
+        "department": "通識教育中心",
+        "author": "陳美娥"
+    },
+    {
+        "title": "仰山莊機車棚機車遷移事項",
+        "timestamp": "1709170298",
+        "url": "mail_display.php?timestamp=1709170298",
+        "date": "2024/02/29 09:31",
+        "department": "總務處營繕組",
+        "author": "張宗豪"
+    },
+    {
         "title": "【轉知】朝陽科技大學辦理「EMI教師海外移地培訓經驗分享講座－美國聖地牙哥大學篇」",
         "timestamp": "1709170100",
         "url": "mail_display.php?timestamp=1709170100",
@@ -94,29 +118,5 @@
         "date": "2024/02/27 16:54",
         "department": "法律學系",
         "author": "黃亦靖"
-    },
-    {
-        "title": "【課務組通知】112-2加退選後課程確認及加簽作業(3/1-3/8)  【Curriculum Division】112-2 Course Confirm Online and Add Course Requests (3/1-3/8)",
-        "timestamp": "1709023965",
-        "url": "mail_display.php?timestamp=1709023965",
-        "date": "2024/02/27 16:52",
-        "department": "教務處課務組",
-        "author": "課務組"
-    },
-    {
-        "title": "【活動】第21屆全國法語歌唱大賽-東區複賽 21ème Concours de chansons Francophones Demi-finale est",
-        "timestamp": "1709023638",
-        "url": "mail_display.php?timestamp=1709023638",
-        "date": "2024/02/27 16:47",
-        "department": "語言中心",
-        "author": "呂岳芳"
-    },
-    {
-        "title": "【獎助學金申請】正德社會福利慈善基金會113年春季清寒獎助學金",
-        "timestamp": "1709021395",
-        "url": "mail_display.php?timestamp=1709021395",
-        "date": "2024/02/27 16:09",
-        "department": "學務處",
-        "author": "葉俊良"
     }
 ]
