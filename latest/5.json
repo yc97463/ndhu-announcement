@@ -1,5 +1,21 @@
 [
     {
+        "title": "【獎助學金申請】屏東縣112-2清寒優秀學生獎學金 (限屏東縣籍)",
+        "timestamp": "1709015747",
+        "url": "mail_display.php?timestamp=1709015747",
+        "date": "2024/02/27 14:35",
+        "department": "學務處",
+        "author": "葉俊良"
+    },
+    {
+        "title": "【語言中心】112-2推廣教育課程-繪本Fun英文",
+        "timestamp": "1709015498",
+        "url": "mail_display.php?timestamp=1709015498",
+        "date": "2024/02/27 14:31",
+        "department": "語言中心",
+        "author": "林瑜珊"
+    },
+    {
         "title": "【校內講座分享】如何應用AI工具以提升學術研究生產力",
         "timestamp": "1709013558",
         "url": "mail_display.php?timestamp=1709013558",
@@ -102,21 +118,5 @@
         "date": "2024/02/26 19:24",
         "department": "學務處",
         "author": "葉俊良"
-    },
-    {
-        "title": "【K書中心公告】K書中心A館(2/28)休館1日 [K Book Center Announcement] K Book Center A Building will be closed on February 28 for one day.",
-        "timestamp": "1708945288",
-        "url": "mail_display.php?timestamp=1708945288",
-        "date": "2024/02/26 19:01",
-        "department": "教學卓越中心",
-        "author": "游守正"
-    },
-    {
-        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
-        "timestamp": "1708941933",
-        "url": "mail_display.php?timestamp=1708941933",
-        "date": "2024/02/26 18:05",
-        "department": "圖書資訊處校務系統組",
-        "author": "林志軒"
     }
 ]
