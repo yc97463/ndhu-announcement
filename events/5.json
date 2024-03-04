@@ -1,6 +1,22 @@
 [
     {
         "title": "開學應該來點...",
+        "timestamp": "1708424462",
+        "url": "mail_display.php?timestamp=1708424462",
+        "date": "2024/02/20 18:21",
+        "department": "管理學院",
+        "author": "洄瀾共好大學社會責任中心"
+    },
+    {
+        "title": "開學應該來點...",
+        "timestamp": "1708424437",
+        "url": "mail_display.php?timestamp=1708424437",
+        "date": "2024/02/20 18:20",
+        "department": "管理學院",
+        "author": "洄瀾共好大學社會責任中心"
+    },
+    {
+        "title": "開學應該來點...",
         "timestamp": "1708424417",
         "url": "mail_display.php?timestamp=1708424417",
         "date": "2024/02/20 18:20",
@@ -102,21 +118,5 @@
         "date": "2024/02/17 23:26",
         "department": "教學卓越中心",
         "author": "黃小姐"
-    },
-    {
-        "title": " 【出國交換】2024年第二次國際交換學生甄選",
-        "timestamp": "1708175984",
-        "url": "mail_display.php?timestamp=1708175984",
-        "date": "2024/02/17 21:19",
-        "department": "國際事務處國際合作組",
-        "author": "陳良愛"
-    },
-    {
-        "title": "【出國交換】2月19日12:10-2024第二次交換甄選說明會",
-        "timestamp": "1708175807",
-        "url": "mail_display.php?timestamp=1708175807",
-        "date": "2024/02/17 21:16",
-        "department": "國際事務處國際合作組",
-        "author": "陳良愛"
     }
 ]
