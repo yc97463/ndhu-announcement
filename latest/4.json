@@ -1,5 +1,21 @@
 [
     {
+        "title": "【華文文學講座】張俐璇老師",
+        "timestamp": "1709691952",
+        "url": "mail_display.php?timestamp=1709691952",
+        "date": "2024/03/06 10:25",
+        "department": "人文社會科學學院 華文文學系",
+        "author": "伍佳雯"
+    },
+    {
+        "title": "【華文文學講座】李進文老師",
+        "timestamp": "1709691951",
+        "url": "mail_display.php?timestamp=1709691951",
+        "date": "2024/03/06 10:25",
+        "department": "人文社會科學學院 華文文學系",
+        "author": "伍佳雯"
+    },
+    {
         "title": "生科系3/8(週五)專題講座公告，歡迎踴躍參加!!",
         "timestamp": "1709691950",
         "url": "mail_display.php?timestamp=1709691950",
@@ -102,21 +118,5 @@
         "date": "2024/03/06 10:25",
         "department": "花師教育學院 教育與潛能開發學系",
         "author": "黃偲婷"
-    },
-    {
-        "title": "智慧電網簡介（書報討論修課同學請勿報名）",
-        "timestamp": "1709691937",
-        "url": "mail_display.php?timestamp=1709691937",
-        "date": "2024/03/06 10:25",
-        "department": "理工學院 物理學系",
-        "author": "劉芝葳"
-    },
-    {
-        "title": "Black holes as elementary particles（書報討論修課同學請勿報名）",
-        "timestamp": "1709691936",
-        "url": "mail_display.php?timestamp=1709691936",
-        "date": "2024/03/06 10:25",
-        "department": "理工學院 物理學系",
-        "author": "劉芝葳"
     }
 ]
