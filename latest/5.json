@@ -1,13 +1,5 @@
 [
     {
-        "title": "【會計審計實務講座】我們與舞弊的距離-如何看出舞弊的端倪",
-        "timestamp": "1709691954",
-        "url": "mail_display.php?timestamp=1709691954",
-        "date": "2024/03/06 10:25",
-        "department": "管理學院 會計學系",
-        "author": "葉靜瑜"
-    },
-    {
         "title": "113 歷史學系「歷史文化產業實習」課程說明會",
         "timestamp": "1709691953",
         "url": "mail_display.php?timestamp=1709691953",
@@ -118,5 +110,13 @@
         "date": "2024/03/06 10:25",
         "department": "人文社會科學學院 華文文學系",
         "author": "伍佳雯"
+    },
+    {
+        "title": "《113年度健康促進性教育暨愛滋病防治宣導志工-招募中》",
+        "timestamp": "1709691939",
+        "url": "mail_display.php?timestamp=1709691939",
+        "date": "2024/03/06 10:25",
+        "department": "學務處 衛生保健組",
+        "author": "王惠貞"
     }
 ]
