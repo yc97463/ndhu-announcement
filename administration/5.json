@@ -1,5 +1,21 @@
 [
     {
+        "title": "【學生宿舍】112學年第二學期電費階段公告 【Student Dormitory】Electricity Charge Announcement for 2023-2024 Academic Year",
+        "timestamp": "1708324478",
+        "url": "mail_display.php?timestamp=1708324478",
+        "date": "2024/02/19 14:34",
+        "department": "學務處生活輔導組",
+        "author": "陳怡秀"
+    },
+    {
+        "title": "【網路服務維運公告】TWAREN SSL-VPN維護公告",
+        "timestamp": "1708304870",
+        "url": "mail_display.php?timestamp=1708304870",
+        "date": "2024/02/19 09:07",
+        "department": "圖書資訊處網路管理組",
+        "author": "李宇峰"
+    },
+    {
         "title": "尚未完成兵役緩徵、儘召網路登錄者(含延畢生)請盡速上網登錄",
         "timestamp": "1708301552",
         "url": "mail_display.php?timestamp=1708301552",
@@ -102,21 +118,5 @@
         "date": "2024/02/07 16:24",
         "department": "總務處營繕組",
         "author": "劉宏銘"
-    },
-    {
-        "title": "113年7～12月份「推動國際學術合作交流補助」計畫，即日起受理申請至4月15日為止。",
-        "timestamp": "1707285837",
-        "url": "mail_display.php?timestamp=1707285837",
-        "date": "2024/02/07 14:03",
-        "department": "國際事務處國際合作組",
-        "author": "劉力綺"
-    },
-    {
-        "title": "春節假期各單位注意事項補充公告",
-        "timestamp": "1707285331",
-        "url": "mail_display.php?timestamp=1707285331",
-        "date": "2024/02/07 13:55",
-        "department": "總務處事務組",
-        "author": "馬志民"
     }
 ]
