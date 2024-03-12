@@ -1,5 +1,13 @@
 [
     {
+        "title": "【兵役訊息】國防部於「國防部全球資訊網」成立1年期義務役專區公告",
+        "timestamp": "1709772750",
+        "url": "mail_display.php?timestamp=1709772750",
+        "date": "2024/03/07 08:52",
+        "department": "學務處生活輔導組",
+        "author": "黃勇程"
+    },
+    {
         "title": "《2024新航之舟-領航員招募》一年一度的領航員招募開始嘍！🥳",
         "timestamp": "1709718748",
         "url": "mail_display.php?timestamp=1709718748",
@@ -110,13 +118,5 @@
         "date": "2024/03/01 08:56",
         "department": "國際事務處國際合作組",
         "author": "陳良愛"
-    },
-    {
-        "title": "【Student Dormitory】2024-2025 Academic Year Dormitory Individual Application(Waiting list)",
-        "timestamp": "1709193054",
-        "url": "mail_display.php?timestamp=1709193054",
-        "date": "2024/02/29 15:50",
-        "department": "學務處生活輔導組",
-        "author": "陳怡秀"
     }
 ]
