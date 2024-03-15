@@ -1,6 +1,14 @@
 [
     {
         "title": "【新創大學堂】迎接AI時代，如何為未來做好準備",
+        "timestamp": "1708588716",
+        "url": "mail_display.php?timestamp=1708588716",
+        "date": "2024/02/22 15:58",
+        "department": "研發處創新育成中心",
+        "author": "吳其璁"
+    },
+    {
+        "title": "【新創大學堂】迎接AI時代，如何為未來做好準備",
         "timestamp": "1708588715",
         "url": "mail_display.php?timestamp=1708588715",
         "date": "2024/02/22 15:58",
@@ -110,13 +118,5 @@
         "date": "2023/12/19 16:57",
         "department": "學務處課外活動組",
         "author": "姜紫淇"
-    },
-    {
-        "title": "12/23 【教育系校友講座】跨越界限：從大學教育到國際學校就業的實戰指南",
-        "timestamp": "1702949000",
-        "url": "mail_display.php?timestamp=1702949000",
-        "date": "2023/12/19 09:23",
-        "department": "教育與潛能開發學系",
-        "author": "黃偲婷"
     }
 ]
