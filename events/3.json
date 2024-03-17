@@ -1,5 +1,13 @@
 [
     {
+        "title": "大四畢業總審顧展",
+        "timestamp": "1710460503",
+        "url": "mail_display.php?timestamp=1710460503",
+        "date": "2024/03/15 07:55",
+        "department": "藝術學院 藝術與設計學系",
+        "author": "陳紘崧"
+    },
+    {
         "title": "2024教行系小小領袖營",
         "timestamp": "1710460502",
         "url": "mail_display.php?timestamp=1710460502",
@@ -110,13 +118,5 @@
         "date": "2024/03/14 07:55",
         "department": "管理學院 觀光暨休閒遊憩學系",
         "author": "莊月玲"
-    },
-    {
-        "title": "2024亞太藝術與人文國際研討會-融合與創新 新馬藝術教育專題論壇",
-        "timestamp": "1710374102",
-        "url": "mail_display.php?timestamp=1710374102",
-        "date": "2024/03/14 07:55",
-        "department": "藝術學院 ",
-        "author": "黃惠瑄"
     }
 ]
