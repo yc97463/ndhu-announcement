@@ -1,5 +1,13 @@
 [
     {
+        "title": "【課務組通知】授課教師可列印112-2學期選課確認名單",
+        "timestamp": "1710743644",
+        "url": "mail_display.php?timestamp=1710743644",
+        "date": "2024/03/18 14:34",
+        "department": "教務處課務組",
+        "author": "課務組"
+    },
+    {
         "title": "【就業/考試】世界貿易組織(World Trade Organization, WTO)114年「青年學者實習計畫(Young Professionals Programme)」",
         "timestamp": "1710743195",
         "url": "mail_display.php?timestamp=1710743195",
@@ -110,13 +118,5 @@
         "date": "2024/03/16 07:55",
         "department": "藝術學院 ",
         "author": "黃惠瑄"
-    },
-    {
-        "title": "生科系3/22(週五)專題講座公告，歡迎踴躍參加!!",
-        "timestamp": "1710546911",
-        "url": "mail_display.php?timestamp=1710546911",
-        "date": "2024/03/16 07:55",
-        "department": "理工學院 生命科學系",
-        "author": "元淑英"
     }
 ]
