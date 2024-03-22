@@ -1,6 +1,14 @@
 [
     {
         "title": "⭐教育大數據微學程⭐學習如何以大數據來解讀教育的問題！",
+        "timestamp": "1711068478",
+        "url": "mail_display.php?timestamp=1711068478",
+        "date": "2024/03/22 08:47",
+        "department": "教學卓越中心",
+        "author": "黃小姐"
+    },
+    {
+        "title": "⭐教育大數據微學程⭐學習如何以大數據來解讀教育的問題！",
         "timestamp": "1710830742",
         "url": "mail_display.php?timestamp=1710830742",
         "date": "2024/03/19 14:45",
@@ -110,13 +118,5 @@
         "date": "2024/02/26 11:13",
         "department": "師資培育中心",
         "author": "陳淑貞"
-    },
-    {
-        "title": "112-2校核心課程增開資訊科技領域「物聯網、創客與教材設計」課程公告",
-        "timestamp": "1708653749",
-        "url": "mail_display.php?timestamp=1708653749",
-        "date": "2024/02/23 10:02",
-        "department": "通識教育中心",
-        "author": "陳美娥"
     }
 ]
