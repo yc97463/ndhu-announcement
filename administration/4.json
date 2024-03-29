@@ -1,5 +1,13 @@
 [
     {
+        "title": "公文系統主機3月14日(四)中午更新停機公告",
+        "timestamp": "1710133986",
+        "url": "mail_display.php?timestamp=1710133986",
+        "date": "2024/03/11 13:13",
+        "department": "總務處文書組",
+        "author": "黃章傑"
+    },
+    {
         "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
         "timestamp": "1710121409",
         "url": "mail_display.php?timestamp=1710121409",
@@ -110,13 +118,5 @@
         "date": "2024/03/04 19:11",
         "department": "總務處營繕組",
         "author": "賴名塑"
-    },
-    {
-        "title": "「廢品借用通知」公告",
-        "timestamp": "1709523098",
-        "url": "mail_display.php?timestamp=1709523098",
-        "date": "2024/03/04 11:31",
-        "department": "總務處保管組",
-        "author": "林慧濘"
     }
 ]
