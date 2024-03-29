@@ -1,5 +1,13 @@
 [
     {
+        "title": "【圖書館公告】兒童節暨民族掃墓節【113.04.04~05(四至五)】休館二日。113.04.08(一)調整開館時間：09:00-17:00。Library will be Closed on April 04-05, 2024.",
+        "timestamp": "1711676479",
+        "url": "mail_display.php?timestamp=1711676479",
+        "date": "2024/03/29 09:41",
+        "department": "圖書資訊處圖資服務組",
+        "author": "詹依萍"
+    },
+    {
         "title": "【網路維護】核心骨幹網路系統更換【第三次公告】",
         "timestamp": "1711588911",
         "url": "mail_display.php?timestamp=1711588911",
@@ -110,13 +118,5 @@
         "date": "2024/03/22 16:04",
         "department": "學務處課外活動組",
         "author": "余惠真"
-    },
-    {
-        "title": "【教務處通知】112-2學期「期中教學意見回饋」系統自3月25日(一)起開放學生填寫",
-        "timestamp": "1711091993",
-        "url": "mail_display.php?timestamp=1711091993",
-        "date": "2024/03/22 15:19",
-        "department": "教務處課務組",
-        "author": "課務組"
     }
 ]
