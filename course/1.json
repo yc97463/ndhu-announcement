@@ -1,5 +1,13 @@
 [
     {
+        "title": "【課務組】4月9日本校停課一天 School will be closed for one day on April 9 ",
+        "timestamp": "1712148329",
+        "url": "mail_display.php?timestamp=1712148329",
+        "date": "2024/04/03 20:45",
+        "department": "教務處課務組",
+        "author": "課務組"
+    },
+    {
         "title": "【課務組】4月9日本校停課一天",
         "timestamp": "1712144489",
         "url": "mail_display.php?timestamp=1712144489",
@@ -110,13 +118,5 @@
         "date": "2024/03/15 10:36",
         "department": "教學卓越中心",
         "author": "黃小姐"
-    },
-    {
-        "title": "【課務組】 113年度暑期課程調查通知【NDHU】2024 Summer courses survey",
-        "timestamp": "1710402567",
-        "url": "mail_display.php?timestamp=1710402567",
-        "date": "2024/03/14 15:49",
-        "department": "教務處課務組",
-        "author": "宋育縈"
     }
 ]
