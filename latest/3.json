@@ -1,5 +1,13 @@
 [
     {
+        "title": "【校園徵才說明會】資誠聯合會計師事務所",
+        "timestamp": "1712015711",
+        "url": "mail_display.php?timestamp=1712015711",
+        "date": "2024/04/02 07:55",
+        "department": "管理學院 會計學系",
+        "author": "吳佳玟"
+    },
+    {
         "title": "藝術學院畢業典禮撥穗儀式",
         "timestamp": "1712015710",
         "url": "mail_display.php?timestamp=1712015710",
@@ -110,13 +118,5 @@
         "date": "2024/04/01 17:15",
         "department": "原住民族學生資源中心",
         "author": "夏宇珊"
-    },
-    {
-        "title": " 2024 程式能力檢定",
-        "timestamp": "1711956787",
-        "url": "mail_display.php?timestamp=1711956787",
-        "date": "2024/04/01 15:33",
-        "department": "圖書資訊處圖資服務組",
-        "author": "何銘俊"
     }
 ]
