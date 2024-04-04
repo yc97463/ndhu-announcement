@@ -1,5 +1,13 @@
 [
     {
+        "title": "擴大行政會議 會議紀錄公告通知",
+        "timestamp": "1710725025",
+        "url": "mail_display.php?timestamp=1710725025",
+        "date": "2024/03/18 09:23",
+        "department": "秘書室議事公文組",
+        "author": "陳婉婉"
+    },
+    {
         "title": "仰山莊機車棚外側（外環道）鋼筋施工公告",
         "timestamp": "1710721661",
         "url": "mail_display.php?timestamp=1710721661",
@@ -110,13 +118,5 @@
         "date": "2024/03/11 20:03",
         "department": "人事室",
         "author": "陳建文"
-    },
-    {
-        "title": "113年度校區內客貨電梯進行月保養排程通告3月保養",
-        "timestamp": "1710144264",
-        "url": "mail_display.php?timestamp=1710144264",
-        "date": "2024/03/11 16:04",
-        "department": "總務處營繕組",
-        "author": "劉宏銘"
     }
 ]
