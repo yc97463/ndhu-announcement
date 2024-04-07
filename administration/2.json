@@ -1,5 +1,13 @@
 [
     {
+        "title": "校長給大家的公開信",
+        "timestamp": "1712128609",
+        "url": "mail_display.php?timestamp=1712128609",
+        "date": "2024/04/03 15:16",
+        "department": "圖書資訊處網路管理組",
+        "author": "網路管理組技術師楊志偉"
+    },
+    {
         "title": "地震停班課公告",
         "timestamp": "1712116470",
         "url": "mail_display.php?timestamp=1712116470",
@@ -108,14 +116,6 @@
         "timestamp": "1711506313",
         "url": "mail_display.php?timestamp=1711506313",
         "date": "2024/03/27 10:25",
-        "department": "總務處環境保護組",
-        "author": "許智翔"
-    },
-    {
-        "title": "清明連續假期(113年4月4 ~7日)調整垃圾清運時間During the consecutive Qingming Festival holiday (April 4 to 7, 2024), the garbage truck removal time will be adjusted.",
-        "timestamp": "1711506031",
-        "url": "mail_display.php?timestamp=1711506031",
-        "date": "2024/03/27 10:20",
         "department": "總務處環境保護組",
         "author": "許智翔"
     }

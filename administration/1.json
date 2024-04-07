@@ -1,5 +1,13 @@
 [
     {
+        "title": "【課務組】線上教學相關事項說明  Online Teaching Usage Instructions ",
+        "timestamp": "1712476487",
+        "url": "mail_display.php?timestamp=1712476487",
+        "date": "2024/04/07 15:54",
+        "department": "教務處課務組",
+        "author": "課務組"
+    },
+    {
         "title": "【緊急通知】因地震損壞校園硬體設備4月10日至4月26日全校採線上上課",
         "timestamp": "1712464172",
         "url": "mail_display.php?timestamp=1712464172",
@@ -110,13 +118,5 @@
         "date": "2024/04/03 16:57",
         "department": "圖書資訊處圖資服務組",
         "author": "詹依萍"
-    },
-    {
-        "title": "校長給大家的公開信",
-        "timestamp": "1712128609",
-        "url": "mail_display.php?timestamp=1712128609",
-        "date": "2024/04/03 15:16",
-        "department": "圖書資訊處網路管理組",
-        "author": "網路管理組技術師楊志偉"
     }
 ]
