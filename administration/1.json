@@ -1,5 +1,13 @@
 [
     {
+        "title": "【緊急通知】因地震損壞校園硬體設備4月10日至4月26日全校採線上上課",
+        "timestamp": "1712464172",
+        "url": "mail_display.php?timestamp=1712464172",
+        "date": "2024/04/07 12:29",
+        "department": "秘書室公關宣傳組",
+        "author": "孫嘉莉"
+    },
+    {
         "title": "慎防不法分子於本校災後復原期間，以總務處辦理採購名義進行詐騙",
         "timestamp": "1712307582",
         "url": "mail_display.php?timestamp=1712307582",
@@ -110,13 +118,5 @@
         "date": "2024/04/03 15:16",
         "department": "圖書資訊處網路管理組",
         "author": "網路管理組技術師楊志偉"
-    },
-    {
-        "title": "地震停班課公告",
-        "timestamp": "1712116470",
-        "url": "mail_display.php?timestamp=1712116470",
-        "date": "2024/04/03 11:54",
-        "department": "圖書資訊處網路管理組",
-        "author": "李宇峰"
     }
 ]

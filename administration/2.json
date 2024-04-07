@@ -1,5 +1,13 @@
 [
     {
+        "title": "地震停班課公告",
+        "timestamp": "1712116470",
+        "url": "mail_display.php?timestamp=1712116470",
+        "date": "2024/04/03 11:54",
+        "department": "圖書資訊處網路管理組",
+        "author": "李宇峰"
+    },
+    {
         "title": "本校修剪樹木及清理天溝作業公告。",
         "timestamp": "1712043543",
         "url": "mail_display.php?timestamp=1712043543",
@@ -110,13 +118,5 @@
         "date": "2024/03/27 10:20",
         "department": "總務處環境保護組",
         "author": "許智翔"
-    },
-    {
-        "title": "如何應對校園流浪犬狂吠?並請提高警覺注意安全",
-        "timestamp": "1711501329",
-        "url": "mail_display.php?timestamp=1711501329",
-        "date": "2024/03/27 09:02",
-        "department": "總務處環境保護組",
-        "author": "賴榮璉"
     }
 ]
