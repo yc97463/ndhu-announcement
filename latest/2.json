@@ -1,5 +1,13 @@
 [
     {
+        "title": "電影欣賞 (恭請光臨曾賈府喜事)",
+        "timestamp": "1712447701",
+        "url": "mail_display.php?timestamp=1712447701",
+        "date": "2024/04/07 07:55",
+        "department": "圖書資訊處 圖資服務組",
+        "author": "何銘俊"
+    },
+    {
         "title": "【4/9(二)-4/11(四) 無邊境合作社賑災送暖 連續三天提供校內師生免費霜淇淋】",
         "timestamp": "1712383196",
         "url": "mail_display.php?timestamp=1712383196",
@@ -110,13 +118,5 @@
         "date": "2024/04/03 19:41",
         "department": "教務處課務組",
         "author": "宋育縈"
-    },
-    {
-        "title": "本校體育中心所屬體育場館全面關閉公告",
-        "timestamp": "1712144488",
-        "url": "mail_display.php?timestamp=1712144488",
-        "date": "2024/04/03 19:41",
-        "department": "體育中心",
-        "author": "邱健榮"
     }
 ]

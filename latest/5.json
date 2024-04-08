@@ -1,5 +1,13 @@
 [
     {
+        "title": "申請入學招生活動(上午場)",
+        "timestamp": "1712015708",
+        "url": "mail_display.php?timestamp=1712015708",
+        "date": "2024/04/02 07:55",
+        "department": "藝術學院 藝術與設計學系",
+        "author": "邱苡芳"
+    },
+    {
         "title": "原資英文讀書會",
         "timestamp": "1712015707",
         "url": "mail_display.php?timestamp=1712015707",
@@ -110,13 +118,5 @@
         "date": "2024/04/01 14:18",
         "department": "學務處畢業生及校友服務組",
         "author": "黃文雯"
-    },
-    {
-        "title": "【教務處通知】113學年度行事曆 2024-2025 Academic Calendar",
-        "timestamp": "1711951023",
-        "url": "mail_display.php?timestamp=1711951023",
-        "date": "2024/04/01 13:57",
-        "department": "教務處課務組",
-        "author": "課務組"
     }
 ]
