@@ -1,5 +1,13 @@
 [
     {
+        "title": "【課務組】4月9日本校停課一天",
+        "timestamp": "1712144489",
+        "url": "mail_display.php?timestamp=1712144489",
+        "date": "2024/04/03 19:41",
+        "department": "教務處課務組",
+        "author": "宋育縈"
+    },
+    {
         "title": "本校體育中心所屬體育場館全面關閉公告",
         "timestamp": "1712144488",
         "url": "mail_display.php?timestamp=1712144488",
@@ -110,13 +118,5 @@
         "date": "2024/03/29 13:44",
         "department": "總務處環境保護組",
         "author": "賴榮璉"
-    },
-    {
-        "title": "【圖書館公告】兒童節暨民族掃墓節【113.04.04~05(四至五)】休館二日。113.04.08(一)調整開館時間：09:00-17:00。Library will be Closed on April 04-05, 2024.",
-        "timestamp": "1711676479",
-        "url": "mail_display.php?timestamp=1711676479",
-        "date": "2024/03/29 09:41",
-        "department": "圖書資訊處圖資服務組",
-        "author": "詹依萍"
     }
 ]
