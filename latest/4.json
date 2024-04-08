@@ -1,5 +1,13 @@
 [
     {
+        "title": "校長給大家的公開信",
+        "timestamp": "1712128609",
+        "url": "mail_display.php?timestamp=1712128609",
+        "date": "2024/04/03 15:16",
+        "department": "圖書資訊處網路管理組",
+        "author": "網路管理組技術師楊志偉"
+    },
+    {
         "title": "地震停班課公告",
         "timestamp": "1712116470",
         "url": "mail_display.php?timestamp=1712116470",
@@ -110,13 +118,5 @@
         "date": "2024/04/02 09:57",
         "department": "研發處",
         "author": "洪乃慈"
-    },
-    {
-        "title": "【公告】113年補助本校師生赴海外移地教學，即日起受理申請至4月15日截止。",
-        "timestamp": "1712022106",
-        "url": "mail_display.php?timestamp=1712022106",
-        "date": "2024/04/02 09:41",
-        "department": "國際事務處國際學生組",
-        "author": "陳良愛"
     }
 ]
