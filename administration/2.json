@@ -1,5 +1,13 @@
 [
     {
+        "title": "緊急通知-所有人及車輛請立即遠離理工一館。EMERGENCY NOTICE - All persons and vehicles are advised to stay away from Engineering Building I immediately.",
+        "timestamp": "1712135615",
+        "url": "mail_display.php?timestamp=1712135615",
+        "date": "2024/04/03 17:13",
+        "department": "總務處",
+        "author": "郭家銘"
+    },
+    {
         "title": "【圖書館公告】113.4.3(三)至113.4.9(二)因地震災害，暫停入館。(將視復原情況滾動式公告相關事宜)",
         "timestamp": "1712134636",
         "url": "mail_display.php?timestamp=1712134636",
@@ -108,14 +116,6 @@
         "timestamp": "1711527115",
         "url": "mail_display.php?timestamp=1711527115",
         "date": "2024/03/27 16:11",
-        "department": "總務處出納組",
-        "author": "鄧瑞美"
-    },
-    {
-        "title": "112學年度第2學期加選學分費繳費單(113/03/28)可以下載囉！",
-        "timestamp": "1711526897",
-        "url": "mail_display.php?timestamp=1711526897",
-        "date": "2024/03/27 16:08",
         "department": "總務處出納組",
         "author": "鄧瑞美"
     }
