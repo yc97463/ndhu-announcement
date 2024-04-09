@@ -1,5 +1,21 @@
 [
     {
+        "title": "epage網站資料損毀",
+        "timestamp": "1712158737",
+        "url": "mail_display.php?timestamp=1712158737",
+        "date": "2024/04/03 23:38",
+        "department": "圖書資訊處圖資服務組",
+        "author": "葉宏達"
+    },
+    {
+        "title": "學校因應113年4月3日嚴重地震，特成立[0403專區]，供全校教職員生了解學校各項作為並提供重要的相關訊息，請師長以及同學們注意該轉區相關資訊。",
+        "timestamp": "1712156621",
+        "url": "mail_display.php?timestamp=1712156621",
+        "date": "2024/04/03 23:03",
+        "department": "學務處生活輔導組",
+        "author": "莊欽吉"
+    },
+    {
         "title": "【課務組】4月9日本校停課一天",
         "timestamp": "1712144489",
         "url": "mail_display.php?timestamp=1712144489",
@@ -102,21 +118,5 @@
         "date": "2024/03/29 17:18",
         "department": "總務處營繕組",
         "author": "張宗豪"
-    },
-    {
-        "title": "多容館全家走廊外牆油漆改善工程施工公告",
-        "timestamp": "1711697425",
-        "url": "mail_display.php?timestamp=1711697425",
-        "date": "2024/03/29 15:30",
-        "department": "總務處營繕組",
-        "author": "許珅銘"
-    },
-    {
-        "title": "113年4月份全校綠地除草維護時間及施作區域公告",
-        "timestamp": "1711691099",
-        "url": "mail_display.php?timestamp=1711691099",
-        "date": "2024/03/29 13:44",
-        "department": "總務處環境保護組",
-        "author": "賴榮璉"
     }
 ]
