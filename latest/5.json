@@ -1,5 +1,45 @@
 [
     {
+        "title": "請同學在室外活動期間，戴上口罩以維自身安全",
+        "timestamp": "1712143161",
+        "url": "mail_display.php?timestamp=1712143161",
+        "date": "2024/04/03 19:19",
+        "department": "學務處生活輔導組",
+        "author": "吳昭毅"
+    },
+    {
+        "title": "緊急通知-所有人及車輛請立即遠離理工一館。EMERGENCY NOTICE - All persons and vehicles are advised to stay away from Engineering Building I immediately.",
+        "timestamp": "1712135615",
+        "url": "mail_display.php?timestamp=1712135615",
+        "date": "2024/04/03 17:13",
+        "department": "總務處",
+        "author": "郭家銘"
+    },
+    {
+        "title": "【圖書館公告】113.4.3(三)至113.4.9(二)因地震災害，暫停入館。(將視復原情況滾動式公告相關事宜)",
+        "timestamp": "1712134636",
+        "url": "mail_display.php?timestamp=1712134636",
+        "date": "2024/04/03 16:57",
+        "department": "圖書資訊處圖資服務組",
+        "author": "詹依萍"
+    },
+    {
+        "title": "校長給大家的公開信",
+        "timestamp": "1712128609",
+        "url": "mail_display.php?timestamp=1712128609",
+        "date": "2024/04/03 15:16",
+        "department": "圖書資訊處網路管理組",
+        "author": "網路管理組技術師楊志偉"
+    },
+    {
+        "title": "地震停班課公告",
+        "timestamp": "1712116470",
+        "url": "mail_display.php?timestamp=1712116470",
+        "date": "2024/04/03 11:54",
+        "department": "圖書資訊處網路管理組",
+        "author": "李宇峰"
+    },
+    {
         "title": "113.04.26（五）經濟學系葉勁廷系友演講（元大證券新生分公司經理）：股動人生、錢景看俏",
         "timestamp": "1712102103",
         "url": "mail_display.php?timestamp=1712102103",
@@ -78,45 +118,5 @@
         "date": "2024/04/02 15:05",
         "department": "學務處畢業生及校友服務組",
         "author": "黃文雯"
-    },
-    {
-        "title": "【徵才】大仁科技大學113年4月24日「2024大仁就業徵才博覽會-職求對決」",
-        "timestamp": "1712039856",
-        "url": "mail_display.php?timestamp=1712039856",
-        "date": "2024/04/02 14:37",
-        "department": "學務處畢業生及校友服務組",
-        "author": "黃文雯"
-    },
-    {
-        "title": "✨️✨️113年原住民族4️⃣月歲時祭儀日看過來✨️✨️",
-        "timestamp": "1712026433",
-        "url": "mail_display.php?timestamp=1712026433",
-        "date": "2024/04/02 10:53",
-        "department": "原住民族學生資源中心",
-        "author": "林佳儀"
-    },
-    {
-        "title": "【轉知】經濟部產業發展署「太空產業供應鏈暨網通產業新星飛揚計畫」甄選網通新星",
-        "timestamp": "1712023050",
-        "url": "mail_display.php?timestamp=1712023050",
-        "date": "2024/04/02 09:57",
-        "department": "研發處",
-        "author": "洪乃慈"
-    },
-    {
-        "title": "【公告】113年補助本校師生赴海外移地教學，即日起受理申請至4月15日截止。",
-        "timestamp": "1712022106",
-        "url": "mail_display.php?timestamp=1712022106",
-        "date": "2024/04/02 09:41",
-        "department": "國際事務處國際學生組",
-        "author": "陳良愛"
-    },
-    {
-        "title": "【轉知】日本AB飯店集團「人才招募說明會」與「實習夥伴募集說明會」開放報名中",
-        "timestamp": "1712020973",
-        "url": "mail_display.php?timestamp=1712020973",
-        "date": "2024/04/02 09:22",
-        "department": "國際事務處國際學生組",
-        "author": "陳良愛"
     }
 ]
