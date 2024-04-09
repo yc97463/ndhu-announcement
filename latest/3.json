@@ -1,5 +1,21 @@
 [
     {
+        "title": "諮商中心-震後安心講座二(實體進行)",
+        "timestamp": "1712564669",
+        "url": "mail_display.php?timestamp=1712564669",
+        "date": "2024/04/08 16:24",
+        "department": "心理諮商輔導中心",
+        "author": "陳淑惠"
+    },
+    {
+        "title": "體育中心場館使用及活動說明公告  Sports Centre Venue Usage and Activity Description Bulletin",
+        "timestamp": "1712560307",
+        "url": "mail_display.php?timestamp=1712560307",
+        "date": "2024/04/08 15:11",
+        "department": "體育中心",
+        "author": "邱健榮"
+    },
+    {
         "title": "【圖書館公告】113.4.3(三)至113.4.14(日)震災整理，暫停入館。(需視復原情況滾動式調整開放各區域空間)",
         "timestamp": "1712556439",
         "url": "mail_display.php?timestamp=1712556439",
@@ -102,21 +118,5 @@
         "date": "2024/04/08 07:55",
         "department": "心理諮商輔導中心 心理諮商組",
         "author": "黃仕綸"
-    },
-    {
-        "title": "【課務組】線上教學相關事項說明  Online Teaching Usage Instructions ",
-        "timestamp": "1712476487",
-        "url": "mail_display.php?timestamp=1712476487",
-        "date": "2024/04/07 15:54",
-        "department": "教務處課務組",
-        "author": "課務組"
-    },
-    {
-        "title": "【緊急通知】因地震損壞校園硬體設備4月10日至4月26日全校採線上上課",
-        "timestamp": "1712464172",
-        "url": "mail_display.php?timestamp=1712464172",
-        "date": "2024/04/07 12:29",
-        "department": "秘書室公關宣傳組",
-        "author": "孫嘉莉"
     }
 ]
