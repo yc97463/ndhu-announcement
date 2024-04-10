@@ -1,5 +1,13 @@
 [
     {
+        "title": "藝術學院畢業典禮撥穗儀式",
+        "timestamp": "1712015710",
+        "url": "mail_display.php?timestamp=1712015710",
+        "date": "2024/04/02 07:55",
+        "department": "藝術學院 藝術與設計學系",
+        "author": "邱苡芳"
+    },
+    {
         "title": "申請入學招生活動(下午場)",
         "timestamp": "1712015709",
         "url": "mail_display.php?timestamp=1712015709",
@@ -110,13 +118,5 @@
         "date": "2024/04/01 11:06",
         "department": "體育中心",
         "author": "董莫平"
-    },
-    {
-        "title": "【戒菸班招募】2024年「菸(煙)GET OUT~健康攏總贏」",
-        "timestamp": "1711932394",
-        "url": "mail_display.php?timestamp=1711932394",
-        "date": "2024/04/01 08:46",
-        "department": "學務處衛生保健組",
-        "author": "楊曉青"
     }
 ]
