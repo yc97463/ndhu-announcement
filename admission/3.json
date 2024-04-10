@@ -1,13 +1,5 @@
 [
     {
-        "title": "⭐教育大數據⭐敬邀您參加教育大數據計畫—微學程招生說明會",
-        "timestamp": "1708075849",
-        "url": "mail_display.php?timestamp=1708075849",
-        "date": "2024/02/16 17:30",
-        "department": "教學卓越中心",
-        "author": "黃小姐"
-    },
-    {
         "title": "【微學程推廣】國立東華大學教育大數據微學程—學習如何以大數據來解讀教育的問題！",
         "timestamp": "1708073007",
         "url": "mail_display.php?timestamp=1708073007",
@@ -118,5 +110,13 @@
         "date": "2024/01/11 15:12",
         "department": "社會參與中心",
         "author": "葉小姐"
+    },
+    {
+        "title": "112-2校核心「氣候變遷科學基礎」課程因故停開，敬請改選其他課程",
+        "timestamp": "1704933802",
+        "url": "mail_display.php?timestamp=1704933802",
+        "date": "2024/01/11 08:43",
+        "department": "通識教育中心",
+        "author": "陳美娥"
     }
 ]
