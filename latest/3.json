@@ -1,5 +1,13 @@
 [
     {
+        "title": "【重要通知】舊版東華e學苑服務停機公告，請同學務必登入新版e學苑才能收到最新課程資訊",
+        "timestamp": "1712645801",
+        "url": "mail_display.php?timestamp=1712645801",
+        "date": "2024/04/09 14:56",
+        "department": "教學卓越中心",
+        "author": "洪小姐"
+    },
+    {
         "title": "【網路服務維護公告】TWAREN SSL-VPN服務維護",
         "timestamp": "1712645220",
         "url": "mail_display.php?timestamp=1712645220",
@@ -110,13 +118,5 @@
         "date": "2024/04/09 07:55",
         "department": "洄瀾學院 語言中心",
         "author": "呂岳芳"
-    },
-    {
-        "title": "想來點強力支援嗎？",
-        "timestamp": "1712585423",
-        "url": "mail_display.php?timestamp=1712585423",
-        "date": "2024/04/08 22:10",
-        "department": "管理學院",
-        "author": "洄瀾共好大學社會責任中心"
     }
 ]
