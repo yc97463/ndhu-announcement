@@ -1,5 +1,37 @@
 [
     {
+        "title": "學校因應113年4月3日嚴重地震，特成立[0403專區]，供全校教職員生了解學校各項作為並提供重要的相關訊息，請師長以及同學們注意該轉區相關資訊。",
+        "timestamp": "1712156621",
+        "url": "mail_display.php?timestamp=1712156621",
+        "date": "2024/04/03 23:03",
+        "department": "學務處生活輔導組",
+        "author": "莊欽吉"
+    },
+    {
+        "title": "【課務組】4月9日本校停課一天",
+        "timestamp": "1712144489",
+        "url": "mail_display.php?timestamp=1712144489",
+        "date": "2024/04/03 19:41",
+        "department": "教務處課務組",
+        "author": "宋育縈"
+    },
+    {
+        "title": "本校體育中心所屬體育場館全面關閉公告",
+        "timestamp": "1712144488",
+        "url": "mail_display.php?timestamp=1712144488",
+        "date": "2024/04/03 19:41",
+        "department": "體育中心",
+        "author": "邱健榮"
+    },
+    {
+        "title": "請同學在室外活動期間，戴上口罩以維自身安全",
+        "timestamp": "1712143161",
+        "url": "mail_display.php?timestamp=1712143161",
+        "date": "2024/04/03 19:19",
+        "department": "學務處生活輔導組",
+        "author": "吳昭毅"
+    },
+    {
         "title": "緊急通知-所有人及車輛請立即遠離理工一館。EMERGENCY NOTICE - All persons and vehicles are advised to stay away from Engineering Building I immediately.",
         "timestamp": "1712135615",
         "url": "mail_display.php?timestamp=1712135615",
@@ -86,37 +118,5 @@
         "date": "2024/03/29 15:30",
         "department": "總務處營繕組",
         "author": "許珅銘"
-    },
-    {
-        "title": "113年4月份全校綠地除草維護時間及施作區域公告",
-        "timestamp": "1711691099",
-        "url": "mail_display.php?timestamp=1711691099",
-        "date": "2024/03/29 13:44",
-        "department": "總務處環境保護組",
-        "author": "賴榮璉"
-    },
-    {
-        "title": "【圖書館公告】兒童節暨民族掃墓節【113.04.04~05(四至五)】休館二日。113.04.08(一)調整開館時間：09:00-17:00。Library will be Closed on April 04-05, 2024.",
-        "timestamp": "1711676479",
-        "url": "mail_display.php?timestamp=1711676479",
-        "date": "2024/03/29 09:41",
-        "department": "圖書資訊處圖資服務組",
-        "author": "詹依萍"
-    },
-    {
-        "title": "【網路維護】核心骨幹網路系統更換【第三次公告】",
-        "timestamp": "1711588911",
-        "url": "mail_display.php?timestamp=1711588911",
-        "date": "2024/03/28 09:21",
-        "department": "圖書資訊處網路管理組",
-        "author": "黃金城"
-    },
-    {
-        "title": "The credit fees payment form for the second  semester of 2023 academic year can be downloaded from the web-site of Bank of Taiwan from March 28!",
-        "timestamp": "1711527115",
-        "url": "mail_display.php?timestamp=1711527115",
-        "date": "2024/03/27 16:11",
-        "department": "總務處出納組",
-        "author": "鄧瑞美"
     }
 ]
