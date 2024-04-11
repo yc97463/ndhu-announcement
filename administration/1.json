@@ -1,5 +1,13 @@
 [
     {
+        "title": "faculty伺服器服務影響說明",
+        "timestamp": "1712813101",
+        "url": "mail_display.php?timestamp=1712813101",
+        "date": "2024/04/11 13:25",
+        "department": "圖書資訊處網路管理組",
+        "author": "楊志偉"
+    },
+    {
         "title": "【徵才訊息】國際事務處國際合作組徵聘校務基金學士級助理一名",
         "timestamp": "1712798807",
         "url": "mail_display.php?timestamp=1712798807",
@@ -110,13 +118,5 @@
         "date": "2024/04/09 14:56",
         "department": "教學卓越中心",
         "author": "洪小姐"
-    },
-    {
-        "title": "【網路服務維護公告】TWAREN SSL-VPN服務維護",
-        "timestamp": "1712645220",
-        "url": "mail_display.php?timestamp=1712645220",
-        "date": "2024/04/09 14:47",
-        "department": "圖書資訊處網路管理組",
-        "author": "李宇峰"
     }
 ]
