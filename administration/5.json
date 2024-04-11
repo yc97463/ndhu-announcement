@@ -1,5 +1,13 @@
 [
     {
+        "title": "(第二次公告)行政大樓303會議室自113年3月28日起裝修暫停使用",
+        "timestamp": "1711412640",
+        "url": "mail_display.php?timestamp=1711412640",
+        "date": "2024/03/26 08:24",
+        "department": "總務處營繕組",
+        "author": "謝至和"
+    },
+    {
         "title": "體育中心112-2學期「體適能檢測」時間修正公告",
         "timestamp": "1711357930",
         "url": "mail_display.php?timestamp=1711357930",
@@ -110,13 +118,5 @@
         "date": "2024/03/19 08:21",
         "department": "人事室",
         "author": "張淑慧"
-    },
-    {
-        "title": "【網路維護】核心骨幹網路系統更換【第一次公告】",
-        "timestamp": "1710726248",
-        "url": "mail_display.php?timestamp=1710726248",
-        "date": "2024/03/18 09:44",
-        "department": "圖書資訊處網路管理組",
-        "author": "黃金城"
     }
 ]
