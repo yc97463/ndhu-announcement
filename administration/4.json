@@ -1,5 +1,21 @@
 [
     {
+        "title": "【圖書館公告】113.4.3(三)至113.4.9(二)因地震災害，暫停入館。(將視復原情況滾動式公告相關事宜)",
+        "timestamp": "1712134636",
+        "url": "mail_display.php?timestamp=1712134636",
+        "date": "2024/04/03 16:57",
+        "department": "圖書資訊處圖資服務組",
+        "author": "詹依萍"
+    },
+    {
+        "title": "校長給大家的公開信",
+        "timestamp": "1712128609",
+        "url": "mail_display.php?timestamp=1712128609",
+        "date": "2024/04/03 15:16",
+        "department": "圖書資訊處網路管理組",
+        "author": "網路管理組技術師楊志偉"
+    },
+    {
         "title": "地震停班課公告",
         "timestamp": "1712116470",
         "url": "mail_display.php?timestamp=1712116470",
@@ -102,21 +118,5 @@
         "date": "2024/03/27 16:08",
         "department": "總務處出納組",
         "author": "鄧瑞美"
-    },
-    {
-        "title": "113年4月4日至4月6日辦理全校建築物室外病媒防治消毒",
-        "timestamp": "1711506313",
-        "url": "mail_display.php?timestamp=1711506313",
-        "date": "2024/03/27 10:25",
-        "department": "總務處環境保護組",
-        "author": "許智翔"
-    },
-    {
-        "title": "清明連續假期(113年4月4 ~7日)調整垃圾清運時間During the consecutive Qingming Festival holiday (April 4 to 7, 2024), the garbage truck removal time will be adjusted.",
-        "timestamp": "1711506031",
-        "url": "mail_display.php?timestamp=1711506031",
-        "date": "2024/03/27 10:20",
-        "department": "總務處環境保護組",
-        "author": "許智翔"
     }
 ]
