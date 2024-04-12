@@ -1,5 +1,29 @@
 [
     {
+        "title": " 【Important Notice】 Shutdown Announcement for the Previous Version of Dong Hwa e-Learning Platform. Please Use the New Version of e-Learning.",
+        "timestamp": "1712649446",
+        "url": "mail_display.php?timestamp=1712649446",
+        "date": "2024/04/09 15:57",
+        "department": "教學卓越中心",
+        "author": "Ms. Hong"
+    },
+    {
+        "title": "【重要通知】舊版東華e學苑服務停機公告，請各位師生使用新版e學苑",
+        "timestamp": "1712646855",
+        "url": "mail_display.php?timestamp=1712646855",
+        "date": "2024/04/09 15:14",
+        "department": "教學卓越中心",
+        "author": "洪小姐"
+    },
+    {
+        "title": "【藝術學院公告】藝術學院所屬單位異地辦公(移至人社三館D303)",
+        "timestamp": "1712646414",
+        "url": "mail_display.php?timestamp=1712646414",
+        "date": "2024/04/09 15:06",
+        "department": "藝術學院",
+        "author": "黃小姐"
+    },
+    {
         "title": "【重要通知】舊版東華e學苑服務停機公告，請同學務必登入新版e學苑才能收到最新課程資訊",
         "timestamp": "1712645801",
         "url": "mail_display.php?timestamp=1712645801",
@@ -94,29 +118,5 @@
         "date": "2024/04/07 15:54",
         "department": "教務處課務組",
         "author": "課務組"
-    },
-    {
-        "title": "【緊急通知】因地震損壞校園硬體設備4月10日至4月26日全校採線上上課",
-        "timestamp": "1712464172",
-        "url": "mail_display.php?timestamp=1712464172",
-        "date": "2024/04/07 12:29",
-        "department": "秘書室公關宣傳組",
-        "author": "孫嘉莉"
-    },
-    {
-        "title": "慎防不法分子於本校災後復原期間，以總務處辦理採購名義進行詐騙",
-        "timestamp": "1712307582",
-        "url": "mail_display.php?timestamp=1712307582",
-        "date": "2024/04/05 16:59",
-        "department": "總務處事務組",
-        "author": "連小雅"
-    },
-    {
-        "title": "諮商中心0403震災關懷信/ Open letter from psychological counseling center for earthquakes on April 3rd",
-        "timestamp": "1712285151",
-        "url": "mail_display.php?timestamp=1712285151",
-        "date": "2024/04/05 10:45",
-        "department": "心理諮商輔導中心",
-        "author": "陳奕錚"
     }
 ]
