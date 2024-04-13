@@ -1,5 +1,13 @@
 [
     {
+        "title": "【Event Announcement】Welcome to join “Meeting with the President”",
+        "timestamp": "1713009182",
+        "url": "mail_display.php?timestamp=1713009182",
+        "date": "2024/04/13 19:53",
+        "department": "學務處生活輔導組",
+        "author": "林嘉瑩"
+    },
+    {
         "title": "【活動公告】112學年度第2學期『與校長有約』座談會【Event Announcement】Welcome to join “Meeting with the President”",
         "timestamp": "1713000347",
         "url": "mail_display.php?timestamp=1713000347",
@@ -110,13 +118,5 @@
         "date": "2024/04/12 13:58",
         "department": "教學卓越中心",
         "author": "王立凡"
-    },
-    {
-        "title": "校務會議紀錄公告通知",
-        "timestamp": "1712886180",
-        "url": "mail_display.php?timestamp=1712886180",
-        "date": "2024/04/12 09:43",
-        "department": "秘書室議事公文組",
-        "author": "陳婉婉"
     }
 ]

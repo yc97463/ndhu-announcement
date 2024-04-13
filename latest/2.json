@@ -1,5 +1,13 @@
 [
     {
+        "title": "校務會議紀錄公告通知",
+        "timestamp": "1712886180",
+        "url": "mail_display.php?timestamp=1712886180",
+        "date": "2024/04/12 09:43",
+        "department": "秘書室議事公文組",
+        "author": "陳婉婉"
+    },
+    {
         "title": "113年國立東華大學國際講座學者來訪補助申請，自即日起至5月31日受理申請。",
         "timestamp": "1712884879",
         "url": "mail_display.php?timestamp=1712884879",
@@ -110,13 +118,5 @@
         "date": "2024/04/11 16:30",
         "department": "學務處畢業生及校友服務組",
         "author": "黃文雯"
-    },
-    {
-        "title": "【重要通知 Important Notice】 舊版東華e學苑服務公告，敬請學生登入新版e學苑 Students must log in to the new version of Dong Hwa e-Learning",
-        "timestamp": "1712824089",
-        "url": "mail_display.php?timestamp=1712824089",
-        "date": "2024/04/11 16:28",
-        "department": "教學卓越中心",
-        "author": "王立凡"
     }
 ]
