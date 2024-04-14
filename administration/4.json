@@ -1,5 +1,13 @@
 [
     {
+        "title": "請同學在室外活動期間，戴上口罩以維自身安全",
+        "timestamp": "1712143161",
+        "url": "mail_display.php?timestamp=1712143161",
+        "date": "2024/04/03 19:19",
+        "department": "學務處生活輔導組",
+        "author": "吳昭毅"
+    },
+    {
         "title": "緊急通知-所有人及車輛請立即遠離理工一館。EMERGENCY NOTICE - All persons and vehicles are advised to stay away from Engineering Building I immediately.",
         "timestamp": "1712135615",
         "url": "mail_display.php?timestamp=1712135615",
@@ -110,13 +118,5 @@
         "date": "2024/03/28 09:21",
         "department": "圖書資訊處網路管理組",
         "author": "黃金城"
-    },
-    {
-        "title": "The credit fees payment form for the second  semester of 2023 academic year can be downloaded from the web-site of Bank of Taiwan from March 28!",
-        "timestamp": "1711527115",
-        "url": "mail_display.php?timestamp=1711527115",
-        "date": "2024/03/27 16:11",
-        "department": "總務處出納組",
-        "author": "鄧瑞美"
     }
 ]
