@@ -1,5 +1,13 @@
 [
     {
+        "title": "【課務組公告】請注意網路加退選時間  Please Notice the Period for Online Add/Drop Courses",
+        "timestamp": "1708064081",
+        "url": "mail_display.php?timestamp=1708064081",
+        "date": "2024/02/16 14:14",
+        "department": "教務處課務組",
+        "author": "課務組"
+    },
+    {
         "title": "【通識】112-2學期通識課程活動補助申請(第三次公告)",
         "timestamp": "1708062419",
         "url": "mail_display.php?timestamp=1708062419",
@@ -110,13 +118,5 @@
         "date": "2024/01/30 15:34",
         "department": "教務處課務組",
         "author": "課務組"
-    },
-    {
-        "title": "【Foward 協助轉知】財團法人工業技術研究院舉辦「淨零永續與低碳能源系列課程」Net Zero Sustainability and Low-Carbon Energy Series Courses are organized by Industrial Technology Research Institute",
-        "timestamp": "1706596536",
-        "url": "mail_display.php?timestamp=1706596536",
-        "date": "2024/01/30 14:35",
-        "department": "永續發展中心籌備處",
-        "author": "李莉莉 (Li-Li Lee)"
     }
 ]
