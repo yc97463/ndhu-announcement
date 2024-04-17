@@ -1,5 +1,61 @@
 [
     {
+        "title": "體育中心場館使用及活動說明公告  Sports Centre Venue Usage and Activity Description Bulletin",
+        "timestamp": "1712560307",
+        "url": "mail_display.php?timestamp=1712560307",
+        "date": "2024/04/08 15:11",
+        "department": "體育中心",
+        "author": "邱健榮"
+    },
+    {
+        "title": "【圖書館公告】113.4.3(三)至113.4.14(日)震災整理，暫停入館。(需視復原情況滾動式調整開放各區域空間)",
+        "timestamp": "1712556439",
+        "url": "mail_display.php?timestamp=1712556439",
+        "date": "2024/04/08 14:07",
+        "department": "圖書資訊處圖資服務組",
+        "author": "詹依萍"
+    },
+    {
+        "title": "公告藝術學院停電及人社一館自來水管線漏水維修及學人宿舍93號管線漏水維修",
+        "timestamp": "1712535048",
+        "url": "mail_display.php?timestamp=1712535048",
+        "date": "2024/04/08 08:10",
+        "department": "總務處營繕組",
+        "author": "劉宏銘"
+    },
+    {
+        "title": "【課務組】線上教學相關事項說明  Online Teaching Usage Instructions ",
+        "timestamp": "1712476487",
+        "url": "mail_display.php?timestamp=1712476487",
+        "date": "2024/04/07 15:54",
+        "department": "教務處課務組",
+        "author": "課務組"
+    },
+    {
+        "title": "【緊急通知】因地震損壞校園硬體設備4月10日至4月26日全校採線上上課",
+        "timestamp": "1712464172",
+        "url": "mail_display.php?timestamp=1712464172",
+        "date": "2024/04/07 12:29",
+        "department": "秘書室公關宣傳組",
+        "author": "孫嘉莉"
+    },
+    {
+        "title": "慎防不法分子於本校災後復原期間，以總務處辦理採購名義進行詐騙",
+        "timestamp": "1712307582",
+        "url": "mail_display.php?timestamp=1712307582",
+        "date": "2024/04/05 16:59",
+        "department": "總務處事務組",
+        "author": "連小雅"
+    },
+    {
+        "title": "諮商中心0403震災關懷信/ Open letter from psychological counseling center for earthquakes on April 3rd",
+        "timestamp": "1712285151",
+        "url": "mail_display.php?timestamp=1712285151",
+        "date": "2024/04/05 10:45",
+        "department": "心理諮商輔導中心",
+        "author": "陳奕錚"
+    },
+    {
         "title": "災後進入理工一館A、B、C棟注意事項(D棟嚴禁進入)",
         "timestamp": "1712223164",
         "url": "mail_display.php?timestamp=1712223164",
@@ -62,61 +118,5 @@
         "date": "2024/04/03 19:41",
         "department": "體育中心",
         "author": "邱健榮"
-    },
-    {
-        "title": "請同學在室外活動期間，戴上口罩以維自身安全",
-        "timestamp": "1712143161",
-        "url": "mail_display.php?timestamp=1712143161",
-        "date": "2024/04/03 19:19",
-        "department": "學務處生活輔導組",
-        "author": "吳昭毅"
-    },
-    {
-        "title": "緊急通知-所有人及車輛請立即遠離理工一館。EMERGENCY NOTICE - All persons and vehicles are advised to stay away from Engineering Building I immediately.",
-        "timestamp": "1712135615",
-        "url": "mail_display.php?timestamp=1712135615",
-        "date": "2024/04/03 17:13",
-        "department": "總務處",
-        "author": "郭家銘"
-    },
-    {
-        "title": "【圖書館公告】113.4.3(三)至113.4.9(二)因地震災害，暫停入館。(將視復原情況滾動式公告相關事宜)",
-        "timestamp": "1712134636",
-        "url": "mail_display.php?timestamp=1712134636",
-        "date": "2024/04/03 16:57",
-        "department": "圖書資訊處圖資服務組",
-        "author": "詹依萍"
-    },
-    {
-        "title": "校長給大家的公開信",
-        "timestamp": "1712128609",
-        "url": "mail_display.php?timestamp=1712128609",
-        "date": "2024/04/03 15:16",
-        "department": "圖書資訊處網路管理組",
-        "author": "網路管理組技術師楊志偉"
-    },
-    {
-        "title": "地震停班課公告",
-        "timestamp": "1712116470",
-        "url": "mail_display.php?timestamp=1712116470",
-        "date": "2024/04/03 11:54",
-        "department": "圖書資訊處網路管理組",
-        "author": "李宇峰"
-    },
-    {
-        "title": "本校修剪樹木及清理天溝作業公告。",
-        "timestamp": "1712043543",
-        "url": "mail_display.php?timestamp=1712043543",
-        "date": "2024/04/02 15:39",
-        "department": "總務處環境保護組",
-        "author": "許智翔"
-    },
-    {
-        "title": "【教育優先區】113年暑假教育優先區中小學營隊活動校內申請即日起至113年4月19日(五)下午17:00收件截止!!! Application for the K-12 School Camp Activities during summer break of academic year 2024",
-        "timestamp": "1711952475",
-        "url": "mail_display.php?timestamp=1711952475",
-        "date": "2024/04/01 14:21",
-        "department": "學務處課外活動組",
-        "author": "余惠真"
     }
 ]
