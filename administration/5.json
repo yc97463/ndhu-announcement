@@ -1,37 +1,5 @@
 [
     {
-        "title": "請同學在室外活動期間，戴上口罩以維自身安全",
-        "timestamp": "1712143161",
-        "url": "mail_display.php?timestamp=1712143161",
-        "date": "2024/04/03 19:19",
-        "department": "學務處生活輔導組",
-        "author": "吳昭毅"
-    },
-    {
-        "title": "緊急通知-所有人及車輛請立即遠離理工一館。EMERGENCY NOTICE - All persons and vehicles are advised to stay away from Engineering Building I immediately.",
-        "timestamp": "1712135615",
-        "url": "mail_display.php?timestamp=1712135615",
-        "date": "2024/04/03 17:13",
-        "department": "總務處",
-        "author": "郭家銘"
-    },
-    {
-        "title": "【圖書館公告】113.4.3(三)至113.4.9(二)因地震災害，暫停入館。(將視復原情況滾動式公告相關事宜)",
-        "timestamp": "1712134636",
-        "url": "mail_display.php?timestamp=1712134636",
-        "date": "2024/04/03 16:57",
-        "department": "圖書資訊處圖資服務組",
-        "author": "詹依萍"
-    },
-    {
-        "title": "校長給大家的公開信",
-        "timestamp": "1712128609",
-        "url": "mail_display.php?timestamp=1712128609",
-        "date": "2024/04/03 15:16",
-        "department": "圖書資訊處網路管理組",
-        "author": "網路管理組技術師楊志偉"
-    },
-    {
         "title": "地震停班課公告",
         "timestamp": "1712116470",
         "url": "mail_display.php?timestamp=1712116470",
@@ -118,5 +86,37 @@
         "date": "2024/03/28 09:21",
         "department": "圖書資訊處網路管理組",
         "author": "黃金城"
+    },
+    {
+        "title": "The credit fees payment form for the second  semester of 2023 academic year can be downloaded from the web-site of Bank of Taiwan from March 28!",
+        "timestamp": "1711527115",
+        "url": "mail_display.php?timestamp=1711527115",
+        "date": "2024/03/27 16:11",
+        "department": "總務處出納組",
+        "author": "鄧瑞美"
+    },
+    {
+        "title": "112學年度第2學期加選學分費繳費單(113/03/28)可以下載囉！",
+        "timestamp": "1711526897",
+        "url": "mail_display.php?timestamp=1711526897",
+        "date": "2024/03/27 16:08",
+        "department": "總務處出納組",
+        "author": "鄧瑞美"
+    },
+    {
+        "title": "113年4月4日至4月6日辦理全校建築物室外病媒防治消毒",
+        "timestamp": "1711506313",
+        "url": "mail_display.php?timestamp=1711506313",
+        "date": "2024/03/27 10:25",
+        "department": "總務處環境保護組",
+        "author": "許智翔"
+    },
+    {
+        "title": "清明連續假期(113年4月4 ~7日)調整垃圾清運時間During the consecutive Qingming Festival holiday (April 4 to 7, 2024), the garbage truck removal time will be adjusted.",
+        "timestamp": "1711506031",
+        "url": "mail_display.php?timestamp=1711506031",
+        "date": "2024/03/27 10:20",
+        "department": "總務處環境保護組",
+        "author": "許智翔"
     }
 ]
