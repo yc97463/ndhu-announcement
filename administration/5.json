@@ -1,5 +1,13 @@
 [
     {
+        "title": "本校體育中心所屬體育場館全面關閉公告",
+        "timestamp": "1712144488",
+        "url": "mail_display.php?timestamp=1712144488",
+        "date": "2024/04/03 19:41",
+        "department": "體育中心",
+        "author": "邱健榮"
+    },
+    {
         "title": "請同學在室外活動期間，戴上口罩以維自身安全",
         "timestamp": "1712143161",
         "url": "mail_display.php?timestamp=1712143161",
@@ -110,13 +118,5 @@
         "date": "2024/03/29 09:41",
         "department": "圖書資訊處圖資服務組",
         "author": "詹依萍"
-    },
-    {
-        "title": "【網路維護】核心骨幹網路系統更換【第三次公告】",
-        "timestamp": "1711588911",
-        "url": "mail_display.php?timestamp=1711588911",
-        "date": "2024/03/28 09:21",
-        "department": "圖書資訊處網路管理組",
-        "author": "黃金城"
     }
 ]
