@@ -1,5 +1,13 @@
 [
     {
+        "title": "舊版東華e學苑暫停服務(old e-learning out of service)",
+        "timestamp": "1712214990",
+        "url": "mail_display.php?timestamp=1712214990",
+        "date": "2024/04/04 15:16",
+        "department": "教學卓越中心",
+        "author": "王立凡"
+    },
+    {
         "title": "理工一館D棟請勿進入",
         "timestamp": "1712194996",
         "url": "mail_display.php?timestamp=1712194996",
@@ -110,13 +118,5 @@
         "date": "2024/04/01 13:57",
         "department": "教務處課務組",
         "author": "課務組"
-    },
-    {
-        "title": "113年4 月4-8日為「民族掃墓節」連續假期，電腦教室暫不開放。The computer lab one will be closed on April 4-8, 2024.",
-        "timestamp": "1711944222",
-        "url": "mail_display.php?timestamp=1711944222",
-        "date": "2024/04/01 12:03",
-        "department": "圖書資訊處綜合業務組",
-        "author": "林循美"
     }
 ]
