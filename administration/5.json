@@ -1,5 +1,29 @@
 [
     {
+        "title": "【圖書館公告】113.4.3(三)至113.4.14(日)震災整理，暫停入館。(需視復原情況滾動式調整開放各區域空間)",
+        "timestamp": "1712556439",
+        "url": "mail_display.php?timestamp=1712556439",
+        "date": "2024/04/08 14:07",
+        "department": "圖書資訊處圖資服務組",
+        "author": "詹依萍"
+    },
+    {
+        "title": "公告藝術學院停電及人社一館自來水管線漏水維修及學人宿舍93號管線漏水維修",
+        "timestamp": "1712535048",
+        "url": "mail_display.php?timestamp=1712535048",
+        "date": "2024/04/08 08:10",
+        "department": "總務處營繕組",
+        "author": "劉宏銘"
+    },
+    {
+        "title": "【課務組】線上教學相關事項說明  Online Teaching Usage Instructions ",
+        "timestamp": "1712476487",
+        "url": "mail_display.php?timestamp=1712476487",
+        "date": "2024/04/07 15:54",
+        "department": "教務處課務組",
+        "author": "課務組"
+    },
+    {
         "title": "【緊急通知】因地震損壞校園硬體設備4月10日至4月26日全校採線上上課",
         "timestamp": "1712464172",
         "url": "mail_display.php?timestamp=1712464172",
@@ -94,29 +118,5 @@
         "date": "2024/04/03 19:19",
         "department": "學務處生活輔導組",
         "author": "吳昭毅"
-    },
-    {
-        "title": "緊急通知-所有人及車輛請立即遠離理工一館。EMERGENCY NOTICE - All persons and vehicles are advised to stay away from Engineering Building I immediately.",
-        "timestamp": "1712135615",
-        "url": "mail_display.php?timestamp=1712135615",
-        "date": "2024/04/03 17:13",
-        "department": "總務處",
-        "author": "郭家銘"
-    },
-    {
-        "title": "【圖書館公告】113.4.3(三)至113.4.9(二)因地震災害，暫停入館。(將視復原情況滾動式公告相關事宜)",
-        "timestamp": "1712134636",
-        "url": "mail_display.php?timestamp=1712134636",
-        "date": "2024/04/03 16:57",
-        "department": "圖書資訊處圖資服務組",
-        "author": "詹依萍"
-    },
-    {
-        "title": "校長給大家的公開信",
-        "timestamp": "1712128609",
-        "url": "mail_display.php?timestamp=1712128609",
-        "date": "2024/04/03 15:16",
-        "department": "圖書資訊處網路管理組",
-        "author": "網路管理組技術師楊志偉"
     }
 ]
