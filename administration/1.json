@@ -1,5 +1,13 @@
 [
     {
+        "title": "行政會議 會議紀錄公告通知",
+        "timestamp": "1713941475",
+        "url": "mail_display.php?timestamp=1713941475",
+        "date": "2024/04/24 14:51",
+        "department": "秘書室議事公文組",
+        "author": "陳婉婉"
+    },
+    {
         "title": "公文系統主機4月24日(三)中午更新停機公告",
         "timestamp": "1713926500",
         "url": "mail_display.php?timestamp=1713926500",
@@ -110,13 +118,5 @@
         "date": "2024/04/19 09:40",
         "department": "學務處生活輔導組",
         "author": "陳怡秀"
-    },
-    {
-        "title": "【0403 Far EasTone NDHU Student Aid \"4G Easy Pay Card 90-Day Unlimited Data Plan\"】",
-        "timestamp": "1713436336",
-        "url": "mail_display.php?timestamp=1713436336",
-        "date": "2024/04/18 18:32",
-        "department": "總務處事務組",
-        "author": "事務組"
     }
 ]
