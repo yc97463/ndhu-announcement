@@ -1,5 +1,13 @@
 [
     {
+        "title": "【重要通知】舊版東華e學苑服務停機公告，請同學務必登入新版e學苑才能收到最新課程資訊",
+        "timestamp": "1712645801",
+        "url": "mail_display.php?timestamp=1712645801",
+        "date": "2024/04/09 14:56",
+        "department": "教學卓越中心",
+        "author": "洪小姐"
+    },
+    {
         "title": "【網路服務維護公告】TWAREN SSL-VPN服務維護",
         "timestamp": "1712645220",
         "url": "mail_display.php?timestamp=1712645220",
@@ -110,13 +118,5 @@
         "date": "2024/04/05 10:45",
         "department": "心理諮商輔導中心",
         "author": "陳奕錚"
-    },
-    {
-        "title": "災後進入理工一館A、B、C棟注意事項(D棟嚴禁進入)",
-        "timestamp": "1712223164",
-        "url": "mail_display.php?timestamp=1712223164",
-        "date": "2024/04/04 17:32",
-        "department": "總務處環境保護組",
-        "author": "陳俐穎"
     }
 ]
