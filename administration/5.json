@@ -1,5 +1,13 @@
 [
     {
+        "title": "【藝術學院公告】藝術學院所屬單位異地辦公(移至人社三館D303)",
+        "timestamp": "1712646414",
+        "url": "mail_display.php?timestamp=1712646414",
+        "date": "2024/04/09 15:06",
+        "department": "藝術學院",
+        "author": "黃小姐"
+    },
+    {
         "title": "【重要通知】舊版東華e學苑服務停機公告，請同學務必登入新版e學苑才能收到最新課程資訊",
         "timestamp": "1712645801",
         "url": "mail_display.php?timestamp=1712645801",
@@ -110,13 +118,5 @@
         "date": "2024/04/05 16:59",
         "department": "總務處事務組",
         "author": "連小雅"
-    },
-    {
-        "title": "諮商中心0403震災關懷信/ Open letter from psychological counseling center for earthquakes on April 3rd",
-        "timestamp": "1712285151",
-        "url": "mail_display.php?timestamp=1712285151",
-        "date": "2024/04/05 10:45",
-        "department": "心理諮商輔導中心",
-        "author": "陳奕錚"
     }
 ]
