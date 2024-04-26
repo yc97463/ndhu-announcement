@@ -1,5 +1,53 @@
 [
     {
+        "title": "公文系統主機4月24日(三)中午更新停機公告",
+        "timestamp": "1713926500",
+        "url": "mail_display.php?timestamp=1713926500",
+        "date": "2024/04/24 10:41",
+        "department": "總務處文書組",
+        "author": "張建中"
+    },
+    {
+        "title": "【圖書館徵求】書庫復原志工，協助三樓書籍歸架排序",
+        "timestamp": "1713926132",
+        "url": "mail_display.php?timestamp=1713926132",
+        "date": "2024/04/24 10:35",
+        "department": "圖書資訊處圖資服務組",
+        "author": "詹依萍"
+    },
+    {
+        "title": "【圖書館公告】113.4.27(六)至113.6.23(日)期間開館時間調整為平日(一至五)09:00-17:00；假日(六至日)09:00-17:00，國定假日休館 。開放一、二、三樓區域(不含2F視聽資料區)。",
+        "timestamp": "1713925757",
+        "url": "mail_display.php?timestamp=1713925757",
+        "date": "2024/04/24 10:29",
+        "department": "圖書資訊處圖資服務組",
+        "author": "詹依萍"
+    },
+    {
+        "title": "【教學卓越中心】Hybrid複合式教學建議，提供各位老師規畫教學活動參考",
+        "timestamp": "1713924464",
+        "url": "mail_display.php?timestamp=1713924464",
+        "date": "2024/04/24 10:07",
+        "department": "教學卓越中心",
+        "author": "李貞穎"
+    },
+    {
+        "title": "【海外實習】國合會-第六屆海外實生招募申請遞件至4月26日止",
+        "timestamp": "1713924220",
+        "url": "mail_display.php?timestamp=1713924220",
+        "date": "2024/04/24 10:03",
+        "department": "研發處",
+        "author": "洪乃慈"
+    },
+    {
+        "title": "轉知中華民國大專院校體育總會「113年度體適能教學研習會第二梯次－初級團體運 動指導員培訓」（屏東場），有意者敬請踴躍參加。",
+        "timestamp": "1713920851",
+        "url": "mail_display.php?timestamp=1713920851",
+        "date": "2024/04/24 09:07",
+        "department": "體育中心",
+        "author": "邱健榮"
+    },
+    {
         "title": "【get it跨域就業講座】從公務人員到立法院—法律人從政之路",
         "timestamp": "1713916501",
         "url": "mail_display.php?timestamp=1713916501",
@@ -70,53 +118,5 @@
         "date": "2024/04/23 07:55",
         "department": "理工學院 生命科學系",
         "author": "元淑英"
-    },
-    {
-        "title": "赴國外交換生返國心得分享會",
-        "timestamp": "1713830106",
-        "url": "mail_display.php?timestamp=1713830106",
-        "date": "2024/04/23 07:55",
-        "department": "理工學院 資訊工程學系",
-        "author": "謝馨慧"
-    },
-    {
-        "title": "【資工系專題講座】4/26(五)財金資訊股份有限公司 陳斌 總經理(線上演講)",
-        "timestamp": "1713830105",
-        "url": "mail_display.php?timestamp=1713830105",
-        "date": "2024/04/23 07:55",
-        "department": "理工學院 資訊工程學系",
-        "author": "葉子綺"
-    },
-    {
-        "title": "本校112學年「畢業典禮」徵求志願服務人員",
-        "timestamp": "1713830104",
-        "url": "mail_display.php?timestamp=1713830104",
-        "date": "2024/04/23 07:55",
-        "department": "學務處 生活輔導組",
-        "author": "陳詩啓"
-    },
-    {
-        "title": "113-1學期藝設系產業實習課程說明會",
-        "timestamp": "1713830103",
-        "url": "mail_display.php?timestamp=1713830103",
-        "date": "2024/04/23 07:55",
-        "department": "藝術學院 藝術與設計學系",
-        "author": "邱苡芳"
-    },
-    {
-        "title": "舊是要贏-原資送舊晚會",
-        "timestamp": "1713830102",
-        "url": "mail_display.php?timestamp=1713830102",
-        "date": "2024/04/23 07:55",
-        "department": "學務處 原住民族學生資源中心",
-        "author": "曾暐娟"
-    },
-    {
-        "title": "【課務組】因應地震不斷發生，花蓮縣政府公告本縣今日停課一天。",
-        "timestamp": "1713829814",
-        "url": "mail_display.php?timestamp=1713829814",
-        "date": "2024/04/23 07:50",
-        "department": "教務處課務組",
-        "author": "課務組"
     }
 ]
