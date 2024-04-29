@@ -1,5 +1,29 @@
 [
     {
+        "title": "【藝術中心4/24活動更改為線上音樂會公告】【Announcement- Event \"The Sound of Tokyo Jazz - Hideo Oyama Quartet\" will be changed to live stream concert.】",
+        "timestamp": "1713881268",
+        "url": "mail_display.php?timestamp=1713881268",
+        "date": "2024/04/23 22:07",
+        "department": "藝術中心",
+        "author": "周葦綸"
+    },
+    {
+        "title": "【週四法語角】112-2 French Lunch Hour 法文午餐會話時間 5/02 第6場 Session 6",
+        "timestamp": "1713830110",
+        "url": "mail_display.php?timestamp=1713830110",
+        "date": "2024/04/23 07:55",
+        "department": "洄瀾學院 語言中心",
+        "author": "呂岳芳"
+    },
+    {
+        "title": "【華文文學講座】林珊珊老師",
+        "timestamp": "1713830109",
+        "url": "mail_display.php?timestamp=1713830109",
+        "date": "2024/04/23 07:55",
+        "department": "人文社會科學學院 華文文學系",
+        "author": "伍佳雯"
+    },
+    {
         "title": "【112族文週「族探」系列活動】議題工作坊-踏出衣櫃的挑戰：一場關於原住民同志的議題探索",
         "timestamp": "1713830108",
         "url": "mail_display.php?timestamp=1713830108",
@@ -94,29 +118,5 @@
         "date": "2024/04/22 15:47",
         "department": "法律學系",
         "author": "黃助理"
-    },
-    {
-        "title": "教學卓越中心敬邀參加~線上講座~ 全球趨勢線上互動教學力~有溫度的線上教室手把手實作(4/30)",
-        "timestamp": "1713771600",
-        "url": "mail_display.php?timestamp=1713771600",
-        "date": "2024/04/22 15:40",
-        "department": "教學卓越中心",
-        "author": "方紀蘋"
-    },
-    {
-        "title": "【亭午風起，有詩東華】112-2 英詩小講堂 5/01 第4場 \"Lyrical Lunch at Dong Hwa\" Poetry Reading Session 4",
-        "timestamp": "1713743705",
-        "url": "mail_display.php?timestamp=1713743705",
-        "date": "2024/04/22 07:55",
-        "department": "洄瀾學院 語言中心",
-        "author": "呂岳芳"
-    },
-    {
-        "title": "【法語角】French Movie Nights 法國電影之夜 Session 3：5/29《天才警官 Le Gendarme de Saint-Tropez》(1964)",
-        "timestamp": "1713743704",
-        "url": "mail_display.php?timestamp=1713743704",
-        "date": "2024/04/22 07:55",
-        "department": "洄瀾學院 語言中心",
-        "author": "呂岳芳"
     }
 ]
