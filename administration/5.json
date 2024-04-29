@@ -1,5 +1,13 @@
 [
     {
+        "title": "校務會議紀錄公告通知",
+        "timestamp": "1712886180",
+        "url": "mail_display.php?timestamp=1712886180",
+        "date": "2024/04/12 09:43",
+        "department": "秘書室議事公文組",
+        "author": "陳婉婉"
+    },
+    {
         "title": "113年國立東華大學國際講座學者來訪補助申請，自即日起至5月31日受理申請。",
         "timestamp": "1712884879",
         "url": "mail_display.php?timestamp=1712884879",
@@ -110,13 +118,5 @@
         "date": "2024/04/10 13:55",
         "department": "理工學院",
         "author": "潘小姐"
-    },
-    {
-        "title": "【徵才】國立東華大學中國語文學系誠徵行政助理一名",
-        "timestamp": "1712717579",
-        "url": "mail_display.php?timestamp=1712717579",
-        "date": "2024/04/10 10:52",
-        "department": "中國語文學系",
-        "author": "曾映蓁"
     }
 ]
