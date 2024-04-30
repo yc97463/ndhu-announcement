@@ -1,5 +1,13 @@
 [
     {
+        "title": "【課務組通知】授課教師可列印112-2學期選課確認名單",
+        "timestamp": "1710743644",
+        "url": "mail_display.php?timestamp=1710743644",
+        "date": "2024/03/18 14:34",
+        "department": "教務處課務組",
+        "author": "課務組"
+    },
+    {
         "title": "「縱目歐亞-空間與人文的對話」系列講座-3/20（三）邢義田院士（中央研究院）：古代秦漢和羅馬帝國的關係—幾個待解的謎",
         "timestamp": "1710488801",
         "url": "mail_display.php?timestamp=1710488801",
@@ -110,13 +118,5 @@
         "date": "2024/02/27 16:52",
         "department": "教務處課務組",
         "author": "課務組"
-    },
-    {
-        "title": "【語言中心】112-2推廣教育課程-繪本Fun英文",
-        "timestamp": "1709015498",
-        "url": "mail_display.php?timestamp=1709015498",
-        "date": "2024/02/27 14:31",
-        "department": "語言中心",
-        "author": "林瑜珊"
     }
 ]
