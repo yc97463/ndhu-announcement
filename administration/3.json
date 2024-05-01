@@ -1,5 +1,13 @@
 [
     {
+        "title": "受0403地震影響部分講堂關閉借用",
+        "timestamp": "1714029860",
+        "url": "mail_display.php?timestamp=1714029860",
+        "date": "2024/04/25 15:24",
+        "department": "總務處事務組",
+        "author": "連小雅"
+    },
+    {
         "title": "煩請大家留意網路組的無線基地台設備",
         "timestamp": "1714028188",
         "url": "mail_display.php?timestamp=1714028188",
@@ -110,13 +118,5 @@
         "date": "2024/04/22 12:03",
         "department": "體育中心",
         "author": "邱健榮"
-    },
-    {
-        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
-        "timestamp": "1713746484",
-        "url": "mail_display.php?timestamp=1713746484",
-        "date": "2024/04/22 08:41",
-        "department": "圖書資訊處校務系統組",
-        "author": "林志軒"
     }
 ]
