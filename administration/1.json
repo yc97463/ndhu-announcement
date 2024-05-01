@@ -1,5 +1,13 @@
 [
     {
+        "title": ":藝術學院停水公告。",
+        "timestamp": "1714577420",
+        "url": "mail_display.php?timestamp=1714577420",
+        "date": "2024/05/01 23:30",
+        "department": "總務處營繕組",
+        "author": "劉宏銘"
+    },
+    {
         "title": "【學生兵役訊息】113年應接受常備兵役軍事訓練役男（83年次至93年次)，申請優先入營或延緩入營案公告",
         "timestamp": "1714553183",
         "url": "mail_display.php?timestamp=1714553183",
@@ -110,13 +118,5 @@
         "date": "2024/04/29 17:13",
         "department": "社會參與中心",
         "author": "葉小姐"
-    },
-    {
-        "title": "行政大樓災後拆除天花板輕鋼架及空調管線施工公告(4/30~5/28)",
-        "timestamp": "1714381821",
-        "url": "mail_display.php?timestamp=1714381821",
-        "date": "2024/04/29 17:10",
-        "department": "總務處營繕組",
-        "author": "郭家銘"
     }
 ]
