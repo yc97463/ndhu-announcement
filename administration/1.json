@@ -1,5 +1,13 @@
 [
     {
+        "title": "校外賃居住宿安全公告",
+        "timestamp": "1714530682",
+        "url": "mail_display.php?timestamp=1714530682",
+        "date": "2024/05/01 10:31",
+        "department": "學務處生活輔導組",
+        "author": "陳詩啓"
+    },
+    {
         "title": "教育部將於5月至12月止進行2次電子郵件社交工程演練",
         "timestamp": "1714526724",
         "url": "mail_display.php?timestamp=1714526724",
@@ -110,13 +118,5 @@
         "date": "2024/04/29 13:59",
         "department": "學務處生活輔導組",
         "author": "李欣憓"
-    },
-    {
-        "title": "【考選部訊息】113 年司法、調查、海巡特考及 113 年法官遴選資格考試自 113 年 4 月 30 日起至 5 月 9 日下午 5 時止受理報名，詳情請至考選部全球資訊網查詢。",
-        "timestamp": "1714369261",
-        "url": "mail_display.php?timestamp=1714369261",
-        "date": "2024/04/29 13:41",
-        "department": "人事室",
-        "author": "林淑惠"
     }
 ]
