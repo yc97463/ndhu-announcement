@@ -1,5 +1,13 @@
 [
     {
+        "title": "【藝術學院復電通知】本院所屬單位已返回藝術學院大樓辦公",
+        "timestamp": "1713419632",
+        "url": "mail_display.php?timestamp=1713419632",
+        "date": "2024/04/18 13:53",
+        "department": "藝術學院",
+        "author": "黃小姐"
+    },
+    {
         "title": "【貴重儀器使用中心】災後因應公告",
         "timestamp": "1713412265",
         "url": "mail_display.php?timestamp=1713412265",
@@ -110,13 +118,5 @@
         "date": "2024/04/15 11:40",
         "department": "總務處營繕組",
         "author": "劉景富"
-    },
-    {
-        "title": "【課務組】112學年度第2學期期中停修  Mid-semester course withdrawal (4/22 - 5/10)",
-        "timestamp": "1713148802",
-        "url": "mail_display.php?timestamp=1713148802",
-        "date": "2024/04/15 10:40",
-        "department": "教務處課務組",
-        "author": "課務組"
     }
 ]
