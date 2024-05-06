@@ -1,5 +1,13 @@
 [
     {
+        "title": "東華電子報 | 2024年04月刊",
+        "timestamp": "1714608717",
+        "url": "mail_display.php?timestamp=1714608717",
+        "date": "2024/05/02 08:11",
+        "department": "秘書室公關宣傳組",
+        "author": "林佩瑤"
+    },
+    {
         "title": ":藝術學院停水公告。",
         "timestamp": "1714577420",
         "url": "mail_display.php?timestamp=1714577420",
@@ -110,13 +118,5 @@
         "date": "2024/05/01 09:25",
         "department": "圖書資訊處圖資服務組",
         "author": "葉宏達"
-    },
-    {
-        "title": "理工二館停水公告",
-        "timestamp": "1714524566",
-        "url": "mail_display.php?timestamp=1714524566",
-        "date": "2024/05/01 08:49",
-        "department": "總務處營繕組",
-        "author": "劉宏銘"
     }
 ]
