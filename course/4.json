@@ -1,13 +1,5 @@
 [
     {
-        "title": "【健康促進講座】餐桌上的營養與安全，歡迎踴躍參加!",
-        "timestamp": "1712048675",
-        "url": "mail_display.php?timestamp=1712048675",
-        "date": "2024/04/02 17:04",
-        "department": "學務處衛生保健組",
-        "author": "王惠貞"
-    },
-    {
         "title": "4/11(四)手機影片創作課程",
         "timestamp": "1711962923",
         "url": "mail_display.php?timestamp=1711962923",
@@ -116,6 +108,14 @@
         "timestamp": "1710397963",
         "url": "mail_display.php?timestamp=1710397963",
         "date": "2024/03/14 14:32",
+        "department": "教學卓越中心",
+        "author": "黃小姐"
+    },
+    {
+        "title": "⭐教育大數據⭐學習如何以大數據來解讀教育的問題！",
+        "timestamp": "1710312978",
+        "url": "mail_display.php?timestamp=1710312978",
+        "date": "2024/03/13 14:56",
         "department": "教學卓越中心",
         "author": "黃小姐"
     }
