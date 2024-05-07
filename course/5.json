@@ -1,5 +1,13 @@
 [
     {
+        "title": "⭐教育大數據⭐學習如何以大數據來解讀教育的問題！",
+        "timestamp": "1710312978",
+        "url": "mail_display.php?timestamp=1710312978",
+        "date": "2024/03/13 14:56",
+        "department": "教學卓越中心",
+        "author": "黃小姐"
+    },
+    {
         "title": "【微學程推廣】國立東華大學教育大數據微學程—學習如何以大數據來解讀教育的問題！",
         "timestamp": "1710229777",
         "url": "mail_display.php?timestamp=1710229777",
@@ -110,13 +118,5 @@
         "date": "2024/02/22 14:48",
         "department": "通識教育中心",
         "author": "陳美娥"
-    },
-    {
-        "title": "還在苦惱課表該怎麼安排？",
-        "timestamp": "1708583658",
-        "url": "mail_display.php?timestamp=1708583658",
-        "date": "2024/02/22 14:34",
-        "department": "教學卓越中心",
-        "author": "李亭豫"
     }
 ]
