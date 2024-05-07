@@ -1,5 +1,13 @@
 [
     {
+        "title": "⭐教育大數據微學程⭐學習如何以大數據來解讀教育的問題！",
+        "timestamp": "1710397963",
+        "url": "mail_display.php?timestamp=1710397963",
+        "date": "2024/03/14 14:32",
+        "department": "教學卓越中心",
+        "author": "黃小姐"
+    },
+    {
         "title": "⭐教育大數據⭐學習如何以大數據來解讀教育的問題！",
         "timestamp": "1710312978",
         "url": "mail_display.php?timestamp=1710312978",
@@ -110,13 +118,5 @@
         "date": "2024/02/22 13:19",
         "department": "通識教育中心",
         "author": "陳美娥"
-    },
-    {
-        "title": "中等教育學程 報名公告",
-        "timestamp": "1708517628",
-        "url": "mail_display.php?timestamp=1708517628",
-        "date": "2024/02/21 20:13",
-        "department": "師資培育中心",
-        "author": "中等學程組"
     }
 ]
