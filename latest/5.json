@@ -1,5 +1,13 @@
 [
     {
+        "title": "行政會議 會議紀錄公告通知",
+        "timestamp": "1714729944",
+        "url": "mail_display.php?timestamp=1714729944",
+        "date": "2024/05/03 17:52",
+        "department": "秘書室議事公文組",
+        "author": "陳婉婉"
+    },
+    {
         "title": "大學校院學生出國參加國際性學術技藝能競賽補助開放申請中",
         "timestamp": "1714728828",
         "url": "mail_display.php?timestamp=1714728828",
@@ -110,13 +118,5 @@
         "date": "2024/05/02 19:36",
         "department": "教學卓越中心",
         "author": "游守正"
-    },
-    {
-        "title": "【轉知】國立臺北商業大學辦理產業新尖兵計畫「全端工程師人才培訓班(第3梯次)」課程",
-        "timestamp": "1714647072",
-        "url": "mail_display.php?timestamp=1714647072",
-        "date": "2024/05/02 18:51",
-        "department": "學務處畢業生及校友服務組",
-        "author": "黃文雯"
     }
 ]
