@@ -1,5 +1,21 @@
 [
     {
+        "title": "AI應用，你準備好了嗎？",
+        "timestamp": "1714958344",
+        "url": "mail_display.php?timestamp=1714958344",
+        "date": "2024/05/06 09:19",
+        "department": "研發處創新育成中心",
+        "author": "吳其璁"
+    },
+    {
+        "title": "【Student Dormitories】National Dong Hwa University 112th Academic Year, Second Semester Announcement on End-of-Term Dormitory Closure, Luggage Storage, and Summer Accommodation Operations",
+        "timestamp": "1714956381",
+        "url": "mail_display.php?timestamp=1714956381",
+        "date": "2024/05/06 08:46",
+        "department": "學務處",
+        "author": "鍾佩玲"
+    },
+    {
         "title": "【學生宿舍】國立東華大學112學年度第二學期學生宿舍【期末閉宿暨行李寄放及暑期住宿】作業公告",
         "timestamp": "1714956023",
         "url": "mail_display.php?timestamp=1714956023",
@@ -102,21 +118,5 @@
         "date": "2024/05/02 16:38",
         "department": "語言中心",
         "author": "呂岳芳"
-    },
-    {
-        "title": "第24屆東華奇萊文學獎決審入圍名單公告",
-        "timestamp": "1714630380",
-        "url": "mail_display.php?timestamp=1714630380",
-        "date": "2024/05/02 14:13",
-        "department": "人文社會科學學院",
-        "author": "姜妃澤"
-    },
-    {
-        "title": "📢⪦樂閣大初徵4： 一箱人實驗劇場《門窗》",
-        "timestamp": "1714559881",
-        "url": "mail_display.php?timestamp=1714559881",
-        "date": "2024/05/01 18:38",
-        "department": "藝術中心",
-        "author": "周葦綸"
     }
 ]
