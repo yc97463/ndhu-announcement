@@ -1,5 +1,13 @@
 [
     {
+        "title": "【課務組】因應地震不斷發生，花蓮縣政府公告本縣今日停課一天。",
+        "timestamp": "1713829814",
+        "url": "mail_display.php?timestamp=1713829814",
+        "date": "2024/04/23 07:50",
+        "department": "教務處課務組",
+        "author": "課務組"
+    },
+    {
         "title": "【112-2畢業體適能檢測調整公告】 Notice of on-line physical fitness test for Dong Hwa’s graduates of semester 112-2",
         "timestamp": "1713764836",
         "url": "mail_display.php?timestamp=1713764836",
@@ -110,13 +118,5 @@
         "date": "2024/04/18 15:08",
         "department": "學務處生活輔導組",
         "author": "陳怡秀"
-    },
-    {
-        "title": "【藝術學院復電通知】本院所屬單位已返回藝術學院大樓辦公",
-        "timestamp": "1713419632",
-        "url": "mail_display.php?timestamp=1713419632",
-        "date": "2024/04/18 13:53",
-        "department": "藝術學院",
-        "author": "黃小姐"
     }
 ]
