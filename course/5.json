@@ -1,6 +1,14 @@
 [
     {
         "title": "⭐教育大數據微學程⭐學習如何以大數據來解讀教育的問題！",
+        "timestamp": "1711068478",
+        "url": "mail_display.php?timestamp=1711068478",
+        "date": "2024/03/22 08:47",
+        "department": "教學卓越中心",
+        "author": "黃小姐"
+    },
+    {
+        "title": "⭐教育大數據微學程⭐學習如何以大數據來解讀教育的問題！",
         "timestamp": "1710830742",
         "url": "mail_display.php?timestamp=1710830742",
         "date": "2024/03/19 14:45",
@@ -110,13 +118,5 @@
         "date": "2024/02/29 16:01",
         "department": "原住民民族學院",
         "author": "林小姐"
-    },
-    {
-        "title": "【重要訊息】公告112-2校核心課程停開資訊",
-        "timestamp": "1709170614",
-        "url": "mail_display.php?timestamp=1709170614",
-        "date": "2024/02/29 09:36",
-        "department": "通識教育中心",
-        "author": "陳美娥"
     }
 ]
