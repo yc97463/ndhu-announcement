@@ -1,5 +1,13 @@
 [
     {
+        "title": "112-2辦理學生獎懲作業通知(Notice of 112-2 Student Honor and Disciplinary)",
+        "timestamp": "1715471858",
+        "url": "mail_display.php?timestamp=1715471858",
+        "date": "2024/05/12 07:57",
+        "department": "學務處生活輔導組",
+        "author": "黃勇程"
+    },
+    {
         "title": "【論文獎助】國立傳統藝術中心113年度博碩士論文獎助",
         "timestamp": "1715442590",
         "url": "mail_display.php?timestamp=1715442590",
@@ -110,13 +118,5 @@
         "date": "2024/05/10 15:46",
         "department": "教育與潛能開發學系",
         "author": "甘敏岑"
-    },
-    {
-        "title": "Chung-Ang University International Summer Program 2024",
-        "timestamp": "1715325872",
-        "url": "mail_display.php?timestamp=1715325872",
-        "date": "2024/05/10 15:24",
-        "department": "國際事務處國際學生組",
-        "author": "鄭海樂"
     }
 ]
