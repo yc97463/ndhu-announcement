@@ -1,5 +1,13 @@
 [
     {
+        "title": "【我要成為___ We Are!】國立東華大學音樂學系管樂團音樂會",
+        "timestamp": "1715558119",
+        "url": "mail_display.php?timestamp=1715558119",
+        "date": "2024/05/13 07:55",
+        "department": "藝術學院 音樂學系",
+        "author": "張純倩"
+    },
+    {
         "title": "【112-2民發社-民族講座】原住民族法律人在海外的研究路徑",
         "timestamp": "1715558118",
         "url": "mail_display.php?timestamp=1715558118",
@@ -110,13 +118,5 @@
         "date": "2024/05/13 07:55",
         "department": "人文社會科學學院 臺灣文化學系",
         "author": "唐家渝"
-    },
-    {
-        "title": "【傳染病講座】居家醫療與傳染病",
-        "timestamp": "1715558104",
-        "url": "mail_display.php?timestamp=1715558104",
-        "date": "2024/05/13 07:55",
-        "department": "學務處 衛生保健組",
-        "author": "王惠貞"
     }
 ]
