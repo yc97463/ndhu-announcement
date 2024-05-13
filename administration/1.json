@@ -1,5 +1,13 @@
 [
     {
+        "title": "【學生宿舍】112學年第二學期第一階段電費明細公告 【Student Dormitory】–Electricity Charges for the 1st Period, 2023-2024 Academic Year ",
+        "timestamp": "1715563567",
+        "url": "mail_display.php?timestamp=1715563567",
+        "date": "2024/05/13 09:26",
+        "department": "學務處生活輔導組",
+        "author": "陳怡秀"
+    },
+    {
         "title": "112-2辦理學生獎懲作業通知(Notice of 112-2 Student Honor and Disciplinary)",
         "timestamp": "1715471858",
         "url": "mail_display.php?timestamp=1715471858",
@@ -110,13 +118,5 @@
         "date": "2024/05/08 10:20",
         "department": "圖書資訊處綜合業務組",
         "author": "林循美"
-    },
-    {
-        "title": "教育部電子郵件社交工程演練開始",
-        "timestamp": "1715132732",
-        "url": "mail_display.php?timestamp=1715132732",
-        "date": "2024/05/08 09:45",
-        "department": "圖書資訊處圖資服務組",
-        "author": "葉宏達"
     }
 ]
