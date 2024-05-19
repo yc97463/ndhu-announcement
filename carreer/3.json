@@ -1,5 +1,13 @@
 [
     {
+        "title": "國立東華大學理工學院 物理學系系主任徵求公告",
+        "timestamp": "1708588477",
+        "url": "mail_display.php?timestamp=1708588477",
+        "date": "2024/02/22 15:54",
+        "department": "理工學院",
+        "author": "潘姿瑜"
+    },
+    {
         "title": "國立東華大學理工學院 化學系系主任徵求公告",
         "timestamp": "1708588134",
         "url": "mail_display.php?timestamp=1708588134",
@@ -110,13 +118,5 @@
         "date": "2024/01/29 08:36",
         "department": "原住民族樂舞與藝術學士學位學程",
         "author": "黃鎂婷"
-    },
-    {
-        "title": "【國立東華大學無邊境員生消費合作社誠徵專任人員】",
-        "timestamp": "1706268298",
-        "url": "mail_display.php?timestamp=1706268298",
-        "date": "2024/01/26 19:24",
-        "department": "管理學院",
-        "author": "洄瀾共好大學社會責任中心"
     }
 ]
