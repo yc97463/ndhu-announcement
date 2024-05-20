@@ -1,5 +1,21 @@
 [
     {
+        "title": "【會計系講座】會計審計新趨勢",
+        "timestamp": "1715990102",
+        "url": "mail_display.php?timestamp=1715990102",
+        "date": "2024/05/18 07:55",
+        "department": "管理學院 會計學系",
+        "author": "葉靜瑜"
+    },
+    {
+        "title": "【會計系講座】如何寫好一篇優質的碩博士論文?",
+        "timestamp": "1715990101",
+        "url": "mail_display.php?timestamp=1715990101",
+        "date": "2024/05/18 07:55",
+        "department": "管理學院 會計學系",
+        "author": "葉靜瑜"
+    },
+    {
         "title": "行雲二莊電梯故障停用公告",
         "timestamp": "1715957314",
         "url": "mail_display.php?timestamp=1715957314",
@@ -102,21 +118,5 @@
         "date": "2024/05/17 09:59",
         "department": "歷史學系",
         "author": "吳助理"
-    },
-    {
-        "title": "【畢業生請注意】提醒學位服借用、歸還期限與注意事項。Reminder of the loan and return period and points to note for degree uniforms",
-        "timestamp": "1715910414",
-        "url": "mail_display.php?timestamp=1715910414",
-        "date": "2024/05/17 09:46",
-        "department": "總務處保管組",
-        "author": "陳鵬安"
-    },
-    {
-        "title": "起飛與Hahow有約，免費線上課程，趕快來申請!",
-        "timestamp": "1715910262",
-        "url": "mail_display.php?timestamp=1715910262",
-        "date": "2024/05/17 09:44",
-        "department": "學務處",
-        "author": "郭舒羽"
     }
 ]
