@@ -1,5 +1,13 @@
 [
     {
+        "title": "【網路服務維運公告】TWAREN SSL-VPN服務異常公告",
+        "timestamp": "1715607706",
+        "url": "mail_display.php?timestamp=1715607706",
+        "date": "2024/05/13 21:41",
+        "department": "圖書資訊處網路管理組",
+        "author": "李宇峰"
+    },
+    {
         "title": "【學生宿舍】112學年第二學期第一階段電費明細公告 【Student Dormitory】–Electricity Charges for the 1st Period, 2023-2024 Academic Year ",
         "timestamp": "1715563567",
         "url": "mail_display.php?timestamp=1715563567",
@@ -110,13 +118,5 @@
         "date": "2024/05/08 14:12",
         "department": "人文社會科學學院",
         "author": "姜妃澤"
-    },
-    {
-        "title": "「例行性開放電腦教室」因電力系統維護,5月11日 09:00-12:00不開放。The computer lab one will be closed from 09:00 - 12:00 on May 11 , 2024.",
-        "timestamp": "1715134835",
-        "url": "mail_display.php?timestamp=1715134835",
-        "date": "2024/05/08 10:20",
-        "department": "圖書資訊處綜合業務組",
-        "author": "林循美"
     }
 ]
