@@ -1,5 +1,21 @@
 [
     {
+        "title": "【Important Announcement】 The office location of the Student Living Services Division will be temporarily moved to Student Activity Center C104 starting from May 22nd",
+        "timestamp": "1716282548",
+        "url": "mail_display.php?timestamp=1716282548",
+        "date": "2024/05/21 17:09",
+        "department": "學務處生活輔導組",
+        "author": "陳怡秀"
+    },
+    {
+        "title": "【重要公告】生活輔導組於5/22日起辦公地點暫移學生活動中心C104",
+        "timestamp": "1716282032",
+        "url": "mail_display.php?timestamp=1716282032",
+        "date": "2024/05/21 17:00",
+        "department": "學務處生活輔導組",
+        "author": "陳怡秀"
+    },
+    {
         "title": "公告113學年度第1學期校核心通識課程規劃重要相關注意事項Important Information about the University Core Curriculum for Autumn 2024",
         "timestamp": "1716268666",
         "url": "mail_display.php?timestamp=1716268666",
@@ -102,21 +118,5 @@
         "date": "2024/05/21 10:17",
         "department": "教務處註冊組",
         "author": "莊珆芸專員"
-    },
-    {
-        "title": "【徵才訊息】本校總務處(事務組) 招聘專科級校務基金助理",
-        "timestamp": "1716257463",
-        "url": "mail_display.php?timestamp=1716257463",
-        "date": "2024/05/21 10:11",
-        "department": "總務處事務組",
-        "author": "連小雅"
-    },
-    {
-        "title": "【暑期工讀招募】Garmin x 東華招募專案製造部暑期工讀生",
-        "timestamp": "1716255343",
-        "url": "mail_display.php?timestamp=1716255343",
-        "date": "2024/05/21 09:35",
-        "department": "學務處生活輔導組",
-        "author": "李欣憓"
     }
 ]
