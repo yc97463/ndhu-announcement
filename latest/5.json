@@ -1,5 +1,13 @@
 [
     {
+        "title": "自資系期末系員大會",
+        "timestamp": "1716249304",
+        "url": "mail_display.php?timestamp=1716249304",
+        "date": "2024/05/21 07:55",
+        "department": "環境暨海洋學院 自然資源與環境學系",
+        "author": "夏懿心"
+    },
+    {
         "title": "法律系112-2期末系員大會",
         "timestamp": "1716249303",
         "url": "mail_display.php?timestamp=1716249303",
@@ -110,13 +118,5 @@
         "date": "2024/05/20 14:26",
         "department": "教學卓越中心",
         "author": "陳禮凡"
-    },
-    {
-        "title": "【重要通知】112-2學期應屆畢業生離校領取學位證書公告",
-        "timestamp": "1716186035",
-        "url": "mail_display.php?timestamp=1716186035",
-        "date": "2024/05/20 14:20",
-        "department": "教務處註冊組",
-        "author": "羅靖雯"
     }
 ]
