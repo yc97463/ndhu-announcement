@@ -1,5 +1,45 @@
 [
     {
+        "title": "重要通知：K書中心AB兩館5/23下午第三次開放大家拿取物品。5/23, K Book Center's A and B buildings will be temporarily open for the third time on the afternoon of May 23 for everyone to retrieve items.",
+        "timestamp": "1716285350",
+        "url": "mail_display.php?timestamp=1716285350",
+        "date": "2024/05/21 17:55",
+        "department": "教學卓越中心",
+        "author": "游守正"
+    },
+    {
+        "title": "【Important Announcement】 The office location of the Student Living Services Division will be temporarily moved to Student Activity Center C104 starting from May 22nd",
+        "timestamp": "1716282548",
+        "url": "mail_display.php?timestamp=1716282548",
+        "date": "2024/05/21 17:09",
+        "department": "學務處生活輔導組",
+        "author": "陳怡秀"
+    },
+    {
+        "title": "【重要公告】生活輔導組於5/22日起辦公地點暫移學生活動中心C104",
+        "timestamp": "1716282032",
+        "url": "mail_display.php?timestamp=1716282032",
+        "date": "2024/05/21 17:00",
+        "department": "學務處生活輔導組",
+        "author": "陳怡秀"
+    },
+    {
+        "title": "公告113學年度第1學期校核心通識課程規劃重要相關注意事項Important Information about the University Core Curriculum for Autumn 2024",
+        "timestamp": "1716268666",
+        "url": "mail_display.php?timestamp=1716268666",
+        "date": "2024/05/21 13:17",
+        "department": "通識教育中心",
+        "author": "陳美娥"
+    },
+    {
+        "title": "【徵才】衛生福利部宣導113保護專線視覺功能障礙就業資訊",
+        "timestamp": "1716268312",
+        "url": "mail_display.php?timestamp=1716268312",
+        "date": "2024/05/21 13:11",
+        "department": "學務處畢業生及校友服務組",
+        "author": "黃文雯"
+    },
+    {
         "title": "【Love \u0026 Miracle】合唱音樂會",
         "timestamp": "1716267243",
         "url": "mail_display.php?timestamp=1716267243",
@@ -78,45 +118,5 @@
         "date": "2024/05/21 10:18",
         "department": "國際事務處國際合作組",
         "author": "梁忠誠"
-    },
-    {
-        "title": "【教務處公告】提醒任課教師於112-2期末選課(初選)前(113/5/27)維護是否公開成績分佈圖功能",
-        "timestamp": "1716257873",
-        "url": "mail_display.php?timestamp=1716257873",
-        "date": "2024/05/21 10:17",
-        "department": "教務處註冊組",
-        "author": "莊珆芸專員"
-    },
-    {
-        "title": "【徵才訊息】本校總務處(事務組) 招聘專科級校務基金助理",
-        "timestamp": "1716257463",
-        "url": "mail_display.php?timestamp=1716257463",
-        "date": "2024/05/21 10:11",
-        "department": "總務處事務組",
-        "author": "連小雅"
-    },
-    {
-        "title": "【暑期工讀招募】Garmin x 東華招募專案製造部暑期工讀生",
-        "timestamp": "1716255343",
-        "url": "mail_display.php?timestamp=1716255343",
-        "date": "2024/05/21 09:35",
-        "department": "學務處生活輔導組",
-        "author": "李欣憓"
-    },
-    {
-        "title": "113學年度(第10屆)大專生金融就業公益專班第二次線上說明會",
-        "timestamp": "1716254645",
-        "url": "mail_display.php?timestamp=1716254645",
-        "date": "2024/05/21 09:24",
-        "department": "財務金融學系",
-        "author": "蔡季諭"
-    },
-    {
-        "title": "113學年度(第10屆)公益專班第二次線上說明會",
-        "timestamp": "1716249308",
-        "url": "mail_display.php?timestamp=1716249308",
-        "date": "2024/05/21 07:55",
-        "department": "管理學院 財務金融學系",
-        "author": "蔡季諭"
     }
 ]
