@@ -1,5 +1,13 @@
 [
     {
+        "title": "重申禁用危害國家資通訊產品相關規定",
+        "timestamp": "1716791268",
+        "url": "mail_display.php?timestamp=1716791268",
+        "date": "2024/05/27 14:27",
+        "department": "圖書資訊處網路管理組",
+        "author": "蕭澤宇"
+    },
+    {
         "title": "【課務組】選課系統現已完成修復，各項功能可正常使用",
         "timestamp": "1716777286",
         "url": "mail_display.php?timestamp=1716777286",
@@ -110,13 +118,5 @@
         "date": "2024/05/21 11:28",
         "department": "秘書室議事公文組",
         "author": "陳婉婉"
-    },
-    {
-        "title": "公文系統主機5月22日(三)中午更新停機公告",
-        "timestamp": "1716258674",
-        "url": "mail_display.php?timestamp=1716258674",
-        "date": "2024/05/21 10:31",
-        "department": "總務處文書組",
-        "author": "張建中"
     }
 ]
