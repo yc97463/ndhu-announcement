@@ -1,5 +1,13 @@
 [
     {
+        "title": "【課務組】選課系統現已完成修復，各項功能可正常使用",
+        "timestamp": "1716777286",
+        "url": "mail_display.php?timestamp=1716777286",
+        "date": "2024/05/27 10:34",
+        "department": "教務處課務組",
+        "author": "課務組"
+    },
+    {
         "title": "【課務組】選課系統臨時維護通知",
         "timestamp": "1716773947",
         "url": "mail_display.php?timestamp=1716773947",
@@ -110,13 +118,5 @@
         "date": "2024/05/14 15:59",
         "department": "教務處課務組",
         "author": "課務組"
-    },
-    {
-        "title": "「縱目歐亞-空間與人文的對話」課程系列講座-5/22（三）魏德文 南天書局創辦人（古地圖收藏家）：虛實之間：談古地圖中的臺灣與歐亞關係",
-        "timestamp": "1715651741",
-        "url": "mail_display.php?timestamp=1715651741",
-        "date": "2024/05/14 09:55",
-        "department": "人文社會科學學院",
-        "author": "姜妃澤"
     }
 ]
