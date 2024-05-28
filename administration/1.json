@@ -1,5 +1,13 @@
 [
     {
+        "title": "【交安宣導】近來天氣不穩定，雨天行車請注意交通安全，中正路6月1日換邊停車，請同學記得移動車輛。",
+        "timestamp": "1716878450",
+        "url": "mail_display.php?timestamp=1716878450",
+        "date": "2024/05/28 14:40",
+        "department": "學務處生活輔導組",
+        "author": "林嘉瑩"
+    },
+    {
         "title": "【網路服務維運公告】TWAREN SSL-VPN維護公告",
         "timestamp": "1716865541",
         "url": "mail_display.php?timestamp=1716865541",
@@ -110,13 +118,5 @@
         "date": "2024/05/21 17:00",
         "department": "學務處生活輔導組",
         "author": "陳怡秀"
-    },
-    {
-        "title": "公告113學年度第1學期校核心通識課程規劃重要相關注意事項Important Information about the University Core Curriculum for Autumn 2024",
-        "timestamp": "1716268666",
-        "url": "mail_display.php?timestamp=1716268666",
-        "date": "2024/05/21 13:17",
-        "department": "通識教育中心",
-        "author": "陳美娥"
     }
 ]
