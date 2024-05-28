@@ -1,5 +1,13 @@
 [
     {
+        "title": "【課務組】選課系統臨時維護通知",
+        "timestamp": "1716773947",
+        "url": "mail_display.php?timestamp=1716773947",
+        "date": "2024/05/27 09:39",
+        "department": "教務處課務組",
+        "author": "課務組"
+    },
+    {
         "title": "【獎助學金申請】平安菁英教育基金會113-1平安及菁英獎學金",
         "timestamp": "1716773919",
         "url": "mail_display.php?timestamp=1716773919",
@@ -110,13 +118,5 @@
         "date": "2024/05/24 16:28",
         "department": "偏鄉閱讀與行動中心",
         "author": "盧助理"
-    },
-    {
-        "title": "【徵才】財團法人中華民國對外貿易發展協會113年6月1日辦理「2024會展產業徵才博覽會」",
-        "timestamp": "1716538690",
-        "url": "mail_display.php?timestamp=1716538690",
-        "date": "2024/05/24 16:18",
-        "department": "學務處畢業生及校友服務組",
-        "author": "黃文雯"
     }
 ]
