@@ -1,5 +1,13 @@
 [
     {
+        "title": "⭐教育大數據微學程⭐學習如何以大數據來解讀教育的問題！",
+        "timestamp": "1716801195",
+        "url": "mail_display.php?timestamp=1716801195",
+        "date": "2024/05/27 17:13",
+        "department": "教學卓越中心",
+        "author": "黃小姐"
+    },
+    {
         "title": "把愛傳下去─二手教科書捐贈活動",
         "timestamp": "1716796684",
         "url": "mail_display.php?timestamp=1716796684",
@@ -110,13 +118,5 @@
         "date": "2024/05/27 10:16",
         "department": "學務處",
         "author": "葉俊良"
-    },
-    {
-        "title": "【課務組】選課系統臨時維護通知",
-        "timestamp": "1716773947",
-        "url": "mail_display.php?timestamp=1716773947",
-        "date": "2024/05/27 09:39",
-        "department": "教務處課務組",
-        "author": "課務組"
     }
 ]
