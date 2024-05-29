@@ -1,5 +1,13 @@
 [
     {
+        "title": "112-2經濟學系學士班專題報告B場",
+        "timestamp": "1716422102",
+        "url": "mail_display.php?timestamp=1716422102",
+        "date": "2024/05/23 07:55",
+        "department": "人文社會科學學院 經濟學系",
+        "author": "張筱茵"
+    },
+    {
         "title": "112-2經濟學系學士班專題報告A場",
         "timestamp": "1716422101",
         "url": "mail_display.php?timestamp=1716422101",
@@ -110,13 +118,5 @@
         "date": "2024/05/21 11:56",
         "department": "原住民民族學院",
         "author": "巴莉亞妲‧蘇利伊"
-    },
-    {
-        "title": "【邀請參加】Adobe Firefly 生成式AI應用線上說明會",
-        "timestamp": "1716262636",
-        "url": "mail_display.php?timestamp=1716262636",
-        "date": "2024/05/21 11:37",
-        "department": "圖書資訊處綜合業務組",
-        "author": "林循美"
     }
 ]
