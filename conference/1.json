@@ -1,5 +1,13 @@
 [
     {
+        "title": "【演講】113.06.05 專題演講 – 張明治教授",
+        "timestamp": "1717403463",
+        "url": "mail_display.php?timestamp=1717403463",
+        "date": "2024/06/03 16:31",
+        "department": "資訊工程學系",
+        "author": "葉助理"
+    },
+    {
         "title": "「縱目歐亞-空間與人文的對話」課程系列講座-6/5（三）李雅瑞教授(Astrid Lipinsky)維也納大學維也納台灣研究中心 (VCTS)：歐洲視角下的台灣—語言/移民/社會",
         "timestamp": "1717153165",
         "url": "mail_display.php?timestamp=1717153165",
@@ -110,13 +118,5 @@
         "date": "2024/05/10 17:37",
         "department": "臺灣文化學系",
         "author": "唐家渝"
-    },
-    {
-        "title": "歷史系專題演講：清官難斷家務事：唐代法律制度與地方生活實例",
-        "timestamp": "1715139385",
-        "url": "mail_display.php?timestamp=1715139385",
-        "date": "2024/05/08 11:36",
-        "department": "歷史學系",
-        "author": "吳助理"
     }
 ]
