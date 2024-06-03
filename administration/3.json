@@ -1,5 +1,13 @@
 [
     {
+        "title": "【教務處公告】提醒任課教師於112-2期末選課(初選)前(113/5/27)維護是否公開成績分佈圖功能",
+        "timestamp": "1716257873",
+        "url": "mail_display.php?timestamp=1716257873",
+        "date": "2024/05/21 10:17",
+        "department": "教務處註冊組",
+        "author": "莊珆芸專員"
+    },
+    {
         "title": "【Student Dormitories】 National Dong Hwa University 112 Academic Year Second Semester Student Dormitory Latest 【End of Semester Closing, Luggage Storage, and Summer Accommodation】 Adjustment Announcement",
         "timestamp": "1716192374",
         "url": "mail_display.php?timestamp=1716192374",
@@ -110,13 +118,5 @@
         "date": "2024/05/15 15:15",
         "department": "學務處生活輔導組",
         "author": "李欣憓"
-    },
-    {
-        "title": "【學生宿舍】國立東華大學112學年度第二學期學生宿舍因災情【期末閉宿無法返宿辦理寢室淨空授權學校專人打包與收費】作業公告",
-        "timestamp": "1715752394",
-        "url": "mail_display.php?timestamp=1715752394",
-        "date": "2024/05/15 13:53",
-        "department": "學務處",
-        "author": "鍾佩玲"
     }
 ]
