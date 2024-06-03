@@ -1,5 +1,13 @@
 [
     {
+        "title": "【課務組】因應近日地震持續不斷發生，碩博士班課程，建議由學生與教師共同商議後，得採線上教學或線上+實體教學方式進行。",
+        "timestamp": "1713876112",
+        "url": "mail_display.php?timestamp=1713876112",
+        "date": "2024/04/23 20:41",
+        "department": "教務處課務組",
+        "author": "課務組"
+    },
+    {
         "title": "【課務組】因應地震不斷發生，花蓮縣政府公告本縣今日停課一天。",
         "timestamp": "1713829814",
         "url": "mail_display.php?timestamp=1713829814",
@@ -110,13 +118,5 @@
         "date": "2024/04/14 13:55",
         "department": "社會參與中心",
         "author": "童小姐"
-    },
-    {
-        "title": "Teams 簡易使用說明",
-        "timestamp": "1712849846",
-        "url": "mail_display.php?timestamp=1712849846",
-        "date": "2024/04/11 23:37",
-        "department": "圖書資訊處綜合業務組",
-        "author": "劉柏汎"
     }
 ]
