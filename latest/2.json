@@ -1,5 +1,13 @@
 [
     {
+        "title": "【圖書館公告】端午節【113.06.10 (一) 】休館一日。Library will be Closed for Dragon Boat Festival on June 10, 2024.",
+        "timestamp": "1717556296",
+        "url": "mail_display.php?timestamp=1717556296",
+        "date": "2024/06/05 10:58",
+        "department": "圖書資訊處圖資服務組",
+        "author": "詹依萍"
+    },
+    {
         "title": "【學生宿舍】112學年第二學期第三階段電費明細公告",
         "timestamp": "1717555957",
         "url": "mail_display.php?timestamp=1717555957",
@@ -110,13 +118,5 @@
         "date": "2024/06/04 11:50",
         "department": "圖書資訊處綜合業務組",
         "author": "林循美"
-    },
-    {
-        "title": "再次提醒--【學生宿舍】112-2學期離校手續單一窗口宿舍部分作業說明 【Student Dormitory】 Explanation of dormitory-related procedures at the Departure Procedures Contact for the 112-2 Semester",
-        "timestamp": "1717472660",
-        "url": "mail_display.php?timestamp=1717472660",
-        "date": "2024/06/04 11:44",
-        "department": "學務處生活輔導組",
-        "author": "陳怡秀"
     }
 ]
