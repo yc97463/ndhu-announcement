@@ -1,5 +1,13 @@
 [
     {
+        "title": "【學生宿舍】本校學生宿舍之相關繳費單，臺灣銀行於113年度暑假進行整合異動作業說明",
+        "timestamp": "1717553790",
+        "url": "mail_display.php?timestamp=1717553790",
+        "date": "2024/06/05 10:16",
+        "department": "學務處生活輔導組",
+        "author": "陳怡秀"
+    },
+    {
         "title": "【課務組】112-2學期碩博士學位考試申請期限延至113年7月31日截止The application deadline for the degree examination for master's and doctoral graduates in the 112-2 semester of our school has been extended to July 31, 2024",
         "timestamp": "1717552182",
         "url": "mail_display.php?timestamp=1717552182",
@@ -110,13 +118,5 @@
         "date": "2024/05/30 12:42",
         "department": "教務處課務組",
         "author": "課務組"
-    },
-    {
-        "title": "【校園網路異常公告】行政大樓網路異常公告",
-        "timestamp": "1717029634",
-        "url": "mail_display.php?timestamp=1717029634",
-        "date": "2024/05/30 08:40",
-        "department": "圖書資訊處網路管理組",
-        "author": "李宇峰"
     }
 ]
