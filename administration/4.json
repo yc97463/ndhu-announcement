@@ -1,5 +1,13 @@
 [
     {
+        "title": "【課務組】選課系統現已完成修復，各項功能可正常使用",
+        "timestamp": "1716777286",
+        "url": "mail_display.php?timestamp=1716777286",
+        "date": "2024/05/27 10:34",
+        "department": "教務處課務組",
+        "author": "課務組"
+    },
+    {
         "title": "行政大樓天花板及空調管線拆除施工期間，總務處事務組異地辦公時間及地點",
         "timestamp": "1716769907",
         "url": "mail_display.php?timestamp=1716769907",
@@ -110,13 +118,5 @@
         "date": "2024/05/21 10:31",
         "department": "總務處文書組",
         "author": "張建中"
-    },
-    {
-        "title": "【公告】113年國立東華大學國際講座學者來訪補助申請，自即日起至5月31日受理申請。",
-        "timestamp": "1716257880",
-        "url": "mail_display.php?timestamp=1716257880",
-        "date": "2024/05/21 10:18",
-        "department": "國際事務處國際合作組",
-        "author": "梁忠誠"
     }
 ]
