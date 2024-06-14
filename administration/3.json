@@ -1,5 +1,13 @@
 [
     {
+        "title": "【通知】113-114學年度宿舍調配管理委員會委員選舉，請教師於113年6月6日（星期四）至線上投票系統參與投票。",
+        "timestamp": "1717468246",
+        "url": "mail_display.php?timestamp=1717468246",
+        "date": "2024/06/04 10:30",
+        "department": "總務處保管組",
+        "author": "張宗玲"
+    },
+    {
         "title": "【註冊組】112-2學期成績預計於113/7/2(週二)下班前開放查詢(請登錄電子學習履歷系統)",
         "timestamp": "1717386619",
         "url": "mail_display.php?timestamp=1717386619",
@@ -110,13 +118,5 @@
         "date": "2024/05/28 14:40",
         "department": "學務處生活輔導組",
         "author": "林嘉瑩"
-    },
-    {
-        "title": "【網路服務維運公告】TWAREN SSL-VPN維護公告",
-        "timestamp": "1716865541",
-        "url": "mail_display.php?timestamp=1716865541",
-        "date": "2024/05/28 11:05",
-        "department": "圖書資訊處網路管理組",
-        "author": "李宇峰"
     }
 ]
