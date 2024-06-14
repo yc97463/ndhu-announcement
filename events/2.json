@@ -1,5 +1,13 @@
 [
     {
+        "title": "協助系辦災後復原",
+        "timestamp": "1718150105",
+        "url": "mail_display.php?timestamp=1718150105",
+        "date": "2024/06/12 07:55",
+        "department": "管理學院 國際企業學系",
+        "author": "蔡季芸"
+    },
+    {
         "title": "親近自然健康行",
         "timestamp": "1718150104",
         "url": "mail_display.php?timestamp=1718150104",
@@ -110,13 +118,5 @@
         "date": "2024/06/07 07:55",
         "department": "人文社會科學學院 華文文學系",
         "author": "林迦音"
-    },
-    {
-        "title": "【藝創系】113.6.13【112-2期末系大會】（認證一小時，限本系同學）",
-        "timestamp": "1717718102",
-        "url": "mail_display.php?timestamp=1717718102",
-        "date": "2024/06/07 07:55",
-        "department": "藝術學院 藝術創意產業學系",
-        "author": "謝明海"
     }
 ]
