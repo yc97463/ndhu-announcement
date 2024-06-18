@@ -1,5 +1,21 @@
 [
     {
+        "title": "【圖書館休館公告】113.06.24(一)~113.09.01(日)休館，進行一至三樓書架及3F-4F天花板整修工程。",
+        "timestamp": "1718246471",
+        "url": "mail_display.php?timestamp=1718246471",
+        "date": "2024/06/13 10:41",
+        "department": "圖書資訊處圖資服務組",
+        "author": "詹依萍"
+    },
+    {
+        "title": "【獎助學金申請】第一商業銀行文教基金會113年資優學生獎學金 (限低或中低收入戶)",
+        "timestamp": "1718243237",
+        "url": "mail_display.php?timestamp=1718243237",
+        "date": "2024/06/13 09:47",
+        "department": "學務處",
+        "author": "葉俊良"
+    },
+    {
         "title": "【獎助學金申請】國際蘭馨交流協會中華民國總會「113年清寒女學生助學」(限大一)",
         "timestamp": "1718239285",
         "url": "mail_display.php?timestamp=1718239285",
@@ -102,21 +118,5 @@
         "date": "2024/06/12 09:41",
         "department": "教務處註冊組",
         "author": "羅靖雯"
-    },
-    {
-        "title": "【活動轉知】國立臺灣科技大學舉辦「自建人工智慧對話機器人輕鬆上手」大專院校AI應用師資培訓工作坊",
-        "timestamp": "1718156267",
-        "url": "mail_display.php?timestamp=1718156267",
-        "date": "2024/06/12 09:37",
-        "department": "教學卓越中心",
-        "author": "王立凡"
-    },
-    {
-        "title": "協助系辦災後復原",
-        "timestamp": "1718150105",
-        "url": "mail_display.php?timestamp=1718150105",
-        "date": "2024/06/12 07:55",
-        "department": "管理學院 國際企業學系",
-        "author": "蔡季芸"
     }
 ]
