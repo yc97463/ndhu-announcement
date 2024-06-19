@@ -1,5 +1,13 @@
 [
     {
+        "title": "請授課教師提供113學年度第1學期「教師指定參考書清單」",
+        "timestamp": "1718675736",
+        "url": "mail_display.php?timestamp=1718675736",
+        "date": "2024/06/18 09:55",
+        "department": "圖書資訊處圖資服務組",
+        "author": "陳昱佐"
+    },
+    {
         "title": "【兵役訊息】國防部「113年志願役預備軍官班考選簡章」公告",
         "timestamp": "1718670734",
         "url": "mail_display.php?timestamp=1718670734",
@@ -110,13 +118,5 @@
         "date": "2024/06/17 09:11",
         "department": "圖書資訊處校務系統組",
         "author": "林志軒"
-    },
-    {
-        "title": "8/1-8/9 臺灣學術倫理教育資源中心網站停機通知",
-        "timestamp": "1718583768",
-        "url": "mail_display.php?timestamp=1718583768",
-        "date": "2024/06/17 08:22",
-        "department": "教務處課務組",
-        "author": "課務組"
     }
 ]
