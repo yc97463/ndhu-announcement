@@ -1,5 +1,21 @@
 [
     {
+        "title": "行政大樓塔樓施工公告",
+        "timestamp": "1718807401",
+        "url": "mail_display.php?timestamp=1718807401",
+        "date": "2024/06/19 22:30",
+        "department": "總務處營繕組",
+        "author": "郭家銘"
+    },
+    {
+        "title": "113年6月19日(三)理工二館一樓實驗室停電搶修公告",
+        "timestamp": "1718807069",
+        "url": "mail_display.php?timestamp=1718807069",
+        "date": "2024/06/19 22:24",
+        "department": "總務處營繕組",
+        "author": "劉宏銘"
+    },
+    {
         "title": "本校學人宿舍區修剪樹木及清理天溝作業公告。",
         "timestamp": "1718763073",
         "url": "mail_display.php?timestamp=1718763073",
@@ -102,21 +118,5 @@
         "date": "2024/06/12 09:41",
         "department": "教務處註冊組",
         "author": "羅靖雯"
-    },
-    {
-        "title": "【重要公告】生活輔導組於6/12日返回行政大樓216辦公室 【Important Announcement】 The Student Living Service Division will return to Office 216 of the Administration Building on June 12th",
-        "timestamp": "1718096746",
-        "url": "mail_display.php?timestamp=1718096746",
-        "date": "2024/06/11 17:05",
-        "department": "學務處生活輔導組",
-        "author": "陳怡秀"
-    },
-    {
-        "title": "「縱目歐亞-空間與人文的對話」課程系列講座-6/19（三）姜允玉教授（韓國明知大學中文系、東亞細亞研究所所長）：漢字對朝鮮時期儒家思想紀錄文化的影響（中文演講）",
-        "timestamp": "1718094542",
-        "url": "mail_display.php?timestamp=1718094542",
-        "date": "2024/06/11 16:29",
-        "department": "人文社會科學學院",
-        "author": "姜妃澤"
     }
 ]
