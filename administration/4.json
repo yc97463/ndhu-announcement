@@ -1,5 +1,13 @@
 [
     {
+        "title": "113年6月8-10日為端午連續假期，電腦教室暫不開放。The computer lab one will be closed on June 8-10, 2024.",
+        "timestamp": "1717569122",
+        "url": "mail_display.php?timestamp=1717569122",
+        "date": "2024/06/05 14:32",
+        "department": "圖書資訊處綜合業務組",
+        "author": "林循美"
+    },
+    {
         "title": "【圖書館公告】端午節【113.06.10 (一) 】休館一日。Library will be Closed for Dragon Boat Festival on June 10, 2024.",
         "timestamp": "1717556296",
         "url": "mail_display.php?timestamp=1717556296",
@@ -110,13 +118,5 @@
         "date": "2024/05/31 15:07",
         "department": "貴重儀器使用中心",
         "author": "汪曉玲"
-    },
-    {
-        "title": "【代轉學生會選舉委員會公告】第14屆學生會選舉 就在今天！ ",
-        "timestamp": "1717114321",
-        "url": "mail_display.php?timestamp=1717114321",
-        "date": "2024/05/31 08:12",
-        "department": "學務處課外活動組",
-        "author": "余惠真"
     }
 ]

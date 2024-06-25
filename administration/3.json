@@ -1,5 +1,13 @@
 [
     {
+        "title": "【重要公告】生活輔導組於6/12日返回行政大樓216辦公室 【Important Announcement】 The Student Living Service Division will return to Office 216 of the Administration Building on June 12th",
+        "timestamp": "1718096746",
+        "url": "mail_display.php?timestamp=1718096746",
+        "date": "2024/06/11 17:05",
+        "department": "學務處生活輔導組",
+        "author": "陳怡秀"
+    },
+    {
         "title": "「縱目歐亞-空間與人文的對話」課程系列講座-6/19（三）姜允玉教授（韓國明知大學中文系、東亞細亞研究所所長）：漢字對朝鮮時期儒家思想紀錄文化的影響（中文演講）",
         "timestamp": "1718094542",
         "url": "mail_display.php?timestamp=1718094542",
@@ -110,13 +118,5 @@
         "date": "2024/06/06 09:59",
         "department": "人事室",
         "author": "劉依虹"
-    },
-    {
-        "title": "113年6月8-10日為端午連續假期，電腦教室暫不開放。The computer lab one will be closed on June 8-10, 2024.",
-        "timestamp": "1717569122",
-        "url": "mail_display.php?timestamp=1717569122",
-        "date": "2024/06/05 14:32",
-        "department": "圖書資訊處綜合業務組",
-        "author": "林循美"
     }
 ]
