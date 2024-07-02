@@ -1,5 +1,13 @@
 [
     {
+        "title": "管院網路設備升級公告",
+        "timestamp": "1718959525",
+        "url": "mail_display.php?timestamp=1718959525",
+        "date": "2024/06/21 16:45",
+        "department": "圖書資訊處網路管理組",
+        "author": "楊志偉"
+    },
+    {
         "title": "行政大樓6月22日上午進行頂樓水塔拆吊作業，車輛管制(如示意圖)公告",
         "timestamp": "1718956049",
         "url": "mail_display.php?timestamp=1718956049",
@@ -110,13 +118,5 @@
         "date": "2024/06/18 08:30",
         "department": "教務處課務組",
         "author": "課務組"
-    },
-    {
-        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
-        "timestamp": "1718586694",
-        "url": "mail_display.php?timestamp=1718586694",
-        "date": "2024/06/17 09:11",
-        "department": "圖書資訊處校務系統組",
-        "author": "林志軒"
     }
 ]
