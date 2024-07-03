@@ -1,5 +1,13 @@
 [
     {
+        "title": "藝術學院階梯教室(A104)暫停借用",
+        "timestamp": "1719997989",
+        "url": "mail_display.php?timestamp=1719997989",
+        "date": "2024/07/03 17:13",
+        "department": "藝術學院",
+        "author": "黃小姐"
+    },
+    {
         "title": "【重申】請各單位注意相關規範，配合落實填報[赴陸教育交流活動]",
         "timestamp": "1719995705",
         "url": "mail_display.php?timestamp=1719995705",
@@ -110,13 +118,5 @@
         "date": "2024/07/01 17:46",
         "department": "人事室",
         "author": "劉依虹"
-    },
-    {
-        "title": "總務處各組異地辦公公告",
-        "timestamp": "1719811726",
-        "url": "mail_display.php?timestamp=1719811726",
-        "date": "2024/07/01 13:28",
-        "department": "總務處",
-        "author": "陳宇欽"
     }
 ]
