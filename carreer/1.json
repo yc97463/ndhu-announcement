@@ -1,5 +1,13 @@
 [
     {
+        "title": "總務處文書組徵專案助理1名",
+        "timestamp": "1719973483",
+        "url": "mail_display.php?timestamp=1719973483",
+        "date": "2024/07/03 10:24",
+        "department": "總務處文書組",
+        "author": "楊玫棻"
+    },
+    {
         "title": "【徵人公告】東華大學社會參與中心誠徵大學社會責任專任計畫助理",
         "timestamp": "1719897404",
         "url": "mail_display.php?timestamp=1719897404",
@@ -110,13 +118,5 @@
         "date": "2024/05/21 10:11",
         "department": "總務處事務組",
         "author": "連小雅"
-    },
-    {
-        "title": "【服務學習】藝術中心展覽顧展志工招募公告",
-        "timestamp": "1716112749",
-        "url": "mail_display.php?timestamp=1716112749",
-        "date": "2024/05/19 17:59",
-        "department": "藝術中心",
-        "author": "周葦綸"
     }
 ]
