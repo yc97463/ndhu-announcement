@@ -1,5 +1,13 @@
 [
     {
+        "title": "總務處各組異地辦公公告",
+        "timestamp": "1719811726",
+        "url": "mail_display.php?timestamp=1719811726",
+        "date": "2024/07/01 13:28",
+        "department": "總務處",
+        "author": "陳宇欽"
+    },
+    {
         "title": "【活動轉知】國立臺灣大學於113年7月17日(星期三)舉辦「行政賦能講座—有效溝通的關鍵心法：正向溝通，改善職場壓力與人際摩擦」，敬請惠予公告並鼓勵所屬人員踴躍參加。",
         "timestamp": "1719811406",
         "url": "mail_display.php?timestamp=1719811406",
@@ -108,14 +116,6 @@
         "timestamp": "1719565773",
         "url": "mail_display.php?timestamp=1719565773",
         "date": "2024/06/28 17:09",
-        "department": "教學卓越中心",
-        "author": "郭心怡"
-    },
-    {
-        "title": "【教學卓越中心】「113-1三創教學課程」開始徵件至113/7/8(一)",
-        "timestamp": "1719565615",
-        "url": "mail_display.php?timestamp=1719565615",
-        "date": "2024/06/28 17:06",
         "department": "教學卓越中心",
         "author": "郭心怡"
     }
