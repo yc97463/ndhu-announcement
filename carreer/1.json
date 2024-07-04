@@ -1,5 +1,13 @@
 [
     {
+        "title": "【徵才公告】東華大學花師教育學院誠徵計畫專任助理一名",
+        "timestamp": "1720056751",
+        "url": "mail_display.php?timestamp=1720056751",
+        "date": "2024/07/04 09:32",
+        "department": "花師教育學院",
+        "author": "許趙瑩臻"
+    },
+    {
         "title": "總務處文書組徵專案助理1名",
         "timestamp": "1719973483",
         "url": "mail_display.php?timestamp=1719973483",
@@ -110,13 +118,5 @@
         "date": "2024/05/30 14:35",
         "department": "人事室",
         "author": "陳治豪"
-    },
-    {
-        "title": "【徵才訊息】本校總務處(事務組) 招聘專科級校務基金助理",
-        "timestamp": "1716257463",
-        "url": "mail_display.php?timestamp=1716257463",
-        "date": "2024/05/21 10:11",
-        "department": "總務處事務組",
-        "author": "連小雅"
     }
 ]
