@@ -1,5 +1,13 @@
 [
     {
+        "title": "校務會議紀錄公告通知",
+        "timestamp": "1718941264",
+        "url": "mail_display.php?timestamp=1718941264",
+        "date": "2024/06/21 11:41",
+        "department": "秘書室議事公文組",
+        "author": "陳婉婉"
+    },
+    {
         "title": " 【公告】113年度「強化與東協及南亞國家合作交流計畫」申請，申請截至113年6月30日下午5時整止",
         "timestamp": "1718936538",
         "url": "mail_display.php?timestamp=1718936538",
@@ -110,13 +118,5 @@
         "date": "2024/06/13 15:08",
         "department": "學務處生活輔導組",
         "author": "吳昭毅"
-    },
-    {
-        "title": "【Library Closure Notice】June 24, 2024 (Monday) to September 1, 2024 (Sunday) Closure for renovation of bookshelves on floors 1F-3F and ceilings on floors 3F-4F.",
-        "timestamp": "1718246544",
-        "url": "mail_display.php?timestamp=1718246544",
-        "date": "2024/06/13 10:42",
-        "department": "圖書資訊處圖資服務組",
-        "author": "詹依萍"
     }
 ]
