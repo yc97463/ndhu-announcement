@@ -1,5 +1,13 @@
 [
     {
+        "title": "公文系統6月20日(四)中午12~13時暫停服務公告",
+        "timestamp": "1718762055",
+        "url": "mail_display.php?timestamp=1718762055",
+        "date": "2024/06/19 09:54",
+        "department": "總務處文書組",
+        "author": "張建中"
+    },
+    {
         "title": "本校新簽定之花蓮潔西愛美渡假酒店特約商店公告。",
         "timestamp": "1718760287",
         "url": "mail_display.php?timestamp=1718760287",
@@ -110,13 +118,5 @@
         "date": "2024/06/11 15:09",
         "department": "學務處課外活動組",
         "author": "余惠真"
-    },
-    {
-        "title": "微軟雲端空間容量調整(第二次公告)",
-        "timestamp": "1718086185",
-        "url": "mail_display.php?timestamp=1718086185",
-        "date": "2024/06/11 14:09",
-        "department": "圖書資訊處綜合業務組",
-        "author": "王奕筌"
     }
 ]
