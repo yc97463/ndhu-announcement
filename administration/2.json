@@ -1,5 +1,13 @@
 [
     {
+        "title": "總務處各組異地辦公（第2次公告）",
+        "timestamp": "1719977548",
+        "url": "mail_display.php?timestamp=1719977548",
+        "date": "2024/07/03 11:32",
+        "department": "總務處",
+        "author": "陳宇欽"
+    },
+    {
         "title": "112學年度本校田園基地使用期限截止公告",
         "timestamp": "1719975511",
         "url": "mail_display.php?timestamp=1719975511",
@@ -110,13 +118,5 @@
         "date": "2024/07/01 09:22",
         "department": "總務處事務組",
         "author": "連小雅"
-    },
-    {
-        "title": "行政大樓塔樓施工公告（第２次提醒）",
-        "timestamp": "1719795769",
-        "url": "mail_display.php?timestamp=1719795769",
-        "date": "2024/07/01 09:02",
-        "department": "總務處營繕組",
-        "author": "郭家銘"
     }
 ]
