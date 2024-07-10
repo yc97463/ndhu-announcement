@@ -1,5 +1,13 @@
 [
     {
+        "title": "【資安規定】本校軟體與即時通訊軟體安裝使用管控規則",
+        "timestamp": "1719903475",
+        "url": "mail_display.php?timestamp=1719903475",
+        "date": "2024/07/02 14:57",
+        "department": "圖書資訊處網路管理組",
+        "author": "何振揚"
+    },
+    {
         "title": "【資安宣導】請定期變更您的密碼",
         "timestamp": "1719901486",
         "url": "mail_display.php?timestamp=1719901486",
@@ -110,13 +118,5 @@
         "date": "2024/07/02 09:01",
         "department": "體育中心",
         "author": "邱健榮"
-    },
-    {
-        "title": "【轉知】「2024沙烏地阿拉伯全球發明創新展」",
-        "timestamp": "1719881971",
-        "url": "mail_display.php?timestamp=1719881971",
-        "date": "2024/07/02 08:59",
-        "department": "研發處",
-        "author": "李淑淳"
     }
 ]
