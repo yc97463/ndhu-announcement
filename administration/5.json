@@ -1,5 +1,13 @@
 [
     {
+        "title": "[臨時通知]6/18-6/20 臺灣學術倫理教育資源中心網站停機通知",
+        "timestamp": "1718670644",
+        "url": "mail_display.php?timestamp=1718670644",
+        "date": "2024/06/18 08:30",
+        "department": "教務處課務組",
+        "author": "課務組"
+    },
+    {
         "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
         "timestamp": "1718586694",
         "url": "mail_display.php?timestamp=1718586694",
@@ -110,13 +118,5 @@
         "date": "2024/06/11 09:03",
         "department": "圖書資訊處圖資服務組",
         "author": "葉宏達"
-    },
-    {
-        "title": "有關行政大樓303會議室設備操作說明及教育訓練公告（補充報名連結）",
-        "timestamp": "1717836434",
-        "url": "mail_display.php?timestamp=1717836434",
-        "date": "2024/06/08 16:47",
-        "department": "總務處營繕組",
-        "author": "劉景富"
     }
 ]
