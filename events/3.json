@@ -1,5 +1,13 @@
 [
     {
+        "title": "【活動轉知】南臺科技大學「2024智能科技創新應用線上研習」",
+        "timestamp": "1719386833",
+        "url": "mail_display.php?timestamp=1719386833",
+        "date": "2024/06/26 15:27",
+        "department": "教學卓越中心",
+        "author": "王立凡"
+    },
+    {
         "title": "【活動轉知】國立臺中科技大學「生成式AI實戰工作坊」",
         "timestamp": "1719386749",
         "url": "mail_display.php?timestamp=1719386749",
@@ -110,13 +118,5 @@
         "date": "2024/06/20 16:00",
         "department": "人事室",
         "author": "陳治豪"
-    },
-    {
-        "title": "2024暑假化學系服務團隊",
-        "timestamp": "1718841301",
-        "url": "mail_display.php?timestamp=1718841301",
-        "date": "2024/06/20 07:55",
-        "department": "理工學院 化學系",
-        "author": "林宛蓉"
     }
 ]
