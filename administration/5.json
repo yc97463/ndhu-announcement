@@ -1,5 +1,13 @@
 [
     {
+        "title": "行政大樓單位自6月24日起實施居家辦公",
+        "timestamp": "1718954280",
+        "url": "mail_display.php?timestamp=1718954280",
+        "date": "2024/06/21 15:18",
+        "department": "人事室",
+        "author": "張琇茹"
+    },
+    {
         "title": "校務會議紀錄公告通知",
         "timestamp": "1718941264",
         "url": "mail_display.php?timestamp=1718941264",
@@ -110,13 +118,5 @@
         "date": "2024/06/14 14:59",
         "department": "總務處營繕組",
         "author": "劉宏銘"
-    },
-    {
-        "title": "國立東華大學113年暑假期間學生活動安全注意事項",
-        "timestamp": "1718262492",
-        "url": "mail_display.php?timestamp=1718262492",
-        "date": "2024/06/13 15:08",
-        "department": "學務處生活輔導組",
-        "author": "吳昭毅"
     }
 ]
