@@ -1,5 +1,13 @@
 [
     {
+        "title": "【課務組】選課系統臨時維護通知",
+        "timestamp": "1716773947",
+        "url": "mail_display.php?timestamp=1716773947",
+        "date": "2024/05/27 09:39",
+        "department": "教務處課務組",
+        "author": "課務組"
+    },
+    {
         "title": "[國語文教學]「有生命的漢字」語文補救教學法_113年暑假初階教師研習報名中",
         "timestamp": "1716539332",
         "url": "mail_display.php?timestamp=1716539332",
@@ -110,13 +118,5 @@
         "date": "2024/05/14 09:55",
         "department": "人文社會科學學院",
         "author": "姜妃澤"
-    },
-    {
-        "title": "[CSIE] 2024 Summer Calculus I Course Survey",
-        "timestamp": "1715648548",
-        "url": "mail_display.php?timestamp=1715648548",
-        "date": "2024/05/14 09:02",
-        "department": "資訊工程學系",
-        "author": "謝馨慧"
     }
 ]
