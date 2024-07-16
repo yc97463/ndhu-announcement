@@ -1,5 +1,13 @@
 [
     {
+        "title": "【主計室徵才公告】",
+        "timestamp": "1721097278",
+        "url": "mail_display.php?timestamp=1721097278",
+        "date": "2024/07/16 10:34",
+        "department": "主計室",
+        "author": "曾俊達"
+    },
+    {
         "title": "【徵才訊息】本校國際事務處誠徵計畫專任助理1名 (延長收件至7/17)",
         "timestamp": "1720598193",
         "url": "mail_display.php?timestamp=1720598193",
@@ -110,13 +118,5 @@
         "date": "2024/06/18 15:55",
         "department": "學務處畢業生及校友服務組",
         "author": "溫小姐"
-    },
-    {
-        "title": "【兵役訊息】國防部「113年志願役預備軍官班考選簡章」公告",
-        "timestamp": "1718670734",
-        "url": "mail_display.php?timestamp=1718670734",
-        "date": "2024/06/18 08:32",
-        "department": "學務處生活輔導組",
-        "author": "黃勇程"
     }
 ]
