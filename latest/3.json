@@ -1,6 +1,14 @@
 [
     {
         "title": "擷雲莊風、雅筑宿舍熱水暫時停止供應公告",
+        "timestamp": "1720610281",
+        "url": "mail_display.php?timestamp=1720610281",
+        "date": "2024/07/10 19:18",
+        "department": "總務處營繕組",
+        "author": "張宗豪"
+    },
+    {
+        "title": "擷雲莊風、雅筑宿舍熱水暫時停止供應公告",
         "timestamp": "1720610278",
         "url": "mail_display.php?timestamp=1720610278",
         "date": "2024/07/10 19:17",
@@ -110,13 +118,5 @@
         "date": "2024/07/09 15:09",
         "department": "國際事務處",
         "author": "陳梅艇"
-    },
-    {
-        "title": "國內新冠及流感例仍多，提醒您請注意身體健康狀況~",
-        "timestamp": "1720507229",
-        "url": "mail_display.php?timestamp=1720507229",
-        "date": "2024/07/09 14:40",
-        "department": "學務處衛生保健組",
-        "author": "王惠貞"
     }
 ]
