@@ -1,5 +1,13 @@
 [
     {
+        "title": "行政大樓塔樓施工公告（第２次提醒）",
+        "timestamp": "1719795769",
+        "url": "mail_display.php?timestamp=1719795769",
+        "date": "2024/07/01 09:02",
+        "department": "總務處營繕組",
+        "author": "郭家銘"
+    },
+    {
         "title": "微軟雲端空間容量調整(第四次公告)",
         "timestamp": "1719563257",
         "url": "mail_display.php?timestamp=1719563257",
@@ -110,13 +118,5 @@
         "date": "2024/06/24 09:38",
         "department": "總務處營繕組",
         "author": "賴名塑"
-    },
-    {
-        "title": "變更行政大樓塔樓施工期程公告",
-        "timestamp": "1718962800",
-        "url": "mail_display.php?timestamp=1718962800",
-        "date": "2024/06/21 17:40",
-        "department": "總務處營繕組",
-        "author": "郭家銘"
     }
 ]

@@ -1,5 +1,13 @@
 [
     {
+        "title": "擴大行政會議 會議紀錄公告通知",
+        "timestamp": "1720585539",
+        "url": "mail_display.php?timestamp=1720585539",
+        "date": "2024/07/10 12:25",
+        "department": "秘書室議事公文組",
+        "author": "陳婉婉"
+    },
+    {
         "title": "113年度校區內客貨電梯進行月保養排程通告 7 月保養",
         "timestamp": "1720576487",
         "url": "mail_display.php?timestamp=1720576487",
@@ -110,13 +118,5 @@
         "date": "2024/07/03 14:55",
         "department": "人文社會科學學院",
         "author": "吳雅萍"
-    },
-    {
-        "title": "總務處各組異地辦公（第2次公告）",
-        "timestamp": "1719977548",
-        "url": "mail_display.php?timestamp=1719977548",
-        "date": "2024/07/03 11:32",
-        "department": "總務處",
-        "author": "陳宇欽"
     }
 ]
