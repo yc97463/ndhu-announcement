@@ -1,6 +1,14 @@
 [
     {
         "title": "擷雲莊風、雅筑宿舍熱水暫時停止供應公告",
+        "timestamp": "1720610281",
+        "url": "mail_display.php?timestamp=1720610281",
+        "date": "2024/07/10 19:18",
+        "department": "總務處營繕組",
+        "author": "張宗豪"
+    },
+    {
+        "title": "擷雲莊風、雅筑宿舍熱水暫時停止供應公告",
         "timestamp": "1720610278",
         "url": "mail_display.php?timestamp=1720610278",
         "date": "2024/07/10 19:17",
@@ -110,13 +118,5 @@
         "date": "2024/07/04 09:02",
         "department": "通識教育中心",
         "author": "陳美娥"
-    },
-    {
-        "title": "藝術學院階梯教室(A104)暫停借用",
-        "timestamp": "1719997989",
-        "url": "mail_display.php?timestamp=1719997989",
-        "date": "2024/07/03 17:13",
-        "department": "藝術學院",
-        "author": "黃小姐"
     }
 ]
