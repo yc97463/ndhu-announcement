@@ -1,5 +1,13 @@
 [
     {
+        "title": "教學卓越中心報名系統停止服務",
+        "timestamp": "1721210073",
+        "url": "mail_display.php?timestamp=1721210073",
+        "date": "2024/07/17 17:54",
+        "department": "教學卓越中心",
+        "author": "王立凡"
+    },
+    {
         "title": "【徵才】臺北市政府衛生局約聘僱人員職缺甄選(11307)",
         "timestamp": "1721195006",
         "url": "mail_display.php?timestamp=1721195006",
@@ -110,13 +118,5 @@
         "date": "2024/07/10 11:43",
         "department": "學務處畢業生及校友服務組",
         "author": "黃文雯"
-    },
-    {
-        "title": "【校園防疫宣導】防蚊蟲小黑蚊、登革熱",
-        "timestamp": "1720570236",
-        "url": "mail_display.php?timestamp=1720570236",
-        "date": "2024/07/10 08:10",
-        "department": "學務處衛生保健組",
-        "author": "王惠貞"
     }
 ]
