@@ -1,5 +1,13 @@
 [
     {
+        "title": "行政大樓4樓走廊(416會議室前)空調設備拆除作業公告",
+        "timestamp": "1720658924",
+        "url": "mail_display.php?timestamp=1720658924",
+        "date": "2024/07/11 08:48",
+        "department": "總務處營繕組",
+        "author": "張宗豪"
+    },
+    {
         "title": "擷雲莊風、雅筑宿舍熱水暫時停止供應公告",
         "timestamp": "1720610281",
         "url": "mail_display.php?timestamp=1720610281",
@@ -110,13 +118,5 @@
         "date": "2024/07/04 11:43",
         "department": "總務處營繕組",
         "author": "劉景富"
-    },
-    {
-        "title": "114學年度新增校核心通識課程申請作業",
-        "timestamp": "1720054958",
-        "url": "mail_display.php?timestamp=1720054958",
-        "date": "2024/07/04 09:02",
-        "department": "通識教育中心",
-        "author": "陳美娥"
     }
 ]
