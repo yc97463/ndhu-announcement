@@ -1,5 +1,13 @@
 [
     {
+        "title": "本校數位總機建置案Cisco Jabber系統已更新，請重新登錄啟用。",
+        "timestamp": "1721715727",
+        "url": "mail_display.php?timestamp=1721715727",
+        "date": "2024/07/23 14:22",
+        "department": "總務處事務組",
+        "author": "連小雅"
+    },
+    {
         "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
         "timestamp": "1721711999",
         "url": "mail_display.php?timestamp=1721711999",
@@ -110,13 +118,5 @@
         "date": "2024/07/15 09:57",
         "department": "學務處生活輔導組",
         "author": "黃勇程"
-    },
-    {
-        "title": "【Student Dormitory】Application for new master's, in-service program students, and third-round waitlisted students for the 113th academic year",
-        "timestamp": "1721004112",
-        "url": "mail_display.php?timestamp=1721004112",
-        "date": "2024/07/15 08:41",
-        "department": "學務處生活輔導組",
-        "author": "陳怡秀"
     }
 ]
