@@ -1,5 +1,21 @@
 [
     {
+        "title": "請各單位於上班首日(7/30)中午前回報颱風受損情形。",
+        "timestamp": "1721877072",
+        "url": "mail_display.php?timestamp=1721877072",
+        "date": "2024/07/25 11:11",
+        "department": "總務處營繕組",
+        "author": "賴名塑"
+    },
+    {
+        "title": "【113學年新生入學活動】東華之夜表演團體票選啦！",
+        "timestamp": "1721872690",
+        "url": "mail_display.php?timestamp=1721872690",
+        "date": "2024/07/25 09:58",
+        "department": "學務處課外活動組",
+        "author": "余惠真"
+    },
+    {
         "title": "【獎助學金申請】台灣電力公司113學年度「大學及研究所獎學金」甄選",
         "timestamp": "1721870461",
         "url": "mail_display.php?timestamp=1721870461",
@@ -102,21 +118,5 @@
         "date": "2024/07/23 13:19",
         "department": "圖書資訊處校務系統組",
         "author": "林志軒"
-    },
-    {
-        "title": "【陸上颱風警報】「凱米颱風」陸上警報已於本日(23日)11:30發布，請注意！The Central Weather Bureau Typhoon Watch Advisory 【GAEMI】",
-        "timestamp": "1721709608",
-        "url": "mail_display.php?timestamp=1721709608",
-        "date": "2024/07/23 12:40",
-        "department": "學務處生活輔導組",
-        "author": "劉豫海"
-    },
-    {
-        "title": "提醒防颱準備(公告)",
-        "timestamp": "1721708953",
-        "url": "mail_display.php?timestamp=1721708953",
-        "date": "2024/07/23 12:29",
-        "department": "總務處事務組",
-        "author": "連小雅"
     }
 ]
