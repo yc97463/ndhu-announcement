@@ -1,5 +1,13 @@
 [
     {
+        "title": "圖書館論文系統恢復使用 The library's e-thesis/dissertations system is working",
+        "timestamp": "1723029878",
+        "url": "mail_display.php?timestamp=1723029878",
+        "date": "2024/08/07 19:24",
+        "department": "圖書資訊處圖資服務組",
+        "author": "簡民享"
+    },
+    {
         "title": "【人事室公告】因北迴鐵路已通車，故即日起東人字第1130017404號函停止適用。",
         "timestamp": "1723026138",
         "url": "mail_display.php?timestamp=1723026138",
@@ -110,13 +118,5 @@
         "date": "2024/07/31 12:27",
         "department": "人文社會科學學院",
         "author": "吳雅萍"
-    },
-    {
-        "title": "圖書館館藏查詢臨時網址",
-        "timestamp": "1722397060",
-        "url": "mail_display.php?timestamp=1722397060",
-        "date": "2024/07/31 11:37",
-        "department": "圖書資訊處圖資服務組",
-        "author": "廖銘珠"
     }
 ]
