@@ -1,5 +1,21 @@
 [
     {
+        "title": "國內新冠及流感例仍多，提醒您請注意身體健康狀況~",
+        "timestamp": "1720507229",
+        "url": "mail_display.php?timestamp=1720507229",
+        "date": "2024/07/09 14:40",
+        "department": "學務處衛生保健組",
+        "author": "王惠貞"
+    },
+    {
+        "title": "【取消施工】人社一館第一講堂頂樓涼亭遷移至詩經花園工程施工公告(7/09~7/10)",
+        "timestamp": "1720502036",
+        "url": "mail_display.php?timestamp=1720502036",
+        "date": "2024/07/09 13:13",
+        "department": "人文社會科學學院",
+        "author": "吳雅萍"
+    },
+    {
         "title": "理工一館電梯2控制系統更換作業停用公告",
         "timestamp": "1720485311",
         "url": "mail_display.php?timestamp=1720485311",
@@ -102,21 +118,5 @@
         "date": "2024/07/03 10:13",
         "department": "學務處課外活動組",
         "author": "余惠真"
-    },
-    {
-        "title": "【資安規定】本校軟體與即時通訊軟體安裝使用管控規則",
-        "timestamp": "1719903475",
-        "url": "mail_display.php?timestamp=1719903475",
-        "date": "2024/07/02 14:57",
-        "department": "圖書資訊處網路管理組",
-        "author": "何振揚"
-    },
-    {
-        "title": "【資安宣導】請定期變更您的密碼",
-        "timestamp": "1719901486",
-        "url": "mail_display.php?timestamp=1719901486",
-        "date": "2024/07/02 14:24",
-        "department": "圖書資訊處網路管理組",
-        "author": "何振揚"
     }
 ]

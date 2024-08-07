@@ -1,5 +1,21 @@
 [
     {
+        "title": "【公告】依行政院人事行政總處公告，明(25)日(四)停止上班上課",
+        "timestamp": "1721818176",
+        "url": "mail_display.php?timestamp=1721818176",
+        "date": "2024/07/24 18:49",
+        "department": "人事室",
+        "author": "劉依虹"
+    },
+    {
+        "title": "113年7月24日本校垃圾車停止清運一日Garbage truck removal will be stopped for one day on July 24, 2024",
+        "timestamp": "1721742954",
+        "url": "mail_display.php?timestamp=1721742954",
+        "date": "2024/07/23 21:55",
+        "department": "總務處環境保護組",
+        "author": "許智翔"
+    },
+    {
         "title": "【人事室公告】依行政院人事行政總處公告，明(24)日(三)停止上班上課",
         "timestamp": "1721741490",
         "url": "mail_display.php?timestamp=1721741490",
@@ -102,21 +118,5 @@
         "date": "2024/07/17 10:29",
         "department": "總務處保管組",
         "author": "陳楚治"
-    },
-    {
-        "title": "本校新簽定之涮乃葉、胖叔叔烘焙屋以及敦謙國際集團（旅宿業）特約商店公告。",
-        "timestamp": "1721176762",
-        "url": "mail_display.php?timestamp=1721176762",
-        "date": "2024/07/17 08:39",
-        "department": "總務處事務組",
-        "author": "賴榮璉"
-    },
-    {
-        "title": "原花蓮客運公司代駛「【1121】花蓮火車站－光復[繞駛東華大學]」公路客運路線，自113年8月21日起改由統聯客運公司接續行駛。",
-        "timestamp": "1721175686",
-        "url": "mail_display.php?timestamp=1721175686",
-        "date": "2024/07/17 08:21",
-        "department": "總務處事務組",
-        "author": "連小雅"
     }
 ]
