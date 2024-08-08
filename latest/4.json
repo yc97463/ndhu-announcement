@@ -1,5 +1,13 @@
 [
     {
+        "title": "08-08(四10:00 ~11:00)--線上課程-- 防範電子郵件社交工程",
+        "timestamp": "1722493740",
+        "url": "mail_display.php?timestamp=1722493740",
+        "date": "2024/08/01 14:29",
+        "department": "圖書資訊處圖資服務組",
+        "author": "葉宏達"
+    },
+    {
         "title": "【課務組】113學年度第1學期學士班課程「免修」注意事項",
         "timestamp": "1722482333",
         "url": "mail_display.php?timestamp=1722482333",
@@ -110,13 +118,5 @@
         "date": "2024/07/31 10:30",
         "department": "圖書資訊處綜合業務組",
         "author": "林循美"
-    },
-    {
-        "title": "國立東華大學管理學院國際學士班徵聘【行政助理】一名",
-        "timestamp": "1722389702",
-        "url": "mail_display.php?timestamp=1722389702",
-        "date": "2024/07/31 09:35",
-        "department": "管理科學與財金國際學士學位學程",
-        "author": "林逸潔"
     }
 ]
