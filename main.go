@@ -6,7 +6,9 @@ import (
 	"os"
 	"strings"
 
+	"github.com/PuerkitoBio/goquery"
 	"github.com/anaskhan96/soup"
+	"golang.org/x/net/html"
 )
 
 type Author struct {
@@ -25,14 +27,21 @@ type Link struct {
 	Author     Author `json:"author"`
 }
 
+type Attachment struct {
+	FileName string `json:"fileName"`
+	FileSize string `json:"fileSize"`
+	FileURL  string `json:"fileURL"`
+}
+
 type Detail struct {
-	Title      string `json:"title"`
-	Timestamp  string `json:"timestamp"`
-	Url        string `json:"url"`
-	Date       string `json:"date"`
-	Department string `json:"department"`
-	Author     Author `json:"author"`
-	Content    string `json:"content"`
+	Title       string       `json:"title"`
+	Timestamp   string       `json:"timestamp"`
+	Url         string       `json:"url"`
+	Date        string       `json:"date"`
+	Department  string       `json:"department"`
+	Author      Author       `json:"author"`
+	Content     string       `json:"content"`
+	Attachments []Attachment `json:"attachments"`
 }
 
 func createDir(dir string) {
@@ -113,15 +122,16 @@ func insertSummary(file string, timestamp string, title string, url string, date
 	fmt.Println("Link added successfully   | ", title)
 }
 
-func createArticle(file string, timestamp string, title string, url string, date string, department string, author Author, content string) {
+func createArticle(file string, timestamp string, title string, url string, date string, department string, author Author, content string, attachments []Attachment) {
 	newDetail := Detail{
-		Title:      title,
-		Timestamp:  timestamp,
-		Url:        url,
-		Date:       date,
-		Department: department,
-		Author:     author,
-		Content:    content,
+		Title:       title,
+		Timestamp:   timestamp,
+		Url:         url,
+		Date:        date,
+		Department:  department,
+		Author:      author,
+		Content:     content,
+		Attachments: attachments,
 	}
 
 	data, err := os.ReadFile(file)
@@ -146,19 +156,20 @@ func createArticle(file string, timestamp string, title string, url string, date
 	detail = []Detail{newDetail}
 
 	// Marshal the updated links slice back to JSON
-	updatedData, err := json.MarshalIndent(detail, "", "    ")
+	jsonData, err := json.MarshalIndent(newDetail, "", "    ")
 	if err != nil {
 		fmt.Println("Error marshaling JSON:", err)
 		return
 	}
 
-	// Write the updated data back to the file
-	if err := os.WriteFile(file, updatedData, 0644); err != nil {
+	// Write the JSON data to the file
+	err = os.WriteFile(file, jsonData, 0644)
+	if err != nil {
 		fmt.Println("Error writing to file:", err)
 		return
 	}
 
-	fmt.Println("Detail added successfully | ", title)
+	fmt.Println("Article created successfully:", title)
 }
 
 func announce_detail(baseUrl string, link string) (result string) {
@@ -217,6 +228,30 @@ func catchAuthorFromContent(content string) []string {
 	return []string{authorInfo[0], authorInfo[1], authorInfo[2], phone}
 }
 
+func extractAttachments(content string) []Attachment {
+	doc, err := goquery.NewDocumentFromReader(strings.NewReader(content))
+	if err != nil {
+		fmt.Println("Error parsing HTML:", err)
+		return nil
+	}
+
+	var attachments []Attachment
+	doc.Find("pre a").Each(func(i int, s *goquery.Selection) {
+		fileName := s.Text()
+		fileURL, _ := s.Attr("href")
+		fileSize := strings.TrimSpace(s.Parent().Contents().FilterFunction(func(i int, s *goquery.Selection) bool {
+			return s.Nodes[0].Type == html.TextNode
+		}).Last().Text())
+		attachments = append(attachments, Attachment{
+			FileName: fileName,
+			FileSize: fileSize,
+			FileURL:  fileURL,
+		})
+	})
+
+	return attachments
+}
+
 func main() {
 	// baseUrl
 	baseUrl := "https://announce.ndhu.edu.tw/"
@@ -268,8 +303,8 @@ func main() {
 				department := item.Find("td", "class", "department").Text()
 
 				content := announce_detail(baseUrl, url)
-				authorInfo := catchAuthorFromContent(content)
 
+				authorInfo := catchAuthorFromContent(content)
 				author := Author{
 					Department: authorInfo[0],
 					Name:       authorInfo[1],
@@ -277,8 +312,10 @@ func main() {
 					Phone:      authorInfo[3],
 				}
 
+				attachments := extractAttachments(content)
+
 				insertSummary("dist/"+value+"/"+page+".json", timestamp, title, url, date, department, author)
-				createArticle("dist/article/"+timestamp+".json", timestamp, title, url, date, department, author, content)
+				createArticle("dist/article/"+timestamp+".json", timestamp, title, url, date, department, author, content, attachments)
 			}
 		}
 	}
