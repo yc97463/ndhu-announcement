@@ -5,7 +5,13 @@
         "url": "mail_display.php?timestamp=1713767481",
         "date": "2024/04/22 14:31",
         "department": "歷史學系",
-        "author": "吳助理"
+        "author": {
+            "department": "歷史學系",
+            "name": "吳助理",
+            "email": "suju1106@gms.ndhu.edu.tw",
+            "phone": "5323"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "「縱目歐亞-空間與人文的對話」系列講座-5/1（三）愛甲弘志名譽教授（京都女子大學）：日本漢詩在東亞漢字文化圈裡的角色－以幕府末期詩僧月性爲例",
@@ -13,7 +19,13 @@
         "url": "mail_display.php?timestamp=1713497498",
         "date": "2024/04/19 11:31",
         "department": "人文社會科學學院",
-        "author": "姜妃澤"
+        "author": {
+            "department": "人文社會科學學院",
+            "name": "姜妃澤",
+            "email": "ftc1029@gms.ndhu.edu.tw",
+            "phone": "03-8905203"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "[CSIE Speech] 5/3 Heroic Odyssey: A Sonnet of My Days in Diplomacy by TaiwanICDF Secretary General",
@@ -21,7 +33,13 @@
         "url": "mail_display.php?timestamp=1713433943",
         "date": "2024/04/18 17:52",
         "department": "資訊工程學系",
-        "author": "謝嘉文"
+        "author": {
+            "department": "資訊工程學系",
+            "name": "謝嘉文",
+            "email": "cbjiawen@gms.ndhu.edu.tw",
+            "phone": "8905026"
+        },
+        "attachmentCount": 3
     },
     {
         "title": "【轉知】國立高雄科技大學執行辦公室與經濟部產業發展署、工業技術研究院產業學院共同辦理「淨零碳規劃管理師能力鑑定」師資研習交流活動",
@@ -29,7 +47,13 @@
         "url": "mail_display.php?timestamp=1713410342",
         "date": "2024/04/18 11:19",
         "department": "永續發展中心籌備處",
-        "author": "李敏賢"
+        "author": {
+            "department": "永續發展中心籌備處",
+            "name": "李敏賢",
+            "email": "jordanlee@gms.ndhu.edu.tw",
+            "phone": "5919"
+        },
+        "attachmentCount": 3
     },
     {
         "title": "【轉知】國立臺北科技大學來函邀請本校學生報名參加辦理113年「iPAS淨零碳規劃管理師職能深化課程」",
@@ -37,7 +61,13 @@
         "url": "mail_display.php?timestamp=1713410029",
         "date": "2024/04/18 11:13",
         "department": "永續發展中心籌備處",
-        "author": "李敏賢"
+        "author": {
+            "department": "永續發展中心籌備處",
+            "name": "李敏賢",
+            "email": "jordanlee@gms.ndhu.edu.tw",
+            "phone": "5919"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "【轉知】國立彰化師範大學進修學院辦理「113年 ISO 14064-1溫室氣體盤查標準主導查證員訓練課程」招生簡章",
@@ -45,7 +75,13 @@
         "url": "mail_display.php?timestamp=1713409744",
         "date": "2024/04/18 11:09",
         "department": "永續發展中心籌備處",
-        "author": "李敏賢"
+        "author": {
+            "department": "永續發展中心籌備處",
+            "name": "李敏賢",
+            "email": "jordanlee@gms.ndhu.edu.tw",
+            "phone": "5919"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "【112-2民發社-民族講座】內向人做研究:口述訪談與田野實踐",
@@ -53,7 +89,13 @@
         "url": "mail_display.php?timestamp=1713400091",
         "date": "2024/04/18 08:28",
         "department": "原住民民族學院",
-        "author": "楊助理"
+        "author": {
+            "department": "原住民民族學院",
+            "name": "楊助理",
+            "email": "ringo@gms.ndhu.edu.tw",
+            "phone": "03-8905822"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "「縱目歐亞-空間與人文的對話」系列講座-4/24（三）原友蘭副教授（東海大學景觀系）：景觀與景觀的產地，以及養護指南：歐亞視野",
@@ -61,7 +103,13 @@
         "url": "mail_display.php?timestamp=1713325189",
         "date": "2024/04/17 11:39",
         "department": "人文社會科學學院",
-        "author": "姜妃澤"
+        "author": {
+            "department": "人文社會科學學院",
+            "name": "姜妃澤",
+            "email": "ftc1029@gms.ndhu.edu.tw",
+            "phone": "03-8905203"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "【活動公告】諮商中心資源教室：「112-2 身心障礙者校園線上徵才講座-藝珂集團」",
@@ -69,7 +117,13 @@
         "url": "mail_display.php?timestamp=1713314210",
         "date": "2024/04/17 08:36",
         "department": "心理諮商輔導中心資源開發組",
-        "author": "鍾雅琳"
+        "author": {
+            "department": "心理諮商輔導中心資源開發組",
+            "name": "鍾雅琳",
+            "email": "lin.chung@gms.ndhu.edu.tw",
+            "phone": "03-8903155"
+        },
+        "attachmentCount": 6
     },
     {
         "title": "【113年「雙語浪潮」教師社群講座活動】AI與寫作課程的愛與恨",
@@ -77,7 +131,13 @@
         "url": "mail_display.php?timestamp=1713258691",
         "date": "2024/04/16 17:11",
         "department": "語言中心",
-        "author": "呂岳芳"
+        "author": {
+            "department": "語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "【轉知】台大人口中心5/3(五)辦理高等教育性別主流化國際研討會，敬邀參加。",
@@ -85,7 +145,13 @@
         "url": "mail_display.php?timestamp=1713158730",
         "date": "2024/04/15 13:25",
         "department": "秘書室議事公文組",
-        "author": "蔡麗燕"
+        "author": {
+            "department": "秘書室議事公文組",
+            "name": "蔡麗燕",
+            "email": "liyen@gms.ndhu.edu.tw",
+            "phone": "6005"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "【延期通知】認識環境教育\u0026環境科技產業-劉俊佑學長與許畹瑜學姐，敬請同學踴躍報名參與。",
@@ -93,7 +159,13 @@
         "url": "mail_display.php?timestamp=1712804864",
         "date": "2024/04/11 11:07",
         "department": "環境學院",
-        "author": "謝家榛助理"
+        "author": {
+            "department": "環境學院",
+            "name": "謝家榛助理",
+            "email": "stoven@gms.ndhu.edu.tw",
+            "phone": "890-3267"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "【〔Rikec法學論壇：規範．女性—流轉與突破〕專題講座】部落女力—原住民族女性主義立論與實踐",
@@ -101,7 +173,13 @@
         "url": "mail_display.php?timestamp=1712797225",
         "date": "2024/04/11 09:00",
         "department": "法律學系",
-        "author": "黃亦靖"
+        "author": {
+            "department": "法律學系",
+            "name": "黃亦靖",
+            "email": "yijing@gms.ndhu.edu.tw",
+            "phone": "5663"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "【新創大學堂】創業不可不知的財務規劃、新創群眾募資工作坊",
@@ -109,7 +187,13 @@
         "url": "mail_display.php?timestamp=1712566177",
         "date": "2024/04/08 16:49",
         "department": "研發處創新育成中心",
-        "author": "吳其璁"
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "吳其璁",
+            "email": "dci93031@gms.ndhu.edu.tw",
+            "phone": "03-8903687"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "【線上課程】創業基礎班【創業競賽提案工作坊】",
@@ -117,6 +201,12 @@
         "url": "mail_display.php?timestamp=1712565742",
         "date": "2024/04/08 16:42",
         "department": "研發處創新育成中心",
-        "author": "吳其璁"
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "吳其璁",
+            "email": "dci93031@gms.ndhu.edu.tw",
+            "phone": "03-8903687"
+        },
+        "attachmentCount": 1
     }
 ]

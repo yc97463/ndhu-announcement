@@ -5,7 +5,13 @@
         "url": "mail_display.php?timestamp=1719811227",
         "date": "2024/07/01 13:20",
         "department": "人事室",
-        "author": "陳美杏"
+        "author": {
+            "department": "人事室",
+            "name": "陳美杏",
+            "email": "msing@gms.ndhu.edu.tw",
+            "phone": "6053"
+        },
+        "attachmentCount": 4
     },
     {
         "title": "【協助轉知】113年花蓮地區防災士培訓",
@@ -13,7 +19,13 @@
         "url": "mail_display.php?timestamp=1719794024",
         "date": "2024/07/01 08:33",
         "department": "永續發展中心籌備處",
-        "author": "李敏賢"
+        "author": {
+            "department": "永續發展中心籌備處",
+            "name": "李敏賢",
+            "email": "jordanlee@gms.ndhu.edu.tw",
+            "phone": "03-8905919"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "【轉知】國立臺北教育大學辦理113年度公務人員專書閱讀課程「天生不愛動」專書導讀會。",
@@ -21,7 +33,13 @@
         "url": "mail_display.php?timestamp=1719535019",
         "date": "2024/06/28 08:36",
         "department": "人事室",
-        "author": "陳美杏"
+        "author": {
+            "department": "人事室",
+            "name": "陳美杏",
+            "email": "msing@gms.ndhu.edu.tw",
+            "phone": "6053"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "114年貝里斯「英語課程獎學金計畫」開放申請中",
@@ -29,7 +47,13 @@
         "url": "mail_display.php?timestamp=1719451449",
         "date": "2024/06/27 09:24",
         "department": "國際事務處國際學生組",
-        "author": "陳良愛"
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 4
     },
     {
         "title": "【8月份訓練班期公告】行政院人事行政總處公務人力發展學院113年8月開辦自由報名班別一覽表1份，開放個人報名至本年7月3日下午6時前完成線上報名。",
@@ -37,7 +61,13 @@
         "url": "mail_display.php?timestamp=1719274491",
         "date": "2024/06/25 08:14",
         "department": "人事室",
-        "author": "陳美杏"
+        "author": {
+            "department": "人事室",
+            "name": "陳美杏",
+            "email": "msing@gms.ndhu.edu.tw",
+            "phone": "6053"
+        },
+        "attachmentCount": 6
     },
     {
         "title": "【轉知】內政部移民署於112年製作之8分鐘完整版「認識ICERD」動畫影片，請踴躍線上觀賞。",
@@ -45,7 +75,13 @@
         "url": "mail_display.php?timestamp=1718875022",
         "date": "2024/06/20 17:17",
         "department": "人事室",
-        "author": "陳治豪"
+        "author": {
+            "department": "人事室",
+            "name": "陳治豪",
+            "email": "jackchen168@gms.ndhu.edu.tw",
+            "phone": "6057"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "請授課教師提供113學年度第1學期「教師指定參考書清單」",
@@ -53,7 +89,13 @@
         "url": "mail_display.php?timestamp=1718675736",
         "date": "2024/06/18 09:55",
         "department": "圖書資訊處圖資服務組",
-        "author": "陳昱佐"
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "陳昱佐",
+            "email": "yutuchen@gms.ndhu.edu.tw",
+            "phone": "6824"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "「縱目歐亞-空間與人文的對話」課程系列講座-6/19（三）姜允玉教授（韓國明知大學中文系、東亞細亞研究所所長）：漢字對朝鮮時期儒家思想紀錄文化的影響（中文演講）",
@@ -61,7 +103,13 @@
         "url": "mail_display.php?timestamp=1718094542",
         "date": "2024/06/11 16:29",
         "department": "人文社會科學學院",
-        "author": "姜妃澤"
+        "author": {
+            "department": "人文社會科學學院",
+            "name": "姜妃澤",
+            "email": "ftc1029@gms.ndhu.edu.tw",
+            "phone": "03-8905203"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "💥造舟課💥名額釋出！請把握機會報名",
@@ -69,7 +117,13 @@
         "url": "mail_display.php?timestamp=1717742295",
         "date": "2024/06/07 14:38",
         "department": "社會參與中心",
-        "author": "徐小姐"
+        "author": {
+            "department": "社會參與中心",
+            "name": "徐小姐",
+            "email": "hsu-pangju@gms.ndhu.edu.tw",
+            "phone": "5247"
+        },
+        "attachmentCount": 6
     },
     {
         "title": "[國語文教學]「有生命的漢字」語文補救教學法_113年暑假初階教師研習報名中",
@@ -77,7 +131,13 @@
         "url": "mail_display.php?timestamp=1717661952",
         "date": "2024/06/06 16:19",
         "department": "偏鄉閱讀與行動中心",
-        "author": "盧助理"
+        "author": {
+            "department": "偏鄉閱讀與行動中心",
+            "name": "盧助理",
+            "email": "lesa@gms.ndhu.edu.tw",
+            "phone": "03-890-3813"
+        },
+        "attachmentCount": 7
     },
     {
         "title": "【轉知】台灣癲癇醫學會辦理113年度學校行政人員實用癲癇知識研習會",
@@ -85,7 +145,13 @@
         "url": "mail_display.php?timestamp=1717559369",
         "date": "2024/06/05 11:49",
         "department": "人事室",
-        "author": "陳美杏"
+        "author": {
+            "department": "人事室",
+            "name": "陳美杏",
+            "email": "msing@gms.ndhu.edu.tw",
+            "phone": "6053"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "【課務組】112-2學期碩博士學位考試申請期限延至113年7月31日截止The application deadline for the degree examination for master's and doctoral graduates in the 112-2 semester of our school has been extended to July 31, 2024",
@@ -93,7 +159,13 @@
         "url": "mail_display.php?timestamp=1717552182",
         "date": "2024/06/05 09:49",
         "department": "教務處課務組",
-        "author": "課務組"
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "sychen@gms.ndhu.edu.tw",
+            "phone": "6122～6126"
+        },
+        "attachmentCount": 0
     },
     {
         "title": "【東華美崙校區】國立東華大學×傑瑞籃球運動—籃球夏令營線上報名表",
@@ -101,7 +173,13 @@
         "url": "mail_display.php?timestamp=1717391490",
         "date": "2024/06/03 13:11",
         "department": "東華創新研究園區",
-        "author": "推廣組"
+        "author": {
+            "department": "東華創新研究園區",
+            "name": "推廣組",
+            "email": "ipark@gms.ndhu.edu.tw",
+            "phone": "03-8906955"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "敬邀參加-第36屆校園試映會(電影製作藝術、紀錄片製作成果發表)",
@@ -109,7 +187,13 @@
         "url": "mail_display.php?timestamp=1717376172",
         "date": "2024/06/03 08:56",
         "department": "通識教育中心",
-        "author": "陳美娥"
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "8906607"
+        },
+        "attachmentCount": 5
     },
     {
         "title": "「縱目歐亞-空間與人文的對話」課程系列講座-6/5（三）李雅瑞教授(Astrid Lipinsky)維也納大學維也納台灣研究中心 (VCTS)：歐洲視角下的台灣—語言/移民/社會",
@@ -117,6 +201,12 @@
         "url": "mail_display.php?timestamp=1717153165",
         "date": "2024/05/31 18:59",
         "department": "人文社會科學學院",
-        "author": "姜妃澤"
+        "author": {
+            "department": "人文社會科學學院",
+            "name": "姜妃澤",
+            "email": "ftc1029@gms.ndhu.edu.tw",
+            "phone": "03-8905203"
+        },
+        "attachmentCount": 1
     }
 ]

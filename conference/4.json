@@ -5,7 +5,13 @@
         "url": "mail_display.php?timestamp=1714641801",
         "date": "2024/05/02 17:23",
         "department": "資訊工程學系",
-        "author": "謝嘉文"
+        "author": {
+            "department": "資訊工程學系",
+            "name": "謝嘉文",
+            "email": "cbjiawen@gms.ndhu.edu.tw",
+            "phone": "8905026"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "【113年「雙語浪潮」教師社群講座活動】教學實踐研究計畫題目發想與計畫撰寫經驗分享",
@@ -13,7 +19,13 @@
         "url": "mail_display.php?timestamp=1714637461",
         "date": "2024/05/02 16:11",
         "department": "語言中心",
-        "author": "呂岳芳"
+        "author": {
+            "department": "語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "「縱目歐亞-空間與人文的對話」課程系列講座-5/15（三）戴麗娟教授（中央研究院歷史語言研究所）：十九世紀初歐亞之間的自然史資訊流通：以澳門不列顛博物館為例",
@@ -21,7 +33,13 @@
         "url": "mail_display.php?timestamp=1714461993",
         "date": "2024/04/30 15:26",
         "department": "人文社會科學學院",
-        "author": "姜妃澤"
+        "author": {
+            "department": "人文社會科學學院",
+            "name": "姜妃澤",
+            "email": "ftc1029@gms.ndhu.edu.tw",
+            "phone": "03-8905203"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "【財金系專題演講】5/3(五) 14:00 ~ 16:00 智慧金融與人工智慧應用",
@@ -29,7 +47,13 @@
         "url": "mail_display.php?timestamp=1714460922",
         "date": "2024/04/30 15:08",
         "department": "財務金融學系",
-        "author": "林役霜"
+        "author": {
+            "department": "財務金融學系",
+            "name": "林役霜",
+            "email": "ys012@gms.ndhu.edu.tw",
+            "phone": "3133"
+        },
+        "attachmentCount": 3
     },
     {
         "title": "【研討會公告】第十四屆世界華語文教學國際學術研討會—世界華語文教育精英領航大聯盟",
@@ -37,7 +61,13 @@
         "url": "mail_display.php?timestamp=1714391877",
         "date": "2024/04/29 19:57",
         "department": "國際紅學研究中心",
-        "author": "阮氏玉映"
+        "author": {
+            "department": "國際紅學研究中心",
+            "name": "阮氏玉映",
+            "email": "rdrc@gms.ndhu.edu.tw",
+            "phone": "0909039764"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "【法專班講座】05/10-follow原住民族部落議題講座-捍衛先人智慧—達悟族智慧創作專用權維權行動分享",
@@ -45,7 +75,13 @@
         "url": "mail_display.php?timestamp=1714376265",
         "date": "2024/04/29 15:37",
         "department": "法律學系",
-        "author": "黃助理"
+        "author": {
+            "department": "法律學系",
+            "name": "黃助理",
+            "email": "yijing@gms.ndhu.edu.tw",
+            "phone": "890-5663"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "[0503 CSIE X ICDF SPEECH Bonus Hours] HEROIC ODYSSEY: A SONNET OF MY DAYS IN DIPLOMACY BY TAIWANICDF SECRETARY GENERAL CHARLES C. LI",
@@ -53,7 +89,13 @@
         "url": "mail_display.php?timestamp=1714358631",
         "date": "2024/04/29 10:43",
         "department": "資訊工程學系",
-        "author": "謝嘉文"
+        "author": {
+            "department": "資訊工程學系",
+            "name": "謝嘉文",
+            "email": "cbjiawen@gms.ndhu.edu.tw",
+            "phone": "8905026"
+        },
+        "attachmentCount": 3
     },
     {
         "title": "【新創大學堂】五月等你來報名！",
@@ -61,7 +103,13 @@
         "url": "mail_display.php?timestamp=1714315225",
         "date": "2024/04/28 22:40",
         "department": "研發處創新育成中心",
-        "author": "吳其璁"
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "吳其璁",
+            "email": "dci93031@gms.ndhu.edu.tw",
+            "phone": "03-8903687"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "【華語碩博班-演講公告】2024.05.02 孟柱億 教授「從工具觀的視角探討華語語音教學的流程和方法」",
@@ -69,7 +117,13 @@
         "url": "mail_display.php?timestamp=1714128102",
         "date": "2024/04/26 18:41",
         "department": "國際紅學研究中心",
-        "author": "阮氏玉映"
+        "author": {
+            "department": "國際紅學研究中心",
+            "name": "阮氏玉映",
+            "email": "rdrc@gms.ndhu.edu.tw",
+            "phone": "0909039764"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "[0503 CSIE X ICDF SPEECH Bonus Hours] HEROIC ODYSSEY: A SONNET OF MY DAYS IN DIPLOMACY BY TAIWANICDF SECRETARY GENERAL CHARLES C. LI",
@@ -77,7 +131,13 @@
         "url": "mail_display.php?timestamp=1714125540",
         "date": "2024/04/26 17:59",
         "department": "資訊工程學系",
-        "author": "謝嘉文"
+        "author": {
+            "department": "資訊工程學系",
+            "name": "謝嘉文",
+            "email": "cbjiawen@gms.ndhu.edu.tw",
+            "phone": "8905026"
+        },
+        "attachmentCount": 3
     },
     {
         "title": "【更改線上視訊通知】認識環境教育\u0026環境科技產業-劉俊佑學長與許畹瑜學姐(5/16)，敬請同學踴躍報名參與。",
@@ -85,7 +145,13 @@
         "url": "mail_display.php?timestamp=1714033834",
         "date": "2024/04/25 16:30",
         "department": "環境學院",
-        "author": "謝家榛助理"
+        "author": {
+            "department": "環境學院",
+            "name": "謝家榛助理",
+            "email": "stoven@gms.ndhu.edu.tw",
+            "phone": "890-3267"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "「縱目歐亞-空間與人文的對話」系列講座-5/8（三）賀喜副教授（香港中文大學歷史系）：走出書齋看歷史：東亞社會的宗族與系譜",
@@ -93,7 +159,13 @@
         "url": "mail_display.php?timestamp=1714030211",
         "date": "2024/04/25 15:30",
         "department": "人文社會科學學院",
-        "author": "姜妃澤"
+        "author": {
+            "department": "人文社會科學學院",
+            "name": "姜妃澤",
+            "email": "ftc1029@gms.ndhu.edu.tw",
+            "phone": "03-8905203"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "【Forward 協助轉知】國立臺北大學舉辦之「新世紀永續發展高峰論壇」",
@@ -101,7 +173,13 @@
         "url": "mail_display.php?timestamp=1713947427",
         "date": "2024/04/24 16:30",
         "department": "永續發展中心籌備處",
-        "author": "李莉莉 Li-Li Lee"
+        "author": {
+            "department": "永續發展中心籌備處",
+            "name": "李莉莉 Li-Li Lee",
+            "email": "sd@gms.ndhu.edu.tw",
+            "phone": "03-890-5920"
+        },
+        "attachmentCount": 3
     },
     {
         "title": "【活動轉知】綠色和平帶你構想一場「反漂綠」倡議 工作坊 | Tips and Tricks to Develop an Anti-Greenwashing Campaign: Ideation Workshop",
@@ -109,7 +187,13 @@
         "url": "mail_display.php?timestamp=1713776344",
         "date": "2024/04/22 16:59",
         "department": "永續發展中心籌備處",
-        "author": "李敏賢"
+        "author": {
+            "department": "永續發展中心籌備處",
+            "name": "李敏賢",
+            "email": "jordanlee@gms.ndhu.edu.tw",
+            "phone": "5919"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "【講座取消】〔Rikec法學講座〕法律解殖之路：原住民族的殖民敘事解構與法律多元轉向",
@@ -117,6 +201,12 @@
         "url": "mail_display.php?timestamp=1713772821",
         "date": "2024/04/22 16:00",
         "department": "法律學系",
-        "author": "黃助理"
+        "author": {
+            "department": "法律學系",
+            "name": "黃助理",
+            "email": "yijing@gms.ndhu.edu.tw",
+            "phone": "5663"
+        },
+        "attachmentCount": 1
     }
 ]

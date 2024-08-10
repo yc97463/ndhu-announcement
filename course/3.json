@@ -5,7 +5,13 @@
         "url": "mail_display.php?timestamp=1717146976",
         "date": "2024/05/31 17:16",
         "department": "師資培育中心",
-        "author": "洪偉毓"
+        "author": {
+            "department": "師資培育中心",
+            "name": "洪偉毓",
+            "email": "bigfishhwh@gms.ndhu.edu.tw",
+            "phone": "6648"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "【東華大學教育大數據微學程】113-1 學程必修實務課推廣",
@@ -13,7 +19,13 @@
         "url": "mail_display.php?timestamp=1717060265",
         "date": "2024/05/30 17:11",
         "department": "教學卓越中心",
-        "author": "黃小姐"
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 4
     },
     {
         "title": "【更正公告】有關國立臺北大學與國家文官學院合辦113年度公務人員專書閱讀課程《當個普通人也很自豪》專書導讀會活動，於行政大樓3樓301簡報室辦理線上同步直播導讀課程，請本校行政人員踴躍報名參加。",
@@ -21,7 +33,13 @@
         "url": "mail_display.php?timestamp=1717048384",
         "date": "2024/05/30 13:53",
         "department": "人事室",
-        "author": "陳治豪"
+        "author": {
+            "department": "人事室",
+            "name": "陳治豪",
+            "email": "jackchen168@gms.ndhu.edu.tw",
+            "phone": "6057"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "【課務組】本學期期末評量方式，師生宜雙向溝通，並請教師採彈性多元方式進行。",
@@ -29,7 +47,13 @@
         "url": "mail_display.php?timestamp=1717044142",
         "date": "2024/05/30 12:42",
         "department": "教務處課務組",
-        "author": "課務組"
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "suz@gms.ndhu.edu.tw",
+            "phone": "分機6122~6126"
+        },
+        "attachmentCount": 0
     },
     {
         "title": "【轉知】中華大墩教育推廣協會檢送大墩陽光夏令營優惠專案，請洽網址http://www.sng.idv.tw。",
@@ -37,7 +61,13 @@
         "url": "mail_display.php?timestamp=1717039707",
         "date": "2024/05/30 11:28",
         "department": "人事室",
-        "author": "陳治豪"
+        "author": {
+            "department": "人事室",
+            "name": "陳治豪",
+            "email": "jackchen168@gms.ndhu.edu.tw",
+            "phone": "6057"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "⭐教育大數據產學合作與專題實作⭐113-1學程必修實務課推廣",
@@ -45,7 +75,13 @@
         "url": "mail_display.php?timestamp=1716972725",
         "date": "2024/05/29 16:52",
         "department": "教學卓越中心",
-        "author": "黃小姐"
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 3
     },
     {
         "title": "【轉知】行政院人事行政總處公務人力發展學院台北院區辦理113年7月自由報名班別，計有「Canva質感設計應用研習班」等計1班期，開放個人報名至本年6月3日下午6時前完成線上報名。",
@@ -53,7 +89,13 @@
         "url": "mail_display.php?timestamp=1716971903",
         "date": "2024/05/29 16:38",
         "department": "人事室",
-        "author": "陳治豪"
+        "author": {
+            "department": "人事室",
+            "name": "陳治豪",
+            "email": "jackchen168@gms.ndhu.edu.tw",
+            "phone": "6057"
+        },
+        "attachmentCount": 3
     },
     {
         "title": "【轉知】建國科技大學辦理「善用生成式AI提升工作效率」實體講座資訊活動，請有興趣者踴躍參加。",
@@ -61,7 +103,13 @@
         "url": "mail_display.php?timestamp=1716970231",
         "date": "2024/05/29 16:10",
         "department": "人事室",
-        "author": "陳治豪"
+        "author": {
+            "department": "人事室",
+            "name": "陳治豪",
+            "email": "jackchen168@gms.ndhu.edu.tw",
+            "phone": "6057"
+        },
+        "attachmentCount": 3
     },
     {
         "title": "113-1 歷史學系「HIST32800 影視史學」課程公告",
@@ -69,7 +117,13 @@
         "url": "mail_display.php?timestamp=1716961877",
         "date": "2024/05/29 13:51",
         "department": "歷史學系",
-        "author": "江妍靜"
+        "author": {
+            "department": "歷史學系",
+            "name": "江妍靜",
+            "email": "ching04@gms.ndhu.edu.tw",
+            "phone": "5322"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "【教育大數據產學合作與專題實作】113-1學程必修實務課推廣",
@@ -77,7 +131,13 @@
         "url": "mail_display.php?timestamp=1716895165",
         "date": "2024/05/28 19:19",
         "department": "教學卓越中心",
-        "author": "黃小姐"
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 5
     },
     {
         "title": "⭐教育大數據微學程⭐學習如何以大數據來解讀教育的問題！",
@@ -85,7 +145,13 @@
         "url": "mail_display.php?timestamp=1716801195",
         "date": "2024/05/27 17:13",
         "department": "教學卓越中心",
-        "author": "黃小姐"
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 3
     },
     {
         "title": "【活動宣傳】『溫室氣體盤查及抵換ISO14064訓練班』探盤查查證員40小時訓練課程",
@@ -93,7 +159,13 @@
         "url": "mail_display.php?timestamp=1716792418",
         "date": "2024/05/27 14:46",
         "department": "永續發展中心籌備處",
-        "author": "李敏賢"
+        "author": {
+            "department": "永續發展中心籌備處",
+            "name": "李敏賢",
+            "email": "jordanlee@gms.ndhu.edu.tw",
+            "phone": "5919"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "【課務組】選課系統現已完成修復，各項功能可正常使用",
@@ -101,7 +173,13 @@
         "url": "mail_display.php?timestamp=1716777286",
         "date": "2024/05/27 10:34",
         "department": "教務處課務組",
-        "author": "課務組"
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "course@gms.ndhu.edu.tw",
+            "phone": "6122~6126"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "【課務組】選課系統臨時維護通知",
@@ -109,7 +187,13 @@
         "url": "mail_display.php?timestamp=1716773947",
         "date": "2024/05/27 09:39",
         "department": "教務處課務組",
-        "author": "課務組"
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "course@gms.ndhu.edu.tw",
+            "phone": "6122~6126"
+        },
+        "attachmentCount": 0
     },
     {
         "title": "[國語文教學]「有生命的漢字」語文補救教學法_113年暑假初階教師研習報名中",
@@ -117,6 +201,12 @@
         "url": "mail_display.php?timestamp=1716539332",
         "date": "2024/05/24 16:28",
         "department": "偏鄉閱讀與行動中心",
-        "author": "盧助理"
+        "author": {
+            "department": "偏鄉閱讀與行動中心",
+            "name": "盧助理",
+            "email": "lesa@gms.ndhu.edu.tw",
+            "phone": "03-890-3813"
+        },
+        "attachmentCount": 7
     }
 ]

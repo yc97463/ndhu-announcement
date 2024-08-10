@@ -1,11 +1,15 @@
-[
-    {
-        "title": "【課務組】選課系統臨時維護通知",
-        "timestamp": "1716773947",
-        "url": "mail_display.php?timestamp=1716773947",
-        "date": "2024/05/27 09:39",
+{
+    "title": "【課務組】選課系統臨時維護通知",
+    "timestamp": "1716773947",
+    "url": "mail_display.php?timestamp=1716773947",
+    "date": "2024/05/27 09:39",
+    "department": "教務處課務組",
+    "author": {
         "department": "教務處課務組",
-        "author": "課務組",
-        "content": "\u003cdiv class=\"column1-unit\"\u003e\n\n\u003c!--  信件內容   --\u003e\n\u003cpre\u003e分類： 課程公告\n來源： 教務處課務組 - 課務組 - course@gms.ndhu.edu.tw - 電話6122~6126\n對象： 全校學生\n標題： 【課務組】選課系統臨時維護通知\n日期： Mon, 27 May 2024 09:39:07 +0800\n\u003c/pre\u003e\u003chr class=\"clear-contentunit\"/\u003e\u003cpre\u003e各位同學大家好：\n\n選課系統目前產生部分功能異常，現由技術師緊急維護中，造成不便敬請見諒。\n如有任何異動將另行通知，謝謝。\n\n課務組敬啟\u003c/pre\u003e\n\t\t\n\u003c/div\u003e"
-    }
-]
+        "name": "課務組",
+        "email": "course@gms.ndhu.edu.tw",
+        "phone": "6122~6126"
+    },
+    "content": "\u003cdiv class=\"column1-unit\"\u003e\n\n\u003c!--  信件內容   --\u003e\n\u003cpre\u003e分類： 課程公告\n來源： 教務處課務組 - 課務組 - course@gms.ndhu.edu.tw - 電話6122~6126\n對象： 全校學生\n標題： 【課務組】選課系統臨時維護通知\n日期： Mon, 27 May 2024 09:39:07 +0800\n\u003c/pre\u003e\u003chr class=\"clear-contentunit\"/\u003e\u003cpre\u003e各位同學大家好：\n\n選課系統目前產生部分功能異常，現由技術師緊急維護中，造成不便敬請見諒。\n如有任何異動將另行通知，謝謝。\n\n課務組敬啟\u003c/pre\u003e\n\t\t\n\u003c/div\u003e",
+    "attachments": null
+}

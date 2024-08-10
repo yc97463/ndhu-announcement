@@ -1,11 +1,26 @@
-[
-    {
-        "title": "圖書館論文系統恢復使用 The library's e-thesis/dissertations system is working",
-        "timestamp": "1723029878",
-        "url": "mail_display.php?timestamp=1723029878",
-        "date": "2024/08/07 19:24",
+{
+    "title": "圖書館論文系統恢復使用 The library's e-thesis/dissertations system is working",
+    "timestamp": "1723029878",
+    "url": "mail_display.php?timestamp=1723029878",
+    "date": "2024/08/07 19:24",
+    "department": "圖書資訊處圖資服務組",
+    "author": {
         "department": "圖書資訊處圖資服務組",
-        "author": "簡民享",
-        "content": "\u003cdiv class=\"column1-unit\"\u003e\n\n\u003c!--  信件內容   --\u003e\n\u003cpre\u003e分類： 行政公告\n來源： 圖書資訊處圖資服務組 - 簡民享 - jms@gms.ndhu.edu.tw - 電話6842\n對象： 全校教職員_碩士生_博士生\n標題： 圖書館論文系統恢復使用 The library\u0026#39;s e-thesis/dissertations system is working\n日期： Wed, 7 Aug 2024 19:24:38 +0800\n\u003c/pre\u003e\u003chr class=\"clear-contentunit\"/\u003e\u003cpre\u003e圖書館論文系統已經恢復連線，請畢業研究生登入建檔上傳論文，謝謝您的配合。\n論文系統 \u003ca href=\"https://etd.ndhu.edu.tw\" target=\"_blank\"\u003ehttps://etd.ndhu.edu.tw\u003c/a\u003e\n\nThe library\u0026#39;s e-thesis/dissertations system has been repaired. Graduate students please go to the system to upload your theses/dissertation. \nThank you for your cooperation.\nThe library\u0026#39;s e-thesis/dissertations system  \u003ca href=\"https://etd.ndhu.edu.tw\" target=\"_blank\"\u003ehttps://etd.ndhu.edu.tw\u003c/a\u003e\n\u003c/pre\u003e\n\t\t\n\u003c/div\u003e"
-    }
-]
+        "name": "簡民享",
+        "email": "jms@gms.ndhu.edu.tw",
+        "phone": "6842"
+    },
+    "content": "\u003cdiv class=\"column1-unit\"\u003e\n\n\u003c!--  信件內容   --\u003e\n\u003cpre\u003e分類： 行政公告\n來源： 圖書資訊處圖資服務組 - 簡民享 - jms@gms.ndhu.edu.tw - 電話6842\n對象： 全校教職員_碩士生_博士生\n標題： 圖書館論文系統恢復使用 The library\u0026#39;s e-thesis/dissertations system is working\n日期： Wed, 7 Aug 2024 19:24:38 +0800\n\u003c/pre\u003e\u003chr class=\"clear-contentunit\"/\u003e\u003cpre\u003e圖書館論文系統已經恢復連線，請畢業研究生登入建檔上傳論文，謝謝您的配合。\n論文系統 \u003ca href=\"https://etd.ndhu.edu.tw\" target=\"_blank\"\u003ehttps://etd.ndhu.edu.tw\u003c/a\u003e\n\nThe library\u0026#39;s e-thesis/dissertations system has been repaired. Graduate students please go to the system to upload your theses/dissertation. \nThank you for your cooperation.\nThe library\u0026#39;s e-thesis/dissertations system  \u003ca href=\"https://etd.ndhu.edu.tw\" target=\"_blank\"\u003ehttps://etd.ndhu.edu.tw\u003c/a\u003e\n\u003c/pre\u003e\n\t\t\n\u003c/div\u003e",
+    "attachments": [
+        {
+            "fileName": "https://etd.ndhu.edu.tw",
+            "fileSize": "",
+            "fileURL": "https://etd.ndhu.edu.tw"
+        },
+        {
+            "fileName": "https://etd.ndhu.edu.tw",
+            "fileSize": "",
+            "fileURL": "https://etd.ndhu.edu.tw"
+        }
+    ]
+}

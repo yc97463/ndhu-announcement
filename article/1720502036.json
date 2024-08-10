@@ -1,11 +1,15 @@
-[
-    {
-        "title": "【取消施工】人社一館第一講堂頂樓涼亭遷移至詩經花園工程施工公告(7/09~7/10)",
-        "timestamp": "1720502036",
-        "url": "mail_display.php?timestamp=1720502036",
-        "date": "2024/07/09 13:13",
+{
+    "title": "【取消施工】人社一館第一講堂頂樓涼亭遷移至詩經花園工程施工公告(7/09~7/10)",
+    "timestamp": "1720502036",
+    "url": "mail_display.php?timestamp=1720502036",
+    "date": "2024/07/09 13:13",
+    "department": "人文社會科學學院",
+    "author": {
         "department": "人文社會科學學院",
-        "author": "吳雅萍",
-        "content": "\u003cdiv class=\"column1-unit\"\u003e\n\n\u003c!--  信件內容   --\u003e\n\u003cpre\u003e分類： 行政公告\n來源： 人文社會科學學院 - 吳雅萍 - ypwu@gms.ndhu.edu.tw - 電話03-8905253\n對象： 全校教職員_全校學生\n標題： 【取消施工】人社一館第一講堂頂樓涼亭遷移至詩經花園工程施工公告(7/09~7/10)\n日期： Tue, 9 Jul 2024 13:13:56 +0800\n\u003c/pre\u003e\u003chr class=\"clear-contentunit\"/\u003e\u003cpre\u003e原訂於113年7月9日17時至7月10日17時，進行人社一館第一講堂頂樓涼亭遷移至詩經花園工程，施工過程需封閉行政大樓部分停車場，因工程延後，故取消停車場之封閉。\n造成不便，敬請見諒。\u003c/pre\u003e\n\t\t\n\u003c/div\u003e"
-    }
-]
+        "name": "吳雅萍",
+        "email": "ypwu@gms.ndhu.edu.tw",
+        "phone": "03-8905253"
+    },
+    "content": "\u003cdiv class=\"column1-unit\"\u003e\n\n\u003c!--  信件內容   --\u003e\n\u003cpre\u003e分類： 行政公告\n來源： 人文社會科學學院 - 吳雅萍 - ypwu@gms.ndhu.edu.tw - 電話03-8905253\n對象： 全校教職員_全校學生\n標題： 【取消施工】人社一館第一講堂頂樓涼亭遷移至詩經花園工程施工公告(7/09~7/10)\n日期： Tue, 9 Jul 2024 13:13:56 +0800\n\u003c/pre\u003e\u003chr class=\"clear-contentunit\"/\u003e\u003cpre\u003e原訂於113年7月9日17時至7月10日17時，進行人社一館第一講堂頂樓涼亭遷移至詩經花園工程，施工過程需封閉行政大樓部分停車場，因工程延後，故取消停車場之封閉。\n造成不便，敬請見諒。\u003c/pre\u003e\n\t\t\n\u003c/div\u003e",
+    "attachments": null
+}

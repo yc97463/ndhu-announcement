@@ -5,7 +5,13 @@
         "url": "mail_display.php?timestamp=1719984564",
         "date": "2024/07/03 13:29",
         "department": "人事室",
-        "author": "陳美杏"
+        "author": {
+            "department": "人事室",
+            "name": "陳美杏",
+            "email": "msing@gms.ndhu.edu.tw",
+            "phone": "6053"
+        },
+        "attachmentCount": 3
     },
     {
         "title": "「113學年新生入學活動」社團博覽會報名與東華之夜表演團隊徵選",
@@ -13,7 +19,13 @@
         "url": "mail_display.php?timestamp=1719972822",
         "date": "2024/07/03 10:13",
         "department": "學務處課外活動組",
-        "author": "余惠真"
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "余惠真",
+            "email": "nacy4631@gms.ndhu.edu.tw",
+            "phone": "03-8906232"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "【政風宣導】花蓮縣政府政風處製作《企業誠信反貪短劇—包公出巡記》影音，請多加運用",
@@ -21,7 +33,13 @@
         "url": "mail_display.php?timestamp=1719969538",
         "date": "2024/07/03 09:18",
         "department": "秘書室公關宣傳組",
-        "author": "林佩瑤"
+        "author": {
+            "department": "秘書室公關宣傳組",
+            "name": "林佩瑤",
+            "email": "peiyao@gms.ndhu.edu.tw",
+            "phone": "6013"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "112學年度僑外同學會幹部服務",
@@ -29,7 +47,13 @@
         "url": "mail_display.php?timestamp=1719964501",
         "date": "2024/07/03 07:55",
         "department": "國際事務處 國際學生組",
-        "author": "魏綺瑩"
+        "author": {
+            "department": "國際事務處 國際學生組",
+            "name": "魏綺瑩",
+            "email": "vanessawei@gms.ndhu.edu.tw",
+            "phone": "5119"
+        },
+        "attachmentCount": 0
     },
     {
         "title": "拉曼大學線上講座《未来5年經濟如何變通變革》開放報名中~",
@@ -37,7 +61,13 @@
         "url": "mail_display.php?timestamp=1719892706",
         "date": "2024/07/02 11:58",
         "department": "國際事務處國際學生組",
-        "author": "陳良愛"
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 3
     },
     {
         "title": "2024印尼建國大學夏令營 Binus University Summer Program",
@@ -45,7 +75,13 @@
         "url": "mail_display.php?timestamp=1719887675",
         "date": "2024/07/02 10:34",
         "department": "國際事務處國際學生組",
-        "author": "國際學生組"
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "國際學生組",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5173"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "【活動轉知】國立屏東大學「113年度生成式AI融入教學系列講座」",
@@ -53,7 +89,13 @@
         "url": "mail_display.php?timestamp=1719883418",
         "date": "2024/07/02 09:23",
         "department": "教學卓越中心",
-        "author": "王立凡"
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "轉知國立體育大學訂於113年7月11日辦理「體育運動政策白皮書及體育暨運動發展部規劃」東區論壇，敬邀教師及相關人員自行踴躍報名參加。",
@@ -61,7 +103,13 @@
         "url": "mail_display.php?timestamp=1719882067",
         "date": "2024/07/02 09:01",
         "department": "體育中心",
-        "author": "邱健榮"
+        "author": {
+            "department": "體育中心",
+            "name": "邱健榮",
+            "email": "janus@gms.ndhu.edu.tw",
+            "phone": "6613"
+        },
+        "attachmentCount": 4
     },
     {
         "title": "📣【訊息轉知】2024勞動部就業博覽會-花蓮場",
@@ -69,7 +117,13 @@
         "url": "mail_display.php?timestamp=1719819112",
         "date": "2024/07/01 15:31",
         "department": "學務處畢業生及校友服務組",
-        "author": "溫小姐"
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "溫小姐",
+            "email": "fengting0804@gms.ndhu.edu.tw",
+            "phone": "6282"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "【活動轉知】國立臺灣大學於113年7月17日(星期三)舉辦「行政賦能講座—有效溝通的關鍵心法：正向溝通，改善職場壓力與人際摩擦」，敬請惠予公告並鼓勵所屬人員踴躍參加。",
@@ -77,7 +131,13 @@
         "url": "mail_display.php?timestamp=1719811406",
         "date": "2024/07/01 13:23",
         "department": "人事室",
-        "author": "陳美杏"
+        "author": {
+            "department": "人事室",
+            "name": "陳美杏",
+            "email": "msing@gms.ndhu.edu.tw",
+            "phone": "6053"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "2024年第十一屆臺灣青年嶺南行——海上絲綢之路探尋營”交流活動",
@@ -85,7 +145,13 @@
         "url": "mail_display.php?timestamp=1719810817",
         "date": "2024/07/01 13:13",
         "department": "國際事務處國際學生組",
-        "author": "國際學生組"
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "國際學生組",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5173"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "​113年第2回「日本留學試驗（EJU）」報名至7/26~",
@@ -93,7 +159,13 @@
         "url": "mail_display.php?timestamp=1719797589",
         "date": "2024/07/01 09:33",
         "department": "國際事務處國際學生組",
-        "author": "陳良愛"
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 6
     },
     {
         "title": "【語傳系】112-2學期服務奉獻時數認證",
@@ -101,7 +173,13 @@
         "url": "mail_display.php?timestamp=1719618901",
         "date": "2024/06/29 07:55",
         "department": "原住民民族學院 民族語言與傳播學系",
-        "author": "巴莉亞妲.蘇利伊"
+        "author": {
+            "department": "原住民民族學院 民族語言與傳播學系",
+            "name": "巴莉亞妲.蘇利伊",
+            "email": "damu@gms.ndhu.edu.tw",
+            "phone": "8905824"
+        },
+        "attachmentCount": 0
     },
     {
         "title": "【語言中心】6/30上午9:00-12:00 於人社二館辦理多益校園考 TOEIC test at H\u0026S building II on 6/30",
@@ -109,7 +187,13 @@
         "url": "mail_display.php?timestamp=1719566343",
         "date": "2024/06/28 17:19",
         "department": "語言中心",
-        "author": "林瑜珊"
+        "author": {
+            "department": "語言中心",
+            "name": "林瑜珊",
+            "email": "lc@gms.ndhu.edu.tw",
+            "phone": "03-8905492"
+        },
+        "attachmentCount": 0
     },
     {
         "title": "【活動轉知】人工智慧素養與技能提昇種子教師培訓課程研習",
@@ -117,6 +201,12 @@
         "url": "mail_display.php?timestamp=1719558954",
         "date": "2024/06/28 15:15",
         "department": "教學卓越中心",
-        "author": "王立凡"
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 2
     }
 ]

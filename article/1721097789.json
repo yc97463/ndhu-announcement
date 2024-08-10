@@ -1,11 +1,15 @@
-[
-    {
-        "title": "113年7月18日東華大學資安教育訓練上課網址",
-        "timestamp": "1721097789",
-        "url": "mail_display.php?timestamp=1721097789",
-        "date": "2024/07/16 10:43",
+{
+    "title": "113年7月18日東華大學資安教育訓練上課網址",
+    "timestamp": "1721097789",
+    "url": "mail_display.php?timestamp=1721097789",
+    "date": "2024/07/16 10:43",
+    "department": "圖書資訊處網路管理組",
+    "author": {
         "department": "圖書資訊處網路管理組",
-        "author": "劉維忠",
-        "content": "\u003cdiv class=\"column1-unit\"\u003e\n\n\u003c!--  信件內容   --\u003e\n\u003cpre\u003e分類： 演講暨研討會\n來源： 圖書資訊處網路管理組 - 劉維忠 - samliu@gms.ndhu.edu.tw - 電話03-8906741\n對象： 全校教職員\n標題： 113年7月18日東華大學資安教育訓練上課網址\n日期： Tue, 16 Jul 2024 10:43:09 +0800\n\u003c/pre\u003e\u003chr class=\"clear-contentunit\"/\u003e\u003cp\u003e7月18日(四)資安教育訓練課程網址\u003cbr/\u003e\n\u003cbr/\u003e\n國立東華大學- 在資安意識下，安全使用ChatGPT增強辦公室技能\u003cbr/\u003e\n7月 18日 (星期四) · 上午9:00 - 下午12:00\u003cbr/\u003e\n時區：Asia/Taipei\u003cbr/\u003e\nGoogle Meet 會議參加資訊\u003cbr/\u003e\n視訊通話連結：\u003ca href=\"https://meet.google.com/jqw-yjox-edu\" target=\"_blank\"\u003ehttps://meet.google.com/jqw-yjox-edu\u003c/a\u003e\u003cbr/\u003e\n=====================================================\u003cbr/\u003e\n\u003cbr/\u003e\n\u003cbr/\u003e\n7月18日(四)資安教育訓練課程網址\u003cbr/\u003e\n\u003cbr/\u003e\n國立東華大學-當AI遇到個資及資安\u003cbr/\u003e\n7月 18日 (星期四) · 下午13:30 - 下午16:30\u003cbr/\u003e\n時區：Asia/Taipei\u003cbr/\u003e\nGoogle Meet 會議參加資訊\u003cbr/\u003e\n視訊通話連結：\u003ca href=\"https://meet.google.com/jqw-yjox-edu\" target=\"_blank\"\u003ehttps://meet.google.com/jqw-yjox-edu\u003c/a\u003e\u003cbr/\u003e\n\u003cbr/\u003e\n上課時會提供Google表單簽到並提供研習證明\u003cbr/\u003e\n\u003cbr/\u003e\n \u003c/p\u003e\n\n\t\t\n\u003c/div\u003e"
-    }
-]
+        "name": "劉維忠",
+        "email": "samliu@gms.ndhu.edu.tw",
+        "phone": "03-8906741"
+    },
+    "content": "\u003cdiv class=\"column1-unit\"\u003e\n\n\u003c!--  信件內容   --\u003e\n\u003cpre\u003e分類： 演講暨研討會\n來源： 圖書資訊處網路管理組 - 劉維忠 - samliu@gms.ndhu.edu.tw - 電話03-8906741\n對象： 全校教職員\n標題： 113年7月18日東華大學資安教育訓練上課網址\n日期： Tue, 16 Jul 2024 10:43:09 +0800\n\u003c/pre\u003e\u003chr class=\"clear-contentunit\"/\u003e\u003cp\u003e7月18日(四)資安教育訓練課程網址\u003cbr/\u003e\n\u003cbr/\u003e\n國立東華大學- 在資安意識下，安全使用ChatGPT增強辦公室技能\u003cbr/\u003e\n7月 18日 (星期四) · 上午9:00 - 下午12:00\u003cbr/\u003e\n時區：Asia/Taipei\u003cbr/\u003e\nGoogle Meet 會議參加資訊\u003cbr/\u003e\n視訊通話連結：\u003ca href=\"https://meet.google.com/jqw-yjox-edu\" target=\"_blank\"\u003ehttps://meet.google.com/jqw-yjox-edu\u003c/a\u003e\u003cbr/\u003e\n=====================================================\u003cbr/\u003e\n\u003cbr/\u003e\n\u003cbr/\u003e\n7月18日(四)資安教育訓練課程網址\u003cbr/\u003e\n\u003cbr/\u003e\n國立東華大學-當AI遇到個資及資安\u003cbr/\u003e\n7月 18日 (星期四) · 下午13:30 - 下午16:30\u003cbr/\u003e\n時區：Asia/Taipei\u003cbr/\u003e\nGoogle Meet 會議參加資訊\u003cbr/\u003e\n視訊通話連結：\u003ca href=\"https://meet.google.com/jqw-yjox-edu\" target=\"_blank\"\u003ehttps://meet.google.com/jqw-yjox-edu\u003c/a\u003e\u003cbr/\u003e\n\u003cbr/\u003e\n上課時會提供Google表單簽到並提供研習證明\u003cbr/\u003e\n\u003cbr/\u003e\n \u003c/p\u003e\n\n\t\t\n\u003c/div\u003e",
+    "attachments": null
+}

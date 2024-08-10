@@ -5,7 +5,13 @@
         "url": "mail_display.php?timestamp=1709177603",
         "date": "2024/02/29 11:33",
         "department": "國際事務處國際合作組",
-        "author": "陳良愛"
+        "author": {
+            "department": "國際事務處國際合作組",
+            "name": "陳良愛",
+            "email": "ice@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 4
     },
     {
         "title": "【重要訊息】公告112-2校核心課程停開資訊",
@@ -13,7 +19,13 @@
         "url": "mail_display.php?timestamp=1709170614",
         "date": "2024/02/29 09:36",
         "department": "通識教育中心",
-        "author": "陳美娥"
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "8906607"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "公告112-2校核心文化涵養領域-「世界音樂與文化」課程尚有名額，敬請踴躍加選課程",
@@ -21,7 +33,13 @@
         "url": "mail_display.php?timestamp=1708997169",
         "date": "2024/02/27 09:26",
         "department": "通識教育中心",
-        "author": "陳美娥"
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "6607"
+        },
+        "attachmentCount": 0
     },
     {
         "title": "歡迎參加「113學年國小及中等教育學程甄選說明會」",
@@ -29,7 +47,13 @@
         "url": "mail_display.php?timestamp=1708917197",
         "date": "2024/02/26 11:13",
         "department": "師資培育中心",
-        "author": "陳淑貞"
+        "author": {
+            "department": "師資培育中心",
+            "name": "陳淑貞",
+            "email": "sjchen@gms.ndhu.edu.tw",
+            "phone": "(03)8906636"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "112-2校核心課程增開資訊科技領域「物聯網、創客與教材設計」課程公告",
@@ -37,7 +61,13 @@
         "url": "mail_display.php?timestamp=1708653749",
         "date": "2024/02/23 10:02",
         "department": "通識教育中心",
-        "author": "陳美娥"
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "6607"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "【山海戲旅系列通識課程】暨秋野芒劇團公益巡演招生即將截止，倒數一天！",
@@ -45,7 +75,13 @@
         "url": "mail_display.php?timestamp=1708584481",
         "date": "2024/02/22 14:48",
         "department": "通識教育中心",
-        "author": "陳美娥"
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "8906607"
+        },
+        "attachmentCount": 4
     },
     {
         "title": "【公告】112學年度第2學期資訊科技(程式設計)課程免修申請審核通過名單 ",
@@ -53,7 +89,13 @@
         "url": "mail_display.php?timestamp=1708579168",
         "date": "2024/02/22 13:19",
         "department": "通識教育中心",
-        "author": "陳美娥"
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "8906607"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "中等教育學程 報名公告",
@@ -61,7 +103,13 @@
         "url": "mail_display.php?timestamp=1708517628",
         "date": "2024/02/21 20:13",
         "department": "師資培育中心",
-        "author": "中等學程組"
+        "author": {
+            "department": "師資培育中心",
+            "name": "中等學程組",
+            "email": "amylo@gms.ndhu.edu.tw",
+            "phone": "(03)890-6632"
+        },
+        "attachmentCount": 3
     },
     {
         "title": "【課程推推】📢社會實踐微課程 112-2專案財務管理與行銷 開始報名📢",
@@ -69,7 +117,13 @@
         "url": "mail_display.php?timestamp=1708326740",
         "date": "2024/02/19 15:12",
         "department": "社會參與中心",
-        "author": "童小姐"
+        "author": {
+            "department": "社會參與中心",
+            "name": "童小姐",
+            "email": "tung-sin@gms.ndhu.edu.tw",
+            "phone": "5243"
+        },
+        "attachmentCount": 3
     },
     {
         "title": "🔥113學年師培招生分享會來囉🔥",
@@ -77,7 +131,13 @@
         "url": "mail_display.php?timestamp=1708312571",
         "date": "2024/02/19 11:16",
         "department": "師資培育中心",
-        "author": "陳淑貞"
+        "author": {
+            "department": "師資培育中心",
+            "name": "陳淑貞",
+            "email": "sjchen@gms.ndhu.edu.tw",
+            "phone": "(03)8906636"
+        },
+        "attachmentCount": 8
     },
     {
         "title": "📢最後報名時間📢教育大數據微學程說明會就在今天！",
@@ -85,7 +145,13 @@
         "url": "mail_display.php?timestamp=1708305128",
         "date": "2024/02/19 09:12",
         "department": "教學卓越中心",
-        "author": "黃小姐"
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 4
     },
     {
         "title": "⭐教育大數據⭐敬邀您參加教育大數據計畫—微學程招生說明會",
@@ -93,7 +159,13 @@
         "url": "mail_display.php?timestamp=1708183599",
         "date": "2024/02/17 23:26",
         "department": "教學卓越中心",
-        "author": "黃小姐"
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 4
     },
     {
         "title": "【公告】2024年秋季法國雷恩商學院雙聯學位開始申請",
@@ -101,7 +173,13 @@
         "url": "mail_display.php?timestamp=1708176203",
         "date": "2024/02/17 21:23",
         "department": "國際事務處國際合作組",
-        "author": "陳良愛"
+        "author": {
+            "department": "國際事務處國際合作組",
+            "name": "陳良愛",
+            "email": "ice@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 4
     },
     {
         "title": "⭐教育大數據⭐敬邀您參加教育大數據計畫—微學程招生說明會",
@@ -109,7 +187,13 @@
         "url": "mail_display.php?timestamp=1708075849",
         "date": "2024/02/16 17:30",
         "department": "教學卓越中心",
-        "author": "黃小姐"
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 4
     },
     {
         "title": "【微學程推廣】國立東華大學教育大數據微學程—學習如何以大數據來解讀教育的問題！",
@@ -117,6 +201,12 @@
         "url": "mail_display.php?timestamp=1708073007",
         "date": "2024/02/16 16:43",
         "department": "教學卓越中心",
-        "author": "黃小姐"
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 5
     }
 ]

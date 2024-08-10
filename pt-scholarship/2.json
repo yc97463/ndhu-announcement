@@ -5,7 +5,13 @@
         "url": "mail_display.php?timestamp=1722321343",
         "date": "2024/07/30 14:35",
         "department": "學務處",
-        "author": "鄭淑亭"
+        "author": {
+            "department": "學務處",
+            "name": "鄭淑亭",
+            "email": "ting@gms.ndhu.edu.tw",
+            "phone": "03-8906215"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "轉財團法人慶寶勤勞社會福利慈善事業基金會2024年下半年學期工讀計畫申請資料",
@@ -13,7 +19,13 @@
         "url": "mail_display.php?timestamp=1722318824",
         "date": "2024/07/30 13:53",
         "department": "學務處生活輔導組",
-        "author": "王文和"
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "王文和",
+            "email": "rlawwh@gms.ndhu.edu.tw",
+            "phone": "分機6221"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "【獎助學金申請】中華民國美國聖路易大學校友會2024獎學金",
@@ -21,7 +33,13 @@
         "url": "mail_display.php?timestamp=1721877348",
         "date": "2024/07/25 11:15",
         "department": "學務處",
-        "author": "葉俊良"
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "【獎助學金申請】台灣電力公司113學年度「大學及研究所獎學金」甄選",
@@ -29,7 +47,13 @@
         "url": "mail_display.php?timestamp=1721870461",
         "date": "2024/07/25 09:21",
         "department": "學務處",
-        "author": "葉俊良"
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "【獎助學金申請】國際崇她社國際總會「2024商業女性獎學金」",
@@ -37,7 +61,13 @@
         "url": "mail_display.php?timestamp=1721399870",
         "date": "2024/07/19 22:37",
         "department": "學務處",
-        "author": "葉俊良"
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "【獎助學金申請】愛盲基金會113年度第二期清寒視障學生助學金",
@@ -45,7 +75,13 @@
         "url": "mail_display.php?timestamp=1721395376",
         "date": "2024/07/19 21:22",
         "department": "學務處",
-        "author": "葉俊良"
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "【獎助學金申請】慈光山佛教基金會「慈光山人文獎-113年度大專學生獎助學金」",
@@ -53,7 +89,13 @@
         "url": "mail_display.php?timestamp=1721394182",
         "date": "2024/07/19 21:03",
         "department": "學務處",
-        "author": "葉俊良"
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "【論文獎助】衛生福利部「113年保護服務博碩士論文徵選」",
@@ -61,7 +103,13 @@
         "url": "mail_display.php?timestamp=1721392582",
         "date": "2024/07/19 20:36",
         "department": "學務處",
-        "author": "葉俊良"
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "【獎助學金申請】勵馨社會福利事業基金會113學年度欣恩獎助學金 (限家境清寒女性學生)",
@@ -69,7 +117,13 @@
         "url": "mail_display.php?timestamp=1720748271",
         "date": "2024/07/12 09:37",
         "department": "學務處",
-        "author": "葉俊良"
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "【獎助學金申請】群園事業機構113學年度弱勢家庭學子助學 (限非低收入戶)",
@@ -77,7 +131,13 @@
         "url": "mail_display.php?timestamp=1720745761",
         "date": "2024/07/12 08:56",
         "department": "學務處",
-        "author": "葉俊良"
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "【協助公告】Meet Pacific 花蓮創新創業嘉年｜工讀生招募計畫｜第二波招募",
@@ -85,7 +145,13 @@
         "url": "mail_display.php?timestamp=1720508951",
         "date": "2024/07/09 15:09",
         "department": "國際事務處",
-        "author": "陳梅艇"
+        "author": {
+            "department": "國際事務處",
+            "name": "陳梅艇",
+            "email": "hesp@gms.ndhu.edu.tw",
+            "phone": "5174"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "【獎助學金申請】全國農業金庫股份有限公司「113年全國農業金庫獎學金」",
@@ -93,7 +159,13 @@
         "url": "mail_display.php?timestamp=1720495780",
         "date": "2024/07/09 11:29",
         "department": "學務處",
-        "author": "葉俊良"
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "【論文獎助】世聯倉運文教基金會「2024CTW物流論文獎」",
@@ -101,7 +173,13 @@
         "url": "mail_display.php?timestamp=1720494552",
         "date": "2024/07/09 11:09",
         "department": "學務處",
-        "author": "葉俊良"
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "【獎助學金申請】金門縣高級中等以上學校學生就學津貼 (限金門縣籍)",
@@ -109,7 +187,13 @@
         "url": "mail_display.php?timestamp=1720486611",
         "date": "2024/07/09 08:56",
         "department": "學務處",
-        "author": "葉俊良"
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "113-1學期通識課程徵求TA公告",
@@ -117,6 +201,12 @@
         "url": "mail_display.php?timestamp=1720406174",
         "date": "2024/07/08 10:36",
         "department": "通識教育中心",
-        "author": "陸彥妙"
+        "author": {
+            "department": "通識教育中心",
+            "name": "陸彥妙",
+            "email": "ymlu@gms.ndhu.edu.tw",
+            "phone": "6605"
+        },
+        "attachmentCount": 2
     }
 ]

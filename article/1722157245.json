@@ -1,11 +1,15 @@
-[
-    {
-        "title": "library's e-thesis/dissertations system is down for maintenance, and the steps for submitting thesis/dissertations have been changed",
-        "timestamp": "1722157245",
-        "url": "mail_display.php?timestamp=1722157245",
-        "date": "2024/07/28 17:00",
+{
+    "title": "library's e-thesis/dissertations system is down for maintenance, and the steps for submitting thesis/dissertations have been changed",
+    "timestamp": "1722157245",
+    "url": "mail_display.php?timestamp=1722157245",
+    "date": "2024/07/28 17:00",
+    "department": "圖書資訊處圖資服務組",
+    "author": {
         "department": "圖書資訊處圖資服務組",
-        "author": "簡民享",
-        "content": "\u003cdiv class=\"column1-unit\"\u003e\n\n\u003c!--  信件內容   --\u003e\n\u003cpre\u003e分類： 行政公告\n來源： 圖書資訊處圖資服務組 - 簡民享 - jms@gms.ndhu.edu.tw - 電話6842\n對象： 全校教職員_碩士生_博士生\n標題： library\u0026#39;s e-thesis/dissertations system is down for maintenance, and the steps for submitting thesis/dissertations have been changed\n日期： Sun, 28 Jul 2024 17:00:45 +0800\n\u003c/pre\u003e\u003chr class=\"clear-contentunit\"/\u003e\u003cpre\u003eThe library\u0026#39;s e-thesis/dissertations system is down for maintenance. In order to allow graduate students to leave the school, the steps for submitting thesis/dissertations have been changed as follows:\n\n1. Please contact your department assistant first to find out whether the PDF should be formatted specially by your department?\n2. Send your PDF to jms@gms.ndhu.edu.tw.\n3. The library will check the PDF, please wait for the e-mail notification.\n4. After receiving the notice of completion of the library check, first go to the department office and then go to the library to submit the printed of your thesis/dissertations and process the procedures for leaving the school.\n5. When the e-thesis/dissertations system maintenance is completed, the library will notify graduate students to log in to the e-thesis/dissertations system to fill in thesis/dissertations profile.\n\nother:\n‧If the PDF cannot be emailed, please contact jms@gms.ndhu.edu.tw.\n‧PDF checking takes 1 to 2 days (excluding holidays).\n‧The check-list for leaving school must be completed by the department office first.\n‧The library\u0026#39;s notice will send an \u0026#34;Internet Public Authorization\u0026#34; as an attachment for you to fill out.\n\nWe apologize for the inconvenience and thank you for your cooperation.\u003c/pre\u003e\n\t\t\n\u003c/div\u003e"
-    }
-]
+        "name": "簡民享",
+        "email": "jms@gms.ndhu.edu.tw",
+        "phone": "6842"
+    },
+    "content": "\u003cdiv class=\"column1-unit\"\u003e\n\n\u003c!--  信件內容   --\u003e\n\u003cpre\u003e分類： 行政公告\n來源： 圖書資訊處圖資服務組 - 簡民享 - jms@gms.ndhu.edu.tw - 電話6842\n對象： 全校教職員_碩士生_博士生\n標題： library\u0026#39;s e-thesis/dissertations system is down for maintenance, and the steps for submitting thesis/dissertations have been changed\n日期： Sun, 28 Jul 2024 17:00:45 +0800\n\u003c/pre\u003e\u003chr class=\"clear-contentunit\"/\u003e\u003cpre\u003eThe library\u0026#39;s e-thesis/dissertations system is down for maintenance. In order to allow graduate students to leave the school, the steps for submitting thesis/dissertations have been changed as follows:\n\n1. Please contact your department assistant first to find out whether the PDF should be formatted specially by your department?\n2. Send your PDF to jms@gms.ndhu.edu.tw.\n3. The library will check the PDF, please wait for the e-mail notification.\n4. After receiving the notice of completion of the library check, first go to the department office and then go to the library to submit the printed of your thesis/dissertations and process the procedures for leaving the school.\n5. When the e-thesis/dissertations system maintenance is completed, the library will notify graduate students to log in to the e-thesis/dissertations system to fill in thesis/dissertations profile.\n\nother:\n‧If the PDF cannot be emailed, please contact jms@gms.ndhu.edu.tw.\n‧PDF checking takes 1 to 2 days (excluding holidays).\n‧The check-list for leaving school must be completed by the department office first.\n‧The library\u0026#39;s notice will send an \u0026#34;Internet Public Authorization\u0026#34; as an attachment for you to fill out.\n\nWe apologize for the inconvenience and thank you for your cooperation.\u003c/pre\u003e\n\t\t\n\u003c/div\u003e",
+    "attachments": null
+}

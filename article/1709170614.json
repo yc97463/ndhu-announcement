@@ -1,11 +1,21 @@
-[
-    {
-        "title": "【重要訊息】公告112-2校核心課程停開資訊",
-        "timestamp": "1709170614",
-        "url": "mail_display.php?timestamp=1709170614",
-        "date": "2024/02/29 09:36",
+{
+    "title": "【重要訊息】公告112-2校核心課程停開資訊",
+    "timestamp": "1709170614",
+    "url": "mail_display.php?timestamp=1709170614",
+    "date": "2024/02/29 09:36",
+    "department": "通識教育中心",
+    "author": {
         "department": "通識教育中心",
-        "author": "陳美娥",
-        "content": "\u003cdiv class=\"column1-unit\"\u003e\n\n\u003c!--  信件內容   --\u003e\n\u003cpre\u003e分類： 行政公告, 活動公告, 課程公告, 招生公告\n來源： 通識教育中心 - 陳美娥 - mayer@gms.ndhu.edu.tw - 電話8906607\n對象： 大一_大二_大三_大四以上\n標題： 【重要訊息】公告112-2校核心課程停開資訊\n日期： Thu, 29 Feb 2024 09:36:54 +0800\n附檔： \u003ca href=\"./message_7/1709170614/112-2%E5%81%9C%E9%96%8B%E7%B5%B1%E8%A8%88%E8%A1%A8.pdf\" target=\"_blank\"\u003e112-2停開統計表.pdf\u003c/a\u003e (51 KB)   \u003c/pre\u003e\u003chr class=\"clear-contentunit\"/\u003e\u003cpre\u003e【重要訊息】公告112-2校核心課程停開資訊\n\n各位同學好:\n部分課程因選課人數未達開課標準(選課人數需達20人以上)，因故停開（詳參附件檔），敬請改選其他課程，若有任何疑義，歡迎隨時與本中心聯繫（校內分機：8906602、8906603、8906605、8906607）。\n\n\n\n　　　　　　　　　　　　　　　　    通識教育中心　　敬啟\n\u003c/pre\u003e\u003chr/\u003ejpg、png、gif、pdf 附檔縮圖（pdf 只顯示第一頁）：\u003cp\u003e\u003c/p\u003e\u003cdiv style=\"text-align:center;display:inline-block;margin-right:20px;\"\u003e\u003ca href=\"./message_7/1709170614/112-2%E5%81%9C%E9%96%8B%E7%B5%B1%E8%A8%88%E8%A1%A8.pdf\" target=\"_blank\"\u003e\u003cimg src=\"./thumb/1709170614_112-2停開統計表.pdf.jpg\"/\u003e\u003c/a\u003e\u003cbr/\u003e112-2停開統計表.pdf\u003c/div\u003e\n\t\t\n\u003c/div\u003e"
-    }
-]
+        "name": "陳美娥",
+        "email": "mayer@gms.ndhu.edu.tw",
+        "phone": "8906607"
+    },
+    "content": "\u003cdiv class=\"column1-unit\"\u003e\n\n\u003c!--  信件內容   --\u003e\n\u003cpre\u003e分類： 行政公告, 活動公告, 課程公告, 招生公告\n來源： 通識教育中心 - 陳美娥 - mayer@gms.ndhu.edu.tw - 電話8906607\n對象： 大一_大二_大三_大四以上\n標題： 【重要訊息】公告112-2校核心課程停開資訊\n日期： Thu, 29 Feb 2024 09:36:54 +0800\n附檔： \u003ca href=\"./message_7/1709170614/112-2%E5%81%9C%E9%96%8B%E7%B5%B1%E8%A8%88%E8%A1%A8.pdf\" target=\"_blank\"\u003e112-2停開統計表.pdf\u003c/a\u003e (51 KB)   \u003c/pre\u003e\u003chr class=\"clear-contentunit\"/\u003e\u003cpre\u003e【重要訊息】公告112-2校核心課程停開資訊\n\n各位同學好:\n部分課程因選課人數未達開課標準(選課人數需達20人以上)，因故停開（詳參附件檔），敬請改選其他課程，若有任何疑義，歡迎隨時與本中心聯繫（校內分機：8906602、8906603、8906605、8906607）。\n\n\n\n　　　　　　　　　　　　　　　　    通識教育中心　　敬啟\n\u003c/pre\u003e\u003chr/\u003ejpg、png、gif、pdf 附檔縮圖（pdf 只顯示第一頁）：\u003cp\u003e\u003c/p\u003e\u003cdiv style=\"text-align:center;display:inline-block;margin-right:20px;\"\u003e\u003ca href=\"./message_7/1709170614/112-2%E5%81%9C%E9%96%8B%E7%B5%B1%E8%A8%88%E8%A1%A8.pdf\" target=\"_blank\"\u003e\u003cimg src=\"./thumb/1709170614_112-2停開統計表.pdf.jpg\"/\u003e\u003c/a\u003e\u003cbr/\u003e112-2停開統計表.pdf\u003c/div\u003e\n\t\t\n\u003c/div\u003e",
+    "attachments": [
+        {
+            "fileName": "112-2停開統計表.pdf",
+            "fileSize": "(51 KB)",
+            "fileURL": "./message_7/1709170614/112-2%E5%81%9C%E9%96%8B%E7%B5%B1%E8%A8%88%E8%A1%A8.pdf"
+        }
+    ]
+}

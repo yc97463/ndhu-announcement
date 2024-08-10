@@ -5,7 +5,13 @@
         "url": "mail_display.php?timestamp=1722476916",
         "date": "2024/08/01 09:48",
         "department": "學務處衛生保健組",
-        "author": "吳星穎"
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "吳星穎",
+            "email": "carmier@gms.ndhu.edu.tw",
+            "phone": "8906252"
+        },
+        "attachmentCount": 4
     },
     {
         "title": "校區部分區域113/07/31緊急搶修停水公告",
@@ -13,7 +19,13 @@
         "url": "mail_display.php?timestamp=1722420393",
         "date": "2024/07/31 18:06",
         "department": "總務處營繕組",
-        "author": "劉宏銘"
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "8906376"
+        },
+        "attachmentCount": 0
     },
     {
         "title": "【公告】本校113年8月1日起行政及學術主管名冊",
@@ -21,7 +33,13 @@
         "url": "mail_display.php?timestamp=1722417049",
         "date": "2024/07/31 17:10",
         "department": "人事室",
-        "author": "楊惠雯"
+        "author": {
+            "department": "人事室",
+            "name": "楊惠雯",
+            "email": "hwyang@gms.ndhu.edu.tw",
+            "phone": "6061"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "圖書館館藏查詢臨時網址",
@@ -29,7 +47,13 @@
         "url": "mail_display.php?timestamp=1722409170",
         "date": "2024/07/31 14:59",
         "department": "圖書資訊處圖資服務組",
-        "author": "廖銘珠"
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "廖銘珠",
+            "email": "min-judy@gms.ndhu.edu.tw",
+            "phone": "6855"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "行政大樓空調設備及能源管理系統安裝工程外牆施工公告",
@@ -37,7 +61,13 @@
         "url": "mail_display.php?timestamp=1722406476",
         "date": "2024/07/31 14:14",
         "department": "總務處事務組",
-        "author": "連小雅"
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 0
     },
     {
         "title": "【徵才】中國青年救國團113年新進人員招募",
@@ -45,7 +75,13 @@
         "url": "mail_display.php?timestamp=1722406088",
         "date": "2024/07/31 14:08",
         "department": "學務處畢業生及校友服務組",
-        "author": "黃文雯"
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 5
     },
     {
         "title": "【徵才】臺灣桃園地方法院113年第3次儲備約僱職務代理人甄試(8/16截止)",
@@ -53,7 +89,13 @@
         "url": "mail_display.php?timestamp=1722405579",
         "date": "2024/07/31 13:59",
         "department": "學務處畢業生及校友服務組",
-        "author": "黃文雯"
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 4
     },
     {
         "title": "人社一館第一講堂頂樓防水工程施工期程延期第1次公告(延長至8/31)",
@@ -61,7 +103,13 @@
         "url": "mail_display.php?timestamp=1722400070",
         "date": "2024/07/31 12:27",
         "department": "人文社會科學學院",
-        "author": "吳雅萍"
+        "author": {
+            "department": "人文社會科學學院",
+            "name": "吳雅萍",
+            "email": "ypwu@gms.ndhu.edu.tw",
+            "phone": "03-8935253"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "圖書館館藏查詢臨時網址",
@@ -69,7 +117,13 @@
         "url": "mail_display.php?timestamp=1722397060",
         "date": "2024/07/31 11:37",
         "department": "圖書資訊處圖資服務組",
-        "author": "廖銘珠"
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "廖銘珠",
+            "email": "min-judy@gms.ndhu.edu.tw",
+            "phone": "6855"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "學人宿舍(包含幼稚園)、素心里及擷雲莊113/07/31緊急停水公告",
@@ -77,7 +131,13 @@
         "url": "mail_display.php?timestamp=1722394375",
         "date": "2024/07/31 10:52",
         "department": "總務處營繕組",
-        "author": "劉宏銘"
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
     },
     {
         "title": "天下雜誌全免費贈閱東華大學教職員工生(在職在學)使用開通網址",
@@ -85,7 +145,13 @@
         "url": "mail_display.php?timestamp=1722393294",
         "date": "2024/07/31 10:34",
         "department": "圖書資訊處圖資服務組",
-        "author": "陳昱佐"
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "陳昱佐",
+            "email": "yutuchen@gms.ndhu.edu.tw",
+            "phone": "038906824"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "【通識】113-1學期通識課程活動補助申請(8/29(四)截止收件)(第二次公告)",
@@ -93,7 +159,13 @@
         "url": "mail_display.php?timestamp=1722393210",
         "date": "2024/07/31 10:33",
         "department": "通識教育中心",
-        "author": "李小姐"
+        "author": {
+            "department": "通識教育中心",
+            "name": "李小姐",
+            "email": "fen19@gms.ndhu.edu.tw",
+            "phone": "6602"
+        },
+        "attachmentCount": 4
     },
     {
         "title": "【歡迎報名】113年度民眾網路素養培訓課程（五）-數位防身術及AI小工具",
@@ -101,7 +173,13 @@
         "url": "mail_display.php?timestamp=1722393043",
         "date": "2024/07/31 10:30",
         "department": "圖書資訊處綜合業務組",
-        "author": "林循美"
+        "author": {
+            "department": "圖書資訊處綜合業務組",
+            "name": "林循美",
+            "email": "cindy@gms.ndhu.edu.tw",
+            "phone": "8906774"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "國立東華大學管理學院國際學士班徵聘【行政助理】一名",
@@ -109,7 +187,13 @@
         "url": "mail_display.php?timestamp=1722389702",
         "date": "2024/07/31 09:35",
         "department": "管理科學與財金國際學士學位學程",
-        "author": "林逸潔"
+        "author": {
+            "department": "管理科學與財金國際學士學位學程",
+            "name": "林逸潔",
+            "email": "jamielin0902@gms.ndhu.edu.tw",
+            "phone": "03-8903006"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "國立東華大學管理學院國際學士班徵聘【行政助理】一名",
@@ -117,6 +201,12 @@
         "url": "mail_display.php?timestamp=1722389701",
         "date": "2024/07/31 09:35",
         "department": "管理科學與財金國際學士學位學程",
-        "author": "林逸潔"
+        "author": {
+            "department": "管理科學與財金國際學士學位學程",
+            "name": "林逸潔",
+            "email": "jamielin0902@gms.ndhu.edu.tw",
+            "phone": "03-8903006"
+        },
+        "attachmentCount": 1
     }
 ]

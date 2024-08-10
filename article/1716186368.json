@@ -1,11 +1,26 @@
-[
-    {
-        "title": "【113學年 東華大學垂直整合VIP 專題課程計畫大一學生線上說明會】113年06月04日",
-        "timestamp": "1716186368",
-        "url": "mail_display.php?timestamp=1716186368",
-        "date": "2024/05/20 14:26",
+{
+    "title": "【113學年 東華大學垂直整合VIP 專題課程計畫大一學生線上說明會】113年06月04日",
+    "timestamp": "1716186368",
+    "url": "mail_display.php?timestamp=1716186368",
+    "date": "2024/05/20 14:26",
+    "department": "教學卓越中心",
+    "author": {
         "department": "教學卓越中心",
-        "author": "陳禮凡",
-        "content": "\u003cdiv class=\"column1-unit\"\u003e\n\n\u003c!--  信件內容   --\u003e\n\u003cpre\u003e分類： 課程公告\n來源： 教學卓越中心 - 陳禮凡 - LIFAN.CHEN@gms.ndhu.edu.tw - 電話6586\n對象： 大一\n標題： 【113學年 東華大學垂直整合VIP 專題課程計畫大一學生線上說明會】113年06月04日\n日期： Mon, 20 May 2024 14:26:08 +0800\n\u003c/pre\u003e\u003chr class=\"clear-contentunit\"/\u003e\u003cpre\u003e113年06月04日 (星期二) 中午12:30~14:00，教學卓越中心辦理【113學年 東華大學垂直整合VIP 專題課程計畫 大一學生線上說明會】，邀請不同團隊的學生分享及介紹 : \n(1)所屬團隊運作情形(團隊目標、上課方式及模式等)\n(2)自己在團隊不同年級經歷過的角色\n(3)參與團隊期間深刻的活動或事件等\n分享結束後並接受線上提問，歡迎對垂直整合專題課程計畫 VIP Program有興趣的大一學生報名參加。\n\n東華VIP 網站: \u003ca href=\"https://rb037.ndhu.edu.tw/?Lang=zh-tw\" target=\"_blank\"\u003ehttps://rb037.ndhu.edu.tw/?Lang=zh-tw\u003c/a\u003e\n\n日期：113年06月04日(星期二)\n           12:00 ~ 12:30 登入會議室\n           12:30 ~ 14:00 講座活動開始\n地點：Google Meeting (會議室連結另行 email 通知)\n線上報名連結 : \u003ca href=\"https://rb037.ndhu.edu.tw/p/423-1037-3438.php?Lang=zh-tw\" target=\"_blank\"\u003ehttps://rb037.ndhu.edu.tw/p/423-1037-3438.php?Lang=zh-tw\u003c/a\u003e\n\n東華VIP團隊 啟\u003c/pre\u003e\n\t\t\n\u003c/div\u003e"
-    }
-]
+        "name": "陳禮凡",
+        "email": "LIFAN.CHEN@gms.ndhu.edu.tw",
+        "phone": "6586"
+    },
+    "content": "\u003cdiv class=\"column1-unit\"\u003e\n\n\u003c!--  信件內容   --\u003e\n\u003cpre\u003e分類： 課程公告\n來源： 教學卓越中心 - 陳禮凡 - LIFAN.CHEN@gms.ndhu.edu.tw - 電話6586\n對象： 大一\n標題： 【113學年 東華大學垂直整合VIP 專題課程計畫大一學生線上說明會】113年06月04日\n日期： Mon, 20 May 2024 14:26:08 +0800\n\u003c/pre\u003e\u003chr class=\"clear-contentunit\"/\u003e\u003cpre\u003e113年06月04日 (星期二) 中午12:30~14:00，教學卓越中心辦理【113學年 東華大學垂直整合VIP 專題課程計畫 大一學生線上說明會】，邀請不同團隊的學生分享及介紹 : \n(1)所屬團隊運作情形(團隊目標、上課方式及模式等)\n(2)自己在團隊不同年級經歷過的角色\n(3)參與團隊期間深刻的活動或事件等\n分享結束後並接受線上提問，歡迎對垂直整合專題課程計畫 VIP Program有興趣的大一學生報名參加。\n\n東華VIP 網站: \u003ca href=\"https://rb037.ndhu.edu.tw/?Lang=zh-tw\" target=\"_blank\"\u003ehttps://rb037.ndhu.edu.tw/?Lang=zh-tw\u003c/a\u003e\n\n日期：113年06月04日(星期二)\n           12:00 ~ 12:30 登入會議室\n           12:30 ~ 14:00 講座活動開始\n地點：Google Meeting (會議室連結另行 email 通知)\n線上報名連結 : \u003ca href=\"https://rb037.ndhu.edu.tw/p/423-1037-3438.php?Lang=zh-tw\" target=\"_blank\"\u003ehttps://rb037.ndhu.edu.tw/p/423-1037-3438.php?Lang=zh-tw\u003c/a\u003e\n\n東華VIP團隊 啟\u003c/pre\u003e\n\t\t\n\u003c/div\u003e",
+    "attachments": [
+        {
+            "fileName": "https://rb037.ndhu.edu.tw/?Lang=zh-tw",
+            "fileSize": "東華VIP團隊 啟",
+            "fileURL": "https://rb037.ndhu.edu.tw/?Lang=zh-tw"
+        },
+        {
+            "fileName": "https://rb037.ndhu.edu.tw/p/423-1037-3438.php?Lang=zh-tw",
+            "fileSize": "東華VIP團隊 啟",
+            "fileURL": "https://rb037.ndhu.edu.tw/p/423-1037-3438.php?Lang=zh-tw"
+        }
+    ]
+}

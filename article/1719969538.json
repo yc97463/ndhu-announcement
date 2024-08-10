@@ -1,11 +1,21 @@
-[
-    {
-        "title": "【政風宣導】花蓮縣政府政風處製作《企業誠信反貪短劇—包公出巡記》影音，請多加運用",
-        "timestamp": "1719969538",
-        "url": "mail_display.php?timestamp=1719969538",
-        "date": "2024/07/03 09:18",
+{
+    "title": "【政風宣導】花蓮縣政府政風處製作《企業誠信反貪短劇—包公出巡記》影音，請多加運用",
+    "timestamp": "1719969538",
+    "url": "mail_display.php?timestamp=1719969538",
+    "date": "2024/07/03 09:18",
+    "department": "秘書室公關宣傳組",
+    "author": {
         "department": "秘書室公關宣傳組",
-        "author": "林佩瑤",
-        "content": "\u003cdiv class=\"column1-unit\"\u003e\n\n\u003c!--  信件內容   --\u003e\n\u003cpre\u003e分類： 活動公告\n來源： 秘書室公關宣傳組 - 林佩瑤 - peiyao@gms.ndhu.edu.tw - 電話6013\n對象： 全校教職員_全校學生\n標題： 【政風宣導】花蓮縣政府政風處製作《企業誠信反貪短劇—包公出巡記》影音，請多加運用\n日期： Wed, 3 Jul 2024 09:18:58 +0800\n\u003c/pre\u003e\u003chr class=\"clear-contentunit\"/\u003e\u003cpre\u003e一、本府政風處為推動企業對於誠信經營、法令遵循之重視，特邀請「西田社傳統劇場」以傳統「布袋戲」技藝，創新演出《企業誠信反貪短劇—包公出巡記》，透過經典角色「包公」公正無私、廉明執法的形象，以及精采絕倫的劇情，帶領與會人士瞭解到企業誠信經營與社會公平正義的重要性。\n二、影音已上傳至政風處Youtube平臺(網址：\u003ca href=\"https://www.youtube.com/watch?v=cHhV6KXAvwQ\u0026amp;t=40s\" target=\"_blank\"\u003ehttps://www.youtube.com/watch?v=cHhV6KXAvwQ\u0026amp;t=40s\u003c/a\u003e)，請協助宣導運用。\n\u003c/pre\u003e\n\t\t\n\u003c/div\u003e"
-    }
-]
+        "name": "林佩瑤",
+        "email": "peiyao@gms.ndhu.edu.tw",
+        "phone": "6013"
+    },
+    "content": "\u003cdiv class=\"column1-unit\"\u003e\n\n\u003c!--  信件內容   --\u003e\n\u003cpre\u003e分類： 活動公告\n來源： 秘書室公關宣傳組 - 林佩瑤 - peiyao@gms.ndhu.edu.tw - 電話6013\n對象： 全校教職員_全校學生\n標題： 【政風宣導】花蓮縣政府政風處製作《企業誠信反貪短劇—包公出巡記》影音，請多加運用\n日期： Wed, 3 Jul 2024 09:18:58 +0800\n\u003c/pre\u003e\u003chr class=\"clear-contentunit\"/\u003e\u003cpre\u003e一、本府政風處為推動企業對於誠信經營、法令遵循之重視，特邀請「西田社傳統劇場」以傳統「布袋戲」技藝，創新演出《企業誠信反貪短劇—包公出巡記》，透過經典角色「包公」公正無私、廉明執法的形象，以及精采絕倫的劇情，帶領與會人士瞭解到企業誠信經營與社會公平正義的重要性。\n二、影音已上傳至政風處Youtube平臺(網址：\u003ca href=\"https://www.youtube.com/watch?v=cHhV6KXAvwQ\u0026amp;t=40s\" target=\"_blank\"\u003ehttps://www.youtube.com/watch?v=cHhV6KXAvwQ\u0026amp;t=40s\u003c/a\u003e)，請協助宣導運用。\n\u003c/pre\u003e\n\t\t\n\u003c/div\u003e",
+    "attachments": [
+        {
+            "fileName": "https://www.youtube.com/watch?v=cHhV6KXAvwQ\u0026t=40s",
+            "fileSize": ")，請協助宣導運用。",
+            "fileURL": "https://www.youtube.com/watch?v=cHhV6KXAvwQ\u0026t=40s"
+        }
+    ]
+}

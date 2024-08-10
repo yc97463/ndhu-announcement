@@ -5,7 +5,13 @@
         "url": "mail_display.php?timestamp=1721724597",
         "date": "2024/07/23 16:49",
         "department": "朱副校長室",
-        "author": "賴昀辰 老師"
+        "author": {
+            "department": "朱副校長室",
+            "name": "賴昀辰 老師",
+            "email": "yunchen.lai@gms.ndhu.edu.tw",
+            "phone": "(03)890-6032"
+        },
+        "attachmentCount": 5
     },
     {
         "title": "活動轉知-臺灣夢兒少社區陪伴扎根計畫志工培訓營 ",
@@ -13,7 +19,13 @@
         "url": "mail_display.php?timestamp=1720080676",
         "date": "2024/07/04 16:11",
         "department": "原住民族學生資源中心",
-        "author": "曾暐娟"
+        "author": {
+            "department": "原住民族學生資源中心",
+            "name": "曾暐娟",
+            "email": "kinu@gms.ndhu.edu.tw",
+            "phone": "(03)890-5759"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "​113年第2回「日本留學試驗（EJU）」報名至7/26~",
@@ -21,7 +33,13 @@
         "url": "mail_display.php?timestamp=1719797589",
         "date": "2024/07/01 09:33",
         "department": "國際事務處國際學生組",
-        "author": "陳良愛"
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 6
     },
     {
         "title": "【兵役訊息】國防部「113年志願役預備軍官班考選簡章」公告",
@@ -29,7 +47,13 @@
         "url": "mail_display.php?timestamp=1718670734",
         "date": "2024/06/18 08:32",
         "department": "學務處生活輔導組",
-        "author": "黃勇程"
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "6225"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "2024暑假最終版-VIP課程移地學習 VIP(三)智慧能源社區行動選課招募說明會",
@@ -37,7 +61,13 @@
         "url": "mail_display.php?timestamp=1718352635",
         "date": "2024/06/14 16:10",
         "department": "管理學院",
-        "author": "高云偈"
+        "author": {
+            "department": "管理學院",
+            "name": "高云偈",
+            "email": "tis@gms.ndhu.edu.tw",
+            "phone": "3789"
+        },
+        "attachmentCount": 3
     },
     {
         "title": "💥造舟課💥名額釋出！請把握機會報名",
@@ -45,7 +75,13 @@
         "url": "mail_display.php?timestamp=1717742295",
         "date": "2024/06/07 14:38",
         "department": "社會參與中心",
-        "author": "徐小姐"
+        "author": {
+            "department": "社會參與中心",
+            "name": "徐小姐",
+            "email": "hsu-pangju@gms.ndhu.edu.tw",
+            "phone": "5247"
+        },
+        "attachmentCount": 6
     },
     {
         "title": "【東華美崙校區】國立東華大學×傑瑞籃球運動—籃球夏令營線上報名表",
@@ -53,7 +89,13 @@
         "url": "mail_display.php?timestamp=1717391490",
         "date": "2024/06/03 13:11",
         "department": "東華創新研究園區",
-        "author": "推廣組"
+        "author": {
+            "department": "東華創新研究園區",
+            "name": "推廣組",
+            "email": "ipark@gms.ndhu.edu.tw",
+            "phone": "03-8906955"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "【東華大學教育大數據微學程】113-1 學程必修實務課推廣",
@@ -61,7 +103,13 @@
         "url": "mail_display.php?timestamp=1717060265",
         "date": "2024/05/30 17:11",
         "department": "教學卓越中心",
-        "author": "黃小姐"
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 4
     },
     {
         "title": "⭐教育大數據產學合作與專題實作⭐113-1學程必修實務課推廣",
@@ -69,7 +117,13 @@
         "url": "mail_display.php?timestamp=1716972725",
         "date": "2024/05/29 16:52",
         "department": "教學卓越中心",
-        "author": "黃小姐"
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 3
     },
     {
         "title": "【教育大數據產學合作與專題實作】113-1學程必修實務課推廣",
@@ -77,7 +131,13 @@
         "url": "mail_display.php?timestamp=1716895165",
         "date": "2024/05/28 19:19",
         "department": "教學卓越中心",
-        "author": "黃小姐"
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 5
     },
     {
         "title": "⭐教育大數據微學程⭐學習如何以大數據來解讀教育的問題！",
@@ -85,7 +145,13 @@
         "url": "mail_display.php?timestamp=1716801195",
         "date": "2024/05/27 17:13",
         "department": "教學卓越中心",
-        "author": "黃小姐"
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 3
     },
     {
         "title": "公告113學年度第1學期校核心通識課程規劃重要相關注意事項Important Information about the University Core Curriculum for Autumn 2024",
@@ -93,7 +159,13 @@
         "url": "mail_display.php?timestamp=1716268666",
         "date": "2024/05/21 13:17",
         "department": "通識教育中心",
-        "author": "陳美娥"
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "6607"
+        },
+        "attachmentCount": 3
     },
     {
         "title": "113學年度(第10屆)大專生金融就業公益專班第二次線上說明會",
@@ -101,7 +173,13 @@
         "url": "mail_display.php?timestamp=1716254645",
         "date": "2024/05/21 09:24",
         "department": "財務金融學系",
-        "author": "蔡季諭"
+        "author": {
+            "department": "財務金融學系",
+            "name": "蔡季諭",
+            "email": "jiyu@gms.ndhu.edu.tw",
+            "phone": "8903132"
+        },
+        "attachmentCount": 4
     },
     {
         "title": "📢造舟課說明會📢就是今天!快來參加「格稜蘭骨架蒙皮舟製作」課程說明會!",
@@ -109,7 +187,13 @@
         "url": "mail_display.php?timestamp=1716168318",
         "date": "2024/05/20 09:25",
         "department": "社會參與中心",
-        "author": "徐小姐"
+        "author": {
+            "department": "社會參與中心",
+            "name": "徐小姐",
+            "email": "hsu-pangju@gms.ndhu.edu.tw",
+            "phone": "5247"
+        },
+        "attachmentCount": 3
     },
     {
         "title": "📢造舟課說明會📢 5/20邀請您參加「格稜蘭骨架蒙皮舟製作」課程說明會",
@@ -117,6 +201,12 @@
         "url": "mail_display.php?timestamp=1715940916",
         "date": "2024/05/17 18:15",
         "department": "社會參與中心",
-        "author": "徐小姐"
+        "author": {
+            "department": "社會參與中心",
+            "name": "徐小姐",
+            "email": "hsu-pangju@gms.ndhu.edu.tw",
+            "phone": "5247"
+        },
+        "attachmentCount": 2
     }
 ]

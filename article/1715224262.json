@@ -1,11 +1,41 @@
-[
-    {
-        "title": "📣【通識】113年暑期通識課程一覽，歡迎同學選修!🔔",
-        "timestamp": "1715224262",
-        "url": "mail_display.php?timestamp=1715224262",
-        "date": "2024/05/09 11:11",
+{
+    "title": "📣【通識】113年暑期通識課程一覽，歡迎同學選修!🔔",
+    "timestamp": "1715224262",
+    "url": "mail_display.php?timestamp=1715224262",
+    "date": "2024/05/09 11:11",
+    "department": "通識教育中心",
+    "author": {
         "department": "通識教育中心",
-        "author": "李助理",
-        "content": "\u003cdiv class=\"column1-unit\"\u003e\n\n\u003c!--  信件內容   --\u003e\n\u003cpre\u003e分類： 課程公告\n來源： 通識教育中心 - 李助理 - fen19@gms.ndhu.edu.tw - 電話6602\n對象： 大一_大二_大三_大四以上_休學學生\n標題： 📣【通識】113年暑期通識課程一覽，歡迎同學選修!🔔\n日期： Thu, 9 May 2024 11:11:02 +0800\n\u003c/pre\u003e\u003chr class=\"clear-contentunit\"/\u003e\u003cpre\u003e對象：東華在校生/準大一生\n\n📢1.臺大全國夏季學院：線上/實體課程(5/8(三)起開始報名)\n         相關資訊：\u003ca href=\"https://genedu.ndhu.edu.tw/p/406-1076-222971,r2626.php?Lang=zh-tw\" target=\"_blank\"\u003ehttps://genedu.ndhu.edu.tw/p/406-1076-222971,r2626.php?Lang=zh-tw\u003c/a\u003e\n         東華認抵：\u003ca href=\"https://www.n2.org.tw/enter/reconized_list/lesson_content/18/7\" target=\"_blank\"\u003ehttps://www.n2.org.tw/enter/reconized_list/lesson_content/18/7\u003c/a\u003e\n\n📢2.SOS！暑期線上學院：線上課程(4/25(四)起開始報名)\n         相關資訊：\u003ca href=\"https://genedu.ndhu.edu.tw/p/406-1076-207113,r2626.php?Lang=zh-tw\" target=\"_blank\"\u003ehttps://genedu.ndhu.edu.tw/p/406-1076-207113,r2626.php?Lang=zh-tw\u003c/a\u003e\n         東華認抵：\u003ca href=\"https://www.ewant.org/local/enterprise/generalcourse.php?id=123\" target=\"_blank\"\u003ehttps://www.ewant.org/local/enterprise/generalcourse.php?id=123\u003c/a\u003e\n\n📢3.本校通識教育中心開課(5/30(四)起開始報名)：113年大學部準新生暑期先修課程(東華準大一、在校生皆可選修) \u003ca href=\"https://genedu.ndhu.edu.tw/p/406-1076-223936,r2626.php?Lang=zh-tw\" target=\"_blank\"\u003ehttps://genedu.ndhu.edu.tw/p/406-1076-223936,r2626.php?Lang=zh-tw\u003c/a\u003e\n\n若有疑問，可來電至通識教育中心助理 李睿芬小姐 電話：03-890-6602 傳真：03-890-0140   信箱：fen19@gms.ndhu.edu.tw\u003c/pre\u003e\n\t\t\n\u003c/div\u003e"
-    }
-]
+        "name": "李助理",
+        "email": "fen19@gms.ndhu.edu.tw",
+        "phone": "6602"
+    },
+    "content": "\u003cdiv class=\"column1-unit\"\u003e\n\n\u003c!--  信件內容   --\u003e\n\u003cpre\u003e分類： 課程公告\n來源： 通識教育中心 - 李助理 - fen19@gms.ndhu.edu.tw - 電話6602\n對象： 大一_大二_大三_大四以上_休學學生\n標題： 📣【通識】113年暑期通識課程一覽，歡迎同學選修!🔔\n日期： Thu, 9 May 2024 11:11:02 +0800\n\u003c/pre\u003e\u003chr class=\"clear-contentunit\"/\u003e\u003cpre\u003e對象：東華在校生/準大一生\n\n📢1.臺大全國夏季學院：線上/實體課程(5/8(三)起開始報名)\n         相關資訊：\u003ca href=\"https://genedu.ndhu.edu.tw/p/406-1076-222971,r2626.php?Lang=zh-tw\" target=\"_blank\"\u003ehttps://genedu.ndhu.edu.tw/p/406-1076-222971,r2626.php?Lang=zh-tw\u003c/a\u003e\n         東華認抵：\u003ca href=\"https://www.n2.org.tw/enter/reconized_list/lesson_content/18/7\" target=\"_blank\"\u003ehttps://www.n2.org.tw/enter/reconized_list/lesson_content/18/7\u003c/a\u003e\n\n📢2.SOS！暑期線上學院：線上課程(4/25(四)起開始報名)\n         相關資訊：\u003ca href=\"https://genedu.ndhu.edu.tw/p/406-1076-207113,r2626.php?Lang=zh-tw\" target=\"_blank\"\u003ehttps://genedu.ndhu.edu.tw/p/406-1076-207113,r2626.php?Lang=zh-tw\u003c/a\u003e\n         東華認抵：\u003ca href=\"https://www.ewant.org/local/enterprise/generalcourse.php?id=123\" target=\"_blank\"\u003ehttps://www.ewant.org/local/enterprise/generalcourse.php?id=123\u003c/a\u003e\n\n📢3.本校通識教育中心開課(5/30(四)起開始報名)：113年大學部準新生暑期先修課程(東華準大一、在校生皆可選修) \u003ca href=\"https://genedu.ndhu.edu.tw/p/406-1076-223936,r2626.php?Lang=zh-tw\" target=\"_blank\"\u003ehttps://genedu.ndhu.edu.tw/p/406-1076-223936,r2626.php?Lang=zh-tw\u003c/a\u003e\n\n若有疑問，可來電至通識教育中心助理 李睿芬小姐 電話：03-890-6602 傳真：03-890-0140   信箱：fen19@gms.ndhu.edu.tw\u003c/pre\u003e\n\t\t\n\u003c/div\u003e",
+    "attachments": [
+        {
+            "fileName": "https://genedu.ndhu.edu.tw/p/406-1076-222971,r2626.php?Lang=zh-tw",
+            "fileSize": "若有疑問，可來電至通識教育中心助理 李睿芬小姐 電話：03-890-6602 傳真：03-890-0140   信箱：fen19@gms.ndhu.edu.tw",
+            "fileURL": "https://genedu.ndhu.edu.tw/p/406-1076-222971,r2626.php?Lang=zh-tw"
+        },
+        {
+            "fileName": "https://www.n2.org.tw/enter/reconized_list/lesson_content/18/7",
+            "fileSize": "若有疑問，可來電至通識教育中心助理 李睿芬小姐 電話：03-890-6602 傳真：03-890-0140   信箱：fen19@gms.ndhu.edu.tw",
+            "fileURL": "https://www.n2.org.tw/enter/reconized_list/lesson_content/18/7"
+        },
+        {
+            "fileName": "https://genedu.ndhu.edu.tw/p/406-1076-207113,r2626.php?Lang=zh-tw",
+            "fileSize": "若有疑問，可來電至通識教育中心助理 李睿芬小姐 電話：03-890-6602 傳真：03-890-0140   信箱：fen19@gms.ndhu.edu.tw",
+            "fileURL": "https://genedu.ndhu.edu.tw/p/406-1076-207113,r2626.php?Lang=zh-tw"
+        },
+        {
+            "fileName": "https://www.ewant.org/local/enterprise/generalcourse.php?id=123",
+            "fileSize": "若有疑問，可來電至通識教育中心助理 李睿芬小姐 電話：03-890-6602 傳真：03-890-0140   信箱：fen19@gms.ndhu.edu.tw",
+            "fileURL": "https://www.ewant.org/local/enterprise/generalcourse.php?id=123"
+        },
+        {
+            "fileName": "https://genedu.ndhu.edu.tw/p/406-1076-223936,r2626.php?Lang=zh-tw",
+            "fileSize": "若有疑問，可來電至通識教育中心助理 李睿芬小姐 電話：03-890-6602 傳真：03-890-0140   信箱：fen19@gms.ndhu.edu.tw",
+            "fileURL": "https://genedu.ndhu.edu.tw/p/406-1076-223936,r2626.php?Lang=zh-tw"
+        }
+    ]
+}

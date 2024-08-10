@@ -5,7 +5,13 @@
         "url": "mail_display.php?timestamp=1708853566",
         "date": "2024/02/25 17:32",
         "department": "花師教育學院",
-        "author": "李宛玲"
+        "author": {
+            "department": "花師教育學院",
+            "name": "李宛玲",
+            "email": "etutor_c226@gms.ndhu.edu.tw",
+            "phone": "3816"
+        },
+        "attachmentCount": 5
     },
     {
         "title": "國立東華大學數位學伴－112-2學期【大學伴熱烈招募中】",
@@ -13,7 +19,13 @@
         "url": "mail_display.php?timestamp=1708853542",
         "date": "2024/02/25 17:32",
         "department": "花師教育學院",
-        "author": "李宛玲"
+        "author": {
+            "department": "花師教育學院",
+            "name": "李宛玲",
+            "email": "etutor_c226@gms.ndhu.edu.tw",
+            "phone": "3816"
+        },
+        "attachmentCount": 5
     },
     {
         "title": "國立東華大學理工學院 應用數學系系主任徵求公告",
@@ -21,7 +33,13 @@
         "url": "mail_display.php?timestamp=1708673318",
         "date": "2024/02/23 15:28",
         "department": "理工學院",
-        "author": "潘姿瑜"
+        "author": {
+            "department": "理工學院",
+            "name": "潘姿瑜",
+            "email": "tzuyu@gms.ndhu.edu.tw",
+            "phone": "3502"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "國立東華大學理工學院 物理學系系主任徵求公告",
@@ -29,7 +47,13 @@
         "url": "mail_display.php?timestamp=1708588477",
         "date": "2024/02/22 15:54",
         "department": "理工學院",
-        "author": "潘姿瑜"
+        "author": {
+            "department": "理工學院",
+            "name": "潘姿瑜",
+            "email": "tzuyu@gms.ndhu.edu.tw",
+            "phone": "3502"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "國立東華大學理工學院 化學系系主任徵求公告",
@@ -37,7 +61,13 @@
         "url": "mail_display.php?timestamp=1708588134",
         "date": "2024/02/22 15:48",
         "department": "理工學院",
-        "author": "潘姿瑜"
+        "author": {
+            "department": "理工學院",
+            "name": "潘姿瑜",
+            "email": "tzuyu@gms.ndhu.edu.tw",
+            "phone": "3502"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "國立東華大學數位學伴中心 - 112-2學期【大學伴招募說明會】",
@@ -45,7 +75,13 @@
         "url": "mail_display.php?timestamp=1708573309",
         "date": "2024/02/22 11:41",
         "department": "花師教育學院",
-        "author": "李宛玲"
+        "author": {
+            "department": "花師教育學院",
+            "name": "李宛玲",
+            "email": "etutor_c226@gms.ndhu.edu.tw",
+            "phone": "3816"
+        },
+        "attachmentCount": 3
     },
     {
         "title": "【112-2數位學伴！大學伴熱烈招募中】",
@@ -53,7 +89,13 @@
         "url": "mail_display.php?timestamp=1708484776",
         "date": "2024/02/21 11:06",
         "department": "花師教育學院",
-        "author": "李宛玲"
+        "author": {
+            "department": "花師教育學院",
+            "name": "李宛玲",
+            "email": "etutor_c226@gms.ndhu.edu.tw",
+            "phone": "3816"
+        },
+        "attachmentCount": 5
     },
     {
         "title": "國立東華大學創新育成中心徵聘專案助理(駐點人員)",
@@ -61,7 +103,13 @@
         "url": "mail_display.php?timestamp=1708442278",
         "date": "2024/02/20 23:17",
         "department": "研發處創新育成中心",
-        "author": "吳其璁"
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "吳其璁",
+            "email": "dci93031@gms.ndhu.edu.tw",
+            "phone": "03-8903687"
+        },
+        "attachmentCount": 0
     },
     {
         "title": "國立東華大學數位學伴－112-2學期【大學伴熱烈招募中】",
@@ -69,7 +117,13 @@
         "url": "mail_display.php?timestamp=1708336467",
         "date": "2024/02/19 17:54",
         "department": "花師教育學院",
-        "author": "李宛玲"
+        "author": {
+            "department": "花師教育學院",
+            "name": "李宛玲",
+            "email": "etutor_c226@gms.ndhu.edu.tw",
+            "phone": "03-890-3816"
+        },
+        "attachmentCount": 5
     },
     {
         "title": "【國立東華大學無邊境員生消費合作社誠徵專任人員】",
@@ -77,7 +131,13 @@
         "url": "mail_display.php?timestamp=1708082880",
         "date": "2024/02/16 19:28",
         "department": "管理學院",
-        "author": "洄瀾共好大學社會責任中心"
+        "author": {
+            "department": "管理學院",
+            "name": "洄瀾共好大學社會責任中心",
+            "email": "techusr@gms.ndhu.edu.tw",
+            "phone": "3771"
+        },
+        "attachmentCount": 0
     },
     {
         "title": "【徵聘教師公告】國立東華大學企業管理學系暨運籌管理研究所徵聘專任教師1名",
@@ -85,7 +145,13 @@
         "url": "mail_display.php?timestamp=1707969768",
         "date": "2024/02/15 12:02",
         "department": "企業管理學系",
-        "author": "莊巧萍"
+        "author": {
+            "department": "企業管理學系",
+            "name": "莊巧萍",
+            "email": "cpjuang@gms.ndhu.edu.tw",
+            "phone": "03-8903013"
+        },
+        "attachmentCount": 4
     },
     {
         "title": "【第二位新聘教師第1次公告】國立東華大學幼兒教育學系徵聘專任助理教授（含）以上1名(即日起至113年3月22日止)",
@@ -93,7 +159,13 @@
         "url": "mail_display.php?timestamp=1707268776",
         "date": "2024/02/07 09:19",
         "department": "幼兒教育學系",
-        "author": "饒小姐"
+        "author": {
+            "department": "幼兒教育學系",
+            "name": "饒小姐",
+            "email": "afeng3836@gms.ndhu.edu.tw",
+            "phone": "03-8903892"
+        },
+        "attachmentCount": 4
     },
     {
         "title": "【替代役評選訊息】文化部辦理113年文化獎項及電子競技專長類別替代役評選作業規定公告、報名表、切結書公告",
@@ -101,7 +173,13 @@
         "url": "mail_display.php?timestamp=1707190796",
         "date": "2024/02/06 11:39",
         "department": "學務處生活輔導組",
-        "author": "黃勇程"
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "038906225"
+        },
+        "attachmentCount": 3
     },
     {
         "title": "【ROTC招生訊息】 國防部1 1 3 年大學儲備軍官訓練團第2梯次甄選(招生)公告",
@@ -109,7 +187,13 @@
         "url": "mail_display.php?timestamp=1707189807",
         "date": "2024/02/06 11:23",
         "department": "學務處生活輔導組",
-        "author": "黃勇程"
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "038906216"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "【徴聘教師】國立東華大學生命科學系徴聘專任教師一名(收件至3/8)",
@@ -117,6 +201,12 @@
         "url": "mail_display.php?timestamp=1707125908",
         "date": "2024/02/05 17:38",
         "department": "生命科學系",
-        "author": "元淑英"
+        "author": {
+            "department": "生命科學系",
+            "name": "元淑英",
+            "email": "syyuan@gms.ndhu.edu.tw",
+            "phone": "(03)890-3632"
+        },
+        "attachmentCount": 1
     }
 ]

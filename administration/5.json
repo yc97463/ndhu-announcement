@@ -5,7 +5,13 @@
         "url": "mail_display.php?timestamp=1720597229",
         "date": "2024/07/10 15:40",
         "department": "圖書資訊處網路管理組",
-        "author": "李宇峰"
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "李宇峰",
+            "email": "eric@mail.ndhu.edu.tw",
+            "phone": "038906721"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "【再次提醒！】0403震災救護、安置獎勵核發，請師資培育中心儘速派員至行政大樓416人事室領取。",
@@ -13,7 +19,13 @@
         "url": "mail_display.php?timestamp=1720589866",
         "date": "2024/07/10 13:37",
         "department": "人事室",
-        "author": "陳美杏"
+        "author": {
+            "department": "人事室",
+            "name": "陳美杏",
+            "email": "msing@gms.ndhu.edu.tw",
+            "phone": "6053"
+        },
+        "attachmentCount": 0
     },
     {
         "title": "擴大行政會議 會議紀錄公告通知",
@@ -21,7 +33,13 @@
         "url": "mail_display.php?timestamp=1720585539",
         "date": "2024/07/10 12:25",
         "department": "秘書室議事公文組",
-        "author": "陳婉婉"
+        "author": {
+            "department": "秘書室議事公文組",
+            "name": "陳婉婉",
+            "email": "secretariat@gms.ndhu.edu.tw",
+            "phone": "6004"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "113年度校區內客貨電梯進行月保養排程通告 7 月保養",
@@ -29,7 +47,13 @@
         "url": "mail_display.php?timestamp=1720576487",
         "date": "2024/07/10 09:54",
         "department": "總務處營繕組",
-        "author": "劉宏銘"
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
     },
     {
         "title": "【校園防疫宣導】防蚊蟲小黑蚊、登革熱",
@@ -37,7 +61,13 @@
         "url": "mail_display.php?timestamp=1720570236",
         "date": "2024/07/10 08:10",
         "department": "學務處衛生保健組",
-        "author": "王惠貞"
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 4
     },
     {
         "title": "國內新冠及流感例仍多，提醒您請注意身體健康狀況~",
@@ -45,7 +75,13 @@
         "url": "mail_display.php?timestamp=1720507229",
         "date": "2024/07/09 14:40",
         "department": "學務處衛生保健組",
-        "author": "王惠貞"
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 0
     },
     {
         "title": "【取消施工】人社一館第一講堂頂樓涼亭遷移至詩經花園工程施工公告(7/09~7/10)",
@@ -53,7 +89,13 @@
         "url": "mail_display.php?timestamp=1720502036",
         "date": "2024/07/09 13:13",
         "department": "人文社會科學學院",
-        "author": "吳雅萍"
+        "author": {
+            "department": "人文社會科學學院",
+            "name": "吳雅萍",
+            "email": "ypwu@gms.ndhu.edu.tw",
+            "phone": "03-8905253"
+        },
+        "attachmentCount": 0
     },
     {
         "title": "理工一館電梯2控制系統更換作業停用公告",
@@ -61,7 +103,13 @@
         "url": "mail_display.php?timestamp=1720485311",
         "date": "2024/07/09 08:35",
         "department": "總務處營繕組",
-        "author": "劉宏銘"
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
     },
     {
         "title": "人社一館第一講堂頂樓涼亭遷移至詩經花園工程施工公告(7/09~7/10)",
@@ -69,7 +117,13 @@
         "url": "mail_display.php?timestamp=1720435810",
         "date": "2024/07/08 18:50",
         "department": "人文社會科學學院",
-        "author": "吳雅萍"
+        "author": {
+            "department": "人文社會科學學院",
+            "name": "吳雅萍",
+            "email": "ypwu@gms.ndhu.edu.tw",
+            "phone": "03-8935253"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "人社一館第一講堂頂樓防水工程施工第2次公告(7/08~7/19)",
@@ -77,7 +131,13 @@
         "url": "mail_display.php?timestamp=1720325856",
         "date": "2024/07/07 12:17",
         "department": "人文社會科學學院",
-        "author": "吳雅萍"
+        "author": {
+            "department": "人文社會科學學院",
+            "name": "吳雅萍",
+            "email": "ypwu@gms.ndhu.edu.tw",
+            "phone": "03-8635253"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "學人宿舍區修剪樹木及清理天溝作業公告",
@@ -85,7 +145,13 @@
         "url": "mail_display.php?timestamp=1720161709",
         "date": "2024/07/05 14:41",
         "department": "總務處環境保護組",
-        "author": "賴宜萱"
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "賴宜萱",
+            "email": "lai0210@gms.ndhu.edu.tw",
+            "phone": "6393"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "113年暑假壽豐校區高壓設備檢測規劃停電時程(07/08~07/26)公告(第2次公告)",
@@ -93,7 +159,13 @@
         "url": "mail_display.php?timestamp=1720064638",
         "date": "2024/07/04 11:43",
         "department": "總務處營繕組",
-        "author": "劉景富"
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉景富",
+            "email": "nickak@gms.ndhu.edu.tw",
+            "phone": "890-6373"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "114學年度新增校核心通識課程申請作業",
@@ -101,7 +173,13 @@
         "url": "mail_display.php?timestamp=1720054958",
         "date": "2024/07/04 09:02",
         "department": "通識教育中心",
-        "author": "陳美娥"
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "8906607"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "藝術學院階梯教室(A104)暫停借用",
@@ -109,7 +187,13 @@
         "url": "mail_display.php?timestamp=1719997989",
         "date": "2024/07/03 17:13",
         "department": "藝術學院",
-        "author": "黃小姐"
+        "author": {
+            "department": "藝術學院",
+            "name": "黃小姐",
+            "email": "syuan7517@gms.ndhu.edu.tw",
+            "phone": "5103"
+        },
+        "attachmentCount": 0
     },
     {
         "title": "【重申】請各單位注意相關規範，配合落實填報[赴陸教育交流活動]",
@@ -117,6 +201,12 @@
         "url": "mail_display.php?timestamp=1719995705",
         "date": "2024/07/03 16:35",
         "department": "國際事務處國際學生組",
-        "author": "陳良愛"
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 2
     }
 ]

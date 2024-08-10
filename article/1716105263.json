@@ -1,11 +1,26 @@
-[
-    {
-        "title": "永齡希望小學課輔工作線上介紹既課輔老師招募",
-        "timestamp": "1716105263",
-        "url": "mail_display.php?timestamp=1716105263",
-        "date": "2024/05/19 15:54",
+{
+    "title": "永齡希望小學課輔工作線上介紹既課輔老師招募",
+    "timestamp": "1716105263",
+    "url": "mail_display.php?timestamp=1716105263",
+    "date": "2024/05/19 15:54",
+    "department": "環境學院",
+    "author": {
         "department": "環境學院",
-        "author": "潘百原",
-        "content": "\u003cdiv class=\"column1-unit\"\u003e\n\n\u003c!--  信件內容   --\u003e\n\u003cpre\u003e分類： 人事徵才\n來源： 環境學院 - 潘百原 - undredpan@gmail.com - 電話6667\n對象： 全校學生\n標題： 永齡希望小學課輔工作線上介紹既課輔老師招募\n日期： Sun, 19 May 2024 15:54:23 +0800\n\u003c/pre\u003e\u003chr class=\"clear-contentunit\"/\u003e\u003cpre\u003e🏫永齡希望小學東華分校🏫\n👩‍🏫113-1學期課輔老師招募👨‍🏫\n-\n🙋‍♀️永齡的課輔工作是怎麼進行的呢？\n🎁照過來照過來～來看看這個影片有沒有幫你解惑！ \u003ca href=\"https://www.facebook.com/hopschool.ndhu/videos/493275909938644/\" target=\"_blank\"\u003ehttps://www.facebook.com/hopschool.ndhu/videos/493275909938644/\u003c/a\u003e\n-\n✏️招募面試場次已經開跑囉\n✏️還在觀望的朋友們趕快填寫報名表喔\n-\n報名表單連結：\n\u003ca href=\"https://reurl.cc/NQRlY5\" target=\"_blank\"\u003ehttps://reurl.cc/NQRlY5\u003c/a\u003e\u003c/pre\u003e\n\t\t\n\u003c/div\u003e"
-    }
-]
+        "name": "潘百原",
+        "email": "undredpan@gmail.com",
+        "phone": "6667"
+    },
+    "content": "\u003cdiv class=\"column1-unit\"\u003e\n\n\u003c!--  信件內容   --\u003e\n\u003cpre\u003e分類： 人事徵才\n來源： 環境學院 - 潘百原 - undredpan@gmail.com - 電話6667\n對象： 全校學生\n標題： 永齡希望小學課輔工作線上介紹既課輔老師招募\n日期： Sun, 19 May 2024 15:54:23 +0800\n\u003c/pre\u003e\u003chr class=\"clear-contentunit\"/\u003e\u003cpre\u003e🏫永齡希望小學東華分校🏫\n👩‍🏫113-1學期課輔老師招募👨‍🏫\n-\n🙋‍♀️永齡的課輔工作是怎麼進行的呢？\n🎁照過來照過來～來看看這個影片有沒有幫你解惑！ \u003ca href=\"https://www.facebook.com/hopschool.ndhu/videos/493275909938644/\" target=\"_blank\"\u003ehttps://www.facebook.com/hopschool.ndhu/videos/493275909938644/\u003c/a\u003e\n-\n✏️招募面試場次已經開跑囉\n✏️還在觀望的朋友們趕快填寫報名表喔\n-\n報名表單連結：\n\u003ca href=\"https://reurl.cc/NQRlY5\" target=\"_blank\"\u003ehttps://reurl.cc/NQRlY5\u003c/a\u003e\u003c/pre\u003e\n\t\t\n\u003c/div\u003e",
+    "attachments": [
+        {
+            "fileName": "https://www.facebook.com/hopschool.ndhu/videos/493275909938644/",
+            "fileSize": "-\n✏️招募面試場次已經開跑囉\n✏️還在觀望的朋友們趕快填寫報名表喔\n-\n報名表單連結：",
+            "fileURL": "https://www.facebook.com/hopschool.ndhu/videos/493275909938644/"
+        },
+        {
+            "fileName": "https://reurl.cc/NQRlY5",
+            "fileSize": "-\n✏️招募面試場次已經開跑囉\n✏️還在觀望的朋友們趕快填寫報名表喔\n-\n報名表單連結：",
+            "fileURL": "https://reurl.cc/NQRlY5"
+        }
+    ]
+}

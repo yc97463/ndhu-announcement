@@ -1,11 +1,31 @@
-[
-    {
-        "title": "【課務組】113年暑期課程表（報名時間，詳見課程說明）",
-        "timestamp": "1715820757",
-        "url": "mail_display.php?timestamp=1715820757",
-        "date": "2024/05/16 08:52",
+{
+    "title": "【課務組】113年暑期課程表（報名時間，詳見課程說明）",
+    "timestamp": "1715820757",
+    "url": "mail_display.php?timestamp=1715820757",
+    "date": "2024/05/16 08:52",
+    "department": "教務處課務組",
+    "author": {
         "department": "教務處課務組",
-        "author": "宋育縈",
-        "content": "\u003cdiv class=\"column1-unit\"\u003e\n\n\u003c!--  信件內容   --\u003e\n\u003cpre\u003e分類： 行政公告, 課程公告, 招生公告\n來源： 教務處課務組 - 宋育縈 - suz@gms.ndhu.edu.tw - 電話分機6122~6126\n對象： 大一_大二_大三_大四以上_碩士生\n標題： 【課務組】113年暑期課程表（報名時間，詳見課程說明）\n日期： Thu, 16 May 2024 08:52:37 +0800\n\u003c/pre\u003e\u003chr class=\"clear-contentunit\"/\u003e\u003cpre\u003e親愛的同學，大家好:\n★暑假選修本校課程注意事項:\n請參閱：本校「暑期開班授課實施辦法」\u003ca href=\"https://aa.ndhu.edu.tw/p/406-1004-14805,r5136.php\" target=\"_blank\"\u003ehttps://aa.ndhu.edu.tw/p/406-1004-14805,r5136.php\u003c/a\u003e\n休學或已達退學標準之學生不得修習暑期課程。\n外校學生修習本校之暑期課程，請依校際選課方式辦理。\n若有課程內容與報名問題，請洽詢課程聯絡人。\n\n★本校今(113)年暑期課程表，請詳閱 \u003ca href=\"https://aa.ndhu.edu.tw/p/406-1004-223749,r1064.php\" target=\"_blank\"\u003ehttps://aa.ndhu.edu.tw/p/406-1004-223749,r1064.php\u003c/a\u003e\n\n暑期修讀小教學程者，課程訊息請逕至師資培育中心網頁查詢\n， 網址如下：\u003ca href=\"https://littletree.ndhu.edu.tw/\" target=\"_blank\"\u003ehttps://littletree.ndhu.edu.tw/\u003c/a\u003e ， 如有相關問題請洽詢陳小姐（TEL：03-8906636）。\u003c/pre\u003e\n\t\t\n\u003c/div\u003e"
-    }
-]
+        "name": "宋育縈",
+        "email": "suz@gms.ndhu.edu.tw",
+        "phone": "分機6122~6126"
+    },
+    "content": "\u003cdiv class=\"column1-unit\"\u003e\n\n\u003c!--  信件內容   --\u003e\n\u003cpre\u003e分類： 行政公告, 課程公告, 招生公告\n來源： 教務處課務組 - 宋育縈 - suz@gms.ndhu.edu.tw - 電話分機6122~6126\n對象： 大一_大二_大三_大四以上_碩士生\n標題： 【課務組】113年暑期課程表（報名時間，詳見課程說明）\n日期： Thu, 16 May 2024 08:52:37 +0800\n\u003c/pre\u003e\u003chr class=\"clear-contentunit\"/\u003e\u003cpre\u003e親愛的同學，大家好:\n★暑假選修本校課程注意事項:\n請參閱：本校「暑期開班授課實施辦法」\u003ca href=\"https://aa.ndhu.edu.tw/p/406-1004-14805,r5136.php\" target=\"_blank\"\u003ehttps://aa.ndhu.edu.tw/p/406-1004-14805,r5136.php\u003c/a\u003e\n休學或已達退學標準之學生不得修習暑期課程。\n外校學生修習本校之暑期課程，請依校際選課方式辦理。\n若有課程內容與報名問題，請洽詢課程聯絡人。\n\n★本校今(113)年暑期課程表，請詳閱 \u003ca href=\"https://aa.ndhu.edu.tw/p/406-1004-223749,r1064.php\" target=\"_blank\"\u003ehttps://aa.ndhu.edu.tw/p/406-1004-223749,r1064.php\u003c/a\u003e\n\n暑期修讀小教學程者，課程訊息請逕至師資培育中心網頁查詢\n， 網址如下：\u003ca href=\"https://littletree.ndhu.edu.tw/\" target=\"_blank\"\u003ehttps://littletree.ndhu.edu.tw/\u003c/a\u003e ， 如有相關問題請洽詢陳小姐（TEL：03-8906636）。\u003c/pre\u003e\n\t\t\n\u003c/div\u003e",
+    "attachments": [
+        {
+            "fileName": "https://aa.ndhu.edu.tw/p/406-1004-14805,r5136.php",
+            "fileSize": "， 如有相關問題請洽詢陳小姐（TEL：03-8906636）。",
+            "fileURL": "https://aa.ndhu.edu.tw/p/406-1004-14805,r5136.php"
+        },
+        {
+            "fileName": "https://aa.ndhu.edu.tw/p/406-1004-223749,r1064.php",
+            "fileSize": "， 如有相關問題請洽詢陳小姐（TEL：03-8906636）。",
+            "fileURL": "https://aa.ndhu.edu.tw/p/406-1004-223749,r1064.php"
+        },
+        {
+            "fileName": "https://littletree.ndhu.edu.tw/",
+            "fileSize": "， 如有相關問題請洽詢陳小姐（TEL：03-8906636）。",
+            "fileURL": "https://littletree.ndhu.edu.tw/"
+        }
+    ]
+}

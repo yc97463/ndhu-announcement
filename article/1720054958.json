@@ -1,11 +1,21 @@
-[
-    {
-        "title": "114學年度新增校核心通識課程申請作業",
-        "timestamp": "1720054958",
-        "url": "mail_display.php?timestamp=1720054958",
-        "date": "2024/07/04 09:02",
+{
+    "title": "114學年度新增校核心通識課程申請作業",
+    "timestamp": "1720054958",
+    "url": "mail_display.php?timestamp=1720054958",
+    "date": "2024/07/04 09:02",
+    "department": "通識教育中心",
+    "author": {
         "department": "通識教育中心",
-        "author": "陳美娥",
-        "content": "\u003cdiv class=\"column1-unit\"\u003e\n\n\u003c!--  信件內容   --\u003e\n\u003cpre\u003e分類： 行政公告, 課程公告\n來源： 通識教育中心 - 陳美娥 - mayer@gms.ndhu.edu.tw - 電話8906607\n對象： 全校教職員\n標題： 114學年度新增校核心通識課程申請作業\n日期： Thu, 4 Jul 2024 09:02:38 +0800\n附檔： \u003ca href=\"./message_7/1720054958/%E6%A0%A1%E6%A0%B8%E5%BF%83%E9%80%9A%E8%AD%98%E8%AA%B2%E7%B6%B1.docx\" target=\"_blank\"\u003e校核心通識課綱.docx\u003c/a\u003e (41 KB)   \u003c/pre\u003e\u003chr class=\"clear-contentunit\"/\u003e\u003cpre\u003e各位師長好:\n本中心為提升校核心通識課程之教學品質，有關新增課程之申請，將進行課綱外審作業，為利後續課綱審查作業，申請作業將提前進行，有意願於114學年度（包含114-1及114-2學期開設之課程）新開設校核心通識課程之師長，敬請於113年9月9日(一)前將課綱資料回傳本中心（詳如附件，為利審查作業，課綱內容務請詳填），俾利後續提送外審作業，逾期未提送申請者，將無法開設新增之課程，造成不便，敬請見諒！\n\n\n　　　　　　　　　　　　　　　　　　通識教育中心　　　敬　啟\n　　　　　　　　　　　　　　　　　　聯絡人:陳美娥\n                                                    電郵:mayer@gms.ndhu.edu.tw\n                                                     電話:03-8906607\n\u003c/pre\u003e\n\t\t\n\u003c/div\u003e"
-    }
-]
+        "name": "陳美娥",
+        "email": "mayer@gms.ndhu.edu.tw",
+        "phone": "8906607"
+    },
+    "content": "\u003cdiv class=\"column1-unit\"\u003e\n\n\u003c!--  信件內容   --\u003e\n\u003cpre\u003e分類： 行政公告, 課程公告\n來源： 通識教育中心 - 陳美娥 - mayer@gms.ndhu.edu.tw - 電話8906607\n對象： 全校教職員\n標題： 114學年度新增校核心通識課程申請作業\n日期： Thu, 4 Jul 2024 09:02:38 +0800\n附檔： \u003ca href=\"./message_7/1720054958/%E6%A0%A1%E6%A0%B8%E5%BF%83%E9%80%9A%E8%AD%98%E8%AA%B2%E7%B6%B1.docx\" target=\"_blank\"\u003e校核心通識課綱.docx\u003c/a\u003e (41 KB)   \u003c/pre\u003e\u003chr class=\"clear-contentunit\"/\u003e\u003cpre\u003e各位師長好:\n本中心為提升校核心通識課程之教學品質，有關新增課程之申請，將進行課綱外審作業，為利後續課綱審查作業，申請作業將提前進行，有意願於114學年度（包含114-1及114-2學期開設之課程）新開設校核心通識課程之師長，敬請於113年9月9日(一)前將課綱資料回傳本中心（詳如附件，為利審查作業，課綱內容務請詳填），俾利後續提送外審作業，逾期未提送申請者，將無法開設新增之課程，造成不便，敬請見諒！\n\n\n　　　　　　　　　　　　　　　　　　通識教育中心　　　敬　啟\n　　　　　　　　　　　　　　　　　　聯絡人:陳美娥\n                                                    電郵:mayer@gms.ndhu.edu.tw\n                                                     電話:03-8906607\n\u003c/pre\u003e\n\t\t\n\u003c/div\u003e",
+    "attachments": [
+        {
+            "fileName": "校核心通識課綱.docx",
+            "fileSize": "(41 KB)",
+            "fileURL": "./message_7/1720054958/%E6%A0%A1%E6%A0%B8%E5%BF%83%E9%80%9A%E8%AD%98%E8%AA%B2%E7%B6%B1.docx"
+        }
+    ]
+}

@@ -1,11 +1,15 @@
-[
-    {
-        "title": "8月7日上午10-11時壽豐消防隊於環境學院進行消防演練",
-        "timestamp": "1722785166",
-        "url": "mail_display.php?timestamp=1722785166",
-        "date": "2024/08/04 23:26",
+{
+    "title": "8月7日上午10-11時壽豐消防隊於環境學院進行消防演練",
+    "timestamp": "1722785166",
+    "url": "mail_display.php?timestamp=1722785166",
+    "date": "2024/08/04 23:26",
+    "department": "總務處營繕組",
+    "author": {
         "department": "總務處營繕組",
-        "author": "賴名塑",
-        "content": "\u003cdiv class=\"column1-unit\"\u003e\n\n\u003c!--  信件內容   --\u003e\n\u003cpre\u003e分類： 行政公告\n來源： 總務處營繕組 - 賴名塑 - a54604@gms.ndhu.edu.tw - 電話8906378\n對象： 全校教職員_全校學生\n標題： 8月7日上午10-11時壽豐消防隊於環境學院進行消防演練\n日期： Sun, 4 Aug 2024 23:26:06 +0800\n\u003c/pre\u003e\u003chr class=\"clear-contentunit\"/\u003e\u003cpre\u003e一、壽豐消防隊為實地了解本校各棟建築物緊急救災動線及測試消防設施，本次擇定環境學院進行消防演練。\n二、消防演練動線範圍為建築物主要出口、室外走廊及建物入口右外側送水口處，演練期間需佈設水線等，不便之處敬請見諒。\n\n總務處營繕組 敬啟\n\u003c/pre\u003e\n\t\t\n\u003c/div\u003e"
-    }
-]
+        "name": "賴名塑",
+        "email": "a54604@gms.ndhu.edu.tw",
+        "phone": "8906378"
+    },
+    "content": "\u003cdiv class=\"column1-unit\"\u003e\n\n\u003c!--  信件內容   --\u003e\n\u003cpre\u003e分類： 行政公告\n來源： 總務處營繕組 - 賴名塑 - a54604@gms.ndhu.edu.tw - 電話8906378\n對象： 全校教職員_全校學生\n標題： 8月7日上午10-11時壽豐消防隊於環境學院進行消防演練\n日期： Sun, 4 Aug 2024 23:26:06 +0800\n\u003c/pre\u003e\u003chr class=\"clear-contentunit\"/\u003e\u003cpre\u003e一、壽豐消防隊為實地了解本校各棟建築物緊急救災動線及測試消防設施，本次擇定環境學院進行消防演練。\n二、消防演練動線範圍為建築物主要出口、室外走廊及建物入口右外側送水口處，演練期間需佈設水線等，不便之處敬請見諒。\n\n總務處營繕組 敬啟\n\u003c/pre\u003e\n\t\t\n\u003c/div\u003e",
+    "attachments": null
+}

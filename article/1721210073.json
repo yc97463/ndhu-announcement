@@ -1,11 +1,15 @@
-[
-    {
-        "title": "教學卓越中心報名系統停止服務",
-        "timestamp": "1721210073",
-        "url": "mail_display.php?timestamp=1721210073",
-        "date": "2024/07/17 17:54",
+{
+    "title": "教學卓越中心報名系統停止服務",
+    "timestamp": "1721210073",
+    "url": "mail_display.php?timestamp=1721210073",
+    "date": "2024/07/17 17:54",
+    "department": "教學卓越中心",
+    "author": {
         "department": "教學卓越中心",
-        "author": "王立凡",
-        "content": "\u003cdiv class=\"column1-unit\"\u003e\n\n\u003c!--  信件內容   --\u003e\n\u003cpre\u003e分類： 其他公告\n來源： 教學卓越中心 - 王立凡 - lfwang@gms.ndhu.edu.tw - 電話038906422\n對象： 全校教職員_全校學生\n標題： 教學卓越中心報名系統停止服務\n日期： Wed, 17 Jul 2024 17:54:33 +0800\n\u003c/pre\u003e\u003chr class=\"clear-contentunit\"/\u003e\u003cpre\u003e親愛的教職員生您好\n\n教學卓越中心報名系統因故需停止服務，造成不便敬請見諒。\n\n如有疑問請聯絡王立凡助理，分機6422。\u003c/pre\u003e\n\t\t\n\u003c/div\u003e"
-    }
-]
+        "name": "王立凡",
+        "email": "lfwang@gms.ndhu.edu.tw",
+        "phone": "038906422"
+    },
+    "content": "\u003cdiv class=\"column1-unit\"\u003e\n\n\u003c!--  信件內容   --\u003e\n\u003cpre\u003e分類： 其他公告\n來源： 教學卓越中心 - 王立凡 - lfwang@gms.ndhu.edu.tw - 電話038906422\n對象： 全校教職員_全校學生\n標題： 教學卓越中心報名系統停止服務\n日期： Wed, 17 Jul 2024 17:54:33 +0800\n\u003c/pre\u003e\u003chr class=\"clear-contentunit\"/\u003e\u003cpre\u003e親愛的教職員生您好\n\n教學卓越中心報名系統因故需停止服務，造成不便敬請見諒。\n\n如有疑問請聯絡王立凡助理，分機6422。\u003c/pre\u003e\n\t\t\n\u003c/div\u003e",
+    "attachments": null
+}

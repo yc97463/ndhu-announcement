@@ -5,7 +5,13 @@
         "url": "mail_display.php?timestamp=1723082248",
         "date": "2024/08/08 09:57",
         "department": "總務處營繕組",
-        "author": "張宗豪"
+        "author": {
+            "department": "總務處營繕組",
+            "name": "張宗豪",
+            "email": "Zonghao@gms.ndhu.edu.tw",
+            "phone": "6389"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "壽豐校區體育館空調設備汰換施工公告",
@@ -13,7 +19,13 @@
         "url": "mail_display.php?timestamp=1723078334",
         "date": "2024/08/08 08:52",
         "department": "總務處營繕組",
-        "author": "劉景富"
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉景富",
+            "email": "nickak@gms.ndhu.edu.tw",
+            "phone": "03-8906373"
+        },
+        "attachmentCount": 0
     },
     {
         "title": "【獎助學金申請】南投縣113-1清寒優秀學生獎學金 (限南投縣籍)",
@@ -21,7 +33,13 @@
         "url": "mail_display.php?timestamp=1723045653",
         "date": "2024/08/07 23:47",
         "department": "學務處",
-        "author": "葉俊良"
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "【獎助學金申請】台南市112-2清寒優秀學生獎學金 (限台南市籍)",
@@ -29,7 +47,13 @@
         "url": "mail_display.php?timestamp=1723042189",
         "date": "2024/08/07 22:49",
         "department": "學務處",
-        "author": "葉俊良"
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "【論文獎助】台灣客家研究學會2024年「客家研究優秀博碩士論文獎」",
@@ -37,7 +61,13 @@
         "url": "mail_display.php?timestamp=1723036485",
         "date": "2024/08/07 21:14",
         "department": "學務處",
-        "author": "葉俊良"
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "圖書館論文系統恢復使用 The library's e-thesis/dissertations system is working",
@@ -45,7 +75,13 @@
         "url": "mail_display.php?timestamp=1723029878",
         "date": "2024/08/07 19:24",
         "department": "圖書資訊處圖資服務組",
-        "author": "簡民享"
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "簡民享",
+            "email": "jms@gms.ndhu.edu.tw",
+            "phone": "6842"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "【人事室公告】因北迴鐵路已通車，故即日起東人字第1130017404號函停止適用。",
@@ -53,7 +89,13 @@
         "url": "mail_display.php?timestamp=1723026138",
         "date": "2024/08/07 18:22",
         "department": "人事室",
-        "author": "劉依虹"
+        "author": {
+            "department": "人事室",
+            "name": "劉依虹",
+            "email": "joyce_liu@gms.ndhu.edu.tw",
+            "phone": "6060"
+        },
+        "attachmentCount": 0
     },
     {
         "title": "【轉知】113年度第3梯次全國技術士技能檢定學(術)科測試報名作業說明會",
@@ -61,7 +103,13 @@
         "url": "mail_display.php?timestamp=1723024698",
         "date": "2024/08/07 17:58",
         "department": "學務處畢業生及校友服務組",
-        "author": "黃文雯"
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 4
     },
     {
         "title": "📢113年度【「Spii 從東海岸起飛」原住民族廣播電台人才培育工作坊】開放報名啦🔥🔥",
@@ -69,7 +117,13 @@
         "url": "mail_display.php?timestamp=1723023272",
         "date": "2024/08/07 17:34",
         "department": "原住民民族學院",
-        "author": "巴莉亞妲．蘇利伊"
+        "author": {
+            "department": "原住民民族學院",
+            "name": "巴莉亞妲．蘇利伊",
+            "email": "damu@gms.ndhu.edu.tw",
+            "phone": "5824"
+        },
+        "attachmentCount": 4
     },
     {
         "title": "國立東華大學理工學院國際學士班徵聘計畫助理一名",
@@ -77,7 +131,13 @@
         "url": "mail_display.php?timestamp=1723015422",
         "date": "2024/08/07 15:23",
         "department": "理工學院",
-        "author": "潘小姐"
+        "author": {
+            "department": "理工學院",
+            "name": "潘小姐",
+            "email": "tzuyu@gms.ndhu.edu.tw",
+            "phone": "3502"
+        },
+        "attachmentCount": 0
     },
     {
         "title": "【傑出校友選拔】臺中市立臺中第二高級中等學校102校慶辦理傑出校友表揚，敬請本校協助轉知所屬並鼓勵該校校友踴躍報名參加遴選。",
@@ -85,7 +145,13 @@
         "url": "mail_display.php?timestamp=1723013894",
         "date": "2024/08/07 14:58",
         "department": "人事室",
-        "author": "陳美杏"
+        "author": {
+            "department": "人事室",
+            "name": "陳美杏",
+            "email": "msing@gms.ndhu.edu.tw",
+            "phone": "6053"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "【單身聯誼】國立中興大學辦理113年「中興有你，約定幸福見」單身聯誼活動，歡迎單身男女踴躍參加。",
@@ -93,7 +159,13 @@
         "url": "mail_display.php?timestamp=1723013399",
         "date": "2024/08/07 14:49",
         "department": "人事室",
-        "author": "陳美杏"
+        "author": {
+            "department": "人事室",
+            "name": "陳美杏",
+            "email": "msing@gms.ndhu.edu.tw",
+            "phone": "6053"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "【轉知】社團法人中華專業人才協會謹訂八、九月份舉辦培訓計畫，歡迎「財務、出納、人資、管理部門」同仁參加。",
@@ -101,7 +173,13 @@
         "url": "mail_display.php?timestamp=1723013011",
         "date": "2024/08/07 14:43",
         "department": "人事室",
-        "author": "陳美杏"
+        "author": {
+            "department": "人事室",
+            "name": "陳美杏",
+            "email": "msing@gms.ndhu.edu.tw",
+            "phone": "6053"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "113-1學期校園環境中心服務學習計畫將於8/12開始報名",
@@ -109,7 +187,13 @@
         "url": "mail_display.php?timestamp=1723010415",
         "date": "2024/08/07 14:00",
         "department": "環境學院",
-        "author": "程曦"
+        "author": {
+            "department": "環境學院",
+            "name": "程曦",
+            "email": "chengc831004@gms.ndhu.edu.tw",
+            "phone": "03-8903322"
+        },
+        "attachmentCount": 3
     },
     {
         "title": "【徵才】國立東華大學能源科技中心 誠徵教育部計畫專任研究助理",
@@ -117,6 +201,12 @@
         "url": "mail_display.php?timestamp=1723009170",
         "date": "2024/08/07 13:39",
         "department": "能源科技中心",
-        "author": "吳慈憶"
+        "author": {
+            "department": "能源科技中心",
+            "name": "吳慈憶",
+            "email": "algar0905@gms.ndhu.edu.tw",
+            "phone": "8903688"
+        },
+        "attachmentCount": 0
     }
 ]

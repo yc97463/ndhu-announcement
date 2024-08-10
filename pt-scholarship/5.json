@@ -5,7 +5,13 @@
         "url": "mail_display.php?timestamp=1716778514",
         "date": "2024/05/27 10:55",
         "department": "學務處",
-        "author": "葉俊良"
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "【獎助學金申請】羅慧夫顱顏基金會113年得福獎助學金",
@@ -13,7 +19,13 @@
         "url": "mail_display.php?timestamp=1716776192",
         "date": "2024/05/27 10:16",
         "department": "學務處",
-        "author": "葉俊良"
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "【獎助學金申請】平安菁英教育基金會113-1平安及菁英獎學金",
@@ -21,7 +33,13 @@
         "url": "mail_display.php?timestamp=1716773919",
         "date": "2024/05/27 09:38",
         "department": "學務處",
-        "author": "葉俊良"
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "轉教育部青年發展署「113 年青年海外度假打工宣導會」報名簡章",
@@ -29,7 +47,13 @@
         "url": "mail_display.php?timestamp=1716442043",
         "date": "2024/05/23 13:27",
         "department": "學務處生活輔導組",
-        "author": "王文和"
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "王文和",
+            "email": "rlawwh@gms.ndhu.edu.tw",
+            "phone": "分機6221"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "【實習】資策會執行「DIGI+強化在地人才交流與數位培力計畫」實習生遴選",
@@ -37,7 +61,13 @@
         "url": "mail_display.php?timestamp=1716429597",
         "date": "2024/05/23 09:59",
         "department": "研發處",
-        "author": "洪乃慈"
+        "author": {
+            "department": "研發處",
+            "name": "洪乃慈",
+            "email": "naitzu@gms.ndhu.edu.tw",
+            "phone": "6523"
+        },
+        "attachmentCount": 3
     },
     {
         "title": "【論文獎助】陳永泰公益信託2024年「傳善論文獎」",
@@ -45,7 +75,13 @@
         "url": "mail_display.php?timestamp=1716363578",
         "date": "2024/05/22 15:39",
         "department": "學務處",
-        "author": "葉俊良"
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "【獎助學金申請】臺灣癌症基金會暨遠雄人壽「2024癌症家庭子女獎助學金」",
@@ -53,7 +89,13 @@
         "url": "mail_display.php?timestamp=1716262005",
         "date": "2024/05/21 11:26",
         "department": "學務處",
-        "author": "葉俊良"
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "【暑期工讀招募】Garmin x 東華招募專案製造部暑期工讀生",
@@ -61,7 +103,13 @@
         "url": "mail_display.php?timestamp=1716255343",
         "date": "2024/05/21 09:35",
         "department": "學務處生活輔導組",
-        "author": "李欣憓"
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "李欣憓",
+            "email": "dora.lee@gms.ndhu.edu.tw",
+            "phone": "6218"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "【獎助學金申請】中技社「2023年科技(創意)獎學金」(大三以上)",
@@ -69,7 +117,13 @@
         "url": "mail_display.php?timestamp=1716194099",
         "date": "2024/05/20 16:34",
         "department": "學務處",
-        "author": "葉俊良"
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "【論文獎助】國立高雄師範大學經學研究所「第二十屆青年經學學術研討會」徵稿",
@@ -77,7 +131,13 @@
         "url": "mail_display.php?timestamp=1716186411",
         "date": "2024/05/20 14:26",
         "department": "學務處",
-        "author": "葉俊良"
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "【獎助學金申請】慈暉文教基金會「113年大學以上優秀清寒獎學金」(限台北市及新北市籍低收或中低收)",
@@ -85,7 +145,13 @@
         "url": "mail_display.php?timestamp=1716168776",
         "date": "2024/05/20 09:32",
         "department": "學務處",
-        "author": "葉俊良"
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "永齡希望小學東華分校課輔老師招募（第二次公告）",
@@ -93,7 +159,13 @@
         "url": "mail_display.php?timestamp=1715936088",
         "date": "2024/05/17 16:54",
         "department": "環境學院",
-        "author": "潘百原"
+        "author": {
+            "department": "環境學院",
+            "name": "潘百原",
+            "email": "undredpan@gmail.com",
+            "phone": "6667"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "Internship for PhD students - Scholarship offer",
@@ -101,7 +173,13 @@
         "url": "mail_display.php?timestamp=1715850878",
         "date": "2024/05/16 17:14",
         "department": "國際事務處國際學生組",
-        "author": "陳良愛"
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 4
     },
     {
         "title": "【轉知】113學年度「臺灣-奧地利高教科研種籽基金」獎學金計畫",
@@ -109,7 +187,13 @@
         "url": "mail_display.php?timestamp=1715758140",
         "date": "2024/05/15 15:29",
         "department": "國際事務處國際學生組",
-        "author": "陳良愛"
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "【論文獎助】國立傳統藝術中心113年度博碩士論文獎助",
@@ -117,6 +201,12 @@
         "url": "mail_display.php?timestamp=1715442590",
         "date": "2024/05/11 23:49",
         "department": "學務處",
-        "author": "葉俊良"
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
     }
 ]

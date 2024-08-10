@@ -1,11 +1,36 @@
-[
-    {
-        "title": "【海上颱風警報】「凱米颱風」海上颱風警報已於本日23時30分發布，請注意！The Central Weather Bureau Typhoon Watch Advisory #03【GAEMI】",
-        "timestamp": "1721663207",
-        "url": "mail_display.php?timestamp=1721663207",
-        "date": "2024/07/22 23:46",
+{
+    "title": "【海上颱風警報】「凱米颱風」海上颱風警報已於本日23時30分發布，請注意！The Central Weather Bureau Typhoon Watch Advisory #03【GAEMI】",
+    "timestamp": "1721663207",
+    "url": "mail_display.php?timestamp=1721663207",
+    "date": "2024/07/22 23:46",
+    "department": "學務處生活輔導組",
+    "author": {
         "department": "學務處生活輔導組",
-        "author": "林嘉瑩",
-        "content": "\u003cdiv class=\"column1-unit\"\u003e\n\n\u003c!--  信件內容   --\u003e\n\u003cpre\u003e分類： 行政公告\n來源： 學務處生活輔導組 - 林嘉瑩 - tea7101@gms.ndhu.edu.tw - 電話03-8906226\n對象： 全校教職員_全校學生\n標題： 【海上颱風警報】「凱米颱風」海上颱風警報已於本日23時30分發布，請注意！The Central Weather Bureau Typhoon Watch Advisory #03【GAEMI】\n日期： Mon, 22 Jul 2024 23:46:47 +0800\n附檔： \u003ca href=\"./message_7/1721663207/%E9%A2%B1%E9%A2%A8%E5%8B%95%E6%85%8B.png\" target=\"_blank\"\u003e颱風動態.png\u003c/a\u003e (71 KB)   \u003ca href=\"./message_7/1721663207/%E9%A2%B1%E9%A2%A8%E8%B7%AF%E5%BE%91%E6%BD%9B%E5%8B%A2%E5%9C%96.png\" target=\"_blank\"\u003e颱風路徑潛勢圖.png\u003c/a\u003e (94 KB)   \u003c/pre\u003e\u003chr class=\"clear-contentunit\"/\u003e\u003cpre\u003e親愛的師長與同學大家好：\n中央氣象局已於今(22)日23時30分發布中度颱風【凱米】海上颱風警報，根據氣象局最新觀測資料顯示，【凱米】颱風中心目前在鵝鑾鼻的東南方約 580 公里之處海面，以每小時17轉20公里速度，向北轉北北西進行移動，其暴風圈正逐漸朝巴士海峽接近，對巴士海峽及臺灣東南部、東北部海面將構成威脅。\n\n提醒本校全體師生：\n隨時注意颱風動態並提早做好防颱準備，並避免山區及溪邊、海邊等戶外活動；預定辦理(參加)戶外活動者，請密切注意颱風動態，必要時改變行程或提早結束。\n颱風最新動態請隨時留意中央氣象局網頁公告，網址:\u003ca href=\"https://www.cwa.gov.tw/V8/C/\" target=\"_blank\"\u003ehttps://www.cwa.gov.tw/V8/C/\u003c/a\u003e\n～ 學務處關心您 ～\n\nDear all\nThe Central Weather Bureau has issued Typhoon Watch Advisory #03 for Typhoon 【GAEMI】as it currently situated over waters and is quickly approaching.\nWe kindly remind our staff and students to make your storm preparations early. Also please refrain from engaging in any outdoor activities, especially in mountainous areas or any area near bodies of water. Organizers and participants of any outdoor activity/event should also very pay close attention to the path of the storm and make arrangements in advance, so that if needs be, changes in routes or ending times of the activity/event can be timely communicated.\nThe latest on the path of the storm can be accessed at any time on The Central Weather Bureau’s website from the webpage below:\n\u003ca href=\"https://www.cwa.gov.tw/V8/C/\" target=\"_blank\"\u003ehttps://www.cwa.gov.tw/V8/C/\u003c/a\u003e\n\n~The Student Living Services Divsion cares about your safety~\n\u003c/pre\u003e\u003chr/\u003ejpg、png、gif、pdf 附檔縮圖（pdf 只顯示第一頁）：\u003cp\u003e\u003c/p\u003e\u003cdiv style=\"text-align:center;display:inline-block;margin-right:20px;\"\u003e\u003ca href=\"./message_7/1721663207/%E9%A2%B1%E9%A2%A8%E5%8B%95%E6%85%8B.png\" target=\"_blank\"\u003e\u003cimg src=\"./thumb/1721663207_颱風動態.png\"/\u003e\u003c/a\u003e\u003cbr/\u003e颱風動態.png\u003c/div\u003e\u003cdiv style=\"text-align:center;display:inline-block;margin-right:20px;\"\u003e\u003ca href=\"./message_7/1721663207/%E9%A2%B1%E9%A2%A8%E8%B7%AF%E5%BE%91%E6%BD%9B%E5%8B%A2%E5%9C%96.png\" target=\"_blank\"\u003e\u003cimg src=\"./thumb/1721663207_颱風路徑潛勢圖.png\"/\u003e\u003c/a\u003e\u003cbr/\u003e颱風路徑潛勢圖.png\u003c/div\u003e\n\t\t\n\u003c/div\u003e"
-    }
-]
+        "name": "林嘉瑩",
+        "email": "tea7101@gms.ndhu.edu.tw",
+        "phone": "03-8906226"
+    },
+    "content": "\u003cdiv class=\"column1-unit\"\u003e\n\n\u003c!--  信件內容   --\u003e\n\u003cpre\u003e分類： 行政公告\n來源： 學務處生活輔導組 - 林嘉瑩 - tea7101@gms.ndhu.edu.tw - 電話03-8906226\n對象： 全校教職員_全校學生\n標題： 【海上颱風警報】「凱米颱風」海上颱風警報已於本日23時30分發布，請注意！The Central Weather Bureau Typhoon Watch Advisory #03【GAEMI】\n日期： Mon, 22 Jul 2024 23:46:47 +0800\n附檔： \u003ca href=\"./message_7/1721663207/%E9%A2%B1%E9%A2%A8%E5%8B%95%E6%85%8B.png\" target=\"_blank\"\u003e颱風動態.png\u003c/a\u003e (71 KB)   \u003ca href=\"./message_7/1721663207/%E9%A2%B1%E9%A2%A8%E8%B7%AF%E5%BE%91%E6%BD%9B%E5%8B%A2%E5%9C%96.png\" target=\"_blank\"\u003e颱風路徑潛勢圖.png\u003c/a\u003e (94 KB)   \u003c/pre\u003e\u003chr class=\"clear-contentunit\"/\u003e\u003cpre\u003e親愛的師長與同學大家好：\n中央氣象局已於今(22)日23時30分發布中度颱風【凱米】海上颱風警報，根據氣象局最新觀測資料顯示，【凱米】颱風中心目前在鵝鑾鼻的東南方約 580 公里之處海面，以每小時17轉20公里速度，向北轉北北西進行移動，其暴風圈正逐漸朝巴士海峽接近，對巴士海峽及臺灣東南部、東北部海面將構成威脅。\n\n提醒本校全體師生：\n隨時注意颱風動態並提早做好防颱準備，並避免山區及溪邊、海邊等戶外活動；預定辦理(參加)戶外活動者，請密切注意颱風動態，必要時改變行程或提早結束。\n颱風最新動態請隨時留意中央氣象局網頁公告，網址:\u003ca href=\"https://www.cwa.gov.tw/V8/C/\" target=\"_blank\"\u003ehttps://www.cwa.gov.tw/V8/C/\u003c/a\u003e\n～ 學務處關心您 ～\n\nDear all\nThe Central Weather Bureau has issued Typhoon Watch Advisory #03 for Typhoon 【GAEMI】as it currently situated over waters and is quickly approaching.\nWe kindly remind our staff and students to make your storm preparations early. Also please refrain from engaging in any outdoor activities, especially in mountainous areas or any area near bodies of water. Organizers and participants of any outdoor activity/event should also very pay close attention to the path of the storm and make arrangements in advance, so that if needs be, changes in routes or ending times of the activity/event can be timely communicated.\nThe latest on the path of the storm can be accessed at any time on The Central Weather Bureau’s website from the webpage below:\n\u003ca href=\"https://www.cwa.gov.tw/V8/C/\" target=\"_blank\"\u003ehttps://www.cwa.gov.tw/V8/C/\u003c/a\u003e\n\n~The Student Living Services Divsion cares about your safety~\n\u003c/pre\u003e\u003chr/\u003ejpg、png、gif、pdf 附檔縮圖（pdf 只顯示第一頁）：\u003cp\u003e\u003c/p\u003e\u003cdiv style=\"text-align:center;display:inline-block;margin-right:20px;\"\u003e\u003ca href=\"./message_7/1721663207/%E9%A2%B1%E9%A2%A8%E5%8B%95%E6%85%8B.png\" target=\"_blank\"\u003e\u003cimg src=\"./thumb/1721663207_颱風動態.png\"/\u003e\u003c/a\u003e\u003cbr/\u003e颱風動態.png\u003c/div\u003e\u003cdiv style=\"text-align:center;display:inline-block;margin-right:20px;\"\u003e\u003ca href=\"./message_7/1721663207/%E9%A2%B1%E9%A2%A8%E8%B7%AF%E5%BE%91%E6%BD%9B%E5%8B%A2%E5%9C%96.png\" target=\"_blank\"\u003e\u003cimg src=\"./thumb/1721663207_颱風路徑潛勢圖.png\"/\u003e\u003c/a\u003e\u003cbr/\u003e颱風路徑潛勢圖.png\u003c/div\u003e\n\t\t\n\u003c/div\u003e",
+    "attachments": [
+        {
+            "fileName": "颱風動態.png",
+            "fileSize": "(94 KB)",
+            "fileURL": "./message_7/1721663207/%E9%A2%B1%E9%A2%A8%E5%8B%95%E6%85%8B.png"
+        },
+        {
+            "fileName": "颱風路徑潛勢圖.png",
+            "fileSize": "(94 KB)",
+            "fileURL": "./message_7/1721663207/%E9%A2%B1%E9%A2%A8%E8%B7%AF%E5%BE%91%E6%BD%9B%E5%8B%A2%E5%9C%96.png"
+        },
+        {
+            "fileName": "https://www.cwa.gov.tw/V8/C/",
+            "fileSize": "~The Student Living Services Divsion cares about your safety~",
+            "fileURL": "https://www.cwa.gov.tw/V8/C/"
+        },
+        {
+            "fileName": "https://www.cwa.gov.tw/V8/C/",
+            "fileSize": "~The Student Living Services Divsion cares about your safety~",
+            "fileURL": "https://www.cwa.gov.tw/V8/C/"
+        }
+    ]
+}

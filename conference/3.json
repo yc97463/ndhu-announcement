@@ -5,7 +5,13 @@
         "url": "mail_display.php?timestamp=1715651741",
         "date": "2024/05/14 09:55",
         "department": "人文社會科學學院",
-        "author": "姜妃澤"
+        "author": {
+            "department": "人文社會科學學院",
+            "name": "姜妃澤",
+            "email": "ftc1029@gms.ndhu.edu.tw",
+            "phone": "03-8905203"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "【 計畫推薦 】113 年度 #Dreamer培訓 開放報名！巡迴說明會同步開跑！",
@@ -13,7 +19,13 @@
         "url": "mail_display.php?timestamp=1715583387",
         "date": "2024/05/13 14:56",
         "department": "社會參與中心",
-        "author": "黃小姐"
+        "author": {
+            "department": "社會參與中心",
+            "name": "黃小姐",
+            "email": "Ellie@gms.ndhu.edu.tw",
+            "phone": "5242"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "【財金系專題演講】 5/17(五) 14:00~16:00 全球經濟金融趨勢與產業發展亮點",
@@ -21,7 +33,13 @@
         "url": "mail_display.php?timestamp=1715567796",
         "date": "2024/05/13 10:36",
         "department": "財務金融學系",
-        "author": "林役霜"
+        "author": {
+            "department": "財務金融學系",
+            "name": "林役霜",
+            "email": "ys012@gms.ndhu.edu.tw",
+            "phone": "3133"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "【專題演講】臺灣系x族文系碩士班專題講座-我的跨域學習經驗：回顧二十多年的學思過程",
@@ -29,7 +47,13 @@
         "url": "mail_display.php?timestamp=1715335535",
         "date": "2024/05/10 18:05",
         "department": "臺灣文化學系",
-        "author": "唐家渝"
+        "author": {
+            "department": "臺灣文化學系",
+            "name": "唐家渝",
+            "email": "abby0528@gms.ndhu.edu.tw",
+            "phone": "038905213"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "【臺灣系x族文系碩士班】研究論文聯合發表會",
@@ -37,7 +61,13 @@
         "url": "mail_display.php?timestamp=1715333843",
         "date": "2024/05/10 17:37",
         "department": "臺灣文化學系",
-        "author": "唐家渝"
+        "author": {
+            "department": "臺灣文化學系",
+            "name": "唐家渝",
+            "email": "abby0528@gms.ndhu.edu.tw",
+            "phone": "038905213"
+        },
+        "attachmentCount": 4
     },
     {
         "title": "歷史系專題演講：清官難斷家務事：唐代法律制度與地方生活實例",
@@ -45,7 +75,13 @@
         "url": "mail_display.php?timestamp=1715139385",
         "date": "2024/05/08 11:36",
         "department": "歷史學系",
-        "author": "吳助理"
+        "author": {
+            "department": "歷史學系",
+            "name": "吳助理",
+            "email": "suju1106@gms.ndhu.edu.tw",
+            "phone": "5323"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "【法專班講座】rikec法學講座-第一次立法就上手：研擬反歧視法草案的經驗分享",
@@ -53,7 +89,13 @@
         "url": "mail_display.php?timestamp=1715068645",
         "date": "2024/05/07 15:57",
         "department": "法律學系",
-        "author": "黃助理"
+        "author": {
+            "department": "法律學系",
+            "name": "黃助理",
+            "email": "yijing@gms.ndhu.edu.tw",
+            "phone": "5663"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "【法專班講座】follow原住民族部落議題講座-原住民族文化資產V.S.原住民族傳統智慧創作",
@@ -61,7 +103,13 @@
         "url": "mail_display.php?timestamp=1715068432",
         "date": "2024/05/07 15:53",
         "department": "法律學系",
-        "author": "黃助理"
+        "author": {
+            "department": "法律學系",
+            "name": "黃助理",
+            "email": "yijing@gms.ndhu.edu.tw",
+            "phone": "5663"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "歷史系專題演講：全球化與全球南方的抵抗",
@@ -69,7 +117,13 @@
         "url": "mail_display.php?timestamp=1714980398",
         "date": "2024/05/06 15:26",
         "department": "歷史學系",
-        "author": "吳助理"
+        "author": {
+            "department": "歷史學系",
+            "name": "吳助理",
+            "email": "suju1106@gms.ndhu.edu.tw",
+            "phone": "5323"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "AI應用，你準備好了嗎？",
@@ -77,7 +131,13 @@
         "url": "mail_display.php?timestamp=1714958344",
         "date": "2024/05/06 09:19",
         "department": "研發處創新育成中心",
-        "author": "吳其璁"
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "吳其璁",
+            "email": "dci93031@gms.ndhu.edu.tw",
+            "phone": "03-8903687"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "【講座改採線上辦理】05/23〔rikec法學講座〕言論自由的界線—談仇恨性言論的管制",
@@ -85,7 +145,13 @@
         "url": "mail_display.php?timestamp=1714725232",
         "date": "2024/05/03 16:33",
         "department": "法律學系",
-        "author": "黃助理"
+        "author": {
+            "department": "法律學系",
+            "name": "黃助理",
+            "email": "yijing@gms.ndhu.edu.tw",
+            "phone": "5663"
+        },
+        "attachmentCount": 3
     },
     {
         "title": "【法專班講座】05/14-follow原住民族部落議題講座-馬遠部落遺骨返還案",
@@ -93,7 +159,13 @@
         "url": "mail_display.php?timestamp=1714724605",
         "date": "2024/05/03 16:23",
         "department": "法律學系",
-        "author": "黃助理"
+        "author": {
+            "department": "法律學系",
+            "name": "黃助理",
+            "email": "yijing@gms.ndhu.edu.tw",
+            "phone": "5663"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "05/08【華文文學講座】陳芯宜導演",
@@ -101,7 +173,13 @@
         "url": "mail_display.php?timestamp=1714715089",
         "date": "2024/05/03 13:44",
         "department": "華文文學系",
-        "author": "伍佳雯"
+        "author": {
+            "department": "華文文學系",
+            "name": "伍佳雯",
+            "email": "sl@gms.ndhu.edu.tw",
+            "phone": "＃5262"
+        },
+        "attachmentCount": 4
     },
     {
         "title": "05/06【華文系友講座】曹馭博先生、許明涓小姐",
@@ -109,7 +187,13 @@
         "url": "mail_display.php?timestamp=1714714875",
         "date": "2024/05/03 13:41",
         "department": "華文文學系",
-        "author": "伍佳雯"
+        "author": {
+            "department": "華文文學系",
+            "name": "伍佳雯",
+            "email": "sl@gms.ndhu.edu.tw",
+            "phone": "＃5262"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "【轉知】行政院於113年年6月18日舉辦「行政院性別影響評估觀摩交流講習」有意願加入「行政院性別影響評估人才參考名單」之專家學者踴躍報名參加",
@@ -117,6 +201,12 @@
         "url": "mail_display.php?timestamp=1714700298",
         "date": "2024/05/03 09:38",
         "department": "秘書室議事公文組",
-        "author": "蔡麗燕"
+        "author": {
+            "department": "秘書室議事公文組",
+            "name": "蔡麗燕",
+            "email": "liyen@gms.ndhu.edu.tw",
+            "phone": "6005"
+        },
+        "attachmentCount": 4
     }
 ]

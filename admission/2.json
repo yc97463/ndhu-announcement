@@ -5,7 +5,13 @@
         "url": "mail_display.php?timestamp=1715852847",
         "date": "2024/05/16 17:47",
         "department": "社會參與中心",
-        "author": "徐小姐"
+        "author": {
+            "department": "社會參與中心",
+            "name": "徐小姐",
+            "email": "hsu-pangju@gms.ndhu.edu.tw",
+            "phone": "5247"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "【課務組】113年暑期課程表（報名時間，詳見課程說明）",
@@ -13,7 +19,13 @@
         "url": "mail_display.php?timestamp=1715820757",
         "date": "2024/05/16 08:52",
         "department": "教務處課務組",
-        "author": "宋育縈"
+        "author": {
+            "department": "教務處課務組",
+            "name": "宋育縈",
+            "email": "suz@gms.ndhu.edu.tw",
+            "phone": "分機6122~6126"
+        },
+        "attachmentCount": 3
     },
     {
         "title": "113學年度(第10屆)大專生金融就業公益專班報名開跑，即日起至5/31止",
@@ -21,7 +33,13 @@
         "url": "mail_display.php?timestamp=1715653739",
         "date": "2024/05/14 10:28",
         "department": "財務金融學系",
-        "author": "蔡季諭"
+        "author": {
+            "department": "財務金融學系",
+            "name": "蔡季諭",
+            "email": "jiyu@gms.ndhu.edu.tw",
+            "phone": "8903132"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "112-2財金系五年修讀學碩士學位申請即日起開始至5/17止",
@@ -29,7 +47,13 @@
         "url": "mail_display.php?timestamp=1715652357",
         "date": "2024/05/14 10:05",
         "department": "財務金融學系",
-        "author": "蔡季諭"
+        "author": {
+            "department": "財務金融學系",
+            "name": "蔡季諭",
+            "email": "jiyu@gms.ndhu.edu.tw",
+            "phone": "8903132"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "📢【通識特色課程】選課公告：手造舟 等你來📢",
@@ -37,7 +61,13 @@
         "url": "mail_display.php?timestamp=1715592668",
         "date": "2024/05/13 17:31",
         "department": "社會參與中心",
-        "author": "徐小姐"
+        "author": {
+            "department": "社會參與中心",
+            "name": "徐小姐",
+            "email": "hsu-pangju@gms.ndhu.edu.tw",
+            "phone": "5247"
+        },
+        "attachmentCount": 4
     },
     {
         "title": "【通識特色課程】🌟選課公告：手造舟 等你來 🔔🔔🔔",
@@ -45,7 +75,13 @@
         "url": "mail_display.php?timestamp=1715339892",
         "date": "2024/05/10 19:18",
         "department": "社會參與中心",
-        "author": "徐小姐"
+        "author": {
+            "department": "社會參與中心",
+            "name": "徐小姐",
+            "email": "hsu-pangju@gms.ndhu.edu.tw",
+            "phone": "5247"
+        },
+        "attachmentCount": 4
     },
     {
         "title": " 敬邀參加112年國立東華大學教育大數據微學程—招生說明會",
@@ -53,7 +89,13 @@
         "url": "mail_display.php?timestamp=1715101249",
         "date": "2024/05/08 01:00",
         "department": "教學卓越中心",
-        "author": "黃小姐"
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 4
     },
     {
         "title": "【活動徵件】📢2024花蓮青年夢想家提案競賽 獎金七萬元等你拿📢",
@@ -61,7 +103,13 @@
         "url": "mail_display.php?timestamp=1715091685",
         "date": "2024/05/07 22:21",
         "department": "社會參與中心",
-        "author": "葉小姐"
+        "author": {
+            "department": "社會參與中心",
+            "name": "葉小姐",
+            "email": "spcndhu@gms.ndhu.edu.tw",
+            "phone": "5244"
+        },
+        "attachmentCount": 7
     },
     {
         "title": "【微學程推廣】國立東華大學教育大數據微學程—學習如何以大數據來解讀教育的問題！",
@@ -69,7 +117,13 @@
         "url": "mail_display.php?timestamp=1714974468",
         "date": "2024/05/06 13:47",
         "department": "教學卓越中心",
-        "author": "黃小姐"
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "華語文中心夏季班招生囉",
@@ -77,7 +131,13 @@
         "url": "mail_display.php?timestamp=1714960038",
         "date": "2024/05/06 09:47",
         "department": "華語文中心",
-        "author": "胡孟芸"
+        "author": {
+            "department": "華語文中心",
+            "name": "胡孟芸",
+            "email": "myhu@gms.ndhu.edu.tw",
+            "phone": "038905241"
+        },
+        "attachmentCount": 3
     },
     {
         "title": "⭐教育大數據微學程⭐敬邀您參加教育大數據微學程—招生說明會",
@@ -85,7 +145,13 @@
         "url": "mail_display.php?timestamp=1714883266",
         "date": "2024/05/05 12:27",
         "department": "教學卓越中心",
-        "author": "黃小姐"
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "【線上課程報名中】🔥112-2專案財務管理與行銷－05/12掌握流量的影音影響力🎬",
@@ -93,7 +159,13 @@
         "url": "mail_display.php?timestamp=1714807406",
         "date": "2024/05/04 15:23",
         "department": "社會參與中心",
-        "author": "童小姐"
+        "author": {
+            "department": "社會參與中心",
+            "name": "童小姐",
+            "email": "tung-sin@gms.ndhu.edu.tw",
+            "phone": "5243"
+        },
+        "attachmentCount": 3
     },
     {
         "title": "【線上課程報名中】112-2專案財務管理與行銷－掌握流量的影音影響力🔥",
@@ -101,7 +173,13 @@
         "url": "mail_display.php?timestamp=1714730088",
         "date": "2024/05/03 17:54",
         "department": "社會參與中心",
-        "author": "童小姐"
+        "author": {
+            "department": "社會參與中心",
+            "name": "童小姐",
+            "email": "tung-sin@gms.ndhu.edu.tw",
+            "phone": "5243"
+        },
+        "attachmentCount": 3
     },
     {
         "title": " 敬邀參加112年國立東華大學教育大數據計畫—微學程招生說明會！學習如何以大數據方法來分析解讀教育的問題！",
@@ -109,7 +187,13 @@
         "url": "mail_display.php?timestamp=1714715134",
         "date": "2024/05/03 13:45",
         "department": "教學卓越中心",
-        "author": "黃小姐"
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 5
     },
     {
         "title": "【線上課程報名中】112-2專案財務管理與行銷－掌握流量的影音影響力🔥",
@@ -117,6 +201,12 @@
         "url": "mail_display.php?timestamp=1714643626",
         "date": "2024/05/02 17:53",
         "department": "社會參與中心",
-        "author": "童小姐"
+        "author": {
+            "department": "社會參與中心",
+            "name": "童小姐",
+            "email": "tung-sin@gms.ndhu.edu.tw",
+            "phone": "5243"
+        },
+        "attachmentCount": 3
     }
 ]

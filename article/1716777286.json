@@ -1,11 +1,26 @@
-[
-    {
-        "title": "【課務組】選課系統現已完成修復，各項功能可正常使用",
-        "timestamp": "1716777286",
-        "url": "mail_display.php?timestamp=1716777286",
-        "date": "2024/05/27 10:34",
+{
+    "title": "【課務組】選課系統現已完成修復，各項功能可正常使用",
+    "timestamp": "1716777286",
+    "url": "mail_display.php?timestamp=1716777286",
+    "date": "2024/05/27 10:34",
+    "department": "教務處課務組",
+    "author": {
         "department": "教務處課務組",
-        "author": "課務組",
-        "content": "\u003cdiv class=\"column1-unit\"\u003e\n\n\u003c!--  信件內容   --\u003e\n\u003cpre\u003e分類： 行政公告, 課程公告\n來源： 教務處課務組 - 課務組 - course@gms.ndhu.edu.tw - 電話6122~6126\n對象： 全校學生\n標題： 【課務組】選課系統現已完成修復，各項功能可正常使用\n日期： Mon, 27 May 2024 10:34:46 +0800\n\u003c/pre\u003e\u003chr class=\"clear-contentunit\"/\u003e\u003cpre\u003e各位同學大家好：\n\n選課系統現已完成修復，各項功能可正常使用。\n如仍有系統相關問題，請與課務組(03-890-6122~6126)聯繫，謝謝。\n\n提醒大家，本校自今日(5/27)中午12:30起開放113-1學期課程初選，\n請把握初選階段進行選課登記，預祝大家選課順利。\n\n各學制(年級)選課時段請參考網路選課系統（\u003ca href=\"https://sys.ndhu.edu.tw/AA/CLASS/subjselect/Default.aspx\" target=\"_blank\"\u003ehttps://sys.ndhu.edu.tw/AA/CLASS/subjselect/Default.aspx\u003c/a\u003e）\n或113-1選課注意事項（\u003ca href=\"https://aa.ndhu.edu.tw/p/406-1004-169202.php\" target=\"_blank\"\u003ehttps://aa.ndhu.edu.tw/p/406-1004-169202.php\u003c/a\u003e）。\n\n課務組敬啟\u003c/pre\u003e\n\t\t\n\u003c/div\u003e"
-    }
-]
+        "name": "課務組",
+        "email": "course@gms.ndhu.edu.tw",
+        "phone": "6122~6126"
+    },
+    "content": "\u003cdiv class=\"column1-unit\"\u003e\n\n\u003c!--  信件內容   --\u003e\n\u003cpre\u003e分類： 行政公告, 課程公告\n來源： 教務處課務組 - 課務組 - course@gms.ndhu.edu.tw - 電話6122~6126\n對象： 全校學生\n標題： 【課務組】選課系統現已完成修復，各項功能可正常使用\n日期： Mon, 27 May 2024 10:34:46 +0800\n\u003c/pre\u003e\u003chr class=\"clear-contentunit\"/\u003e\u003cpre\u003e各位同學大家好：\n\n選課系統現已完成修復，各項功能可正常使用。\n如仍有系統相關問題，請與課務組(03-890-6122~6126)聯繫，謝謝。\n\n提醒大家，本校自今日(5/27)中午12:30起開放113-1學期課程初選，\n請把握初選階段進行選課登記，預祝大家選課順利。\n\n各學制(年級)選課時段請參考網路選課系統（\u003ca href=\"https://sys.ndhu.edu.tw/AA/CLASS/subjselect/Default.aspx\" target=\"_blank\"\u003ehttps://sys.ndhu.edu.tw/AA/CLASS/subjselect/Default.aspx\u003c/a\u003e）\n或113-1選課注意事項（\u003ca href=\"https://aa.ndhu.edu.tw/p/406-1004-169202.php\" target=\"_blank\"\u003ehttps://aa.ndhu.edu.tw/p/406-1004-169202.php\u003c/a\u003e）。\n\n課務組敬啟\u003c/pre\u003e\n\t\t\n\u003c/div\u003e",
+    "attachments": [
+        {
+            "fileName": "https://sys.ndhu.edu.tw/AA/CLASS/subjselect/Default.aspx",
+            "fileSize": "）。\n\n課務組敬啟",
+            "fileURL": "https://sys.ndhu.edu.tw/AA/CLASS/subjselect/Default.aspx"
+        },
+        {
+            "fileName": "https://aa.ndhu.edu.tw/p/406-1004-169202.php",
+            "fileSize": "）。\n\n課務組敬啟",
+            "fileURL": "https://aa.ndhu.edu.tw/p/406-1004-169202.php"
+        }
+    ]
+}

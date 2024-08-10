@@ -5,7 +5,13 @@
         "url": "mail_display.php?timestamp=1723178515",
         "date": "2024/08/09 12:41",
         "department": "總務處營繕組",
-        "author": "劉宏銘"
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "890-6376"
+        },
+        "attachmentCount": 0
     },
     {
         "title": "【公告】本校113年8月20日至9月1日兼任助理、臨時工及工讀生等勞健保受理期間，因配合台電公司113年8月23日(星期五)69KV「光華-華紙、東華線」輸變電設備維護之停電及系統停機，提前於113年8月20日(二)下午17時截止收件；9月2日起恢復至提前3個工作日前送件，請特別注意時程掌握。",
@@ -13,7 +19,13 @@
         "url": "mail_display.php?timestamp=1723168901",
         "date": "2024/08/09 10:01",
         "department": "人事室",
-        "author": "陳治豪"
+        "author": {
+            "department": "人事室",
+            "name": "陳治豪",
+            "email": "jackchen168@gms.ndhu.edu.tw",
+            "phone": "6057"
+        },
+        "attachmentCount": 0
     },
     {
         "title": "志學門外環道道路施作事宜",
@@ -21,7 +33,13 @@
         "url": "mail_display.php?timestamp=1723082248",
         "date": "2024/08/08 09:57",
         "department": "總務處營繕組",
-        "author": "張宗豪"
+        "author": {
+            "department": "總務處營繕組",
+            "name": "張宗豪",
+            "email": "Zonghao@gms.ndhu.edu.tw",
+            "phone": "6389"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "壽豐校區體育館空調設備汰換施工公告",
@@ -29,7 +47,13 @@
         "url": "mail_display.php?timestamp=1723078334",
         "date": "2024/08/08 08:52",
         "department": "總務處營繕組",
-        "author": "劉景富"
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉景富",
+            "email": "nickak@gms.ndhu.edu.tw",
+            "phone": "03-8906373"
+        },
+        "attachmentCount": 0
     },
     {
         "title": "圖書館論文系統恢復使用 The library's e-thesis/dissertations system is working",
@@ -37,7 +61,13 @@
         "url": "mail_display.php?timestamp=1723029878",
         "date": "2024/08/07 19:24",
         "department": "圖書資訊處圖資服務組",
-        "author": "簡民享"
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "簡民享",
+            "email": "jms@gms.ndhu.edu.tw",
+            "phone": "6842"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "【人事室公告】因北迴鐵路已通車，故即日起東人字第1130017404號函停止適用。",
@@ -45,7 +75,13 @@
         "url": "mail_display.php?timestamp=1723026138",
         "date": "2024/08/07 18:22",
         "department": "人事室",
-        "author": "劉依虹"
+        "author": {
+            "department": "人事室",
+            "name": "劉依虹",
+            "email": "joyce_liu@gms.ndhu.edu.tw",
+            "phone": "6060"
+        },
+        "attachmentCount": 0
     },
     {
         "title": "【轉知】113年度第3梯次全國技術士技能檢定學(術)科測試報名作業說明會",
@@ -53,7 +89,13 @@
         "url": "mail_display.php?timestamp=1723024698",
         "date": "2024/08/07 17:58",
         "department": "學務處畢業生及校友服務組",
-        "author": "黃文雯"
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 4
     },
     {
         "title": "113年度壽豐校區高壓設備檢測規劃8月份停電時程(第5次公告)",
@@ -61,7 +103,13 @@
         "url": "mail_display.php?timestamp=1722992713",
         "date": "2024/08/07 09:05",
         "department": "總務處營繕組",
-        "author": "劉景富"
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉景富",
+            "email": "nickak@gms.ndhu.edu.tw",
+            "phone": "03-8906373"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "多容館113年8月9日停電通知",
@@ -69,7 +117,13 @@
         "url": "mail_display.php?timestamp=1722991939",
         "date": "2024/08/07 08:52",
         "department": "總務處營繕組",
-        "author": "劉宏銘"
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
     },
     {
         "title": "行政大樓5樓隔間牆封板施工公告",
@@ -77,7 +131,13 @@
         "url": "mail_display.php?timestamp=1722990973",
         "date": "2024/08/07 08:36",
         "department": "總務處營繕組",
-        "author": "黃章傑"
+        "author": {
+            "department": "總務處營繕組",
+            "name": "黃章傑",
+            "email": "cotycafe@gms.ndhu.edu.tw",
+            "phone": "5778"
+        },
+        "attachmentCount": 0
     },
     {
         "title": "113學年度第1學期兵役緩徵、儘召網路登錄凱放申請",
@@ -85,7 +145,13 @@
         "url": "mail_display.php?timestamp=1722990794",
         "date": "2024/08/07 08:33",
         "department": "學務處生活輔導組",
-        "author": "黃勇程"
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "6225"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "體育館及桌球室火警自動警報設備更新施工公告",
@@ -93,7 +159,13 @@
         "url": "mail_display.php?timestamp=1722931428",
         "date": "2024/08/06 16:03",
         "department": "總務處營繕組",
-        "author": "賴名塑"
+        "author": {
+            "department": "總務處營繕組",
+            "name": "賴名塑",
+            "email": "a54604@gms.ndhu.edu.tw",
+            "phone": "8906378"
+        },
+        "attachmentCount": 0
     },
     {
         "title": "8月7日上午10-11時壽豐消防隊於環境學院進行消防演練",
@@ -101,7 +173,13 @@
         "url": "mail_display.php?timestamp=1722785166",
         "date": "2024/08/04 23:26",
         "department": "總務處營繕組",
-        "author": "賴名塑"
+        "author": {
+            "department": "總務處營繕組",
+            "name": "賴名塑",
+            "email": "a54604@gms.ndhu.edu.tw",
+            "phone": "8906378"
+        },
+        "attachmentCount": 0
     },
     {
         "title": "【課務組】113學年度第1學期學士班課程「免修」注意事項",
@@ -109,7 +187,13 @@
         "url": "mail_display.php?timestamp=1722482333",
         "date": "2024/08/01 11:18",
         "department": "教務處課務組",
-        "author": "課務組"
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "course@gms.ndhu.edu.tw",
+            "phone": "6122~6126"
+        },
+        "attachmentCount": 0
     },
     {
         "title": "校區部分區域113/07/31緊急搶修停水公告",
@@ -117,6 +201,12 @@
         "url": "mail_display.php?timestamp=1722420393",
         "date": "2024/07/31 18:06",
         "department": "總務處營繕組",
-        "author": "劉宏銘"
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "8906376"
+        },
+        "attachmentCount": 0
     }
 ]

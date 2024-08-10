@@ -1,11 +1,21 @@
-[
-    {
-        "title": "【宣導】推動「政府文件標準格式（ODF-CNS15251）實施計畫」",
-        "timestamp": "1720667035",
-        "url": "mail_display.php?timestamp=1720667035",
-        "date": "2024/07/11 11:03",
+{
+    "title": "【宣導】推動「政府文件標準格式（ODF-CNS15251）實施計畫」",
+    "timestamp": "1720667035",
+    "url": "mail_display.php?timestamp=1720667035",
+    "date": "2024/07/11 11:03",
+    "department": "圖書資訊處綜合業務組",
+    "author": {
         "department": "圖書資訊處綜合業務組",
-        "author": "陳偉",
-        "content": "\u003cdiv class=\"column1-unit\"\u003e\n\n\u003c!--  信件內容   --\u003e\n\u003cpre\u003e分類： 行政公告, 其他公告\n來源： 圖書資訊處綜合業務組 - 陳偉 - ichirowei@gms.ndhu.edu.tw - 電話6743\n對象： 全校教職員\n標題： 【宣導】推動「政府文件標準格式（ODF-CNS15251）實施計畫」\n日期： Thu, 11 Jul 2024 11:03:55 +0800\n\u003c/pre\u003e\u003chr class=\"clear-contentunit\"/\u003e\u003cpre\u003e依據行政院「政府文件標準格式（ODF-CNS15251）實施計畫」（113-116年）宣導鼓勵事項。\n\n(一)學校行政電腦及電腦教室安裝以ODF為預設存檔格式之文書軟體。\n(二)教師在職進修相關課程，宣導使用ODF格式製作。\n(三)宣導教師以ODF為預設存檔格式之文書軟體作為教育應用工具，鼓勵學生以ODF檔案格式交付作業。\n(四)宣導於課程中增加ODF推動理念等軟體平權相關議題。\n(五)辦理相關推廣活動宣導(鼓勵)師生使用ODF格式。\n(六)數位發展部「ODF文件應用工具」說明文件及相關最新軟體資源參考（\u003ca href=\"https://gov.tw/J3B\" target=\"_blank\"\u003ehttps://gov.tw/J3B\u003c/a\u003e）。\u003c/pre\u003e\n\t\t\n\u003c/div\u003e"
-    }
-]
+        "name": "陳偉",
+        "email": "ichirowei@gms.ndhu.edu.tw",
+        "phone": "6743"
+    },
+    "content": "\u003cdiv class=\"column1-unit\"\u003e\n\n\u003c!--  信件內容   --\u003e\n\u003cpre\u003e分類： 行政公告, 其他公告\n來源： 圖書資訊處綜合業務組 - 陳偉 - ichirowei@gms.ndhu.edu.tw - 電話6743\n對象： 全校教職員\n標題： 【宣導】推動「政府文件標準格式（ODF-CNS15251）實施計畫」\n日期： Thu, 11 Jul 2024 11:03:55 +0800\n\u003c/pre\u003e\u003chr class=\"clear-contentunit\"/\u003e\u003cpre\u003e依據行政院「政府文件標準格式（ODF-CNS15251）實施計畫」（113-116年）宣導鼓勵事項。\n\n(一)學校行政電腦及電腦教室安裝以ODF為預設存檔格式之文書軟體。\n(二)教師在職進修相關課程，宣導使用ODF格式製作。\n(三)宣導教師以ODF為預設存檔格式之文書軟體作為教育應用工具，鼓勵學生以ODF檔案格式交付作業。\n(四)宣導於課程中增加ODF推動理念等軟體平權相關議題。\n(五)辦理相關推廣活動宣導(鼓勵)師生使用ODF格式。\n(六)數位發展部「ODF文件應用工具」說明文件及相關最新軟體資源參考（\u003ca href=\"https://gov.tw/J3B\" target=\"_blank\"\u003ehttps://gov.tw/J3B\u003c/a\u003e）。\u003c/pre\u003e\n\t\t\n\u003c/div\u003e",
+    "attachments": [
+        {
+            "fileName": "https://gov.tw/J3B",
+            "fileSize": "）。",
+            "fileURL": "https://gov.tw/J3B"
+        }
+    ]
+}

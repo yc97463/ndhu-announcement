@@ -5,7 +5,13 @@
         "url": "mail_display.php?timestamp=1722915168",
         "date": "2024/08/06 11:32",
         "department": "教學卓越中心",
-        "author": "鄭宏昱"
+        "author": {
+            "department": "教學卓越中心",
+            "name": "鄭宏昱",
+            "email": "bighead7361@gms.ndhu.edu.tw",
+            "phone": "6590"
+        },
+        "attachmentCount": 5
     },
     {
         "title": "113年度自資系楊悠娟老師國科會計畫專任暨兼任助理徵才",
@@ -13,7 +19,13 @@
         "url": "mail_display.php?timestamp=1722914209",
         "date": "2024/08/06 11:16",
         "department": "環境學院",
-        "author": "陳和毅助理"
+        "author": {
+            "department": "環境學院",
+            "name": "陳和毅助理",
+            "email": "erntmap@gmail.com",
+            "phone": "8905179"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "【轉知】請提供老人相關研究論文資料，做為高雄市老人研究發展中心研究典藏之用。",
@@ -21,7 +33,13 @@
         "url": "mail_display.php?timestamp=1722909132",
         "date": "2024/08/06 09:52",
         "department": "圖書資訊處圖資服務組",
-        "author": "簡民享"
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "簡民享",
+            "email": "jms@gms.ndhu.edu.tw",
+            "phone": "6842"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "【獎助學金申請】恒大文教基金會113年度清寒獎學金 (低或中低收、家境特殊)",
@@ -29,7 +47,13 @@
         "url": "mail_display.php?timestamp=1722907866",
         "date": "2024/08/06 09:31",
         "department": "學務處",
-        "author": "葉俊良"
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "【轉知】「ASPN運動科技加速器－第1期Demo Day」成果發表會資訊",
@@ -37,7 +61,13 @@
         "url": "mail_display.php?timestamp=1722906066",
         "date": "2024/08/06 09:01",
         "department": "研發處",
-        "author": "李淑淳"
+        "author": {
+            "department": "研發處",
+            "name": "李淑淳",
+            "email": "chun@gms.ndhu.edu.tw",
+            "phone": "6522"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "東華電子報 | 2024年07月刊 |",
@@ -45,7 +75,13 @@
         "url": "mail_display.php?timestamp=1722900826",
         "date": "2024/08/06 07:33",
         "department": "秘書室公關宣傳組",
-        "author": "林佩瑤"
+        "author": {
+            "department": "秘書室公關宣傳組",
+            "name": "林佩瑤",
+            "email": "peiyao@gms.ndhu.edu.tw",
+            "phone": "6013"
+        },
+        "attachmentCount": 0
     },
     {
         "title": "08-08(四10:00 ~11:00)--線上課程-- 防範電子郵件社交工程（第2次通知）",
@@ -53,7 +89,13 @@
         "url": "mail_display.php?timestamp=1722847880",
         "date": "2024/08/05 16:51",
         "department": "圖書資訊處圖資服務組",
-        "author": "葉宏達"
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "葉宏達",
+            "email": "honda@gms.ndhu.edu.tw",
+            "phone": "8906747"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "【歡迎報名】原住民族廣播電台人才培育工作坊 Spii(夢想) 從東海岸起飛",
@@ -61,7 +103,13 @@
         "url": "mail_display.php?timestamp=1722831128",
         "date": "2024/08/05 12:12",
         "department": "原住民民族學院",
-        "author": "巴莉亞妲．蘇利伊"
+        "author": {
+            "department": "原住民民族學院",
+            "name": "巴莉亞妲．蘇利伊",
+            "email": "damu@gms.ndhu.edu.tw",
+            "phone": "5824"
+        },
+        "attachmentCount": 3
     },
     {
         "title": "8月7日上午10-11時壽豐消防隊於環境學院進行消防演練",
@@ -69,7 +117,13 @@
         "url": "mail_display.php?timestamp=1722785166",
         "date": "2024/08/04 23:26",
         "department": "總務處營繕組",
-        "author": "賴名塑"
+        "author": {
+            "department": "總務處營繕組",
+            "name": "賴名塑",
+            "email": "a54604@gms.ndhu.edu.tw",
+            "phone": "8906378"
+        },
+        "attachmentCount": 0
     },
     {
         "title": "【徵才】國立東華大學管理學院會計學系徵聘專任教師一名（第1次公告，收件截止日期(書面資料與word檔)：113年09月02日(一) 23:59。(書面資料以郵戳日期為憑))",
@@ -77,7 +131,13 @@
         "url": "mail_display.php?timestamp=1722519360",
         "date": "2024/08/01 21:36",
         "department": "會計學系",
-        "author": "會計學系"
+        "author": {
+            "department": "會計學系",
+            "name": "會計學系",
+            "email": "chiawen@gms.ndhu.edu.tw",
+            "phone": "3073"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "【獎助學金申請重要資訊】學務處生輔組辦理各項校內外獎助學金項目及申請注意事項，請參考! ",
@@ -85,7 +145,13 @@
         "url": "mail_display.php?timestamp=1722515708",
         "date": "2024/08/01 20:35",
         "department": "學務處",
-        "author": "葉俊良"
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "【學生自主學習社群】113-1學期審查結果公告",
@@ -93,7 +159,13 @@
         "url": "mail_display.php?timestamp=1722497920",
         "date": "2024/08/01 15:38",
         "department": "教學卓越中心",
-        "author": "李貞穎"
+        "author": {
+            "department": "教學卓越中心",
+            "name": "李貞穎",
+            "email": "jeannie@gms.ndhu.edu.tw",
+            "phone": "8906587"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "11３-1學期校園環境中心服務學習計畫將於8/12開始報名",
@@ -101,7 +173,13 @@
         "url": "mail_display.php?timestamp=1722494529",
         "date": "2024/08/01 14:42",
         "department": "環境學院",
-        "author": "程曦"
+        "author": {
+            "department": "環境學院",
+            "name": "程曦",
+            "email": "chengc831004@gms.ndhu.edu.tw",
+            "phone": "03-8903322"
+        },
+        "attachmentCount": 1
     },
     {
         "title": "08-08(四10:00 ~11:00)--線上課程-- 防範電子郵件社交工程",
@@ -109,7 +187,13 @@
         "url": "mail_display.php?timestamp=1722493740",
         "date": "2024/08/01 14:29",
         "department": "圖書資訊處圖資服務組",
-        "author": "葉宏達"
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "葉宏達",
+            "email": "honda@gms.ndhu.edu.tw",
+            "phone": "8906747"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "【課務組】113學年度第1學期學士班課程「免修」注意事項",
@@ -117,6 +201,12 @@
         "url": "mail_display.php?timestamp=1722482333",
         "date": "2024/08/01 11:18",
         "department": "教務處課務組",
-        "author": "課務組"
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "course@gms.ndhu.edu.tw",
+            "phone": "6122~6126"
+        },
+        "attachmentCount": 0
     }
 ]
