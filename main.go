@@ -25,12 +25,13 @@ type Attachment struct {
 }
 
 type Summary struct {
-	Title      string `json:"title"`
-	Timestamp  string `json:"timestamp"`
-	Url        string `json:"url"`
-	Date       string `json:"date"`
-	Department string `json:"department"`
-	Author     Author `json:"author"`
+	Title           string `json:"title"`
+	Timestamp       string `json:"timestamp"`
+	Url             string `json:"url"`
+	Date            string `json:"date"`
+	Department      string `json:"department"`
+	Author          Author `json:"author"`
+	AttachmentCount int    `json:"attachmentCount"`
 }
 
 type Detail struct {
@@ -68,15 +69,16 @@ func createFile(file string, _ string) {
 	}
 }
 
-func insertSummary(file string, timestamp string, title string, url string, date string, department string, author Author) {
+func insertSummary(file string, timestamp string, title string, url string, date string, department string, author Author, attachmentCount int) {
 	// Create a new Link instance with the provided data
 	newLink := Summary{
-		Title:      title,
-		Timestamp:  timestamp,
-		Url:        url,
-		Date:       date,
-		Department: department,
-		Author:     author,
+		Title:           title,
+		Timestamp:       timestamp,
+		Url:             url,
+		Date:            date,
+		Department:      department,
+		Author:          author,
+		AttachmentCount: attachmentCount,
 	}
 
 	// Read existing JSON data from the file, if any
@@ -313,8 +315,9 @@ func main() {
 				}
 
 				attachments := extractAttachments(content)
+				attachmentCount := len(attachments)
 
-				insertSummary("dist/"+value+"/"+page+".json", timestamp, title, url, date, department, author)
+				insertSummary("dist/"+value+"/"+page+".json", timestamp, title, url, date, department, author, attachmentCount)
 				createArticle("dist/article/"+timestamp+".json", timestamp, title, url, date, department, author, content, attachments)
 			}
 		}
