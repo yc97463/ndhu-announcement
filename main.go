@@ -9,33 +9,40 @@ import (
 	"github.com/anaskhan96/soup"
 )
 
+type Author struct {
+	Department string `json:"department"`
+	Name       string `json:"name"`
+	Email      string `json:"email"`
+	Phone      string `json:"phone"`
+}
+
 type Link struct {
-	Title    string `json:"title"`
-	Timestamp	 string `json:"timestamp"`
-	Url       string `json:"url"`
+	Title      string `json:"title"`
+	Timestamp  string `json:"timestamp"`
+	Url        string `json:"url"`
 	Date       string `json:"date"`
 	Department string `json:"department"`
-	Author       string `json:"author"`
+	Author     Author `json:"author"`
 }
 
 type Detail struct {
-	Title    string `json:"title"`
-	Timestamp	 string `json:"timestamp"`
-	Url       string `json:"url"`
+	Title      string `json:"title"`
+	Timestamp  string `json:"timestamp"`
+	Url        string `json:"url"`
 	Date       string `json:"date"`
 	Department string `json:"department"`
-	Author       string `json:"author"`
-	Content     string `json:"content"`
+	Author     Author `json:"author"`
+	Content    string `json:"content"`
 }
 
-func createDir(dir string){
+func createDir(dir string) {
 	if err := os.MkdirAll(dir, 0755); err != nil {
 		fmt.Println("Error creating 'dist' directory:", err)
 		return
 	}
 }
 
-func createFile(file string, jsonType string){
+func createFile(file string, _ string) {
 	// Create the file
 	if file, err := os.Create(file); err != nil {
 		fmt.Println("Error creating file:", err)
@@ -52,19 +59,19 @@ func createFile(file string, jsonType string){
 	}
 }
 
-func insertSummary(file string, timestamp string, title string, url string, date string, department string, author string) {
+func insertSummary(file string, timestamp string, title string, url string, date string, department string, author Author) {
 	// Create a new Link instance with the provided data
 	newLink := Link{
-		Title:    title,
+		Title:      title,
 		Timestamp:  timestamp,
-		Url:       url,
+		Url:        url,
 		Date:       date,
 		Department: department,
-		Author:       author,
+		Author:     author,
 	}
 
 	// Read existing JSON data from the file, if any
-	
+
 	data, err := os.ReadFile(file)
 	if err != nil {
 		createFile(file, "summary")
@@ -78,7 +85,6 @@ func insertSummary(file string, timestamp string, title string, url string, date
 	// if err != nil {
 	// 	createFile(file)
 	// }
-
 
 	var links []Link
 
@@ -107,15 +113,15 @@ func insertSummary(file string, timestamp string, title string, url string, date
 	fmt.Println("Link added successfully   | ", title)
 }
 
-func createArticle(file string, timestamp string, title string, url string, date string, department string, author string, content string) {
+func createArticle(file string, timestamp string, title string, url string, date string, department string, author Author, content string) {
 	newDetail := Detail{
-		Title: 	title,
+		Title:      title,
 		Timestamp:  timestamp,
-		Url:       url,
+		Url:        url,
 		Date:       date,
 		Department: department,
-		Author:       author,
-		Content:     content,
+		Author:     author,
+		Content:    content,
 	}
 
 	data, err := os.ReadFile(file)
@@ -166,6 +172,51 @@ func announce_detail(baseUrl string, link string) (result string) {
 	return content
 }
 
+func catchAuthorFromContent(content string) []string {
+	// Find the line containing the author information
+	lines := strings.Split(content, "\n")
+	var authorLine string
+	for _, line := range lines {
+		if strings.Contains(line, "來源：") {
+			authorLine = line
+			break
+		}
+	}
+
+	if authorLine == "" {
+		return []string{"", "", "", ""}
+	}
+
+	// Extract the author information
+	parts := strings.Split(authorLine, "來源： ")
+	if len(parts) < 2 {
+		return []string{"", "", "", ""}
+	}
+
+	authorInfo := strings.Split(parts[1], " - ")
+	if len(authorInfo) < 4 {
+		// Pad the slice with empty strings if there are missing elements
+		for len(authorInfo) < 4 {
+			authorInfo = append(authorInfo, "")
+		}
+	}
+
+	// Trim spaces from each element
+	for i := range authorInfo {
+		authorInfo[i] = strings.TrimSpace(authorInfo[i])
+	}
+
+	// Extract phone number from the last element
+	phoneIndex := strings.Index(authorInfo[3], "電話")
+	phone := ""
+	if phoneIndex != -1 {
+		phone = strings.TrimSpace(authorInfo[3][phoneIndex+len("電話"):])
+		authorInfo[3] = strings.TrimSpace(authorInfo[3][:phoneIndex])
+	}
+
+	return []string{authorInfo[0], authorInfo[1], authorInfo[2], phone}
+}
+
 func main() {
 	// baseUrl
 	baseUrl := "https://announce.ndhu.edu.tw/"
@@ -186,7 +237,7 @@ func main() {
 	createDir("dist/article")
 	// create dir from category
 	for _, value := range category {
-		createDir("dist/"+value)
+		createDir("dist/" + value)
 	}
 
 	// get data from announce.ndhu.edu.tw
@@ -194,42 +245,37 @@ func main() {
 		fmt.Print("\n=====================================\n")
 		fmt.Println("Category: ", value)
 
-		// loop for 5 times
 		for i := 0; i < 5; i++ {
 			page := fmt.Sprintf("%d", i+1)
-
-			// print page
 			fmt.Println("Page: ", page)
 
-			// get data in category
 			resp, err := soup.Get(baseUrl + "mail_page.php?sort=" + key + "&page=" + page)
 			if err != nil {
 				os.Exit(1)
 			}
 
-			// parse data to HTML
 			doc := soup.HTMLParse(resp)
-
-			// get tr in table
 			table := doc.Find("div", "class", "column1-unit").Find("table").Find("tbody")
 			items := table.FindAll("tr")
 
-			// print found data
 			fmt.Printf("Found %d items:\n", len(items))
 
-
-
-				// get data in tr
 			for _, item := range items {
-
-				// fields
 				title := item.Find("td", "class", "subject").FindAll("a")[0].Text()
 				url := item.Find("td", "class", "subject").FindAll("a")[0].Attrs()["href"]
 				timestamp := strings.Split(url, "?timestamp=")[1]
 				date := item.Find("td", "class", "date").Text()
 				department := item.Find("td", "class", "department").Text()
-				author := item.Find("td", "class", "user").Text()
+
 				content := announce_detail(baseUrl, url)
+				authorInfo := catchAuthorFromContent(content)
+
+				author := Author{
+					Department: authorInfo[0],
+					Name:       authorInfo[1],
+					Email:      authorInfo[2],
+					Phone:      authorInfo[3],
+				}
 
 				insertSummary("dist/"+value+"/"+page+".json", timestamp, title, url, date, department, author)
 				createArticle("dist/article/"+timestamp+".json", timestamp, title, url, date, department, author, content)
