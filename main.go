@@ -18,19 +18,19 @@ type Author struct {
 	Phone      string `json:"phone"`
 }
 
-type Link struct {
+type Attachment struct {
+	FileName string `json:"fileName"`
+	FileSize string `json:"fileSize"`
+	FileURL  string `json:"fileURL"`
+}
+
+type Summary struct {
 	Title      string `json:"title"`
 	Timestamp  string `json:"timestamp"`
 	Url        string `json:"url"`
 	Date       string `json:"date"`
 	Department string `json:"department"`
 	Author     Author `json:"author"`
-}
-
-type Attachment struct {
-	FileName string `json:"fileName"`
-	FileSize string `json:"fileSize"`
-	FileURL  string `json:"fileURL"`
 }
 
 type Detail struct {
@@ -70,7 +70,7 @@ func createFile(file string, _ string) {
 
 func insertSummary(file string, timestamp string, title string, url string, date string, department string, author Author) {
 	// Create a new Link instance with the provided data
-	newLink := Link{
+	newLink := Summary{
 		Title:      title,
 		Timestamp:  timestamp,
 		Url:        url,
@@ -95,7 +95,7 @@ func insertSummary(file string, timestamp string, title string, url string, date
 	// 	createFile(file)
 	// }
 
-	var links []Link
+	var links []Summary
 
 	// Unmarshal the existing JSON data into the links slice
 	if err := json.Unmarshal(data, &links); err != nil {
