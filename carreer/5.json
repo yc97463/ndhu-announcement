@@ -1,6 +1,20 @@
 [
     {
         "title": "國立東華大學數位學伴－112-2學期【大學伴熱烈招募中】",
+        "timestamp": "1709027132",
+        "url": "mail_display.php?timestamp=1709027132",
+        "date": "2024/02/27 17:45",
+        "department": "花師教育學院",
+        "author": {
+            "department": "花師教育學院",
+            "name": "李宛玲",
+            "email": "etutor_c226@gms.ndhu.edu.tw",
+            "phone": "3816"
+        },
+        "attachmentCount": 8
+    },
+    {
+        "title": "國立東華大學數位學伴－112-2學期【大學伴熱烈招募中】",
         "timestamp": "1708853566",
         "url": "mail_display.php?timestamp=1708853566",
         "date": "2024/02/25 17:32",
@@ -192,20 +206,6 @@
             "name": "黃勇程",
             "email": "victor0903@gms.ndhu.edu.tw",
             "phone": "038906216"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【徴聘教師】國立東華大學生命科學系徴聘專任教師一名(收件至3/8)",
-        "timestamp": "1707125908",
-        "url": "mail_display.php?timestamp=1707125908",
-        "date": "2024/02/05 17:38",
-        "department": "生命科學系",
-        "author": {
-            "department": "生命科學系",
-            "name": "元淑英",
-            "email": "syyuan@gms.ndhu.edu.tw",
-            "phone": "(03)890-3632"
         },
         "attachmentCount": 1
     }

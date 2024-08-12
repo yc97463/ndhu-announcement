@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才訊息】國際事務處國際合作組徵聘校務基金學士級助理一名",
+        "timestamp": "1712798807",
+        "url": "mail_display.php?timestamp=1712798807",
+        "date": "2024/04/11 09:26",
+        "department": "國際事務處國際合作組",
+        "author": {
+            "department": "國際事務處國際合作組",
+            "name": "劉力綺",
+            "email": "ice@gms.ndhu.edu.tw",
+            "phone": "5109"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【全民國防訊息】113年下半年役男申請服一般替代役甄選作業訊息公告",
         "timestamp": "1712748849",
         "url": "mail_display.php?timestamp=1712748849",
@@ -194,19 +208,5 @@
             "phone": "3816"
         },
         "attachmentCount": 7
-    },
-    {
-        "title": "國立東華大學數位學伴－112-2學期【大學伴熱烈招募中】",
-        "timestamp": "1709027132",
-        "url": "mail_display.php?timestamp=1709027132",
-        "date": "2024/02/27 17:45",
-        "department": "花師教育學院",
-        "author": {
-            "department": "花師教育學院",
-            "name": "李宛玲",
-            "email": "etutor_c226@gms.ndhu.edu.tw",
-            "phone": "3816"
-        },
-        "attachmentCount": 8
     }
 ]

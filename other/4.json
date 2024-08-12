@@ -1,6 +1,20 @@
 [
     {
         "title": "懇請協助填報教育部第二期高等教育深耕計畫問卷調查(填報時間：即日起至113/07/26(五)23時59分止)",
+        "timestamp": "1721268560",
+        "url": "mail_display.php?timestamp=1721268560",
+        "date": "2024/07/18 10:09",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "李貞穎",
+            "email": "jeannie@gms.ndhu.edu.tw",
+            "phone": "8906587"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "懇請協助填報教育部第二期高等教育深耕計畫問卷調查(填報時間：即日起至113/07/26(五)23時59分止)",
         "timestamp": "1721268342",
         "url": "mail_display.php?timestamp=1721268342",
         "date": "2024/07/18 10:05",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【徵才】新北市立十三行博物館誠徵外語導覽員",
-        "timestamp": "1720590427",
-        "url": "mail_display.php?timestamp=1720590427",
-        "date": "2024/07/10 13:47",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 2
     }
 ]

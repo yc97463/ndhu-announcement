@@ -1,5 +1,19 @@
 [
     {
+        "title": "體育中心徵聘助理1名(修正公告)",
+        "timestamp": "1720496575",
+        "url": "mail_display.php?timestamp=1720496575",
+        "date": "2024/07/09 11:42",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "邱健榮",
+            "email": "janus@gms.ndhu.edu.tw",
+            "phone": "6613"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "體育中心徵聘助理1名",
         "timestamp": "1720488517",
         "url": "mail_display.php?timestamp=1720488517",
@@ -194,19 +208,5 @@
             "phone": "03-8905063"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【徵才公告】 國立東華大學學務處畢業生及校友服務組徵聘職務代理人一名",
-        "timestamp": "1717729468",
-        "url": "mail_display.php?timestamp=1717729468",
-        "date": "2024/06/07 11:04",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "溫小姐",
-            "email": "fengting0804@gms.ndhu.edu.tw",
-            "phone": "6282"
-        },
-        "attachmentCount": 0
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才公告】 國立東華大學學務處畢業生及校友服務組徵聘職務代理人一名",
+        "timestamp": "1717729468",
+        "url": "mail_display.php?timestamp=1717729468",
+        "date": "2024/06/07 11:04",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "溫小姐",
+            "email": "fengting0804@gms.ndhu.edu.tw",
+            "phone": "6282"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【誠徵】東華大學教育部數位學習輔導計畫徵聘專任助理一名",
         "timestamp": "1717053404",
         "url": "mail_display.php?timestamp=1717053404",
@@ -194,19 +208,5 @@
             "phone": "6061"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【徵才訊息】國際事務處國際合作組徵聘校務基金學士級助理一名",
-        "timestamp": "1712798807",
-        "url": "mail_display.php?timestamp=1712798807",
-        "date": "2024/04/11 09:26",
-        "department": "國際事務處國際合作組",
-        "author": {
-            "department": "國際事務處國際合作組",
-            "name": "劉力綺",
-            "email": "ice@gms.ndhu.edu.tw",
-            "phone": "5109"
-        },
-        "attachmentCount": 0
     }
 ]
