@@ -1,5 +1,33 @@
 [
     {
+        "title": "【臺大EMI教學資源中心】跨校EMI講座 (慈濟大學場)",
+        "timestamp": "1723450120",
+        "url": "mail_display.php?timestamp=1723450120",
+        "date": "2024/08/12 16:08",
+        "department": "語言中心",
+        "author": {
+            "department": "語言中心",
+            "name": "林瑜珊",
+            "email": "lc@gms.ndhu.edu.tw",
+            "phone": "03-8905492"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【臺大EMI教學資源中心】跨校EMI講座 (慈濟大學場)",
+        "timestamp": "1723449941",
+        "url": "mail_display.php?timestamp=1723449941",
+        "date": "2024/08/12 16:05",
+        "department": "語言中心",
+        "author": {
+            "department": "語言中心",
+            "name": "林瑜珊",
+            "email": "lc@gms.ndhu.edu.tw",
+            "phone": "03-8905462"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【課程】AI基礎班:ChatGPT與內容行銷",
         "timestamp": "1723441123",
         "url": "mail_display.php?timestamp=1723441123",
@@ -178,34 +206,6 @@
             "name": "陳美杏",
             "email": "msing@gms.ndhu.edu.tw",
             "phone": "6053"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "113-1學期校園環境中心服務學習計畫將於8/12開始報名",
-        "timestamp": "1723010415",
-        "url": "mail_display.php?timestamp=1723010415",
-        "date": "2024/08/07 14:00",
-        "department": "環境學院",
-        "author": {
-            "department": "環境學院",
-            "name": "程曦",
-            "email": "chengc831004@gms.ndhu.edu.tw",
-            "phone": "03-8903322"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "臺加雙邊人才研習計畫-2025 全球鏈結研究實習（Mitacs - Globalink Research Internship, GRI）",
-        "timestamp": "1722993702",
-        "url": "mail_display.php?timestamp=1722993702",
-        "date": "2024/08/07 09:21",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
         },
         "attachmentCount": 2
     }
