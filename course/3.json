@@ -1,5 +1,33 @@
 [
     {
+        "title": "敬邀參加-第36屆校園試映會(電影製作藝術、紀錄片製作成果發表)",
+        "timestamp": "1717376172",
+        "url": "mail_display.php?timestamp=1717376172",
+        "date": "2024/06/03 08:56",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "8906607"
+        },
+        "attachmentCount": 5
+    },
+    {
+        "title": "「縱目歐亞-空間與人文的對話」課程系列講座-6/5（三）李雅瑞教授(Astrid Lipinsky)維也納大學維也納台灣研究中心 (VCTS)：歐洲視角下的台灣—語言/移民/社會",
+        "timestamp": "1717153165",
+        "url": "mail_display.php?timestamp=1717153165",
+        "date": "2024/05/31 18:59",
+        "department": "人文社會科學學院",
+        "author": {
+            "department": "人文社會科學學院",
+            "name": "姜妃澤",
+            "email": "ftc1029@gms.ndhu.edu.tw",
+            "phone": "03-8905203"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【甄選預告】113學年度原住民族語言師資拔尖計畫-族語學習員招募中!",
         "timestamp": "1717146976",
         "url": "mail_display.php?timestamp=1717146976",
@@ -180,33 +208,5 @@
             "phone": "6122~6126"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【課務組】選課系統臨時維護通知",
-        "timestamp": "1716773947",
-        "url": "mail_display.php?timestamp=1716773947",
-        "date": "2024/05/27 09:39",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "course@gms.ndhu.edu.tw",
-            "phone": "6122~6126"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "[國語文教學]「有生命的漢字」語文補救教學法_113年暑假初階教師研習報名中",
-        "timestamp": "1716539332",
-        "url": "mail_display.php?timestamp=1716539332",
-        "date": "2024/05/24 16:28",
-        "department": "偏鄉閱讀與行動中心",
-        "author": {
-            "department": "偏鄉閱讀與行動中心",
-            "name": "盧助理",
-            "email": "lesa@gms.ndhu.edu.tw",
-            "phone": "03-890-3813"
-        },
-        "attachmentCount": 7
     }
 ]

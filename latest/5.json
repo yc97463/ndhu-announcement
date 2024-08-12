@@ -1,5 +1,33 @@
 [
     {
+        "title": "8月7日上午10-11時壽豐消防隊於環境學院進行消防演練",
+        "timestamp": "1722785166",
+        "url": "mail_display.php?timestamp=1722785166",
+        "date": "2024/08/04 23:26",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "賴名塑",
+            "email": "a54604@gms.ndhu.edu.tw",
+            "phone": "8906378"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【徵才】國立東華大學管理學院會計學系徵聘專任教師一名（第1次公告，收件截止日期(書面資料與word檔)：113年09月02日(一) 23:59。(書面資料以郵戳日期為憑))",
+        "timestamp": "1722519360",
+        "url": "mail_display.php?timestamp=1722519360",
+        "date": "2024/08/01 21:36",
+        "department": "會計學系",
+        "author": {
+            "department": "會計學系",
+            "name": "會計學系",
+            "email": "chiawen@gms.ndhu.edu.tw",
+            "phone": "3073"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【獎助學金申請重要資訊】學務處生輔組辦理各項校內外獎助學金項目及申請注意事項，請參考! ",
         "timestamp": "1722515708",
         "url": "mail_display.php?timestamp=1722515708",
@@ -180,33 +208,5 @@
             "phone": "03-8935253"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "圖書館館藏查詢臨時網址",
-        "timestamp": "1722397060",
-        "url": "mail_display.php?timestamp=1722397060",
-        "date": "2024/07/31 11:37",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "廖銘珠",
-            "email": "min-judy@gms.ndhu.edu.tw",
-            "phone": "6855"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "學人宿舍(包含幼稚園)、素心里及擷雲莊113/07/31緊急停水公告",
-        "timestamp": "1722394375",
-        "url": "mail_display.php?timestamp=1722394375",
-        "date": "2024/07/31 10:52",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
     }
 ]

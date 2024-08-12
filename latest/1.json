@@ -1,5 +1,47 @@
 [
     {
+        "title": "☆重要訊息【獎學金申請】113學年度「趙涵華博士華語文教育獎學金」受理申請，申請至113年9月30日止",
+        "timestamp": "1723441227",
+        "url": "mail_display.php?timestamp=1723441227",
+        "date": "2024/08/12 13:40",
+        "department": "國際紅學研究中心",
+        "author": {
+            "department": "國際紅學研究中心",
+            "name": "池助理",
+            "email": "tcsl@gms.ndhu.edu.tw",
+            "phone": "5403"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【課程】AI基礎班:ChatGPT與內容行銷",
+        "timestamp": "1723441123",
+        "url": "mail_display.php?timestamp=1723441123",
+        "date": "2024/08/12 13:38",
+        "department": "管理學院",
+        "author": {
+            "department": "管理學院",
+            "name": "高云偈",
+            "email": "jerrygao@gms.ndhu.edu.tw",
+            "phone": "3789"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "‼️延長報名8/15下午17點前‼️📢113年度【「Spii 從東海岸起飛」原住民族廣播電台人才培育工作坊】🔥🔥",
+        "timestamp": "1723440743",
+        "url": "mail_display.php?timestamp=1723440743",
+        "date": "2024/08/12 13:32",
+        "department": "原住民民族學院",
+        "author": {
+            "department": "原住民民族學院",
+            "name": "巴莉亞妲．蘇利伊",
+            "email": "damu@gms.ndhu.edu.tw",
+            "phone": "5824"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【轉知】College of the Canyons 線上教師英語教學培訓計畫",
         "timestamp": "1723427419",
         "url": "mail_display.php?timestamp=1723427419",
@@ -10,20 +52,6 @@
             "name": "陳巧惠",
             "email": "ice@gms.ndhu.edu.tw",
             "phone": "5118"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【招生】AI基礎班:ChatGPT與內容行銷",
-        "timestamp": "1723427406",
-        "url": "mail_display.php?timestamp=1723427406",
-        "date": "2024/08/12 09:50",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "高云偈",
-            "email": "jerrygao@gms.ndhu.edu.tw",
-            "phone": "3789"
         },
         "attachmentCount": 2
     },
@@ -180,33 +208,5 @@
             "phone": "（03）8905171"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【徵才】雲林縣高級中等以下學校113學年度代理教師甄選",
-        "timestamp": "1723106484",
-        "url": "mail_display.php?timestamp=1723106484",
-        "date": "2024/08/08 16:41",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "好康報報~113-1  VIP垂直整合專題(三)畜產經營探索與實作選課招募!",
-        "timestamp": "1723105883",
-        "url": "mail_display.php?timestamp=1723105883",
-        "date": "2024/08/08 16:31",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "洄瀾共好大學社會責任中心",
-            "email": "techusr@gms.ndhu.edu.tw",
-            "phone": "3770/3772"
-        },
-        "attachmentCount": 1
     }
 ]

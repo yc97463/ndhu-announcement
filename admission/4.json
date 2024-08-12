@@ -1,20 +1,6 @@
 [
     {
         "title": "【全民國防訊息】113年下半年役男申請服一般替代役甄選作業訊息公告",
-        "timestamp": "1712748849",
-        "url": "mail_display.php?timestamp=1712748849",
-        "date": "2024/04/10 19:34",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "黃勇程",
-            "email": "victor0903@gms.ndhu.edu.tw",
-            "phone": "8906225"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【全民國防訊息】113年下半年役男申請服一般替代役甄選作業訊息公告",
         "timestamp": "1712748818",
         "url": "mail_display.php?timestamp=1712748818",
         "date": "2024/04/10 19:33",
@@ -208,5 +194,19 @@
             "phone": "8906236"
         },
         "attachmentCount": 5
+    },
+    {
+        "title": "【轉知】國際奧林匹克學院與希臘Peloponnese大學合作開辦之「奧林匹克研究、奧林匹克教育暨奧林匹克賽事組織與管理（Olympic Studies, Olympic Education, Organization andManagement of Olympic Events ）」碩士課程2024/2025學年招生資訊。",
+        "timestamp": "1709184807",
+        "url": "mail_display.php?timestamp=1709184807",
+        "date": "2024/02/29 13:33",
+        "department": "國際事務處國際合作組",
+        "author": {
+            "department": "國際事務處國際合作組",
+            "name": "陳良愛",
+            "email": "ice@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 2
     }
 ]
