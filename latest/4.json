@@ -1,5 +1,19 @@
 [
     {
+        "title": "行政大樓5樓隔間牆封板施工公告",
+        "timestamp": "1722990973",
+        "url": "mail_display.php?timestamp=1722990973",
+        "date": "2024/08/07 08:36",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "黃章傑",
+            "email": "cotycafe@gms.ndhu.edu.tw",
+            "phone": "5778"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113學年度第1學期兵役緩徵、儘召網路登錄凱放申請",
         "timestamp": "1722990794",
         "url": "mail_display.php?timestamp=1722990794",
@@ -192,20 +206,6 @@
             "name": "簡民享",
             "email": "jms@gms.ndhu.edu.tw",
             "phone": "6842"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【獎助學金申請】恒大文教基金會113年度清寒獎學金 (低或中低收、家境特殊)",
-        "timestamp": "1722907866",
-        "url": "mail_display.php?timestamp=1722907866",
-        "date": "2024/08/06 09:31",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
         },
         "attachmentCount": 1
     }

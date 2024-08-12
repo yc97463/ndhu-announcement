@@ -1,6 +1,20 @@
 [
     {
         "title": "體育中心徵聘助理1名(修正公告)",
+        "timestamp": "1720497006",
+        "url": "mail_display.php?timestamp=1720497006",
+        "date": "2024/07/09 11:50",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "邱健榮",
+            "email": "janus@gms.ndhu.edu.tw",
+            "phone": "6613"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "體育中心徵聘助理1名(修正公告)",
         "timestamp": "1720496575",
         "url": "mail_display.php?timestamp=1720496575",
         "date": "2024/07/09 11:42",
@@ -194,19 +208,5 @@
             "phone": "03-8903013"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【徵聘教師】國立東華大學電機工程學系徵聘專任助理教授(含)以上之專任師資2名",
-        "timestamp": "1718247213",
-        "url": "mail_display.php?timestamp=1718247213",
-        "date": "2024/06/13 10:53",
-        "department": "電機工程學系",
-        "author": {
-            "department": "電機工程學系",
-            "name": "邱小姐",
-            "email": "senorita@gms.ndhu.edu.tw",
-            "phone": "03-8905063"
-        },
-        "attachmentCount": 1
     }
 ]
