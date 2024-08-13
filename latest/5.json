@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才公告】國立東華大學總務處環保組徵聘【校務基金助理】",
+        "timestamp": "1722926030",
+        "url": "mail_display.php?timestamp=1722926030",
+        "date": "2024/08/06 14:33",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "許智翔",
+            "email": "cocco3746@gms.ndhu.edu.tw",
+            "phone": "038906399"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】連德工商發展基金會113年度獎學金 (限工商學系學生，家境清寒)",
         "timestamp": "1722925356",
         "url": "mail_display.php?timestamp=1722925356",
@@ -194,19 +208,5 @@
             "phone": "03-8906219"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【學生自主學習社群】113-1學期審查結果公告",
-        "timestamp": "1722497920",
-        "url": "mail_display.php?timestamp=1722497920",
-        "date": "2024/08/01 15:38",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "李貞穎",
-            "email": "jeannie@gms.ndhu.edu.tw",
-            "phone": "8906587"
-        },
-        "attachmentCount": 1
     }
 ]

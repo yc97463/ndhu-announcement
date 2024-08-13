@@ -1,5 +1,19 @@
 [
     {
+        "title": "【圖書館公告】圖書館暑假閉館期間急用書借閱",
+        "timestamp": "1722227276",
+        "url": "mail_display.php?timestamp=1722227276",
+        "date": "2024/07/29 12:27",
+        "department": "圖書資訊處",
+        "author": {
+            "department": "圖書資訊處",
+            "name": "周小萍",
+            "email": "hedy@gms.ndhu.edu.tw",
+            "phone": "8906852"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "library's e-thesis/dissertations system is down for maintenance, and the steps for submitting thesis/dissertations have been changed",
         "timestamp": "1722157245",
         "url": "mail_display.php?timestamp=1722157245",
@@ -192,20 +206,6 @@
             "name": "林淑惠",
             "email": "linsh@gms.ndhu.edu.tw",
             "phone": "8906059"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "【海上颱風警報】「凱米颱風」海上颱風警報已於本日23時30分發布，請注意！The Central Weather Bureau Typhoon Watch Advisory #03【GAEMI】",
-        "timestamp": "1721663207",
-        "url": "mail_display.php?timestamp=1721663207",
-        "date": "2024/07/22 23:46",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "林嘉瑩",
-            "email": "tea7101@gms.ndhu.edu.tw",
-            "phone": "03-8906226"
         },
         "attachmentCount": 4
     }

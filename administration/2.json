@@ -1,5 +1,19 @@
 [
     {
+        "title": "【課務組】113學年度第1學期學士班課程「免修」注意事項",
+        "timestamp": "1722482333",
+        "url": "mail_display.php?timestamp=1722482333",
+        "date": "2024/08/01 11:18",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "course@gms.ndhu.edu.tw",
+            "phone": "6122~6126"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "校區部分區域113/07/31緊急搶修停水公告",
         "timestamp": "1722420393",
         "url": "mail_display.php?timestamp=1722420393",
@@ -194,19 +208,5 @@
             "phone": "6329"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【圖書館公告】圖書館暑假閉館期間急用書借閱",
-        "timestamp": "1722227276",
-        "url": "mail_display.php?timestamp=1722227276",
-        "date": "2024/07/29 12:27",
-        "department": "圖書資訊處",
-        "author": {
-            "department": "圖書資訊處",
-            "name": "周小萍",
-            "email": "hedy@gms.ndhu.edu.tw",
-            "phone": "8906852"
-        },
-        "attachmentCount": 0
     }
 ]
