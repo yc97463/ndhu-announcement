@@ -1,5 +1,19 @@
 [
     {
+        "title": "學務處【交通安全plus團隊】成員招募(歡迎起飛生參加)",
+        "timestamp": "1723426134",
+        "url": "mail_display.php?timestamp=1723426134",
+        "date": "2024/08/12 09:28",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "林嘉瑩",
+            "email": "tea7101@gms.ndhu.edu.tw",
+            "phone": "03-8906226"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【徵才訊息】本校總務處(事務組) 招聘校務基金助理",
         "timestamp": "1723423988",
         "url": "mail_display.php?timestamp=1723423988",
@@ -194,19 +208,5 @@
             "phone": "6053"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "📢113年度【「Spii 從東海岸起飛」原住民族廣播電台人才培育工作坊】開放報名啦🔥🔥",
-        "timestamp": "1723096936",
-        "url": "mail_display.php?timestamp=1723096936",
-        "date": "2024/08/08 14:02",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "巴莉亞妲．蘇利伊",
-            "email": "damu@gms.ndhu.edu.tw",
-            "phone": "5824"
-        },
-        "attachmentCount": 4
     }
 ]
