@@ -1,5 +1,19 @@
 [
     {
+        "title": "擷雲莊風、雅筑宿舍熱水暫時停止供應公告",
+        "timestamp": "1720610278",
+        "url": "mail_display.php?timestamp=1720610278",
+        "date": "2024/07/10 19:17",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "張宗豪",
+            "email": "zonghao@gms.ndhu.edu.tw",
+            "phone": "038906389"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【網路維運公告】TWAREN SSL-VPN系統維護公告",
         "timestamp": "1720597229",
         "url": "mail_display.php?timestamp=1720597229",
@@ -194,19 +208,5 @@
             "phone": "5103"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【重申】請各單位注意相關規範，配合落實填報[赴陸教育交流活動]",
-        "timestamp": "1719995705",
-        "url": "mail_display.php?timestamp=1719995705",
-        "date": "2024/07/03 16:35",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 2
     }
 ]
