@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才】國立東華大學管理學院會計學系徵聘專任教師一名（第2次公告，收件截止日期：113年04月01日(一)(以郵戳日期為憑)）",
+        "timestamp": "1710125975",
+        "url": "mail_display.php?timestamp=1710125975",
+        "date": "2024/03/11 10:59",
+        "department": "會計學系",
+        "author": {
+            "department": "會計學系",
+            "name": "會計學系",
+            "email": "chiawen@gms.ndhu.edu.tw",
+            "phone": "3073"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才公告】國立東華大學總務處出納組徵聘身心障礙專案助理1名",
         "timestamp": "1709881122",
         "url": "mail_display.php?timestamp=1709881122",
@@ -194,19 +208,5 @@
             "phone": "3771"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【徵聘教師公告】國立東華大學企業管理學系暨運籌管理研究所徵聘專任教師1名",
-        "timestamp": "1707969768",
-        "url": "mail_display.php?timestamp=1707969768",
-        "date": "2024/02/15 12:02",
-        "department": "企業管理學系",
-        "author": {
-            "department": "企業管理學系",
-            "name": "莊巧萍",
-            "email": "cpjuang@gms.ndhu.edu.tw",
-            "phone": "03-8903013"
-        },
-        "attachmentCount": 4
     }
 ]
