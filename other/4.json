@@ -1,5 +1,33 @@
 [
     {
+        "title": "【徵才】國家中山科學研究院113年第25次專案人力進用招考(電子系統研究所)",
+        "timestamp": "1721703259",
+        "url": "mail_display.php?timestamp=1721703259",
+        "date": "2024/07/23 10:54",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "本校數位總機Cisco Jabber系統更新期間桌機 (分機)及Cisco Jabber停話公告",
+        "timestamp": "1721283816",
+        "url": "mail_display.php?timestamp=1721283816",
+        "date": "2024/07/18 14:23",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "潘姵辰",
+            "email": "papec1980@gms.ndhu.edu.tw",
+            "phone": "03-8906313"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才】臺中市就業服務處113年8月9日辦理「富市台中 就業成功」后里區徵才",
         "timestamp": "1721283517",
         "url": "mail_display.php?timestamp=1721283517",
@@ -180,33 +208,5 @@
             "phone": "6533"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【宣導】推動「政府文件標準格式（ODF-CNS15251）實施計畫」",
-        "timestamp": "1720667035",
-        "url": "mail_display.php?timestamp=1720667035",
-        "date": "2024/07/11 11:03",
-        "department": "圖書資訊處綜合業務組",
-        "author": {
-            "department": "圖書資訊處綜合業務組",
-            "name": "陳偉",
-            "email": "ichirowei@gms.ndhu.edu.tw",
-            "phone": "6743"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【徵才】臺中市就業服務處113年7月24日辦理「富市台中 就業成功」潭子區徵才",
-        "timestamp": "1720666443",
-        "url": "mail_display.php?timestamp=1720666443",
-        "date": "2024/07/11 10:54",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 2
     }
 ]

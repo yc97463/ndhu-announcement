@@ -1,5 +1,33 @@
 [
     {
+        "title": "【宣導】推動「政府文件標準格式（ODF-CNS15251）實施計畫」",
+        "timestamp": "1720667035",
+        "url": "mail_display.php?timestamp=1720667035",
+        "date": "2024/07/11 11:03",
+        "department": "圖書資訊處綜合業務組",
+        "author": {
+            "department": "圖書資訊處綜合業務組",
+            "name": "陳偉",
+            "email": "ichirowei@gms.ndhu.edu.tw",
+            "phone": "6743"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【徵才】臺中市就業服務處113年7月24日辦理「富市台中 就業成功」潭子區徵才",
+        "timestamp": "1720666443",
+        "url": "mail_display.php?timestamp=1720666443",
+        "date": "2024/07/11 10:54",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "擷雲莊風、雅筑宿舍熱水暫時停止供應公告",
         "timestamp": "1720610281",
         "url": "mail_display.php?timestamp=1720610281",
@@ -180,33 +208,5 @@
             "phone": "8906422"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【轉知】勞動部「大專生就業統計資料庫」於「勞動統計專網」提供查詢服務",
-        "timestamp": "1720418361",
-        "url": "mail_display.php?timestamp=1720418361",
-        "date": "2024/07/08 13:59",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【徵才】臺北市就業服務處113年7月19日辦理「龍薪大躍」中型徵才活動",
-        "timestamp": "1720417315",
-        "url": "mail_display.php?timestamp=1720417315",
-        "date": "2024/07/08 13:41",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 2
     }
 ]

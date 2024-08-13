@@ -1,5 +1,33 @@
 [
     {
+        "title": "體育館及桌球室火警自動警報設備更新施工公告",
+        "timestamp": "1722931428",
+        "url": "mail_display.php?timestamp=1722931428",
+        "date": "2024/08/06 16:03",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "賴名塑",
+            "email": "a54604@gms.ndhu.edu.tw",
+            "phone": "8906378"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【徵才】高雄市政府勞工局訓練就業中心113年8月17日辦理「永續創薪 優職高雄」現場徵才活動",
+        "timestamp": "1722931238",
+        "url": "mail_display.php?timestamp=1722931238",
+        "date": "2024/08/06 16:00",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【徵才】嘉義縣學生輔導諮商中心113年度第5次專任專業輔導人員(心理師、社工師)甄選",
         "timestamp": "1722922429",
         "url": "mail_display.php?timestamp=1722922429",
@@ -180,33 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【徵才】臺商宏越責任有限公司徵才(限越南籍)",
-        "timestamp": "1722332132",
-        "url": "mail_display.php?timestamp=1722332132",
-        "date": "2024/07/30 17:35",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【徵才】桃園市政府教育局113年度第五次約聘專任專業輔導人員甄選(心理師、社工師)",
-        "timestamp": "1722331672",
-        "url": "mail_display.php?timestamp=1722331672",
-        "date": "2024/07/30 17:27",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
     }
 ]
