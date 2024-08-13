@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】台北市李連來公益基金會113年度助學金 (非工商學系學生，家境清寒)",
+        "timestamp": "1722924316",
+        "url": "mail_display.php?timestamp=1722924316",
+        "date": "2024/08/06 14:05",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【徵才】嘉義縣學生輔導諮商中心113年度第5次專任專業輔導人員(心理師、社工師)甄選",
         "timestamp": "1722922429",
         "url": "mail_display.php?timestamp=1722922429",
@@ -194,19 +208,5 @@
             "phone": "03-8903322"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "08-08(四10:00 ~11:00)--線上課程-- 防範電子郵件社交工程",
-        "timestamp": "1722493740",
-        "url": "mail_display.php?timestamp=1722493740",
-        "date": "2024/08/01 14:29",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "葉宏達",
-            "email": "honda@gms.ndhu.edu.tw",
-            "phone": "8906747"
-        },
-        "attachmentCount": 2
     }
 ]
