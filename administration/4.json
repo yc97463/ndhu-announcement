@@ -1,5 +1,19 @@
 [
     {
+        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
+        "timestamp": "1721711999",
+        "url": "mail_display.php?timestamp=1721711999",
+        "date": "2024/07/23 13:19",
+        "department": "圖書資訊處校務系統組",
+        "author": {
+            "department": "圖書資訊處校務系統組",
+            "name": "林志軒",
+            "email": "chshlin@gms.ndhu.edu.tw",
+            "phone": "6752"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【陸上颱風警報】「凱米颱風」陸上警報已於本日(23日)11:30發布，請注意！The Central Weather Bureau Typhoon Watch Advisory 【GAEMI】",
         "timestamp": "1721709608",
         "url": "mail_display.php?timestamp=1721709608",
@@ -186,20 +200,6 @@
         "timestamp": "1721004112",
         "url": "mail_display.php?timestamp=1721004112",
         "date": "2024/07/15 08:41",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳怡秀",
-            "email": "yishoue@gms.ndhu.edu.tw",
-            "phone": "6212"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【學生宿舍】113學年學生宿舍碩博在職專班新生暨在校生候補Ⅲ申請作業",
-        "timestamp": "1721003999",
-        "url": "mail_display.php?timestamp=1721003999",
-        "date": "2024/07/15 08:39",
         "department": "學務處生活輔導組",
         "author": {
             "department": "學務處生活輔導組",

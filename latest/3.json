@@ -1,5 +1,61 @@
 [
     {
+        "title": "學務處【交通安全plus團隊】成員招募(歡迎起飛生參加)",
+        "timestamp": "1723426134",
+        "url": "mail_display.php?timestamp=1723426134",
+        "date": "2024/08/12 09:28",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "林嘉瑩",
+            "email": "tea7101@gms.ndhu.edu.tw",
+            "phone": "03-8906226"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【徵才訊息】本校總務處(事務組) 招聘校務基金助理",
+        "timestamp": "1723423988",
+        "url": "mail_display.php?timestamp=1723423988",
+        "date": "2024/08/12 08:53",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "113-1學生就學貸款申請公告Student Loan application for Fall Semester",
+        "timestamp": "1723423808",
+        "url": "mail_display.php?timestamp=1723423808",
+        "date": "2024/08/12 08:50",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "王文和",
+            "email": "rlawwh@gms.ndhu.edu.tw",
+            "phone": "分機6221"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "【論文獎助】臺灣災害管理學會「2024年臺灣災害管理研討會暨國家科學及技術委員會防災科技學門成果發表會」論文徵文",
+        "timestamp": "1723252674",
+        "url": "mail_display.php?timestamp=1723252674",
+        "date": "2024/08/10 09:17",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】得力教育基金會113-1清寒獎助學金",
         "timestamp": "1723252196",
         "url": "mail_display.php?timestamp=1723252196",
@@ -152,61 +208,5 @@
             "phone": "6053"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "📢113年度【「Spii 從東海岸起飛」原住民族廣播電台人才培育工作坊】開放報名啦🔥🔥",
-        "timestamp": "1723096936",
-        "url": "mail_display.php?timestamp=1723096936",
-        "date": "2024/08/08 14:02",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "巴莉亞妲．蘇利伊",
-            "email": "damu@gms.ndhu.edu.tw",
-            "phone": "5824"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "TA job for Fall Semester 2024",
-        "timestamp": "1723088186",
-        "url": "mail_display.php?timestamp=1723088186",
-        "date": "2024/08/08 11:36",
-        "department": "原住民族研究國際博士班",
-        "author": {
-            "department": "原住民族研究國際博士班",
-            "name": "Ms. Dungi黃怡瑄",
-            "email": "dungi@gms.ndhu.edu.tw",
-            "phone": "+886 3 8905760"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "原創泰雅音樂劇《織男·彼赫巫》團體票限時優惠方案",
-        "timestamp": "1723082496",
-        "url": "mail_display.php?timestamp=1723082496",
-        "date": "2024/08/08 10:01",
-        "department": "原住民族學生資源中心",
-        "author": {
-            "department": "原住民族學生資源中心",
-            "name": "曾暐娟",
-            "email": "kinu@gms.ndhu.edu.tw",
-            "phone": "(03)890-5759"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "志學門外環道道路施作事宜",
-        "timestamp": "1723082248",
-        "url": "mail_display.php?timestamp=1723082248",
-        "date": "2024/08/08 09:57",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "張宗豪",
-            "email": "Zonghao@gms.ndhu.edu.tw",
-            "phone": "6389"
-        },
-        "attachmentCount": 1
     }
 ]

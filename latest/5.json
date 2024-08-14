@@ -1,5 +1,61 @@
 [
     {
+        "title": "【轉知】社團法人中華專業人才協會謹訂八、九月份舉辦培訓計畫，歡迎「財務、出納、人資、管理部門」同仁參加。",
+        "timestamp": "1723013011",
+        "url": "mail_display.php?timestamp=1723013011",
+        "date": "2024/08/07 14:43",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "陳美杏",
+            "email": "msing@gms.ndhu.edu.tw",
+            "phone": "6053"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "113-1學期校園環境中心服務學習計畫將於8/12開始報名",
+        "timestamp": "1723010415",
+        "url": "mail_display.php?timestamp=1723010415",
+        "date": "2024/08/07 14:00",
+        "department": "環境學院",
+        "author": {
+            "department": "環境學院",
+            "name": "程曦",
+            "email": "chengc831004@gms.ndhu.edu.tw",
+            "phone": "03-8903322"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "【徵才】國立東華大學能源科技中心 誠徵教育部計畫專任研究助理",
+        "timestamp": "1723009170",
+        "url": "mail_display.php?timestamp=1723009170",
+        "date": "2024/08/07 13:39",
+        "department": "能源科技中心",
+        "author": {
+            "department": "能源科技中心",
+            "name": "吳慈憶",
+            "email": "algar0905@gms.ndhu.edu.tw",
+            "phone": "8903688"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "臺加雙邊人才研習計畫-2025 全球鏈結研究實習（Mitacs - Globalink Research Internship, GRI）",
+        "timestamp": "1722993702",
+        "url": "mail_display.php?timestamp=1722993702",
+        "date": "2024/08/07 09:21",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "113年度壽豐校區高壓設備檢測規劃8月份停電時程(第5次公告)",
         "timestamp": "1722992713",
         "url": "mail_display.php?timestamp=1722992713",
@@ -152,61 +208,5 @@
             "phone": "038906399"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【獎助學金申請】連德工商發展基金會113年度獎學金 (限工商學系學生，家境清寒)",
-        "timestamp": "1722925356",
-        "url": "mail_display.php?timestamp=1722925356",
-        "date": "2024/08/06 14:22",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【獎助學金申請】台北市李連來公益基金會113年度助學金 (非工商學系學生，家境清寒)",
-        "timestamp": "1722924316",
-        "url": "mail_display.php?timestamp=1722924316",
-        "date": "2024/08/06 14:05",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【徵才】嘉義縣學生輔導諮商中心113年度第5次專任專業輔導人員(心理師、社工師)甄選",
-        "timestamp": "1722922429",
-        "url": "mail_display.php?timestamp=1722922429",
-        "date": "2024/08/06 13:33",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "113-1學期學生培力方案通過名單公告(更正名單)",
-        "timestamp": "1722915168",
-        "url": "mail_display.php?timestamp=1722915168",
-        "date": "2024/08/06 11:32",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "鄭宏昱",
-            "email": "bighead7361@gms.ndhu.edu.tw",
-            "phone": "6590"
-        },
-        "attachmentCount": 5
     }
 ]

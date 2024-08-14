@@ -1,5 +1,19 @@
 [
     {
+        "title": "【學生宿舍】113學年學生宿舍碩博在職專班新生暨在校生候補Ⅲ申請作業",
+        "timestamp": "1721003999",
+        "url": "mail_display.php?timestamp=1721003999",
+        "date": "2024/07/15 08:39",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳怡秀",
+            "email": "yishoue@gms.ndhu.edu.tw",
+            "phone": "6212"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "《新生入學活動》113學年新生入學活動-社團博覽會報名與東華之夜表演團隊徵選",
         "timestamp": "1720678829",
         "url": "mail_display.php?timestamp=1720678829",
@@ -192,20 +206,6 @@
             "name": "吳雅萍",
             "email": "ypwu@gms.ndhu.edu.tw",
             "phone": "03-8935253"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "人社一館第一講堂頂樓防水工程施工第2次公告(7/08~7/19)",
-        "timestamp": "1720325856",
-        "url": "mail_display.php?timestamp=1720325856",
-        "date": "2024/07/07 12:17",
-        "department": "人文社會科學學院",
-        "author": {
-            "department": "人文社會科學學院",
-            "name": "吳雅萍",
-            "email": "ypwu@gms.ndhu.edu.tw",
-            "phone": "03-8635253"
         },
         "attachmentCount": 1
     }

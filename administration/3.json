@@ -1,5 +1,19 @@
 [
     {
+        "title": " 🌟🌟113學年度第1學期行政/教學單位【起飛見習生】登記申請延長至113年7月31日(三)止!",
+        "timestamp": "1722321343",
+        "url": "mail_display.php?timestamp=1722321343",
+        "date": "2024/07/30 14:35",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "鄭淑亭",
+            "email": "ting@gms.ndhu.edu.tw",
+            "phone": "03-8906215"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "0403衍生廢棄物清運公告",
         "timestamp": "1722308109",
         "url": "mail_display.php?timestamp=1722308109",
@@ -194,19 +208,5 @@
             "phone": "6329"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
-        "timestamp": "1721711999",
-        "url": "mail_display.php?timestamp=1721711999",
-        "date": "2024/07/23 13:19",
-        "department": "圖書資訊處校務系統組",
-        "author": {
-            "department": "圖書資訊處校務系統組",
-            "name": "林志軒",
-            "email": "chshlin@gms.ndhu.edu.tw",
-            "phone": "6752"
-        },
-        "attachmentCount": 0
     }
 ]
