@@ -1,0 +1,21 @@
+{
+    "title": "【網路服務維運公告】TWAREN SSL-VPN維護公告",
+    "timestamp": "1723597306",
+    "url": "mail_display.php?timestamp=1723597306",
+    "date": "2024/08/14 09:01",
+    "department": "圖書資訊處網路管理組",
+    "author": {
+        "department": "圖書資訊處網路管理組",
+        "name": "李宇峰",
+        "email": "eric@mail.ndhu.edu.tw",
+        "phone": "03-8906721"
+    },
+    "content": "\u003cdiv class=\"column1-unit\"\u003e\n\n\u003c!--  信件內容   --\u003e\n\u003cpre\u003e分類： 行政公告\n來源： 圖書資訊處網路管理組 - 李宇峰 - eric@mail.ndhu.edu.tw - 電話03-8906721\n對象： 全校教職員_全校學生\n標題： 【網路服務維運公告】TWAREN SSL-VPN維護公告\n日期： Wed, 14 Aug 2024 09:01:46 +0800\n\u003c/pre\u003e\u003chr class=\"clear-contentunit\"/\u003e\u003cpre\u003eTWAREN SSL-VPN維護公告：\n\nTWAREN SSL-VPN服務將於8/15（四）進行維護更新，\n維護時間為8/15（四）08:00~18:00。\n維護期間內，請勿使用SSL-VPN服務，避免作業中斷。\n\n此次更新系統版本將大幅異動，\n連線程式版本將由9.1R18.6---\u0026gt;22.7R2。\n系統更新後，第一次連線系統即會提醒您更新，依系統指示操作即可。\n若有問題仍可手動進行安裝，新版本連線程式下載連結：\n\u003ca href=\"https://ndrive.narlabs.org.tw/navigate/a/#/s/894C6D3B91C94C3EB0D0B4237BC47B426BL\" target=\"_blank\"\u003ehttps://ndrive.narlabs.org.tw/navigate/a/#/s/894C6D3B91C94C3EB0D0B4237BC47B426BL\u003c/a\u003e\npw:nchc\n\n以上說明。\n\n圖書資訊處 網路管理組\n\n\u003c/pre\u003e\n\t\t\n\u003c/div\u003e",
+    "attachments": [
+        {
+            "fileName": "https://ndrive.narlabs.org.tw/navigate/a/#/s/894C6D3B91C94C3EB0D0B4237BC47B426BL",
+            "fileSize": "pw:nchc\n\n以上說明。\n\n圖書資訊處 網路管理組",
+            "fileURL": "https://ndrive.narlabs.org.tw/navigate/a/#/s/894C6D3B91C94C3EB0D0B4237BC47B426BL"
+        }
+    ]
+}

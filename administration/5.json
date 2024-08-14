@@ -1,5 +1,33 @@
 [
     {
+        "title": "【宣導】推動「政府文件標準格式（ODF-CNS15251）實施計畫」",
+        "timestamp": "1720667035",
+        "url": "mail_display.php?timestamp=1720667035",
+        "date": "2024/07/11 11:03",
+        "department": "圖書資訊處綜合業務組",
+        "author": {
+            "department": "圖書資訊處綜合業務組",
+            "name": "陳偉",
+            "email": "ichirowei@gms.ndhu.edu.tw",
+            "phone": "6743"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "行政大樓4樓走廊(416會議室前)空調設備拆除作業公告",
+        "timestamp": "1720658924",
+        "url": "mail_display.php?timestamp=1720658924",
+        "date": "2024/07/11 08:48",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "張宗豪",
+            "email": "Zonghao@gms.ndhu.edu.tw",
+            "phone": "6389"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "擷雲莊風、雅筑宿舍熱水暫時停止供應公告",
         "timestamp": "1720610281",
         "url": "mail_display.php?timestamp=1720610281",
@@ -180,33 +208,5 @@
             "phone": "6393"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "113年暑假壽豐校區高壓設備檢測規劃停電時程(07/08~07/26)公告(第2次公告)",
-        "timestamp": "1720064638",
-        "url": "mail_display.php?timestamp=1720064638",
-        "date": "2024/07/04 11:43",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉景富",
-            "email": "nickak@gms.ndhu.edu.tw",
-            "phone": "890-6373"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "114學年度新增校核心通識課程申請作業",
-        "timestamp": "1720054958",
-        "url": "mail_display.php?timestamp=1720054958",
-        "date": "2024/07/04 09:02",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 1
     }
 ]
