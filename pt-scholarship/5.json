@@ -1,5 +1,19 @@
 [
     {
+        "title": "【論文獎助】國立政治大學雷震紀念館「2024 年雷震公益信託獎學金論文甄選」",
+        "timestamp": "1716856272",
+        "url": "mail_display.php?timestamp=1716856272",
+        "date": "2024/05/28 08:31",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【論文獎助】台灣公安學會「第一屆【好人不寂寞】(消防之父-陳弘毅論文獎)論文競賽」",
         "timestamp": "1716795648",
         "url": "mail_display.php?timestamp=1716795648",
@@ -194,19 +208,5 @@
             "phone": "6667"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "Internship for PhD students - Scholarship offer",
-        "timestamp": "1715850878",
-        "url": "mail_display.php?timestamp=1715850878",
-        "date": "2024/05/16 17:14",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 4
     }
 ]

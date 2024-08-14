@@ -1,5 +1,19 @@
 [
     {
+        "title": "【陸上颱風警報】「凱米颱風」陸上警報已於本日(23日)11:30發布，請注意！The Central Weather Bureau Typhoon Watch Advisory 【GAEMI】",
+        "timestamp": "1721709608",
+        "url": "mail_display.php?timestamp=1721709608",
+        "date": "2024/07/23 12:40",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "劉豫海",
+            "email": "lyh7680@gms.ndhu.edu.tw",
+            "phone": "6221"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "提醒防颱準備(公告)",
         "timestamp": "1721708953",
         "url": "mail_display.php?timestamp=1721708953",
@@ -194,19 +208,5 @@
             "phone": "6212"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "《新生入學活動》113學年新生入學活動-社團博覽會報名與東華之夜表演團隊徵選",
-        "timestamp": "1720678829",
-        "url": "mail_display.php?timestamp=1720678829",
-        "date": "2024/07/11 14:20",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "余惠真",
-            "email": "nacy4631@gms.ndhu.edu.tw",
-            "phone": "6232"
-        },
-        "attachmentCount": 2
     }
 ]
