@@ -1,19 +1,5 @@
 [
     {
-        "title": "113學年度第1學期「新生」就學優待減免學雜費申請公告",
-        "timestamp": "1723690394",
-        "url": "mail_display.php?timestamp=1723690394",
-        "date": "2024/08/15 10:53",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "李欣憓",
-            "email": "dora.lee@gms.ndhu.edu.tw",
-            "phone": "6218"
-        },
-        "attachmentCount": 4
-    },
-    {
         "title": "【第2次公告】本校113年8月20日至9月1日兼任助理、臨時工及工讀生等勞健保受理期間，因配合台電公司113年8月23日(星期五)69KV「光華-華紙、東華線」輸變電設備維護之停電及系統停機，提前於113年8月20日(二)下午17時截止收件；9月2日起恢復至提前3個工作日前送件，請特別注意時程掌握。",
         "timestamp": "1723689861",
         "url": "mail_display.php?timestamp=1723689861",
@@ -208,5 +194,19 @@
             "phone": "6842"
         },
         "attachmentCount": 2
+    },
+    {
+        "title": "【人事室公告】因北迴鐵路已通車，故即日起東人字第1130017404號函停止適用。",
+        "timestamp": "1723026138",
+        "url": "mail_display.php?timestamp=1723026138",
+        "date": "2024/08/07 18:22",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "劉依虹",
+            "email": "joyce_liu@gms.ndhu.edu.tw",
+            "phone": "6060"
+        },
+        "attachmentCount": 0
     }
 ]
