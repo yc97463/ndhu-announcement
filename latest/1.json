@@ -1,5 +1,19 @@
 [
     {
+        "title": "【圖書館資料庫訊息】《教室電影院公播大平台》",
+        "timestamp": "1723707804",
+        "url": "mail_display.php?timestamp=1723707804",
+        "date": "2024/08/15 15:43",
+        "department": "圖書資訊處",
+        "author": {
+            "department": "圖書資訊處",
+            "name": "周小萍",
+            "email": "hedy@gms.ndhu.edu.tw",
+            "phone": "8906852"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【第2次公告】本校113年8月20日至9月1日兼任助理、臨時工及工讀生等勞健保受理期間，因配合台電公司113年8月23日(星期五)69KV「光華-華紙、東華線」輸變電設備維護之停電及系統停機，提前於113年8月20日(二)下午17時截止收件；9月2日起恢復至提前3個工作日前送件，請特別注意時程掌握。",
         "timestamp": "1723689861",
         "url": "mail_display.php?timestamp=1723689861",
@@ -194,19 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【活動轉知】國立屏東大學「春風化雨-談中正大學教學專業發展數位學習碩士在職專班辦學經驗分享」線上講座",
-        "timestamp": "1723539972",
-        "url": "mail_display.php?timestamp=1723539972",
-        "date": "2024/08/13 17:06",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 4
     }
 ]
