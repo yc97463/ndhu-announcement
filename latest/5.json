@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】南投縣113-1清寒優秀學生獎學金 (限南投縣籍)",
+        "timestamp": "1723045653",
+        "url": "mail_display.php?timestamp=1723045653",
+        "date": "2024/08/07 23:47",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】台南市112-2清寒優秀學生獎學金 (限台南市籍)",
         "timestamp": "1723042189",
         "url": "mail_display.php?timestamp=1723042189",
@@ -194,19 +208,5 @@
             "phone": "03-8906373"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "多容館113年8月9日停電通知",
-        "timestamp": "1722991939",
-        "url": "mail_display.php?timestamp=1722991939",
-        "date": "2024/08/07 08:52",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "志學門路口道路施作事宜",
+        "timestamp": "1723509912",
+        "url": "mail_display.php?timestamp=1723509912",
+        "date": "2024/08/13 08:45",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "張宗豪",
+            "email": "Zonghao@gms.ndhu.edu.tw",
+            "phone": "6389"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【徵才公告】本校人事室徵聘職務代理人【校務基金工作人員】1名。",
         "timestamp": "1723453948",
         "url": "mail_display.php?timestamp=1723453948",
@@ -194,19 +208,5 @@
             "phone": "03-8906219"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "多容館113年8月9日停電時間延長通知",
-        "timestamp": "1723178515",
-        "url": "mail_display.php?timestamp=1723178515",
-        "date": "2024/08/09 12:41",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "890-6376"
-        },
-        "attachmentCount": 0
     }
 ]
