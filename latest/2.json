@@ -1,5 +1,33 @@
 [
     {
+        "title": "【徵才訊息】國立東華大學教育部智慧型互動屏幕結合個人化學習載具補助計畫徵聘專任助理一名",
+        "timestamp": "1723533268",
+        "url": "mail_display.php?timestamp=1723533268",
+        "date": "2024/08/13 15:14",
+        "department": "花師教育學院",
+        "author": {
+            "department": "花師教育學院",
+            "name": "許小姐",
+            "email": "ling30@gms.ndhu.edu.tw",
+            "phone": "03-8903777"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【轉知】113年度學海計畫記者會-歡迎前往聆聽寶貴經驗",
+        "timestamp": "1723528431",
+        "url": "mail_display.php?timestamp=1723528431",
+        "date": "2024/08/13 13:53",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "志學門(後門)路口道路暨車牌辨識系統升級施工公告",
         "timestamp": "1723525867",
         "url": "mail_display.php?timestamp=1723525867",
@@ -180,33 +208,5 @@
             "phone": "5403"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【課程】AI基礎班:ChatGPT與內容行銷",
-        "timestamp": "1723441123",
-        "url": "mail_display.php?timestamp=1723441123",
-        "date": "2024/08/12 13:38",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "高云偈",
-            "email": "jerrygao@gms.ndhu.edu.tw",
-            "phone": "3789"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "‼️延長報名8/15下午17點前‼️📢113年度【「Spii 從東海岸起飛」原住民族廣播電台人才培育工作坊】🔥🔥",
-        "timestamp": "1723440743",
-        "url": "mail_display.php?timestamp=1723440743",
-        "date": "2024/08/12 13:32",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "巴莉亞妲．蘇利伊",
-            "email": "damu@gms.ndhu.edu.tw",
-            "phone": "5824"
-        },
-        "attachmentCount": 4
     }
 ]

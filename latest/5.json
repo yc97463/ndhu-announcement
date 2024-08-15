@@ -1,5 +1,33 @@
 [
     {
+        "title": "國立東華大學理工學院國際學士班徵聘計畫助理一名",
+        "timestamp": "1723015422",
+        "url": "mail_display.php?timestamp=1723015422",
+        "date": "2024/08/07 15:23",
+        "department": "理工學院",
+        "author": {
+            "department": "理工學院",
+            "name": "潘小姐",
+            "email": "tzuyu@gms.ndhu.edu.tw",
+            "phone": "3502"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【傑出校友選拔】臺中市立臺中第二高級中等學校102校慶辦理傑出校友表揚，敬請本校協助轉知所屬並鼓勵該校校友踴躍報名參加遴選。",
+        "timestamp": "1723013894",
+        "url": "mail_display.php?timestamp=1723013894",
+        "date": "2024/08/07 14:58",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "陳美杏",
+            "email": "msing@gms.ndhu.edu.tw",
+            "phone": "6053"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【單身聯誼】國立中興大學辦理113年「中興有你，約定幸福見」單身聯誼活動，歡迎單身男女踴躍參加。",
         "timestamp": "1723013399",
         "url": "mail_display.php?timestamp=1723013399",
@@ -180,33 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 7
-    },
-    {
-        "title": "體育館及桌球室火警自動警報設備更新施工公告",
-        "timestamp": "1722931428",
-        "url": "mail_display.php?timestamp=1722931428",
-        "date": "2024/08/06 16:03",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "賴名塑",
-            "email": "a54604@gms.ndhu.edu.tw",
-            "phone": "8906378"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【徵才】高雄市政府勞工局訓練就業中心113年8月17日辦理「永續創薪 優職高雄」現場徵才活動",
-        "timestamp": "1722931238",
-        "url": "mail_display.php?timestamp=1722931238",
-        "date": "2024/08/06 16:00",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
     }
 ]
