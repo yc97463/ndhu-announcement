@@ -1,5 +1,33 @@
 [
     {
+        "title": "【單身聯誼】",
+        "timestamp": "1721021297",
+        "url": "mail_display.php?timestamp=1721021297",
+        "date": "2024/07/15 13:28",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "陳美杏",
+            "email": "msing@gms.ndhu.edu.tw",
+            "phone": "6053"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "(更正職缺網址)高雄市政府勞工局訓練就業中心113年7月27日辦理現場徵才活動",
+        "timestamp": "1721021075",
+        "url": "mail_display.php?timestamp=1721021075",
+        "date": "2024/07/15 13:24",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【萬安演習】2024年「萬安47號演習」通知2024 Joint Civil-Military Air-Defense exercise(No.47 Wan-An Exercise）",
         "timestamp": "1721008630",
         "url": "mail_display.php?timestamp=1721008630",
@@ -180,33 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【轉知】第9屆「經濟部國家產業創新獎」自即日起至本（113）年9月20日下午5時止受理報名",
-        "timestamp": "1720488370",
-        "url": "mail_display.php?timestamp=1720488370",
-        "date": "2024/07/09 09:26",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "李淑淳",
-            "email": "chun@gms.ndhu.edu.tw",
-            "phone": "6522"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【傑出校友選拔】元培醫事科技大學辦理113年度傑出及菁英校友遴選，敬請惠允協助於貴單位服務之校友中推薦人選1名參加。",
-        "timestamp": "1720486601",
-        "url": "mail_display.php?timestamp=1720486601",
-        "date": "2024/07/09 08:56",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "陳美杏",
-            "email": "msing@gms.ndhu.edu.tw",
-            "phone": "6053"
-        },
-        "attachmentCount": 4
     }
 ]

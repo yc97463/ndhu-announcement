@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才】臺北市政府衛生局約聘僱人員職缺甄選(心理師、社工師及關懷訪視員等)",
+        "timestamp": "1723708256",
+        "url": "mail_display.php?timestamp=1723708256",
+        "date": "2024/08/15 15:50",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【圖書館資料庫訊息】《教室電影院公播大平台》",
         "timestamp": "1723707804",
         "url": "mail_display.php?timestamp=1723707804",
@@ -194,19 +208,5 @@
             "phone": "03-8906721"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "113年度校區內客貨電梯進行月保養排程通告( 8 月保養)",
-        "timestamp": "1723597055",
-        "url": "mail_display.php?timestamp=1723597055",
-        "date": "2024/08/14 08:57",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
     }
 ]
