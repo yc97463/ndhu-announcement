@@ -1,5 +1,33 @@
 [
     {
+        "title": "【網路服務維運公告】TWAREN SSL-VPN維護公告",
+        "timestamp": "1723597306",
+        "url": "mail_display.php?timestamp=1723597306",
+        "date": "2024/08/14 09:01",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "李宇峰",
+            "email": "eric@mail.ndhu.edu.tw",
+            "phone": "03-8906721"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "113年度校區內客貨電梯進行月保養排程通告( 8 月保養)",
+        "timestamp": "1723597055",
+        "url": "mail_display.php?timestamp=1723597055",
+        "date": "2024/08/14 08:57",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【活動轉知】國立屏東大學「春風化雨-談中正大學教學專業發展數位學習碩士在職專班辦學經驗分享」線上講座",
         "timestamp": "1723539972",
         "url": "mail_display.php?timestamp=1723539972",
@@ -180,33 +208,5 @@
             "phone": "03-8905492"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【臺大EMI教學資源中心】跨校EMI講座 (慈濟大學場)",
-        "timestamp": "1723449941",
-        "url": "mail_display.php?timestamp=1723449941",
-        "date": "2024/08/12 16:05",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "林瑜珊",
-            "email": "lc@gms.ndhu.edu.tw",
-            "phone": "03-8905462"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【轉知】「2024香港創新科技國際發明展」",
-        "timestamp": "1723443401",
-        "url": "mail_display.php?timestamp=1723443401",
-        "date": "2024/08/12 14:16",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "李淑淳",
-            "email": "chun@gms.ndhu.edu.tw",
-            "phone": "6522"
-        },
-        "attachmentCount": 1
     }
 ]
