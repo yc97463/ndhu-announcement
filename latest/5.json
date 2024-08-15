@@ -1,5 +1,19 @@
 [
     {
+        "title": "【論文獎助】台灣客家研究學會2024年「客家研究優秀博碩士論文獎」",
+        "timestamp": "1723036485",
+        "url": "mail_display.php?timestamp=1723036485",
+        "date": "2024/08/07 21:14",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "圖書館論文系統恢復使用 The library's e-thesis/dissertations system is working",
         "timestamp": "1723029878",
         "url": "mail_display.php?timestamp=1723029878",
@@ -194,19 +208,5 @@
             "phone": "5778"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "113學年度第1學期兵役緩徵、儘召網路登錄凱放申請",
-        "timestamp": "1722990794",
-        "url": "mail_display.php?timestamp=1722990794",
-        "date": "2024/08/07 08:33",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "黃勇程",
-            "email": "victor0903@gms.ndhu.edu.tw",
-            "phone": "6225"
-        },
-        "attachmentCount": 1
     }
 ]

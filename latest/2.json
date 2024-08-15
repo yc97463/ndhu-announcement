@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】桃園市利晉工程社會福利慈善事業基金會113年「清寒助學金」(限桃園市籍)",
+        "timestamp": "1723597506",
+        "url": "mail_display.php?timestamp=1723597506",
+        "date": "2024/08/14 09:05",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【網路服務維運公告】TWAREN SSL-VPN維護公告",
         "timestamp": "1723597306",
         "url": "mail_display.php?timestamp=1723597306",
@@ -194,19 +208,5 @@
             "phone": "6057"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【臺大EMI教學資源中心】跨校EMI講座 (慈濟大學場)",
-        "timestamp": "1723450120",
-        "url": "mail_display.php?timestamp=1723450120",
-        "date": "2024/08/12 16:08",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "林瑜珊",
-            "email": "lc@gms.ndhu.edu.tw",
-            "phone": "03-8905492"
-        },
-        "attachmentCount": 2
     }
 ]
