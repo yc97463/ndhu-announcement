@@ -1,5 +1,19 @@
 [
     {
+        "title": "113年度線上盤點作業再次開放系統，請於113年9月30日前完成線上盤點作業",
+        "timestamp": "1721183352",
+        "url": "mail_display.php?timestamp=1721183352",
+        "date": "2024/07/17 10:29",
+        "department": "總務處保管組",
+        "author": {
+            "department": "總務處保管組",
+            "name": "陳楚治",
+            "email": "kolas1219@gms.ndhu.edu.tw",
+            "phone": "03-8906342"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "本校新簽定之涮乃葉、胖叔叔烘焙屋以及敦謙國際集團（旅宿業）特約商店公告。",
         "timestamp": "1721176762",
         "url": "mail_display.php?timestamp=1721176762",
@@ -194,19 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【校園防疫宣導】防蚊蟲小黑蚊、登革熱",
-        "timestamp": "1720570236",
-        "url": "mail_display.php?timestamp=1720570236",
-        "date": "2024/07/10 08:10",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 4
     }
 ]

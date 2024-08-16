@@ -1,5 +1,19 @@
 [
     {
+        "title": "志學門外環道道路施作事宜",
+        "timestamp": "1723082248",
+        "url": "mail_display.php?timestamp=1723082248",
+        "date": "2024/08/08 09:57",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "張宗豪",
+            "email": "Zonghao@gms.ndhu.edu.tw",
+            "phone": "6389"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "壽豐校區體育館空調設備汰換施工公告",
         "timestamp": "1723078334",
         "url": "mail_display.php?timestamp=1723078334",
@@ -194,19 +208,5 @@
             "phone": "8903688"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "臺加雙邊人才研習計畫-2025 全球鏈結研究實習（Mitacs - Globalink Research Internship, GRI）",
-        "timestamp": "1722993702",
-        "url": "mail_display.php?timestamp=1722993702",
-        "date": "2024/08/07 09:21",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 2
     }
 ]
