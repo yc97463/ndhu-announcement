@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】得力教育基金會113-1清寒獎助學金",
+        "timestamp": "1723252196",
+        "url": "mail_display.php?timestamp=1723252196",
+        "date": "2024/08/10 09:09",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "多容館113年8月9日停電時間延長通知",
         "timestamp": "1723178515",
         "url": "mail_display.php?timestamp=1723178515",
@@ -194,19 +208,5 @@
             "phone": "6389"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "壽豐校區體育館空調設備汰換施工公告",
-        "timestamp": "1723078334",
-        "url": "mail_display.php?timestamp=1723078334",
-        "date": "2024/08/08 08:52",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉景富",
-            "email": "nickak@gms.ndhu.edu.tw",
-            "phone": "03-8906373"
-        },
-        "attachmentCount": 0
     }
 ]
