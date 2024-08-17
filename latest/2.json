@@ -1,5 +1,19 @@
 [
     {
+        "title": "總務處事務组徵求113學年度新生報到交通管制工讀生公告",
+        "timestamp": "1723606496",
+        "url": "mail_display.php?timestamp=1723606496",
+        "date": "2024/08/14 11:34",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "戴永智",
+            "email": "caramel623@gms.ndhu.edu.tw",
+            "phone": "038906402"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】本校113-1學期「許茂林先生清寒勵志獎助學金」 ",
         "timestamp": "1723606099",
         "url": "mail_display.php?timestamp=1723606099",
@@ -194,19 +208,5 @@
             "phone": "8905179"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【傑出校友選拔】國立臺南大學， 敬請推薦或轉知服務於本單位之校友參加遴選。",
-        "timestamp": "1723515001",
-        "url": "mail_display.php?timestamp=1723515001",
-        "date": "2024/08/13 10:10",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "陳美杏",
-            "email": "msing@gms.ndhu.edu.tw",
-            "phone": "6053"
-        },
-        "attachmentCount": 2
     }
 ]
