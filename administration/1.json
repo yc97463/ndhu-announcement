@@ -1,5 +1,19 @@
 [
     {
+        "title": "113年度壽豐校區高壓設備檢測8月份即將停電排程(第6次公告)",
+        "timestamp": "1723865149",
+        "url": "mail_display.php?timestamp=1723865149",
+        "date": "2024/08/17 11:25",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉景富",
+            "email": "nickak@gms.ndhu.edu.tw",
+            "phone": "(03)8906373"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "圖書館貨梯及原民院電梯1故障維修公告",
         "timestamp": "1723814038",
         "url": "mail_display.php?timestamp=1723814038",
@@ -194,19 +208,5 @@
             "phone": "6389"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "壽豐校區體育館空調設備汰換施工公告",
-        "timestamp": "1723078334",
-        "url": "mail_display.php?timestamp=1723078334",
-        "date": "2024/08/08 08:52",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉景富",
-            "email": "nickak@gms.ndhu.edu.tw",
-            "phone": "03-8906373"
-        },
-        "attachmentCount": 0
     }
 ]
