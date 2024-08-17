@@ -1,5 +1,19 @@
 [
     {
+        "title": "【活動宣傳】『溫室氣體盤查及抵換ISO14064訓練班』探盤查查證員40小時訓練課程",
+        "timestamp": "1716792418",
+        "url": "mail_display.php?timestamp=1716792418",
+        "date": "2024/05/27 14:46",
+        "department": "永續發展中心籌備處",
+        "author": {
+            "department": "永續發展中心籌備處",
+            "name": "李敏賢",
+            "email": "jordanlee@gms.ndhu.edu.tw",
+            "phone": "5919"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【課務組】選課系統現已完成修復，各項功能可正常使用",
         "timestamp": "1716777286",
         "url": "mail_display.php?timestamp=1716777286",
@@ -194,19 +208,5 @@
             "phone": "6122-6126"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【課務組】112全學年專任(案)教師授課時數確認通知(請於5/31前完成，謝謝！)",
-        "timestamp": "1715673583",
-        "url": "mail_display.php?timestamp=1715673583",
-        "date": "2024/05/14 15:59",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "course@gms.ndhu.edu.tw",
-            "phone": "6122、6124"
-        },
-        "attachmentCount": 0
     }
 ]
