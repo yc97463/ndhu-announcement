@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才訊息】本校總務處(事務組) 招聘校務基金助理",
+        "timestamp": "1723423988",
+        "url": "mail_display.php?timestamp=1723423988",
+        "date": "2024/08/12 08:53",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "113-1學生就學貸款申請公告Student Loan application for Fall Semester",
         "timestamp": "1723423808",
         "url": "mail_display.php?timestamp=1723423808",
@@ -194,19 +208,5 @@
             "phone": "5824"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "TA job for Fall Semester 2024",
-        "timestamp": "1723088186",
-        "url": "mail_display.php?timestamp=1723088186",
-        "date": "2024/08/08 11:36",
-        "department": "原住民族研究國際博士班",
-        "author": {
-            "department": "原住民族研究國際博士班",
-            "name": "Ms. Dungi黃怡瑄",
-            "email": "dungi@gms.ndhu.edu.tw",
-            "phone": "+886 3 8905760"
-        },
-        "attachmentCount": 0
     }
 ]
