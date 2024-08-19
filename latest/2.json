@@ -1,5 +1,19 @@
 [
     {
+        "title": "【重要公告】總務處各組回歸行政大樓時間公告（第2次公告）",
+        "timestamp": "1724028639",
+        "url": "mail_display.php?timestamp=1724028639",
+        "date": "2024/08/19 08:50",
+        "department": "總務處",
+        "author": {
+            "department": "總務處",
+            "name": "陳宇欽",
+            "email": "yuchin@gms.ndhu.edu.tw",
+            "phone": "分機6307"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "志學門路口道路改善工程路口管制時段",
         "timestamp": "1724027263",
         "url": "mail_display.php?timestamp=1724027263",
@@ -194,19 +208,5 @@
             "phone": "6057"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "113學年度行政大樓地下室機車停車格開放申請公告",
-        "timestamp": "1723684931",
-        "url": "mail_display.php?timestamp=1723684931",
-        "date": "2024/08/15 09:22",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 1
     }
 ]

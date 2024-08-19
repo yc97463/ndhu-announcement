@@ -1,5 +1,19 @@
 [
     {
+        "title": "The tuition and miscellaneous fees payment form for the first semester of 2024 academic year can be downloaded from August 19!",
+        "timestamp": "1724060325",
+        "url": "mail_display.php?timestamp=1724060325",
+        "date": "2024/08/19 17:38",
+        "department": "總務處出納組",
+        "author": {
+            "department": "總務處出納組",
+            "name": "鄧瑞美",
+            "email": "deng@gms.ndhu.edu.tw",
+            "phone": "03-8906366"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "113學年度第1學期學雜費繳費單(113/08/19)可以下載囉！",
         "timestamp": "1724060105",
         "url": "mail_display.php?timestamp=1724060105",
@@ -192,20 +206,6 @@
             "name": "林志軒",
             "email": "chshlin@gms.ndhu.edu.tw",
             "phone": "6752"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【重要公告】總務處各組回歸行政大樓時間公告（第2次公告）",
-        "timestamp": "1724028639",
-        "url": "mail_display.php?timestamp=1724028639",
-        "date": "2024/08/19 08:50",
-        "department": "總務處",
-        "author": {
-            "department": "總務處",
-            "name": "陳宇欽",
-            "email": "yuchin@gms.ndhu.edu.tw",
-            "phone": "分機6307"
         },
         "attachmentCount": 0
     }
