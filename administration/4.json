@@ -1,5 +1,19 @@
 [
     {
+        "title": "車牌辨識系統升級施工公告［第1次］",
+        "timestamp": "1722245715",
+        "url": "mail_display.php?timestamp=1722245715",
+        "date": "2024/07/29 17:35",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【圖書館公告】圖書館暑假閉館期間急用書借閱",
         "timestamp": "1722227276",
         "url": "mail_display.php?timestamp=1722227276",
@@ -194,19 +208,5 @@
             "phone": "6329"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【投票通知】 113 學年度校務會議行政人員代表遴選，請至校園會議投票系統踴躍投票，謝謝大家。",
-        "timestamp": "1721707152",
-        "url": "mail_display.php?timestamp=1721707152",
-        "date": "2024/07/23 11:59",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "林淑惠",
-            "email": "linsh@gms.ndhu.edu.tw",
-            "phone": "8906059"
-        },
-        "attachmentCount": 4
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "【論文獎助】臺灣災害管理學會「2024年臺灣災害管理研討會暨國家科學及技術委員會防災科技學門成果發表會」論文徵文",
+        "timestamp": "1723252674",
+        "url": "mail_display.php?timestamp=1723252674",
+        "date": "2024/08/10 09:17",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】得力教育基金會113-1清寒獎助學金",
         "timestamp": "1723252196",
         "url": "mail_display.php?timestamp=1723252196",
@@ -194,19 +208,5 @@
             "phone": "(03)890-5759"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "志學門外環道道路施作事宜",
-        "timestamp": "1723082248",
-        "url": "mail_display.php?timestamp=1723082248",
-        "date": "2024/08/08 09:57",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "張宗豪",
-            "email": "Zonghao@gms.ndhu.edu.tw",
-            "phone": "6389"
-        },
-        "attachmentCount": 1
     }
 ]

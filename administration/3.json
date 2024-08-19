@@ -1,5 +1,19 @@
 [
     {
+        "title": "8月7日上午10-11時壽豐消防隊於環境學院進行消防演練",
+        "timestamp": "1722785166",
+        "url": "mail_display.php?timestamp=1722785166",
+        "date": "2024/08/04 23:26",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "賴名塑",
+            "email": "a54604@gms.ndhu.edu.tw",
+            "phone": "8906378"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【課務組】113學年度第1學期學士班課程「免修」注意事項",
         "timestamp": "1722482333",
         "url": "mail_display.php?timestamp=1722482333",
@@ -194,19 +208,5 @@
             "phone": "6385"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "車牌辨識系統升級施工公告［第1次］",
-        "timestamp": "1722245715",
-        "url": "mail_display.php?timestamp=1722245715",
-        "date": "2024/07/29 17:35",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 1
     }
 ]
