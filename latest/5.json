@@ -1,5 +1,19 @@
 [
     {
+        "title": "【課程】AI基礎班:ChatGPT與內容行銷",
+        "timestamp": "1723441123",
+        "url": "mail_display.php?timestamp=1723441123",
+        "date": "2024/08/12 13:38",
+        "department": "管理學院",
+        "author": {
+            "department": "管理學院",
+            "name": "高云偈",
+            "email": "jerrygao@gms.ndhu.edu.tw",
+            "phone": "3789"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "‼️延長報名8/15下午17點前‼️📢113年度【「Spii 從東海岸起飛」原住民族廣播電台人才培育工作坊】🔥🔥",
         "timestamp": "1723440743",
         "url": "mail_display.php?timestamp=1723440743",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "好康報報~113-1  VIP垂直整合專題(三)畜產經營探索與實作選課招募!",
-        "timestamp": "1723105883",
-        "url": "mail_display.php?timestamp=1723105883",
-        "date": "2024/08/08 16:31",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "洄瀾共好大學社會責任中心",
-            "email": "techusr@gms.ndhu.edu.tw",
-            "phone": "3770/3772"
-        },
-        "attachmentCount": 1
     }
 ]

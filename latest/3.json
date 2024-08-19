@@ -1,5 +1,19 @@
 [
     {
+        "title": "【第2次公告】本校113年8月20日至9月1日兼任助理、臨時工及工讀生等勞健保受理期間，因配合台電公司113年8月23日(星期五)69KV「光華-華紙、東華線」輸變電設備維護之停電及系統停機，提前於113年8月20日(二)下午17時截止收件；9月2日起恢復至提前3個工作日前送件，請特別注意時程掌握。",
+        "timestamp": "1723689861",
+        "url": "mail_display.php?timestamp=1723689861",
+        "date": "2024/08/15 10:44",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "陳治豪",
+            "email": "jackchen168@gms.ndhu.edu.tw",
+            "phone": "6057"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113學年度行政大樓地下室機車停車格開放申請公告",
         "timestamp": "1723684931",
         "url": "mail_display.php?timestamp=1723684931",
@@ -194,19 +208,5 @@
             "phone": "03-8903013"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【徵才訊息】國立東華大學教育部智慧型互動屏幕結合個人化學習載具補助計畫徵聘專任助理一名",
-        "timestamp": "1723533268",
-        "url": "mail_display.php?timestamp=1723533268",
-        "date": "2024/08/13 15:14",
-        "department": "花師教育學院",
-        "author": {
-            "department": "花師教育學院",
-            "name": "許小姐",
-            "email": "ling30@gms.ndhu.edu.tw",
-            "phone": "03-8903777"
-        },
-        "attachmentCount": 0
     }
 ]
