@@ -1,5 +1,47 @@
 [
     {
+        "title": "校區部分區域113/07/31緊急搶修停水公告",
+        "timestamp": "1722420393",
+        "url": "mail_display.php?timestamp=1722420393",
+        "date": "2024/07/31 18:06",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "8906376"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【公告】本校113年8月1日起行政及學術主管名冊",
+        "timestamp": "1722417049",
+        "url": "mail_display.php?timestamp=1722417049",
+        "date": "2024/07/31 17:10",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "楊惠雯",
+            "email": "hwyang@gms.ndhu.edu.tw",
+            "phone": "6061"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "圖書館館藏查詢臨時網址",
+        "timestamp": "1722409170",
+        "url": "mail_display.php?timestamp=1722409170",
+        "date": "2024/07/31 14:59",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "廖銘珠",
+            "email": "min-judy@gms.ndhu.edu.tw",
+            "phone": "6855"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "行政大樓空調設備及能源管理系統安裝工程外牆施工公告",
         "timestamp": "1722406476",
         "url": "mail_display.php?timestamp=1722406476",
@@ -164,48 +206,6 @@
             "name": "周小萍",
             "email": "hedy@gms.ndhu.edu.tw",
             "phone": "8906852"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "library's e-thesis/dissertations system is down for maintenance, and the steps for submitting thesis/dissertations have been changed",
-        "timestamp": "1722157245",
-        "url": "mail_display.php?timestamp=1722157245",
-        "date": "2024/07/28 17:00",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "簡民享",
-            "email": "jms@gms.ndhu.edu.tw",
-            "phone": "6842"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "圖書館論文系統硬體故障停機維修，為避免延誤離校，論文繳交替代方式",
-        "timestamp": "1722155524",
-        "url": "mail_display.php?timestamp=1722155524",
-        "date": "2024/07/28 16:32",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "簡民享",
-            "email": "jms@gms.ndhu.edu.tw",
-            "phone": "6842"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【課務組】博士班、碩士班研究生學位考試因颱風影響致北迴鐵路中斷因應措施",
-        "timestamp": "1722085718",
-        "url": "mail_display.php?timestamp=1722085718",
-        "date": "2024/07/27 21:08",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "sychen@gms.ndhu.edu.tw",
-            "phone": "6122～6126"
         },
         "attachmentCount": 0
     }

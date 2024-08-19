@@ -1,5 +1,47 @@
 [
     {
+        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
+        "timestamp": "1724029333",
+        "url": "mail_display.php?timestamp=1724029333",
+        "date": "2024/08/19 09:02",
+        "department": "圖書資訊處校務系統組",
+        "author": {
+            "department": "圖書資訊處校務系統組",
+            "name": "林志軒",
+            "email": "chshlin@gms.ndhu.edu.tw",
+            "phone": "6752"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【重要公告】總務處各組回歸行政大樓時間公告（第2次公告）",
+        "timestamp": "1724028639",
+        "url": "mail_display.php?timestamp=1724028639",
+        "date": "2024/08/19 08:50",
+        "department": "總務處",
+        "author": {
+            "department": "總務處",
+            "name": "陳宇欽",
+            "email": "yuchin@gms.ndhu.edu.tw",
+            "phone": "分機6307"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "志學門路口道路改善工程路口管制時段",
+        "timestamp": "1724027263",
+        "url": "mail_display.php?timestamp=1724027263",
+        "date": "2024/08/19 08:27",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "張宗豪",
+            "email": "Zonghao@gms.ndhu.edu.tw",
+            "phone": "6389"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "📢【延長報名至8/23】原住民族廣播電台人才培育工作坊 Spii(夢想) 從東海岸起飛🔥🔥",
         "timestamp": "1723880797",
         "url": "mail_display.php?timestamp=1723880797",
@@ -166,47 +208,5 @@
             "phone": "8906852"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【第2次公告】本校113年8月20日至9月1日兼任助理、臨時工及工讀生等勞健保受理期間，因配合台電公司113年8月23日(星期五)69KV「光華-華紙、東華線」輸變電設備維護之停電及系統停機，提前於113年8月20日(二)下午17時截止收件；9月2日起恢復至提前3個工作日前送件，請特別注意時程掌握。",
-        "timestamp": "1723689861",
-        "url": "mail_display.php?timestamp=1723689861",
-        "date": "2024/08/15 10:44",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "陳治豪",
-            "email": "jackchen168@gms.ndhu.edu.tw",
-            "phone": "6057"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "113學年度行政大樓地下室機車停車格開放申請公告",
-        "timestamp": "1723684931",
-        "url": "mail_display.php?timestamp=1723684931",
-        "date": "2024/08/15 09:22",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【轉知】國立臺北商業大學辦理產業新尖兵計畫「全端工程師人才培訓班(第4梯次)」",
-        "timestamp": "1723616621",
-        "url": "mail_display.php?timestamp=1723616621",
-        "date": "2024/08/14 14:23",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 4
     }
 ]

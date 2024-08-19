@@ -1,5 +1,19 @@
 [
     {
+        "title": "第十七屆親善大使團招募!!",
+        "timestamp": "1724030492",
+        "url": "mail_display.php?timestamp=1724030492",
+        "date": "2024/08/19 09:21",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "游雅筑",
+            "email": "pink389124@gms.ndhu.edu.tw",
+            "phone": "8906236"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "圖書館貨梯及原民院電梯1故障維修公告",
         "timestamp": "1723814038",
         "url": "mail_display.php?timestamp=1723814038",
@@ -194,19 +208,5 @@
             "phone": "890-6376"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【Forwarded】Event Sharing: Start a Business in Taiwan - Insights from a 24-Year Entrepreneurial Pro!",
-        "timestamp": "1723107173",
-        "url": "mail_display.php?timestamp=1723107173",
-        "date": "2024/08/08 16:52",
-        "department": "國際事務處",
-        "author": {
-            "department": "國際事務處",
-            "name": "羅靖儀",
-            "email": "oia@gms.ndhu.edu.tw",
-            "phone": "（03）8905171"
-        },
-        "attachmentCount": 2
     }
 ]

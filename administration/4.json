@@ -1,5 +1,47 @@
 [
     {
+        "title": "library's e-thesis/dissertations system is down for maintenance, and the steps for submitting thesis/dissertations have been changed",
+        "timestamp": "1722157245",
+        "url": "mail_display.php?timestamp=1722157245",
+        "date": "2024/07/28 17:00",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "簡民享",
+            "email": "jms@gms.ndhu.edu.tw",
+            "phone": "6842"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "圖書館論文系統硬體故障停機維修，為避免延誤離校，論文繳交替代方式",
+        "timestamp": "1722155524",
+        "url": "mail_display.php?timestamp=1722155524",
+        "date": "2024/07/28 16:32",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "簡民享",
+            "email": "jms@gms.ndhu.edu.tw",
+            "phone": "6842"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【課務組】博士班、碩士班研究生學位考試因颱風影響致北迴鐵路中斷因應措施",
+        "timestamp": "1722085718",
+        "url": "mail_display.php?timestamp=1722085718",
+        "date": "2024/07/27 21:08",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "sychen@gms.ndhu.edu.tw",
+            "phone": "6122～6126"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "風災後行駛校內道路請務必減速慢行",
         "timestamp": "1721901543",
         "url": "mail_display.php?timestamp=1721901543",
@@ -166,47 +208,5 @@
             "phone": "03-8906226"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "學人宿舍區監視器光纖施工公告",
-        "timestamp": "1721471698",
-        "url": "mail_display.php?timestamp=1721471698",
-        "date": "2024/07/20 18:34",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "許智翔",
-            "email": "cocco3746@gms.ndhu.edu.tw",
-            "phone": "03-8906399"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "113年度壽豐校區高壓設備檢測規劃停電時程(第3次公告)",
-        "timestamp": "1721284492",
-        "url": "mail_display.php?timestamp=1721284492",
-        "date": "2024/07/18 14:34",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉景富",
-            "email": "nickak@gms.ndhu.edu.tw",
-            "phone": "03-8906373"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "行政大樓4樓408會議室空調設備及管線拆除作業公告",
-        "timestamp": "1721281882",
-        "url": "mail_display.php?timestamp=1721281882",
-        "date": "2024/07/18 13:51",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "張宗豪",
-            "email": "Zonghao@gms.ndhu.edu.tw",
-            "phone": "6389"
-        },
-        "attachmentCount": 1
     }
 ]
