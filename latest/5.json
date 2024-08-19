@@ -1,5 +1,75 @@
 [
     {
+        "title": "多容館113年8月9日停電時間延長通知",
+        "timestamp": "1723178515",
+        "url": "mail_display.php?timestamp=1723178515",
+        "date": "2024/08/09 12:41",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "890-6376"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "📢113年度【「Spii 從東海岸起飛」原住民族廣播電台人才培育工作坊】開放報名啦🔥🔥(8/12中午12點前報名截止)",
+        "timestamp": "1723178371",
+        "url": "mail_display.php?timestamp=1723178371",
+        "date": "2024/08/09 12:39",
+        "department": "原住民民族學院",
+        "author": {
+            "department": "原住民民族學院",
+            "name": "巴莉亞妲．蘇利伊",
+            "email": "damu@gms.ndhu.edu.tw",
+            "phone": "5824"
+        },
+        "attachmentCount": 4
+    },
+    {
+        "title": "【公告】有關性平三法(性騷擾防治法、性別平等工作法及性別平等教育法)於112年8月16日修正公布，所有修正條文已自本(113)年3月8日施行。為增進本校公務人員性別平等意識，請撥冗至e等公務園+學習平臺研讀性別平等相關數位課程。",
+        "timestamp": "1723174821",
+        "url": "mail_display.php?timestamp=1723174821",
+        "date": "2024/08/09 11:40",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "陳治豪",
+            "email": "jackchen168@gms.ndhu.edu.tw",
+            "phone": "6057"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【公告】本校113年8月20日至9月1日兼任助理、臨時工及工讀生等勞健保受理期間，因配合台電公司113年8月23日(星期五)69KV「光華-華紙、東華線」輸變電設備維護之停電及系統停機，提前於113年8月20日(二)下午17時截止收件；9月2日起恢復至提前3個工作日前送件，請特別注意時程掌握。",
+        "timestamp": "1723168901",
+        "url": "mail_display.php?timestamp=1723168901",
+        "date": "2024/08/09 10:01",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "陳治豪",
+            "email": "jackchen168@gms.ndhu.edu.tw",
+            "phone": "6057"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【Forwarded】Event Sharing: Start a Business in Taiwan - Insights from a 24-Year Entrepreneurial Pro!",
+        "timestamp": "1723107173",
+        "url": "mail_display.php?timestamp=1723107173",
+        "date": "2024/08/08 16:52",
+        "department": "國際事務處",
+        "author": {
+            "department": "國際事務處",
+            "name": "羅靖儀",
+            "email": "oia@gms.ndhu.edu.tw",
+            "phone": "（03）8905171"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【轉知】創業沙龍，報予你知！外籍移民創業家的 24 年經驗分享",
         "timestamp": "1723107103",
         "url": "mail_display.php?timestamp=1723107103",
@@ -136,76 +206,6 @@
             "name": "劉景富",
             "email": "nickak@gms.ndhu.edu.tw",
             "phone": "03-8906373"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【獎助學金申請】南投縣113-1清寒優秀學生獎學金 (限南投縣籍)",
-        "timestamp": "1723045653",
-        "url": "mail_display.php?timestamp=1723045653",
-        "date": "2024/08/07 23:47",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【獎助學金申請】台南市112-2清寒優秀學生獎學金 (限台南市籍)",
-        "timestamp": "1723042189",
-        "url": "mail_display.php?timestamp=1723042189",
-        "date": "2024/08/07 22:49",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【論文獎助】台灣客家研究學會2024年「客家研究優秀博碩士論文獎」",
-        "timestamp": "1723036485",
-        "url": "mail_display.php?timestamp=1723036485",
-        "date": "2024/08/07 21:14",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "圖書館論文系統恢復使用 The library's e-thesis/dissertations system is working",
-        "timestamp": "1723029878",
-        "url": "mail_display.php?timestamp=1723029878",
-        "date": "2024/08/07 19:24",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "簡民享",
-            "email": "jms@gms.ndhu.edu.tw",
-            "phone": "6842"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【人事室公告】因北迴鐵路已通車，故即日起東人字第1130017404號函停止適用。",
-        "timestamp": "1723026138",
-        "url": "mail_display.php?timestamp=1723026138",
-        "date": "2024/08/07 18:22",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "劉依虹",
-            "email": "joyce_liu@gms.ndhu.edu.tw",
-            "phone": "6060"
         },
         "attachmentCount": 0
     }
