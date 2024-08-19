@@ -1,5 +1,33 @@
 [
     {
+        "title": "志學門(後門)路口道路暨車牌辨識系統升級施工公告",
+        "timestamp": "1723525867",
+        "url": "mail_display.php?timestamp=1723525867",
+        "date": "2024/08/13 13:11",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【轉知】日本住友財團研究補助",
+        "timestamp": "1723521009",
+        "url": "mail_display.php?timestamp=1723521009",
+        "date": "2024/08/13 11:50",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "學服組",
+            "email": "emma@gms.ndhu.edu.tw",
+            "phone": "6513"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113年度自資系楊悠娟老師國科會計畫專任暨兼任助理徵才",
         "timestamp": "1723519731",
         "url": "mail_display.php?timestamp=1723519731",
@@ -180,33 +208,5 @@
             "phone": "5824"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【轉知】College of the Canyons 線上教師英語教學培訓計畫",
-        "timestamp": "1723427419",
-        "url": "mail_display.php?timestamp=1723427419",
-        "date": "2024/08/12 09:50",
-        "department": "國際事務處國際合作組",
-        "author": {
-            "department": "國際事務處國際合作組",
-            "name": "陳巧惠",
-            "email": "ice@gms.ndhu.edu.tw",
-            "phone": "5118"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "學務處【交通安全plus團隊】成員招募(歡迎起飛生參加)",
-        "timestamp": "1723426134",
-        "url": "mail_display.php?timestamp=1723426134",
-        "date": "2024/08/12 09:28",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "林嘉瑩",
-            "email": "tea7101@gms.ndhu.edu.tw",
-            "phone": "03-8906226"
-        },
-        "attachmentCount": 1
     }
 ]
