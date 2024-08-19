@@ -1,5 +1,19 @@
 [
     {
+        "title": "第十七屆親善大使團招募!!",
+        "timestamp": "1724030492",
+        "url": "mail_display.php?timestamp=1724030492",
+        "date": "2024/08/19 09:21",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "游雅筑",
+            "email": "pink389124@gms.ndhu.edu.tw",
+            "phone": "8906236"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
         "timestamp": "1724029333",
         "url": "mail_display.php?timestamp=1724029333",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【圖書館資料庫訊息】《教室電影院公播大平台》",
-        "timestamp": "1723707804",
-        "url": "mail_display.php?timestamp=1723707804",
-        "date": "2024/08/15 15:43",
-        "department": "圖書資訊處",
-        "author": {
-            "department": "圖書資訊處",
-            "name": "周小萍",
-            "email": "hedy@gms.ndhu.edu.tw",
-            "phone": "8906852"
-        },
-        "attachmentCount": 1
     }
 ]
