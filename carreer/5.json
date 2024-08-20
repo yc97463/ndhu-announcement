@@ -1,5 +1,33 @@
 [
     {
+        "title": "【徵才訊息】國立東華大學光電工程學系徵聘職務代理人一名",
+        "timestamp": "1711594486",
+        "url": "mail_display.php?timestamp=1711594486",
+        "date": "2024/03/28 10:54",
+        "department": "光電工程學系",
+        "author": {
+            "department": "光電工程學系",
+            "name": "劉碧純",
+            "email": "sun@gms.ndhu.edu.tw",
+            "phone": "3182"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【國立東華大學管理學院財務金融學系系主任】徵聘公告",
+        "timestamp": "1711526194",
+        "url": "mail_display.php?timestamp=1711526194",
+        "date": "2024/03/27 15:56",
+        "department": "管理學院",
+        "author": {
+            "department": "管理學院",
+            "name": "林香君",
+            "email": "smgt@gms.ndhu.edu.tw",
+            "phone": "3002"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【國立東華大學管理學院會計學系系主任】 徵聘公告",
         "timestamp": "1711525355",
         "url": "mail_display.php?timestamp=1711525355",
@@ -180,33 +208,5 @@
             "phone": "3502"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "國立東華大學數位學伴中心 - 112-2學期【大學伴招募說明會】",
-        "timestamp": "1708573309",
-        "url": "mail_display.php?timestamp=1708573309",
-        "date": "2024/02/22 11:41",
-        "department": "花師教育學院",
-        "author": {
-            "department": "花師教育學院",
-            "name": "李宛玲",
-            "email": "etutor_c226@gms.ndhu.edu.tw",
-            "phone": "3816"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【112-2數位學伴！大學伴熱烈招募中】",
-        "timestamp": "1708484776",
-        "url": "mail_display.php?timestamp=1708484776",
-        "date": "2024/02/21 11:06",
-        "department": "花師教育學院",
-        "author": {
-            "department": "花師教育學院",
-            "name": "李宛玲",
-            "email": "etutor_c226@gms.ndhu.edu.tw",
-            "phone": "3816"
-        },
-        "attachmentCount": 5
     }
 ]

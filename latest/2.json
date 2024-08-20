@@ -1,5 +1,19 @@
 [
     {
+        "title": "今天8/19(一)中午志學門路口水泥灌漿管制公告",
+        "timestamp": "1724040038",
+        "url": "mail_display.php?timestamp=1724040038",
+        "date": "2024/08/19 12:00",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "黃章傑",
+            "email": "cotycafe@gms.ndhu.edu.tw",
+            "phone": "5778"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113學年度第1學期「新生」就學優待減免學雜費申請公告",
         "timestamp": "1724038834",
         "url": "mail_display.php?timestamp=1724038834",
@@ -194,19 +208,5 @@
             "phone": "(03)8906373"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "圖書館貨梯及原民院電梯1故障維修公告",
-        "timestamp": "1723814038",
-        "url": "mail_display.php?timestamp=1723814038",
-        "date": "2024/08/16 21:13",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
     }
 ]
