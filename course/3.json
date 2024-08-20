@@ -1,5 +1,33 @@
 [
     {
+        "title": "【轉知】內政部移民署於112年製作之8分鐘完整版「認識ICERD」動畫影片，請踴躍線上觀賞。",
+        "timestamp": "1718875022",
+        "url": "mail_display.php?timestamp=1718875022",
+        "date": "2024/06/20 17:17",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "陳治豪",
+            "email": "jackchen168@gms.ndhu.edu.tw",
+            "phone": "6057"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "請授課教師提供113學年度第1學期「教師指定參考書清單」",
+        "timestamp": "1718675736",
+        "url": "mail_display.php?timestamp=1718675736",
+        "date": "2024/06/18 09:55",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "陳昱佐",
+            "email": "yutuchen@gms.ndhu.edu.tw",
+            "phone": "6824"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "「縱目歐亞-空間與人文的對話」課程系列講座-6/19（三）姜允玉教授（韓國明知大學中文系、東亞細亞研究所所長）：漢字對朝鮮時期儒家思想紀錄文化的影響（中文演講）",
         "timestamp": "1718094542",
         "url": "mail_display.php?timestamp=1718094542",
@@ -180,33 +208,5 @@
             "phone": "6057"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "⭐教育大數據產學合作與專題實作⭐113-1學程必修實務課推廣",
-        "timestamp": "1716972725",
-        "url": "mail_display.php?timestamp=1716972725",
-        "date": "2024/05/29 16:52",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "黃小姐",
-            "email": "chinghua@gms.ndhu.edu.tw",
-            "phone": "6579"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【轉知】行政院人事行政總處公務人力發展學院台北院區辦理113年7月自由報名班別，計有「Canva質感設計應用研習班」等計1班期，開放個人報名至本年6月3日下午6時前完成線上報名。",
-        "timestamp": "1716971903",
-        "url": "mail_display.php?timestamp=1716971903",
-        "date": "2024/05/29 16:38",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "陳治豪",
-            "email": "jackchen168@gms.ndhu.edu.tw",
-            "phone": "6057"
-        },
-        "attachmentCount": 3
     }
 ]
