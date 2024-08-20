@@ -1,5 +1,33 @@
 [
     {
+        "title": "【獎助學金申請】李長榮教育基金會2024年(第十三屆)獎學金 (限化學、材料相關博士班)",
+        "timestamp": "1717652209",
+        "url": "mail_display.php?timestamp=1717652209",
+        "date": "2024/06/06 13:36",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【獎助學金申請】中華民國電腦學會「113年度資訊人社會關懷獎學金」 (限資訊、統計、公共行政、法律等相關)",
+        "timestamp": "1717574976",
+        "url": "mail_display.php?timestamp=1717574976",
+        "date": "2024/06/05 16:09",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】華嚴蓮社113年大專學生佛學慈孝獎學金",
         "timestamp": "1717547413",
         "url": "mail_display.php?timestamp=1717547413",
@@ -180,33 +208,5 @@
             "phone": "03-8906219"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "轉教育部青年發展署「113 年青年海外度假打工宣導會」報名簡章",
-        "timestamp": "1716442043",
-        "url": "mail_display.php?timestamp=1716442043",
-        "date": "2024/05/23 13:27",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "王文和",
-            "email": "rlawwh@gms.ndhu.edu.tw",
-            "phone": "分機6221"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【實習】資策會執行「DIGI+強化在地人才交流與數位培力計畫」實習生遴選",
-        "timestamp": "1716429597",
-        "url": "mail_display.php?timestamp=1716429597",
-        "date": "2024/05/23 09:59",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "洪乃慈",
-            "email": "naitzu@gms.ndhu.edu.tw",
-            "phone": "6523"
-        },
-        "attachmentCount": 3
     }
 ]
