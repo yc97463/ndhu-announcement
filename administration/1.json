@@ -1,5 +1,19 @@
 [
     {
+        "title": "人社一、二館牆面修復施工公告 ",
+        "timestamp": "1724126944",
+        "url": "mail_display.php?timestamp=1724126944",
+        "date": "2024/08/20 12:09",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "許珅銘",
+            "email": "600130@gms.ndhu.edu.tw",
+            "phone": "890-6375"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【推廣教育重要通知】112學年第2學期課程資料填報作業暨系統改版通知",
         "timestamp": "1724119482",
         "url": "mail_display.php?timestamp=1724119482",
@@ -194,19 +208,5 @@
             "phone": "(03)8906373"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "圖書館貨梯及原民院電梯1故障維修公告",
-        "timestamp": "1723814038",
-        "url": "mail_display.php?timestamp=1723814038",
-        "date": "2024/08/16 21:13",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
     }
 ]

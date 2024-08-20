@@ -1,5 +1,19 @@
 [
     {
+        "title": "圖書館貨梯及原民院電梯1故障維修公告",
+        "timestamp": "1723814038",
+        "url": "mail_display.php?timestamp=1723814038",
+        "date": "2024/08/16 21:13",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "志學門(後門)路口道路暨車牌辨識系統升級施工公告［第4次］",
         "timestamp": "1723774022",
         "url": "mail_display.php?timestamp=1723774022",
@@ -194,19 +208,5 @@
             "phone": "03-8906373"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "圖書館論文系統恢復使用 The library's e-thesis/dissertations system is working",
-        "timestamp": "1723029878",
-        "url": "mail_display.php?timestamp=1723029878",
-        "date": "2024/08/07 19:24",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "簡民享",
-            "email": "jms@gms.ndhu.edu.tw",
-            "phone": "6842"
-        },
-        "attachmentCount": 2
     }
 ]
