@@ -1,5 +1,47 @@
 [
     {
+        "title": "【公告】本校擬銷毀民國97年度至100年度之會計報告、帳簿、傳票等相關會計憑證",
+        "timestamp": "1724049150",
+        "url": "mail_display.php?timestamp=1724049150",
+        "date": "2024/08/19 14:32",
+        "department": "主計室",
+        "author": {
+            "department": "主計室",
+            "name": "曾俊達",
+            "email": "kleiber0576@gms.ndhu.edu.tw",
+            "phone": "(03)8906079"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "今天8/19(一)中午志學門路口水泥灌漿管制公告",
+        "timestamp": "1724040038",
+        "url": "mail_display.php?timestamp=1724040038",
+        "date": "2024/08/19 12:00",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "黃章傑",
+            "email": "cotycafe@gms.ndhu.edu.tw",
+            "phone": "5778"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113學年度第1學期「新生」就學優待減免學雜費申請公告",
+        "timestamp": "1724038834",
+        "url": "mail_display.php?timestamp=1724038834",
+        "date": "2024/08/19 11:40",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "李欣憓",
+            "email": "dora.lee@gms.ndhu.edu.tw",
+            "phone": "6218"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【轉知】台灣智慧技術協會「AI人工智慧大語言模型研析與微調實戰」，及 AIGC產學合作平台問卷調查",
         "timestamp": "1724038008",
         "url": "mail_display.php?timestamp=1724038008",
@@ -166,47 +208,5 @@
             "phone": "分機6307"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "113年度壽豐校區高壓設備檢測8月份即將停電排程(第6次公告)",
-        "timestamp": "1723865149",
-        "url": "mail_display.php?timestamp=1723865149",
-        "date": "2024/08/17 11:25",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉景富",
-            "email": "nickak@gms.ndhu.edu.tw",
-            "phone": "(03)8906373"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "圖書館貨梯及原民院電梯1故障維修公告",
-        "timestamp": "1723814038",
-        "url": "mail_display.php?timestamp=1723814038",
-        "date": "2024/08/16 21:13",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "志學門(後門)路口道路暨車牌辨識系統升級施工公告［第4次］",
-        "timestamp": "1723774022",
-        "url": "mail_display.php?timestamp=1723774022",
-        "date": "2024/08/16 10:07",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 2
     }
 ]

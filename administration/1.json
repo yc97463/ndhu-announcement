@@ -1,5 +1,47 @@
 [
     {
+        "title": "禁用遠端桌面服務【第一次公告】",
+        "timestamp": "1724136987",
+        "url": "mail_display.php?timestamp=1724136987",
+        "date": "2024/08/20 14:56",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "黃金城",
+            "email": "hjc@gms.ndhu.edu.tw",
+            "phone": "6724"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【轉知】衛生福利部製作「兒童及少年性剝削防制條例修法重點(懶人包)」、「兒童及少年性剝削防制宣導素材」案，請積極宣導運用。",
+        "timestamp": "1724136894",
+        "url": "mail_display.php?timestamp=1724136894",
+        "date": "2024/08/20 14:54",
+        "department": "秘書室",
+        "author": {
+            "department": "秘書室",
+            "name": "蔡麗燕",
+            "email": "liyen@gms.ndhu.edu.tw",
+            "phone": "6005"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "人社一、二館牆面修復施工公告",
+        "timestamp": "1724136643",
+        "url": "mail_display.php?timestamp=1724136643",
+        "date": "2024/08/20 14:50",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "許珅銘",
+            "email": "600130@gms.ndhu.edu.tw",
+            "phone": "863-6375"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "本校編制內教職員工113學年度第1學期子女教育補助費自即日起受理申請，檢附【子女教育補助申請表】1份，請於113年9月18日(星期三)前送人事室彙辦。",
         "timestamp": "1724132325",
         "url": "mail_display.php?timestamp=1724132325",
@@ -12,20 +54,6 @@
             "phone": "890-6056"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "人社一、二館牆面修復施工公告 ",
-        "timestamp": "1724126944",
-        "url": "mail_display.php?timestamp=1724126944",
-        "date": "2024/08/20 12:09",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "許珅銘",
-            "email": "600130@gms.ndhu.edu.tw",
-            "phone": "890-6375"
-        },
-        "attachmentCount": 0
     },
     {
         "title": "【推廣教育重要通知】112學年第2學期課程資料填報作業暨系統改版通知",
@@ -172,34 +200,6 @@
         "timestamp": "1724028639",
         "url": "mail_display.php?timestamp=1724028639",
         "date": "2024/08/19 08:50",
-        "department": "總務處",
-        "author": {
-            "department": "總務處",
-            "name": "陳宇欽",
-            "email": "yuchin@gms.ndhu.edu.tw",
-            "phone": "分機6307"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "志學門路口道路改善工程路口管制時段",
-        "timestamp": "1724027263",
-        "url": "mail_display.php?timestamp=1724027263",
-        "date": "2024/08/19 08:27",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "張宗豪",
-            "email": "Zonghao@gms.ndhu.edu.tw",
-            "phone": "6389"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【重要公告】總務處各組回歸行政大樓時間公告",
-        "timestamp": "1723869240",
-        "url": "mail_display.php?timestamp=1723869240",
-        "date": "2024/08/17 12:34",
         "department": "總務處",
         "author": {
             "department": "總務處",
