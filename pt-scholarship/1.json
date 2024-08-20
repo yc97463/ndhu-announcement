@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】嘉義市113-1清寒優秀學生獎學金 (限嘉義市籍低或中低收)",
+        "timestamp": "1724131803",
+        "url": "mail_display.php?timestamp=1724131803",
+        "date": "2024/08/20 13:30",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】賑災基金會113-1天然災害受災家庭子女助學金 (限低或中低收)",
         "timestamp": "1724122151",
         "url": "mail_display.php?timestamp=1724122151",
@@ -194,19 +208,5 @@
             "phone": "03-8906219"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "TA job for Fall Semester 2024",
-        "timestamp": "1723088186",
-        "url": "mail_display.php?timestamp=1723088186",
-        "date": "2024/08/08 11:36",
-        "department": "原住民族研究國際博士班",
-        "author": {
-            "department": "原住民族研究國際博士班",
-            "name": "Ms. Dungi黃怡瑄",
-            "email": "dungi@gms.ndhu.edu.tw",
-            "phone": "+886 3 8905760"
-        },
-        "attachmentCount": 0
     }
 ]
