@@ -1,5 +1,19 @@
 [
     {
+        "title": "【重要公告】總務處各組回歸行政大樓時間公告",
+        "timestamp": "1723869240",
+        "url": "mail_display.php?timestamp=1723869240",
+        "date": "2024/08/17 12:34",
+        "department": "總務處",
+        "author": {
+            "department": "總務處",
+            "name": "陳宇欽",
+            "email": "yuchin@gms.ndhu.edu.tw",
+            "phone": "分機6307"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113年度壽豐校區高壓設備檢測8月份即將停電排程(第6次公告)",
         "timestamp": "1723865149",
         "url": "mail_display.php?timestamp=1723865149",
@@ -192,20 +206,6 @@
             "name": "葉俊良",
             "email": "ycliang@gms.ndhu.edu.tw",
             "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "志學門(後門)路口道路暨車牌辨識系統升級施工公告(第二次)",
-        "timestamp": "1723606547",
-        "url": "mail_display.php?timestamp=1723606547",
-        "date": "2024/08/14 11:35",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
         },
         "attachmentCount": 1
     }
