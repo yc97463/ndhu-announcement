@@ -1,5 +1,19 @@
 [
     {
+        "title": "請各單位於上班首日(7/30)中午前回報颱風受損情形。",
+        "timestamp": "1721877072",
+        "url": "mail_display.php?timestamp=1721877072",
+        "date": "2024/07/25 11:11",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "賴名塑",
+            "email": "a54604@gms.ndhu.edu.tw",
+            "phone": "8906378"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "113年7月25日本校垃圾車停止清運一日Garbage truck removal will be stopped for one day on July 25, 2024",
         "timestamp": "1721818869",
         "url": "mail_display.php?timestamp=1721818869",
@@ -194,19 +208,5 @@
             "phone": "8906059"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "人社一館第一講堂頂樓防水工程施工期程延期第1次公告(延長至7/31)",
-        "timestamp": "1721201903",
-        "url": "mail_display.php?timestamp=1721201903",
-        "date": "2024/07/17 15:38",
-        "department": "人文社會科學學院",
-        "author": {
-            "department": "人文社會科學學院",
-            "name": "吳雅萍",
-            "email": "ypwu@gms.ndhu.edu.tw",
-            "phone": "03-8905253"
-        },
-        "attachmentCount": 1
     }
 ]
