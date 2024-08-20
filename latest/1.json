@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才公告】國立東華大學總務處出納組徵聘校務基金助理一名(延長公告)",
+        "timestamp": "1724124110",
+        "url": "mail_display.php?timestamp=1724124110",
+        "date": "2024/08/20 11:21",
+        "department": "總務處出納組",
+        "author": {
+            "department": "總務處出納組",
+            "name": "許紹峯",
+            "email": "hsf113@gms.ndhu.edu.tw",
+            "phone": "6361"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才公告】國立東華大學總務處環保組徵聘【校務基金助理】",
         "timestamp": "1724124026",
         "url": "mail_display.php?timestamp=1724124026",
@@ -190,20 +204,6 @@
         "author": {
             "department": "主計室",
             "name": "主計室",
-            "email": "kleiber0576@gms.ndhu.edu.tw",
-            "phone": "(03)8906079"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【公告】本校擬銷毀民國97年度至100年度之會計報告、帳簿、傳票等相關會計憑證",
-        "timestamp": "1724049150",
-        "url": "mail_display.php?timestamp=1724049150",
-        "date": "2024/08/19 14:32",
-        "department": "主計室",
-        "author": {
-            "department": "主計室",
-            "name": "曾俊達",
             "email": "kleiber0576@gms.ndhu.edu.tw",
             "phone": "(03)8906079"
         },
