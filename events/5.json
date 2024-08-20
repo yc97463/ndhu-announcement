@@ -1,5 +1,19 @@
 [
     {
+        "title": "112學年度僑外同學會幹部服務",
+        "timestamp": "1719964501",
+        "url": "mail_display.php?timestamp=1719964501",
+        "date": "2024/07/03 07:55",
+        "department": "國際事務處 國際學生組",
+        "author": {
+            "department": "國際事務處 國際學生組",
+            "name": "魏綺瑩",
+            "email": "vanessawei@gms.ndhu.edu.tw",
+            "phone": "5119"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "拉曼大學線上講座《未来5年經濟如何變通變革》開放報名中~",
         "timestamp": "1719892706",
         "url": "mail_display.php?timestamp=1719892706",
@@ -194,19 +208,5 @@
             "phone": "5107"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【活動轉知】南臺科技大學「2024智能科技創新應用線上研習」",
-        "timestamp": "1719386833",
-        "url": "mail_display.php?timestamp=1719386833",
-        "date": "2024/06/26 15:27",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 2
     }
 ]
