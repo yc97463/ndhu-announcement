@@ -1,5 +1,19 @@
 [
     {
+        "title": "【國立東華大學管理學院會計學系系主任】 徵聘公告",
+        "timestamp": "1711525355",
+        "url": "mail_display.php?timestamp=1711525355",
+        "date": "2024/03/27 15:42",
+        "department": "管理學院",
+        "author": {
+            "department": "管理學院",
+            "name": "林香君",
+            "email": "smgt@gms.ndhu.edu.tw",
+            "phone": "3002"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "國立東華大學理工學院 化學系系主任徵求公告",
         "timestamp": "1710922523",
         "url": "mail_display.php?timestamp=1710922523",
@@ -194,19 +208,5 @@
             "phone": "3816"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "國立東華大學創新育成中心徵聘專案助理(駐點人員)",
-        "timestamp": "1708442278",
-        "url": "mail_display.php?timestamp=1708442278",
-        "date": "2024/02/20 23:17",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "吳其璁",
-            "email": "dci93031@gms.ndhu.edu.tw",
-            "phone": "03-8903687"
-        },
-        "attachmentCount": 0
     }
 ]

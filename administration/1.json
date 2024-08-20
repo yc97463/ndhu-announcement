@@ -1,5 +1,19 @@
 [
     {
+        "title": "【推廣教育重要通知】112學年第2學期課程資料填報作業暨系統改版通知",
+        "timestamp": "1724119482",
+        "url": "mail_display.php?timestamp=1724119482",
+        "date": "2024/08/20 10:04",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "洪乃慈",
+            "email": "naitzu@gms.ndhu.edu.tw",
+            "phone": "6523"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【課務組】113學年度第1學期學士班課程「免修」申請（自即日起至09/09(一)午夜23:59止）",
         "timestamp": "1724113335",
         "url": "mail_display.php?timestamp=1724113335",
@@ -194,19 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "志學門(後門)路口道路暨車牌辨識系統升級施工公告［第4次］",
-        "timestamp": "1723774022",
-        "url": "mail_display.php?timestamp=1723774022",
-        "date": "2024/08/16 10:07",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 2
     }
 ]
