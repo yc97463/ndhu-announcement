@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】台灣金融服務業聯合總會「113學年度金融服務業教育獎助學金」(家境清寒或家逢變故)",
+        "timestamp": "1724219627",
+        "url": "mail_display.php?timestamp=1724219627",
+        "date": "2024/08/21 13:53",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "113年8月23日(五)08:00~20:00壽豐校區配合台電公司線路保養全校區停電(第7次公告)",
         "timestamp": "1724217324",
         "url": "mail_display.php?timestamp=1724217324",
@@ -194,19 +208,5 @@
             "phone": "5824"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【獎助學金申請】法治推廣服務基金會113學年度獎學金（限法律相關系所）",
-        "timestamp": "1724142621",
-        "url": "mail_display.php?timestamp=1724142621",
-        "date": "2024/08/20 16:30",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]

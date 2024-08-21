@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】美國康德基金會113學年度「臺灣大學生黃金年華」助學金 (家境清寒或家逢變故，非花蓮縣籍、非低收入戶)",
+        "timestamp": "1723605290",
+        "url": "mail_display.php?timestamp=1723605290",
+        "date": "2024/08/14 11:14",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】衛生福利部社會及家庭署113-1學期單親培力計畫 (補助獨力育養子女之在學學生學費及托育費)",
         "timestamp": "1723601163",
         "url": "mail_display.php?timestamp=1723601163",
@@ -194,19 +208,5 @@
             "phone": "03-8906219"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【獎助學金申請重要資訊】學務處生輔組辦理各項校內外獎助學金項目及申請注意事項，請參考! ",
-        "timestamp": "1722515708",
-        "url": "mail_display.php?timestamp=1722515708",
-        "date": "2024/08/01 20:35",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 2
     }
 ]
