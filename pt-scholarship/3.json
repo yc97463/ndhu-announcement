@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】連德工商發展基金會113年度獎學金 (限工商學系學生，家境清寒)",
+        "timestamp": "1722925356",
+        "url": "mail_display.php?timestamp=1722925356",
+        "date": "2024/08/06 14:22",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】台北市李連來公益基金會113年度助學金 (非工商學系學生，家境清寒)",
         "timestamp": "1722924316",
         "url": "mail_display.php?timestamp=1722924316",
@@ -186,20 +200,6 @@
         "timestamp": "1721392582",
         "url": "mail_display.php?timestamp=1721392582",
         "date": "2024/07/19 20:36",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【獎助學金申請】勵馨社會福利事業基金會113學年度欣恩獎助學金 (限家境清寒女性學生)",
-        "timestamp": "1720748271",
-        "url": "mail_display.php?timestamp=1720748271",
-        "date": "2024/07/12 09:37",
         "department": "學務處",
         "author": {
             "department": "學務處",
