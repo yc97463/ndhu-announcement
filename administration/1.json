@@ -1,5 +1,19 @@
 [
     {
+        "title": "擴大行政會議 會議紀錄公告通知",
+        "timestamp": "1724222334",
+        "url": "mail_display.php?timestamp=1724222334",
+        "date": "2024/08/21 14:38",
+        "department": "秘書室議事公文組",
+        "author": {
+            "department": "秘書室議事公文組",
+            "name": "陳婉婉",
+            "email": "secretariat@gms.ndhu.edu.tw",
+            "phone": "6004"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "113年8月23日(五)08:00~20:00壽豐校區配合台電公司線路保養全校區停電(第7次公告)",
         "timestamp": "1724217324",
         "url": "mail_display.php?timestamp=1724217324",
@@ -186,20 +200,6 @@
         "timestamp": "1724060325",
         "url": "mail_display.php?timestamp=1724060325",
         "date": "2024/08/19 17:38",
-        "department": "總務處出納組",
-        "author": {
-            "department": "總務處出納組",
-            "name": "鄧瑞美",
-            "email": "deng@gms.ndhu.edu.tw",
-            "phone": "03-8906366"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "113學年度第1學期學雜費繳費單(113/08/19)可以下載囉！",
-        "timestamp": "1724060105",
-        "url": "mail_display.php?timestamp=1724060105",
-        "date": "2024/08/19 17:35",
         "department": "總務處出納組",
         "author": {
             "department": "總務處出納組",
