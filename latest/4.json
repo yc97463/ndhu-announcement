@@ -1,5 +1,61 @@
 [
     {
+        "title": "今天8/19(一)中午志學門路口水泥灌漿管制公告",
+        "timestamp": "1724040038",
+        "url": "mail_display.php?timestamp=1724040038",
+        "date": "2024/08/19 12:00",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "黃章傑",
+            "email": "cotycafe@gms.ndhu.edu.tw",
+            "phone": "5778"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113學年度第1學期「新生」就學優待減免學雜費申請公告",
+        "timestamp": "1724038834",
+        "url": "mail_display.php?timestamp=1724038834",
+        "date": "2024/08/19 11:40",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "李欣憓",
+            "email": "dora.lee@gms.ndhu.edu.tw",
+            "phone": "6218"
+        },
+        "attachmentCount": 4
+    },
+    {
+        "title": "【轉知】台灣智慧技術協會「AI人工智慧大語言模型研析與微調實戰」，及 AIGC產學合作平台問卷調查",
+        "timestamp": "1724038008",
+        "url": "mail_display.php?timestamp=1724038008",
+        "date": "2024/08/19 11:26",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "李淑淳",
+            "email": "chun@gms.ndhu.edu.tw",
+            "phone": "6522"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【轉知】「2025第17屆歐洲盃國際創新發明展」",
+        "timestamp": "1724037898",
+        "url": "mail_display.php?timestamp=1724037898",
+        "date": "2024/08/19 11:24",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "李淑淳",
+            "email": "chun@gms.ndhu.edu.tw",
+            "phone": "6522"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【轉知】「2024杜拜DIS國際發明展」",
         "timestamp": "1724037826",
         "url": "mail_display.php?timestamp=1724037826",
@@ -150,62 +206,6 @@
             "name": "劉景富",
             "email": "nickak@gms.ndhu.edu.tw",
             "phone": "(03)8906373"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "圖書館貨梯及原民院電梯1故障維修公告",
-        "timestamp": "1723814038",
-        "url": "mail_display.php?timestamp=1723814038",
-        "date": "2024/08/16 21:13",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "志學門(後門)路口道路暨車牌辨識系統升級施工公告［第4次］",
-        "timestamp": "1723774022",
-        "url": "mail_display.php?timestamp=1723774022",
-        "date": "2024/08/16 10:07",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【獎助學金申請】感恩社會福利基金會113學年度學生公益活動獎助學金",
-        "timestamp": "1723737444",
-        "url": "mail_display.php?timestamp=1723737444",
-        "date": "2024/08/15 23:57",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【獎助學金申請】教育部接受捐助獎學基金會113學年度獎學金",
-        "timestamp": "1723733156",
-        "url": "mail_display.php?timestamp=1723733156",
-        "date": "2024/08/15 22:45",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
         },
         "attachmentCount": 1
     }

@@ -1,5 +1,61 @@
 [
     {
+        "title": "【轉知】衛生福利部製作「兒童及少年性剝削防制條例修法重點(懶人包)」、「兒童及少年性剝削防制宣導素材」案，請積極宣導運用。",
+        "timestamp": "1724136894",
+        "url": "mail_display.php?timestamp=1724136894",
+        "date": "2024/08/20 14:54",
+        "department": "秘書室",
+        "author": {
+            "department": "秘書室",
+            "name": "蔡麗燕",
+            "email": "liyen@gms.ndhu.edu.tw",
+            "phone": "6005"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "人社一、二館牆面修復施工公告",
+        "timestamp": "1724136643",
+        "url": "mail_display.php?timestamp=1724136643",
+        "date": "2024/08/20 14:50",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "許珅銘",
+            "email": "600130@gms.ndhu.edu.tw",
+            "phone": "863-6375"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【徵才】新竹市政府社會福利服務中心兼職助理員徵才(社會工作相關系所)",
+        "timestamp": "1724135822",
+        "url": "mail_display.php?timestamp=1724135822",
+        "date": "2024/08/20 14:37",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "【訊息轉知】東吳大學開設2門磨課師(MOOCs)線上課程",
+        "timestamp": "1724135032",
+        "url": "mail_display.php?timestamp=1724135032",
+        "date": "2024/08/20 14:23",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【訊息轉知】國立臺南大學開設「大數據程式設計」(MOOCs)線上課程",
         "timestamp": "1724134911",
         "url": "mail_display.php?timestamp=1724134911",
@@ -152,61 +208,5 @@
             "phone": "6361"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【徵才公告】國立東華大學總務處環保組徵聘【校務基金助理】",
-        "timestamp": "1724124026",
-        "url": "mail_display.php?timestamp=1724124026",
-        "date": "2024/08/20 11:20",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "許智翔",
-            "email": "cocco3746@gms.ndhu.edu.tw",
-            "phone": "03-8906399"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【獎助學金申請】賑災基金會113-1天然災害受災家庭子女助學金 (限低或中低收)",
-        "timestamp": "1724122151",
-        "url": "mail_display.php?timestamp=1724122151",
-        "date": "2024/08/20 10:49",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【徵才訊息】國立東華大學國際事務處誠徵計畫專任助理1名",
-        "timestamp": "1724121165",
-        "url": "mail_display.php?timestamp=1724121165",
-        "date": "2024/08/20 10:32",
-        "department": "國際事務處",
-        "author": {
-            "department": "國際事務處",
-            "name": "劉力綺",
-            "email": "cheerio@gms.ndhu.edu.tw",
-            "phone": "5109"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【獎助學金申請】星能股份有限公司「113-1學期大專院校優秀資(通)訊人才獎學金」",
-        "timestamp": "1724120980",
-        "url": "mail_display.php?timestamp=1724120980",
-        "date": "2024/08/20 10:29",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]

@@ -1,5 +1,47 @@
 [
     {
+        "title": "本校理工二館輕鋼架復原施工公告",
+        "timestamp": "1722306037",
+        "url": "mail_display.php?timestamp=1722306037",
+        "date": "2024/07/30 10:20",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "邱健榮",
+            "email": "janus@gms.ndhu.edu.tw",
+            "phone": "6385"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "車牌辨識系統升級施工公告［第1次］",
+        "timestamp": "1722245715",
+        "url": "mail_display.php?timestamp=1722245715",
+        "date": "2024/07/29 17:35",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【圖書館公告】圖書館暑假閉館期間急用書借閱",
+        "timestamp": "1722227276",
+        "url": "mail_display.php?timestamp=1722227276",
+        "date": "2024/07/29 12:27",
+        "department": "圖書資訊處",
+        "author": {
+            "department": "圖書資訊處",
+            "name": "周小萍",
+            "email": "hedy@gms.ndhu.edu.tw",
+            "phone": "8906852"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "library's e-thesis/dissertations system is down for maintenance, and the steps for submitting thesis/dissertations have been changed",
         "timestamp": "1722157245",
         "url": "mail_display.php?timestamp=1722157245",
@@ -164,48 +206,6 @@
             "name": "劉豫海",
             "email": "lyh7680@gms.ndhu.edu.tw",
             "phone": "6221"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "提醒防颱準備(公告)",
-        "timestamp": "1721708953",
-        "url": "mail_display.php?timestamp=1721708953",
-        "date": "2024/07/23 12:29",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【投票通知】 113 學年度校務會議行政人員代表遴選，請至校園會議投票系統踴躍投票，謝謝大家。",
-        "timestamp": "1721707152",
-        "url": "mail_display.php?timestamp=1721707152",
-        "date": "2024/07/23 11:59",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "林淑惠",
-            "email": "linsh@gms.ndhu.edu.tw",
-            "phone": "8906059"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "【海上颱風警報】「凱米颱風」海上颱風警報已於本日23時30分發布，請注意！The Central Weather Bureau Typhoon Watch Advisory #03【GAEMI】",
-        "timestamp": "1721663207",
-        "url": "mail_display.php?timestamp=1721663207",
-        "date": "2024/07/22 23:46",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "林嘉瑩",
-            "email": "tea7101@gms.ndhu.edu.tw",
-            "phone": "03-8906226"
         },
         "attachmentCount": 4
     }

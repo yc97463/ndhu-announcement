@@ -1,5 +1,61 @@
 [
     {
+        "title": "圖書館貨梯及原民院電梯1故障維修公告",
+        "timestamp": "1723814038",
+        "url": "mail_display.php?timestamp=1723814038",
+        "date": "2024/08/16 21:13",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "志學門(後門)路口道路暨車牌辨識系統升級施工公告［第4次］",
+        "timestamp": "1723774022",
+        "url": "mail_display.php?timestamp=1723774022",
+        "date": "2024/08/16 10:07",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【獎助學金申請】感恩社會福利基金會113學年度學生公益活動獎助學金",
+        "timestamp": "1723737444",
+        "url": "mail_display.php?timestamp=1723737444",
+        "date": "2024/08/15 23:57",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【獎助學金申請】教育部接受捐助獎學基金會113學年度獎學金",
+        "timestamp": "1723733156",
+        "url": "mail_display.php?timestamp=1723733156",
+        "date": "2024/08/15 22:45",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎學金申請】本校113-1學期「優秀碩、博士班新生入學獎學金」【Scholarship Application】NDHU entrance scholarship for master and Ph. D students who are academically excellent and intended for advanced studies",
         "timestamp": "1723724427",
         "url": "mail_display.php?timestamp=1723724427",
@@ -150,62 +206,6 @@
             "name": "戴永智",
             "email": "caramel623@gms.ndhu.edu.tw",
             "phone": "038906402"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【獎助學金申請】本校113-1學期「許茂林先生清寒勵志獎助學金」 ",
-        "timestamp": "1723606099",
-        "url": "mail_display.php?timestamp=1723606099",
-        "date": "2024/08/14 11:28",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【獎助學金申請】美國康德基金會113學年度「臺灣大學生黃金年華」助學金 (家境清寒或家逢變故，非花蓮縣籍、非低收入戶)",
-        "timestamp": "1723605290",
-        "url": "mail_display.php?timestamp=1723605290",
-        "date": "2024/08/14 11:14",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "轉知勞動部修正「外國人從事就業服務法第四十六條第一項第一款至第六款工作資格及審查標準」",
-        "timestamp": "1723602254",
-        "url": "mail_display.php?timestamp=1723602254",
-        "date": "2024/08/14 10:24",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "林湘晴",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5173"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "【獎助學金申請】衛生福利部社會及家庭署113-1學期單親培力計畫 (補助獨力育養子女之在學學生學費及托育費)",
-        "timestamp": "1723601163",
-        "url": "mail_display.php?timestamp=1723601163",
-        "date": "2024/08/14 10:06",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
         },
         "attachmentCount": 1
     }

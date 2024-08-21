@@ -1,5 +1,47 @@
 [
     {
+        "title": "公文系統於8月21日(三)中午12~13時及8月23日(五) 8~20時暫停服務公告",
+        "timestamp": "1724200929",
+        "url": "mail_display.php?timestamp=1724200929",
+        "date": "2024/08/21 08:42",
+        "department": "總務處文書組",
+        "author": {
+            "department": "總務處文書組",
+            "name": "張建中",
+            "email": "eric.chang@gms.ndhu.edu.tw",
+            "phone": "6352"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "「113學年度校園空間安全檢視說明」公告",
+        "timestamp": "1724199109",
+        "url": "mail_display.php?timestamp=1724199109",
+        "date": "2024/08/21 08:11",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "賴榮璉",
+            "email": "chrishnalai@gms.ndhu.edu.tw",
+            "phone": "6237"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【公告】本(113)年度分配至各單位之部門預算「資本門」，至9月30日止之執行率應達90%",
+        "timestamp": "1724198922",
+        "url": "mail_display.php?timestamp=1724198922",
+        "date": "2024/08/21 08:08",
+        "department": "主計室",
+        "author": {
+            "department": "主計室",
+            "name": "曾俊達",
+            "email": "kleiber0576@gms.ndhu.edu.tw",
+            "phone": "(03)8906079"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【轉知】有關中華民國全國公務人員協會與華南產物保險股份有限公司所簽並委由晨陽保險經紀人股份有限公司負責推廣及服務之自費團體保險福利方案，敬請多加運用。",
         "timestamp": "1724144064",
         "url": "mail_display.php?timestamp=1724144064",
@@ -166,47 +208,5 @@
             "phone": "(03)8906079"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【公告】本校擬銷毀民國97年度至100年度之會計報告、帳簿、傳票等相關會計憑證",
-        "timestamp": "1724049150",
-        "url": "mail_display.php?timestamp=1724049150",
-        "date": "2024/08/19 14:32",
-        "department": "主計室",
-        "author": {
-            "department": "主計室",
-            "name": "曾俊達",
-            "email": "kleiber0576@gms.ndhu.edu.tw",
-            "phone": "(03)8906079"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "今天8/19(一)中午志學門路口水泥灌漿管制公告",
-        "timestamp": "1724040038",
-        "url": "mail_display.php?timestamp=1724040038",
-        "date": "2024/08/19 12:00",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "黃章傑",
-            "email": "cotycafe@gms.ndhu.edu.tw",
-            "phone": "5778"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "113學年度第1學期「新生」就學優待減免學雜費申請公告",
-        "timestamp": "1724038834",
-        "url": "mail_display.php?timestamp=1724038834",
-        "date": "2024/08/19 11:40",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "李欣憓",
-            "email": "dora.lee@gms.ndhu.edu.tw",
-            "phone": "6218"
-        },
-        "attachmentCount": 4
     }
 ]

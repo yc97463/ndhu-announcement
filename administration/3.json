@@ -1,5 +1,47 @@
 [
     {
+        "title": "【網路服務維運公告】TWAREN SSL-VPN維護公告",
+        "timestamp": "1723597306",
+        "url": "mail_display.php?timestamp=1723597306",
+        "date": "2024/08/14 09:01",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "李宇峰",
+            "email": "eric@mail.ndhu.edu.tw",
+            "phone": "03-8906721"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "113年度校區內客貨電梯進行月保養排程通告( 8 月保養)",
+        "timestamp": "1723597055",
+        "url": "mail_display.php?timestamp=1723597055",
+        "date": "2024/08/14 08:57",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "志學門(後門)路口道路暨車牌辨識系統升級施工公告",
+        "timestamp": "1723525867",
+        "url": "mail_display.php?timestamp=1723525867",
+        "date": "2024/08/13 13:11",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "志學門路口道路施作事宜",
         "timestamp": "1723509912",
         "url": "mail_display.php?timestamp=1723509912",
@@ -166,47 +208,5 @@
             "phone": "6225"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "體育館及桌球室火警自動警報設備更新施工公告",
-        "timestamp": "1722931428",
-        "url": "mail_display.php?timestamp=1722931428",
-        "date": "2024/08/06 16:03",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "賴名塑",
-            "email": "a54604@gms.ndhu.edu.tw",
-            "phone": "8906378"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "8月7日上午10-11時壽豐消防隊於環境學院進行消防演練",
-        "timestamp": "1722785166",
-        "url": "mail_display.php?timestamp=1722785166",
-        "date": "2024/08/04 23:26",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "賴名塑",
-            "email": "a54604@gms.ndhu.edu.tw",
-            "phone": "8906378"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【課務組】113學年度第1學期學士班課程「免修」注意事項",
-        "timestamp": "1722482333",
-        "url": "mail_display.php?timestamp=1722482333",
-        "date": "2024/08/01 11:18",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "course@gms.ndhu.edu.tw",
-            "phone": "6122~6126"
-        },
-        "attachmentCount": 0
     }
 ]
