@@ -1,5 +1,19 @@
 [
     {
+        "title": "113學年度第1學期兵役緩徵、儘召網路登錄開放申請注意事項(第二次通知)",
+        "timestamp": "1724212304",
+        "url": "mail_display.php?timestamp=1724212304",
+        "date": "2024/08/21 11:51",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "6225"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "公文系統於8月21日(三)中午12~13時及8月23日(五) 8~20時暫停服務公告",
         "timestamp": "1724200929",
         "url": "mail_display.php?timestamp=1724200929",
@@ -194,19 +208,5 @@
             "phone": "03-8906366"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【公告】本校擬銷毀民國97年度至100年度之會計報告、帳簿、傳票等相關會計憑證",
-        "timestamp": "1724049299",
-        "url": "mail_display.php?timestamp=1724049299",
-        "date": "2024/08/19 14:34",
-        "department": "主計室",
-        "author": {
-            "department": "主計室",
-            "name": "主計室",
-            "email": "kleiber0576@gms.ndhu.edu.tw",
-            "phone": "(03)8906079"
-        },
-        "attachmentCount": 1
     }
 ]

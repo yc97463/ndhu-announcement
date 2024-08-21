@@ -1,5 +1,19 @@
 [
     {
+        "title": "0403衍生廢棄物清運公告",
+        "timestamp": "1722308109",
+        "url": "mail_display.php?timestamp=1722308109",
+        "date": "2024/07/30 10:55",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "賴宜萱",
+            "email": "lai0210@gms.ndhu.edu.tw",
+            "phone": "6393"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "本校理工二館輕鋼架復原施工公告",
         "timestamp": "1722306037",
         "url": "mail_display.php?timestamp=1722306037",
@@ -194,19 +208,5 @@
             "phone": "6752"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【陸上颱風警報】「凱米颱風」陸上警報已於本日(23日)11:30發布，請注意！The Central Weather Bureau Typhoon Watch Advisory 【GAEMI】",
-        "timestamp": "1721709608",
-        "url": "mail_display.php?timestamp=1721709608",
-        "date": "2024/07/23 12:40",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "劉豫海",
-            "email": "lyh7680@gms.ndhu.edu.tw",
-            "phone": "6221"
-        },
-        "attachmentCount": 4
     }
 ]
