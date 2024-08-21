@@ -1,5 +1,33 @@
 [
     {
+        "title": "【公告】本校擬銷毀民國97年度至100年度之會計報告、帳簿、傳票等相關會計憑證",
+        "timestamp": "1724049299",
+        "url": "mail_display.php?timestamp=1724049299",
+        "date": "2024/08/19 14:34",
+        "department": "主計室",
+        "author": {
+            "department": "主計室",
+            "name": "主計室",
+            "email": "kleiber0576@gms.ndhu.edu.tw",
+            "phone": "(03)8906079"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【公告】本校擬銷毀民國97年度至100年度之會計報告、帳簿、傳票等相關會計憑證",
+        "timestamp": "1724049150",
+        "url": "mail_display.php?timestamp=1724049150",
+        "date": "2024/08/19 14:32",
+        "department": "主計室",
+        "author": {
+            "department": "主計室",
+            "name": "曾俊達",
+            "email": "kleiber0576@gms.ndhu.edu.tw",
+            "phone": "(03)8906079"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "今天8/19(一)中午志學門路口水泥灌漿管制公告",
         "timestamp": "1724040038",
         "url": "mail_display.php?timestamp=1724040038",
@@ -180,33 +208,5 @@
             "phone": "5824"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【重要公告】總務處各組回歸行政大樓時間公告",
-        "timestamp": "1723869240",
-        "url": "mail_display.php?timestamp=1723869240",
-        "date": "2024/08/17 12:34",
-        "department": "總務處",
-        "author": {
-            "department": "總務處",
-            "name": "陳宇欽",
-            "email": "yuchin@gms.ndhu.edu.tw",
-            "phone": "分機6307"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "113年度壽豐校區高壓設備檢測8月份即將停電排程(第6次公告)",
-        "timestamp": "1723865149",
-        "url": "mail_display.php?timestamp=1723865149",
-        "date": "2024/08/17 11:25",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉景富",
-            "email": "nickak@gms.ndhu.edu.tw",
-            "phone": "(03)8906373"
-        },
-        "attachmentCount": 1
     }
 ]

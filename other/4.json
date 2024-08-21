@@ -1,5 +1,19 @@
 [
     {
+        "title": "東華電子報 | 2024年07月刊 |",
+        "timestamp": "1722900826",
+        "url": "mail_display.php?timestamp=1722900826",
+        "date": "2024/08/06 07:33",
+        "department": "秘書室公關宣傳組",
+        "author": {
+            "department": "秘書室公關宣傳組",
+            "name": "林佩瑤",
+            "email": "peiyao@gms.ndhu.edu.tw",
+            "phone": "6013"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【學生自主學習社群】113-1學期審查結果公告",
         "timestamp": "1722497920",
         "url": "mail_display.php?timestamp=1722497920",
@@ -194,19 +208,5 @@
             "phone": "03-8906215"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "請各單位於上班首日(7/30)中午前回報颱風受損情形。",
-        "timestamp": "1721877072",
-        "url": "mail_display.php?timestamp=1721877072",
-        "date": "2024/07/25 11:11",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "賴名塑",
-            "email": "a54604@gms.ndhu.edu.tw",
-            "phone": "8906378"
-        },
-        "attachmentCount": 2
     }
 ]
