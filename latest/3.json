@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才】臺中市就業服務處113年9月7日辦理「富市台中 就業成功」山線綜合產業區徵才活動",
+        "timestamp": "1724134871",
+        "url": "mail_display.php?timestamp=1724134871",
+        "date": "2024/08/20 14:21",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【活動轉知】臺北醫學大學校園AI教育智慧應用研討會-微軟Copilot獨家實作演練",
         "timestamp": "1724134650",
         "url": "mail_display.php?timestamp=1724134650",
@@ -194,19 +208,5 @@
             "phone": "6523"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【論文獎助】台日文化經濟協會「2024 獎勵大專院校日本研究論文比賽」",
-        "timestamp": "1724116335",
-        "url": "mail_display.php?timestamp=1724116335",
-        "date": "2024/08/20 09:12",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]

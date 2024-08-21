@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】中華佛教善緣慈善會113-1清寒學生【誌善】進步獎學金",
+        "timestamp": "1724228767",
+        "url": "mail_display.php?timestamp=1724228767",
+        "date": "2024/08/21 16:26",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】宜蘭縣113-1優秀學生獎學金 (限宜蘭縣籍)",
         "timestamp": "1724223262",
         "url": "mail_display.php?timestamp=1724223262",
@@ -192,20 +206,6 @@
             "name": "葉俊良",
             "email": "ycliang@gms.ndhu.edu.tw",
             "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "總務處事務组徵求113學年度新生報到交通管制工讀生公告",
-        "timestamp": "1723606496",
-        "url": "mail_display.php?timestamp=1723606496",
-        "date": "2024/08/14 11:34",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "戴永智",
-            "email": "caramel623@gms.ndhu.edu.tw",
-            "phone": "038906402"
         },
         "attachmentCount": 1
     }
