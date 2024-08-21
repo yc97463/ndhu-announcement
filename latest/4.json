@@ -1,5 +1,47 @@
 [
     {
+        "title": "【活動轉發】花蓮職人體驗活動【自行車帶路達人體驗】",
+        "timestamp": "1724116231",
+        "url": "mail_display.php?timestamp=1724116231",
+        "date": "2024/08/20 09:10",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "翁欣儀",
+            "email": "cari20240307@gms.ndhu.edu.tw",
+            "phone": "038903687"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【課務組】113學年度第1學期學士班課程「免修」申請（自即日起至09/09(一)午夜23:59止）",
+        "timestamp": "1724113335",
+        "url": "mail_display.php?timestamp=1724113335",
+        "date": "2024/08/20 08:22",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "course@gms.ndhu.edu.tw",
+            "phone": "6122~6126"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【活動推推】SIG論壇-在地韌性社會重建",
+        "timestamp": "1724093460",
+        "url": "mail_display.php?timestamp=1724093460",
+        "date": "2024/08/20 02:51",
+        "department": "社會參與中心",
+        "author": {
+            "department": "社會參與中心",
+            "name": "黃小姐",
+            "email": "ellie@gms.ndhu.edu.tw",
+            "phone": "5242"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【徵稿公告】2024 偏鄉教育論壇╳東暨慈論壇- 「臺灣偏鄉教育的挑戰、契機與創新」學術研討會徵稿計畫",
         "timestamp": "1724093350",
         "url": "mail_display.php?timestamp=1724093350",
@@ -166,47 +208,5 @@
             "phone": "6522"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【教卓中心】113學年國立東華宜蘭大學合辦新進教師研習營(全校教師邀請)",
-        "timestamp": "1724037008",
-        "url": "mail_display.php?timestamp=1724037008",
-        "date": "2024/08/19 11:10",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "游家盛",
-            "email": "hyttepd@gms.ndhu.edu.tw",
-            "phone": "6580"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【徵才公告】國立東華大學財務金融學系誠徵行政助理一名 (第二次公告)",
-        "timestamp": "1724031167",
-        "url": "mail_display.php?timestamp=1724031167",
-        "date": "2024/08/19 09:32",
-        "department": "財務金融學系",
-        "author": {
-            "department": "財務金融學系",
-            "name": "林役霜",
-            "email": "ys012@gms.ndhu.edu.tw",
-            "phone": "03-890-3133"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "第十七屆親善大使團招募!!",
-        "timestamp": "1724030492",
-        "url": "mail_display.php?timestamp=1724030492",
-        "date": "2024/08/19 09:21",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "游雅筑",
-            "email": "pink389124@gms.ndhu.edu.tw",
-            "phone": "8906236"
-        },
-        "attachmentCount": 4
     }
 ]
