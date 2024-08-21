@@ -1,5 +1,19 @@
 [
     {
+        "title": " [CSIE Speech: Physical \u0026 Online] Haven't signed up yet? Level Up Your Taiwan Experience: Legal Hacks \u0026 Prof. Kao's Insider Tips!",
+        "timestamp": "1721013992",
+        "url": "mail_display.php?timestamp=1721013992",
+        "date": "2024/07/15 11:26",
+        "department": "資訊工程學系",
+        "author": {
+            "department": "資訊工程學系",
+            "name": "謝嘉文",
+            "email": "cbjiawen@gms.ndhu.edu.tw",
+            "phone": "8905026"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【萬安演習】2024年「萬安47號演習」通知2024 Joint Civil-Military Air-Defense exercise(No.47 Wan-An Exercise）",
         "timestamp": "1721008630",
         "url": "mail_display.php?timestamp=1721008630",
@@ -194,19 +208,5 @@
             "phone": "6053"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "「113學年新生入學活動」社團博覽會報名與東華之夜表演團隊徵選",
-        "timestamp": "1719972822",
-        "url": "mail_display.php?timestamp=1719972822",
-        "date": "2024/07/03 10:13",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "余惠真",
-            "email": "nacy4631@gms.ndhu.edu.tw",
-            "phone": "03-8906232"
-        },
-        "attachmentCount": 2
     }
 ]
