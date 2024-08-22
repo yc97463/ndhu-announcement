@@ -1,5 +1,19 @@
 [
     {
+        "title": "【極重要】 113年8月23日(五)08:00~20:00壽豐校區配合台電公司線路保養全校區停電",
+        "timestamp": "1724293578",
+        "url": "mail_display.php?timestamp=1724293578",
+        "date": "2024/08/22 10:26",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉景富",
+            "email": "nickak@gms.ndhu.edu.tw",
+            "phone": "(03)8906373"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "113年8月23日校務行政系統停機公告 (Suspension of School Administrative-affair System)",
         "timestamp": "1724289141",
         "url": "mail_display.php?timestamp=1724289141",
@@ -194,19 +208,5 @@
             "phone": "890-6056"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【推廣教育重要通知】112學年第2學期課程資料填報作業暨系統改版通知",
-        "timestamp": "1724119482",
-        "url": "mail_display.php?timestamp=1724119482",
-        "date": "2024/08/20 10:04",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "洪乃慈",
-            "email": "naitzu@gms.ndhu.edu.tw",
-            "phone": "6523"
-        },
-        "attachmentCount": 2
     }
 ]

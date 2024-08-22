@@ -1,5 +1,19 @@
 [
     {
+        "title": "志學門(後門)路口道路暨車牌辨識系統升級施工公告［第4次］",
+        "timestamp": "1723774022",
+        "url": "mail_display.php?timestamp=1723774022",
+        "date": "2024/08/16 10:07",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【圖書館資料庫訊息】《教室電影院公播大平台》",
         "timestamp": "1723707804",
         "url": "mail_display.php?timestamp=1723707804",
@@ -194,19 +208,5 @@
             "phone": "6842"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【人事室公告】因北迴鐵路已通車，故即日起東人字第1130017404號函停止適用。",
-        "timestamp": "1723026138",
-        "url": "mail_display.php?timestamp=1723026138",
-        "date": "2024/08/07 18:22",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "劉依虹",
-            "email": "joyce_liu@gms.ndhu.edu.tw",
-            "phone": "6060"
-        },
-        "attachmentCount": 0
     }
 ]
