@@ -1,5 +1,19 @@
 [
     {
+        "title": "新進人員資安宣導相關事宜",
+        "timestamp": "1724138600",
+        "url": "mail_display.php?timestamp=1724138600",
+        "date": "2024/08/20 15:23",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "蕭澤宇",
+            "email": "zyhsiao@gms.ndhu.edu.tw",
+            "phone": "(03)890-6727"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "禁用遠端桌面服務【第一次公告】",
         "timestamp": "1724136987",
         "url": "mail_display.php?timestamp=1724136987",
@@ -194,19 +208,5 @@
             "phone": "03-8906219"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【徵才】國家中山科學研究院「113年第28次專案人力進用招考甄試」(資訊通信研究所)",
-        "timestamp": "1724126308",
-        "url": "mail_display.php?timestamp=1724126308",
-        "date": "2024/08/20 11:58",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 2
     }
 ]
