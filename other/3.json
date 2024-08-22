@@ -1,5 +1,19 @@
 [
     {
+        "title": "【轉知】「2024香港創新科技國際發明展」",
+        "timestamp": "1723443401",
+        "url": "mail_display.php?timestamp=1723443401",
+        "date": "2024/08/12 14:16",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "李淑淳",
+            "email": "chun@gms.ndhu.edu.tw",
+            "phone": "6522"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "勞動部修正「推動職業安全衛生優良工程金安獎選拔作業要點」第10點並自113年8月1日生效",
         "timestamp": "1723441865",
         "url": "mail_display.php?timestamp=1723441865",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【徵才】嘉義縣學生輔導諮商中心113年度第5次專任專業輔導人員(心理師、社工師)甄選",
-        "timestamp": "1722922429",
-        "url": "mail_display.php?timestamp=1722922429",
-        "date": "2024/08/06 13:33",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 4
     }
 ]
