@@ -1,5 +1,19 @@
 [
     {
+        "title": "【出國交換】2025年第一次國際交換學生甄選",
+        "timestamp": "1724306306",
+        "url": "mail_display.php?timestamp=1724306306",
+        "date": "2024/08/22 13:58",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 6
+    },
+    {
         "title": "歡迎踴躍報名-半導體IC載板產業實務人才培育專班",
         "timestamp": "1724291689",
         "url": "mail_display.php?timestamp=1724291689",
@@ -194,19 +208,5 @@
             "phone": "5824"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【轉知】College of the Canyons 線上教師英語教學培訓計畫",
-        "timestamp": "1723427419",
-        "url": "mail_display.php?timestamp=1723427419",
-        "date": "2024/08/12 09:50",
-        "department": "國際事務處國際合作組",
-        "author": {
-            "department": "國際事務處國際合作組",
-            "name": "陳巧惠",
-            "email": "ice@gms.ndhu.edu.tw",
-            "phone": "5118"
-        },
-        "attachmentCount": 2
     }
 ]
