@@ -1,5 +1,33 @@
 [
     {
+        "title": "【獎助學金申請】台日文化經濟協會「2024杜萬全日本碩士獎學金」",
+        "timestamp": "1724200199",
+        "url": "mail_display.php?timestamp=1724200199",
+        "date": "2024/08/21 08:29",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "「113學年度校園空間安全檢視說明」公告",
+        "timestamp": "1724199109",
+        "url": "mail_display.php?timestamp=1724199109",
+        "date": "2024/08/21 08:11",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "賴榮璉",
+            "email": "chrishnalai@gms.ndhu.edu.tw",
+            "phone": "6237"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【公告】本(113)年度分配至各單位之部門預算「資本門」，至9月30日止之執行率應達90%",
         "timestamp": "1724198922",
         "url": "mail_display.php?timestamp=1724198922",
@@ -180,33 +208,5 @@
             "phone": "6005"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "人社一、二館牆面修復施工公告",
-        "timestamp": "1724136643",
-        "url": "mail_display.php?timestamp=1724136643",
-        "date": "2024/08/20 14:50",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "許珅銘",
-            "email": "600130@gms.ndhu.edu.tw",
-            "phone": "863-6375"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【徵才】新竹市政府社會福利服務中心兼職助理員徵才(社會工作相關系所)",
-        "timestamp": "1724135822",
-        "url": "mail_display.php?timestamp=1724135822",
-        "date": "2024/08/20 14:37",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
     }
 ]

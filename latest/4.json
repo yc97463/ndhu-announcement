@@ -1,5 +1,33 @@
 [
     {
+        "title": "【獎助學金申請】賑災基金會113-1天然災害受災家庭子女助學金 (限低或中低收)",
+        "timestamp": "1724122151",
+        "url": "mail_display.php?timestamp=1724122151",
+        "date": "2024/08/20 10:49",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【徵才訊息】國立東華大學國際事務處誠徵計畫專任助理1名",
+        "timestamp": "1724121165",
+        "url": "mail_display.php?timestamp=1724121165",
+        "date": "2024/08/20 10:32",
+        "department": "國際事務處",
+        "author": {
+            "department": "國際事務處",
+            "name": "劉力綺",
+            "email": "cheerio@gms.ndhu.edu.tw",
+            "phone": "5109"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【獎助學金申請】星能股份有限公司「113-1學期大專院校優秀資(通)訊人才獎學金」",
         "timestamp": "1724120980",
         "url": "mail_display.php?timestamp=1724120980",
@@ -178,34 +206,6 @@
             "name": "黃章傑",
             "email": "cotycafe@gms.ndhu.edu.tw",
             "phone": "5778"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "113學年度第1學期「新生」就學優待減免學雜費申請公告",
-        "timestamp": "1724038834",
-        "url": "mail_display.php?timestamp=1724038834",
-        "date": "2024/08/19 11:40",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "李欣憓",
-            "email": "dora.lee@gms.ndhu.edu.tw",
-            "phone": "6218"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "【轉知】台灣智慧技術協會「AI人工智慧大語言模型研析與微調實戰」，及 AIGC產學合作平台問卷調查",
-        "timestamp": "1724038008",
-        "url": "mail_display.php?timestamp=1724038008",
-        "date": "2024/08/19 11:26",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "李淑淳",
-            "email": "chun@gms.ndhu.edu.tw",
-            "phone": "6522"
         },
         "attachmentCount": 0
     }

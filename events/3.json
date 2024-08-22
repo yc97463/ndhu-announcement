@@ -1,5 +1,19 @@
 [
     {
+        "title": "挑戰！健康運動集點趣！獎品及獎金總計高達4萬等您來拿",
+        "timestamp": "1722476916",
+        "url": "mail_display.php?timestamp=1722476916",
+        "date": "2024/08/01 09:48",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "吳星穎",
+            "email": "carmier@gms.ndhu.edu.tw",
+            "phone": "8906252"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "天下雜誌全免費贈閱東華大學教職員工生(在職在學)使用開通網址",
         "timestamp": "1722393294",
         "url": "mail_display.php?timestamp=1722393294",
@@ -194,19 +208,5 @@
             "phone": "(03)8906586"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【傑出校友選拔】龍華科技大學辦理113年度傑出校友遴選，敬請貴單位惠予推薦人選。",
-        "timestamp": "1721021725",
-        "url": "mail_display.php?timestamp=1721021725",
-        "date": "2024/07/15 13:35",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "陳美杏",
-            "email": "msing@gms.ndhu.edu.tw",
-            "phone": "6053"
-        },
-        "attachmentCount": 2
     }
 ]
