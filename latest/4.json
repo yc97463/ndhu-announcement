@@ -1,5 +1,33 @@
 [
     {
+        "title": "【獎助學金申請】新北市113-1原住民學生獎學金 (限新北市籍一年級新生及碩博生二年級)",
+        "timestamp": "1724134085",
+        "url": "mail_display.php?timestamp=1724134085",
+        "date": "2024/08/20 14:08",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【徵才】臺中市就業服務處113年8月23日辦理「富市台中 就業成功」山線地區壯世代徵才活動",
+        "timestamp": "1724133639",
+        "url": "mail_display.php?timestamp=1724133639",
+        "date": "2024/08/20 14:00",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "本校編制內教職員工113學年度第1學期子女教育補助費自即日起受理申請，檢附【子女教育補助申請表】1份，請於113年9月18日(星期三)前送人事室彙辦。",
         "timestamp": "1724132325",
         "url": "mail_display.php?timestamp=1724132325",
@@ -180,33 +208,5 @@
             "phone": "6122~6126"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【活動推推】SIG論壇-在地韌性社會重建",
-        "timestamp": "1724093460",
-        "url": "mail_display.php?timestamp=1724093460",
-        "date": "2024/08/20 02:51",
-        "department": "社會參與中心",
-        "author": {
-            "department": "社會參與中心",
-            "name": "黃小姐",
-            "email": "ellie@gms.ndhu.edu.tw",
-            "phone": "5242"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【徵稿公告】2024 偏鄉教育論壇╳東暨慈論壇- 「臺灣偏鄉教育的挑戰、契機與創新」學術研討會徵稿計畫",
-        "timestamp": "1724093350",
-        "url": "mail_display.php?timestamp=1724093350",
-        "date": "2024/08/20 02:49",
-        "department": "社會參與中心",
-        "author": {
-            "department": "社會參與中心",
-            "name": "黃小姐",
-            "email": "ellie@gms.ndhu.edu.tw",
-            "phone": "5242"
-        },
-        "attachmentCount": 3
     }
 ]
