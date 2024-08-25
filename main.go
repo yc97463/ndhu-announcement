@@ -4,6 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"os"
+	"path/filepath"
 	"strings"
 
 	"github.com/PuerkitoBio/goquery"
@@ -19,9 +20,10 @@ type Author struct {
 }
 
 type Attachment struct {
-	FileName string `json:"fileName"`
-	FileSize string `json:"fileSize"`
-	FileURL  string `json:"fileURL"`
+	FileName string  `json:"fileName"`
+	FileSize string  `json:"fileSize"`
+	FileURL  string  `json:"fileURL"`
+	Thumb    *string `json:"thumb"`
 }
 
 type Summary struct {
@@ -244,14 +246,40 @@ func extractAttachments(content string) []Attachment {
 		fileSize := strings.TrimSpace(s.Parent().Contents().FilterFunction(func(i int, s *goquery.Selection) bool {
 			return s.Nodes[0].Type == html.TextNode
 		}).Last().Text())
+
+		thumb := calculateThumb(fileURL)
+
 		attachments = append(attachments, Attachment{
 			FileName: fileName,
 			FileSize: fileSize,
 			FileURL:  fileURL,
+			Thumb:    thumb,
 		})
 	})
 
 	return attachments
+}
+
+func calculateThumb(fileURL string) *string {
+	ext := strings.ToLower(filepath.Ext(fileURL))
+	if ext == ".jpg" || ext == ".jpeg" || ext == ".png" || ext == ".pdf" {
+		parts := strings.SplitN(fileURL, "/", 4)
+		if len(parts) == 4 {
+			timestampID := parts[2]
+			filename := parts[3]
+
+			var thumbPath string
+			if ext == ".pdf" {
+				// For PDF files, use the original filename with .jpg extension
+				thumbPath = fmt.Sprintf("/thumb/%s_%s.jpg", timestampID, filename)
+			} else {
+				// For other supported formats, use the timestamp_id in the filename
+				thumbPath = fmt.Sprintf("/thumb/%s_%s", timestampID, filename)
+			}
+			return &thumbPath
+		}
+	}
+	return nil
 }
 
 func main() {
