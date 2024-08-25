@@ -15,14 +15,14 @@
         {
             "fileName": "https://maps.app.goo.gl/nVdWf8sASKgovgUt5",
             "fileSize": "",
-            "fileURL": "https://maps.app.goo.gl/nVdWf8sASKgovgUt5",
-            "thumb": null
+            "filePath": "https://maps.app.goo.gl/nVdWf8sASKgovgUt5",
+            "thumbPath": null
         },
         {
             "fileName": "https://docs.google.com/forms/d/e/1FAIpQLSemhrbA0q_Ka5M5e1yb0l-I4Jtq4-Ap_JX3UGaaCJeseaGoiA/viewform",
             "fileSize": "",
-            "fileURL": "https://docs.google.com/forms/d/e/1FAIpQLSemhrbA0q_Ka5M5e1yb0l-I4Jtq4-Ap_JX3UGaaCJeseaGoiA/viewform",
-            "thumb": null
+            "filePath": "https://docs.google.com/forms/d/e/1FAIpQLSemhrbA0q_Ka5M5e1yb0l-I4Jtq4-Ap_JX3UGaaCJeseaGoiA/viewform",
+            "thumbPath": null
         }
     ]
 }

@@ -15,14 +15,14 @@
         {
             "fileName": "五月活動.jpg",
             "fileSize": "(173 KB)",
-            "fileURL": "./message_7/1714315225/%E4%BA%94%E6%9C%88%E6%B4%BB%E5%8B%95.jpg",
-            "thumb": "/thumb/1714315225_%E4%BA%94%E6%9C%88%E6%B4%BB%E5%8B%95.jpg"
+            "filePath": "./message_7/1714315225/%E4%BA%94%E6%9C%88%E6%B4%BB%E5%8B%95.jpg",
+            "thumbPath": "/thumb/1714315225_%E4%BA%94%E6%9C%88%E6%B4%BB%E5%8B%95.jpg"
         },
         {
             "fileName": "http://ydc.org.tw/",
             "fileSize": "📍地點： 花蓮新創基地（花蓮市海岸路17號）\n\n⚠️名額有限，把握機會\n⚠️課程為工作坊型態無線上直播",
-            "fileURL": "http://ydc.org.tw/",
-            "thumb": null
+            "filePath": "http://ydc.org.tw/",
+            "thumbPath": null
         }
     ]
 }

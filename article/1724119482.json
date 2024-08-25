@@ -15,14 +15,14 @@
         {
             "fileName": "1130018583_附件二1.pdf",
             "fileSize": "(208 KB)",
-            "fileURL": "./message_7/1724119482/1130018583_%E9%99%84%E4%BB%B6%E4%BA%8C1.pdf",
-            "thumb": "/thumb/1724119482_1130018583_%E9%99%84%E4%BB%B6%E4%BA%8C1.pdf.jpg"
+            "filePath": "./message_7/1724119482/1130018583_%E9%99%84%E4%BB%B6%E4%BA%8C1.pdf",
+            "thumbPath": "/thumb/1724119482_1130018583_%E9%99%84%E4%BB%B6%E4%BA%8C1.pdf.jpg"
         },
         {
             "fileName": "1130018583_附件一1.pdf",
             "fileSize": "(208 KB)",
-            "fileURL": "./message_7/1724119482/1130018583_%E9%99%84%E4%BB%B6%E4%B8%801.pdf",
-            "thumb": "/thumb/1724119482_1130018583_%E9%99%84%E4%BB%B6%E4%B8%801.pdf.jpg"
+            "filePath": "./message_7/1724119482/1130018583_%E9%99%84%E4%BB%B6%E4%B8%801.pdf",
+            "thumbPath": "/thumb/1724119482_1130018583_%E9%99%84%E4%BB%B6%E4%B8%801.pdf.jpg"
         }
     ]
 }

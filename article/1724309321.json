@@ -15,14 +15,14 @@
         {
             "fileName": "附件二 (1).jpg",
             "fileSize": "(353 KB)",
-            "fileURL": "./message_7/1724309321/%E9%99%84%E4%BB%B6%E4%BA%8C%20%281%29.jpg",
-            "thumb": "/thumb/1724309321_%E9%99%84%E4%BB%B6%E4%BA%8C%20%281%29.jpg"
+            "filePath": "./message_7/1724309321/%E9%99%84%E4%BB%B6%E4%BA%8C%20%281%29.jpg",
+            "thumbPath": "/thumb/1724309321_%E9%99%84%E4%BB%B6%E4%BA%8C%20%281%29.jpg"
         },
         {
             "fileName": "https://nchu.cc/6HQQw",
             "fileSize": ")。",
-            "fileURL": "https://nchu.cc/6HQQw",
-            "thumb": null
+            "filePath": "https://nchu.cc/6HQQw",
+            "thumbPath": null
         }
     ]
 }

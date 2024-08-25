@@ -15,32 +15,32 @@
         {
             "fileName": "中國青年救國團 113 年新進人員招募DM.jpg",
             "fileSize": "(299 KB)",
-            "fileURL": "./message_7/1722406088/%E4%B8%AD%E5%9C%8B%E9%9D%92%E5%B9%B4%E6%95%91%E5%9C%8B%E5%9C%98%20113%20%E5%B9%B4%E6%96%B0%E9%80%B2%E4%BA%BA%E5%93%A1%E6%8B%9B%E5%8B%9FDM.jpg",
-            "thumb": "/thumb/1722406088_%E4%B8%AD%E5%9C%8B%E9%9D%92%E5%B9%B4%E6%95%91%E5%9C%8B%E5%9C%98%20113%20%E5%B9%B4%E6%96%B0%E9%80%B2%E4%BA%BA%E5%93%A1%E6%8B%9B%E5%8B%9FDM.jpg"
+            "filePath": "./message_7/1722406088/%E4%B8%AD%E5%9C%8B%E9%9D%92%E5%B9%B4%E6%95%91%E5%9C%8B%E5%9C%98%20113%20%E5%B9%B4%E6%96%B0%E9%80%B2%E4%BA%BA%E5%93%A1%E6%8B%9B%E5%8B%9FDM.jpg",
+            "thumbPath": "/thumb/1722406088_%E4%B8%AD%E5%9C%8B%E9%9D%92%E5%B9%B4%E6%95%91%E5%9C%8B%E5%9C%98%20113%20%E5%B9%B4%E6%96%B0%E9%80%B2%E4%BA%BA%E5%93%A1%E6%8B%9B%E5%8B%9FDM.jpg"
         },
         {
             "fileName": "中國青年救國團 113 年新進人員招募簡章.pdf",
             "fileSize": "(299 KB)",
-            "fileURL": "./message_7/1722406088/%E4%B8%AD%E5%9C%8B%E9%9D%92%E5%B9%B4%E6%95%91%E5%9C%8B%E5%9C%98%20113%20%E5%B9%B4%E6%96%B0%E9%80%B2%E4%BA%BA%E5%93%A1%E6%8B%9B%E5%8B%9F%E7%B0%A1%E7%AB%A0.pdf",
-            "thumb": "/thumb/1722406088_%E4%B8%AD%E5%9C%8B%E9%9D%92%E5%B9%B4%E6%95%91%E5%9C%8B%E5%9C%98%20113%20%E5%B9%B4%E6%96%B0%E9%80%B2%E4%BA%BA%E5%93%A1%E6%8B%9B%E5%8B%9F%E7%B0%A1%E7%AB%A0.pdf.jpg"
+            "filePath": "./message_7/1722406088/%E4%B8%AD%E5%9C%8B%E9%9D%92%E5%B9%B4%E6%95%91%E5%9C%8B%E5%9C%98%20113%20%E5%B9%B4%E6%96%B0%E9%80%B2%E4%BA%BA%E5%93%A1%E6%8B%9B%E5%8B%9F%E7%B0%A1%E7%AB%A0.pdf",
+            "thumbPath": "/thumb/1722406088_%E4%B8%AD%E5%9C%8B%E9%9D%92%E5%B9%B4%E6%95%91%E5%9C%8B%E5%9C%98%20113%20%E5%B9%B4%E6%96%B0%E9%80%B2%E4%BA%BA%E5%93%A1%E6%8B%9B%E5%8B%9F%E7%B0%A1%E7%AB%A0.pdf.jpg"
         },
         {
             "fileName": "http://www.cyc.org.tw",
             "fileSize": "",
-            "fileURL": "http://www.cyc.org.tw",
-            "thumb": null
+            "filePath": "http://www.cyc.org.tw",
+            "thumbPath": null
         },
         {
             "fileName": "https://forms.gle/Bw5NCHx2K7d4z29R6",
             "fileSize": "",
-            "fileURL": "https://forms.gle/Bw5NCHx2K7d4z29R6",
-            "thumb": null
+            "filePath": "https://forms.gle/Bw5NCHx2K7d4z29R6",
+            "thumbPath": null
         },
         {
             "fileName": "https://rb005.ndhu.edu.tw/p/412-1005-493.php",
             "fileSize": "",
-            "fileURL": "https://rb005.ndhu.edu.tw/p/412-1005-493.php",
-            "thumb": null
+            "filePath": "https://rb005.ndhu.edu.tw/p/412-1005-493.php",
+            "thumbPath": null
         }
     ]
 }

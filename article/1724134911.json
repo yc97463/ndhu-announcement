@@ -15,14 +15,14 @@
         {
             "fileName": "https://www.ewant.org/",
             "fileSize": ")。",
-            "fileURL": "https://www.ewant.org/",
-            "thumb": null
+            "filePath": "https://www.ewant.org/",
+            "thumbPath": null
         },
         {
             "fileName": "https://www.ewant.org/local/school/singlelist.php?id=90",
             "fileSize": ")。",
-            "fileURL": "https://www.ewant.org/local/school/singlelist.php?id=90",
-            "thumb": null
+            "filePath": "https://www.ewant.org/local/school/singlelist.php?id=90",
+            "thumbPath": null
         }
     ]
 }

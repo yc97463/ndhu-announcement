@@ -15,14 +15,14 @@
         {
             "fileName": "1130807eDM.pdf",
             "fileSize": "(216 KB)",
-            "fileURL": "./message_7/1722393043/1130807eDM.pdf",
-            "thumb": "/thumb/1722393043_1130807eDM.pdf.jpg"
+            "filePath": "./message_7/1722393043/1130807eDM.pdf",
+            "thumbPath": "/thumb/1722393043_1130807eDM.pdf.jpg"
         },
         {
             "fileName": "http://mis.ndhu.edu.tw/j.php?v=336f787",
             "fileSize": "課程：\n09:30-10:00  報到\n10:00-10:05  開場說明\n10:05-10:50  假訊息防衛戰，數位防身術教你守荷包!(主講：資深查核記者馬麗昕-台灣事實查核中心)\n10:50-11:00  中場休息\n11:00-11:45  數位時代必學的AI小工具(主講：莊哲昀技術長-台灣數位文化協會)\n11:45-12:00  大合照＆問卷填寫\n\n～～ 炎炎夏日，備有點心及小禮物，邀請大家一塊來參加資安及科技新知課程 ～～",
-            "fileURL": "http://mis.ndhu.edu.tw/j.php?v=336f787",
-            "thumb": null
+            "filePath": "http://mis.ndhu.edu.tw/j.php?v=336f787",
+            "thumbPath": null
         }
     ]
 }

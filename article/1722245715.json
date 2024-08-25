@@ -15,8 +15,8 @@
         {
             "fileName": "公告附件.pdf",
             "fileSize": "(69 KB)",
-            "fileURL": "./message_7/1722245715/%E5%85%AC%E5%91%8A%E9%99%84%E4%BB%B6.pdf",
-            "thumb": "/thumb/1722245715_%E5%85%AC%E5%91%8A%E9%99%84%E4%BB%B6.pdf.jpg"
+            "filePath": "./message_7/1722245715/%E5%85%AC%E5%91%8A%E9%99%84%E4%BB%B6.pdf",
+            "thumbPath": "/thumb/1722245715_%E5%85%AC%E5%91%8A%E9%99%84%E4%BB%B6.pdf.jpg"
         }
     ]
 }

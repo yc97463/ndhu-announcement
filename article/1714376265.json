@@ -15,14 +15,14 @@
         {
             "fileName": "0510周家輝講座.png",
             "fileSize": "(3 MB)",
-            "fileURL": "./message_7/1714376265/0510%E5%91%A8%E5%AE%B6%E8%BC%9D%E8%AC%9B%E5%BA%A7.png",
-            "thumb": "/thumb/1714376265_0510%E5%91%A8%E5%AE%B6%E8%BC%9D%E8%AC%9B%E5%BA%A7.png"
+            "filePath": "./message_7/1714376265/0510%E5%91%A8%E5%AE%B6%E8%BC%9D%E8%AC%9B%E5%BA%A7.png",
+            "thumbPath": "/thumb/1714376265_0510%E5%91%A8%E5%AE%B6%E8%BC%9D%E8%AC%9B%E5%BA%A7.png"
         },
         {
             "fileName": "https://forms.gle/CKYBCzULWos4dPRu5",
             "fileSize": "因規劃需求，欲實體參加請於5/8前完成報名，逾期恕無法提供餐點，請見諒。\n線上參與則會提供線上會議連結。\n*原跨域報名已回覆者則無需填寫*",
-            "fileURL": "https://forms.gle/CKYBCzULWos4dPRu5",
-            "thumb": null
+            "filePath": "https://forms.gle/CKYBCzULWos4dPRu5",
+            "thumbPath": null
         }
     ]
 }

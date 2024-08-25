@@ -15,14 +15,14 @@
         {
             "fileName": "附件一 (2).pdf",
             "fileSize": "(5 MB)",
-            "fileURL": "./message_7/1712748818/%E9%99%84%E4%BB%B6%E4%B8%80%20%282%29.pdf",
-            "thumb": "/thumb/1712748818_%E9%99%84%E4%BB%B6%E4%B8%80%20%282%29.pdf.jpg"
+            "filePath": "./message_7/1712748818/%E9%99%84%E4%BB%B6%E4%B8%80%20%282%29.pdf",
+            "thumbPath": "/thumb/1712748818_%E9%99%84%E4%BB%B6%E4%B8%80%20%282%29.pdf.jpg"
         },
         {
             "fileName": "附件二 (1).jpg",
             "fileSize": "(5 MB)",
-            "fileURL": "./message_7/1712748818/%E9%99%84%E4%BB%B6%E4%BA%8C%20%281%29.jpg",
-            "thumb": "/thumb/1712748818_%E9%99%84%E4%BB%B6%E4%BA%8C%20%281%29.jpg"
+            "filePath": "./message_7/1712748818/%E9%99%84%E4%BB%B6%E4%BA%8C%20%281%29.jpg",
+            "thumbPath": "/thumb/1712748818_%E9%99%84%E4%BB%B6%E4%BA%8C%20%281%29.jpg"
         }
     ]
 }

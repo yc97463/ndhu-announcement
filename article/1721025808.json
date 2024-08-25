@@ -15,14 +15,14 @@
         {
             "fileName": "http://mis.ndhu.edu.tw/j.php?v=336f786",
             "fileSize": "課程大綱：\n\n一、概要\n教育部社交工程演練\n何謂社交工程\n\n二、社交工程的威脅\n惡意附件\n惡意連結\n偽造身份\n變臉詐騙\n\n三、如何防範\n防範作為\n演練案例\n\n四、Gmail、Outlook防範設定\nGMS設定\nOffice 365(Outlook)設定",
-            "fileURL": "http://mis.ndhu.edu.tw/j.php?v=336f786",
-            "thumb": null
+            "filePath": "http://mis.ndhu.edu.tw/j.php?v=336f786",
+            "thumbPath": null
         },
         {
             "fileName": "https://bit.ly/4cCBkqk",
             "fileSize": "課程大綱：\n\n一、概要\n教育部社交工程演練\n何謂社交工程\n\n二、社交工程的威脅\n惡意附件\n惡意連結\n偽造身份\n變臉詐騙\n\n三、如何防範\n防範作為\n演練案例\n\n四、Gmail、Outlook防範設定\nGMS設定\nOffice 365(Outlook)設定",
-            "fileURL": "https://bit.ly/4cCBkqk",
-            "thumb": null
+            "filePath": "https://bit.ly/4cCBkqk",
+            "thumbPath": null
         }
     ]
 }

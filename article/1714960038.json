@@ -15,20 +15,20 @@
         {
             "fileName": "夏季校内招生 2024.png",
             "fileSize": "(1 MB)",
-            "fileURL": "./message_7/1714960038/%E5%A4%8F%E5%AD%A3%E6%A0%A1%E5%86%85%E6%8B%9B%E7%94%9F%202024.png",
-            "thumb": "/thumb/1714960038_%E5%A4%8F%E5%AD%A3%E6%A0%A1%E5%86%85%E6%8B%9B%E7%94%9F%202024.png"
+            "filePath": "./message_7/1714960038/%E5%A4%8F%E5%AD%A3%E6%A0%A1%E5%86%85%E6%8B%9B%E7%94%9F%202024.png",
+            "thumbPath": "/thumb/1714960038_%E5%A4%8F%E5%AD%A3%E6%A0%A1%E5%86%85%E6%8B%9B%E7%94%9F%202024.png"
         },
         {
             "fileName": "https://clc.ndhu.edu.tw/p/404-1133-124790.php",
             "fileSize": "【Registration time】: from now until 2024/05/24\n\nGreetings from the Chinese Language Center (CLC) of National Dong Hwa University, Hualien, Taiwan!",
-            "fileURL": "https://clc.ndhu.edu.tw/p/404-1133-124790.php",
-            "thumb": null
+            "filePath": "https://clc.ndhu.edu.tw/p/404-1133-124790.php",
+            "thumbPath": null
         },
         {
             "fileName": "https://clc.ndhu.edu.tw/p/404-1133-124790.php",
             "fileSize": "【Registration time】: from now until 2024/05/24\n\nGreetings from the Chinese Language Center (CLC) of National Dong Hwa University, Hualien, Taiwan!",
-            "fileURL": "https://clc.ndhu.edu.tw/p/404-1133-124790.php",
-            "thumb": null
+            "filePath": "https://clc.ndhu.edu.tw/p/404-1133-124790.php",
+            "thumbPath": null
         }
     ]
 }

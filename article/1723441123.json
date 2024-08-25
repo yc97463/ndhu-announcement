@@ -15,14 +15,14 @@
         {
             "fileName": "0919花蓮.jpg",
             "fileSize": "(90 KB)",
-            "fileURL": "./message_7/1723441123/0919%E8%8A%B1%E8%93%AE.jpg",
-            "thumb": "/thumb/1723441123_0919%E8%8A%B1%E8%93%AE.jpg"
+            "filePath": "./message_7/1723441123/0919%E8%8A%B1%E8%93%AE.jpg",
+            "thumbPath": "/thumb/1723441123_0919%E8%8A%B1%E8%93%AE.jpg"
         },
         {
             "fileName": "https://reurl.cc/34a6OV",
             "fileSize": "( 簡單註冊會員即可報名，PS:企業統一編號及企業名稱可填寫:無)\n\n聯絡單位:社團法人中華民國全國中小企業總會\n                 彭小姐 (02)2366-0812 分機458 （服務時間：平日09:00~17:30）\n                 江先生 (02)2366-0812 分機430 （服務時間：平日09:00~17:30）\n               Line ：搜尋輸入 @winwin99 加入雲世代小微官方line帳號（詢問課程相關問題不漏接）",
-            "fileURL": "https://reurl.cc/34a6OV",
-            "thumb": null
+            "filePath": "https://reurl.cc/34a6OV",
+            "thumbPath": null
         }
     ]
 }

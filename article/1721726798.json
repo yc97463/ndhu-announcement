@@ -15,20 +15,20 @@
         {
             "fileName": "花蓮縣政府失業者職業訓練宣導計畫.pdf",
             "fileSize": "(547 KB)",
-            "fileURL": "./message_7/1721726798/%E8%8A%B1%E8%93%AE%E7%B8%A3%E6%94%BF%E5%BA%9C%E5%A4%B1%E6%A5%AD%E8%80%85%E8%81%B7%E6%A5%AD%E8%A8%93%E7%B7%B4%E5%AE%A3%E5%B0%8E%E8%A8%88%E7%95%AB.pdf",
-            "thumb": "/thumb/1721726798_%E8%8A%B1%E8%93%AE%E7%B8%A3%E6%94%BF%E5%BA%9C%E5%A4%B1%E6%A5%AD%E8%80%85%E8%81%B7%E6%A5%AD%E8%A8%93%E7%B7%B4%E5%AE%A3%E5%B0%8E%E8%A8%88%E7%95%AB.pdf.jpg"
+            "filePath": "./message_7/1721726798/%E8%8A%B1%E8%93%AE%E7%B8%A3%E6%94%BF%E5%BA%9C%E5%A4%B1%E6%A5%AD%E8%80%85%E8%81%B7%E6%A5%AD%E8%A8%93%E7%B7%B4%E5%AE%A3%E5%B0%8E%E8%A8%88%E7%95%AB.pdf",
+            "thumbPath": "/thumb/1721726798_%E8%8A%B1%E8%93%AE%E7%B8%A3%E6%94%BF%E5%BA%9C%E5%A4%B1%E6%A5%AD%E8%80%85%E8%81%B7%E6%A5%AD%E8%A8%93%E7%B7%B4%E5%AE%A3%E5%B0%8E%E8%A8%88%E7%95%AB.pdf.jpg"
         },
         {
             "fileName": "https://www.taiwanjobs.gov.tw/Internet/Index/index.aspx",
             "fileSize": "",
-            "fileURL": "https://www.taiwanjobs.gov.tw/Internet/Index/index.aspx",
-            "thumb": null
+            "filePath": "https://www.taiwanjobs.gov.tw/Internet/Index/index.aspx",
+            "thumbPath": null
         },
         {
             "fileName": "https://rb005.ndhu.edu.tw/p/412-1005-493.php",
             "fileSize": "",
-            "fileURL": "https://rb005.ndhu.edu.tw/p/412-1005-493.php",
-            "thumb": null
+            "filePath": "https://rb005.ndhu.edu.tw/p/412-1005-493.php",
+            "thumbPath": null
         }
     ]
 }

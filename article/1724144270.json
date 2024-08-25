@@ -15,14 +15,14 @@
         {
             "fileName": "活動實施計畫.pdf",
             "fileSize": "(494 KB)",
-            "fileURL": "./message_7/1724144270/%E6%B4%BB%E5%8B%95%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB.pdf",
-            "thumb": "/thumb/1724144270_%E6%B4%BB%E5%8B%95%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB.pdf.jpg"
+            "filePath": "./message_7/1724144270/%E6%B4%BB%E5%8B%95%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB.pdf",
+            "thumbPath": "/thumb/1724144270_%E6%B4%BB%E5%8B%95%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB.pdf.jpg"
         },
         {
             "fileName": "attch2.jpg",
             "fileSize": "(494 KB)",
-            "fileURL": "./message_7/1724144270/attch2.jpg",
-            "thumb": "/thumb/1724144270_attch2.jpg"
+            "filePath": "./message_7/1724144270/attch2.jpg",
+            "thumbPath": "/thumb/1724144270_attch2.jpg"
         }
     ]
 }

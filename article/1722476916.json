@@ -15,26 +15,26 @@
         {
             "fileName": "挑戰!!健康運動集點趣修.png",
             "fileSize": "(224 KB)",
-            "fileURL": "./message_7/1722476916/%E6%8C%91%E6%88%B0%21%21%E5%81%A5%E5%BA%B7%E9%81%8B%E5%8B%95%E9%9B%86%E9%BB%9E%E8%B6%A3%E4%BF%AE.png",
-            "thumb": "/thumb/1722476916_%E6%8C%91%E6%88%B0%21%21%E5%81%A5%E5%BA%B7%E9%81%8B%E5%8B%95%E9%9B%86%E9%BB%9E%E8%B6%A3%E4%BF%AE.png"
+            "filePath": "./message_7/1722476916/%E6%8C%91%E6%88%B0%21%21%E5%81%A5%E5%BA%B7%E9%81%8B%E5%8B%95%E9%9B%86%E9%BB%9E%E8%B6%A3%E4%BF%AE.png",
+            "thumbPath": "/thumb/1722476916_%E6%8C%91%E6%88%B0%21%21%E5%81%A5%E5%BA%B7%E9%81%8B%E5%8B%95%E9%9B%86%E9%BB%9E%E8%B6%A3%E4%BF%AE.png"
         },
         {
             "fileName": "Line QR code.pdf",
             "fileSize": "(224 KB)",
-            "fileURL": "./message_7/1722476916/Line%20QR%20code.pdf",
-            "thumb": "/thumb/1722476916_Line%20QR%20code.pdf.jpg"
+            "filePath": "./message_7/1722476916/Line%20QR%20code.pdf",
+            "thumbPath": "/thumb/1722476916_Line%20QR%20code.pdf.jpg"
         },
         {
             "fileName": "https://reurl.cc/Key4Xm",
             "fileSize": "",
-            "fileURL": "https://reurl.cc/Key4Xm",
-            "thumb": null
+            "filePath": "https://reurl.cc/Key4Xm",
+            "thumbPath": null
         },
         {
             "fileName": "https://lin.ee/TgxSnjM",
             "fileSize": "",
-            "fileURL": "https://lin.ee/TgxSnjM",
-            "thumb": null
+            "filePath": "https://lin.ee/TgxSnjM",
+            "thumbPath": null
         }
     ]
 }

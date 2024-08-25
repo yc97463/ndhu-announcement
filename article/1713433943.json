@@ -15,20 +15,20 @@
         {
             "fileName": "Speaker Introduction 講者介紹.pdf",
             "fileSize": "(6 MB)",
-            "fileURL": "./message_7/1713433943/Speaker%20Introduction%20%E8%AC%9B%E8%80%85%E4%BB%8B%E7%B4%B9.pdf",
-            "thumb": "/thumb/1713433943_Speaker%20Introduction%20%E8%AC%9B%E8%80%85%E4%BB%8B%E7%B4%B9.pdf.jpg"
+            "filePath": "./message_7/1713433943/Speaker%20Introduction%20%E8%AC%9B%E8%80%85%E4%BB%8B%E7%B4%B9.pdf",
+            "thumbPath": "/thumb/1713433943_Speaker%20Introduction%20%E8%AC%9B%E8%80%85%E4%BB%8B%E7%B4%B9.pdf.jpg"
         },
         {
             "fileName": "Poster.pdf",
             "fileSize": "(6 MB)",
-            "fileURL": "./message_7/1713433943/Poster.pdf",
-            "thumb": "/thumb/1713433943_Poster.pdf.jpg"
+            "filePath": "./message_7/1713433943/Poster.pdf",
+            "thumbPath": "/thumb/1713433943_Poster.pdf.jpg"
         },
         {
             "fileName": "https://sys.ndhu.edu.tw/SA/XSL_ApplyRWD/ActAnnounce.aspx?ActID=21075\u0026lang=en",
             "fileSize": "* Provides Diverse Progress Hours",
-            "fileURL": "https://sys.ndhu.edu.tw/SA/XSL_ApplyRWD/ActAnnounce.aspx?ActID=21075\u0026lang=en",
-            "thumb": null
+            "filePath": "https://sys.ndhu.edu.tw/SA/XSL_ApplyRWD/ActAnnounce.aspx?ActID=21075\u0026lang=en",
+            "thumbPath": null
         }
     ]
 }

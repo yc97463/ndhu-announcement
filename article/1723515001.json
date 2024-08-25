@@ -15,14 +15,14 @@
         {
             "fileName": "國立臺南大學遴選辦法.pdf",
             "fileSize": "(96 KB)",
-            "fileURL": "./message_7/1723515001/%E5%9C%8B%E7%AB%8B%E8%87%BA%E5%8D%97%E5%A4%A7%E5%AD%B8%E9%81%B4%E9%81%B8%E8%BE%A6%E6%B3%95.pdf",
-            "thumb": "/thumb/1723515001_%E5%9C%8B%E7%AB%8B%E8%87%BA%E5%8D%97%E5%A4%A7%E5%AD%B8%E9%81%B4%E9%81%B8%E8%BE%A6%E6%B3%95.pdf.jpg"
+            "filePath": "./message_7/1723515001/%E5%9C%8B%E7%AB%8B%E8%87%BA%E5%8D%97%E5%A4%A7%E5%AD%B8%E9%81%B4%E9%81%B8%E8%BE%A6%E6%B3%95.pdf",
+            "thumbPath": "/thumb/1723515001_%E5%9C%8B%E7%AB%8B%E8%87%BA%E5%8D%97%E5%A4%A7%E5%AD%B8%E9%81%B4%E9%81%B8%E8%BE%A6%E6%B3%95.pdf.jpg"
         },
         {
             "fileName": "國立臺南大學附件.pdf",
             "fileSize": "(96 KB)",
-            "fileURL": "./message_7/1723515001/%E5%9C%8B%E7%AB%8B%E8%87%BA%E5%8D%97%E5%A4%A7%E5%AD%B8%E9%99%84%E4%BB%B6.pdf",
-            "thumb": "/thumb/1723515001_%E5%9C%8B%E7%AB%8B%E8%87%BA%E5%8D%97%E5%A4%A7%E5%AD%B8%E9%99%84%E4%BB%B6.pdf.jpg"
+            "filePath": "./message_7/1723515001/%E5%9C%8B%E7%AB%8B%E8%87%BA%E5%8D%97%E5%A4%A7%E5%AD%B8%E9%99%84%E4%BB%B6.pdf",
+            "thumbPath": "/thumb/1723515001_%E5%9C%8B%E7%AB%8B%E8%87%BA%E5%8D%97%E5%A4%A7%E5%AD%B8%E9%99%84%E4%BB%B6.pdf.jpg"
         }
     ]
 }

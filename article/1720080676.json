@@ -15,14 +15,14 @@
         {
             "fileName": "樹林腳點亮暑期營.png",
             "fileSize": "(1 MB)",
-            "fileURL": "./message_7/1720080676/%E6%A8%B9%E6%9E%97%E8%85%B3%E9%BB%9E%E4%BA%AE%E6%9A%91%E6%9C%9F%E7%87%9F.png",
-            "thumb": "/thumb/1720080676_%E6%A8%B9%E6%9E%97%E8%85%B3%E9%BB%9E%E4%BA%AE%E6%9A%91%E6%9C%9F%E7%87%9F.png"
+            "filePath": "./message_7/1720080676/%E6%A8%B9%E6%9E%97%E8%85%B3%E9%BB%9E%E4%BA%AE%E6%9A%91%E6%9C%9F%E7%87%9F.png",
+            "thumbPath": "/thumb/1720080676_%E6%A8%B9%E6%9E%97%E8%85%B3%E9%BB%9E%E4%BA%AE%E6%9A%91%E6%9C%9F%E7%87%9F.png"
         },
         {
             "fileName": "https://ppt.cc/fRg0dx",
             "fileSize": "六、活動安排：活動可自行安排天數及時間，活動結束後頒發感謝獎(服務學習時數)。",
-            "fileURL": "https://ppt.cc/fRg0dx",
-            "thumb": null
+            "filePath": "https://ppt.cc/fRg0dx",
+            "thumbPath": null
         }
     ]
 }

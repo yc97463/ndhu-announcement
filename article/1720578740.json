@@ -15,8 +15,8 @@
         {
             "fileName": "徵稿海報.jpg",
             "fileSize": "(682 KB)",
-            "fileURL": "./message_7/1720578740/%E5%BE%B5%E7%A8%BF%E6%B5%B7%E5%A0%B1.jpg",
-            "thumb": "/thumb/1720578740_%E5%BE%B5%E7%A8%BF%E6%B5%B7%E5%A0%B1.jpg"
+            "filePath": "./message_7/1720578740/%E5%BE%B5%E7%A8%BF%E6%B5%B7%E5%A0%B1.jpg",
+            "thumbPath": "/thumb/1720578740_%E5%BE%B5%E7%A8%BF%E6%B5%B7%E5%A0%B1.jpg"
         }
     ]
 }

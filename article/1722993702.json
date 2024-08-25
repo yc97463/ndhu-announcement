@@ -15,14 +15,14 @@
         {
             "fileName": "附件1.pdf",
             "fileSize": "(258 KB)",
-            "fileURL": "./message_7/1722993702/%E9%99%84%E4%BB%B61.pdf",
-            "thumb": "/thumb/1722993702_%E9%99%84%E4%BB%B61.pdf.jpg"
+            "filePath": "./message_7/1722993702/%E9%99%84%E4%BB%B61.pdf",
+            "thumbPath": "/thumb/1722993702_%E9%99%84%E4%BB%B61.pdf.jpg"
         },
         {
             "fileName": "https://www.narlabs.org.tw/xmdoc/contxsmsid=0I148623268432243722\u0026sid=0O015409714272524767\u0026r=2019066453",
             "fileSize": "十一、申請辦法及相關問題請洽國家實驗研究院：\n林小姐：連絡電話 (02)6630-0784、電子郵件 jessielin@narlabs.org.tw\n洪小姐：連絡電話 (02)6630-0630、電子郵件 joannehong@narlabs.org.tw",
-            "fileURL": "https://www.narlabs.org.tw/xmdoc/contxsmsid=0I148623268432243722\u0026sid=0O015409714272524767\u0026r=2019066453",
-            "thumb": null
+            "filePath": "https://www.narlabs.org.tw/xmdoc/contxsmsid=0I148623268432243722\u0026sid=0O015409714272524767\u0026r=2019066453",
+            "thumbPath": null
         }
     ]
 }

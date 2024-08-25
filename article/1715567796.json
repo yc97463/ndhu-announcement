@@ -15,14 +15,14 @@
         {
             "fileName": "0517.jpg",
             "fileSize": "(300 KB)",
-            "fileURL": "./message_7/1715567796/0517.jpg",
-            "thumb": "/thumb/1715567796_0517.jpg"
+            "filePath": "./message_7/1715567796/0517.jpg",
+            "thumbPath": "/thumb/1715567796_0517.jpg"
         },
         {
             "fileName": "https://meet.google.com/jkr-mywv-kyp",
             "fileSize": "財務金融學系敬邀",
-            "fileURL": "https://meet.google.com/jkr-mywv-kyp",
-            "thumb": null
+            "filePath": "https://meet.google.com/jkr-mywv-kyp",
+            "thumbPath": null
         }
     ]
 }

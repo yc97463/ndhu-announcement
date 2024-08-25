@@ -15,20 +15,20 @@
         {
             "fileName": "宣傳海報-112-2專案財務管理與行銷.png",
             "fileSize": "(211 KB)",
-            "fileURL": "./message_7/1708326740/%E5%AE%A3%E5%82%B3%E6%B5%B7%E5%A0%B1-112-2%E5%B0%88%E6%A1%88%E8%B2%A1%E5%8B%99%E7%AE%A1%E7%90%86%E8%88%87%E8%A1%8C%E9%8A%B7.png",
-            "thumb": "/thumb/1708326740_%E5%AE%A3%E5%82%B3%E6%B5%B7%E5%A0%B1-112-2%E5%B0%88%E6%A1%88%E8%B2%A1%E5%8B%99%E7%AE%A1%E7%90%86%E8%88%87%E8%A1%8C%E9%8A%B7.png"
+            "filePath": "./message_7/1708326740/%E5%AE%A3%E5%82%B3%E6%B5%B7%E5%A0%B1-112-2%E5%B0%88%E6%A1%88%E8%B2%A1%E5%8B%99%E7%AE%A1%E7%90%86%E8%88%87%E8%A1%8C%E9%8A%B7.png",
+            "thumbPath": "/thumb/1708326740_%E5%AE%A3%E5%82%B3%E6%B5%B7%E5%A0%B1-112-2%E5%B0%88%E6%A1%88%E8%B2%A1%E5%8B%99%E7%AE%A1%E7%90%86%E8%88%87%E8%A1%8C%E9%8A%B7.png"
         },
         {
             "fileName": "https://forms.gle/yUkXQn9QbQQAqzNZA",
             "fileSize": "#專案財務管理與行銷\n#社會實踐微學程\n#軟實力提升\n#影音與行銷宣傳的技巧",
-            "fileURL": "https://forms.gle/yUkXQn9QbQQAqzNZA",
-            "thumb": null
+            "filePath": "https://forms.gle/yUkXQn9QbQQAqzNZA",
+            "thumbPath": null
         },
         {
             "fileName": "https://forms.gle/yUkXQn9QbQQAqzNZA",
             "fileSize": "#專案財務管理與行銷\n#社會實踐微學程\n#軟實力提升\n#影音與行銷宣傳的技巧",
-            "fileURL": "https://forms.gle/yUkXQn9QbQQAqzNZA",
-            "thumb": null
+            "filePath": "https://forms.gle/yUkXQn9QbQQAqzNZA",
+            "thumbPath": null
         }
     ]
 }

@@ -15,14 +15,14 @@
         {
             "fileName": "https://www.fly.org.tw/webNewsView?uid=83",
             "fileSize": "",
-            "fileURL": "https://www.fly.org.tw/webNewsView?uid=83",
-            "thumb": null
+            "filePath": "https://www.fly.org.tw/webNewsView?uid=83",
+            "thumbPath": null
         },
         {
             "fileName": "https://www.fly.org.tw/webIndex",
             "fileSize": "",
-            "fileURL": "https://www.fly.org.tw/webIndex",
-            "thumb": null
+            "filePath": "https://www.fly.org.tw/webIndex",
+            "thumbPath": null
         }
     ]
 }

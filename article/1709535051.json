@@ -15,32 +15,32 @@
         {
             "fileName": "招生說明會.jpg",
             "fileSize": "(527 KB)",
-            "fileURL": "./message_7/1709535051/%E6%8B%9B%E7%94%9F%E8%AA%AA%E6%98%8E%E6%9C%83.jpg",
-            "thumb": "/thumb/1709535051_%E6%8B%9B%E7%94%9F%E8%AA%AA%E6%98%8E%E6%9C%83.jpg"
+            "filePath": "./message_7/1709535051/%E6%8B%9B%E7%94%9F%E8%AA%AA%E6%98%8E%E6%9C%83.jpg",
+            "thumbPath": "/thumb/1709535051_%E6%8B%9B%E7%94%9F%E8%AA%AA%E6%98%8E%E6%9C%83.jpg"
         },
         {
             "fileName": "招募海報.png",
             "fileSize": "(527 KB)",
-            "fileURL": "./message_7/1709535051/%E6%8B%9B%E5%8B%9F%E6%B5%B7%E5%A0%B1.png",
-            "thumb": "/thumb/1709535051_%E6%8B%9B%E5%8B%9F%E6%B5%B7%E5%A0%B1.png"
+            "filePath": "./message_7/1709535051/%E6%8B%9B%E5%8B%9F%E6%B5%B7%E5%A0%B1.png",
+            "thumbPath": "/thumb/1709535051_%E6%8B%9B%E5%8B%9F%E6%B5%B7%E5%A0%B1.png"
         },
         {
             "fileName": "宣傳海報.png",
             "fileSize": "(527 KB)",
-            "fileURL": "./message_7/1709535051/%E5%AE%A3%E5%82%B3%E6%B5%B7%E5%A0%B1.png",
-            "thumb": "/thumb/1709535051_%E5%AE%A3%E5%82%B3%E6%B5%B7%E5%A0%B1.png"
+            "filePath": "./message_7/1709535051/%E5%AE%A3%E5%82%B3%E6%B5%B7%E5%A0%B1.png",
+            "thumbPath": "/thumb/1709535051_%E5%AE%A3%E5%82%B3%E6%B5%B7%E5%A0%B1.png"
         },
         {
             "fileName": "https://forms.gle/NYWUhg5fwaquPBt88",
             "fileSize": "鎖定最新消息！\n\n\n課外活動組感謝您",
-            "fileURL": "https://forms.gle/NYWUhg5fwaquPBt88",
-            "thumb": null
+            "filePath": "https://forms.gle/NYWUhg5fwaquPBt88",
+            "thumbPath": null
         },
         {
             "fileName": "https://linktr.ee/ndhu_fa",
             "fileSize": "鎖定最新消息！\n\n\n課外活動組感謝您",
-            "fileURL": "https://linktr.ee/ndhu_fa",
-            "thumb": null
+            "filePath": "https://linktr.ee/ndhu_fa",
+            "thumbPath": null
         }
     ]
 }

@@ -15,14 +15,14 @@
         {
             "fileName": "附件1-9.pdf",
             "fileSize": "(5 MB)",
-            "fileURL": "./message_7/1722318775/%E9%99%84%E4%BB%B61-9.pdf",
-            "thumb": "/thumb/1722318775_%E9%99%84%E4%BB%B61-9.pdf.jpg"
+            "filePath": "./message_7/1722318775/%E9%99%84%E4%BB%B61-9.pdf",
+            "thumbPath": "/thumb/1722318775_%E9%99%84%E4%BB%B61-9.pdf.jpg"
         },
         {
             "fileName": "https://forms.gle/GATdb9YHgVJTXRpM6",
             "fileSize": "(四)聯絡方式：國立中正大學人工智慧與永續發展研究中心(05)2720411#33147 廖助理，電子郵件：astyhl2@ccu.edu.tw。",
-            "fileURL": "https://forms.gle/GATdb9YHgVJTXRpM6",
-            "thumb": null
+            "filePath": "https://forms.gle/GATdb9YHgVJTXRpM6",
+            "thumbPath": null
         }
     ]
 }

@@ -15,14 +15,14 @@
         {
             "fileName": "生命造舟.jpg",
             "fileSize": "(422 KB)",
-            "fileURL": "./message_7/1715852847/%E7%94%9F%E5%91%BD%E9%80%A0%E8%88%9F.jpg",
-            "thumb": "/thumb/1715852847_%E7%94%9F%E5%91%BD%E9%80%A0%E8%88%9F.jpg"
+            "filePath": "./message_7/1715852847/%E7%94%9F%E5%91%BD%E9%80%A0%E8%88%9F.jpg",
+            "thumbPath": "/thumb/1715852847_%E7%94%9F%E5%91%BD%E9%80%A0%E8%88%9F.jpg"
         },
         {
             "fileName": "通識-造舟課程-課程說明113-1.jpg",
             "fileSize": "(422 KB)",
-            "fileURL": "./message_7/1715852847/%E9%80%9A%E8%AD%98-%E9%80%A0%E8%88%9F%E8%AA%B2%E7%A8%8B-%E8%AA%B2%E7%A8%8B%E8%AA%AA%E6%98%8E113-1.jpg",
-            "thumb": "/thumb/1715852847_%E9%80%9A%E8%AD%98-%E9%80%A0%E8%88%9F%E8%AA%B2%E7%A8%8B-%E8%AA%B2%E7%A8%8B%E8%AA%AA%E6%98%8E113-1.jpg"
+            "filePath": "./message_7/1715852847/%E9%80%9A%E8%AD%98-%E9%80%A0%E8%88%9F%E8%AA%B2%E7%A8%8B-%E8%AA%B2%E7%A8%8B%E8%AA%AA%E6%98%8E113-1.jpg",
+            "thumbPath": "/thumb/1715852847_%E9%80%9A%E8%AD%98-%E9%80%A0%E8%88%9F%E8%AA%B2%E7%A8%8B-%E8%AA%B2%E7%A8%8B%E8%AA%AA%E6%98%8E113-1.jpg"
         }
     ]
 }

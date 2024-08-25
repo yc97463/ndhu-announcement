@@ -15,20 +15,20 @@
         {
             "fileName": "1718352412175.jpg",
             "fileSize": "(430 KB)",
-            "fileURL": "./message_7/1718352635/1718352412175.jpg",
-            "thumb": "/thumb/1718352635_1718352412175.jpg"
+            "filePath": "./message_7/1718352635/1718352412175.jpg",
+            "thumbPath": "/thumb/1718352635_1718352412175.jpg"
         },
         {
             "fileName": "https://forms.gle/4W21HxzttESzJxW88",
             "fileSize": "國立東華大學 洄瀾共好大學社會責任中心\n(03) 890-3772、890-3789\n聯絡mail:  techusr@gms.ndhu.edu.tw",
-            "fileURL": "https://forms.gle/4W21HxzttESzJxW88",
-            "thumb": null
+            "filePath": "https://forms.gle/4W21HxzttESzJxW88",
+            "thumbPath": null
         },
         {
             "fileName": "https://meet.google.com/gbn-qeyv-uob",
             "fileSize": "國立東華大學 洄瀾共好大學社會責任中心\n(03) 890-3772、890-3789\n聯絡mail:  techusr@gms.ndhu.edu.tw",
-            "fileURL": "https://meet.google.com/gbn-qeyv-uob",
-            "thumb": null
+            "filePath": "https://meet.google.com/gbn-qeyv-uob",
+            "thumbPath": null
         }
     ]
 }

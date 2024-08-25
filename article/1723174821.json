@@ -15,8 +15,8 @@
         {
             "fileName": "https://elearn.hrd.gov.tw/mooc/learn_map/explorer.php",
             "fileSize": "敬祝  順心\n人事室 敬啟",
-            "fileURL": "https://elearn.hrd.gov.tw/mooc/learn_map/explorer.php",
-            "thumb": null
+            "filePath": "https://elearn.hrd.gov.tw/mooc/learn_map/explorer.php",
+            "thumbPath": null
         }
     ]
 }

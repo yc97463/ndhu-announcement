@@ -15,20 +15,20 @@
         {
             "fileName": "https://airtable.com/appX8z6IfP3bnTwbB/shrr4IfRnpBLbY19i",
             "fileSize": "**配合政府環保政策，與會人員請自備環保杯、筷。現場不發放紙杯、杯水、瓶水或飲料**",
-            "fileURL": "https://airtable.com/appX8z6IfP3bnTwbB/shrr4IfRnpBLbY19i",
-            "thumb": null
+            "filePath": "https://airtable.com/appX8z6IfP3bnTwbB/shrr4IfRnpBLbY19i",
+            "thumbPath": null
         },
         {
             "fileName": "https://www.facebook.com/studyabroadmoe",
             "fileSize": "**配合政府環保政策，與會人員請自備環保杯、筷。現場不發放紙杯、杯水、瓶水或飲料**",
-            "fileURL": "https://www.facebook.com/studyabroadmoe",
-            "thumb": null
+            "filePath": "https://www.facebook.com/studyabroadmoe",
+            "thumbPath": null
         },
         {
             "fileName": "https://www.instagram.com/studyabroadmoe/",
             "fileSize": "**配合政府環保政策，與會人員請自備環保杯、筷。現場不發放紙杯、杯水、瓶水或飲料**",
-            "fileURL": "https://www.instagram.com/studyabroadmoe/",
-            "thumb": null
+            "filePath": "https://www.instagram.com/studyabroadmoe/",
+            "thumbPath": null
         }
     ]
 }

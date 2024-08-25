@@ -15,14 +15,14 @@
         {
             "fileName": "附件1(11).jpg",
             "fileSize": "(9 MB)",
-            "fileURL": "./message_7/1719883418/%E9%99%84%E4%BB%B61%2811%29.jpg",
-            "thumb": "/thumb/1719883418_%E9%99%84%E4%BB%B61%2811%29.jpg"
+            "filePath": "./message_7/1719883418/%E9%99%84%E4%BB%B61%2811%29.jpg",
+            "thumbPath": "/thumb/1719883418_%E9%99%84%E4%BB%B61%2811%29.jpg"
         },
         {
             "fileName": "https://forms.gle/qUeCQ17ENua5Rzds7",
             "fileSize": "。\n\n    四、報名日期：即日起至113年7月12日(星期五)17：00止，如額滿將提早關閉表單。\n\n    五、全程參與者，將發送電子研習證明。\n\n    六、檢附活動海報，敬請協助公告。\n\n    七、活動聯絡人：國立屏東大學教務處教學資源中心謝玟倩組員，電話：(08)7663800分機11607；E - a m i l 信箱：demonfor99@mail.nptu.edu.tw。",
-            "fileURL": "https://forms.gle/qUeCQ17ENua5Rzds7",
-            "thumb": null
+            "filePath": "https://forms.gle/qUeCQ17ENua5Rzds7",
+            "thumbPath": null
         }
     ]
 }

@@ -15,14 +15,14 @@
         {
             "fileName": "https://rb037.ndhu.edu.tw/?Lang=zh-tw",
             "fileSize": "東華VIP團隊 啟",
-            "fileURL": "https://rb037.ndhu.edu.tw/?Lang=zh-tw",
-            "thumb": null
+            "filePath": "https://rb037.ndhu.edu.tw/?Lang=zh-tw",
+            "thumbPath": null
         },
         {
             "fileName": "https://rb037.ndhu.edu.tw/p/423-1037-3438.php?Lang=zh-tw",
             "fileSize": "東華VIP團隊 啟",
-            "fileURL": "https://rb037.ndhu.edu.tw/p/423-1037-3438.php?Lang=zh-tw",
-            "thumb": null
+            "filePath": "https://rb037.ndhu.edu.tw/p/423-1037-3438.php?Lang=zh-tw",
+            "thumbPath": null
         }
     ]
 }

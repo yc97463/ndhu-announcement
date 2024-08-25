@@ -15,8 +15,8 @@
         {
             "fileName": "報名簡章.pdf",
             "fileSize": "(106 KB)",
-            "fileURL": "./message_7/1723443401/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
-            "thumb": "/thumb/1723443401_%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf.jpg"
+            "filePath": "./message_7/1723443401/%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf",
+            "thumbPath": "/thumb/1723443401_%E5%A0%B1%E5%90%8D%E7%B0%A1%E7%AB%A0.pdf.jpg"
         }
     ]
 }

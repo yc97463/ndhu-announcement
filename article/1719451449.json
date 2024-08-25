@@ -15,26 +15,26 @@
         {
             "fileName": "附件一.pdf",
             "fileSize": "(156 KB)",
-            "fileURL": "./message_7/1719451449/%E9%99%84%E4%BB%B6%E4%B8%80.pdf",
-            "thumb": "/thumb/1719451449_%E9%99%84%E4%BB%B6%E4%B8%80.pdf.jpg"
+            "filePath": "./message_7/1719451449/%E9%99%84%E4%BB%B6%E4%B8%80.pdf",
+            "thumbPath": "/thumb/1719451449_%E9%99%84%E4%BB%B6%E4%B8%80.pdf.jpg"
         },
         {
             "fileName": "附件二.pdf",
             "fileSize": "(156 KB)",
-            "fileURL": "./message_7/1719451449/%E9%99%84%E4%BB%B6%E4%BA%8C.pdf",
-            "thumb": "/thumb/1719451449_%E9%99%84%E4%BB%B6%E4%BA%8C.pdf.jpg"
+            "filePath": "./message_7/1719451449/%E9%99%84%E4%BB%B6%E4%BA%8C.pdf",
+            "thumbPath": "/thumb/1719451449_%E9%99%84%E4%BB%B6%E4%BA%8C.pdf.jpg"
         },
         {
             "fileName": "附件三.pdf",
             "fileSize": "(156 KB)",
-            "fileURL": "./message_7/1719451449/%E9%99%84%E4%BB%B6%E4%B8%89.pdf",
-            "thumb": "/thumb/1719451449_%E9%99%84%E4%BB%B6%E4%B8%89.pdf.jpg"
+            "filePath": "./message_7/1719451449/%E9%99%84%E4%BB%B6%E4%B8%89.pdf",
+            "thumbPath": "/thumb/1719451449_%E9%99%84%E4%BB%B6%E4%B8%89.pdf.jpg"
         },
         {
             "fileName": "附件四.pdf",
             "fileSize": "(156 KB)",
-            "fileURL": "./message_7/1719451449/%E9%99%84%E4%BB%B6%E5%9B%9B.pdf",
-            "thumb": "/thumb/1719451449_%E9%99%84%E4%BB%B6%E5%9B%9B.pdf.jpg"
+            "filePath": "./message_7/1719451449/%E9%99%84%E4%BB%B6%E5%9B%9B.pdf",
+            "thumbPath": "/thumb/1719451449_%E9%99%84%E4%BB%B6%E5%9B%9B.pdf.jpg"
         }
     ]
 }

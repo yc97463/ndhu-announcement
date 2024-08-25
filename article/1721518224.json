@@ -15,20 +15,20 @@
         {
             "fileName": "第一號通知.png",
             "fileSize": "(192 KB)",
-            "fileURL": "./message_7/1721518224/%E7%AC%AC%E4%B8%80%E8%99%9F%E9%80%9A%E7%9F%A5.png",
-            "thumb": "/thumb/1721518224_%E7%AC%AC%E4%B8%80%E8%99%9F%E9%80%9A%E7%9F%A5.png"
+            "filePath": "./message_7/1721518224/%E7%AC%AC%E4%B8%80%E8%99%9F%E9%80%9A%E7%9F%A5.png",
+            "thumbPath": "/thumb/1721518224_%E7%AC%AC%E4%B8%80%E8%99%9F%E9%80%9A%E7%9F%A5.png"
         },
         {
             "fileName": "第二號通知.rar",
             "fileSize": "(192 KB)",
-            "fileURL": "./message_7/1721518224/%E7%AC%AC%E4%BA%8C%E8%99%9F%E9%80%9A%E7%9F%A5.rar",
-            "thumb": null
+            "filePath": "./message_7/1721518224/%E7%AC%AC%E4%BA%8C%E8%99%9F%E9%80%9A%E7%9F%A5.rar",
+            "thumbPath": null
         },
         {
             "fileName": "https://wclc.ndhu.edu.tw/home",
             "fileSize": "。\n如有未盡事宜，請逕洽WCLC窗口聯絡信箱：wclc@gms.ndhu.edu.tw。",
-            "fileURL": "https://wclc.ndhu.edu.tw/home",
-            "thumb": null
+            "filePath": "https://wclc.ndhu.edu.tw/home",
+            "thumbPath": null
         }
     ]
 }

@@ -15,26 +15,26 @@
         {
             "fileName": "0709附件一.pdf",
             "fileSize": "(7 KB)",
-            "fileURL": "./message_7/1719296572/0709%E9%99%84%E4%BB%B6%E4%B8%80.pdf",
-            "thumb": "/thumb/1719296572_0709%E9%99%84%E4%BB%B6%E4%B8%80.pdf.jpg"
+            "filePath": "./message_7/1719296572/0709%E9%99%84%E4%BB%B6%E4%B8%80.pdf",
+            "thumbPath": "/thumb/1719296572_0709%E9%99%84%E4%BB%B6%E4%B8%80.pdf.jpg"
         },
         {
             "fileName": "0709附件二.pdf",
             "fileSize": "(7 KB)",
-            "fileURL": "./message_7/1719296572/0709%E9%99%84%E4%BB%B6%E4%BA%8C.pdf",
-            "thumb": "/thumb/1719296572_0709%E9%99%84%E4%BB%B6%E4%BA%8C.pdf.jpg"
+            "filePath": "./message_7/1719296572/0709%E9%99%84%E4%BB%B6%E4%BA%8C.pdf",
+            "thumbPath": "/thumb/1719296572_0709%E9%99%84%E4%BB%B6%E4%BA%8C.pdf.jpg"
         },
         {
             "fileName": "0709附件3.odt",
             "fileSize": "(7 KB)",
-            "fileURL": "./message_7/1719296572/0709%E9%99%84%E4%BB%B63.odt",
-            "thumb": null
+            "filePath": "./message_7/1719296572/0709%E9%99%84%E4%BB%B63.odt",
+            "thumbPath": null
         },
         {
             "fileName": "0709附件四.odt",
             "fileSize": "(7 KB)",
-            "fileURL": "./message_7/1719296572/0709%E9%99%84%E4%BB%B6%E5%9B%9B.odt",
-            "thumb": null
+            "filePath": "./message_7/1719296572/0709%E9%99%84%E4%BB%B6%E5%9B%9B.odt",
+            "thumbPath": null
         }
     ]
 }

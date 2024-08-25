@@ -15,14 +15,14 @@
         {
             "fileName": "附件1(13).jpg",
             "fileSize": "(57 KB)",
-            "fileURL": "./message_7/1724134650/%E9%99%84%E4%BB%B61%2813%29.jpg",
-            "thumb": "/thumb/1724134650_%E9%99%84%E4%BB%B61%2813%29.jpg"
+            "filePath": "./message_7/1724134650/%E9%99%84%E4%BB%B61%2813%29.jpg",
+            "thumbPath": "/thumb/1724134650_%E9%99%84%E4%BB%B61%2813%29.jpg"
         },
         {
             "fileName": "https://reurl.cc/4rAajD",
             "fileSize": "六、報名截止時間:8/28(三) 15:00\n\n    七、聯繫人的資訊:嚴小姐0911-351-737 (Email：services@certitraining.org)\n\n    八、每場次全程3小時(免費)，招收對象為大專院校的教師及行政人員及業界職員。\n\n    九、每場次僅有50位名額，名額有限，額滿為止，主辦單位保有更改活動內容之權利。",
-            "fileURL": "https://reurl.cc/4rAajD",
-            "thumb": null
+            "filePath": "https://reurl.cc/4rAajD",
+            "thumbPath": null
         }
     ]
 }

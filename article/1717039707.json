@@ -15,14 +15,14 @@
         {
             "fileName": "大墩陽光企業優惠專案.pdf",
             "fileSize": "(519 KB)",
-            "fileURL": "./message_7/1717039707/%E5%A4%A7%E5%A2%A9%E9%99%BD%E5%85%89%E4%BC%81%E6%A5%AD%E5%84%AA%E6%83%A0%E5%B0%88%E6%A1%88.pdf",
-            "thumb": "/thumb/1717039707_%E5%A4%A7%E5%A2%A9%E9%99%BD%E5%85%89%E4%BC%81%E6%A5%AD%E5%84%AA%E6%83%A0%E5%B0%88%E6%A1%88.pdf.jpg"
+            "filePath": "./message_7/1717039707/%E5%A4%A7%E5%A2%A9%E9%99%BD%E5%85%89%E4%BC%81%E6%A5%AD%E5%84%AA%E6%83%A0%E5%B0%88%E6%A1%88.pdf",
+            "thumbPath": "/thumb/1717039707_%E5%A4%A7%E5%A2%A9%E9%99%BD%E5%85%89%E4%BC%81%E6%A5%AD%E5%84%AA%E6%83%A0%E5%B0%88%E6%A1%88.pdf.jpg"
         },
         {
             "fileName": "http://www.sng.idv.tw",
             "fileSize": "，請先加入會員，報名時請勾選我有代碼，並輸入九折優惠碼：代碼『90022』。若有疑問請電洽聯絡資訊：(04)37007883 (全國服務專線)，每週一至週五 09:30~17:30。",
-            "fileURL": "http://www.sng.idv.tw",
-            "thumb": null
+            "filePath": "http://www.sng.idv.tw",
+            "thumbPath": null
         }
     ]
 }

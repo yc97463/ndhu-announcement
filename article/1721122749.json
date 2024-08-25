@@ -15,32 +15,32 @@
         {
             "fileName": "[CSIE Speech] 0718 Navigating Taiwan Poster.jpg",
             "fileSize": "(5 MB)",
-            "fileURL": "./message_7/1721122749/%5BCSIE%20Speech%5D%200718%20Navigating%20Taiwan%20Poster.jpg",
-            "thumb": "/thumb/1721122749_%5BCSIE%20Speech%5D%200718%20Navigating%20Taiwan%20Poster.jpg"
+            "filePath": "./message_7/1721122749/%5BCSIE%20Speech%5D%200718%20Navigating%20Taiwan%20Poster.jpg",
+            "thumbPath": "/thumb/1721122749_%5BCSIE%20Speech%5D%200718%20Navigating%20Taiwan%20Poster.jpg"
         },
         {
             "fileName": "https://shorturl.at/OmzNU",
             "fileSize": "(Required for Distributing Cross-Domain Hours)\nFeel free to reach out if any questions or concerns, and look forward to seeing you there! 😃",
-            "fileURL": "https://shorturl.at/OmzNU",
-            "thumb": null
+            "filePath": "https://shorturl.at/OmzNU",
+            "thumbPath": null
         },
         {
             "fileName": "https://meet.google.com/zub-hugb-pps",
             "fileSize": "(Required for Distributing Cross-Domain Hours)\nFeel free to reach out if any questions or concerns, and look forward to seeing you there! 😃",
-            "fileURL": "https://meet.google.com/zub-hugb-pps",
-            "thumb": null
+            "filePath": "https://meet.google.com/zub-hugb-pps",
+            "thumbPath": null
         },
         {
             "fileName": "https://reurl.cc/xanmve",
             "fileSize": "(Required for Distributing Cross-Domain Hours)\nFeel free to reach out if any questions or concerns, and look forward to seeing you there! 😃",
-            "fileURL": "https://reurl.cc/xanmve",
-            "thumb": null
+            "filePath": "https://reurl.cc/xanmve",
+            "thumbPath": null
         },
         {
             "fileName": "https://reurl.cc/4rZzL3",
             "fileSize": "(Required for Distributing Cross-Domain Hours)\nFeel free to reach out if any questions or concerns, and look forward to seeing you there! 😃",
-            "fileURL": "https://reurl.cc/4rZzL3",
-            "thumb": null
+            "filePath": "https://reurl.cc/4rZzL3",
+            "thumbPath": null
         }
     ]
 }
