@@ -1,5 +1,33 @@
 [
     {
+        "title": "【論文獎助】台日文化經濟協會「2024 獎勵大專院校日本研究論文比賽」",
+        "timestamp": "1724116335",
+        "url": "mail_display.php?timestamp=1724116335",
+        "date": "2024/08/20 09:12",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【活動轉發】花蓮職人體驗活動【自行車帶路達人體驗】",
+        "timestamp": "1724116231",
+        "url": "mail_display.php?timestamp=1724116231",
+        "date": "2024/08/20 09:10",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "翁欣儀",
+            "email": "cari20240307@gms.ndhu.edu.tw",
+            "phone": "038903687"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【課務組】113學年度第1學期學士班課程「免修」申請（自即日起至09/09(一)午夜23:59止）",
         "timestamp": "1724113335",
         "url": "mail_display.php?timestamp=1724113335",
@@ -180,33 +208,5 @@
             "phone": "6522"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【轉知】「2025曼谷國際發明展」",
-        "timestamp": "1724037744",
-        "url": "mail_display.php?timestamp=1724037744",
-        "date": "2024/08/19 11:22",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "李淑淳",
-            "email": "chun@gms.ndhu.edu.tw",
-            "phone": "6522"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【教卓中心】113學年國立東華宜蘭大學合辦新進教師研習營(全校教師邀請)",
-        "timestamp": "1724037008",
-        "url": "mail_display.php?timestamp=1724037008",
-        "date": "2024/08/19 11:10",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "游家盛",
-            "email": "hyttepd@gms.ndhu.edu.tw",
-            "phone": "6580"
-        },
-        "attachmentCount": 2
     }
 ]

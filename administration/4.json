@@ -1,5 +1,19 @@
 [
     {
+        "title": "志學門外環道道路施作事宜",
+        "timestamp": "1723082248",
+        "url": "mail_display.php?timestamp=1723082248",
+        "date": "2024/08/08 09:57",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "張宗豪",
+            "email": "Zonghao@gms.ndhu.edu.tw",
+            "phone": "6389"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "壽豐校區體育館空調設備汰換施工公告",
         "timestamp": "1723078334",
         "url": "mail_display.php?timestamp=1723078334",
@@ -194,19 +208,5 @@
             "phone": "6855"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "行政大樓空調設備及能源管理系統安裝工程外牆施工公告",
-        "timestamp": "1722406476",
-        "url": "mail_display.php?timestamp=1722406476",
-        "date": "2024/07/31 14:14",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 0
     }
 ]
