@@ -15,17 +15,20 @@
         {
             "fileName": "附件1.pdf",
             "fileSize": "(496 KB)",
-            "fileURL": "./message_7/1713410342/%E9%99%84%E4%BB%B61.pdf"
+            "fileURL": "./message_7/1713410342/%E9%99%84%E4%BB%B61.pdf",
+            "thumb": "/thumb/1713410342_%E9%99%84%E4%BB%B61.pdf.jpg"
         },
         {
             "fileName": "https://ipas.surveycake.biz/s/GVQwp",
             "fileSize": "。\n(三)聯絡窗口：工研院，陳先生(03-5912995，angelochen@itri.org.tw)。",
-            "fileURL": "https://ipas.surveycake.biz/s/GVQwp"
+            "fileURL": "https://ipas.surveycake.biz/s/GVQwp",
+            "thumb": null
         },
         {
             "fileName": "https://ipas.surveycake.biz/s/PrZ9v",
             "fileSize": "。\n(三)聯絡窗口：工研院，陳先生(03-5912995，angelochen@itri.org.tw)。",
-            "fileURL": "https://ipas.surveycake.biz/s/PrZ9v"
+            "fileURL": "https://ipas.surveycake.biz/s/PrZ9v",
+            "thumb": null
         }
     ]
 }

@@ -15,22 +15,26 @@
         {
             "fileName": "學程介紹海報A1.png",
             "fileSize": "(9 MB)",
-            "fileURL": "./message_7/1714558890/%E5%AD%B8%E7%A8%8B%E4%BB%8B%E7%B4%B9%E6%B5%B7%E5%A0%B1A1.png"
+            "fileURL": "./message_7/1714558890/%E5%AD%B8%E7%A8%8B%E4%BB%8B%E7%B4%B9%E6%B5%B7%E5%A0%B1A1.png",
+            "thumb": "/thumb/1714558890_%E5%AD%B8%E7%A8%8B%E4%BB%8B%E7%B4%B9%E6%B5%B7%E5%A0%B1A1.png"
         },
         {
             "fileName": "http://cte.ndhu.edu.tw/cen1/cen1_sign_up/index.php",
             "fileSize": "學程聯絡窗口｜\n教學卓越中心 黃小姐 chinghua@gms.ndhu.edu.tw\n\n歡迎踴躍報名參加，請報名者務必準時參加。\n教學卓越中心敬啟",
-            "fileURL": "http://cte.ndhu.edu.tw/cen1/cen1_sign_up/index.php"
+            "fileURL": "http://cte.ndhu.edu.tw/cen1/cen1_sign_up/index.php",
+            "thumb": null
         },
         {
             "fileName": "https://sites.google.com/gms.ndhu.edu.tw/educational-big-data/%E9%A6%96%E9%A0%81",
             "fileSize": "學程聯絡窗口｜\n教學卓越中心 黃小姐 chinghua@gms.ndhu.edu.tw\n\n歡迎踴躍報名參加，請報名者務必準時參加。\n教學卓越中心敬啟",
-            "fileURL": "https://sites.google.com/gms.ndhu.edu.tw/educational-big-data/%E9%A6%96%E9%A0%81"
+            "fileURL": "https://sites.google.com/gms.ndhu.edu.tw/educational-big-data/%E9%A6%96%E9%A0%81",
+            "thumb": null
         },
         {
             "fileName": "https://forms.gle/AqapkqpFuDGqjbDc6",
             "fileSize": "學程聯絡窗口｜\n教學卓越中心 黃小姐 chinghua@gms.ndhu.edu.tw\n\n歡迎踴躍報名參加，請報名者務必準時參加。\n教學卓越中心敬啟",
-            "fileURL": "https://forms.gle/AqapkqpFuDGqjbDc6"
+            "fileURL": "https://forms.gle/AqapkqpFuDGqjbDc6",
+            "thumb": null
         }
     ]
 }

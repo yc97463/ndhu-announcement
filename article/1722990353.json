@@ -15,12 +15,14 @@
         {
             "fileName": "保險附件一.pdf",
             "fileSize": "(3 MB)",
-            "fileURL": "./message_7/1722990353/%E4%BF%9D%E9%9A%AA%E9%99%84%E4%BB%B6%E4%B8%80.pdf"
+            "fileURL": "./message_7/1722990353/%E4%BF%9D%E9%9A%AA%E9%99%84%E4%BB%B6%E4%B8%80.pdf",
+            "thumb": "/thumb/1722990353_%E4%BF%9D%E9%9A%AA%E9%99%84%E4%BB%B6%E4%B8%80.pdf.jpg"
         },
         {
             "fileName": "保險附件二.pdf",
             "fileSize": "(3 MB)",
-            "fileURL": "./message_7/1722990353/%E4%BF%9D%E9%9A%AA%E9%99%84%E4%BB%B6%E4%BA%8C.pdf"
+            "fileURL": "./message_7/1722990353/%E4%BF%9D%E9%9A%AA%E9%99%84%E4%BB%B6%E4%BA%8C.pdf",
+            "thumb": "/thumb/1722990353_%E4%BF%9D%E9%9A%AA%E9%99%84%E4%BB%B6%E4%BA%8C.pdf.jpg"
         }
     ]
 }

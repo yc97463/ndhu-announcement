@@ -15,12 +15,14 @@
         {
             "fileName": "圖書館網頁臨時網址.pdf",
             "fileSize": "(370 KB)",
-            "fileURL": "./message_7/1722409170/%E5%9C%96%E6%9B%B8%E9%A4%A8%E7%B6%B2%E9%A0%81%E8%87%A8%E6%99%82%E7%B6%B2%E5%9D%80.pdf"
+            "fileURL": "./message_7/1722409170/%E5%9C%96%E6%9B%B8%E9%A4%A8%E7%B6%B2%E9%A0%81%E8%87%A8%E6%99%82%E7%B6%B2%E5%9D%80.pdf",
+            "thumb": "/thumb/1722409170_%E5%9C%96%E6%9B%B8%E9%A4%A8%E7%B6%B2%E9%A0%81%E8%87%A8%E6%99%82%E7%B6%B2%E5%9D%80.pdf.jpg"
         },
         {
             "fileName": "http://134.208.29.8/toread/opac",
             "fileSize": "此備機因臨時提供急用與原主機略有不同，續借預約的登入方式：我的帳戶/個人資料/輸入帳號密碼登入。\n請參考附檔。",
-            "fileURL": "http://134.208.29.8/toread/opac"
+            "fileURL": "http://134.208.29.8/toread/opac",
+            "thumb": null
         }
     ]
 }

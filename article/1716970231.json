@@ -15,17 +15,20 @@
         {
             "fileName": "附件1善用生成式AI提升工作效率海報.png",
             "fileSize": "(1 MB)",
-            "fileURL": "./message_7/1716970231/%E9%99%84%E4%BB%B61%E5%96%84%E7%94%A8%E7%94%9F%E6%88%90%E5%BC%8FAI%E6%8F%90%E5%8D%87%E5%B7%A5%E4%BD%9C%E6%95%88%E7%8E%87%E6%B5%B7%E5%A0%B1.png"
+            "fileURL": "./message_7/1716970231/%E9%99%84%E4%BB%B61%E5%96%84%E7%94%A8%E7%94%9F%E6%88%90%E5%BC%8FAI%E6%8F%90%E5%8D%87%E5%B7%A5%E4%BD%9C%E6%95%88%E7%8E%87%E6%B5%B7%E5%A0%B1.png",
+            "thumb": "/thumb/1716970231_%E9%99%84%E4%BB%B61%E5%96%84%E7%94%A8%E7%94%9F%E6%88%90%E5%BC%8FAI%E6%8F%90%E5%8D%87%E5%B7%A5%E4%BD%9C%E6%95%88%E7%8E%87%E6%B5%B7%E5%A0%B1.png"
         },
         {
             "fileName": "附件2活動計畫.pdf",
             "fileSize": "(1 MB)",
-            "fileURL": "./message_7/1716970231/%E9%99%84%E4%BB%B62%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB.pdf"
+            "fileURL": "./message_7/1716970231/%E9%99%84%E4%BB%B62%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB.pdf",
+            "thumb": "/thumb/1716970231_%E9%99%84%E4%BB%B62%E6%B4%BB%E5%8B%95%E8%A8%88%E7%95%AB.pdf.jpg"
         },
         {
             "fileName": "附件3位置圖.pdf",
             "fileSize": "(1 MB)",
-            "fileURL": "./message_7/1716970231/%E9%99%84%E4%BB%B63%E4%BD%8D%E7%BD%AE%E5%9C%96.pdf"
+            "fileURL": "./message_7/1716970231/%E9%99%84%E4%BB%B63%E4%BD%8D%E7%BD%AE%E5%9C%96.pdf",
+            "thumb": "/thumb/1716970231_%E9%99%84%E4%BB%B63%E4%BD%8D%E7%BD%AE%E5%9C%96.pdf.jpg"
         }
     ]
 }

@@ -15,12 +15,14 @@
         {
             "fileName": "大學門側門.jpg",
             "fileSize": "(315 KB)",
-            "fileURL": "./message_7/1723774022/%E5%A4%A7%E5%AD%B8%E9%96%80%E5%81%B4%E9%96%80.jpg"
+            "fileURL": "./message_7/1723774022/%E5%A4%A7%E5%AD%B8%E9%96%80%E5%81%B4%E9%96%80.jpg",
+            "thumb": "/thumb/1723774022_%E5%A4%A7%E5%AD%B8%E9%96%80%E5%81%B4%E9%96%80.jpg"
         },
         {
             "fileName": "志學門.jpg",
             "fileSize": "(315 KB)",
-            "fileURL": "./message_7/1723774022/%E5%BF%97%E5%AD%B8%E9%96%80.jpg"
+            "fileURL": "./message_7/1723774022/%E5%BF%97%E5%AD%B8%E9%96%80.jpg",
+            "thumb": "/thumb/1723774022_%E5%BF%97%E5%AD%B8%E9%96%80.jpg"
         }
     ]
 }

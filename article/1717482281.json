@@ -15,17 +15,20 @@
         {
             "fileName": "附件一 (1).pdf",
             "fileSize": "(393 KB)",
-            "fileURL": "./message_7/1717482281/%E9%99%84%E4%BB%B6%E4%B8%80%20%281%29.pdf"
+            "fileURL": "./message_7/1717482281/%E9%99%84%E4%BB%B6%E4%B8%80%20%281%29.pdf",
+            "thumb": "/thumb/1717482281_%E9%99%84%E4%BB%B6%E4%B8%80%20%281%29.pdf.jpg"
         },
         {
             "fileName": "附件二.pdf",
             "fileSize": "(393 KB)",
-            "fileURL": "./message_7/1717482281/%E9%99%84%E4%BB%B6%E4%BA%8C.pdf"
+            "fileURL": "./message_7/1717482281/%E9%99%84%E4%BB%B6%E4%BA%8C.pdf",
+            "thumb": "/thumb/1717482281_%E9%99%84%E4%BB%B6%E4%BA%8C.pdf.jpg"
         },
         {
             "fileName": "https://youconf.at/bunban",
             "fileSize": "。",
-            "fileURL": "https://youconf.at/bunban"
+            "fileURL": "https://youconf.at/bunban",
+            "thumb": null
         }
     ]
 }

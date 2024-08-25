@@ -15,12 +15,14 @@
         {
             "fileName": "教育部函.pdf",
             "fileSize": "(320 KB)",
-            "fileURL": "./message_7/1724136894/%E6%95%99%E8%82%B2%E9%83%A8%E5%87%BD.pdf"
+            "fileURL": "./message_7/1724136894/%E6%95%99%E8%82%B2%E9%83%A8%E5%87%BD.pdf",
+            "thumb": "/thumb/1724136894_%E6%95%99%E8%82%B2%E9%83%A8%E5%87%BD.pdf.jpg"
         },
         {
             "fileName": "https://reurl.cc/ZVjyrA",
             "fileSize": "），敬請參閱。",
-            "fileURL": "https://reurl.cc/ZVjyrA"
+            "fileURL": "https://reurl.cc/ZVjyrA",
+            "thumb": null
         }
     ]
 }

@@ -15,17 +15,20 @@
         {
             "fileName": "546454846.jpg",
             "fileSize": "(312 KB)",
-            "fileURL": "./message_7/1714460922/546454846.jpg"
+            "fileURL": "./message_7/1714460922/546454846.jpg",
+            "thumb": "/thumb/1714460922_546454846.jpg"
         },
         {
             "fileName": "https://meet.google.com/jkr-mywv-kyp",
             "fileSize": "財務金融學系敬邀",
-            "fileURL": "https://meet.google.com/jkr-mywv-kyp"
+            "fileURL": "https://meet.google.com/jkr-mywv-kyp",
+            "thumb": null
         },
         {
             "fileName": "https://forms.gle/Zbajtt71ravnqLCN7",
             "fileSize": "財務金融學系敬邀",
-            "fileURL": "https://forms.gle/Zbajtt71ravnqLCN7"
+            "fileURL": "https://forms.gle/Zbajtt71ravnqLCN7",
+            "thumb": null
         }
     ]
 }

@@ -15,12 +15,14 @@
         {
             "fileName": "https://web3.dgpa.gov.tw/want03front/AP/WANTF00001.aspx",
             "fileSize": "",
-            "fileURL": "https://web3.dgpa.gov.tw/want03front/AP/WANTF00001.aspx"
+            "fileURL": "https://web3.dgpa.gov.tw/want03front/AP/WANTF00001.aspx",
+            "thumb": null
         },
         {
             "fileName": "https://rb005.ndhu.edu.tw/p/412-1005-493.php",
             "fileSize": "",
-            "fileURL": "https://rb005.ndhu.edu.tw/p/412-1005-493.php"
+            "fileURL": "https://rb005.ndhu.edu.tw/p/412-1005-493.php",
+            "thumb": null
         }
     ]
 }

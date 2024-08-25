@@ -15,17 +15,20 @@
         {
             "fileName": "http://web.ndhu.edu.tw/StudentEducation/",
             "fileSize": "5.如有報名上的問題，也可來電詢問。\n電話：（03）890-6632 羅婉菁小姐",
-            "fileURL": "http://web.ndhu.edu.tw/StudentEducation/"
+            "fileURL": "http://web.ndhu.edu.tw/StudentEducation/",
+            "thumb": null
         },
         {
             "fileName": "https://littletree.ndhu.edu.tw/p/412-1023-1304.php?Lang=zh-tw",
             "fileSize": "5.如有報名上的問題，也可來電詢問。\n電話：（03）890-6632 羅婉菁小姐",
-            "fileURL": "https://littletree.ndhu.edu.tw/p/412-1023-1304.php?Lang=zh-tw"
+            "fileURL": "https://littletree.ndhu.edu.tw/p/412-1023-1304.php?Lang=zh-tw",
+            "thumb": null
         },
         {
             "fileName": "https://meet.google.com/psr-ssit-ktp",
             "fileSize": "5.如有報名上的問題，也可來電詢問。\n電話：（03）890-6632 羅婉菁小姐",
-            "fileURL": "https://meet.google.com/psr-ssit-ktp"
+            "fileURL": "https://meet.google.com/psr-ssit-ktp",
+            "thumb": null
         }
     ]
 }

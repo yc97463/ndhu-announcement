@@ -15,12 +15,14 @@
         {
             "fileName": "https://etd.ndhu.edu.tw",
             "fileSize": "",
-            "fileURL": "https://etd.ndhu.edu.tw"
+            "fileURL": "https://etd.ndhu.edu.tw",
+            "thumb": null
         },
         {
             "fileName": "https://etd.ndhu.edu.tw",
             "fileSize": "",
-            "fileURL": "https://etd.ndhu.edu.tw"
+            "fileURL": "https://etd.ndhu.edu.tw",
+            "thumb": null
         }
     ]
 }

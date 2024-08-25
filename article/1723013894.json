@@ -15,12 +15,14 @@
         {
             "fileName": "臺中二中附件一.pdf",
             "fileSize": "(129 KB)",
-            "fileURL": "./message_7/1723013894/%E8%87%BA%E4%B8%AD%E4%BA%8C%E4%B8%AD%E9%99%84%E4%BB%B6%E4%B8%80.pdf"
+            "fileURL": "./message_7/1723013894/%E8%87%BA%E4%B8%AD%E4%BA%8C%E4%B8%AD%E9%99%84%E4%BB%B6%E4%B8%80.pdf",
+            "thumb": "/thumb/1723013894_%E8%87%BA%E4%B8%AD%E4%BA%8C%E4%B8%AD%E9%99%84%E4%BB%B6%E4%B8%80.pdf.jpg"
         },
         {
             "fileName": "臺中二中附件二.pdf",
             "fileSize": "(129 KB)",
-            "fileURL": "./message_7/1723013894/%E8%87%BA%E4%B8%AD%E4%BA%8C%E4%B8%AD%E9%99%84%E4%BB%B6%E4%BA%8C.pdf"
+            "fileURL": "./message_7/1723013894/%E8%87%BA%E4%B8%AD%E4%BA%8C%E4%B8%AD%E9%99%84%E4%BB%B6%E4%BA%8C.pdf",
+            "thumb": "/thumb/1723013894_%E8%87%BA%E4%B8%AD%E4%BA%8C%E4%B8%AD%E9%99%84%E4%BB%B6%E4%BA%8C.pdf.jpg"
         }
     ]
 }

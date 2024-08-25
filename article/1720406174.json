@@ -15,12 +15,14 @@
         {
             "fileName": "113-1徵求TA公告0708.pdf",
             "fileSize": "(230 KB)",
-            "fileURL": "./message_7/1720406174/113-1%E5%BE%B5%E6%B1%82TA%E5%85%AC%E5%91%8A0708.pdf"
+            "fileURL": "./message_7/1720406174/113-1%E5%BE%B5%E6%B1%82TA%E5%85%AC%E5%91%8A0708.pdf",
+            "thumb": "/thumb/1720406174_113-1%E5%BE%B5%E6%B1%82TA%E5%85%AC%E5%91%8A0708.pdf.jpg"
         },
         {
             "fileName": "https://genedu.ndhu.edu.tw/p/406-1076-225981,r2626.php?Lang=zh-tw",
             "fileSize": "",
-            "fileURL": "https://genedu.ndhu.edu.tw/p/406-1076-225981,r2626.php?Lang=zh-tw"
+            "fileURL": "https://genedu.ndhu.edu.tw/p/406-1076-225981,r2626.php?Lang=zh-tw",
+            "thumb": null
         }
     ]
 }

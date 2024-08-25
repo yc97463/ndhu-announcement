@@ -15,12 +15,14 @@
         {
             "fileName": "Flyer Chinese Summer Camp 2024 INBOUND.jpg",
             "fileSize": "(247 KB)",
-            "fileURL": "./message_7/1719887675/Flyer%20Chinese%20Summer%20Camp%202024%20INBOUND.jpg"
+            "fileURL": "./message_7/1719887675/Flyer%20Chinese%20Summer%20Camp%202024%20INBOUND.jpg",
+            "thumb": "/thumb/1719887675_Flyer%20Chinese%20Summer%20Camp%202024%20INBOUND.jpg"
         },
         {
             "fileName": "https://oia.ndhu.edu.tw/2024/07/15855",
             "fileSize": "",
-            "fileURL": "https://oia.ndhu.edu.tw/2024/07/15855"
+            "fileURL": "https://oia.ndhu.edu.tw/2024/07/15855",
+            "thumb": null
         }
     ]
 }

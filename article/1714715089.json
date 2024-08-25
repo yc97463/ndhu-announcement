@@ -15,22 +15,26 @@
         {
             "fileName": "陳芯宜.jpg",
             "fileSize": "(2 MB)",
-            "fileURL": "./message_7/1714715089/%E9%99%B3%E8%8A%AF%E5%AE%9C.jpg"
+            "fileURL": "./message_7/1714715089/%E9%99%B3%E8%8A%AF%E5%AE%9C.jpg",
+            "thumb": "/thumb/1714715089_%E9%99%B3%E8%8A%AF%E5%AE%9C.jpg"
         },
         {
             "fileName": "https://reurl.cc/Wx15qk",
             "fileSize": "",
-            "fileURL": "https://reurl.cc/Wx15qk"
+            "fileURL": "https://reurl.cc/Wx15qk",
+            "thumb": null
         },
         {
             "fileName": "https://reurl.cc/Gjo98W",
             "fileSize": "",
-            "fileURL": "https://reurl.cc/Gjo98W"
+            "fileURL": "https://reurl.cc/Gjo98W",
+            "thumb": null
         },
         {
             "fileName": "https://sili.ndhu.edu.tw/p/406-1055-219820,r374.php?Lang=zh-tw",
             "fileSize": "",
-            "fileURL": "https://sili.ndhu.edu.tw/p/406-1055-219820,r374.php?Lang=zh-tw"
+            "fileURL": "https://sili.ndhu.edu.tw/p/406-1055-219820,r374.php?Lang=zh-tw",
+            "thumb": null
         }
     ]
 }

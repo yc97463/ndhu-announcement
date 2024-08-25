@@ -15,17 +15,20 @@
         {
             "fileName": "臺北市政府衛生局約聘僱人員職缺甄選.pdf",
             "fileSize": "(45 KB)",
-            "fileURL": "./message_7/1723708256/%E8%87%BA%E5%8C%97%E5%B8%82%E6%94%BF%E5%BA%9C%E8%A1%9B%E7%94%9F%E5%B1%80%E7%B4%84%E8%81%98%E5%83%B1%E4%BA%BA%E5%93%A1%E8%81%B7%E7%BC%BA%E7%94%84%E9%81%B8.pdf"
+            "fileURL": "./message_7/1723708256/%E8%87%BA%E5%8C%97%E5%B8%82%E6%94%BF%E5%BA%9C%E8%A1%9B%E7%94%9F%E5%B1%80%E7%B4%84%E8%81%98%E5%83%B1%E4%BA%BA%E5%93%A1%E8%81%B7%E7%BC%BA%E7%94%84%E9%81%B8.pdf",
+            "thumb": "/thumb/1723708256_%E8%87%BA%E5%8C%97%E5%B8%82%E6%94%BF%E5%BA%9C%E8%A1%9B%E7%94%9F%E5%B1%80%E7%B4%84%E8%81%98%E5%83%B1%E4%BA%BA%E5%93%A1%E8%81%B7%E7%BC%BA%E7%94%84%E9%81%B8.pdf.jpg"
         },
         {
             "fileName": "https://web3.dgpa.gov.tw/want03front/AP/WANTF00001.ASPX",
             "fileSize": "",
-            "fileURL": "https://web3.dgpa.gov.tw/want03front/AP/WANTF00001.ASPX"
+            "fileURL": "https://web3.dgpa.gov.tw/want03front/AP/WANTF00001.ASPX",
+            "thumb": null
         },
         {
             "fileName": "https://rb005.ndhu.edu.tw/p/412-1005-493.php",
             "fileSize": "",
-            "fileURL": "https://rb005.ndhu.edu.tw/p/412-1005-493.php"
+            "fileURL": "https://rb005.ndhu.edu.tw/p/412-1005-493.php",
+            "thumb": null
         }
     ]
 }

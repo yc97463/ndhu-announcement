@@ -15,12 +15,14 @@
         {
             "fileName": "2024籃球營海報.png",
             "fileSize": "(2 MB)",
-            "fileURL": "./message_7/1717391490/2024%E7%B1%83%E7%90%83%E7%87%9F%E6%B5%B7%E5%A0%B1.png"
+            "fileURL": "./message_7/1717391490/2024%E7%B1%83%E7%90%83%E7%87%9F%E6%B5%B7%E5%A0%B1.png",
+            "thumb": "/thumb/1717391490_2024%E7%B1%83%E7%90%83%E7%87%9F%E6%B5%B7%E5%A0%B1.png"
         },
         {
             "fileName": "https://ipark.ndhu.edu.tw/p/423-1189-3439.php?Lang=zh-tw",
             "fileSize": "",
-            "fileURL": "https://ipark.ndhu.edu.tw/p/423-1189-3439.php?Lang=zh-tw"
+            "fileURL": "https://ipark.ndhu.edu.tw/p/423-1189-3439.php?Lang=zh-tw",
+            "thumb": null
         }
     ]
 }

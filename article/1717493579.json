@@ -15,12 +15,14 @@
         {
             "fileName": "Fun學說英語.png",
             "fileSize": "(492 KB)",
-            "fileURL": "./message_7/1717493579/Fun%E5%AD%B8%E8%AA%AA%E8%8B%B1%E8%AA%9E.png"
+            "fileURL": "./message_7/1717493579/Fun%E5%AD%B8%E8%AA%AA%E8%8B%B1%E8%AA%9E.png",
+            "thumb": "/thumb/1717493579_Fun%E5%AD%B8%E8%AA%AA%E8%8B%B1%E8%AA%9E.png"
         },
         {
             "fileName": "https://forms.gle/m8Fxn2VNKdEn8Rji6",
             "fileSize": "報名名額：30人\n報名截止日：6/12或額滿\n\n12:30-12:40 線上簽到\n12:40-15:15 講者分享\n15:15-15:30 交流時間\n\n參與者如需研習證明，請於表單內註明。",
-            "fileURL": "https://forms.gle/m8Fxn2VNKdEn8Rji6"
+            "fileURL": "https://forms.gle/m8Fxn2VNKdEn8Rji6",
+            "thumb": null
         }
     ]
 }

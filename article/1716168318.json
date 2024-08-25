@@ -15,17 +15,20 @@
         {
             "fileName": "生命造舟.jpg",
             "fileSize": "(315 KB)",
-            "fileURL": "./message_7/1716168318/%E7%94%9F%E5%91%BD%E9%80%A0%E8%88%9F.jpg"
+            "fileURL": "./message_7/1716168318/%E7%94%9F%E5%91%BD%E9%80%A0%E8%88%9F.jpg",
+            "thumb": "/thumb/1716168318_%E7%94%9F%E5%91%BD%E9%80%A0%E8%88%9F.jpg"
         },
         {
             "fileName": "通識-造舟課程-課程說明113-1.pdf",
             "fileSize": "(315 KB)",
-            "fileURL": "./message_7/1716168318/%E9%80%9A%E8%AD%98-%E9%80%A0%E8%88%9F%E8%AA%B2%E7%A8%8B-%E8%AA%B2%E7%A8%8B%E8%AA%AA%E6%98%8E113-1.pdf"
+            "fileURL": "./message_7/1716168318/%E9%80%9A%E8%AD%98-%E9%80%A0%E8%88%9F%E8%AA%B2%E7%A8%8B-%E8%AA%B2%E7%A8%8B%E8%AA%AA%E6%98%8E113-1.pdf",
+            "thumb": "/thumb/1716168318_%E9%80%9A%E8%AD%98-%E9%80%A0%E8%88%9F%E8%AA%B2%E7%A8%8B-%E8%AA%B2%E7%A8%8B%E8%AA%AA%E6%98%8E113-1.pdf.jpg"
         },
         {
             "fileName": "https://meet.google.com/cwd-zzzh-gaf",
             "fileSize": "歡迎踴躍參加~\n\n                         通識教育中心  敬啟",
-            "fileURL": "https://meet.google.com/cwd-zzzh-gaf"
+            "fileURL": "https://meet.google.com/cwd-zzzh-gaf",
+            "thumb": null
         }
     ]
 }

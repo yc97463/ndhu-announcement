@@ -15,17 +15,20 @@
         {
             "fileName": "實施計畫_.pdf",
             "fileSize": "(563 KB)",
-            "fileURL": "./message_7/1724142567/%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB_.pdf"
+            "fileURL": "./message_7/1724142567/%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB_.pdf",
+            "thumb": "/thumb/1724142567_%E5%AF%A6%E6%96%BD%E8%A8%88%E7%95%AB_.pdf.jpg"
         },
         {
             "fileName": "附件_.png",
             "fileSize": "(563 KB)",
-            "fileURL": "./message_7/1724142567/%E9%99%84%E4%BB%B6_.png"
+            "fileURL": "./message_7/1724142567/%E9%99%84%E4%BB%B6_.png",
+            "thumb": "/thumb/1724142567_%E9%99%84%E4%BB%B6_.png"
         },
         {
             "fileName": "https://service.hrd.gov.tw",
             "fileSize": ")，請踴躍報名參與。",
-            "fileURL": "https://service.hrd.gov.tw"
+            "fileURL": "https://service.hrd.gov.tw",
+            "thumb": null
         }
     ]
 }

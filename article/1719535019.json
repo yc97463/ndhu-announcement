@@ -15,12 +15,14 @@
         {
             "fileName": "臺北教育大學交通指引附件.pdf",
             "fileSize": "(178 KB)",
-            "fileURL": "./message_7/1719535019/%E8%87%BA%E5%8C%97%E6%95%99%E8%82%B2%E5%A4%A7%E5%AD%B8%E4%BA%A4%E9%80%9A%E6%8C%87%E5%BC%95%E9%99%84%E4%BB%B6.pdf"
+            "fileURL": "./message_7/1719535019/%E8%87%BA%E5%8C%97%E6%95%99%E8%82%B2%E5%A4%A7%E5%AD%B8%E4%BA%A4%E9%80%9A%E6%8C%87%E5%BC%95%E9%99%84%E4%BB%B6.pdf",
+            "thumb": "/thumb/1719535019_%E8%87%BA%E5%8C%97%E6%95%99%E8%82%B2%E5%A4%A7%E5%AD%B8%E4%BA%A4%E9%80%9A%E6%8C%87%E5%BC%95%E9%99%84%E4%BB%B6.pdf.jpg"
         },
         {
             "fileName": "https://forms.gle/Hu75Cikeqe4KMVE78",
             "fileSize": "本次專書導讀活動全程參加者將核發公務人員終身學習時數2小時，敬邀「強化公務人員終身學習及專書閱讀圈」圈員參加。交通資訊、路線圖及校園道路平面圖如附件。",
-            "fileURL": "https://forms.gle/Hu75Cikeqe4KMVE78"
+            "fileURL": "https://forms.gle/Hu75Cikeqe4KMVE78",
+            "thumb": null
         }
     ]
 }

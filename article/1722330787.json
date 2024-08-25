@@ -15,12 +15,14 @@
         {
             "fileName": "青銀就業博覽會DM_橫.jpg",
             "fileSize": "(943 KB)",
-            "fileURL": "./message_7/1722330787/%E9%9D%92%E9%8A%80%E5%B0%B1%E6%A5%AD%E5%8D%9A%E8%A6%BD%E6%9C%83DM_%E6%A9%AB.jpg"
+            "fileURL": "./message_7/1722330787/%E9%9D%92%E9%8A%80%E5%B0%B1%E6%A5%AD%E5%8D%9A%E8%A6%BD%E6%9C%83DM_%E6%A9%AB.jpg",
+            "thumb": "/thumb/1722330787_%E9%9D%92%E9%8A%80%E5%B0%B1%E6%A5%AD%E5%8D%9A%E8%A6%BD%E6%9C%83DM_%E6%A9%AB.jpg"
         },
         {
             "fileName": "https://rb005.ndhu.edu.tw/p/412-1005-493.php",
             "fileSize": "",
-            "fileURL": "https://rb005.ndhu.edu.tw/p/412-1005-493.php"
+            "fileURL": "https://rb005.ndhu.edu.tw/p/412-1005-493.php",
+            "thumb": null
         }
     ]
 }

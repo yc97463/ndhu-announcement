@@ -15,12 +15,14 @@
         {
             "fileName": "學程介紹海報A1.png",
             "fileSize": "(9 MB)",
-            "fileURL": "./message_7/1714883266/%E5%AD%B8%E7%A8%8B%E4%BB%8B%E7%B4%B9%E6%B5%B7%E5%A0%B1A1.png"
+            "fileURL": "./message_7/1714883266/%E5%AD%B8%E7%A8%8B%E4%BB%8B%E7%B4%B9%E6%B5%B7%E5%A0%B1A1.png",
+            "thumb": "/thumb/1714883266_%E5%AD%B8%E7%A8%8B%E4%BB%8B%E7%B4%B9%E6%B5%B7%E5%A0%B1A1.png"
         },
         {
             "fileName": "http://cte.ndhu.edu.tw/cen1/cen1_sign_up/index.php",
             "fileSize": "教學卓越中心敬啟",
-            "fileURL": "http://cte.ndhu.edu.tw/cen1/cen1_sign_up/index.php"
+            "fileURL": "http://cte.ndhu.edu.tw/cen1/cen1_sign_up/index.php",
+            "thumb": null
         }
     ]
 }

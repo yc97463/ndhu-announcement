@@ -15,12 +15,14 @@
         {
             "fileName": "1716770050507.jpg",
             "fileSize": "(4 MB)",
-            "fileURL": "./message_7/1716792418/1716770050507.jpg"
+            "fileURL": "./message_7/1716792418/1716770050507.jpg",
+            "thumb": "/thumb/1716792418_1716770050507.jpg"
         },
         {
             "fileName": "https://reurl.cc/bVmY6o",
             "fileSize": "主辦單位：南華大學\n協辦單位：東華大學",
-            "fileURL": "https://reurl.cc/bVmY6o"
+            "fileURL": "https://reurl.cc/bVmY6o",
+            "thumb": null
         }
     ]
 }

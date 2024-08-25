@@ -15,22 +15,26 @@
         {
             "fileName": "1130014965_附件一1.jpg",
             "fileSize": "(457 KB)",
-            "fileURL": "./message_7/1719882067/1130014965_%E9%99%84%E4%BB%B6%E4%B8%801.jpg"
+            "fileURL": "./message_7/1719882067/1130014965_%E9%99%84%E4%BB%B6%E4%B8%801.jpg",
+            "thumb": "/thumb/1719882067_1130014965_%E9%99%84%E4%BB%B6%E4%B8%801.jpg"
         },
         {
             "fileName": "1130014965.pdf",
             "fileSize": "(457 KB)",
-            "fileURL": "./message_7/1719882067/1130014965.pdf"
+            "fileURL": "./message_7/1719882067/1130014965.pdf",
+            "thumb": "/thumb/1719882067_1130014965.pdf.jpg"
         },
         {
             "fileName": "1130014965_附件二1.pdf",
             "fileSize": "(457 KB)",
-            "fileURL": "./message_7/1719882067/1130014965_%E9%99%84%E4%BB%B6%E4%BA%8C1.pdf"
+            "fileURL": "./message_7/1719882067/1130014965_%E9%99%84%E4%BB%B6%E4%BA%8C1.pdf",
+            "thumb": "/thumb/1719882067_1130014965_%E9%99%84%E4%BB%B6%E4%BA%8C1.pdf.jpg"
         },
         {
             "fileName": "https://lihi.cc/1gddE",
             "fileSize": "檢附相關報名資訊。",
-            "fileURL": "https://lihi.cc/1gddE"
+            "fileURL": "https://lihi.cc/1gddE",
+            "thumb": null
         }
     ]
 }

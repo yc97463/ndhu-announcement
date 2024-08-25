@@ -15,27 +15,32 @@
         {
             "fileName": "0525課程海報.jpg",
             "fileSize": "(6 MB)",
-            "fileURL": "./message_7/1716175482/0525%E8%AA%B2%E7%A8%8B%E6%B5%B7%E5%A0%B1.jpg"
+            "fileURL": "./message_7/1716175482/0525%E8%AA%B2%E7%A8%8B%E6%B5%B7%E5%A0%B1.jpg",
+            "thumb": "/thumb/1716175482_0525%E8%AA%B2%E7%A8%8B%E6%B5%B7%E5%A0%B1.jpg"
         },
         {
             "fileName": "https://www.facebook.com/Launcherlabhc",
             "fileSize": "屏東青年旅創基地：",
-            "fileURL": "https://www.facebook.com/Launcherlabhc"
+            "fileURL": "https://www.facebook.com/Launcherlabhc",
+            "thumb": null
         },
         {
             "fileName": "https://www.facebook.com/profile.php?id=100092563056510",
             "fileSize": "屏東青年旅創基地：",
-            "fileURL": "https://www.facebook.com/profile.php?id=100092563056510"
+            "fileURL": "https://www.facebook.com/profile.php?id=100092563056510",
+            "thumb": null
         },
         {
             "fileName": "https://www.facebook.com/folkerisland",
             "fileSize": "屏東青年旅創基地：",
-            "fileURL": "https://www.facebook.com/folkerisland"
+            "fileURL": "https://www.facebook.com/folkerisland",
+            "thumb": null
         },
         {
             "fileName": "https://www.facebook.com/profile.php?id=100057341503769",
             "fileSize": "屏東青年旅創基地：",
-            "fileURL": "https://www.facebook.com/profile.php?id=100057341503769"
+            "fileURL": "https://www.facebook.com/profile.php?id=100057341503769",
+            "thumb": null
         }
     ]
 }

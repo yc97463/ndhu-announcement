@@ -15,22 +15,26 @@
         {
             "fileName": "https://cymwish.eu.org/brizy-2389-2-2/",
             "fileSize": "通識教育中心   敬邀",
-            "fileURL": "https://cymwish.eu.org/brizy-2389-2-2/"
+            "fileURL": "https://cymwish.eu.org/brizy-2389-2-2/",
+            "thumb": null
         },
         {
             "fileName": "https://www.youtube.com/watch?v=pAMGM0Kbw6g",
             "fileSize": "通識教育中心   敬邀",
-            "fileURL": "https://www.youtube.com/watch?v=pAMGM0Kbw6g"
+            "fileURL": "https://www.youtube.com/watch?v=pAMGM0Kbw6g",
+            "thumb": null
         },
         {
             "fileName": "https://cymwish.eu.org",
             "fileSize": "通識教育中心   敬邀",
-            "fileURL": "https://cymwish.eu.org"
+            "fileURL": "https://cymwish.eu.org",
+            "thumb": null
         },
         {
             "fileName": "https://www.facebook.com/Ciouyemang",
             "fileSize": "通識教育中心   敬邀",
-            "fileURL": "https://www.facebook.com/Ciouyemang"
+            "fileURL": "https://www.facebook.com/Ciouyemang",
+            "thumb": null
         }
     ]
 }

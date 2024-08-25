@@ -15,12 +15,14 @@
         {
             "fileName": "https://www.nacs.gov.tw/News_RecommendBook.aspx?n=505\u0026sms=9223",
             "fileSize": "，請本校行政人員踴躍撥空參與線上導讀課程。",
-            "fileURL": "https://www.nacs.gov.tw/News_RecommendBook.aspx?n=505\u0026sms=9223"
+            "fileURL": "https://www.nacs.gov.tw/News_RecommendBook.aspx?n=505\u0026sms=9223",
+            "thumb": null
         },
         {
             "fileName": "https://elearn.hrd.gov.tw/info/10031710",
             "fileSize": "，請本校行政人員踴躍撥空參與線上導讀課程。",
-            "fileURL": "https://elearn.hrd.gov.tw/info/10031710"
+            "fileURL": "https://elearn.hrd.gov.tw/info/10031710",
+            "thumb": null
         }
     ]
 }

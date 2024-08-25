@@ -15,17 +15,20 @@
         {
             "fileName": "國家中山科學研究院專案人力進用招考(電子系統研究所)簡章.pdf",
             "fileSize": "(4 MB)",
-            "fileURL": "./message_7/1721703259/%E5%9C%8B%E5%AE%B6%E4%B8%AD%E5%B1%B1%E7%A7%91%E5%AD%B8%E7%A0%94%E7%A9%B6%E9%99%A2%E5%B0%88%E6%A1%88%E4%BA%BA%E5%8A%9B%E9%80%B2%E7%94%A8%E6%8B%9B%E8%80%83%28%E9%9B%BB%E5%AD%90%E7%B3%BB%E7%B5%B1%E7%A0%94%E7%A9%B6%E6%89%80%29%E7%B0%A1%E7%AB%A0.pdf"
+            "fileURL": "./message_7/1721703259/%E5%9C%8B%E5%AE%B6%E4%B8%AD%E5%B1%B1%E7%A7%91%E5%AD%B8%E7%A0%94%E7%A9%B6%E9%99%A2%E5%B0%88%E6%A1%88%E4%BA%BA%E5%8A%9B%E9%80%B2%E7%94%A8%E6%8B%9B%E8%80%83%28%E9%9B%BB%E5%AD%90%E7%B3%BB%E7%B5%B1%E7%A0%94%E7%A9%B6%E6%89%80%29%E7%B0%A1%E7%AB%A0.pdf",
+            "thumb": "/thumb/1721703259_%E5%9C%8B%E5%AE%B6%E4%B8%AD%E5%B1%B1%E7%A7%91%E5%AD%B8%E7%A0%94%E7%A9%B6%E9%99%A2%E5%B0%88%E6%A1%88%E4%BA%BA%E5%8A%9B%E9%80%B2%E7%94%A8%E6%8B%9B%E8%80%83%28%E9%9B%BB%E5%AD%90%E7%B3%BB%E7%B5%B1%E7%A0%94%E7%A9%B6%E6%89%80%29%E7%B0%A1%E7%AB%A0.pdf.jpg"
         },
         {
             "fileName": "https://join.ncsist.org.tw/",
             "fileSize": "",
-            "fileURL": "https://join.ncsist.org.tw/"
+            "fileURL": "https://join.ncsist.org.tw/",
+            "thumb": null
         },
         {
             "fileName": "https://rb005.ndhu.edu.tw/p/412-1005-493.php",
             "fileSize": "",
-            "fileURL": "https://rb005.ndhu.edu.tw/p/412-1005-493.php"
+            "fileURL": "https://rb005.ndhu.edu.tw/p/412-1005-493.php",
+            "thumb": null
         }
     ]
 }

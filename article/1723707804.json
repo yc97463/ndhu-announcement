@@ -15,7 +15,8 @@
         {
             "fileName": "https://ndhu.app.visionmedia.com.tw/video",
             "fileSize": "2. 校外請透過本校VPN連線該平台使用\n3. 同時上線人數：30人\n三、使用注意事項：\n1. 不得使用該電影平台之內容進行任何商業或不當使用之行為，違者須自負法律責任。\n2. 本校教師可於校內課程播放教學使用，但教師若有自行錄課並放置於教學平台上之情形，須將錄製到的電影畫面刪除，不可將該電影畫面放在教學平台。\n3. 播放場合：\n    (1) 校內公開播映（含宿舍、社團活動或其他校內活動等）：允許（但不得有校外人士參與，也不可於與其他外部單位合辦或是協辦之活動播放）\n    (2) 校外場合公開播映：不允許。",
-            "fileURL": "https://ndhu.app.visionmedia.com.tw/video"
+            "fileURL": "https://ndhu.app.visionmedia.com.tw/video",
+            "thumb": null
         }
     ]
 }

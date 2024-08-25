@@ -15,17 +15,20 @@
         {
             "fileName": "Poster.jpg",
             "fileSize": "(7 MB)",
-            "fileURL": "./message_7/1714125540/Poster.jpg"
+            "fileURL": "./message_7/1714125540/Poster.jpg",
+            "thumb": "/thumb/1714125540_Poster.jpg"
         },
         {
             "fileName": "https://reurl.cc/p3WLLr",
             "fileSize": "【Registration Link】",
-            "fileURL": "https://reurl.cc/p3WLLr"
+            "fileURL": "https://reurl.cc/p3WLLr",
+            "thumb": null
         },
         {
             "fileName": "https://reurl.cc/Vzj84N",
             "fileSize": "【Registration Link】",
-            "fileURL": "https://reurl.cc/Vzj84N"
+            "fileURL": "https://reurl.cc/Vzj84N",
+            "thumb": null
         }
     ]
 }

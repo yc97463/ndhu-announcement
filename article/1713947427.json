@@ -15,17 +15,20 @@
         {
             "fileName": "附件一.png",
             "fileSize": "(70 KB)",
-            "fileURL": "./message_7/1713947427/%E9%99%84%E4%BB%B6%E4%B8%80.png"
+            "fileURL": "./message_7/1713947427/%E9%99%84%E4%BB%B6%E4%B8%80.png",
+            "thumb": "/thumb/1713947427_%E9%99%84%E4%BB%B6%E4%B8%80.png"
         },
         {
             "fileName": "附件二.jpg",
             "fileSize": "(70 KB)",
-            "fileURL": "./message_7/1713947427/%E9%99%84%E4%BB%B6%E4%BA%8C.jpg"
+            "fileURL": "./message_7/1713947427/%E9%99%84%E4%BB%B6%E4%BA%8C.jpg",
+            "thumb": "/thumb/1713947427_%E9%99%84%E4%BB%B6%E4%BA%8C.jpg"
         },
         {
             "fileName": "https://reurl.cc/0vj4Xx",
             "fileSize": "。\n.\n李莉莉\n永續發展中心籌備處 行政助理",
-            "fileURL": "https://reurl.cc/0vj4Xx"
+            "fileURL": "https://reurl.cc/0vj4Xx",
+            "thumb": null
         }
     ]
 }

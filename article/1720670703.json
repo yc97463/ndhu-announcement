@@ -15,12 +15,14 @@
         {
             "fileName": "客語認證附件.pdf",
             "fileSize": "(273 KB)",
-            "fileURL": "./message_7/1720670703/%E5%AE%A2%E8%AA%9E%E8%AA%8D%E8%AD%89%E9%99%84%E4%BB%B6.pdf"
+            "fileURL": "./message_7/1720670703/%E5%AE%A2%E8%AA%9E%E8%AA%8D%E8%AD%89%E9%99%84%E4%BB%B6.pdf",
+            "thumb": "/thumb/1720670703_%E5%AE%A2%E8%AA%9E%E8%AA%8D%E8%AD%89%E9%99%84%E4%BB%B6.pdf.jpg"
         },
         {
             "fileName": "https://elearning.hakka.gov.tw/mooc/explorer.php",
             "fileSize": "），如有相關疑問，請洽該會承辦人廖祺閔，電話：02-89956988#543。",
-            "fileURL": "https://elearning.hakka.gov.tw/mooc/explorer.php"
+            "fileURL": "https://elearning.hakka.gov.tw/mooc/explorer.php",
+            "thumb": null
         }
     ]
 }

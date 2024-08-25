@@ -15,22 +15,26 @@
         {
             "fileName": "112-2_論文發表會海報.png",
             "fileSize": "(1 MB)",
-            "fileURL": "./message_7/1715333843/112-2_%E8%AB%96%E6%96%87%E7%99%BC%E8%A1%A8%E6%9C%83%E6%B5%B7%E5%A0%B1.png"
+            "fileURL": "./message_7/1715333843/112-2_%E8%AB%96%E6%96%87%E7%99%BC%E8%A1%A8%E6%9C%83%E6%B5%B7%E5%A0%B1.png",
+            "thumb": "/thumb/1715333843_112-2_%E8%AB%96%E6%96%87%E7%99%BC%E8%A1%A8%E6%9C%83%E6%B5%B7%E5%A0%B1.png"
         },
         {
             "fileName": "112-2_論文發表會議程海報.png",
             "fileSize": "(1 MB)",
-            "fileURL": "./message_7/1715333843/112-2_%E8%AB%96%E6%96%87%E7%99%BC%E8%A1%A8%E6%9C%83%E8%AD%B0%E7%A8%8B%E6%B5%B7%E5%A0%B1.png"
+            "fileURL": "./message_7/1715333843/112-2_%E8%AB%96%E6%96%87%E7%99%BC%E8%A1%A8%E6%9C%83%E8%AD%B0%E7%A8%8B%E6%B5%B7%E5%A0%B1.png",
+            "thumb": "/thumb/1715333843_112-2_%E8%AB%96%E6%96%87%E7%99%BC%E8%A1%A8%E6%9C%83%E8%AD%B0%E7%A8%8B%E6%B5%B7%E5%A0%B1.png"
         },
         {
             "fileName": "https://reurl.cc/lQ7kqQ",
             "fileSize": "",
-            "fileURL": "https://reurl.cc/lQ7kqQ"
+            "fileURL": "https://reurl.cc/lQ7kqQ",
+            "thumb": null
         },
         {
             "fileName": "https://reurl.cc/LW6j8K",
             "fileSize": "",
-            "fileURL": "https://reurl.cc/LW6j8K"
+            "fileURL": "https://reurl.cc/LW6j8K",
+            "thumb": null
         }
     ]
 }

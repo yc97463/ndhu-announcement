@@ -15,12 +15,14 @@
         {
             "fileName": "[CSIE Speech] 0718 Navigating Taiwan Poster.jpg",
             "fileSize": "(5 MB)",
-            "fileURL": "./message_7/1721013992/%5BCSIE%20Speech%5D%200718%20Navigating%20Taiwan%20Poster.jpg"
+            "fileURL": "./message_7/1721013992/%5BCSIE%20Speech%5D%200718%20Navigating%20Taiwan%20Poster.jpg",
+            "thumb": "/thumb/1721013992_%5BCSIE%20Speech%5D%200718%20Navigating%20Taiwan%20Poster.jpg"
         },
         {
             "fileName": "https://meet.google.com/zub-hugb-pps",
             "fileSize": "Physical and Online Registration Links: Physical Speech Registration | Online Speech Registration (Required for Distributing Cross-Domain Hours)\n\nFeel free to reach out if any questions or concerns, and look forward to seeing you there! :D",
-            "fileURL": "https://meet.google.com/zub-hugb-pps"
+            "fileURL": "https://meet.google.com/zub-hugb-pps",
+            "thumb": null
         }
     ]
 }

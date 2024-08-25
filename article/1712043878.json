@@ -15,12 +15,14 @@
         {
             "fileName": "International Ph.D. Program in Indigenous Studies.png",
             "fileSize": "(3 MB)",
-            "fileURL": "./message_7/1712043878/International%20Ph.D.%20Program%20in%20Indigenous%20Studies.png"
+            "fileURL": "./message_7/1712043878/International%20Ph.D.%20Program%20in%20Indigenous%20Studies.png",
+            "thumb": "/thumb/1712043878_International%20Ph.D.%20Program%20in%20Indigenous%20Studies.png"
         },
         {
             "fileName": "https://ndhu.intl.phd.indigenous-studies.com",
             "fileSize": "College of Indigenous Studies, National Dong Hwa University\nNo. 1, Sec. 2, Da Hsueh Rd. Shoufeng, Hualien 974301, Taiwan",
-            "fileURL": "https://ndhu.intl.phd.indigenous-studies.com"
+            "fileURL": "https://ndhu.intl.phd.indigenous-studies.com",
+            "thumb": null
         }
     ]
 }

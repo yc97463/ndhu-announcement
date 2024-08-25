@@ -15,32 +15,38 @@
         {
             "fileName": "蒙皮舟.jpg",
             "fileSize": "(11 KB)",
-            "fileURL": "./message_7/1717742295/%E8%92%99%E7%9A%AE%E8%88%9F.jpg"
+            "fileURL": "./message_7/1717742295/%E8%92%99%E7%9A%AE%E8%88%9F.jpg",
+            "thumb": "/thumb/1717742295_%E8%92%99%E7%9A%AE%E8%88%9F.jpg"
         },
         {
             "fileName": "造舟之自主學習延伸投入_20240520.jpg",
             "fileSize": "(11 KB)",
-            "fileURL": "./message_7/1717742295/%E9%80%A0%E8%88%9F%E4%B9%8B%E8%87%AA%E4%B8%BB%E5%AD%B8%E7%BF%92%E5%BB%B6%E4%BC%B8%E6%8A%95%E5%85%A5_20240520.jpg"
+            "fileURL": "./message_7/1717742295/%E9%80%A0%E8%88%9F%E4%B9%8B%E8%87%AA%E4%B8%BB%E5%AD%B8%E7%BF%92%E5%BB%B6%E4%BC%B8%E6%8A%95%E5%85%A5_20240520.jpg",
+            "thumb": "/thumb/1717742295_%E9%80%A0%E8%88%9F%E4%B9%8B%E8%87%AA%E4%B8%BB%E5%AD%B8%E7%BF%92%E5%BB%B6%E4%BC%B8%E6%8A%95%E5%85%A5_20240520.jpg"
         },
         {
             "fileName": "報名QR.png",
             "fileSize": "(11 KB)",
-            "fileURL": "./message_7/1717742295/%E5%A0%B1%E5%90%8DQR.png"
+            "fileURL": "./message_7/1717742295/%E5%A0%B1%E5%90%8DQR.png",
+            "thumb": "/thumb/1717742295_%E5%A0%B1%E5%90%8DQR.png"
         },
         {
             "fileName": "https://www.youtube.com/watch?v=QwSWZ6XN7zc",
             "fileSize": "🎊選課申請請掃描QR code或連結：",
-            "fileURL": "https://www.youtube.com/watch?v=QwSWZ6XN7zc"
+            "fileURL": "https://www.youtube.com/watch?v=QwSWZ6XN7zc",
+            "thumb": null
         },
         {
             "fileName": "https://drive.google.com/file/d/1ebk2bf-AODhpNRNshphedFXARtTyZSd6/view?usp=drivesdk",
             "fileSize": "🎊選課申請請掃描QR code或連結：",
-            "fileURL": "https://drive.google.com/file/d/1ebk2bf-AODhpNRNshphedFXARtTyZSd6/view?usp=drivesdk"
+            "fileURL": "https://drive.google.com/file/d/1ebk2bf-AODhpNRNshphedFXARtTyZSd6/view?usp=drivesdk",
+            "thumb": null
         },
         {
             "fileName": "https://reurl.cc/0v1p36",
             "fileSize": "🎊選課申請請掃描QR code或連結：",
-            "fileURL": "https://reurl.cc/0v1p36"
+            "fileURL": "https://reurl.cc/0v1p36",
+            "thumb": null
         }
     ]
 }

@@ -15,12 +15,14 @@
         {
             "fileName": "教育部函.pdf",
             "fileSize": "(402 KB)",
-            "fileURL": "./message_7/1719570959/%E6%95%99%E8%82%B2%E9%83%A8%E5%87%BD.pdf"
+            "fileURL": "./message_7/1719570959/%E6%95%99%E8%82%B2%E9%83%A8%E5%87%BD.pdf",
+            "thumb": "/thumb/1719570959_%E6%95%99%E8%82%B2%E9%83%A8%E5%87%BD.pdf.jpg"
         },
         {
             "fileName": "附件一.pdf",
             "fileSize": "(402 KB)",
-            "fileURL": "./message_7/1719570959/%E9%99%84%E4%BB%B6%E4%B8%80.pdf"
+            "fileURL": "./message_7/1719570959/%E9%99%84%E4%BB%B6%E4%B8%80.pdf",
+            "thumb": "/thumb/1719570959_%E9%99%84%E4%BB%B6%E4%B8%80.pdf.jpg"
         }
     ]
 }

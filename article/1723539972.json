@@ -15,22 +15,26 @@
         {
             "fileName": "附件1(12).jpg",
             "fileSize": "(287 KB)",
-            "fileURL": "./message_7/1723539972/%E9%99%84%E4%BB%B61%2812%29.jpg"
+            "fileURL": "./message_7/1723539972/%E9%99%84%E4%BB%B61%2812%29.jpg",
+            "thumb": "/thumb/1723539972_%E9%99%84%E4%BB%B61%2812%29.jpg"
         },
         {
             "fileName": "附件2-5.pdf",
             "fileSize": "(287 KB)",
-            "fileURL": "./message_7/1723539972/%E9%99%84%E4%BB%B62-5.pdf"
+            "fileURL": "./message_7/1723539972/%E9%99%84%E4%BB%B62-5.pdf",
+            "thumb": "/thumb/1723539972_%E9%99%84%E4%BB%B62-5.pdf.jpg"
         },
         {
             "fileName": "https://reurl.cc/MjvY1n",
             "fileSize": ") 報名，額滿為止。\n\n    四、研習方式：GoogleMeet 視訊會議(活動前三日寄送連結)。\n\n    五、完成活動研習者，核發電子研習時數證明或登錄公務人員研習時數(6小時)。",
-            "fileURL": "https://reurl.cc/MjvY1n"
+            "fileURL": "https://reurl.cc/MjvY1n",
+            "thumb": null
         },
         {
             "fileName": "https://webap.nptu.edu.tw/aes/",
             "fileSize": ") 報名，額滿為止。\n\n    四、研習方式：GoogleMeet 視訊會議(活動前三日寄送連結)。\n\n    五、完成活動研習者，核發電子研習時數證明或登錄公務人員研習時數(6小時)。",
-            "fileURL": "https://webap.nptu.edu.tw/aes/"
+            "fileURL": "https://webap.nptu.edu.tw/aes/",
+            "thumb": null
         }
     ]
 }
