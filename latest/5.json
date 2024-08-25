@@ -1,5 +1,19 @@
 [
     {
+        "title": "【課務組】113學年度第1學期學士班課程「免修」申請（自即日起至09/09(一)午夜23:59止）",
+        "timestamp": "1724113335",
+        "url": "mail_display.php?timestamp=1724113335",
+        "date": "2024/08/20 08:22",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "course@gms.ndhu.edu.tw",
+            "phone": "6122~6126"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【活動推推】SIG論壇-在地韌性社會重建",
         "timestamp": "1724093460",
         "url": "mail_display.php?timestamp=1724093460",
@@ -194,19 +208,5 @@
             "phone": "6580"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【徵才公告】國立東華大學財務金融學系誠徵行政助理一名 (第二次公告)",
-        "timestamp": "1724031167",
-        "url": "mail_display.php?timestamp=1724031167",
-        "date": "2024/08/19 09:32",
-        "department": "財務金融學系",
-        "author": {
-            "department": "財務金融學系",
-            "name": "林役霜",
-            "email": "ys012@gms.ndhu.edu.tw",
-            "phone": "03-890-3133"
-        },
-        "attachmentCount": 0
     }
 ]
