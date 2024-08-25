@@ -20,10 +20,10 @@ type Author struct {
 }
 
 type Attachment struct {
-	FileName string  `json:"fileName"`
-	FileSize string  `json:"fileSize"`
-	FileURL  string  `json:"fileURL"`
-	Thumb    *string `json:"thumb"`
+	FileName  string  `json:"fileName"`
+	FileSize  string  `json:"fileSize"`
+	FilePath  string  `json:"filePath"`
+	ThumbPath *string `json:"thumbPath"`
 }
 
 type Summary struct {
@@ -242,28 +242,28 @@ func extractAttachments(content string) []Attachment {
 	var attachments []Attachment
 	doc.Find("pre a").Each(func(i int, s *goquery.Selection) {
 		fileName := s.Text()
-		fileURL, _ := s.Attr("href")
+		filePath, _ := s.Attr("href")
 		fileSize := strings.TrimSpace(s.Parent().Contents().FilterFunction(func(i int, s *goquery.Selection) bool {
 			return s.Nodes[0].Type == html.TextNode
 		}).Last().Text())
 
-		thumb := calculateThumb(fileURL)
+		thumbPath := calculateThumb(filePath)
 
 		attachments = append(attachments, Attachment{
-			FileName: fileName,
-			FileSize: fileSize,
-			FileURL:  fileURL,
-			Thumb:    thumb,
+			FileName:  fileName,
+			FileSize:  fileSize,
+			FilePath:  filePath,
+			ThumbPath: thumbPath,
 		})
 	})
 
 	return attachments
 }
 
-func calculateThumb(fileURL string) *string {
-	ext := strings.ToLower(filepath.Ext(fileURL))
+func calculateThumb(filePath string) *string {
+	ext := strings.ToLower(filepath.Ext(filePath))
 	if ext == ".jpg" || ext == ".jpeg" || ext == ".png" || ext == ".pdf" {
-		parts := strings.SplitN(fileURL, "/", 4)
+		parts := strings.SplitN(filePath, "/", 4)
 		if len(parts) == 4 {
 			timestampID := parts[2]
 			filename := parts[3]
