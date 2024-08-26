@@ -1,5 +1,19 @@
 [
     {
+        "title": "【服務學習】藝術中心展覽顧展志工招募公告",
+        "timestamp": "1716112749",
+        "url": "mail_display.php?timestamp=1716112749",
+        "date": "2024/05/19 17:59",
+        "department": "藝術中心",
+        "author": {
+            "department": "藝術中心",
+            "name": "周葦綸",
+            "email": "arts@gms.ndhu.edu.tw",
+            "phone": "6606"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "永齡希望小學課輔工作線上介紹既課輔老師招募",
         "timestamp": "1716105263",
         "url": "mail_display.php?timestamp=1716105263",
@@ -194,19 +208,5 @@
             "phone": "8906225"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【徵才】國立東華大學中國語文學系誠徵行政助理一名",
-        "timestamp": "1712717579",
-        "url": "mail_display.php?timestamp=1712717579",
-        "date": "2024/04/10 10:52",
-        "department": "中國語文學系",
-        "author": {
-            "department": "中國語文學系",
-            "name": "曾映蓁",
-            "email": "yingzhen@gms.ndhu.edu.tw",
-            "phone": "03-8905672"
-        },
-        "attachmentCount": 0
     }
 ]
