@@ -1,5 +1,19 @@
 [
     {
+        "title": "湖畔電梯故障維修公告",
+        "timestamp": "1724670497",
+        "url": "mail_display.php?timestamp=1724670497",
+        "date": "2024/08/26 19:08",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "全校區緊急停水公告",
         "timestamp": "1724561631",
         "url": "mail_display.php?timestamp=1724561631",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "【徵才】國家中山科學研究院「113年第28次專案人力進用招考甄試」(資訊通信研究所)",
-        "timestamp": "1724126308",
-        "url": "mail_display.php?timestamp=1724126308",
-        "date": "2024/08/20 11:58",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 2
     }
 ]

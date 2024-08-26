@@ -1,5 +1,19 @@
 [
     {
+        "title": "湖畔電梯故障維修公告",
+        "timestamp": "1724670497",
+        "url": "mail_display.php?timestamp=1724670497",
+        "date": "2024/08/26 19:08",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113年8月28至30日暫停開放行政大樓408、416會議室",
         "timestamp": "1724660112",
         "url": "mail_display.php?timestamp=1724660112",
@@ -194,19 +208,5 @@
             "phone": "6225"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "公文系統於8月21日(三)中午12~13時及8月23日(五) 8~20時暫停服務公告",
-        "timestamp": "1724200929",
-        "url": "mail_display.php?timestamp=1724200929",
-        "date": "2024/08/21 08:42",
-        "department": "總務處文書組",
-        "author": {
-            "department": "總務處文書組",
-            "name": "張建中",
-            "email": "eric.chang@gms.ndhu.edu.tw",
-            "phone": "6352"
-        },
-        "attachmentCount": 0
     }
 ]
