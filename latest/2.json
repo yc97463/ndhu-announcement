@@ -1,5 +1,19 @@
 [
     {
+        "title": "【極重要】 113年8月23日(五)08:00~20:00壽豐校區配合台電公司線路保養全校區停電",
+        "timestamp": "1724293578",
+        "url": "mail_display.php?timestamp=1724293578",
+        "date": "2024/08/22 10:26",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉景富",
+            "email": "nickak@gms.ndhu.edu.tw",
+            "phone": "(03)8906373"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "歡迎踴躍報名-半導體IC載板產業實務人才培育專班",
         "timestamp": "1724291689",
         "url": "mail_display.php?timestamp=1724291689",
@@ -194,19 +208,5 @@
             "phone": "03-8906219"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "公文系統於8月21日(三)中午12~13時及8月23日(五) 8~20時暫停服務公告",
-        "timestamp": "1724200929",
-        "url": "mail_display.php?timestamp=1724200929",
-        "date": "2024/08/21 08:42",
-        "department": "總務處文書組",
-        "author": {
-            "department": "總務處文書組",
-            "name": "張建中",
-            "email": "eric.chang@gms.ndhu.edu.tw",
-            "phone": "6352"
-        },
-        "attachmentCount": 0
     }
 ]
