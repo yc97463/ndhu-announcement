@@ -1,5 +1,19 @@
 [
     {
+        "title": "歡迎踴躍報名-半導體IC載板產業實務人才培育專班",
+        "timestamp": "1724291689",
+        "url": "mail_display.php?timestamp=1724291689",
+        "date": "2024/08/22 09:54",
+        "department": "材料科學與工程學系",
+        "author": {
+            "department": "材料科學與工程學系",
+            "name": "林淑玲",
+            "email": "shuling@gms.ndhu.edu.tw",
+            "phone": "03-8903204"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "113年8月23日校務行政系統停機公告 (Suspension of School Administrative-affair System)",
         "timestamp": "1724289141",
         "url": "mail_display.php?timestamp=1724289141",
@@ -194,19 +208,5 @@
             "phone": "6352"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【獎助學金申請】台日文化經濟協會「2024杜萬全日本碩士獎學金」",
-        "timestamp": "1724200199",
-        "url": "mail_display.php?timestamp=1724200199",
-        "date": "2024/08/21 08:29",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]

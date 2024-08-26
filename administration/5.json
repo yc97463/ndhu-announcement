@@ -1,5 +1,19 @@
 [
     {
+        "title": "校區部分區域113/07/31緊急搶修停水公告",
+        "timestamp": "1722420393",
+        "url": "mail_display.php?timestamp=1722420393",
+        "date": "2024/07/31 18:06",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "8906376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【公告】本校113年8月1日起行政及學術主管名冊",
         "timestamp": "1722417049",
         "url": "mail_display.php?timestamp=1722417049",
@@ -192,20 +206,6 @@
             "name": "周小萍",
             "email": "hedy@gms.ndhu.edu.tw",
             "phone": "8906852"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "library's e-thesis/dissertations system is down for maintenance, and the steps for submitting thesis/dissertations have been changed",
-        "timestamp": "1722157245",
-        "url": "mail_display.php?timestamp=1722157245",
-        "date": "2024/07/28 17:00",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "簡民享",
-            "email": "jms@gms.ndhu.edu.tw",
-            "phone": "6842"
         },
         "attachmentCount": 0
     }
