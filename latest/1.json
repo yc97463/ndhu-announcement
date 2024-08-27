@@ -1,5 +1,33 @@
 [
     {
+        "title": "【獎助學金申請】臺灣基督教門諾會門諾醫院「113年建教合作就學獎助」 (限宜花東籍管理及資訊相關大三及碩一)",
+        "timestamp": "1724725150",
+        "url": "mail_display.php?timestamp=1724725150",
+        "date": "2024/08/27 10:19",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "113年度自資系楊悠娟老師國科會計畫專任暨兼任助理徵才",
+        "timestamp": "1724721825",
+        "url": "mail_display.php?timestamp=1724721825",
+        "date": "2024/08/27 09:23",
+        "department": "環境學院",
+        "author": {
+            "department": "環境學院",
+            "name": "陳和毅助理",
+            "email": "erntmap@gmail.com",
+            "phone": "8905179"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】林熊徵學田基金會113年獎學金",
         "timestamp": "1724720326",
         "url": "mail_display.php?timestamp=1724720326",
@@ -180,33 +208,5 @@
             "phone": "03-8905338"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "8/26至9/2志學門出入口道路改善工程管制公告",
-        "timestamp": "1724382969",
-        "url": "mail_display.php?timestamp=1724382969",
-        "date": "2024/08/23 11:16",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "黃章傑",
-            "email": "cotycafe@gms.ndhu.edu.tw",
-            "phone": "5778"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "行政大樓4樓隔間牆封板施工公告",
-        "timestamp": "1724382808",
-        "url": "mail_display.php?timestamp=1724382808",
-        "date": "2024/08/23 11:13",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "黃章傑",
-            "email": "cotycafe@gms.ndhu.edu.tw",
-            "phone": "5778"
-        },
-        "attachmentCount": 0
     }
 ]
