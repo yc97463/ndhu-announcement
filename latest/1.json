@@ -1,5 +1,47 @@
 [
     {
+        "title": "【訊息轉知】國立高雄科技大學開設6門磨課師(MOOCs)線上課程",
+        "timestamp": "1724739097",
+        "url": "mail_display.php?timestamp=1724739097",
+        "date": "2024/08/27 14:11",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 8
+    },
+    {
+        "title": "禁用遠端桌面服務【第二次公告】",
+        "timestamp": "1724738466",
+        "url": "mail_display.php?timestamp=1724738466",
+        "date": "2024/08/27 14:01",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "黃金城",
+            "email": "hjc@gms.ndhu.edu.tw",
+            "phone": "6724"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【獎助學金申請】台灣松樑教育公益促進協會113學年度「教育公益促進協會助學金」(限電機、電子相關學系家境清寒)",
+        "timestamp": "1724737641",
+        "url": "mail_display.php?timestamp=1724737641",
+        "date": "2024/08/27 13:47",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "公告113-1校核心資訊科技領域-「無人機操作與飛行創作」(初級程式設計)課程尚有名額，敬請踴躍加選課程",
         "timestamp": "1724736053",
         "url": "mail_display.php?timestamp=1724736053",
@@ -166,47 +208,5 @@
             "phone": "(03)890-6727"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【轉知】高雄市立瑞豐國民中學辦理50週年校慶傑出校友遴選事宜，檢送實施要點暨推薦表1份，推薦期間自即日起至113年9月30日止受理報名。",
-        "timestamp": "1724653976",
-        "url": "mail_display.php?timestamp=1724653976",
-        "date": "2024/08/26 14:32",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "陳治豪",
-            "email": "jackchen168@gms.ndhu.edu.tw",
-            "phone": "6057"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【教務處課務組】各學制新生(含轉學生、復學生)113-1網路選課  Freshmen Online Preliminary Course Selection ",
-        "timestamp": "1724652688",
-        "url": "mail_display.php?timestamp=1724652688",
-        "date": "2024/08/26 14:11",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "utd1003@gms.ndhu.edu.tw",
-            "phone": "6122-6126"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "有關教育部實施「拉近公私立學校學雜費差距及其配套措施方案」，本校113學年度第1學期受理同仁申請子女教育補助彈性作法事宜。",
-        "timestamp": "1724639974",
-        "url": "mail_display.php?timestamp=1724639974",
-        "date": "2024/08/26 10:39",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "劉昱淩",
-            "email": "e56187@gms.ndhu.edu.tw",
-            "phone": "890-6056"
-        },
-        "attachmentCount": 1
     }
 ]
