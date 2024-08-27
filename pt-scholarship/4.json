@@ -1,5 +1,33 @@
 [
     {
+        "title": "【獎助學金申請】台北市李連來公益基金會113年度助學金 (非工商學系學生，家境清寒)",
+        "timestamp": "1722924316",
+        "url": "mail_display.php?timestamp=1722924316",
+        "date": "2024/08/06 14:05",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【獎助學金申請】恒大文教基金會113年度清寒獎學金 (低或中低收、家境特殊)",
+        "timestamp": "1722907866",
+        "url": "mail_display.php?timestamp=1722907866",
+        "date": "2024/08/06 09:31",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請重要資訊】學務處生輔組辦理各項校內外獎助學金項目及申請注意事項，請參考! ",
         "timestamp": "1722515708",
         "url": "mail_display.php?timestamp=1722515708",
@@ -180,33 +208,5 @@
             "phone": "03-8906219"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【獎助學金申請】群園事業機構113學年度弱勢家庭學子助學 (限非低收入戶)",
-        "timestamp": "1720745761",
-        "url": "mail_display.php?timestamp=1720745761",
-        "date": "2024/07/12 08:56",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【協助公告】Meet Pacific 花蓮創新創業嘉年｜工讀生招募計畫｜第二波招募",
-        "timestamp": "1720508951",
-        "url": "mail_display.php?timestamp=1720508951",
-        "date": "2024/07/09 15:09",
-        "department": "國際事務處",
-        "author": {
-            "department": "國際事務處",
-            "name": "陳梅艇",
-            "email": "hesp@gms.ndhu.edu.tw",
-            "phone": "5174"
-        },
-        "attachmentCount": 2
     }
 ]
