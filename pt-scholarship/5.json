@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】全國農業金庫股份有限公司「113年全國農業金庫獎學金」",
+        "timestamp": "1720495780",
+        "url": "mail_display.php?timestamp=1720495780",
+        "date": "2024/07/09 11:29",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【論文獎助】世聯倉運文教基金會「2024CTW物流論文獎」",
         "timestamp": "1720494552",
         "url": "mail_display.php?timestamp=1720494552",
@@ -192,20 +206,6 @@
             "name": "葉俊良",
             "email": "ycliang@gms.ndhu.edu.tw",
             "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "📢📢深耕起飛計畫~🔆113學年度第1學期校內【起飛見習生】召募開始囉!🔆",
-        "timestamp": "1718590743",
-        "url": "mail_display.php?timestamp=1718590743",
-        "date": "2024/06/17 10:19",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "鄭淑亭",
-            "email": "ting@gms.ndhu.edu.tw",
-            "phone": "03-8906215"
         },
         "attachmentCount": 1
     }

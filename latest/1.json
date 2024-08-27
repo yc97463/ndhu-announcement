@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】彰化縣113-1自強優秀學生獎學金 (限彰化縣籍)",
+        "timestamp": "1724771103",
+        "url": "mail_display.php?timestamp=1724771103",
+        "date": "2024/08/27 23:05",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】苗栗縣113-1清寒優秀學生獎學金 (限苗栗縣籍)",
         "timestamp": "1724768152",
         "url": "mail_display.php?timestamp=1724768152",
@@ -194,19 +208,5 @@
             "phone": "8906607"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "113-1校核心通識課程異動(增開及停開課程)公告",
-        "timestamp": "1724735821",
-        "url": "mail_display.php?timestamp=1724735821",
-        "date": "2024/08/27 13:17",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 1
     }
 ]
