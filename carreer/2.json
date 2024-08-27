@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才】國立東華大學能源科技中心 誠徵教育部計畫專任研究助理",
+        "timestamp": "1723009170",
+        "url": "mail_display.php?timestamp=1723009170",
+        "date": "2024/08/07 13:39",
+        "department": "能源科技中心",
+        "author": {
+            "department": "能源科技中心",
+            "name": "吳慈憶",
+            "email": "algar0905@gms.ndhu.edu.tw",
+            "phone": "8903688"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才公告】國立東華大學總務處環保組徵聘【校務基金助理】",
         "timestamp": "1722926030",
         "url": "mail_display.php?timestamp=1722926030",
@@ -194,19 +208,5 @@
             "phone": "6613"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "113-1學期通識課程徵求TA公告",
-        "timestamp": "1720406174",
-        "url": "mail_display.php?timestamp=1720406174",
-        "date": "2024/07/08 10:36",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陸彥妙",
-            "email": "ymlu@gms.ndhu.edu.tw",
-            "phone": "6605"
-        },
-        "attachmentCount": 2
     }
 ]
