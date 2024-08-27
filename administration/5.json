@@ -1,5 +1,19 @@
 [
     {
+        "title": "113學年度第1學期兵役緩徵、儘召網路登錄凱放申請",
+        "timestamp": "1722990794",
+        "url": "mail_display.php?timestamp=1722990794",
+        "date": "2024/08/07 08:33",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "6225"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "體育館及桌球室火警自動警報設備更新施工公告",
         "timestamp": "1722931428",
         "url": "mail_display.php?timestamp=1722931428",
@@ -194,19 +208,5 @@
             "phone": "03-8906215"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "0403衍生廢棄物清運公告",
-        "timestamp": "1722308109",
-        "url": "mail_display.php?timestamp=1722308109",
-        "date": "2024/07/30 10:55",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "賴宜萱",
-            "email": "lai0210@gms.ndhu.edu.tw",
-            "phone": "6393"
-        },
-        "attachmentCount": 0
     }
 ]

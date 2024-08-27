@@ -1,5 +1,33 @@
 [
     {
+        "title": "公告113-1校核心資訊科技領域-「無人機操作與飛行創作」(初級程式設計)課程尚有名額，敬請踴躍加選課程",
+        "timestamp": "1724736053",
+        "url": "mail_display.php?timestamp=1724736053",
+        "date": "2024/08/27 13:20",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "8906607"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113-1校核心通識課程異動(增開及停開課程)公告",
+        "timestamp": "1724735821",
+        "url": "mail_display.php?timestamp=1724735821",
+        "date": "2024/08/27 13:17",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "8906607"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【公告】敬邀本校教職員參加113年度中秋節暨教師節聯誼餐會。",
         "timestamp": "1724719018",
         "url": "mail_display.php?timestamp=1724719018",
@@ -180,33 +208,5 @@
             "phone": "5242"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "第十七屆親善大使團招募!!",
-        "timestamp": "1724030492",
-        "url": "mail_display.php?timestamp=1724030492",
-        "date": "2024/08/19 09:21",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "游雅筑",
-            "email": "pink389124@gms.ndhu.edu.tw",
-            "phone": "8906236"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "📢【延長報名至8/23】原住民族廣播電台人才培育工作坊 Spii(夢想) 從東海岸起飛🔥🔥",
-        "timestamp": "1723880797",
-        "url": "mail_display.php?timestamp=1723880797",
-        "date": "2024/08/17 15:46",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "巴莉亞妲‧蘇利伊",
-            "email": "damu@gms.ndhu.edu.tw",
-            "phone": "5824"
-        },
-        "attachmentCount": 4
     }
 ]

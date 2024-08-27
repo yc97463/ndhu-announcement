@@ -1,5 +1,33 @@
 [
     {
+        "title": "公告113-1校核心資訊科技領域-「無人機操作與飛行創作」(初級程式設計)課程尚有名額，敬請踴躍加選課程",
+        "timestamp": "1724736053",
+        "url": "mail_display.php?timestamp=1724736053",
+        "date": "2024/08/27 13:20",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "8906607"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113-1校核心通識課程異動(增開及停開課程)公告",
+        "timestamp": "1724735821",
+        "url": "mail_display.php?timestamp=1724735821",
+        "date": "2024/08/27 13:17",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "8906607"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【論文獎助】文化部113年度文化藝術政策博碩士論文獎勵",
         "timestamp": "1724732355",
         "url": "mail_display.php?timestamp=1724732355",
@@ -180,33 +208,5 @@
             "phone": "890-6056"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "國立東華大學英美語文學系徵聘【行政助理】一名",
-        "timestamp": "1724639955",
-        "url": "mail_display.php?timestamp=1724639955",
-        "date": "2024/08/26 10:39",
-        "department": "英美語文學系",
-        "author": {
-            "department": "英美語文學系",
-            "name": "劉珮萱",
-            "email": "peisyaun639@gms.ndhu.edu.tw",
-            "phone": "5294"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "本校113年9月4日至7日辦理全校建築物室外病媒防治消毒。",
-        "timestamp": "1724634722",
-        "url": "mail_display.php?timestamp=1724634722",
-        "date": "2024/08/26 09:12",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "許智翔",
-            "email": "cocco3746@gms.ndhu.edu.tw",
-            "phone": "03-8906399"
-        },
-        "attachmentCount": 0
     }
 ]
