@@ -1,5 +1,19 @@
 [
     {
+        "title": "清洗蓄水池及水塔停水通知",
+        "timestamp": "1724222958",
+        "url": "mail_display.php?timestamp=1724222958",
+        "date": "2024/08/21 14:49",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "陳泳志",
+            "email": "c593215@gms.ndhu.edu.tw",
+            "phone": "6390"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "擴大行政會議 會議紀錄公告通知",
         "timestamp": "1724222334",
         "url": "mail_display.php?timestamp=1724222334",
@@ -194,19 +208,5 @@
             "phone": "6122~6126"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "The tuition and miscellaneous fees payment form for the first semester of 2024 academic year can be downloaded from August 19!",
-        "timestamp": "1724060325",
-        "url": "mail_display.php?timestamp=1724060325",
-        "date": "2024/08/19 17:38",
-        "department": "總務處出納組",
-        "author": {
-            "department": "總務處出納組",
-            "name": "鄧瑞美",
-            "email": "deng@gms.ndhu.edu.tw",
-            "phone": "03-8906366"
-        },
-        "attachmentCount": 2
     }
 ]
