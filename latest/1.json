@@ -1,5 +1,33 @@
 [
     {
+        "title": "【論文獎助】文化部113年度文化藝術政策博碩士論文獎勵",
+        "timestamp": "1724732355",
+        "url": "mail_display.php?timestamp=1724732355",
+        "date": "2024/08/27 12:19",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【論文獎助】澎湖縣政府113年「縣政建設學位論文獎勵」",
+        "timestamp": "1724730962",
+        "url": "mail_display.php?timestamp=1724730962",
+        "date": "2024/08/27 11:56",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】行天宮文教發展促進基金會113-1助學金",
         "timestamp": "1724727333",
         "url": "mail_display.php?timestamp=1724727333",
@@ -180,33 +208,5 @@
             "phone": "03-8906399"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "全校區緊急停水公告",
-        "timestamp": "1724561631",
-        "url": "mail_display.php?timestamp=1724561631",
-        "date": "2024/08/25 12:53",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "張宗豪",
-            "email": "Zonghao@gms.ndhu.edu.tw",
-            "phone": "890-6389"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "重發：「生成式AI與當代史學發展新趨勢：大眾史學的關鍵省思與展望」工作坊(9/19-20)",
-        "timestamp": "1724561365",
-        "url": "mail_display.php?timestamp=1724561365",
-        "date": "2024/08/25 12:49",
-        "department": "歷史學系",
-        "author": {
-            "department": "歷史學系",
-            "name": "潘宗億",
-            "email": "typan@gms.ndhu.edu.tw",
-            "phone": "03-8905338"
-        },
-        "attachmentCount": 4
     }
 ]
