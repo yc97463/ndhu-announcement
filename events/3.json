@@ -1,5 +1,19 @@
 [
     {
+        "title": "【單身聯誼】國立中興大學辦理113年「中興有你，約定幸福見」單身聯誼活動，歡迎單身男女踴躍參加。",
+        "timestamp": "1723013399",
+        "url": "mail_display.php?timestamp=1723013399",
+        "date": "2024/08/07 14:49",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "陳美杏",
+            "email": "msing@gms.ndhu.edu.tw",
+            "phone": "6053"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "113-1學期校園環境中心服務學習計畫將於8/12開始報名",
         "timestamp": "1723010415",
         "url": "mail_display.php?timestamp=1723010415",
@@ -194,19 +208,5 @@
             "phone": "(03)890-6032"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": " 因中颱凱米颱風影響，原定7/25-26開設「手機影音創作與AI生成工作坊」取消辦理",
-        "timestamp": "1721701538",
-        "url": "mail_display.php?timestamp=1721701538",
-        "date": "2024/07/23 10:25",
-        "department": "能源科技中心",
-        "author": {
-            "department": "能源科技中心",
-            "name": "吳慈憶",
-            "email": "algar0905@gms.ndhu.edu.tw",
-            "phone": "8903688"
-        },
-        "attachmentCount": 0
     }
 ]
