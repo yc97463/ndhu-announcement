@@ -1,5 +1,33 @@
 [
     {
+        "title": "【獎助學金申請】國瑞汽車股份有限公司2024年「國瑞獎助學金」(限低或中低收入戶原住民)",
+        "timestamp": "1724743960",
+        "url": "mail_display.php?timestamp=1724743960",
+        "date": "2024/08/27 15:32",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "集賢館噪音防制工程施工公告",
+        "timestamp": "1724740461",
+        "url": "mail_display.php?timestamp=1724740461",
+        "date": "2024/08/27 14:34",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "許珅銘",
+            "email": "600130@gms.ndhu.edu.tw",
+            "phone": "6375"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【訊息轉知】國立高雄科技大學開設6門磨課師(MOOCs)線上課程",
         "timestamp": "1724739097",
         "url": "mail_display.php?timestamp=1724739097",
@@ -180,33 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "113年8月28至30日暫停開放行政大樓408、416會議室",
-        "timestamp": "1724660112",
-        "url": "mail_display.php?timestamp=1724660112",
-        "date": "2024/08/26 16:15",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "陳俐穎",
-            "email": "aspen@gms.ndhu.edu.tw",
-            "phone": "6392"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "重申禁用危害國家資通訊產品相關規定",
-        "timestamp": "1724659294",
-        "url": "mail_display.php?timestamp=1724659294",
-        "date": "2024/08/26 16:01",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "蕭澤宇",
-            "email": "zyhsiao@gms.ndhu.edu.tw",
-            "phone": "(03)890-6727"
-        },
-        "attachmentCount": 2
     }
 ]

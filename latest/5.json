@@ -1,5 +1,33 @@
 [
     {
+        "title": "【徵才】📣安永聯合會計師事務所X國立東華大學X校園招募線上說明會📣",
+        "timestamp": "1724300225",
+        "url": "mail_display.php?timestamp=1724300225",
+        "date": "2024/08/22 12:17",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【極重要】 113年8月23日(五)08:00~20:00壽豐校區配合台電公司線路保養全校區停電",
+        "timestamp": "1724293578",
+        "url": "mail_display.php?timestamp=1724293578",
+        "date": "2024/08/22 10:26",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉景富",
+            "email": "nickak@gms.ndhu.edu.tw",
+            "phone": "(03)8906373"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "歡迎踴躍報名-半導體IC載板產業實務人才培育專班",
         "timestamp": "1724291689",
         "url": "mail_display.php?timestamp=1724291689",
@@ -180,33 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【獎助學金申請】宗倬章先生教育基金會「113學年度清寒學生獎助學金」",
-        "timestamp": "1724204000",
-        "url": "mail_display.php?timestamp=1724204000",
-        "date": "2024/08/21 09:33",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "公文系統於8月21日(三)中午12~13時及8月23日(五) 8~20時暫停服務公告",
-        "timestamp": "1724200929",
-        "url": "mail_display.php?timestamp=1724200929",
-        "date": "2024/08/21 08:42",
-        "department": "總務處文書組",
-        "author": {
-            "department": "總務處文書組",
-            "name": "張建中",
-            "email": "eric.chang@gms.ndhu.edu.tw",
-            "phone": "6352"
-        },
-        "attachmentCount": 0
     }
 ]
