@@ -1,5 +1,19 @@
 [
     {
+        "title": "【教務處課務組】各學制新生(含轉學生、復學生)113-1網路選課  Freshmen Online Preliminary Course Selection ",
+        "timestamp": "1724652688",
+        "url": "mail_display.php?timestamp=1724652688",
+        "date": "2024/08/26 14:11",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "有關教育部實施「拉近公私立學校學雜費差距及其配套措施方案」，本校113學年度第1學期受理同仁申請子女教育補助彈性作法事宜。",
         "timestamp": "1724639974",
         "url": "mail_display.php?timestamp=1724639974",
@@ -194,19 +208,5 @@
             "phone": "03-8903204"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "113年8月23日校務行政系統停機公告 (Suspension of School Administrative-affair System)",
-        "timestamp": "1724289141",
-        "url": "mail_display.php?timestamp=1724289141",
-        "date": "2024/08/22 09:12",
-        "department": "圖書資訊處校務系統組",
-        "author": {
-            "department": "圖書資訊處校務系統組",
-            "name": "林志軒",
-            "email": "chshlin@gms.ndhu.edu.tw",
-            "phone": "6752"
-        },
-        "attachmentCount": 0
     }
 ]

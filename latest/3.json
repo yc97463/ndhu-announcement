@@ -1,5 +1,19 @@
 [
     {
+        "title": "禁用遠端桌面服務【第二次公告】",
+        "timestamp": "1724738466",
+        "url": "mail_display.php?timestamp=1724738466",
+        "date": "2024/08/27 14:01",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "黃金城",
+            "email": "hjc@gms.ndhu.edu.tw",
+            "phone": "6724"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【獎助學金申請】台灣松樑教育公益促進協會113學年度「教育公益促進協會助學金」(限電機、電子相關學系家境清寒)",
         "timestamp": "1724737641",
         "url": "mail_display.php?timestamp=1724737641",
@@ -194,19 +208,5 @@
             "phone": "6057"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【教務處課務組】各學制新生(含轉學生、復學生)113-1網路選課  Freshmen Online Preliminary Course Selection ",
-        "timestamp": "1724652688",
-        "url": "mail_display.php?timestamp=1724652688",
-        "date": "2024/08/26 14:11",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "utd1003@gms.ndhu.edu.tw",
-            "phone": "6122-6126"
-        },
-        "attachmentCount": 0
     }
 ]
