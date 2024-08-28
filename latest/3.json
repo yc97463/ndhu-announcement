@@ -1,5 +1,33 @@
 [
     {
+        "title": "【論文獎助】澎湖縣政府113年「縣政建設學位論文獎勵」",
+        "timestamp": "1724730962",
+        "url": "mail_display.php?timestamp=1724730962",
+        "date": "2024/08/27 11:56",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【獎助學金申請】行天宮文教發展促進基金會113-1助學金",
+        "timestamp": "1724727333",
+        "url": "mail_display.php?timestamp=1724727333",
+        "date": "2024/08/27 10:55",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】臺灣基督教門諾會門諾醫院「113年建教合作就學獎助」 (限宜花東籍管理及資訊相關大三及碩一)",
         "timestamp": "1724725150",
         "url": "mail_display.php?timestamp=1724725150",
@@ -180,33 +208,5 @@
             "phone": "03-8905338"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "「生成式AI與當代史學發展新趨勢：大眾史學的關鍵省思與展望」工作坊（9/19-9/20)",
-        "timestamp": "1724560673",
-        "url": "mail_display.php?timestamp=1724560673",
-        "date": "2024/08/25 12:37",
-        "department": "歷史學系",
-        "author": {
-            "department": "歷史學系",
-            "name": "潘宗億",
-            "email": "typan@gms.ndhu.edu.tw",
-            "phone": "03-8905338"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "8/26至9/2志學門出入口道路改善工程管制公告",
-        "timestamp": "1724382969",
-        "url": "mail_display.php?timestamp=1724382969",
-        "date": "2024/08/23 11:16",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "黃章傑",
-            "email": "cotycafe@gms.ndhu.edu.tw",
-            "phone": "5778"
-        },
-        "attachmentCount": 0
     }
 ]
