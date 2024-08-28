@@ -1,5 +1,75 @@
 [
     {
+        "title": "【獎學金申請】《113學年度》宗燦獎學金",
+        "timestamp": "1724808485",
+        "url": "mail_display.php?timestamp=1724808485",
+        "date": "2024/08/28 09:28",
+        "department": "秘書室公關宣傳組",
+        "author": {
+            "department": "秘書室公關宣傳組",
+            "name": "林佩瑤",
+            "email": "peiyao@gms.ndhu.edu.tw",
+            "phone": "6013"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "113年9月份全校綠地除草維護時間及施作區域公告",
+        "timestamp": "1724808256",
+        "url": "mail_display.php?timestamp=1724808256",
+        "date": "2024/08/28 09:24",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "賴宜萱",
+            "email": "lai0210@gms.ndhu.edu.tw",
+            "phone": "6393"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【Forward 協助轉知】2024年國際農業綠能論壇 International Conference on Green Energy in Agriculture",
+        "timestamp": "1724807907",
+        "url": "mail_display.php?timestamp=1724807907",
+        "date": "2024/08/28 09:18",
+        "department": "永續發展中心籌備處",
+        "author": {
+            "department": "永續發展中心籌備處",
+            "name": "李莉莉 Li-Li Lee",
+            "email": "sd@gms.ndhu.edu.tw",
+            "phone": "03-890-5920"
+        },
+        "attachmentCount": 5
+    },
+    {
+        "title": "【政風宣導】本（113）年度中秋節期間，加強宣導「公務員廉政倫理規範」並落實廉政倫理事件登錄",
+        "timestamp": "1724805811",
+        "url": "mail_display.php?timestamp=1724805811",
+        "date": "2024/08/28 08:43",
+        "department": "秘書室公關宣傳組",
+        "author": {
+            "department": "秘書室公關宣傳組",
+            "name": "林佩瑤",
+            "email": "peiyao@gms.ndhu.edu.tw",
+            "phone": "6013"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "配合學生宿舍開放入住，調整9月5日至9月7日垃圾車清運時段及地點。",
+        "timestamp": "1724805426",
+        "url": "mail_display.php?timestamp=1724805426",
+        "date": "2024/08/28 08:37",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "許智翔",
+            "email": "cocco3746@gms.ndhu.edu.tw",
+            "phone": "03-8906399"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【獎助學金申請】高雄市113-1清寒優秀學生獎學金 (限高雄市籍低或中低收)",
         "timestamp": "1724775271",
         "url": "mail_display.php?timestamp=1724775271",
@@ -136,76 +206,6 @@
             "name": "劉珮萱",
             "email": "peisyaun639@gms.ndhu.edu.tw",
             "phone": "5294"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【獎助學金申請】救國團屏東縣團委會「113年度公益基金會獎學金」(限屏東縣籍低收入戶)",
-        "timestamp": "1724746904",
-        "url": "mail_display.php?timestamp=1724746904",
-        "date": "2024/08/27 16:21",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【獎助學金申請】國瑞汽車股份有限公司2024年「國瑞獎助學金」(限低或中低收入戶原住民)",
-        "timestamp": "1724743960",
-        "url": "mail_display.php?timestamp=1724743960",
-        "date": "2024/08/27 15:32",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "集賢館噪音防制工程施工公告",
-        "timestamp": "1724740461",
-        "url": "mail_display.php?timestamp=1724740461",
-        "date": "2024/08/27 14:34",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "許珅銘",
-            "email": "600130@gms.ndhu.edu.tw",
-            "phone": "6375"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【訊息轉知】國立高雄科技大學開設6門磨課師(MOOCs)線上課程",
-        "timestamp": "1724739097",
-        "url": "mail_display.php?timestamp=1724739097",
-        "date": "2024/08/27 14:11",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 8
-    },
-    {
-        "title": "禁用遠端桌面服務【第二次公告】",
-        "timestamp": "1724738466",
-        "url": "mail_display.php?timestamp=1724738466",
-        "date": "2024/08/27 14:01",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "黃金城",
-            "email": "hjc@gms.ndhu.edu.tw",
-            "phone": "6724"
         },
         "attachmentCount": 0
     }

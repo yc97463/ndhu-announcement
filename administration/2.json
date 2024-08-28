@@ -1,5 +1,19 @@
 [
     {
+        "title": "8/26至9/2志學門出入口道路改善工程管制公告",
+        "timestamp": "1724382969",
+        "url": "mail_display.php?timestamp=1724382969",
+        "date": "2024/08/23 11:16",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "黃章傑",
+            "email": "cotycafe@gms.ndhu.edu.tw",
+            "phone": "5778"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "行政大樓4樓隔間牆封板施工公告",
         "timestamp": "1724382808",
         "url": "mail_display.php?timestamp=1724382808",
@@ -194,19 +208,5 @@
             "phone": "6005"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "人社一、二館牆面修復施工公告",
-        "timestamp": "1724136643",
-        "url": "mail_display.php?timestamp=1724136643",
-        "date": "2024/08/20 14:50",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "許珅銘",
-            "email": "600130@gms.ndhu.edu.tw",
-            "phone": "863-6375"
-        },
-        "attachmentCount": 0
     }
 ]

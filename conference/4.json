@@ -1,5 +1,19 @@
 [
     {
+        "title": "【講座改採線上辦理】05/23〔rikec法學講座〕言論自由的界線—談仇恨性言論的管制",
+        "timestamp": "1714725232",
+        "url": "mail_display.php?timestamp=1714725232",
+        "date": "2024/05/03 16:33",
+        "department": "法律學系",
+        "author": {
+            "department": "法律學系",
+            "name": "黃助理",
+            "email": "yijing@gms.ndhu.edu.tw",
+            "phone": "5663"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【法專班講座】05/14-follow原住民族部落議題講座-馬遠部落遺骨返還案",
         "timestamp": "1714724605",
         "url": "mail_display.php?timestamp=1714724605",
@@ -194,19 +208,5 @@
             "phone": "8905026"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【更改線上視訊通知】認識環境教育\u0026環境科技產業-劉俊佑學長與許畹瑜學姐(5/16)，敬請同學踴躍報名參與。",
-        "timestamp": "1714033834",
-        "url": "mail_display.php?timestamp=1714033834",
-        "date": "2024/04/25 16:30",
-        "department": "環境學院",
-        "author": {
-            "department": "環境學院",
-            "name": "謝家榛助理",
-            "email": "stoven@gms.ndhu.edu.tw",
-            "phone": "890-3267"
-        },
-        "attachmentCount": 1
     }
 ]

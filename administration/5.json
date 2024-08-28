@@ -1,5 +1,19 @@
 [
     {
+        "title": "壽豐校區體育館空調設備汰換施工公告",
+        "timestamp": "1723078334",
+        "url": "mail_display.php?timestamp=1723078334",
+        "date": "2024/08/08 08:52",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉景富",
+            "email": "nickak@gms.ndhu.edu.tw",
+            "phone": "03-8906373"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "圖書館論文系統恢復使用 The library's e-thesis/dissertations system is working",
         "timestamp": "1723029878",
         "url": "mail_display.php?timestamp=1723029878",
@@ -194,19 +208,5 @@
             "phone": "6329"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "人社一館第一講堂頂樓防水工程施工期程延期第1次公告(延長至8/31)",
-        "timestamp": "1722400070",
-        "url": "mail_display.php?timestamp=1722400070",
-        "date": "2024/07/31 12:27",
-        "department": "人文社會科學學院",
-        "author": {
-            "department": "人文社會科學學院",
-            "name": "吳雅萍",
-            "email": "ypwu@gms.ndhu.edu.tw",
-            "phone": "03-8935253"
-        },
-        "attachmentCount": 1
     }
 ]
