@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎學金申請】本校113-1學期「優秀碩、博士班新生入學獎學金」【Scholarship Application】NDHU entrance scholarship for master and Ph. D students who are academically excellent and intended for advanced studies",
+        "timestamp": "1723724427",
+        "url": "mail_display.php?timestamp=1723724427",
+        "date": "2024/08/15 20:20",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【獎助學金申請】本校113-1學期「德承玉馨獎助學金」 (非低收入戶，家逢變故或經濟困難)",
         "timestamp": "1723606699",
         "url": "mail_display.php?timestamp=1723606699",
@@ -194,19 +208,5 @@
             "phone": "5107"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【獎助學金申請】中華扶輪教育基金會「2024-25年度中華扶輪獎學金」(第二次通告)",
-        "timestamp": "1722933559",
-        "url": "mail_display.php?timestamp=1722933559",
-        "date": "2024/08/06 16:39",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]
