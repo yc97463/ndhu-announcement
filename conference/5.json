@@ -1,5 +1,19 @@
 [
     {
+        "title": "[0503 CSIE X ICDF SPEECH Bonus Hours] HEROIC ODYSSEY: A SONNET OF MY DAYS IN DIPLOMACY BY TAIWANICDF SECRETARY GENERAL CHARLES C. LI",
+        "timestamp": "1714125540",
+        "url": "mail_display.php?timestamp=1714125540",
+        "date": "2024/04/26 17:59",
+        "department": "資訊工程學系",
+        "author": {
+            "department": "資訊工程學系",
+            "name": "謝嘉文",
+            "email": "cbjiawen@gms.ndhu.edu.tw",
+            "phone": "8905026"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【更改線上視訊通知】認識環境教育\u0026環境科技產業-劉俊佑學長與許畹瑜學姐(5/16)，敬請同學踴躍報名參與。",
         "timestamp": "1714033834",
         "url": "mail_display.php?timestamp=1714033834",
@@ -194,19 +208,5 @@
             "phone": "03-8903155"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "【113年「雙語浪潮」教師社群講座活動】AI與寫作課程的愛與恨",
-        "timestamp": "1713258691",
-        "url": "mail_display.php?timestamp=1713258691",
-        "date": "2024/04/16 17:11",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 2
     }
 ]
