@@ -1,5 +1,19 @@
 [
     {
+        "title": "【活動公告】紅學中心與聯合文學合辦2024臺灣文學巡禮—花蓮場",
+        "timestamp": "1724838235",
+        "url": "mail_display.php?timestamp=1724838235",
+        "date": "2024/08/28 17:43",
+        "department": "國際紅學研究中心",
+        "author": {
+            "department": "國際紅學研究中心",
+            "name": "池助理",
+            "email": "tcsl@gms.ndhu.edu.tw",
+            "phone": "5403"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【考試】BESTEP 培力英檢測驗報名表-11/23 花蓮場",
         "timestamp": "1724815342",
         "url": "mail_display.php?timestamp=1724815342",
@@ -194,19 +208,5 @@
             "phone": "8906422"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【活動轉發】花蓮職人體驗活動【自行車帶路達人體驗】",
-        "timestamp": "1724116231",
-        "url": "mail_display.php?timestamp=1724116231",
-        "date": "2024/08/20 09:10",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "翁欣儀",
-            "email": "cari20240307@gms.ndhu.edu.tw",
-            "phone": "038903687"
-        },
-        "attachmentCount": 1
     }
 ]

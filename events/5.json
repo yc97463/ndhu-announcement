@@ -1,5 +1,19 @@
 [
     {
+        "title": "【單身聯誼】國立臺北教育大學辦理113年「浪漫來通關 夏戀GO幸福」單身聯誼活動實施計畫、行程表及報名資訊，請轉知並鼓勵符合資格之單身同仁踴躍報名參加。",
+        "timestamp": "1720590509",
+        "url": "mail_display.php?timestamp=1720590509",
+        "date": "2024/07/10 13:48",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "陳美杏",
+            "email": "msing@gms.ndhu.edu.tw",
+            "phone": "6053"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "[CSIE Speech: Physical \u0026 Online] 7/18 Navigating Taiwan: Legal Essentials for International Students",
         "timestamp": "1720589316",
         "url": "mail_display.php?timestamp=1720589316",
@@ -194,19 +208,5 @@
             "phone": "5107"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "2024印尼建國大學夏令營 Binus University Summer Program",
-        "timestamp": "1719887675",
-        "url": "mail_display.php?timestamp=1719887675",
-        "date": "2024/07/02 10:34",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "國際學生組",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5173"
-        },
-        "attachmentCount": 2
     }
 ]
