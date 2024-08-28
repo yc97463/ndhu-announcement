@@ -1,5 +1,19 @@
 [
     {
+        "title": "今日【2024心心相應 林斐文女高音獨唱會】",
+        "timestamp": "1722300441",
+        "url": "mail_display.php?timestamp=1722300441",
+        "date": "2024/07/30 08:47",
+        "department": "音樂學系",
+        "author": {
+            "department": "音樂學系",
+            "name": "張純倩",
+            "email": "asd963741@gms.ndhu.edu.tw",
+            "phone": "03-8905168"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【113學年新生入學活動】東華之夜表演團體票選啦！",
         "timestamp": "1721872690",
         "url": "mail_display.php?timestamp=1721872690",
@@ -192,20 +206,6 @@
             "name": "陳美杏",
             "email": "msing@gms.ndhu.edu.tw",
             "phone": "6053"
-        },
-        "attachmentCount": 5
-    },
-    {
-        "title": "[CSIE Speech: Physical \u0026 Online] 7/18 Navigating Taiwan: Legal Essentials for International Students",
-        "timestamp": "1720589316",
-        "url": "mail_display.php?timestamp=1720589316",
-        "date": "2024/07/10 13:28",
-        "department": "資訊工程學系",
-        "author": {
-            "department": "資訊工程學系",
-            "name": "謝嘉文",
-            "email": "cbjiawen@gms.ndhu.edu.tw",
-            "phone": "03-8905026"
         },
         "attachmentCount": 5
     }

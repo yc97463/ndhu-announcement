@@ -1,5 +1,33 @@
 [
     {
+        "title": "8/29(四)學人宿舍(包含幼稚園)停水公告",
+        "timestamp": "1724763755",
+        "url": "mail_display.php?timestamp=1724763755",
+        "date": "2024/08/27 21:02",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "學生活動中心化糞池埋設工程公告",
+        "timestamp": "1724750275",
+        "url": "mail_display.php?timestamp=1724750275",
+        "date": "2024/08/27 17:17",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "郭家銘",
+            "email": "jiaming7185@gms.ndhu.edu.tw",
+            "phone": "6372"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】國際單親兒童文教基金會2024「單親獎助學金」",
         "timestamp": "1724749196",
         "url": "mail_display.php?timestamp=1724749196",
@@ -178,34 +206,6 @@
             "name": "葉俊良",
             "email": "ycliang@gms.ndhu.edu.tw",
             "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【獎助學金申請】臺灣基督教門諾會門諾醫院「113年建教合作就學獎助」 (限宜花東籍管理及資訊相關大三及碩一)",
-        "timestamp": "1724725150",
-        "url": "mail_display.php?timestamp=1724725150",
-        "date": "2024/08/27 10:19",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "113年度自資系楊悠娟老師國科會計畫專任暨兼任助理徵才",
-        "timestamp": "1724721825",
-        "url": "mail_display.php?timestamp=1724721825",
-        "date": "2024/08/27 09:23",
-        "department": "環境學院",
-        "author": {
-            "department": "環境學院",
-            "name": "陳和毅助理",
-            "email": "erntmap@gmail.com",
-            "phone": "8905179"
         },
         "attachmentCount": 1
     }

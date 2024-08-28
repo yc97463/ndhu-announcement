@@ -1,5 +1,33 @@
 [
     {
+        "title": "擴大行政會議 會議紀錄公告通知",
+        "timestamp": "1724222334",
+        "url": "mail_display.php?timestamp=1724222334",
+        "date": "2024/08/21 14:38",
+        "department": "秘書室議事公文組",
+        "author": {
+            "department": "秘書室議事公文組",
+            "name": "陳婉婉",
+            "email": "secretariat@gms.ndhu.edu.tw",
+            "phone": "6004"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【獎助學金申請】台灣金融服務業聯合總會「113學年度金融服務業教育獎助學金」(家境清寒或家逢變故)",
+        "timestamp": "1724219627",
+        "url": "mail_display.php?timestamp=1724219627",
+        "date": "2024/08/21 13:53",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "113年8月23日(五)08:00~20:00壽豐校區配合台電公司線路保養全校區停電(第7次公告)",
         "timestamp": "1724217324",
         "url": "mail_display.php?timestamp=1724217324",
@@ -180,33 +208,5 @@
             "phone": "6057"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "📢【延長報名至8/23】原住民族廣播電台人才培育工作坊 Spii(夢想) 從東海岸起飛🔥🔥",
-        "timestamp": "1724142646",
-        "url": "mail_display.php?timestamp=1724142646",
-        "date": "2024/08/20 16:30",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "巴莉亞妲．蘇利伊",
-            "email": "damu@gms.ndhu.edu.tw",
-            "phone": "5824"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【獎助學金申請】法治推廣服務基金會113學年度獎學金（限法律相關系所）",
-        "timestamp": "1724142621",
-        "url": "mail_display.php?timestamp=1724142621",
-        "date": "2024/08/20 16:30",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]

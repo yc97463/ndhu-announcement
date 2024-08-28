@@ -1,5 +1,19 @@
 [
     {
+        "title": "【考試】BESTEP 培力英檢測驗報名表-11/23 花蓮場",
+        "timestamp": "1724815342",
+        "url": "mail_display.php?timestamp=1724815342",
+        "date": "2024/08/28 11:22",
+        "department": "語言中心",
+        "author": {
+            "department": "語言中心",
+            "name": "林瑜珊",
+            "email": "lc@gms.ndhu.edu.tw",
+            "phone": "03-8905492"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "公告113-1校核心資訊科技領域-「無人機操作與飛行創作」(初級程式設計)課程尚有名額，敬請踴躍加選課程",
         "timestamp": "1724736053",
         "url": "mail_display.php?timestamp=1724736053",
@@ -194,19 +208,5 @@
             "phone": "038903687"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【活動推推】SIG論壇-在地韌性社會重建",
-        "timestamp": "1724093460",
-        "url": "mail_display.php?timestamp=1724093460",
-        "date": "2024/08/20 02:51",
-        "department": "社會參與中心",
-        "author": {
-            "department": "社會參與中心",
-            "name": "黃小姐",
-            "email": "ellie@gms.ndhu.edu.tw",
-            "phone": "5242"
-        },
-        "attachmentCount": 3
     }
 ]
