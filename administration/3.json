@@ -1,5 +1,19 @@
 [
     {
+        "title": "新進人員資安宣導相關事宜",
+        "timestamp": "1724138600",
+        "url": "mail_display.php?timestamp=1724138600",
+        "date": "2024/08/20 15:23",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "蕭澤宇",
+            "email": "zyhsiao@gms.ndhu.edu.tw",
+            "phone": "(03)890-6727"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "禁用遠端桌面服務【第一次公告】",
         "timestamp": "1724136987",
         "url": "mail_display.php?timestamp=1724136987",
@@ -192,20 +206,6 @@
             "name": "林志軒",
             "email": "chshlin@gms.ndhu.edu.tw",
             "phone": "6752"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【重要公告】總務處各組回歸行政大樓時間公告（第2次公告）",
-        "timestamp": "1724028639",
-        "url": "mail_display.php?timestamp=1724028639",
-        "date": "2024/08/19 08:50",
-        "department": "總務處",
-        "author": {
-            "department": "總務處",
-            "name": "陳宇欽",
-            "email": "yuchin@gms.ndhu.edu.tw",
-            "phone": "分機6307"
         },
         "attachmentCount": 0
     }
