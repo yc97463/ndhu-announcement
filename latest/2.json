@@ -1,5 +1,19 @@
 [
     {
+        "title": "【實習】臺中市政府社會局114年暑假實習。",
+        "timestamp": "1724814797",
+        "url": "mail_display.php?timestamp=1724814797",
+        "date": "2024/08/28 11:13",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【徵才公告】國立東華大學總務處環保組徵聘【校務基金助理】",
         "timestamp": "1724811647",
         "url": "mail_display.php?timestamp=1724811647",
@@ -194,19 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "學生活動中心化糞池埋設工程公告",
-        "timestamp": "1724750275",
-        "url": "mail_display.php?timestamp=1724750275",
-        "date": "2024/08/27 17:17",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "郭家銘",
-            "email": "jiaming7185@gms.ndhu.edu.tw",
-            "phone": "6372"
-        },
-        "attachmentCount": 1
     }
 ]
