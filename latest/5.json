@@ -1,5 +1,19 @@
 [
     {
+        "title": "集賢館噪音防制工程施工公告",
+        "timestamp": "1724740461",
+        "url": "mail_display.php?timestamp=1724740461",
+        "date": "2024/08/27 14:34",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "許珅銘",
+            "email": "600130@gms.ndhu.edu.tw",
+            "phone": "6375"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【訊息轉知】國立高雄科技大學開設6門磨課師(MOOCs)線上課程",
         "timestamp": "1724739097",
         "url": "mail_display.php?timestamp=1724739097",
@@ -194,19 +208,5 @@
             "phone": "6392"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "重申禁用危害國家資通訊產品相關規定",
-        "timestamp": "1724659294",
-        "url": "mail_display.php?timestamp=1724659294",
-        "date": "2024/08/26 16:01",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "蕭澤宇",
-            "email": "zyhsiao@gms.ndhu.edu.tw",
-            "phone": "(03)890-6727"
-        },
-        "attachmentCount": 2
     }
 ]
