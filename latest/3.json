@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】救國團屏東縣團委會「113年度公益基金會獎學金」(限屏東縣籍低收入戶)",
+        "timestamp": "1724746904",
+        "url": "mail_display.php?timestamp=1724746904",
+        "date": "2024/08/27 16:21",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】國瑞汽車股份有限公司2024年「國瑞獎助學金」(限低或中低收入戶原住民)",
         "timestamp": "1724743960",
         "url": "mail_display.php?timestamp=1724743960",
@@ -194,19 +208,5 @@
             "phone": "6057"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "湖畔電梯故障維修公告",
-        "timestamp": "1724670497",
-        "url": "mail_display.php?timestamp=1724670497",
-        "date": "2024/08/26 19:08",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
     }
 ]
