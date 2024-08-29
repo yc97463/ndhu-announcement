@@ -1,5 +1,19 @@
 [
     {
+        "title": "原民新生運動會暨迎新晚會",
+        "timestamp": "1724910910",
+        "url": "mail_display.php?timestamp=1724910910",
+        "date": "2024/08/29 13:55",
+        "department": "學務處 原住民族學生資源中心",
+        "author": {
+            "department": "學務處 原住民族學生資源中心",
+            "name": "曾暐娟",
+            "email": "kinu@gms.ndhu.edu.tw",
+            "phone": "(03)890-5759"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "招募113-114年花蓮縣「學校青年服勤大隊」東華大學中隊 服勤人員",
         "timestamp": "1724910909",
         "url": "mail_display.php?timestamp=1724910909",
@@ -194,19 +208,5 @@
             "phone": "6053"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【獎助學金申請】本校113學年度「任江履昇女士清寒獎學金」",
-        "timestamp": "1724865548",
-        "url": "mail_display.php?timestamp=1724865548",
-        "date": "2024/08/29 01:19",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]
