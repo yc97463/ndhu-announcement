@@ -1,5 +1,19 @@
 [
     {
+        "title": "本校113學年9月開學校內委外廠商營業時間公告",
+        "timestamp": "1724808564",
+        "url": "mail_display.php?timestamp=1724808564",
+        "date": "2024/08/28 09:29",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "賴榮璉",
+            "email": "chrishnalai@gms.ndhu.edu.tw",
+            "phone": "6237"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【獎學金申請】《113學年度》宗燦獎學金",
         "timestamp": "1724808485",
         "url": "mail_display.php?timestamp=1724808485",
@@ -194,19 +208,5 @@
             "phone": "03-8906219"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【更正起聘日】國立東華大學英美語文學系徵聘【行政助理】一名",
-        "timestamp": "1724749166",
-        "url": "mail_display.php?timestamp=1724749166",
-        "date": "2024/08/27 16:59",
-        "department": "英美語文學系",
-        "author": {
-            "department": "英美語文學系",
-            "name": "劉珮萱",
-            "email": "peisyaun639@gms.ndhu.edu.tw",
-            "phone": "5294"
-        },
-        "attachmentCount": 0
     }
 ]
