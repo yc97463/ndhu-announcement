@@ -1,5 +1,19 @@
 [
     {
+        "title": "【公告】本校擬銷毀民國97年度至100年度之會計報告、帳簿、傳票等相關會計憑證",
+        "timestamp": "1724049150",
+        "url": "mail_display.php?timestamp=1724049150",
+        "date": "2024/08/19 14:32",
+        "department": "主計室",
+        "author": {
+            "department": "主計室",
+            "name": "曾俊達",
+            "email": "kleiber0576@gms.ndhu.edu.tw",
+            "phone": "(03)8906079"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "今天8/19(一)中午志學門路口水泥灌漿管制公告",
         "timestamp": "1724040038",
         "url": "mail_display.php?timestamp=1724040038",
@@ -194,19 +208,5 @@
             "phone": "5173"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【網路服務維運公告】TWAREN SSL-VPN維護公告",
-        "timestamp": "1723597306",
-        "url": "mail_display.php?timestamp=1723597306",
-        "date": "2024/08/14 09:01",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "李宇峰",
-            "email": "eric@mail.ndhu.edu.tw",
-            "phone": "03-8906721"
-        },
-        "attachmentCount": 1
     }
 ]

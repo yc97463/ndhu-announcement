@@ -1,5 +1,19 @@
 [
     {
+        "title": "歷史系專題演講：全球化與全球南方的抵抗",
+        "timestamp": "1714980398",
+        "url": "mail_display.php?timestamp=1714980398",
+        "date": "2024/05/06 15:26",
+        "department": "歷史學系",
+        "author": {
+            "department": "歷史學系",
+            "name": "吳助理",
+            "email": "suju1106@gms.ndhu.edu.tw",
+            "phone": "5323"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "AI應用，你準備好了嗎？",
         "timestamp": "1714958344",
         "url": "mail_display.php?timestamp=1714958344",
@@ -192,20 +206,6 @@
             "name": "吳其璁",
             "email": "dci93031@gms.ndhu.edu.tw",
             "phone": "03-8903687"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【華語碩博班-演講公告】2024.05.02 孟柱億 教授「從工具觀的視角探討華語語音教學的流程和方法」",
-        "timestamp": "1714128102",
-        "url": "mail_display.php?timestamp=1714128102",
-        "date": "2024/04/26 18:41",
-        "department": "國際紅學研究中心",
-        "author": {
-            "department": "國際紅學研究中心",
-            "name": "阮氏玉映",
-            "email": "rdrc@gms.ndhu.edu.tw",
-            "phone": "0909039764"
         },
         "attachmentCount": 2
     }

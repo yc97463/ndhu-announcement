@@ -1,5 +1,33 @@
 [
     {
+        "title": "配合學生宿舍開放入住，調整9月5日至9月7日垃圾車清運時段及地點。",
+        "timestamp": "1724805426",
+        "url": "mail_display.php?timestamp=1724805426",
+        "date": "2024/08/28 08:37",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "許智翔",
+            "email": "cocco3746@gms.ndhu.edu.tw",
+            "phone": "03-8906399"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【獎助學金申請】高雄市113-1清寒優秀學生獎學金 (限高雄市籍低或中低收)",
+        "timestamp": "1724775271",
+        "url": "mail_display.php?timestamp=1724775271",
+        "date": "2024/08/28 00:14",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】太魯閣國家公園管理處113年轄區及周邊住民優秀學生獎助學金",
         "timestamp": "1724773537",
         "url": "mail_display.php?timestamp=1724773537",
@@ -180,33 +208,5 @@
             "phone": "8906422"
         },
         "attachmentCount": 8
-    },
-    {
-        "title": "禁用遠端桌面服務【第二次公告】",
-        "timestamp": "1724738466",
-        "url": "mail_display.php?timestamp=1724738466",
-        "date": "2024/08/27 14:01",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "黃金城",
-            "email": "hjc@gms.ndhu.edu.tw",
-            "phone": "6724"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【獎助學金申請】台灣松樑教育公益促進協會113學年度「教育公益促進協會助學金」(限電機、電子相關學系家境清寒)",
-        "timestamp": "1724737641",
-        "url": "mail_display.php?timestamp=1724737641",
-        "date": "2024/08/27 13:47",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]

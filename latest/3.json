@@ -1,5 +1,33 @@
 [
     {
+        "title": "【獎助學金申請】臺中市113-1勤學優秀學生獎學金 (限台中市籍低或中低收入戶或家逢變故)",
+        "timestamp": "1724857065",
+        "url": "mail_display.php?timestamp=1724857065",
+        "date": "2024/08/28 22:57",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【獎助學金申請】感恩聖仁社會福利慈善基金會113-1「關懷大學院校經濟弱勢學生助學金」(限低或中低收入戶或重大變故)",
+        "timestamp": "1724855205",
+        "url": "mail_display.php?timestamp=1724855205",
+        "date": "2024/08/28 22:26",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【論文獎助】國立政治大學南島研究講座辦公室「2024年第二梯次南島研究獎學金」",
         "timestamp": "1724853296",
         "url": "mail_display.php?timestamp=1724853296",
@@ -180,33 +208,5 @@
             "phone": "6013"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "配合學生宿舍開放入住，調整9月5日至9月7日垃圾車清運時段及地點。",
-        "timestamp": "1724805426",
-        "url": "mail_display.php?timestamp=1724805426",
-        "date": "2024/08/28 08:37",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "許智翔",
-            "email": "cocco3746@gms.ndhu.edu.tw",
-            "phone": "03-8906399"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【獎助學金申請】高雄市113-1清寒優秀學生獎學金 (限高雄市籍低或中低收)",
-        "timestamp": "1724775271",
-        "url": "mail_display.php?timestamp=1724775271",
-        "date": "2024/08/28 00:14",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]
