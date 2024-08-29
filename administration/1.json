@@ -1,5 +1,19 @@
 [
     {
+        "title": "明日8/30(五)至9/1(日)志學門禁止通行公告",
+        "timestamp": "1724920374",
+        "url": "mail_display.php?timestamp=1724920374",
+        "date": "2024/08/29 16:32",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "黃章傑",
+            "email": "cotycafe@gms.ndhu.edu.tw",
+            "phone": "5778"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "內政部提供113年學生校外租屋合理行情參考",
         "timestamp": "1724919545",
         "url": "mail_display.php?timestamp=1724919545",
@@ -194,19 +208,5 @@
             "phone": "8906607"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "113-1校核心通識課程異動(增開及停開課程)公告",
-        "timestamp": "1724735821",
-        "url": "mail_display.php?timestamp=1724735821",
-        "date": "2024/08/27 13:17",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 1
     }
 ]

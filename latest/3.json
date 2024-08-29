@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】中華電信基金會113學年度方賢齊先生獎學金 (限家境清寒就讀理工、資訊、管理、商或傳播)",
+        "timestamp": "1724859840",
+        "url": "mail_display.php?timestamp=1724859840",
+        "date": "2024/08/28 23:44",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】臺中市113-1勤學優秀學生獎學金 (限台中市籍低或中低收入戶或家逢變故)",
         "timestamp": "1724857065",
         "url": "mail_display.php?timestamp=1724857065",
@@ -194,19 +208,5 @@
             "phone": "03-890-5920"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【政風宣導】本（113）年度中秋節期間，加強宣導「公務員廉政倫理規範」並落實廉政倫理事件登錄",
-        "timestamp": "1724805811",
-        "url": "mail_display.php?timestamp=1724805811",
-        "date": "2024/08/28 08:43",
-        "department": "秘書室公關宣傳組",
-        "author": {
-            "department": "秘書室公關宣傳組",
-            "name": "林佩瑤",
-            "email": "peiyao@gms.ndhu.edu.tw",
-            "phone": "6013"
-        },
-        "attachmentCount": 0
     }
 ]
