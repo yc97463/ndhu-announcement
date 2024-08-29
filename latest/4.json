@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】林熊徵學田基金會113年獎學金",
+        "timestamp": "1724720326",
+        "url": "mail_display.php?timestamp=1724720326",
+        "date": "2024/08/27 08:58",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【公告】敬邀本校教職員參加113年度中秋節暨教師節聯誼餐會。",
         "timestamp": "1724719018",
         "url": "mail_display.php?timestamp=1724719018",
@@ -194,19 +208,5 @@
             "phone": "6057"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "113年度自資系楊悠娟老師國科會計畫專任暨兼任助理徵才",
-        "timestamp": "1724306637",
-        "url": "mail_display.php?timestamp=1724306637",
-        "date": "2024/08/22 14:03",
-        "department": "環境學院",
-        "author": {
-            "department": "環境學院",
-            "name": "陳和毅助理",
-            "email": "erntmap@gmail.com",
-            "phone": "8905179"
-        },
-        "attachmentCount": 1
     }
 ]
