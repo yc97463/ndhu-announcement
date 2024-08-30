@@ -1,5 +1,19 @@
 [
     {
+        "title": "認識自資系，我們走吧！",
+        "timestamp": "1724975701",
+        "url": "mail_display.php?timestamp=1724975701",
+        "date": "2024/08/30 07:55",
+        "department": "環境暨海洋學院 自然資源與環境學系",
+        "author": {
+            "department": "環境暨海洋學院 自然資源與環境學系",
+            "name": "夏懿心",
+            "email": "411254023@gms.ndhu.edu.tw",
+            "phone": "陳郁淇"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "[極重要]明日8/30(五)至9/1(日)志學門禁止通行公告",
         "timestamp": "1724923301",
         "url": "mail_display.php?timestamp=1724923301",
@@ -192,20 +206,6 @@
             "name": "顏杏如",
             "email": "carolineyen@gms.ndhu.edu.tw",
             "phone": "3003"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【出國交換】9月11日12:10「113-1國際交換學生甄選說明會」",
-        "timestamp": "1724910911",
-        "url": "mail_display.php?timestamp=1724910911",
-        "date": "2024/08/29 13:55",
-        "department": "國際事務處 國際學生組",
-        "author": {
-            "department": "國際事務處 國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
         },
         "attachmentCount": 0
     }
