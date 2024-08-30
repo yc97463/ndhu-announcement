@@ -1,6 +1,20 @@
 [
     {
         "title": "113學年度第1學期學雜費繳費單(113/08/19)可以下載囉！",
+        "timestamp": "1724060105",
+        "url": "mail_display.php?timestamp=1724060105",
+        "date": "2024/08/19 17:35",
+        "department": "總務處出納組",
+        "author": {
+            "department": "總務處出納組",
+            "name": "鄧瑞美",
+            "email": "deng@gms.ndhu.edu.tw",
+            "phone": "03-8906366"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "113學年度第1學期學雜費繳費單(113/08/19)可以下載囉！",
         "timestamp": "1724060104",
         "url": "mail_display.php?timestamp=1724060104",
         "date": "2024/08/19 17:35",
@@ -194,19 +208,5 @@
             "phone": "6057"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "113學年度行政大樓地下室機車停車格開放申請公告",
-        "timestamp": "1723684931",
-        "url": "mail_display.php?timestamp=1723684931",
-        "date": "2024/08/15 09:22",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 1
     }
 ]
