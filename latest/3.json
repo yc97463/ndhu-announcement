@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才公告】國立東華大學民族語言與傳播學系誠徵助理職務代理人一名",
+        "timestamp": "1724900622",
+        "url": "mail_display.php?timestamp=1724900622",
+        "date": "2024/08/29 11:03",
+        "department": "原住民民族學院",
+        "author": {
+            "department": "原住民民族學院",
+            "name": "巴莉亞妲‧蘇利伊",
+            "email": "damu@gms.ndhu.edu.tw",
+            "phone": "(03)8905824"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【傑出校友選拔】國立體育大學辦理113學年度傑出校友遴選相關事宜。",
         "timestamp": "1724889655",
         "url": "mail_display.php?timestamp=1724889655",
@@ -194,19 +208,5 @@
             "phone": "03-8906399"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "本校113學年9月開學校內委外廠商營業時間公告",
-        "timestamp": "1724808564",
-        "url": "mail_display.php?timestamp=1724808564",
-        "date": "2024/08/28 09:29",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "賴榮璉",
-            "email": "chrishnalai@gms.ndhu.edu.tw",
-            "phone": "6237"
-        },
-        "attachmentCount": 2
     }
 ]
