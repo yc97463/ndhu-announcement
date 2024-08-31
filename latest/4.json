@@ -1,5 +1,19 @@
 [
     {
+        "title": "【訊息轉知】弘光科技大學開設6門磨課師(MOOCs)線上課程",
+        "timestamp": "1724816892",
+        "url": "mail_display.php?timestamp=1724816892",
+        "date": "2024/08/28 11:48",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 8
+    },
+    {
         "title": "【考試】BESTEP 培力英檢測驗報名表-11/23 花蓮場",
         "timestamp": "1724815342",
         "url": "mail_display.php?timestamp=1724815342",
@@ -194,19 +208,5 @@
             "phone": "038906059"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【獎助學金申請】台北市廣東同鄉會112學年度粵籍大專學生獎助學金",
-        "timestamp": "1724766025",
-        "url": "mail_display.php?timestamp=1724766025",
-        "date": "2024/08/27 21:40",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "【Student Dormitory】Deposit and Claim of Luggage Services",
+        "timestamp": "1724910799",
+        "url": "mail_display.php?timestamp=1724910799",
+        "date": "2024/08/29 13:53",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "鍾佩玲",
+            "email": "free22011@gms.ndhu.edu.tw",
+            "phone": "03890-6217"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【學生宿舍】寄放行李領取服務相關事宜，請務必詳閱，並配合與遵守！",
         "timestamp": "1724910670",
         "url": "mail_display.php?timestamp=1724910670",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【訊息轉知】弘光科技大學開設6門磨課師(MOOCs)線上課程",
-        "timestamp": "1724816892",
-        "url": "mail_display.php?timestamp=1724816892",
-        "date": "2024/08/28 11:48",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 8
     }
 ]
