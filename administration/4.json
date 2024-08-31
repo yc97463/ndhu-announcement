@@ -1,5 +1,19 @@
 [
     {
+        "title": "The tuition and miscellaneous fees payment form for the first semester of 2024 academic year can be downloaded from August 19!",
+        "timestamp": "1724060325",
+        "url": "mail_display.php?timestamp=1724060325",
+        "date": "2024/08/19 17:38",
+        "department": "總務處出納組",
+        "author": {
+            "department": "總務處出納組",
+            "name": "鄧瑞美",
+            "email": "deng@gms.ndhu.edu.tw",
+            "phone": "03-8906366"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "113學年度第1學期學雜費繳費單(113/08/19)可以下載囉！",
         "timestamp": "1724060105",
         "url": "mail_display.php?timestamp=1724060105",
@@ -194,19 +208,5 @@
             "phone": "8906852"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【第2次公告】本校113年8月20日至9月1日兼任助理、臨時工及工讀生等勞健保受理期間，因配合台電公司113年8月23日(星期五)69KV「光華-華紙、東華線」輸變電設備維護之停電及系統停機，提前於113年8月20日(二)下午17時截止收件；9月2日起恢復至提前3個工作日前送件，請特別注意時程掌握。",
-        "timestamp": "1723689861",
-        "url": "mail_display.php?timestamp=1723689861",
-        "date": "2024/08/15 10:44",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "陳治豪",
-            "email": "jackchen168@gms.ndhu.edu.tw",
-            "phone": "6057"
-        },
-        "attachmentCount": 0
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "集賢館噪音防制工程施工公告",
+        "timestamp": "1724740461",
+        "url": "mail_display.php?timestamp=1724740461",
+        "date": "2024/08/27 14:34",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "許珅銘",
+            "email": "600130@gms.ndhu.edu.tw",
+            "phone": "6375"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "禁用遠端桌面服務【第二次公告】",
         "timestamp": "1724738466",
         "url": "mail_display.php?timestamp=1724738466",
@@ -192,20 +206,6 @@
             "name": "林志軒",
             "email": "chshlin@gms.ndhu.edu.tw",
             "phone": "6752"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "清洗蓄水池及水塔停水通知",
-        "timestamp": "1724222958",
-        "url": "mail_display.php?timestamp=1724222958",
-        "date": "2024/08/21 14:49",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "陳泳志",
-            "email": "c593215@gms.ndhu.edu.tw",
-            "phone": "6390"
         },
         "attachmentCount": 0
     }

@@ -1,5 +1,19 @@
 [
     {
+        "title": "【學生宿舍】寄放行李領取服務相關事宜，請務必詳閱，並配合與遵守！",
+        "timestamp": "1724910670",
+        "url": "mail_display.php?timestamp=1724910670",
+        "date": "2024/08/29 13:51",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "鍾佩玲",
+            "email": "free22011@gms.ndhu.edu.tw",
+            "phone": "038906217"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才】銘傳大學辦理臺灣菸酒股份有限公司113年從業職員及從業評價職位人員甄試",
         "timestamp": "1724909895",
         "url": "mail_display.php?timestamp=1724909895",
@@ -194,19 +208,5 @@
             "phone": "8906422"
         },
         "attachmentCount": 8
-    },
-    {
-        "title": "【考試】BESTEP 培力英檢測驗報名表-11/23 花蓮場",
-        "timestamp": "1724815342",
-        "url": "mail_display.php?timestamp=1724815342",
-        "date": "2024/08/28 11:22",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "林瑜珊",
-            "email": "lc@gms.ndhu.edu.tw",
-            "phone": "03-8905492"
-        },
-        "attachmentCount": 3
     }
 ]
