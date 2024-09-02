@@ -1,5 +1,33 @@
 [
     {
+        "title": "【獎助學金申請】苗栗縣113-1清寒優秀學生獎學金 (限苗栗縣籍)",
+        "timestamp": "1724768152",
+        "url": "mail_display.php?timestamp=1724768152",
+        "date": "2024/08/27 22:15",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【投票通知】(更正)辦理本校113至114學年度校務基金工作人員陞遷暨考核委員會票選委員遴選。",
+        "timestamp": "1724766491",
+        "url": "mail_display.php?timestamp=1724766491",
+        "date": "2024/08/27 21:48",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "林淑惠",
+            "email": "linsh@gms.ndhu.edu.tw",
+            "phone": "038906059"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【獎助學金申請】台北市廣東同鄉會112學年度粵籍大專學生獎助學金",
         "timestamp": "1724766025",
         "url": "mail_display.php?timestamp=1724766025",
@@ -178,34 +206,6 @@
             "name": "陳美娥",
             "email": "mayer@gms.ndhu.edu.tw",
             "phone": "8906607"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【論文獎助】文化部113年度文化藝術政策博碩士論文獎勵",
-        "timestamp": "1724732355",
-        "url": "mail_display.php?timestamp=1724732355",
-        "date": "2024/08/27 12:19",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【論文獎助】澎湖縣政府113年「縣政建設學位論文獎勵」",
-        "timestamp": "1724730962",
-        "url": "mail_display.php?timestamp=1724730962",
-        "date": "2024/08/27 11:56",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
         },
         "attachmentCount": 1
     }
