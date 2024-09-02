@@ -1,5 +1,19 @@
 [
     {
+        "title": "國立東華大學理工學院 電機工程學系系主任徵求公告",
+        "timestamp": "1725244526",
+        "url": "mail_display.php?timestamp=1725244526",
+        "date": "2024/09/02 10:35",
+        "department": "理工學院",
+        "author": {
+            "department": "理工學院",
+            "name": "潘小姐",
+            "email": "tzuyu@gms.ndhu.edu.tw",
+            "phone": "3502"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【徵才公告】國立東華大學民族語言與傳播學系誠徵助理職務代理人一名",
         "timestamp": "1724900622",
         "url": "mail_display.php?timestamp=1724900622",
@@ -194,19 +208,5 @@
             "phone": "6057"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【徵才訊息】本校總務處(事務組) 招聘校務基金助理",
-        "timestamp": "1723423988",
-        "url": "mail_display.php?timestamp=1723423988",
-        "date": "2024/08/12 08:53",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 2
     }
 ]
