@@ -1,5 +1,33 @@
 [
     {
+        "title": "【實習】臺中市政府社會局114年暑假實習。",
+        "timestamp": "1724814797",
+        "url": "mail_display.php?timestamp=1724814797",
+        "date": "2024/08/28 11:13",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "【徵才公告】國立東華大學總務處環保組徵聘【校務基金助理】",
+        "timestamp": "1724811647",
+        "url": "mail_display.php?timestamp=1724811647",
+        "date": "2024/08/28 10:20",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "許智翔",
+            "email": "cocco3746@gms.ndhu.edu.tw",
+            "phone": "03-8906399"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "本校113學年9月開學校內委外廠商營業時間公告",
         "timestamp": "1724808564",
         "url": "mail_display.php?timestamp=1724808564",
@@ -180,33 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "學生活動中心化糞池埋設工程公告",
-        "timestamp": "1724750275",
-        "url": "mail_display.php?timestamp=1724750275",
-        "date": "2024/08/27 17:17",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "郭家銘",
-            "email": "jiaming7185@gms.ndhu.edu.tw",
-            "phone": "6372"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【獎助學金申請】國際單親兒童文教基金會2024「單親獎助學金」",
-        "timestamp": "1724749196",
-        "url": "mail_display.php?timestamp=1724749196",
-        "date": "2024/08/27 16:59",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]

@@ -1,5 +1,33 @@
 [
     {
+        "title": "縱谷七大家族年度成果展覽",
+        "timestamp": "1725260059",
+        "url": "mail_display.php?timestamp=1725260059",
+        "date": "2024/09/02 14:54",
+        "department": "縱谷跨域書院學士學位學程",
+        "author": {
+            "department": "縱谷跨域書院學士學位學程",
+            "name": "蔡怡臻",
+            "email": "rvis@gms.ndhu.edu.tw",
+            "phone": "6023"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "體育館『體能訓練室』113-1學期開放申請公告",
+        "timestamp": "1725259632",
+        "url": "mail_display.php?timestamp=1725259632",
+        "date": "2024/09/02 14:47",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "沈正雄",
+            "email": "chshen@gms.ndhu.edu.tw",
+            "phone": "6618"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【轉知】勞動部勞動力發展署技能檢定中心3職類裁判長公開遴選。",
         "timestamp": "1725257434",
         "url": "mail_display.php?timestamp=1725257434",
@@ -180,33 +208,5 @@
             "phone": "6813"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【學習與創意講座】告別瞎忙的有效時間管理術",
-        "timestamp": "1725062101",
-        "url": "mail_display.php?timestamp=1725062101",
-        "date": "2024/08/31 07:55",
-        "department": "教學卓越中心 教學與學習組",
-        "author": {
-            "department": "教學卓越中心 教學與學習組",
-            "name": "方紀蘋",
-            "email": "viya@gms.ndhu.edu.tw",
-            "phone": "6593"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "自今(30)日晚間8時起開放志學門出口單線雙向通行公告",
-        "timestamp": "1725025666",
-        "url": "mail_display.php?timestamp=1725025666",
-        "date": "2024/08/30 21:47",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "黃章傑",
-            "email": "cotycafe@gms.ndhu.edu.tw",
-            "phone": "5778"
-        },
-        "attachmentCount": 1
     }
 ]
