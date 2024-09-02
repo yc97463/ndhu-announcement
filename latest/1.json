@@ -1,6 +1,20 @@
 [
     {
         "title": "【受贈通知】各單位年度 (112.10.1-113.9.30)接受非現金捐贈達10萬元以上調查",
+        "timestamp": "1725254322",
+        "url": "mail_display.php?timestamp=1725254322",
+        "date": "2024/09/02 13:18",
+        "department": "秘書室公關宣傳組",
+        "author": {
+            "department": "秘書室公關宣傳組",
+            "name": "林佩瑤",
+            "email": "peiyao@gms.ndhu.edu.tw",
+            "phone": "6013"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【受贈通知】各單位年度 (112.10.1-113.9.30)接受非現金捐贈達10萬元以上調查",
         "timestamp": "1725254157",
         "url": "mail_display.php?timestamp=1725254157",
         "date": "2024/09/02 13:15",
@@ -192,20 +206,6 @@
             "name": "夏懿心",
             "email": "411254023@gms.ndhu.edu.tw",
             "phone": "陳郁淇"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "[極重要]明日8/30(五)至9/1(日)志學門禁止通行公告",
-        "timestamp": "1724923301",
-        "url": "mail_display.php?timestamp=1724923301",
-        "date": "2024/08/29 17:21",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "黃章傑",
-            "email": "cotycafe@gms.ndhu.edu.tw",
-            "phone": "5778"
         },
         "attachmentCount": 0
     }
