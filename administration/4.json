@@ -1,5 +1,33 @@
 [
     {
+        "title": "人社一、二館牆面修復施工公告",
+        "timestamp": "1724136643",
+        "url": "mail_display.php?timestamp=1724136643",
+        "date": "2024/08/20 14:50",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "許珅銘",
+            "email": "600130@gms.ndhu.edu.tw",
+            "phone": "863-6375"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "本校編制內教職員工113學年度第1學期子女教育補助費自即日起受理申請，檢附【子女教育補助申請表】1份，請於113年9月18日(星期三)前送人事室彙辦。",
+        "timestamp": "1724132325",
+        "url": "mail_display.php?timestamp=1724132325",
+        "date": "2024/08/20 13:38",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "劉昱淩",
+            "email": "e56187@gms.ndhu.edu.tw",
+            "phone": "890-6056"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【推廣教育重要通知】112學年第2學期課程資料填報作業暨系統改版通知",
         "timestamp": "1724119482",
         "url": "mail_display.php?timestamp=1724119482",
@@ -178,34 +206,6 @@
             "name": "陳宇欽",
             "email": "yuchin@gms.ndhu.edu.tw",
             "phone": "分機6307"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "113年度壽豐校區高壓設備檢測8月份即將停電排程(第6次公告)",
-        "timestamp": "1723865149",
-        "url": "mail_display.php?timestamp=1723865149",
-        "date": "2024/08/17 11:25",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉景富",
-            "email": "nickak@gms.ndhu.edu.tw",
-            "phone": "(03)8906373"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "圖書館貨梯及原民院電梯1故障維修公告",
-        "timestamp": "1723814038",
-        "url": "mail_display.php?timestamp=1723814038",
-        "date": "2024/08/16 21:13",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
         },
         "attachmentCount": 0
     }

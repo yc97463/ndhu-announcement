@@ -1,5 +1,47 @@
 [
     {
+        "title": "【獎助學金申請】感恩聖仁社會福利慈善基金會113-1「關懷大學院校經濟弱勢學生助學金」(限低或中低收入戶或重大變故)",
+        "timestamp": "1724855205",
+        "url": "mail_display.php?timestamp=1724855205",
+        "date": "2024/08/28 22:26",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【論文獎助】國立政治大學南島研究講座辦公室「2024年第二梯次南島研究獎學金」",
+        "timestamp": "1724853296",
+        "url": "mail_display.php?timestamp=1724853296",
+        "date": "2024/08/28 21:54",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【活動公告】紅學中心與聯合文學合辦2024臺灣文學巡禮—花蓮場",
+        "timestamp": "1724838235",
+        "url": "mail_display.php?timestamp=1724838235",
+        "date": "2024/08/28 17:43",
+        "department": "國際紅學研究中心",
+        "author": {
+            "department": "國際紅學研究中心",
+            "name": "池助理",
+            "email": "tcsl@gms.ndhu.edu.tw",
+            "phone": "5403"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": " 8/29(四)至9/1(日)志學門出入口道路改善工程管制公告",
         "timestamp": "1724827614",
         "url": "mail_display.php?timestamp=1724827614",
@@ -166,47 +208,5 @@
             "phone": "03-8906399"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【獎助學金申請】高雄市113-1清寒優秀學生獎學金 (限高雄市籍低或中低收)",
-        "timestamp": "1724775271",
-        "url": "mail_display.php?timestamp=1724775271",
-        "date": "2024/08/28 00:14",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【獎助學金申請】太魯閣國家公園管理處113年轄區及周邊住民優秀學生獎助學金",
-        "timestamp": "1724773537",
-        "url": "mail_display.php?timestamp=1724773537",
-        "date": "2024/08/27 23:45",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【獎助學金申請】彰化縣113-1自強優秀學生獎學金 (限彰化縣籍)",
-        "timestamp": "1724771103",
-        "url": "mail_display.php?timestamp=1724771103",
-        "date": "2024/08/27 23:05",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]
