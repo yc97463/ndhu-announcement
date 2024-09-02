@@ -1,5 +1,33 @@
 [
     {
+        "title": "湖畔電梯故障維修公告",
+        "timestamp": "1724670497",
+        "url": "mail_display.php?timestamp=1724670497",
+        "date": "2024/08/26 19:08",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "全校區緊急停水公告",
+        "timestamp": "1724561631",
+        "url": "mail_display.php?timestamp=1724561631",
+        "date": "2024/08/25 12:53",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "張宗豪",
+            "email": "Zonghao@gms.ndhu.edu.tw",
+            "phone": "890-6389"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才】臺北市就業服務處113年9月20日辦理「職得你薪」徵才活動",
         "timestamp": "1724304304",
         "url": "mail_display.php?timestamp=1724304304",
@@ -180,33 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "【徵才】國家中山科學研究院「113年第28次專案人力進用招考甄試」(資訊通信研究所)",
-        "timestamp": "1724126308",
-        "url": "mail_display.php?timestamp=1724126308",
-        "date": "2024/08/20 11:58",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【活動轉發】花蓮職人體驗活動【自行車帶路達人體驗】",
-        "timestamp": "1724116231",
-        "url": "mail_display.php?timestamp=1724116231",
-        "date": "2024/08/20 09:10",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "翁欣儀",
-            "email": "cari20240307@gms.ndhu.edu.tw",
-            "phone": "038903687"
-        },
-        "attachmentCount": 1
     }
 ]
