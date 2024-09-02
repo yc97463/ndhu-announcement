@@ -1,5 +1,19 @@
 [
     {
+        "title": "本校113年9月4日至7日辦理全校建築物室外病媒防治消毒。",
+        "timestamp": "1724634722",
+        "url": "mail_display.php?timestamp=1724634722",
+        "date": "2024/08/26 09:12",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "許智翔",
+            "email": "cocco3746@gms.ndhu.edu.tw",
+            "phone": "03-8906399"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "全校區緊急停水公告",
         "timestamp": "1724561631",
         "url": "mail_display.php?timestamp=1724561631",
@@ -194,19 +208,5 @@
             "phone": "(03)890-6727"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "禁用遠端桌面服務【第一次公告】",
-        "timestamp": "1724136987",
-        "url": "mail_display.php?timestamp=1724136987",
-        "date": "2024/08/20 14:56",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "黃金城",
-            "email": "hjc@gms.ndhu.edu.tw",
-            "phone": "6724"
-        },
-        "attachmentCount": 0
     }
 ]

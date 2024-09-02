@@ -1,5 +1,33 @@
 [
     {
+        "title": "113學年度第1學期管理學院國際交換生分享說明會",
+        "timestamp": "1724910912",
+        "url": "mail_display.php?timestamp=1724910912",
+        "date": "2024/08/29 13:55",
+        "department": "管理學院 ",
+        "author": {
+            "department": "管理學院",
+            "name": "顏杏如",
+            "email": "carolineyen@gms.ndhu.edu.tw",
+            "phone": "3003"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【出國交換】9月11日12:10「113-1國際交換學生甄選說明會」",
+        "timestamp": "1724910911",
+        "url": "mail_display.php?timestamp=1724910911",
+        "date": "2024/08/29 13:55",
+        "department": "國際事務處 國際學生組",
+        "author": {
+            "department": "國際事務處 國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "原民新生運動會暨迎新晚會",
         "timestamp": "1724910910",
         "url": "mail_display.php?timestamp=1724910910",
@@ -180,33 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【徵才公告】國立東華大學民族語言與傳播學系誠徵助理職務代理人一名",
-        "timestamp": "1724900622",
-        "url": "mail_display.php?timestamp=1724900622",
-        "date": "2024/08/29 11:03",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "巴莉亞妲‧蘇利伊",
-            "email": "damu@gms.ndhu.edu.tw",
-            "phone": "(03)8905824"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【傑出校友選拔】國立體育大學辦理113學年度傑出校友遴選相關事宜。",
-        "timestamp": "1724889655",
-        "url": "mail_display.php?timestamp=1724889655",
-        "date": "2024/08/29 08:00",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "陳美杏",
-            "email": "msing@gms.ndhu.edu.tw",
-            "phone": "6053"
-        },
-        "attachmentCount": 3
     }
 ]
