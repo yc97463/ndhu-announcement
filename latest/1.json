@@ -1,5 +1,19 @@
 [
     {
+        "title": "本校全家便利商店各分店營業時間公告",
+        "timestamp": "1725269827",
+        "url": "mail_display.php?timestamp=1725269827",
+        "date": "2024/09/02 17:37",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "賴榮璉",
+            "email": "chrishnalai@gms.ndhu.edu.tw",
+            "phone": "6237"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "縱谷七大家族年度成果展覽",
         "timestamp": "1725260059",
         "url": "mail_display.php?timestamp=1725260059",
@@ -194,19 +208,5 @@
             "phone": "03-8906219"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【圖書館公告】113-1學期圖書館開放情形",
-        "timestamp": "1725095300",
-        "url": "mail_display.php?timestamp=1725095300",
-        "date": "2024/08/31 17:08",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "詹依萍",
-            "email": "ipchan@gms.ndhu.edu.tw",
-            "phone": "6813"
-        },
-        "attachmentCount": 0
     }
 ]

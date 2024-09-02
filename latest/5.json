@@ -1,5 +1,19 @@
 [
     {
+        "title": "【考試】BESTEP 培力英檢測驗報名表-11/23 花蓮場",
+        "timestamp": "1724815342",
+        "url": "mail_display.php?timestamp=1724815342",
+        "date": "2024/08/28 11:22",
+        "department": "語言中心",
+        "author": {
+            "department": "語言中心",
+            "name": "林瑜珊",
+            "email": "lc@gms.ndhu.edu.tw",
+            "phone": "03-8905492"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【實習】臺中市政府社會局114年暑假實習。",
         "timestamp": "1724814797",
         "url": "mail_display.php?timestamp=1724814797",
@@ -194,19 +208,5 @@
             "phone": "03-8906219"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "8/29(四)學人宿舍(包含幼稚園)停水公告",
-        "timestamp": "1724763755",
-        "url": "mail_display.php?timestamp=1724763755",
-        "date": "2024/08/27 21:02",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
     }
 ]
