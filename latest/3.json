@@ -1,5 +1,33 @@
 [
     {
+        "title": "【TA講座】了解學習風格，創造你的教學特色！(算兩場TA選修)",
+        "timestamp": "1725321306",
+        "url": "mail_display.php?timestamp=1725321306",
+        "date": "2024/09/03 07:55",
+        "department": "教學卓越中心 教學與學習組",
+        "author": {
+            "department": "教學卓越中心 教學與學習組",
+            "name": "游家盛",
+            "email": "hyttepd@gms.ndhu.edu.tw",
+            "phone": "6589"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【TA講座】Excel成績處理密技",
+        "timestamp": "1725321305",
+        "url": "mail_display.php?timestamp=1725321305",
+        "date": "2024/09/03 07:55",
+        "department": "教學卓越中心 教學與學習組",
+        "author": {
+            "department": "教學卓越中心 教學與學習組",
+            "name": "游家盛",
+            "email": "hyttepd@gms.ndhu.edu.tw",
+            "phone": "6589"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【TA講座】看見校園多元性別及多元文化(算兩場TA選修)",
         "timestamp": "1725321304",
         "url": "mail_display.php?timestamp=1725321304",
@@ -180,33 +208,5 @@
             "phone": "(03)8906079"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "國立東華大學理工學院 電機工程學系系主任徵求公告",
-        "timestamp": "1725244526",
-        "url": "mail_display.php?timestamp=1725244526",
-        "date": "2024/09/02 10:35",
-        "department": "理工學院",
-        "author": {
-            "department": "理工學院",
-            "name": "潘小姐",
-            "email": "tzuyu@gms.ndhu.edu.tw",
-            "phone": "3502"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "阿美語口譯微學程",
-        "timestamp": "1725243536",
-        "url": "mail_display.php?timestamp=1725243536",
-        "date": "2024/09/02 10:18",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "巴莉亞妲‧蘇利伊",
-            "email": "damu@gms.ndhu.edu.tw",
-            "phone": "8905824"
-        },
-        "attachmentCount": 1
     }
 ]
