@@ -1,5 +1,19 @@
 [
     {
+        "title": "行政大樓3樓9/9(一)~9/13(五)隔間牆封板施工公告",
+        "timestamp": "1725333865",
+        "url": "mail_display.php?timestamp=1725333865",
+        "date": "2024/09/03 11:24",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "黃章傑",
+            "email": "cotycafe@gms.ndhu.edu.tw",
+            "phone": "5778"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【獎助學金申請】台北市熱河同鄉會113年「趙自齊教育基金會資助來台深造之熱河省籍學生獎助學金」",
         "timestamp": "1725333721",
         "url": "mail_display.php?timestamp=1725333721",
@@ -194,19 +208,5 @@
             "phone": "5159"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【TA講座】TA觀摩課｜善用工具達成目標",
-        "timestamp": "1725321319",
-        "url": "mail_display.php?timestamp=1725321319",
-        "date": "2024/09/03 07:55",
-        "department": "教學卓越中心 教學與學習組",
-        "author": {
-            "department": "教學卓越中心 教學與學習組",
-            "name": "游家盛",
-            "email": "hyttepd@gms.ndhu.edu.tw",
-            "phone": "6589"
-        },
-        "attachmentCount": 0
     }
 ]
