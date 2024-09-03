@@ -1,5 +1,33 @@
 [
     {
+        "title": "本校全家便利商店各分店營業時間公告",
+        "timestamp": "1725269827",
+        "url": "mail_display.php?timestamp=1725269827",
+        "date": "2024/09/02 17:37",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "賴榮璉",
+            "email": "chrishnalai@gms.ndhu.edu.tw",
+            "phone": "6237"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "縱谷七大家族年度成果展覽",
+        "timestamp": "1725260059",
+        "url": "mail_display.php?timestamp=1725260059",
+        "date": "2024/09/02 14:54",
+        "department": "縱谷跨域書院學士學位學程",
+        "author": {
+            "department": "縱谷跨域書院學士學位學程",
+            "name": "蔡怡臻",
+            "email": "rvis@gms.ndhu.edu.tw",
+            "phone": "6023"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "體育館『體能訓練室』113-1學期開放申請公告",
         "timestamp": "1725259632",
         "url": "mail_display.php?timestamp=1725259632",
@@ -180,33 +208,5 @@
             "phone": "03-8906219"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【圖書館公告】113-1學期圖書館開放情形",
-        "timestamp": "1725095300",
-        "url": "mail_display.php?timestamp=1725095300",
-        "date": "2024/08/31 17:08",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "詹依萍",
-            "email": "ipchan@gms.ndhu.edu.tw",
-            "phone": "6813"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【學習與創意講座】告別瞎忙的有效時間管理術",
-        "timestamp": "1725062101",
-        "url": "mail_display.php?timestamp=1725062101",
-        "date": "2024/08/31 07:55",
-        "department": "教學卓越中心 教學與學習組",
-        "author": {
-            "department": "教學卓越中心 教學與學習組",
-            "name": "方紀蘋",
-            "email": "viya@gms.ndhu.edu.tw",
-            "phone": "6593"
-        },
-        "attachmentCount": 0
     }
 ]
