@@ -1,5 +1,33 @@
 [
     {
+        "title": "最新租屋資訊及租屋法規動態",
+        "timestamp": "1724921302",
+        "url": "mail_display.php?timestamp=1724921302",
+        "date": "2024/08/29 16:48",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳詩啓",
+            "email": "sam0831@gms.ndhu.edu.tw",
+            "phone": "6216"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "內政部提供113年學生校外租屋合理行情參考",
+        "timestamp": "1724919545",
+        "url": "mail_display.php?timestamp=1724919545",
+        "date": "2024/08/29 16:19",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳詩啓",
+            "email": "sam0831@gms.ndhu.edu.tw",
+            "phone": "6216"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【轉知】中華民國全國商業總會iPAS品牌企劃師人才鑑定研習簡章",
         "timestamp": "1724918314",
         "url": "mail_display.php?timestamp=1724918314",
@@ -178,34 +206,6 @@
             "name": "黃勇程",
             "email": "victor0903@gms.ndhu.edu.tw",
             "phone": "03-8906225"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "原資中心程式與科技課程修課說明會",
-        "timestamp": "1724910908",
-        "url": "mail_display.php?timestamp=1724910908",
-        "date": "2024/08/29 13:55",
-        "department": "學務處 原住民族學生資源中心",
-        "author": {
-            "department": "學務處 原住民族學生資源中心",
-            "name": "吳倩茹",
-            "email": "tipus0401@gms.ndhu.edu.tw",
-            "phone": "(03)890-5707"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "113-1學期校園環境中心服務學習計畫_認認真真看普鳥--東華校園鳥類調查",
-        "timestamp": "1724910907",
-        "url": "mail_display.php?timestamp=1724910907",
-        "date": "2024/08/29 13:55",
-        "department": "環境暨海洋學院 校園環境中心",
-        "author": {
-            "department": "環境暨海洋學院 校園環境中心",
-            "name": "程曦",
-            "email": "chengc831004@gms.ndhu.edu.tw",
-            "phone": "(03)890-3322"
         },
         "attachmentCount": 0
     }

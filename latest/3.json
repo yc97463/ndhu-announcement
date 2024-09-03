@@ -1,5 +1,33 @@
 [
     {
+        "title": "【TA Course】 No Outsiders: Becoming a Gender-Conscious TA with Actions (English taught course)",
+        "timestamp": "1725321308",
+        "url": "mail_display.php?timestamp=1725321308",
+        "date": "2024/09/03 07:55",
+        "department": "教學卓越中心 教學與學習組",
+        "author": {
+            "department": "教學卓越中心 教學與學習組",
+            "name": "游家盛",
+            "email": "hyttepd@gms.ndhu.edu.tw",
+            "phone": "6589"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【TA Course】NDHU E-Learning(CC) (English taught course)",
+        "timestamp": "1725321307",
+        "url": "mail_display.php?timestamp=1725321307",
+        "date": "2024/09/03 07:55",
+        "department": "教學卓越中心 教學與學習組",
+        "author": {
+            "department": "教學卓越中心 教學與學習組",
+            "name": "游家盛",
+            "email": "hyttepd@gms.ndhu.edu.tw",
+            "phone": "6589"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【TA講座】了解學習風格，創造你的教學特色！(算兩場TA選修)",
         "timestamp": "1725321306",
         "url": "mail_display.php?timestamp=1725321306",
@@ -180,33 +208,5 @@
             "phone": "6013"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【活動推推】香港校園勞動合作社經驗分享",
-        "timestamp": "1725252811",
-        "url": "mail_display.php?timestamp=1725252811",
-        "date": "2024/09/02 12:53",
-        "department": "社會參與中心",
-        "author": {
-            "department": "社會參與中心",
-            "name": "黃小姐",
-            "email": "ellie@gms.ndhu.edu.tw",
-            "phone": "5242"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【公告】教育部修正「教育部及所屬機關（構）辦理各類會議講習訓練與研討（習）會管理要點」第二點、第六點規定，並自即日生效",
-        "timestamp": "1725247479",
-        "url": "mail_display.php?timestamp=1725247479",
-        "date": "2024/09/02 11:24",
-        "department": "主計室",
-        "author": {
-            "department": "主計室",
-            "name": "曾俊達",
-            "email": "kleiber0576@gms.ndhu.edu.tw",
-            "phone": "(03)8906079"
-        },
-        "attachmentCount": 3
     }
 ]

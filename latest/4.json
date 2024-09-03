@@ -1,5 +1,33 @@
 [
     {
+        "title": "【活動推推】香港校園勞動合作社經驗分享",
+        "timestamp": "1725252811",
+        "url": "mail_display.php?timestamp=1725252811",
+        "date": "2024/09/02 12:53",
+        "department": "社會參與中心",
+        "author": {
+            "department": "社會參與中心",
+            "name": "黃小姐",
+            "email": "ellie@gms.ndhu.edu.tw",
+            "phone": "5242"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【公告】教育部修正「教育部及所屬機關（構）辦理各類會議講習訓練與研討（習）會管理要點」第二點、第六點規定，並自即日生效",
+        "timestamp": "1725247479",
+        "url": "mail_display.php?timestamp=1725247479",
+        "date": "2024/09/02 11:24",
+        "department": "主計室",
+        "author": {
+            "department": "主計室",
+            "name": "曾俊達",
+            "email": "kleiber0576@gms.ndhu.edu.tw",
+            "phone": "(03)8906079"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "國立東華大學理工學院 電機工程學系系主任徵求公告",
         "timestamp": "1725244526",
         "url": "mail_display.php?timestamp=1725244526",
@@ -180,33 +208,5 @@
             "phone": "038906613"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "最新租屋資訊及租屋法規動態",
-        "timestamp": "1724921302",
-        "url": "mail_display.php?timestamp=1724921302",
-        "date": "2024/08/29 16:48",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳詩啓",
-            "email": "sam0831@gms.ndhu.edu.tw",
-            "phone": "6216"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "內政部提供113年學生校外租屋合理行情參考",
-        "timestamp": "1724919545",
-        "url": "mail_display.php?timestamp=1724919545",
-        "date": "2024/08/29 16:19",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳詩啓",
-            "email": "sam0831@gms.ndhu.edu.tw",
-            "phone": "6216"
-        },
-        "attachmentCount": 2
     }
 ]
