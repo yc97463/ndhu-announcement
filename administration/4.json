@@ -1,5 +1,19 @@
 [
     {
+        "title": "「113學年度校園空間安全檢視說明」公告",
+        "timestamp": "1724199109",
+        "url": "mail_display.php?timestamp=1724199109",
+        "date": "2024/08/21 08:11",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "賴榮璉",
+            "email": "chrishnalai@gms.ndhu.edu.tw",
+            "phone": "6237"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【公告】本(113)年度分配至各單位之部門預算「資本門」，至9月30日止之執行率應達90%",
         "timestamp": "1724198922",
         "url": "mail_display.php?timestamp=1724198922",
@@ -194,19 +208,5 @@
             "phone": "(03)8906079"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "今天8/19(一)中午志學門路口水泥灌漿管制公告",
-        "timestamp": "1724040038",
-        "url": "mail_display.php?timestamp=1724040038",
-        "date": "2024/08/19 12:00",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "黃章傑",
-            "email": "cotycafe@gms.ndhu.edu.tw",
-            "phone": "5778"
-        },
-        "attachmentCount": 0
     }
 ]

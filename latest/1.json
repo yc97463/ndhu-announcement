@@ -1,5 +1,47 @@
 [
     {
+        "title": "【獎助學金申請】大和建設機構113-1「大和何溪明優秀清寒獎助學金」(限諮臨系)",
+        "timestamp": "1725351236",
+        "url": "mail_display.php?timestamp=1725351236",
+        "date": "2024/09/03 16:13",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【計畫申請】⭐️勞動部114年度「結合大專校院辦理就業服務補助計畫」申請開始囉⭐️(本校申請期限：即日起至113年10月13日止)",
+        "timestamp": "1725349923",
+        "url": "mail_display.php?timestamp=1725349923",
+        "date": "2024/09/03 15:52",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "張雯婷",
+            "email": "kz02820@gms.ndhu.edu.tw",
+            "phone": "03-8906284"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "【推廣教育填報改版通知】112學年第2學期課程資料填報作業暨系統改版通知",
+        "timestamp": "1725349713",
+        "url": "mail_display.php?timestamp=1725349713",
+        "date": "2024/09/03 15:48",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "洪乃慈",
+            "email": "naitzu@gms.ndhu.edu.tw",
+            "phone": "6523"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【獎助學金申請】臺北市輔世慈善基金會113-1勵學金",
         "timestamp": "1725348611",
         "url": "mail_display.php?timestamp=1725348611",
@@ -166,47 +208,5 @@
             "phone": "5778"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【獎助學金申請】台北市熱河同鄉會113年「趙自齊教育基金會資助來台深造之熱河省籍學生獎助學金」",
-        "timestamp": "1725333721",
-        "url": "mail_display.php?timestamp=1725333721",
-        "date": "2024/09/03 11:22",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【獎助學金申請】臺北市113-1失業勞工子女就學補助 (限臺北市籍)",
-        "timestamp": "1725332555",
-        "url": "mail_display.php?timestamp=1725332555",
-        "date": "2024/09/03 11:02",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【學習與創意講座】告別瞎忙的有效時間管理術(9/23)",
-        "timestamp": "1725331451",
-        "url": "mail_display.php?timestamp=1725331451",
-        "date": "2024/09/03 10:44",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "謝坤霖",
-            "email": "emc2@gms.ndhu.edu.tw",
-            "phone": "6945"
-        },
-        "attachmentCount": 1
     }
 ]

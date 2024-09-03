@@ -1,5 +1,19 @@
 [
     {
+        "title": "【計畫申請】⭐️勞動部114年度「結合大專校院辦理就業服務補助計畫」申請開始囉⭐️(本校申請期限：即日起至113年10月13日止)",
+        "timestamp": "1725349923",
+        "url": "mail_display.php?timestamp=1725349923",
+        "date": "2024/09/03 15:52",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "張雯婷",
+            "email": "kz02820@gms.ndhu.edu.tw",
+            "phone": "03-8906284"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【轉知】中原大學辦理「第一屆中原大學職涯輔導心得競賽」",
         "timestamp": "1725348469",
         "url": "mail_display.php?timestamp=1725348469",
@@ -194,19 +208,5 @@
             "phone": "038903678"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "【轉知】中華民國全國商業總會iPAS品牌企劃師人才鑑定研習簡章",
-        "timestamp": "1724918314",
-        "url": "mail_display.php?timestamp=1724918314",
-        "date": "2024/08/29 15:58",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "洪乃慈",
-            "email": "naitzu@gms.ndhu.edu.tw",
-            "phone": "6523"
-        },
-        "attachmentCount": 2
     }
 ]
