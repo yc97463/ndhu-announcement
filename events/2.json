@@ -1,5 +1,19 @@
 [
     {
+        "title": "縱谷七大家族年度成果展",
+        "timestamp": "1725321310",
+        "url": "mail_display.php?timestamp=1725321310",
+        "date": "2024/09/03 07:55",
+        "department": "洄瀾學院 縱谷跨域書院學士學位學程",
+        "author": {
+            "department": "洄瀾學院 縱谷跨域書院學士學位學程",
+            "name": "蔡怡臻",
+            "email": "eng720@gms.ndhu.edu.tw",
+            "phone": "6023"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113家族見面禮\u0026期初系員大會-歡迎加入族文大家庭",
         "timestamp": "1725321309",
         "url": "mail_display.php?timestamp=1725321309",
@@ -194,19 +208,5 @@
             "phone": "038903678"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "認識自資系，我們走吧！",
-        "timestamp": "1724975701",
-        "url": "mail_display.php?timestamp=1724975701",
-        "date": "2024/08/30 07:55",
-        "department": "環境暨海洋學院 自然資源與環境學系",
-        "author": {
-            "department": "環境暨海洋學院 自然資源與環境學系",
-            "name": "夏懿心",
-            "email": "411254023@gms.ndhu.edu.tw",
-            "phone": "陳郁淇"
-        },
-        "attachmentCount": 0
     }
 ]

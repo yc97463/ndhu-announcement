@@ -1,5 +1,19 @@
 [
     {
+        "title": "【TA講座】一般教室使用說明：包含文學院、共科大樓、理學院(無資訊講桌) (必修)",
+        "timestamp": "1725321311",
+        "url": "mail_display.php?timestamp=1725321311",
+        "date": "2024/09/03 07:55",
+        "department": "教學卓越中心 教學與學習組",
+        "author": {
+            "department": "教學卓越中心 教學與學習組",
+            "name": "游家盛",
+            "email": "hyttepd@gms.ndhu.edu.tw",
+            "phone": "6589"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "縱谷七大家族年度成果展",
         "timestamp": "1725321310",
         "url": "mail_display.php?timestamp=1725321310",
@@ -194,19 +208,5 @@
             "phone": "6053"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "學生事務處搬遷公告",
-        "timestamp": "1725256920",
-        "url": "mail_display.php?timestamp=1725256920",
-        "date": "2024/09/02 14:02",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "學務處",
-            "email": "chchiou@gms.ndhu.edu.tw",
-            "phone": "０３８９０６２０３"
-        },
-        "attachmentCount": 0
     }
 ]

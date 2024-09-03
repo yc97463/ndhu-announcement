@@ -1,5 +1,19 @@
 [
     {
+        "title": "【教學卓越中心】敬邀請參加113-1教學實踐研究計畫工作坊及主題座談活動",
+        "timestamp": "1725345746",
+        "url": "mail_display.php?timestamp=1725345746",
+        "date": "2024/09/03 14:42",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳禮凡",
+            "email": "LIFAN.CHEN@gms.ndhu.edu.tw",
+            "phone": "038906586"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【更正公告】有關檢附113年本校資深優良教職員工表揚名冊疏誤案。",
         "timestamp": "1725344953",
         "url": "mail_display.php?timestamp=1725344953",
@@ -194,19 +208,5 @@
             "phone": "6589"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【獎助學金申請】台東縣113-1清寒優秀學生愛心--安心就學獎學金 (限台東縣籍低收或中低收)",
-        "timestamp": "1725327346",
-        "url": "mail_display.php?timestamp=1725327346",
-        "date": "2024/09/03 09:35",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]
