@@ -1,5 +1,19 @@
 [
     {
+        "title": "阿美語口譯微學程",
+        "timestamp": "1725243536",
+        "url": "mail_display.php?timestamp=1725243536",
+        "date": "2024/09/02 10:18",
+        "department": "原住民民族學院",
+        "author": {
+            "department": "原住民民族學院",
+            "name": "巴莉亞妲‧蘇利伊",
+            "email": "damu@gms.ndhu.edu.tw",
+            "phone": "8905824"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "113-1校核心通識課程異動(停開課程)公告",
         "timestamp": "1725241598",
         "url": "mail_display.php?timestamp=1725241598",
@@ -194,19 +208,5 @@
             "phone": "6523"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【獎助學金申請】本校113學年度「亞德客有美助學金」(限大一新生申請)",
-        "timestamp": "1724912808",
-        "url": "mail_display.php?timestamp=1724912808",
-        "date": "2024/08/29 14:26",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "郭詩妘",
-            "email": "kikiguo@gms.ndhu.edu.tw",
-            "phone": "03-8906227"
-        },
-        "attachmentCount": 3
     }
 ]
