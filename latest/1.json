@@ -1,205 +1,23 @@
 [
     {
-        "title": "本校全家便利商店各分店營業時間公告",
-        "timestamp": "1725269827",
-        "url": "mail_display.php?timestamp=1725269827",
-        "date": "2024/09/02 17:37",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "賴榮璉",
-            "email": "chrishnalai@gms.ndhu.edu.tw",
-            "phone": "6237"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "縱谷七大家族年度成果展覽",
-        "timestamp": "1725260059",
-        "url": "mail_display.php?timestamp=1725260059",
-        "date": "2024/09/02 14:54",
-        "department": "縱谷跨域書院學士學位學程",
-        "author": {
-            "department": "縱谷跨域書院學士學位學程",
-            "name": "蔡怡臻",
-            "email": "rvis@gms.ndhu.edu.tw",
-            "phone": "6023"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "體育館『體能訓練室』113-1學期開放申請公告",
-        "timestamp": "1725259632",
-        "url": "mail_display.php?timestamp=1725259632",
-        "date": "2024/09/02 14:47",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "沈正雄",
-            "email": "chshen@gms.ndhu.edu.tw",
-            "phone": "6618"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【轉知】勞動部勞動力發展署技能檢定中心3職類裁判長公開遴選。",
-        "timestamp": "1725257434",
-        "url": "mail_display.php?timestamp=1725257434",
-        "date": "2024/09/02 14:10",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "陳美杏",
-            "email": "msing@gms.ndhu.edu.tw",
-            "phone": "6053"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "學生事務處搬遷公告",
-        "timestamp": "1725256920",
-        "url": "mail_display.php?timestamp=1725256920",
-        "date": "2024/09/02 14:02",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "學務處",
-            "email": "chchiou@gms.ndhu.edu.tw",
-            "phone": "０３８９０６２０３"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【受贈通知】各單位年度 (112.10.1-113.9.30)接受非現金捐贈達10萬元以上調查",
-        "timestamp": "1725254322",
-        "url": "mail_display.php?timestamp=1725254322",
-        "date": "2024/09/02 13:18",
-        "department": "秘書室公關宣傳組",
-        "author": {
-            "department": "秘書室公關宣傳組",
-            "name": "林佩瑤",
-            "email": "peiyao@gms.ndhu.edu.tw",
-            "phone": "6013"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【受贈通知】各單位年度 (112.10.1-113.9.30)接受非現金捐贈達10萬元以上調查",
-        "timestamp": "1725254157",
-        "url": "mail_display.php?timestamp=1725254157",
-        "date": "2024/09/02 13:15",
-        "department": "秘書室公關宣傳組",
-        "author": {
-            "department": "秘書室公關宣傳組",
-            "name": "林佩瑤",
-            "email": "peiyao@gms.ndhu.edu.tw",
-            "phone": "6013"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【活動推推】香港校園勞動合作社經驗分享",
-        "timestamp": "1725252811",
-        "url": "mail_display.php?timestamp=1725252811",
-        "date": "2024/09/02 12:53",
-        "department": "社會參與中心",
-        "author": {
-            "department": "社會參與中心",
-            "name": "黃小姐",
-            "email": "ellie@gms.ndhu.edu.tw",
-            "phone": "5242"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【公告】教育部修正「教育部及所屬機關（構）辦理各類會議講習訓練與研討（習）會管理要點」第二點、第六點規定，並自即日生效",
-        "timestamp": "1725247479",
-        "url": "mail_display.php?timestamp=1725247479",
-        "date": "2024/09/02 11:24",
-        "department": "主計室",
-        "author": {
-            "department": "主計室",
-            "name": "曾俊達",
-            "email": "kleiber0576@gms.ndhu.edu.tw",
-            "phone": "(03)8906079"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "國立東華大學理工學院 電機工程學系系主任徵求公告",
-        "timestamp": "1725244526",
-        "url": "mail_display.php?timestamp=1725244526",
-        "date": "2024/09/02 10:35",
-        "department": "理工學院",
-        "author": {
-            "department": "理工學院",
-            "name": "潘小姐",
-            "email": "tzuyu@gms.ndhu.edu.tw",
-            "phone": "3502"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "阿美語口譯微學程",
-        "timestamp": "1725243536",
-        "url": "mail_display.php?timestamp=1725243536",
-        "date": "2024/09/02 10:18",
+        "title": "【徵才公告】國立東華大學民族語言與傳播學系誠徵助理職務代理人一名",
+        "timestamp": "1725325577",
+        "url": "mail_display.php?timestamp=1725325577",
+        "date": "2024/09/03 09:06",
         "department": "原住民民族學院",
         "author": {
             "department": "原住民民族學院",
             "name": "巴莉亞妲‧蘇利伊",
             "email": "damu@gms.ndhu.edu.tw",
-            "phone": "8905824"
+            "phone": "(03)8905824"
         },
         "attachmentCount": 1
     },
     {
-        "title": "113-1校核心通識課程異動(停開課程)公告",
-        "timestamp": "1725241598",
-        "url": "mail_display.php?timestamp=1725241598",
-        "date": "2024/09/02 09:46",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【投票提醒】9月2日早上10點至下午2點請至校園會議投票系統投票-113至114學年度校務基金工作人員陞遷暨考核委員會票選委員遴選。",
-        "timestamp": "1725238263",
-        "url": "mail_display.php?timestamp=1725238263",
-        "date": "2024/09/02 08:51",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "林淑惠",
-            "email": "linsh@gms.ndhu.edu.tw",
-            "phone": "8906059"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "尚未完成113學年度第1學期兵役緩徵、儘召網路申請者請盡速申請",
-        "timestamp": "1725235980",
-        "url": "mail_display.php?timestamp=1725235980",
-        "date": "2024/09/02 08:13",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "黃勇程",
-            "email": "victor0903@gms.ndhu.edu.tw",
-            "phone": "6225"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【獎助學金申請重要資訊】學務處生輔組辦理各項校內外獎助學金項目及申請注意事項，請參考! (第二次通告)",
-        "timestamp": "1725105134",
-        "url": "mail_display.php?timestamp=1725105134",
-        "date": "2024/08/31 19:52",
+        "title": "【獎助學金申請】國泰人壽慈善基金會「2024年國泰卓越獎助計畫」",
+        "timestamp": "1725325551",
+        "url": "mail_display.php?timestamp=1725325551",
+        "date": "2024/09/03 09:05",
         "department": "學務處",
         "author": {
             "department": "學務處",
@@ -207,6 +25,188 @@
             "email": "ycliang@gms.ndhu.edu.tw",
             "phone": "03-8906219"
         },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【轉知】「2024臺灣多元共融DEI領袖論壇」，並開放名額自由報名，有意參加者請經機關單位主管同意後自行報名。",
+        "timestamp": "1725324620",
+        "url": "mail_display.php?timestamp=1725324620",
+        "date": "2024/09/03 08:50",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "陳美杏",
+            "email": "msing@gms.ndhu.edu.tw",
+            "phone": "6053"
+        },
         "attachmentCount": 2
+    },
+    {
+        "title": "東華電子報 | 2024年08月刊 |",
+        "timestamp": "1725324173",
+        "url": "mail_display.php?timestamp=1725324173",
+        "date": "2024/09/03 08:42",
+        "department": "秘書室公關宣傳組",
+        "author": {
+            "department": "秘書室公關宣傳組",
+            "name": "林佩瑤",
+            "email": "peiyao@gms.ndhu.edu.tw",
+            "phone": "6013"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【活動轉知】「打造綠色校園，ESG 永續淨零提案競賽」開跑，報名截止只到 10/27！",
+        "timestamp": "1725323025",
+        "url": "mail_display.php?timestamp=1725323025",
+        "date": "2024/09/03 08:23",
+        "department": "永續發展中心",
+        "author": {
+            "department": "永續發展中心",
+            "name": "李敏賢",
+            "email": "jordanlee@gms.ndhu.edu.tw",
+            "phone": "5919"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【活動轉知】國泰卓越獎助計畫開放報名，每案最高獎勵20萬元，預計獎助20組團隊",
+        "timestamp": "1725322866",
+        "url": "mail_display.php?timestamp=1725322866",
+        "date": "2024/09/03 08:21",
+        "department": "永續發展中心",
+        "author": {
+            "department": "永續發展中心",
+            "name": "李敏賢",
+            "email": "jordanlee@gms.ndhu.edu.tw",
+            "phone": "5159"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "【TA講座】TA觀摩課｜善用工具達成目標",
+        "timestamp": "1725321319",
+        "url": "mail_display.php?timestamp=1725321319",
+        "date": "2024/09/03 07:55",
+        "department": "教學卓越中心 教學與學習組",
+        "author": {
+            "department": "教學卓越中心 教學與學習組",
+            "name": "游家盛",
+            "email": "hyttepd@gms.ndhu.edu.tw",
+            "phone": "6589"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【TA講座】精準簡報｜掌握目的與邏輯，精準呈現好簡報",
+        "timestamp": "1725321318",
+        "url": "mail_display.php?timestamp=1725321318",
+        "date": "2024/09/03 07:55",
+        "department": "教學卓越中心 教學與學習組",
+        "author": {
+            "department": "教學卓越中心 教學與學習組",
+            "name": "游家盛",
+            "email": "hyttepd@gms.ndhu.edu.tw",
+            "phone": "6589"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【TA Course】Say goodbye to your fright. (English taught course)",
+        "timestamp": "1725321317",
+        "url": "mail_display.php?timestamp=1725321317",
+        "date": "2024/09/03 07:55",
+        "department": "教學卓越中心 教學與學習組",
+        "author": {
+            "department": "教學卓越中心 教學與學習組",
+            "name": "游家盛",
+            "email": "hyttepd@gms.ndhu.edu.tw",
+            "phone": "6589"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【TA Course】Guidelines to Using NDHU teaching facilities (CC) (English taught course)",
+        "timestamp": "1725321316",
+        "url": "mail_display.php?timestamp=1725321316",
+        "date": "2024/09/03 07:55",
+        "department": "教學卓越中心 教學與學習組",
+        "author": {
+            "department": "教學卓越中心 教學與學習組",
+            "name": "游家盛",
+            "email": "hyttepd@gms.ndhu.edu.tw",
+            "phone": "6589"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【TA講座】當MBTI遇上自我療癒: 認識你的人格類型，體驗舒壓時光(算兩場TA選修)",
+        "timestamp": "1725321315",
+        "url": "mail_display.php?timestamp=1725321315",
+        "date": "2024/09/03 07:55",
+        "department": "教學卓越中心 教學與學習組",
+        "author": {
+            "department": "教學卓越中心 教學與學習組",
+            "name": "游家盛",
+            "email": "hyttepd@gms.ndhu.edu.tw",
+            "phone": "6589"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【TA講座】東華E學苑使用說明(必修)",
+        "timestamp": "1725321314",
+        "url": "mail_display.php?timestamp=1725321314",
+        "date": "2024/09/03 07:55",
+        "department": "教學卓越中心 教學與學習組",
+        "author": {
+            "department": "教學卓越中心 教學與學習組",
+            "name": "游家盛",
+            "email": "hyttepd@gms.ndhu.edu.tw",
+            "phone": "6589"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【TA講座】一般教室使用說明:資訊講桌相關操作及須知(必修)",
+        "timestamp": "1725321313",
+        "url": "mail_display.php?timestamp=1725321313",
+        "date": "2024/09/03 07:55",
+        "department": "教學卓越中心 教學與學習組",
+        "author": {
+            "department": "教學卓越中心 教學與學習組",
+            "name": "游家盛",
+            "email": "hyttepd@gms.ndhu.edu.tw",
+            "phone": "6589"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【TA講座】一般教室使用說明:包含工學院、原民院、管理學院、教育學院、環境學院使用說明(無資訊講桌) (必修)",
+        "timestamp": "1725321312",
+        "url": "mail_display.php?timestamp=1725321312",
+        "date": "2024/09/03 07:55",
+        "department": "教學卓越中心 教學與學習組",
+        "author": {
+            "department": "教學卓越中心 教學與學習組",
+            "name": "游家盛",
+            "email": "hyttepd@gms.ndhu.edu.tw",
+            "phone": "6589"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【TA講座】一般教室使用說明：包含文學院、共科大樓、理學院(無資訊講桌) (必修)",
+        "timestamp": "1725321311",
+        "url": "mail_display.php?timestamp=1725321311",
+        "date": "2024/09/03 07:55",
+        "department": "教學卓越中心 教學與學習組",
+        "author": {
+            "department": "教學卓越中心 教學與學習組",
+            "name": "游家盛",
+            "email": "hyttepd@gms.ndhu.edu.tw",
+            "phone": "6589"
+        },
+        "attachmentCount": 0
     }
 ]
