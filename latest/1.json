@@ -1,5 +1,33 @@
 [
     {
+        "title": "【論文獎助】榮民榮眷基金會113年碩博士學位論文獎勵",
+        "timestamp": "1725346910",
+        "url": "mail_display.php?timestamp=1725346910",
+        "date": "2024/09/03 15:01",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【徵才】財團法人海峽海峽交流基金會招募法務會務人員",
+        "timestamp": "1725346907",
+        "url": "mail_display.php?timestamp=1725346907",
+        "date": "2024/09/03 15:01",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【教學卓越中心】敬邀請參加113-1教學實踐研究計畫工作坊及主題座談活動",
         "timestamp": "1725345746",
         "url": "mail_display.php?timestamp=1725345746",
@@ -180,33 +208,5 @@
             "phone": "03-8906219"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "歡迎踴躍報名-半導體IC載板產業實務人才培育專班招生說明會",
-        "timestamp": "1725328529",
-        "url": "mail_display.php?timestamp=1725328529",
-        "date": "2024/09/03 09:55",
-        "department": "材料科學與工程學系",
-        "author": {
-            "department": "材料科學與工程學系",
-            "name": "林淑玲",
-            "email": "shuling@gms.ndhu.edu.tw",
-            "phone": "03-8903204"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【教卓中心】113-1學期教學助理培訓課程(TA training courses )開始報名囉~",
-        "timestamp": "1725328461",
-        "url": "mail_display.php?timestamp=1725328461",
-        "date": "2024/09/03 09:54",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "游家盛",
-            "email": "hyttepd@gms.ndhu.edu.tw",
-            "phone": "6589"
-        },
-        "attachmentCount": 0
     }
 ]
