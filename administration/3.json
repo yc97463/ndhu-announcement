@@ -1,5 +1,19 @@
 [
     {
+        "title": "重申禁用危害國家資通訊產品相關規定",
+        "timestamp": "1724659294",
+        "url": "mail_display.php?timestamp=1724659294",
+        "date": "2024/08/26 16:01",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "蕭澤宇",
+            "email": "zyhsiao@gms.ndhu.edu.tw",
+            "phone": "(03)890-6727"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【教務處課務組】各學制新生(含轉學生、復學生)113-1網路選課  Freshmen Online Preliminary Course Selection ",
         "timestamp": "1724652688",
         "url": "mail_display.php?timestamp=1724652688",
@@ -194,19 +208,5 @@
             "phone": "6237"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【公告】本(113)年度分配至各單位之部門預算「資本門」，至9月30日止之執行率應達90%",
-        "timestamp": "1724198922",
-        "url": "mail_display.php?timestamp=1724198922",
-        "date": "2024/08/21 08:08",
-        "department": "主計室",
-        "author": {
-            "department": "主計室",
-            "name": "曾俊達",
-            "email": "kleiber0576@gms.ndhu.edu.tw",
-            "phone": "(03)8906079"
-        },
-        "attachmentCount": 0
     }
 ]

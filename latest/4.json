@@ -1,5 +1,33 @@
 [
     {
+        "title": "113-1校核心通識課程異動(停開課程)公告",
+        "timestamp": "1725241598",
+        "url": "mail_display.php?timestamp=1725241598",
+        "date": "2024/09/02 09:46",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "8906607"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【投票提醒】9月2日早上10點至下午2點請至校園會議投票系統投票-113至114學年度校務基金工作人員陞遷暨考核委員會票選委員遴選。",
+        "timestamp": "1725238263",
+        "url": "mail_display.php?timestamp=1725238263",
+        "date": "2024/09/02 08:51",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "林淑惠",
+            "email": "linsh@gms.ndhu.edu.tw",
+            "phone": "8906059"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "尚未完成113學年度第1學期兵役緩徵、儘召網路申請者請盡速申請",
         "timestamp": "1725235980",
         "url": "mail_display.php?timestamp=1725235980",
@@ -180,33 +208,5 @@
             "phone": "03-8906227"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【徵才】113年特種考試地方政府公務人員考試及離島地區公務人員考試",
-        "timestamp": "1724911650",
-        "url": "mail_display.php?timestamp=1724911650",
-        "date": "2024/08/29 14:07",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "2024【資誠聯合會計師事務所】 秋季徵才說明會",
-        "timestamp": "1724911379",
-        "url": "mail_display.php?timestamp=1724911379",
-        "date": "2024/08/29 14:02",
-        "department": "學務處 畢業生及校友服務組",
-        "author": {
-            "department": "學務處 畢業生及校友服務組",
-            "name": "溫鳳婷",
-            "email": "fengting0804@gms.ndhu.edu.tw",
-            "phone": "6282"
-        },
-        "attachmentCount": 0
     }
 ]
