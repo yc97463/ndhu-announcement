@@ -1,5 +1,47 @@
 [
     {
+        "title": "尚未完成113學年度第1學期兵役緩徵、儘召網路申請者請盡速申請",
+        "timestamp": "1725235980",
+        "url": "mail_display.php?timestamp=1725235980",
+        "date": "2024/09/02 08:13",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "6225"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【獎助學金申請重要資訊】學務處生輔組辦理各項校內外獎助學金項目及申請注意事項，請參考! (第二次通告)",
+        "timestamp": "1725105134",
+        "url": "mail_display.php?timestamp=1725105134",
+        "date": "2024/08/31 19:52",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【圖書館公告】113-1學期圖書館開放情形",
+        "timestamp": "1725095300",
+        "url": "mail_display.php?timestamp=1725095300",
+        "date": "2024/08/31 17:08",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "詹依萍",
+            "email": "ipchan@gms.ndhu.edu.tw",
+            "phone": "6813"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【學習與創意講座】告別瞎忙的有效時間管理術",
         "timestamp": "1725062101",
         "url": "mail_display.php?timestamp=1725062101",
@@ -164,48 +206,6 @@
             "name": "溫鳳婷",
             "email": "fengting0804@gms.ndhu.edu.tw",
             "phone": "6282"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "廉政工作職涯分享暨校園廉能宣導講座",
-        "timestamp": "1724910917",
-        "url": "mail_display.php?timestamp=1724910917",
-        "date": "2024/08/29 13:55",
-        "department": "人文社會科學學院 公共行政學系",
-        "author": {
-            "department": "人文社會科學學院 公共行政學系",
-            "name": "蔡語宸",
-            "email": "yuchen@gms.ndhu.edu.tw",
-            "phone": "5512"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "2024 秋季【資誠聯合會計師事務所】徵才說明會（限非會計學系同學報名）",
-        "timestamp": "1724910916",
-        "url": "mail_display.php?timestamp=1724910916",
-        "date": "2024/08/29 13:55",
-        "department": "管理學院 會計學系",
-        "author": {
-            "department": "管理學院 會計學系",
-            "name": "吳佳玟",
-            "email": "chiawen@gms.ndhu.edu.tw",
-            "phone": "3073"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "2024 秋季【資誠聯合會計師事務所】徵才說明會（限會計學系同學報名）",
-        "timestamp": "1724910915",
-        "url": "mail_display.php?timestamp=1724910915",
-        "date": "2024/08/29 13:55",
-        "department": "管理學院 會計學系",
-        "author": {
-            "department": "管理學院 會計學系",
-            "name": "吳佳玟",
-            "email": "chiawen@gms.ndhu.edu.tw",
-            "phone": "3073"
         },
         "attachmentCount": 0
     }

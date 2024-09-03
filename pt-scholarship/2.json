@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】彰化縣113-1自強優秀學生獎學金 (限彰化縣籍)",
+        "timestamp": "1724771103",
+        "url": "mail_display.php?timestamp=1724771103",
+        "date": "2024/08/27 23:05",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】苗栗縣113-1清寒優秀學生獎學金 (限苗栗縣籍)",
         "timestamp": "1724768152",
         "url": "mail_display.php?timestamp=1724768152",
@@ -186,20 +200,6 @@
         "timestamp": "1724223262",
         "url": "mail_display.php?timestamp=1724223262",
         "date": "2024/08/21 14:54",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【獎助學金申請】台灣金融服務業聯合總會「113學年度金融服務業教育獎助學金」(家境清寒或家逢變故)",
-        "timestamp": "1724219627",
-        "url": "mail_display.php?timestamp=1724219627",
-        "date": "2024/08/21 13:53",
         "department": "學務處",
         "author": {
             "department": "學務處",
