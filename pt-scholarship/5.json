@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】得力教育基金會113-1清寒獎助學金",
+        "timestamp": "1723252196",
+        "url": "mail_display.php?timestamp=1723252196",
+        "date": "2024/08/10 09:09",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "TA job for Fall Semester 2024",
         "timestamp": "1723088186",
         "url": "mail_display.php?timestamp=1723088186",
@@ -192,20 +206,6 @@
             "name": "鄭淑亭",
             "email": "ting@gms.ndhu.edu.tw",
             "phone": "03-8906215"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "轉財團法人慶寶勤勞社會福利慈善事業基金會2024年下半年學期工讀計畫申請資料",
-        "timestamp": "1722318824",
-        "url": "mail_display.php?timestamp=1722318824",
-        "date": "2024/07/30 13:53",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "王文和",
-            "email": "rlawwh@gms.ndhu.edu.tw",
-            "phone": "分機6221"
         },
         "attachmentCount": 1
     }
