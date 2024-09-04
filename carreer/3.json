@@ -1,5 +1,19 @@
 [
     {
+        "title": "【主計室徵才公告】",
+        "timestamp": "1721097278",
+        "url": "mail_display.php?timestamp=1721097278",
+        "date": "2024/07/16 10:34",
+        "department": "主計室",
+        "author": {
+            "department": "主計室",
+            "name": "曾俊達",
+            "email": "kleiber0576@gms.ndhu.edu.tw",
+            "phone": "(0308906079"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【徵才訊息】本校國際事務處誠徵計畫專任助理1名 (延長收件至7/17)",
         "timestamp": "1720598193",
         "url": "mail_display.php?timestamp=1720598193",
@@ -194,19 +208,5 @@
             "phone": "6282"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【兵役訊息】國防部「113年志願役預備軍官班考選簡章」公告",
-        "timestamp": "1718670734",
-        "url": "mail_display.php?timestamp=1718670734",
-        "date": "2024/06/18 08:32",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "黃勇程",
-            "email": "victor0903@gms.ndhu.edu.tw",
-            "phone": "6225"
-        },
-        "attachmentCount": 1
     }
 ]

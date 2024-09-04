@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才】國立東華大學管理學院會計學系徵聘專任教師一名（第2次公告，收件截止日期(書面資料與word檔)：113年09月30日(一) 23:59。(書面資料以郵戳日期為憑))",
+        "timestamp": "1725415258",
+        "url": "mail_display.php?timestamp=1725415258",
+        "date": "2024/09/04 10:00",
+        "department": "會計學系",
+        "author": {
+            "department": "會計學系",
+            "name": "會計學系",
+            "email": "chiawen@gms.ndhu.edu.tw",
+            "phone": "3073"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【徵才公告】國立東華大學民族語言與傳播學系誠徵助理職務代理人一名",
         "timestamp": "1725410343",
         "url": "mail_display.php?timestamp=1725410343",
@@ -194,19 +208,5 @@
             "phone": "03-8903013"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【徵才訊息】國立東華大學教育部智慧型互動屏幕結合個人化學習載具補助計畫徵聘專任助理一名",
-        "timestamp": "1723533268",
-        "url": "mail_display.php?timestamp=1723533268",
-        "date": "2024/08/13 15:14",
-        "department": "花師教育學院",
-        "author": {
-            "department": "花師教育學院",
-            "name": "許小姐",
-            "email": "ling30@gms.ndhu.edu.tw",
-            "phone": "03-8903777"
-        },
-        "attachmentCount": 0
     }
 ]
