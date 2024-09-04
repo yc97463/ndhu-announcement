@@ -1,5 +1,19 @@
 [
     {
+        "title": "公文系統於8月21日(三)中午12~13時及8月23日(五) 8~20時暫停服務公告",
+        "timestamp": "1724200929",
+        "url": "mail_display.php?timestamp=1724200929",
+        "date": "2024/08/21 08:42",
+        "department": "總務處文書組",
+        "author": {
+            "department": "總務處文書組",
+            "name": "張建中",
+            "email": "eric.chang@gms.ndhu.edu.tw",
+            "phone": "6352"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "「113學年度校園空間安全檢視說明」公告",
         "timestamp": "1724199109",
         "url": "mail_display.php?timestamp=1724199109",
@@ -190,20 +204,6 @@
         "author": {
             "department": "主計室",
             "name": "主計室",
-            "email": "kleiber0576@gms.ndhu.edu.tw",
-            "phone": "(03)8906079"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【公告】本校擬銷毀民國97年度至100年度之會計報告、帳簿、傳票等相關會計憑證",
-        "timestamp": "1724049150",
-        "url": "mail_display.php?timestamp=1724049150",
-        "date": "2024/08/19 14:32",
-        "department": "主計室",
-        "author": {
-            "department": "主計室",
-            "name": "曾俊達",
             "email": "kleiber0576@gms.ndhu.edu.tw",
             "phone": "(03)8906079"
         },
