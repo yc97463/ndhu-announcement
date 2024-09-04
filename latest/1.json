@@ -1,5 +1,33 @@
 [
     {
+        "title": "【獎助學金申請】燃燈基金會2024年秋季清寒學生助學 (限大一、二)",
+        "timestamp": "1725464955",
+        "url": "mail_display.php?timestamp=1725464955",
+        "date": "2024/09/04 23:49",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【獎助學金申請】本校《113學年度》似鳥（NITORI）國際獎學金 (受理至113年9月25日止，請把握時限申請)",
+        "timestamp": "1725464470",
+        "url": "mail_display.php?timestamp=1725464470",
+        "date": "2024/09/04 23:41",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【徵才】經濟部所屬台灣中油股份有限公司113年新進博士級職員甄試",
         "timestamp": "1725444376",
         "url": "mail_display.php?timestamp=1725444376",
@@ -180,33 +208,5 @@
             "phone": "8905824"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "新版東華e學苑使用說明",
-        "timestamp": "1725409515",
-        "url": "mail_display.php?timestamp=1725409515",
-        "date": "2024/09/04 08:25",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【職涯講座】數位力提升",
-        "timestamp": "1725407706",
-        "url": "mail_display.php?timestamp=1725407706",
-        "date": "2024/09/04 07:55",
-        "department": "學務處 畢業生及校友服務組",
-        "author": {
-            "department": "學務處 畢業生及校友服務組",
-            "name": "張雯婷",
-            "email": "kz02820@gms.ndhu.edu.tw",
-            "phone": "03-8906284"
-        },
-        "attachmentCount": 0
     }
 ]
