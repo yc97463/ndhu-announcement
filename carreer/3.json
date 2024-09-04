@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才公告】國立東華大學總務處徵聘【校務基金短(定)期助理】",
+        "timestamp": "1721175827",
+        "url": "mail_display.php?timestamp=1721175827",
+        "date": "2024/07/17 08:23",
+        "department": "總務處",
+        "author": {
+            "department": "總務處",
+            "name": "塗蕙慈",
+            "email": "charissa@gms.ndhu.edu.tw",
+            "phone": "8906303"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【主計室徵才公告】",
         "timestamp": "1721097278",
         "url": "mail_display.php?timestamp=1721097278",
@@ -194,19 +208,5 @@
             "phone": "03-8905532"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【徵才公告】 國立東華大學學務處畢業生及校友服務組徵聘職務代理人一名（第二次公告）",
-        "timestamp": "1718697323",
-        "url": "mail_display.php?timestamp=1718697323",
-        "date": "2024/06/18 15:55",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "溫小姐",
-            "email": "fengting0804@gms.ndhu.edu.tw",
-            "phone": "6282"
-        },
-        "attachmentCount": 0
     }
 ]

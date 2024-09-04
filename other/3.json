@@ -1,5 +1,47 @@
 [
     {
+        "title": "8/29(四)學人宿舍(包含幼稚園)停水公告",
+        "timestamp": "1724763755",
+        "url": "mail_display.php?timestamp=1724763755",
+        "date": "2024/08/27 21:02",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【訊息轉知】國立高雄科技大學開設6門磨課師(MOOCs)線上課程",
+        "timestamp": "1724739097",
+        "url": "mail_display.php?timestamp=1724739097",
+        "date": "2024/08/27 14:11",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 8
+    },
+    {
+        "title": "湖畔電梯故障維修公告",
+        "timestamp": "1724670497",
+        "url": "mail_display.php?timestamp=1724670497",
+        "date": "2024/08/26 19:08",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "全校區緊急停水公告",
         "timestamp": "1724561631",
         "url": "mail_display.php?timestamp=1724561631",
@@ -166,47 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【徵才】臺中市就業服務處113年8月23日辦理「富市台中 就業成功」山線地區壯世代徵才活動",
-        "timestamp": "1724133639",
-        "url": "mail_display.php?timestamp=1724133639",
-        "date": "2024/08/20 14:00",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【徵才】臺東縣學生輔導諮商中心113年度專業輔導人員第三次甄選(心理師、社工師)",
-        "timestamp": "1724132281",
-        "url": "mail_display.php?timestamp=1724132281",
-        "date": "2024/08/20 13:38",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 6
-    },
-    {
-        "title": "【徵才】國家中山科學研究院「113年第28次專案人力進用招考甄試」(資訊通信研究所)",
-        "timestamp": "1724126308",
-        "url": "mail_display.php?timestamp=1724126308",
-        "date": "2024/08/20 11:58",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 2
     }
 ]
