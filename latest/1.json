@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】中華民國善愛協會第43期「古秉家先生清寒獎助學金」 (限低、中低收)",
+        "timestamp": "1725467992",
+        "url": "mail_display.php?timestamp=1725467992",
+        "date": "2024/09/05 00:39",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】燃燈基金會2024年秋季清寒學生助學 (限大一、二)",
         "timestamp": "1725464955",
         "url": "mail_display.php?timestamp=1725464955",
@@ -194,19 +208,5 @@
             "phone": "8905824"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "阿美族語口譯微學程",
-        "timestamp": "1725409909",
-        "url": "mail_display.php?timestamp=1725409909",
-        "date": "2024/09/04 08:31",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "巴莉亞妲‧蘇利伊",
-            "email": "damu@gms.ndhu.edu.tw",
-            "phone": "8905824"
-        },
-        "attachmentCount": 1
     }
 ]
