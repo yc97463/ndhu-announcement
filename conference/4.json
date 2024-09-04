@@ -1,5 +1,19 @@
 [
     {
+        "title": "【法專班講座】rikec法學講座-第一次立法就上手：研擬反歧視法草案的經驗分享",
+        "timestamp": "1715068645",
+        "url": "mail_display.php?timestamp=1715068645",
+        "date": "2024/05/07 15:57",
+        "department": "法律學系",
+        "author": {
+            "department": "法律學系",
+            "name": "黃助理",
+            "email": "yijing@gms.ndhu.edu.tw",
+            "phone": "5663"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【法專班講座】follow原住民族部落議題講座-原住民族文化資產V.S.原住民族傳統智慧創作",
         "timestamp": "1715068432",
         "url": "mail_display.php?timestamp=1715068432",
@@ -194,19 +208,5 @@
             "phone": "890-5663"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "[0503 CSIE X ICDF SPEECH Bonus Hours] HEROIC ODYSSEY: A SONNET OF MY DAYS IN DIPLOMACY BY TAIWANICDF SECRETARY GENERAL CHARLES C. LI",
-        "timestamp": "1714358631",
-        "url": "mail_display.php?timestamp=1714358631",
-        "date": "2024/04/29 10:43",
-        "department": "資訊工程學系",
-        "author": {
-            "department": "資訊工程學系",
-            "name": "謝嘉文",
-            "email": "cbjiawen@gms.ndhu.edu.tw",
-            "phone": "8905026"
-        },
-        "attachmentCount": 3
     }
 ]
