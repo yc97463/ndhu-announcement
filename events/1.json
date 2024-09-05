@@ -1,5 +1,19 @@
 [
     {
+        "title": "公告113-1校核心通識課程-「職場倫理與工作態度」課程尚有名額，敬請踴躍加選課程",
+        "timestamp": "1725523923",
+        "url": "mail_display.php?timestamp=1725523923",
+        "date": "2024/09/05 16:12",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "8906607"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【代轉學生會公告】第14屆東華學生會成員招募",
         "timestamp": "1725521739",
         "url": "mail_display.php?timestamp=1725521739",
@@ -194,19 +208,5 @@
             "phone": "03-8906284"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【教學卓越中心】敬邀請參加113-1教學實踐研究計畫工作坊及主題座談活動",
-        "timestamp": "1725345746",
-        "url": "mail_display.php?timestamp=1725345746",
-        "date": "2024/09/03 14:42",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "陳禮凡",
-            "email": "LIFAN.CHEN@gms.ndhu.edu.tw",
-            "phone": "038906586"
-        },
-        "attachmentCount": 3
     }
 ]

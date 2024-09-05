@@ -1,5 +1,19 @@
 [
     {
+        "title": "8/29(四)學人宿舍(包含幼稚園)停水公告",
+        "timestamp": "1724763755",
+        "url": "mail_display.php?timestamp=1724763755",
+        "date": "2024/08/27 21:02",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "學生活動中心化糞池埋設工程公告",
         "timestamp": "1724750275",
         "url": "mail_display.php?timestamp=1724750275",
@@ -194,19 +208,5 @@
             "phone": "5778"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【極重要】 113年8月23日(五)08:00~20:00壽豐校區配合台電公司線路保養全校區停電",
-        "timestamp": "1724293578",
-        "url": "mail_display.php?timestamp=1724293578",
-        "date": "2024/08/22 10:26",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉景富",
-            "email": "nickak@gms.ndhu.edu.tw",
-            "phone": "(03)8906373"
-        },
-        "attachmentCount": 1
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "⭐教育大數據⭐學習如何以大數據來解讀教育的問題！",
+        "timestamp": "1710312978",
+        "url": "mail_display.php?timestamp=1710312978",
+        "date": "2024/03/13 14:56",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【微學程推廣】國立東華大學教育大數據微學程—學習如何以大數據來解讀教育的問題！",
         "timestamp": "1710229777",
         "url": "mail_display.php?timestamp=1710229777",
@@ -192,20 +206,6 @@
             "name": "中等學程組",
             "email": "amylo@gms.ndhu.edu.tw",
             "phone": "(03)890-6632"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【課程推推】📢社會實踐微課程 112-2專案財務管理與行銷 開始報名📢",
-        "timestamp": "1708326740",
-        "url": "mail_display.php?timestamp=1708326740",
-        "date": "2024/02/19 15:12",
-        "department": "社會參與中心",
-        "author": {
-            "department": "社會參與中心",
-            "name": "童小姐",
-            "email": "tung-sin@gms.ndhu.edu.tw",
-            "phone": "5243"
         },
         "attachmentCount": 3
     }

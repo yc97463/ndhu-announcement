@@ -1,5 +1,33 @@
 [
     {
+        "title": "【職涯講座】數位力提升",
+        "timestamp": "1725407706",
+        "url": "mail_display.php?timestamp=1725407706",
+        "date": "2024/09/04 07:55",
+        "department": "學務處 畢業生及校友服務組",
+        "author": {
+            "department": "學務處 畢業生及校友服務組",
+            "name": "張雯婷",
+            "email": "kz02820@gms.ndhu.edu.tw",
+            "phone": "03-8906284"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【職涯講座】從心而行的人生設計",
+        "timestamp": "1725407705",
+        "url": "mail_display.php?timestamp=1725407705",
+        "date": "2024/09/04 07:55",
+        "department": "學務處 畢業生及校友服務組",
+        "author": {
+            "department": "學務處 畢業生及校友服務組",
+            "name": "張雯婷",
+            "email": "kz02820@gms.ndhu.edu.tw",
+            "phone": "03-8906284"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【職涯講座】溝通技巧與衝突管理",
         "timestamp": "1725407704",
         "url": "mail_display.php?timestamp=1725407704",
@@ -180,33 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【教學卓越中心】敬邀請參加113-1教學實踐研究計畫工作坊及主題座談活動",
-        "timestamp": "1725345746",
-        "url": "mail_display.php?timestamp=1725345746",
-        "date": "2024/09/03 14:42",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "陳禮凡",
-            "email": "LIFAN.CHEN@gms.ndhu.edu.tw",
-            "phone": "038906586"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【更正公告】有關檢附113年本校資深優良教職員工表揚名冊疏誤案。",
-        "timestamp": "1725344953",
-        "url": "mail_display.php?timestamp=1725344953",
-        "date": "2024/09/03 14:29",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "劉昱淩",
-            "email": "e56187@gms.ndhu.edu.tw",
-            "phone": "890-6056"
-        },
-        "attachmentCount": 0
     }
 ]
