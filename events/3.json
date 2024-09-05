@@ -1,5 +1,33 @@
 [
     {
+        "title": "【TA講座】東華E學苑使用說明(必修)",
+        "timestamp": "1725321314",
+        "url": "mail_display.php?timestamp=1725321314",
+        "date": "2024/09/03 07:55",
+        "department": "教學卓越中心 教學與學習組",
+        "author": {
+            "department": "教學卓越中心 教學與學習組",
+            "name": "游家盛",
+            "email": "hyttepd@gms.ndhu.edu.tw",
+            "phone": "6589"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【TA講座】一般教室使用說明:資訊講桌相關操作及須知(必修)",
+        "timestamp": "1725321313",
+        "url": "mail_display.php?timestamp=1725321313",
+        "date": "2024/09/03 07:55",
+        "department": "教學卓越中心 教學與學習組",
+        "author": {
+            "department": "教學卓越中心 教學與學習組",
+            "name": "游家盛",
+            "email": "hyttepd@gms.ndhu.edu.tw",
+            "phone": "6589"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【TA講座】一般教室使用說明:包含工學院、原民院、管理學院、教育學院、環境學院使用說明(無資訊講桌) (必修)",
         "timestamp": "1725321312",
         "url": "mail_display.php?timestamp=1725321312",
@@ -180,33 +208,5 @@
             "phone": "6023"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "體育館『體能訓練室』113-1學期開放申請公告",
-        "timestamp": "1725259632",
-        "url": "mail_display.php?timestamp=1725259632",
-        "date": "2024/09/02 14:47",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "沈正雄",
-            "email": "chshen@gms.ndhu.edu.tw",
-            "phone": "6618"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "113-1校核心通識課程異動(停開課程)公告",
-        "timestamp": "1725241598",
-        "url": "mail_display.php?timestamp=1725241598",
-        "date": "2024/09/02 09:46",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 1
     }
 ]
