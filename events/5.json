@@ -1,5 +1,19 @@
 [
     {
+        "title": "21世紀的花蓮20年： 第七屆花蓮學研討會",
+        "timestamp": "1724910902",
+        "url": "mail_display.php?timestamp=1724910902",
+        "date": "2024/08/29 13:55",
+        "department": "人文社會科學學院 ",
+        "author": {
+            "department": "人文社會科學學院",
+            "name": "陳瑞琪",
+            "email": "pooh21633@gms.ndhu.edu.tw",
+            "phone": "0982-525885"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【活動公告】紅學中心與聯合文學合辦2024臺灣文學巡禮—花蓮場",
         "timestamp": "1724838235",
         "url": "mail_display.php?timestamp=1724838235",
@@ -194,19 +208,5 @@
             "phone": "5824"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【活動轉知】臺北醫學大學校園AI教育智慧應用研討會-微軟Copilot獨家實作演練",
-        "timestamp": "1724134650",
-        "url": "mail_display.php?timestamp=1724134650",
-        "date": "2024/08/20 14:17",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 2
     }
 ]
