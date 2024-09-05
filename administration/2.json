@@ -1,5 +1,19 @@
 [
     {
+        "title": "113-1校核心通識課程異動(停開課程)公告",
+        "timestamp": "1725241598",
+        "url": "mail_display.php?timestamp=1725241598",
+        "date": "2024/09/02 09:46",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "8906607"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【投票提醒】9月2日早上10點至下午2點請至校園會議投票系統投票-113至114學年度校務基金工作人員陞遷暨考核委員會票選委員遴選。",
         "timestamp": "1725238263",
         "url": "mail_display.php?timestamp=1725238263",
@@ -194,19 +208,5 @@
             "phone": "03-8906399"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【投票通知】(更正)辦理本校113至114學年度校務基金工作人員陞遷暨考核委員會票選委員遴選。",
-        "timestamp": "1724766491",
-        "url": "mail_display.php?timestamp=1724766491",
-        "date": "2024/08/27 21:48",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "林淑惠",
-            "email": "linsh@gms.ndhu.edu.tw",
-            "phone": "038906059"
-        },
-        "attachmentCount": 4
     }
 ]
