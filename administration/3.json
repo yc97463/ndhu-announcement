@@ -1,5 +1,19 @@
 [
     {
+        "title": "禁用遠端桌面服務【第二次公告】",
+        "timestamp": "1724738466",
+        "url": "mail_display.php?timestamp=1724738466",
+        "date": "2024/08/27 14:01",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "黃金城",
+            "email": "hjc@gms.ndhu.edu.tw",
+            "phone": "6724"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "公告113-1校核心資訊科技領域-「無人機操作與飛行創作」(初級程式設計)課程尚有名額，敬請踴躍加選課程",
         "timestamp": "1724736053",
         "url": "mail_display.php?timestamp=1724736053",
@@ -194,19 +208,5 @@
             "phone": "6390"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "擴大行政會議 會議紀錄公告通知",
-        "timestamp": "1724222334",
-        "url": "mail_display.php?timestamp=1724222334",
-        "date": "2024/08/21 14:38",
-        "department": "秘書室議事公文組",
-        "author": {
-            "department": "秘書室議事公文組",
-            "name": "陳婉婉",
-            "email": "secretariat@gms.ndhu.edu.tw",
-            "phone": "6004"
-        },
-        "attachmentCount": 1
     }
 ]

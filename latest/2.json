@@ -1,5 +1,19 @@
 [
     {
+        "title": "【課務組公告】113-1學期選課相關公告 Announcement about 113-1 courses selection ",
+        "timestamp": "1725437821",
+        "url": "mail_display.php?timestamp=1725437821",
+        "date": "2024/09/04 16:17",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【轉知】社團法人台灣防暴聯盟(下稱防暴聯盟)辦理之「數位性別暴力國際研討會」",
         "timestamp": "1725437141",
         "url": "mail_display.php?timestamp=1725437141",
@@ -192,20 +206,6 @@
             "name": "張雯婷",
             "email": "kz02820@gms.ndhu.edu.tw",
             "phone": "03-890-6284"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【職涯講座】職涯探索活動：盤點自己的職涯驅動力",
-        "timestamp": "1725407701",
-        "url": "mail_display.php?timestamp=1725407701",
-        "date": "2024/09/04 07:55",
-        "department": "學務處 畢業生及校友服務組",
-        "author": {
-            "department": "學務處 畢業生及校友服務組",
-            "name": "張雯婷",
-            "email": "kz02820@gms.ndhu.edu.tw",
-            "phone": "03-8906284"
         },
         "attachmentCount": 0
     }
