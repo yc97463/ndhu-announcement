@@ -1,5 +1,47 @@
 [
     {
+        "title": "【活動公告】紅學中心與聯合文學合辦2024臺灣文學巡禮—花蓮場",
+        "timestamp": "1724838235",
+        "url": "mail_display.php?timestamp=1724838235",
+        "date": "2024/08/28 17:43",
+        "department": "國際紅學研究中心",
+        "author": {
+            "department": "國際紅學研究中心",
+            "name": "池助理",
+            "email": "tcsl@gms.ndhu.edu.tw",
+            "phone": "5403"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【考試】BESTEP 培力英檢測驗報名表-11/23 花蓮場",
+        "timestamp": "1724815342",
+        "url": "mail_display.php?timestamp=1724815342",
+        "date": "2024/08/28 11:22",
+        "department": "語言中心",
+        "author": {
+            "department": "語言中心",
+            "name": "林瑜珊",
+            "email": "lc@gms.ndhu.edu.tw",
+            "phone": "03-8905492"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "公告113-1校核心資訊科技領域-「無人機操作與飛行創作」(初級程式設計)課程尚有名額，敬請踴躍加選課程",
+        "timestamp": "1724736053",
+        "url": "mail_display.php?timestamp=1724736053",
+        "date": "2024/08/27 13:20",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "8906607"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113-1校核心通識課程異動(增開及停開課程)公告",
         "timestamp": "1724735821",
         "url": "mail_display.php?timestamp=1724735821",
@@ -166,47 +208,5 @@
             "phone": "8906422"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【活動轉發】花蓮職人體驗活動【自行車帶路達人體驗】",
-        "timestamp": "1724116231",
-        "url": "mail_display.php?timestamp=1724116231",
-        "date": "2024/08/20 09:10",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "翁欣儀",
-            "email": "cari20240307@gms.ndhu.edu.tw",
-            "phone": "038903687"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【活動推推】SIG論壇-在地韌性社會重建",
-        "timestamp": "1724093460",
-        "url": "mail_display.php?timestamp=1724093460",
-        "date": "2024/08/20 02:51",
-        "department": "社會參與中心",
-        "author": {
-            "department": "社會參與中心",
-            "name": "黃小姐",
-            "email": "ellie@gms.ndhu.edu.tw",
-            "phone": "5242"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "第十七屆親善大使團招募!!",
-        "timestamp": "1724030492",
-        "url": "mail_display.php?timestamp=1724030492",
-        "date": "2024/08/19 09:21",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "游雅筑",
-            "email": "pink389124@gms.ndhu.edu.tw",
-            "phone": "8906236"
-        },
-        "attachmentCount": 4
     }
 ]
