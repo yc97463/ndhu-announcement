@@ -1,5 +1,19 @@
 [
     {
+        "title": "【代轉學生會公告】第14屆東華學生會成員招募",
+        "timestamp": "1725521739",
+        "url": "mail_display.php?timestamp=1725521739",
+        "date": "2024/09/05 15:35",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "姜紫淇",
+            "email": "yaya@gms.ndhu.edu.tw",
+            "phone": "03-8906235"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "公告113-1校核心通識課程-「國際關係導論」課程尚有名額，敬請踴躍加選課程",
         "timestamp": "1725508187",
         "url": "mail_display.php?timestamp=1725508187",
@@ -194,19 +208,5 @@
             "phone": "038906586"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【學習與創意講座】告別瞎忙的有效時間管理術(9/23)",
-        "timestamp": "1725331451",
-        "url": "mail_display.php?timestamp=1725331451",
-        "date": "2024/09/03 10:44",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "謝坤霖",
-            "email": "emc2@gms.ndhu.edu.tw",
-            "phone": "6945"
-        },
-        "attachmentCount": 1
     }
 ]
