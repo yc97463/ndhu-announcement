@@ -1,5 +1,19 @@
 [
     {
+        "title": "⭐教育大數據微學程⭐學習如何以大數據來解讀教育的問題！",
+        "timestamp": "1710397963",
+        "url": "mail_display.php?timestamp=1710397963",
+        "date": "2024/03/14 14:32",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "⭐教育大數據⭐學習如何以大數據來解讀教育的問題！",
         "timestamp": "1710312978",
         "url": "mail_display.php?timestamp=1710312978",
@@ -194,19 +208,5 @@
             "phone": "8906607"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "中等教育學程 報名公告",
-        "timestamp": "1708517628",
-        "url": "mail_display.php?timestamp=1708517628",
-        "date": "2024/02/21 20:13",
-        "department": "師資培育中心",
-        "author": {
-            "department": "師資培育中心",
-            "name": "中等學程組",
-            "email": "amylo@gms.ndhu.edu.tw",
-            "phone": "(03)890-6632"
-        },
-        "attachmentCount": 3
     }
 ]
