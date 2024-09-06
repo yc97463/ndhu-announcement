@@ -1,5 +1,19 @@
 [
     {
+        "title": "2024 秋季【資誠聯合會計師事務所】徵才說明會（限非會計學系同學報名）",
+        "timestamp": "1724910916",
+        "url": "mail_display.php?timestamp=1724910916",
+        "date": "2024/08/29 13:55",
+        "department": "管理學院 會計學系",
+        "author": {
+            "department": "管理學院 會計學系",
+            "name": "吳佳玟",
+            "email": "chiawen@gms.ndhu.edu.tw",
+            "phone": "3073"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "2024 秋季【資誠聯合會計師事務所】徵才說明會（限會計學系同學報名）",
         "timestamp": "1724910915",
         "url": "mail_display.php?timestamp=1724910915",
@@ -194,19 +208,5 @@
             "phone": "0982-525885"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【活動公告】紅學中心與聯合文學合辦2024臺灣文學巡禮—花蓮場",
-        "timestamp": "1724838235",
-        "url": "mail_display.php?timestamp=1724838235",
-        "date": "2024/08/28 17:43",
-        "department": "國際紅學研究中心",
-        "author": {
-            "department": "國際紅學研究中心",
-            "name": "池助理",
-            "email": "tcsl@gms.ndhu.edu.tw",
-            "phone": "5403"
-        },
-        "attachmentCount": 2
     }
 ]

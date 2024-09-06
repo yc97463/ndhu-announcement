@@ -1,5 +1,19 @@
 [
     {
+        "title": "🚂東華玩具樂園物流中心 九月玩具志工招募中！",
+        "timestamp": "1725605442",
+        "url": "mail_display.php?timestamp=1725605442",
+        "date": "2024/09/06 14:50",
+        "department": "管理學院",
+        "author": {
+            "department": "管理學院",
+            "name": "江東隆",
+            "email": "techusr@gms.ndhu.edu.tw",
+            "phone": "3772"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "113-1校核心通識課程尚有選課人數統計資料公告",
         "timestamp": "1725599877",
         "url": "mail_display.php?timestamp=1725599877",
@@ -194,19 +208,5 @@
             "phone": "8906607"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "113族文迎新活動",
-        "timestamp": "1725494103",
-        "url": "mail_display.php?timestamp=1725494103",
-        "date": "2024/09/05 07:55",
-        "department": "原住民民族學院 族群關係與文化學系",
-        "author": {
-            "department": "原住民民族學院 族群關係與文化學系",
-            "name": "黃淑美",
-            "email": "411296030@gms.ntct.edu.tw",
-            "phone": "陳冠文  0971738086"
-        },
-        "attachmentCount": 0
     }
 ]
