@@ -1,5 +1,33 @@
 [
     {
+        "title": "【獎助學金申請】昌益事業群113-1「昌益慈善基金會助學獎學金」",
+        "timestamp": "1724230869",
+        "url": "mail_display.php?timestamp=1724230869",
+        "date": "2024/08/21 17:01",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【獎助學金申請】中華佛教善緣慈善會113-1清寒學生【誌善】進步獎學金",
+        "timestamp": "1724228767",
+        "url": "mail_display.php?timestamp=1724228767",
+        "date": "2024/08/21 16:26",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】宜蘭縣113-1優秀學生獎學金 (限宜蘭縣籍)",
         "timestamp": "1724223262",
         "url": "mail_display.php?timestamp=1724223262",
@@ -180,33 +208,5 @@
             "phone": "03-8906219"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【獎助學金申請】本校113-1學期「德承玉馨獎助學金」 (非低收入戶，家逢變故或經濟困難)",
-        "timestamp": "1723606699",
-        "url": "mail_display.php?timestamp=1723606699",
-        "date": "2024/08/14 11:38",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "總務處事務组徵求113學年度新生報到交通管制工讀生公告",
-        "timestamp": "1723606496",
-        "url": "mail_display.php?timestamp=1723606496",
-        "date": "2024/08/14 11:34",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "戴永智",
-            "email": "caramel623@gms.ndhu.edu.tw",
-            "phone": "038906402"
-        },
-        "attachmentCount": 1
     }
 ]
