@@ -1,5 +1,33 @@
 [
     {
+        "title": "【獎助學金申請】鄭豐喜文化教育基金會113年度「肢障 (中度以上) 清寒家庭子女獎助學金」",
+        "timestamp": "1725603877",
+        "url": "mail_display.php?timestamp=1725603877",
+        "date": "2024/09/06 14:24",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【獎助學金申請】鄭豐喜文化教育基金會113年度「鄭豐喜研究所/大學獎學金」 (限肢體障礙生)",
+        "timestamp": "1725603018",
+        "url": "mail_display.php?timestamp=1725603018",
+        "date": "2024/09/06 14:10",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "健康中心已於9/2搬遷至學生活動中心C103(Health Center Relocated to Student Activity Center C103 as of September 2)",
         "timestamp": "1725600731",
         "url": "mail_display.php?timestamp=1725600731",
@@ -180,33 +208,5 @@
             "phone": "6057"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【語傳系】首創「阿美族語口譯微學程」",
-        "timestamp": "1725585352",
-        "url": "mail_display.php?timestamp=1725585352",
-        "date": "2024/09/06 09:15",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "白靚",
-            "email": "damu@gms.ndhu.edu.tw",
-            "phone": "8905825"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【公行系新生活動】113學士班院系時間(學系說明)暨新生座談會(限公行一新生報名)",
-        "timestamp": "1725580501",
-        "url": "mail_display.php?timestamp=1725580501",
-        "date": "2024/09/06 07:55",
-        "department": "人文社會科學學院 公共行政學系",
-        "author": {
-            "department": "人文社會科學學院 公共行政學系",
-            "name": "蔡語宸",
-            "email": "yuchen@gms.ndhu.edu.tw",
-            "phone": "038905512"
-        },
-        "attachmentCount": 0
     }
 ]
