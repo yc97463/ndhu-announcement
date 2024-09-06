@@ -1,5 +1,33 @@
 [
     {
+        "title": "原民新生運動會暨迎新晚會",
+        "timestamp": "1724910910",
+        "url": "mail_display.php?timestamp=1724910910",
+        "date": "2024/08/29 13:55",
+        "department": "學務處 原住民族學生資源中心",
+        "author": {
+            "department": "學務處 原住民族學生資源中心",
+            "name": "曾暐娟",
+            "email": "kinu@gms.ndhu.edu.tw",
+            "phone": "(03)890-5759"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "招募113-114年花蓮縣「學校青年服勤大隊」東華大學中隊 服勤人員",
+        "timestamp": "1724910909",
+        "url": "mail_display.php?timestamp=1724910909",
+        "date": "2024/08/29 13:55",
+        "department": "學務處 生活輔導組",
+        "author": {
+            "department": "學務處 生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "03-8906225"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "原資中心程式與科技課程修課說明會",
         "timestamp": "1724910908",
         "url": "mail_display.php?timestamp=1724910908",
@@ -180,33 +208,5 @@
             "phone": "6057"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "重發：「生成式AI與當代史學發展新趨勢：大眾史學的關鍵省思與展望」工作坊(9/19-20)",
-        "timestamp": "1724561365",
-        "url": "mail_display.php?timestamp=1724561365",
-        "date": "2024/08/25 12:49",
-        "department": "歷史學系",
-        "author": {
-            "department": "歷史學系",
-            "name": "潘宗億",
-            "email": "typan@gms.ndhu.edu.tw",
-            "phone": "03-8905338"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "「生成式AI與當代史學發展新趨勢：大眾史學的關鍵省思與展望」工作坊（9/19-9/20)",
-        "timestamp": "1724560673",
-        "url": "mail_display.php?timestamp=1724560673",
-        "date": "2024/08/25 12:37",
-        "department": "歷史學系",
-        "author": {
-            "department": "歷史學系",
-            "name": "潘宗億",
-            "email": "typan@gms.ndhu.edu.tw",
-            "phone": "03-8905338"
-        },
-        "attachmentCount": 3
     }
 ]

@@ -1,5 +1,33 @@
 [
     {
+        "title": "【第2次公告】敬邀本校教職員參加113年度中秋節暨教師節聯誼餐會。",
+        "timestamp": "1725585363",
+        "url": "mail_display.php?timestamp=1725585363",
+        "date": "2024/09/06 09:16",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "陳治豪",
+            "email": "jackchen168@gms.ndhu.edu.tw",
+            "phone": "6057"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【公行系新生活動】113學士班院系時間(學系說明)暨新生座談會(限公行一新生報名)",
+        "timestamp": "1725580501",
+        "url": "mail_display.php?timestamp=1725580501",
+        "date": "2024/09/06 07:55",
+        "department": "人文社會科學學院 公共行政學系",
+        "author": {
+            "department": "人文社會科學學院 公共行政學系",
+            "name": "蔡語宸",
+            "email": "yuchen@gms.ndhu.edu.tw",
+            "phone": "038905512"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【新生入學活動】邀請本校全體師生蒞臨「113學年度新生入學活動-社團博覽會\u0026東華之夜」[Freshman Admissions Event] Welcome to 2024 NDHU Freshmen Orientation \" Event - Club Expo \u0026 Dong Hwa Night\"",
         "timestamp": "1725534544",
         "url": "mail_display.php?timestamp=1725534544",
@@ -180,33 +208,5 @@
             "phone": "8905824"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【職涯講座】數位力提升",
-        "timestamp": "1725407706",
-        "url": "mail_display.php?timestamp=1725407706",
-        "date": "2024/09/04 07:55",
-        "department": "學務處 畢業生及校友服務組",
-        "author": {
-            "department": "學務處 畢業生及校友服務組",
-            "name": "張雯婷",
-            "email": "kz02820@gms.ndhu.edu.tw",
-            "phone": "03-8906284"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【職涯講座】從心而行的人生設計",
-        "timestamp": "1725407705",
-        "url": "mail_display.php?timestamp=1725407705",
-        "date": "2024/09/04 07:55",
-        "department": "學務處 畢業生及校友服務組",
-        "author": {
-            "department": "學務處 畢業生及校友服務組",
-            "name": "張雯婷",
-            "email": "kz02820@gms.ndhu.edu.tw",
-            "phone": "03-8906284"
-        },
-        "attachmentCount": 0
     }
 ]
