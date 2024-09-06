@@ -1,5 +1,19 @@
 [
     {
+        "title": "【TA Course】Say goodbye to your fright. (English taught course)",
+        "timestamp": "1725321317",
+        "url": "mail_display.php?timestamp=1725321317",
+        "date": "2024/09/03 07:55",
+        "department": "教學卓越中心 教學與學習組",
+        "author": {
+            "department": "教學卓越中心 教學與學習組",
+            "name": "游家盛",
+            "email": "hyttepd@gms.ndhu.edu.tw",
+            "phone": "6589"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【TA Course】Guidelines to Using NDHU teaching facilities (CC) (English taught course)",
         "timestamp": "1725321316",
         "url": "mail_display.php?timestamp=1725321316",
@@ -192,20 +206,6 @@
             "name": "林淑玲",
             "email": "shuling@gms.ndhu.edu.tw",
             "phone": "8903204"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【TA講座】東華E學苑使用說明(必修)",
-        "timestamp": "1725321302",
-        "url": "mail_display.php?timestamp=1725321302",
-        "date": "2024/09/03 07:55",
-        "department": "教學卓越中心 教學與學習組",
-        "author": {
-            "department": "教學卓越中心 教學與學習組",
-            "name": "游家盛",
-            "email": "hyttepd@gms.ndhu.edu.tw",
-            "phone": "6589"
         },
         "attachmentCount": 0
     }

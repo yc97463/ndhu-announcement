@@ -1,5 +1,19 @@
 [
     {
+        "title": "諮商中心-【好好說再見】分手失落情緒支持團體",
+        "timestamp": "1725592454",
+        "url": "mail_display.php?timestamp=1725592454",
+        "date": "2024/09/06 11:14",
+        "department": "心理諮商輔導中心",
+        "author": {
+            "department": "心理諮商輔導中心",
+            "name": "陳奕錚",
+            "email": "yjchen92@gms.ndhu.edu.tw",
+            "phone": "(03)890-6894"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【第2次公告】敬邀本校教職員參加113年度中秋節暨教師節聯誼餐會。",
         "timestamp": "1725585363",
         "url": "mail_display.php?timestamp=1725585363",
@@ -194,19 +208,5 @@
             "phone": "(03)890-5707"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "阿美族語口譯微學程",
-        "timestamp": "1725409909",
-        "url": "mail_display.php?timestamp=1725409909",
-        "date": "2024/09/04 08:31",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "巴莉亞妲‧蘇利伊",
-            "email": "damu@gms.ndhu.edu.tw",
-            "phone": "8905824"
-        },
-        "attachmentCount": 1
     }
 ]
