@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才】新竹市政府社會福利服務中心兼職助理員徵才(社會工作相關系所)",
+        "timestamp": "1724135822",
+        "url": "mail_display.php?timestamp=1724135822",
+        "date": "2024/08/20 14:37",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【訊息轉知】東吳大學開設2門磨課師(MOOCs)線上課程",
         "timestamp": "1724135032",
         "url": "mail_display.php?timestamp=1724135032",
@@ -194,19 +208,5 @@
             "phone": "8906236"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "圖書館貨梯及原民院電梯1故障維修公告",
-        "timestamp": "1723814038",
-        "url": "mail_display.php?timestamp=1723814038",
-        "date": "2024/08/16 21:13",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
     }
 ]

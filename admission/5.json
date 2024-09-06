@@ -1,6 +1,20 @@
 [
     {
         "title": "⭐教育大數據微學程⭐學習如何以大數據來解讀教育的問題！",
+        "timestamp": "1710470203",
+        "url": "mail_display.php?timestamp=1710470203",
+        "date": "2024/03/15 10:36",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "⭐教育大數據微學程⭐學習如何以大數據來解讀教育的問題！",
         "timestamp": "1710397963",
         "url": "mail_display.php?timestamp=1710397963",
         "date": "2024/03/14 14:32",
@@ -194,19 +208,5 @@
             "phone": "8906607"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【公告】112學年度第2學期資訊科技(程式設計)課程免修申請審核通過名單 ",
-        "timestamp": "1708579168",
-        "url": "mail_display.php?timestamp=1708579168",
-        "date": "2024/02/22 13:19",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 1
     }
 ]
