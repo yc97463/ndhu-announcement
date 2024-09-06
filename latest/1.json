@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才公告】國立東華大學總務處環保組徵聘【校務基金職務代理人】",
+        "timestamp": "1725614651",
+        "url": "mail_display.php?timestamp=1725614651",
+        "date": "2024/09/06 17:24",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "許智翔",
+            "email": "cocco3746@gms.ndhu.edu.tw",
+            "phone": "03-8906399"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "學生事務處搬遷公告-第二次公告",
         "timestamp": "1725611055",
         "url": "mail_display.php?timestamp=1725611055",
@@ -194,19 +208,5 @@
             "phone": "6579"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "第十七屆親善大使團招募!!",
-        "timestamp": "1725594634",
-        "url": "mail_display.php?timestamp=1725594634",
-        "date": "2024/09/06 11:50",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "游雅筑",
-            "email": "pink389124@gms.ndhu.edu.tw",
-            "phone": "03-8906236"
-        },
-        "attachmentCount": 4
     }
 ]

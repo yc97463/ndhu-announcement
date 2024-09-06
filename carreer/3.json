@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才訊息】東華大學附設花蓮縣私立實驗幼兒園徵聘幼教師/教保員/教師助理",
+        "timestamp": "1721282615",
+        "url": "mail_display.php?timestamp=1721282615",
+        "date": "2024/07/18 14:03",
+        "department": "附設實驗幼兒園",
+        "author": {
+            "department": "附設實驗幼兒園",
+            "name": "魏家薰",
+            "email": "uniquejoannewei@gms.ndhu.edu.tw",
+            "phone": "6652"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才公告】國立東華大學總務處徵聘【校務基金短(定)期助理】",
         "timestamp": "1721175827",
         "url": "mail_display.php?timestamp=1721175827",
@@ -194,19 +208,5 @@
             "phone": "6351"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【徵聘教師】國立東華大學經濟學系徵聘專任教師二名",
-        "timestamp": "1718771539",
-        "url": "mail_display.php?timestamp=1718771539",
-        "date": "2024/06/19 12:32",
-        "department": "經濟學系",
-        "author": {
-            "department": "經濟學系",
-            "name": "李姸如",
-            "email": "yrlee@gms.ndhu.edu.tw",
-            "phone": "03-8905532"
-        },
-        "attachmentCount": 2
     }
 ]

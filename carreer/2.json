@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才公告】國立東華大學總務處出納組徵聘校務基金助理一名",
+        "timestamp": "1723716986",
+        "url": "mail_display.php?timestamp=1723716986",
+        "date": "2024/08/15 18:16",
+        "department": "總務處出納組",
+        "author": {
+            "department": "總務處出納組",
+            "name": "許紹峯",
+            "email": "hsf113@gms.ndhu.edu.tw",
+            "phone": "6361"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵聘教師公告】國立東華大學企業管理學系暨運籌管理研究所徵聘專任教師2名",
         "timestamp": "1723535524",
         "url": "mail_display.php?timestamp=1723535524",
@@ -194,19 +208,5 @@
             "phone": "03-8906399"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【徵才訊息】東華大學附設花蓮縣私立實驗幼兒園徵聘幼教師/教保員/教師助理",
-        "timestamp": "1721282615",
-        "url": "mail_display.php?timestamp=1721282615",
-        "date": "2024/07/18 14:03",
-        "department": "附設實驗幼兒園",
-        "author": {
-            "department": "附設實驗幼兒園",
-            "name": "魏家薰",
-            "email": "uniquejoannewei@gms.ndhu.edu.tw",
-            "phone": "6652"
-        },
-        "attachmentCount": 0
     }
 ]
