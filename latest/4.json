@@ -1,5 +1,19 @@
 [
     {
+        "title": "【通識】113-1學期通識課程活動補助申請(延長至9/9(一)截止收件)(第三次公告)",
+        "timestamp": "1725411556",
+        "url": "mail_display.php?timestamp=1725411556",
+        "date": "2024/09/04 08:59",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "李睿芬",
+            "email": "fen19@gms.ndhu.edu.tw",
+            "phone": "6602"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【課務組】113-1學期兼任教師教學、課程停開及請假補（代）課 提醒事項",
         "timestamp": "1725411481",
         "url": "mail_display.php?timestamp=1725411481",
@@ -194,19 +208,5 @@
             "phone": "03-8906284"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【推廣教育填報改版通知】112學年第2學期課程資料填報作業暨系統改版通知",
-        "timestamp": "1725349713",
-        "url": "mail_display.php?timestamp=1725349713",
-        "date": "2024/09/03 15:48",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "洪乃慈",
-            "email": "naitzu@gms.ndhu.edu.tw",
-            "phone": "6523"
-        },
-        "attachmentCount": 2
     }
 ]

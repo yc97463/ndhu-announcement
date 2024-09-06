@@ -1,5 +1,19 @@
 [
     {
+        "title": "【Deloitte勤業眾信 x 東華大學】2024審計與電腦審計徵才說明會",
+        "timestamp": "1725494102",
+        "url": "mail_display.php?timestamp=1725494102",
+        "date": "2024/09/05 07:55",
+        "department": "管理學院 會計學系",
+        "author": {
+            "department": "管理學院 會計學系",
+            "name": "吳佳玟",
+            "email": "chiawen@gms.ndhu.edu.tw",
+            "phone": "3073"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "國立東華大學教育大數據計畫—微學程招生說明會",
         "timestamp": "1725494101",
         "url": "mail_display.php?timestamp=1725494101",
@@ -194,19 +208,5 @@
             "phone": "(03)890-5707"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【通識】113-1學期通識課程活動補助申請(延長至9/9(一)截止收件)(第三次公告)",
-        "timestamp": "1725411556",
-        "url": "mail_display.php?timestamp=1725411556",
-        "date": "2024/09/04 08:59",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "李睿芬",
-            "email": "fen19@gms.ndhu.edu.tw",
-            "phone": "6602"
-        },
-        "attachmentCount": 4
     }
 ]
