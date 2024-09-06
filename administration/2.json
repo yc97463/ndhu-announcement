@@ -1,5 +1,33 @@
 [
     {
+        "title": "學生事務處搬遷公告",
+        "timestamp": "1725256920",
+        "url": "mail_display.php?timestamp=1725256920",
+        "date": "2024/09/02 14:02",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "學務處",
+            "email": "chchiou@gms.ndhu.edu.tw",
+            "phone": "０３８９０６２０３"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【公告】教育部修正「教育部及所屬機關（構）辦理各類會議講習訓練與研討（習）會管理要點」第二點、第六點規定，並自即日生效",
+        "timestamp": "1725247479",
+        "url": "mail_display.php?timestamp=1725247479",
+        "date": "2024/09/02 11:24",
+        "department": "主計室",
+        "author": {
+            "department": "主計室",
+            "name": "曾俊達",
+            "email": "kleiber0576@gms.ndhu.edu.tw",
+            "phone": "(03)8906079"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "阿美語口譯微學程",
         "timestamp": "1725243536",
         "url": "mail_display.php?timestamp=1725243536",
@@ -180,33 +208,5 @@
             "phone": "5778"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "本校113學年9月開學校內委外廠商營業時間公告",
-        "timestamp": "1724808564",
-        "url": "mail_display.php?timestamp=1724808564",
-        "date": "2024/08/28 09:29",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "賴榮璉",
-            "email": "chrishnalai@gms.ndhu.edu.tw",
-            "phone": "6237"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "113年9月份全校綠地除草維護時間及施作區域公告",
-        "timestamp": "1724808256",
-        "url": "mail_display.php?timestamp=1724808256",
-        "date": "2024/08/28 09:24",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "賴宜萱",
-            "email": "lai0210@gms.ndhu.edu.tw",
-            "phone": "6393"
-        },
-        "attachmentCount": 1
     }
 ]
