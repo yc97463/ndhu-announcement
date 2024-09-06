@@ -1,5 +1,33 @@
 [
     {
+        "title": "健康中心已於9/2搬遷至學生活動中心C103(Health Center Relocated to Student Activity Center C103 as of September 2)",
+        "timestamp": "1725600731",
+        "url": "mail_display.php?timestamp=1725600731",
+        "date": "2024/09/06 13:32",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "吳星穎",
+            "email": "carmier@gms.ndhu.edu.tw",
+            "phone": "8906252"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【獎助學金申請】崇友文教基金會2024年第十屆崇友實業獎學金 (限電機大二、三家境困難)",
+        "timestamp": "1725600636",
+        "url": "mail_display.php?timestamp=1725600636",
+        "date": "2024/09/06 13:30",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "113-1校核心通識課程尚有選課人數統計資料公告",
         "timestamp": "1725599877",
         "url": "mail_display.php?timestamp=1725599877",
@@ -180,33 +208,5 @@
             "phone": "038905512"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【獎助學金申請】新竹縣113-1清寒優秀學生獎學金 (限新竹縣籍)",
-        "timestamp": "1725548244",
-        "url": "mail_display.php?timestamp=1725548244",
-        "date": "2024/09/05 22:57",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【獎助學金申請】張榮發基金會113學年度清寒學生助學金",
-        "timestamp": "1725546794",
-        "url": "mail_display.php?timestamp=1725546794",
-        "date": "2024/09/05 22:33",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]

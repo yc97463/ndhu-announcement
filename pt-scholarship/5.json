@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】本校113-1學期「許茂林先生清寒勵志獎助學金」 ",
+        "timestamp": "1723606099",
+        "url": "mail_display.php?timestamp=1723606099",
+        "date": "2024/08/14 11:28",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】美國康德基金會113學年度「臺灣大學生黃金年華」助學金 (家境清寒或家逢變故，非花蓮縣籍、非低收入戶)",
         "timestamp": "1723605290",
         "url": "mail_display.php?timestamp=1723605290",
@@ -186,20 +200,6 @@
         "timestamp": "1722924316",
         "url": "mail_display.php?timestamp=1722924316",
         "date": "2024/08/06 14:05",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【獎助學金申請】恒大文教基金會113年度清寒獎學金 (低或中低收、家境特殊)",
-        "timestamp": "1722907866",
-        "url": "mail_display.php?timestamp=1722907866",
-        "date": "2024/08/06 09:31",
         "department": "學務處",
         "author": {
             "department": "學務處",

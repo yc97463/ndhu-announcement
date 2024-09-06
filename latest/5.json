@@ -1,5 +1,33 @@
 [
     {
+        "title": "【獎助學金申請】黎明文化事業基金會113年度大專院校學生獎學金 (限軍榮眷子女、身心障礙生、低收)",
+        "timestamp": "1725351879",
+        "url": "mail_display.php?timestamp=1725351879",
+        "date": "2024/09/03 16:24",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【獎助學金申請】大和建設機構113-1「大和何溪明優秀清寒獎助學金」(限諮臨系)",
+        "timestamp": "1725351236",
+        "url": "mail_display.php?timestamp=1725351236",
+        "date": "2024/09/03 16:13",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【計畫申請】⭐️勞動部114年度「結合大專校院辦理就業服務補助計畫」申請開始囉⭐️(本校申請期限：即日起至113年10月13日止)",
         "timestamp": "1725349923",
         "url": "mail_display.php?timestamp=1725349923",
@@ -180,33 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "行政大樓3樓9/9(一)~9/13(五)隔間牆封板施工公告",
-        "timestamp": "1725333865",
-        "url": "mail_display.php?timestamp=1725333865",
-        "date": "2024/09/03 11:24",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "黃章傑",
-            "email": "cotycafe@gms.ndhu.edu.tw",
-            "phone": "5778"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【獎助學金申請】台北市熱河同鄉會113年「趙自齊教育基金會資助來台深造之熱河省籍學生獎助學金」",
-        "timestamp": "1725333721",
-        "url": "mail_display.php?timestamp=1725333721",
-        "date": "2024/09/03 11:22",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]
