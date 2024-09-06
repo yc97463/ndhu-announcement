@@ -1,5 +1,19 @@
 [
     {
+        "title": "2024 秋季【資誠聯合會計師事務所】徵才說明會（限會計學系同學報名）",
+        "timestamp": "1724910915",
+        "url": "mail_display.php?timestamp=1724910915",
+        "date": "2024/08/29 13:55",
+        "department": "管理學院 會計學系",
+        "author": {
+            "department": "管理學院 會計學系",
+            "name": "吳佳玟",
+            "email": "chiawen@gms.ndhu.edu.tw",
+            "phone": "3073"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "本校113年度中秋節暨教師節聯誼餐會",
         "timestamp": "1724910914",
         "url": "mail_display.php?timestamp=1724910914",
@@ -194,19 +208,5 @@
             "phone": "5403"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【考試】BESTEP 培力英檢測驗報名表-11/23 花蓮場",
-        "timestamp": "1724815342",
-        "url": "mail_display.php?timestamp=1724815342",
-        "date": "2024/08/28 11:22",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "林瑜珊",
-            "email": "lc@gms.ndhu.edu.tw",
-            "phone": "03-8905492"
-        },
-        "attachmentCount": 3
     }
 ]

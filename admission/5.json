@@ -1,6 +1,20 @@
 [
     {
         "title": "⭐教育大數據微學程⭐學習如何以大數據來解讀教育的問題！",
+        "timestamp": "1710830742",
+        "url": "mail_display.php?timestamp=1710830742",
+        "date": "2024/03/19 14:45",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "⭐教育大數據微學程⭐學習如何以大數據來解讀教育的問題！",
         "timestamp": "1710470203",
         "url": "mail_display.php?timestamp=1710470203",
         "date": "2024/03/15 10:36",
@@ -194,19 +208,5 @@
             "phone": "6607"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【山海戲旅系列通識課程】暨秋野芒劇團公益巡演招生即將截止，倒數一天！",
-        "timestamp": "1708584481",
-        "url": "mail_display.php?timestamp=1708584481",
-        "date": "2024/02/22 14:48",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 4
     }
 ]
