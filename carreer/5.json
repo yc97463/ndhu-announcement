@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才】本校人事室徵職務代理人1名",
+        "timestamp": "1714984541",
+        "url": "mail_display.php?timestamp=1714984541",
+        "date": "2024/05/06 16:35",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "林淑惠",
+            "email": "linsh@gms.ndhu.edu.tw",
+            "phone": "038906059"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "師資培育中心徵聘戶外教育計畫碩士級或學士級助理一名",
         "timestamp": "1714719762",
         "url": "mail_display.php?timestamp=1714719762",
@@ -194,19 +208,5 @@
             "phone": "3502"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "🎆無邊境永續生活員生消費合作社誠徵「實習經營夥伴」及「時段工讀生」",
-        "timestamp": "1710766425",
-        "url": "mail_display.php?timestamp=1710766425",
-        "date": "2024/03/18 20:53",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "洄瀾共好大學社會責任中心",
-            "email": "techusr@gms.ndhu.edu.tw",
-            "phone": "3771"
-        },
-        "attachmentCount": 0
     }
 ]

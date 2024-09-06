@@ -1,5 +1,75 @@
 [
     {
+        "title": "📢📢🔆113-1學期【起飛免費學習輔導課程，精彩好康不容錯過，快來把握機會！】🔆",
+        "timestamp": "1725530737",
+        "url": "mail_display.php?timestamp=1725530737",
+        "date": "2024/09/05 18:05",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "鄭淑亭",
+            "email": "ting@gms.ndhu.edu.tw",
+            "phone": "03-8906215"
+        },
+        "attachmentCount": 7
+    },
+    {
+        "title": "【徵才】113年9月13(五) Deloitte審計與確信及電腦審計線上徵才說明會",
+        "timestamp": "1725530171",
+        "url": "mail_display.php?timestamp=1725530171",
+        "date": "2024/09/05 17:56",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 4
+    },
+    {
+        "title": "參與教育大數據微學程 開啟你的數據分析之旅—立即報名說明會！",
+        "timestamp": "1725528898",
+        "url": "mail_display.php?timestamp=1725528898",
+        "date": "2024/09/05 17:34",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "03-890-6579"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【體育中心公告】體育(一)第一週上課集合場地：體育館",
+        "timestamp": "1725527938",
+        "url": "mail_display.php?timestamp=1725527938",
+        "date": "2024/09/05 17:18",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "莊璦綺",
+            "email": "ichi@gms.ndhu.edu.tw",
+            "phone": "6613"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "人社一館第一講堂頂樓涼亭遷移至詩經花園工程施工公告(9/6~9/8)",
+        "timestamp": "1725524677",
+        "url": "mail_display.php?timestamp=1725524677",
+        "date": "2024/09/05 16:24",
+        "department": "人文社會科學學院",
+        "author": {
+            "department": "人文社會科學學院",
+            "name": "吳雅萍",
+            "email": "ypwu@gms.ndhu.edu.tw",
+            "phone": "03-8905253"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "公告113-1校核心通識課程-「職場倫理與工作態度」課程尚有名額，敬請踴躍加選課程",
         "timestamp": "1725523923",
         "url": "mail_display.php?timestamp=1725523923",
@@ -138,75 +208,5 @@
             "phone": "3073"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "國立東華大學教育大數據計畫—微學程招生說明會",
-        "timestamp": "1725494101",
-        "url": "mail_display.php?timestamp=1725494101",
-        "date": "2024/09/05 07:55",
-        "department": "理工學院 ",
-        "author": {
-            "department": "理工學院",
-            "name": "黃靖樺",
-            "email": "chinghua@gms.ndhu.edu.tw",
-            "phone": "03-890-6579"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【獎助學金申請】黃土英文教基金會113學年度英士獎學金 (限家境清寒或家逢變故)",
-        "timestamp": "1725469707",
-        "url": "mail_display.php?timestamp=1725469707",
-        "date": "2024/09/05 01:08",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【獎助學金申請】中華民國善愛協會第43期「古秉家先生清寒獎助學金」 (限低、中低收)",
-        "timestamp": "1725467992",
-        "url": "mail_display.php?timestamp=1725467992",
-        "date": "2024/09/05 00:39",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【獎助學金申請】燃燈基金會2024年秋季清寒學生助學 (限大一、二)",
-        "timestamp": "1725464955",
-        "url": "mail_display.php?timestamp=1725464955",
-        "date": "2024/09/04 23:49",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【獎助學金申請】本校《113學年度》似鳥（NITORI）國際獎學金 (受理至113年9月25日止，請把握時限申請)",
-        "timestamp": "1725464470",
-        "url": "mail_display.php?timestamp=1725464470",
-        "date": "2024/09/04 23:41",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]

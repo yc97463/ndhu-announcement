@@ -1,5 +1,75 @@
 [
     {
+        "title": "國立東華大學教育大數據計畫—微學程招生說明會",
+        "timestamp": "1725494101",
+        "url": "mail_display.php?timestamp=1725494101",
+        "date": "2024/09/05 07:55",
+        "department": "理工學院 ",
+        "author": {
+            "department": "理工學院",
+            "name": "黃靖樺",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "03-890-6579"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【獎助學金申請】黃土英文教基金會113學年度英士獎學金 (限家境清寒或家逢變故)",
+        "timestamp": "1725469707",
+        "url": "mail_display.php?timestamp=1725469707",
+        "date": "2024/09/05 01:08",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【獎助學金申請】中華民國善愛協會第43期「古秉家先生清寒獎助學金」 (限低、中低收)",
+        "timestamp": "1725467992",
+        "url": "mail_display.php?timestamp=1725467992",
+        "date": "2024/09/05 00:39",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【獎助學金申請】燃燈基金會2024年秋季清寒學生助學 (限大一、二)",
+        "timestamp": "1725464955",
+        "url": "mail_display.php?timestamp=1725464955",
+        "date": "2024/09/04 23:49",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【獎助學金申請】本校《113學年度》似鳥（NITORI）國際獎學金 (受理至113年9月25日止，請把握時限申請)",
+        "timestamp": "1725464470",
+        "url": "mail_display.php?timestamp=1725464470",
+        "date": "2024/09/04 23:41",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【徵才】經濟部所屬台灣中油股份有限公司113年新進博士級職員甄試",
         "timestamp": "1725444376",
         "url": "mail_display.php?timestamp=1725444376",
@@ -138,75 +208,5 @@
             "phone": "6602"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【課務組】113-1學期兼任教師教學、課程停開及請假補（代）課 提醒事項",
-        "timestamp": "1725411481",
-        "url": "mail_display.php?timestamp=1725411481",
-        "date": "2024/09/04 08:58",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "宋育縈",
-            "email": "suz@gms.ndhu.edu.tw",
-            "phone": "分機6123"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【徵才公告】國立東華大學民族語言與傳播學系誠徵助理職務代理人一名",
-        "timestamp": "1725410343",
-        "url": "mail_display.php?timestamp=1725410343",
-        "date": "2024/09/04 08:39",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "巴莉亞妲‧蘇利伊",
-            "email": "damu@gms.ndhu.edu.tw",
-            "phone": "8905824"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "阿美族語口譯微學程",
-        "timestamp": "1725409909",
-        "url": "mail_display.php?timestamp=1725409909",
-        "date": "2024/09/04 08:31",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "巴莉亞妲‧蘇利伊",
-            "email": "damu@gms.ndhu.edu.tw",
-            "phone": "8905824"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "新版東華e學苑使用說明",
-        "timestamp": "1725409515",
-        "url": "mail_display.php?timestamp=1725409515",
-        "date": "2024/09/04 08:25",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【職涯講座】數位力提升",
-        "timestamp": "1725407706",
-        "url": "mail_display.php?timestamp=1725407706",
-        "date": "2024/09/04 07:55",
-        "department": "學務處 畢業生及校友服務組",
-        "author": {
-            "department": "學務處 畢業生及校友服務組",
-            "name": "張雯婷",
-            "email": "kz02820@gms.ndhu.edu.tw",
-            "phone": "03-8906284"
-        },
-        "attachmentCount": 0
     }
 ]

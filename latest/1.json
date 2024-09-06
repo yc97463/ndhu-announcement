@@ -1,5 +1,61 @@
 [
     {
+        "title": "【獎助學金申請】宋映潭先生文教基金會113年度獎學金 (限勞農漁榮民子女、身心障礙、原住民)",
+        "timestamp": "1725610944",
+        "url": "mail_display.php?timestamp=1725610944",
+        "date": "2024/09/06 16:22",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【徵才公告】國立東華大學總務處環保組徵聘【校務基金職務代理人】",
+        "timestamp": "1725610916",
+        "url": "mail_display.php?timestamp=1725610916",
+        "date": "2024/09/06 16:21",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "許智翔",
+            "email": "cocco3746@gms.ndhu.edu.tw",
+            "phone": "03-8906399"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【獎助學金申請】鹿港天后宮113年度清寒獎助學金 (限彰化縣籍)",
+        "timestamp": "1725609574",
+        "url": "mail_display.php?timestamp=1725609574",
+        "date": "2024/09/06 15:59",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【獎助學金申請】鄭品聰先生文教公益基金會113年清寒學生助學金 (限台東縣籍低或中低收入戶)",
+        "timestamp": "1725609000",
+        "url": "mail_display.php?timestamp=1725609000",
+        "date": "2024/09/06 15:50",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "🌟【VIP課程智慧能源社區行動 課程說明會】🌟",
         "timestamp": "1725608115",
         "url": "mail_display.php?timestamp=1725608115",
@@ -152,61 +208,5 @@
             "phone": "03-8906236"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【新生入學活動】邀請本校全體師生蒞臨「113學年度新生入學活動-社團博覽會\u0026東華之夜」",
-        "timestamp": "1725594324",
-        "url": "mail_display.php?timestamp=1725594324",
-        "date": "2024/09/06 11:45",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "余惠真",
-            "email": "nacy4631@gms.ndhu.edu.tw",
-            "phone": "6232"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【轉知】有關「兒童及少年性剝削防制條例」部分修正條文業奉總統113年8月7日總統華總一義字第11300069571號令公布",
-        "timestamp": "1725593048",
-        "url": "mail_display.php?timestamp=1725593048",
-        "date": "2024/09/06 11:24",
-        "department": "秘書室",
-        "author": {
-            "department": "秘書室",
-            "name": "蔡麗燕",
-            "email": "liyen@gms.ndhu.edu.tw",
-            "phone": "6005"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "諮商中心-【好好說再見】分手失落情緒支持團體",
-        "timestamp": "1725592454",
-        "url": "mail_display.php?timestamp=1725592454",
-        "date": "2024/09/06 11:14",
-        "department": "心理諮商輔導中心",
-        "author": {
-            "department": "心理諮商輔導中心",
-            "name": "陳奕錚",
-            "email": "yjchen92@gms.ndhu.edu.tw",
-            "phone": "(03)890-6894"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【特聘教授演講】10/1(二)王鴻濬特聘教授：永續發展與聯合國永續發展目標SDGs",
-        "timestamp": "1725590947",
-        "url": "mail_display.php?timestamp=1725590947",
-        "date": "2024/09/06 10:49",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "楊惠雯",
-            "email": "hwyang@gms.ndhu.edu.tw",
-            "phone": "6061"
-        },
-        "attachmentCount": 2
     }
 ]
