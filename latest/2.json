@@ -1,5 +1,19 @@
 [
     {
+        "title": "113-1學年體育館每週一至五中午12：00-14：00開放租借使用公告113-1 School year gymnasium is open for rental every Monday to Friday from 12:00 to 14:00 noon.",
+        "timestamp": "1725615114",
+        "url": "mail_display.php?timestamp=1725615114",
+        "date": "2024/09/06 17:31",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "沈正雄",
+            "email": "chshen@gms.ndhu.edu.tw",
+            "phone": "6618"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【徵才公告】國立東華大學總務處環保組徵聘【校務基金職務代理人】",
         "timestamp": "1725615017",
         "url": "mail_display.php?timestamp=1725615017",
@@ -194,19 +208,5 @@
             "phone": "8906607"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "📢不管你是I型人還是E型人，通通來當教育大數據分析人📊👩‍💻",
-        "timestamp": "1725596955",
-        "url": "mail_display.php?timestamp=1725596955",
-        "date": "2024/09/06 12:29",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "黃小姐",
-            "email": "chinghua@gms.ndhu.edu.tw",
-            "phone": "6579"
-        },
-        "attachmentCount": 2
     }
 ]
