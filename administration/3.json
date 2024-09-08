@@ -1,5 +1,19 @@
 [
     {
+        "title": "[極重要]明日8/30(五)至9/1(日)志學門禁止通行公告",
+        "timestamp": "1724923301",
+        "url": "mail_display.php?timestamp=1724923301",
+        "date": "2024/08/29 17:21",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "黃章傑",
+            "email": "cotycafe@gms.ndhu.edu.tw",
+            "phone": "5778"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "最新租屋資訊及租屋法規動態",
         "timestamp": "1724921302",
         "url": "mail_display.php?timestamp=1724921302",
@@ -192,20 +206,6 @@
             "name": "黃金城",
             "email": "hjc@gms.ndhu.edu.tw",
             "phone": "6724"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "公告113-1校核心資訊科技領域-「無人機操作與飛行創作」(初級程式設計)課程尚有名額，敬請踴躍加選課程",
-        "timestamp": "1724736053",
-        "url": "mail_display.php?timestamp=1724736053",
-        "date": "2024/08/27 13:20",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
         },
         "attachmentCount": 0
     }
