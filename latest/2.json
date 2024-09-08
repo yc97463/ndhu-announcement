@@ -1,5 +1,19 @@
 [
     {
+        "title": "【活動訊息】國防部113年全民國防教育「網際網路有獎徵答活動」",
+        "timestamp": "1725624404",
+        "url": "mail_display.php?timestamp=1725624404",
+        "date": "2024/09/06 20:06",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "6225"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【新生入學活動】邀請本校全體師生蒞臨「113學年度新生入學活動-社團博覽會\u0026東華之夜」",
         "timestamp": "1725620796",
         "url": "mail_display.php?timestamp=1725620796",
@@ -194,19 +208,5 @@
             "phone": "6053"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "🚂東華玩具樂園物流中心 九月玩具志工招募中！",
-        "timestamp": "1725605442",
-        "url": "mail_display.php?timestamp=1725605442",
-        "date": "2024/09/06 14:50",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "江東隆",
-            "email": "techusr@gms.ndhu.edu.tw",
-            "phone": "3772"
-        },
-        "attachmentCount": 2
     }
 ]
