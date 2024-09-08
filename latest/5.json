@@ -1,5 +1,19 @@
 [
     {
+        "title": "公告113-1校核心通識課程-「國際關係導論」課程尚有名額，敬請踴躍加選課程",
+        "timestamp": "1725508187",
+        "url": "mail_display.php?timestamp=1725508187",
+        "date": "2024/09/05 11:49",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "8906607"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【學生宿舍】113學年第一學期電費、扣罰時程公告 【Student Dormitory】 Announcement of Billing Verification for the Fall Semester , 2024-2025 Academic Year",
         "timestamp": "1725498910",
         "url": "mail_display.php?timestamp=1725498910",
@@ -194,19 +208,5 @@
             "phone": "03-890-6579"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【課務組公告】113-1學期選課相關公告 Announcement about 113-1 courses selection ",
-        "timestamp": "1725437821",
-        "url": "mail_display.php?timestamp=1725437821",
-        "date": "2024/09/04 16:17",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "utd1003@gms.ndhu.edu.tw",
-            "phone": "6122-6126"
-        },
-        "attachmentCount": 0
     }
 ]

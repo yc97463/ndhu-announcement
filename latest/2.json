@@ -1,5 +1,19 @@
 [
     {
+        "title": "【新生入學活動】邀請本校全體師生蒞臨「113學年度新生入學活動-社團博覽會\u0026東華之夜」",
+        "timestamp": "1725620796",
+        "url": "mail_display.php?timestamp=1725620796",
+        "date": "2024/09/06 19:06",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "余惠真",
+            "email": "nacy4631@gms.ndhu.edu.tw",
+            "phone": "6232"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【新生入學活動】113年9月8日(星期日)圖書館與學生活動中心交通要道(起理工一館至管理學院)封路相關作業提醒與說明",
         "timestamp": "1725620450",
         "url": "mail_display.php?timestamp=1725620450",
@@ -194,19 +208,5 @@
             "phone": "3772"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【獎助學金申請】鄭豐喜文化教育基金會113年度「肢障 (中度以上) 清寒家庭子女獎助學金」",
-        "timestamp": "1725603877",
-        "url": "mail_display.php?timestamp=1725603877",
-        "date": "2024/09/06 14:24",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]

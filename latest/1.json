@@ -1,5 +1,19 @@
 [
     {
+        "title": "今日下午起北迴線因土石流雙線不通，受影響之師生，明日（9/9）課務請彈性處理。",
+        "timestamp": "1725785011",
+        "url": "mail_display.php?timestamp=1725785011",
+        "date": "2024/09/08 16:43",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122~6126"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "NDHU-GPT",
         "timestamp": "1725776268",
         "url": "mail_display.php?timestamp=1725776268",
@@ -194,19 +208,5 @@
             "phone": "6225"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【新生入學活動】邀請本校全體師生蒞臨「113學年度新生入學活動-社團博覽會\u0026東華之夜」",
-        "timestamp": "1725620796",
-        "url": "mail_display.php?timestamp=1725620796",
-        "date": "2024/09/06 19:06",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "余惠真",
-            "email": "nacy4631@gms.ndhu.edu.tw",
-            "phone": "6232"
-        },
-        "attachmentCount": 2
     }
 ]
