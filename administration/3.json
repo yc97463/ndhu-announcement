@@ -1,5 +1,19 @@
 [
     {
+        "title": "自今(30)日晚間8時起開放志學門出口單線雙向通行公告",
+        "timestamp": "1725025666",
+        "url": "mail_display.php?timestamp=1725025666",
+        "date": "2024/08/30 21:47",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "黃章傑",
+            "email": "cotycafe@gms.ndhu.edu.tw",
+            "phone": "5778"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "[極重要]明日8/30(五)至9/1(日)志學門禁止通行公告",
         "timestamp": "1724923301",
         "url": "mail_display.php?timestamp=1724923301",
@@ -192,20 +206,6 @@
             "name": "許珅銘",
             "email": "600130@gms.ndhu.edu.tw",
             "phone": "6375"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "禁用遠端桌面服務【第二次公告】",
-        "timestamp": "1724738466",
-        "url": "mail_display.php?timestamp=1724738466",
-        "date": "2024/08/27 14:01",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "黃金城",
-            "email": "hjc@gms.ndhu.edu.tw",
-            "phone": "6724"
         },
         "attachmentCount": 0
     }

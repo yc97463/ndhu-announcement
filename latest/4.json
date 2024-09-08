@@ -1,5 +1,19 @@
 [
     {
+        "title": "【公行系新生活動】113學士班院系時間(學系說明)暨新生座談會(限公行一新生報名)",
+        "timestamp": "1725580501",
+        "url": "mail_display.php?timestamp=1725580501",
+        "date": "2024/09/06 07:55",
+        "department": "人文社會科學學院 公共行政學系",
+        "author": {
+            "department": "人文社會科學學院 公共行政學系",
+            "name": "蔡語宸",
+            "email": "yuchen@gms.ndhu.edu.tw",
+            "phone": "038905512"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【獎助學金申請】新竹縣113-1清寒優秀學生獎學金 (限新竹縣籍)",
         "timestamp": "1725548244",
         "url": "mail_display.php?timestamp=1725548244",
@@ -194,19 +208,5 @@
             "phone": "8906607"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【學生宿舍】113學年第一學期電費、扣罰時程公告 【Student Dormitory】 Announcement of Billing Verification for the Fall Semester , 2024-2025 Academic Year",
-        "timestamp": "1725498910",
-        "url": "mail_display.php?timestamp=1725498910",
-        "date": "2024/09/05 09:15",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳怡秀",
-            "email": "yishoue@gms.ndhu.edu.tw",
-            "phone": "6212"
-        },
-        "attachmentCount": 4
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "NDHU-GPT",
+        "timestamp": "1725776268",
+        "url": "mail_display.php?timestamp=1725776268",
+        "date": "2024/09/08 14:17",
+        "department": "圖書資訊處校務系統組",
+        "author": {
+            "department": "圖書資訊處校務系統組",
+            "name": "簡暐哲",
+            "email": "wcc@gms.ndhu.edu.tw",
+            "phone": "038905060"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "志學門交通改善工程注意事項公告",
         "timestamp": "1725758034",
         "url": "mail_display.php?timestamp=1725758034",
@@ -186,20 +200,6 @@
         "timestamp": "1725620796",
         "url": "mail_display.php?timestamp=1725620796",
         "date": "2024/09/06 19:06",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "余惠真",
-            "email": "nacy4631@gms.ndhu.edu.tw",
-            "phone": "6232"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【新生入學活動】113年9月8日(星期日)圖書館與學生活動中心交通要道(起理工一館至管理學院)封路相關作業提醒與說明",
-        "timestamp": "1725620450",
-        "url": "mail_display.php?timestamp=1725620450",
-        "date": "2024/09/06 19:00",
         "department": "學務處課外活動組",
         "author": {
             "department": "學務處課外活動組",
