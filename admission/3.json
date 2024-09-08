@@ -1,5 +1,19 @@
 [
     {
+        "title": "112-2財金系五年修讀學碩士學位申請即日起開始至5/17止",
+        "timestamp": "1715652357",
+        "url": "mail_display.php?timestamp=1715652357",
+        "date": "2024/05/14 10:05",
+        "department": "財務金融學系",
+        "author": {
+            "department": "財務金融學系",
+            "name": "蔡季諭",
+            "email": "jiyu@gms.ndhu.edu.tw",
+            "phone": "8903132"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "📢【通識特色課程】選課公告：手造舟 等你來📢",
         "timestamp": "1715592668",
         "url": "mail_display.php?timestamp=1715592668",
@@ -194,19 +208,5 @@
             "phone": "5244"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "113學年度東華實幼新生報名至6月14日下午15時止，欲報名請從速！",
-        "timestamp": "1714469241",
-        "url": "mail_display.php?timestamp=1714469241",
-        "date": "2024/04/30 17:27",
-        "department": "附設實驗幼兒園",
-        "author": {
-            "department": "附設實驗幼兒園",
-            "name": "魏家薰",
-            "email": "sonia770120@gms.ndhu.edu.tw",
-            "phone": "8906652"
-        },
-        "attachmentCount": 5
     }
 ]

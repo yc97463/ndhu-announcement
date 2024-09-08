@@ -1,5 +1,19 @@
 [
     {
+        "title": "📢不管你是I型人還是E型人，通通來當教育大數據分析人📊👩‍💻",
+        "timestamp": "1725596955",
+        "url": "mail_display.php?timestamp=1725596955",
+        "date": "2024/09/06 12:29",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "第十七屆親善大使團招募!!",
         "timestamp": "1725594634",
         "url": "mail_display.php?timestamp=1725594634",
@@ -192,20 +206,6 @@
             "name": "吳佳玟",
             "email": "chiawen@gms.ndhu.edu.tw",
             "phone": "3073"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "國立東華大學教育大數據計畫—微學程招生說明會",
-        "timestamp": "1725494101",
-        "url": "mail_display.php?timestamp=1725494101",
-        "date": "2024/09/05 07:55",
-        "department": "理工學院 ",
-        "author": {
-            "department": "理工學院",
-            "name": "黃靖樺",
-            "email": "chinghua@gms.ndhu.edu.tw",
-            "phone": "03-890-6579"
         },
         "attachmentCount": 0
     }

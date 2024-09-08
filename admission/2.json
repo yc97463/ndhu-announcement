@@ -1,5 +1,19 @@
 [
     {
+        "title": "【兵役訊息】國防部「113年志願役預備軍官班考選簡章」公告",
+        "timestamp": "1718670734",
+        "url": "mail_display.php?timestamp=1718670734",
+        "date": "2024/06/18 08:32",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "6225"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "2024暑假最終版-VIP課程移地學習 VIP(三)智慧能源社區行動選課招募說明會",
         "timestamp": "1718352635",
         "url": "mail_display.php?timestamp=1718352635",
@@ -194,19 +208,5 @@
             "phone": "8903132"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "112-2財金系五年修讀學碩士學位申請即日起開始至5/17止",
-        "timestamp": "1715652357",
-        "url": "mail_display.php?timestamp=1715652357",
-        "date": "2024/05/14 10:05",
-        "department": "財務金融學系",
-        "author": {
-            "department": "財務金融學系",
-            "name": "蔡季諭",
-            "email": "jiyu@gms.ndhu.edu.tw",
-            "phone": "8903132"
-        },
-        "attachmentCount": 1
     }
 ]

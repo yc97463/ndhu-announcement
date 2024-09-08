@@ -1,5 +1,19 @@
 [
     {
+        "title": "(更正) 志學門交通改善工程注意事項公告",
+        "timestamp": "1725808585",
+        "url": "mail_display.php?timestamp=1725808585",
+        "date": "2024/09/08 23:16",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "黃章傑",
+            "email": "cotycafe@gms.ndhu.edu.tw",
+            "phone": "5778"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "今日下午起北迴線因土石流雙線不通，受影響之師生，明日（9/9）課務請彈性處理。",
         "timestamp": "1725785011",
         "url": "mail_display.php?timestamp=1725785011",
@@ -194,19 +208,5 @@
             "phone": "8906607"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【代轉學生會公告】第14屆東華學生會成員招募",
-        "timestamp": "1725521739",
-        "url": "mail_display.php?timestamp=1725521739",
-        "date": "2024/09/05 15:35",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "姜紫淇",
-            "email": "yaya@gms.ndhu.edu.tw",
-            "phone": "03-8906235"
-        },
-        "attachmentCount": 2
     }
 ]
