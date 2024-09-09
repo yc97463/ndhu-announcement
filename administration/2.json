@@ -1,5 +1,47 @@
 [
     {
+        "title": "[心理諮商輔導中心] 113學年度 入班活動申請辦法與申請表",
+        "timestamp": "1725589138",
+        "url": "mail_display.php?timestamp=1725589138",
+        "date": "2024/09/06 10:18",
+        "department": "心理諮商輔導中心",
+        "author": {
+            "department": "心理諮商輔導中心",
+            "name": "李玟蒨",
+            "email": "phee1801@gms.ndhu.edu.tw",
+            "phone": "(03)890-6263"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【公告】重申及修訂有關赴大陸、香港及澳門地區相關申請事宜，請查照轉知所屬人員。",
+        "timestamp": "1725587521",
+        "url": "mail_display.php?timestamp=1725587521",
+        "date": "2024/09/06 09:52",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "劉依虹",
+            "email": "joyce_liu@gms.ndhu.edu.tw",
+            "phone": "6060"
+        },
+        "attachmentCount": 4
+    },
+    {
+        "title": "113-2「學期課程借用電腦教室」，9/12(四)～9/20(五) 17:00止受理申請。",
+        "timestamp": "1725585744",
+        "url": "mail_display.php?timestamp=1725585744",
+        "date": "2024/09/06 09:22",
+        "department": "圖書資訊處綜合業務組",
+        "author": {
+            "department": "圖書資訊處綜合業務組",
+            "name": "林循美",
+            "email": "cindy@gms.ndhu.edu.tw",
+            "phone": "8906774"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "人社一館第一講堂頂樓涼亭遷移至詩經花園工程施工公告(9/6~9/8)",
         "timestamp": "1725524677",
         "url": "mail_display.php?timestamp=1725524677",
@@ -166,47 +208,5 @@
             "phone": "6237"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "學生事務處搬遷公告",
-        "timestamp": "1725256920",
-        "url": "mail_display.php?timestamp=1725256920",
-        "date": "2024/09/02 14:02",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "學務處",
-            "email": "chchiou@gms.ndhu.edu.tw",
-            "phone": "０３８９０６２０３"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【公告】教育部修正「教育部及所屬機關（構）辦理各類會議講習訓練與研討（習）會管理要點」第二點、第六點規定，並自即日生效",
-        "timestamp": "1725247479",
-        "url": "mail_display.php?timestamp=1725247479",
-        "date": "2024/09/02 11:24",
-        "department": "主計室",
-        "author": {
-            "department": "主計室",
-            "name": "曾俊達",
-            "email": "kleiber0576@gms.ndhu.edu.tw",
-            "phone": "(03)8906079"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "阿美語口譯微學程",
-        "timestamp": "1725243536",
-        "url": "mail_display.php?timestamp=1725243536",
-        "date": "2024/09/02 10:18",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "巴莉亞妲‧蘇利伊",
-            "email": "damu@gms.ndhu.edu.tw",
-            "phone": "8905824"
-        },
-        "attachmentCount": 1
     }
 ]

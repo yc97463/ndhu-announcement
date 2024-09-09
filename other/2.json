@@ -1,5 +1,19 @@
 [
     {
+        "title": "新版東華e學苑使用說明",
+        "timestamp": "1725409515",
+        "url": "mail_display.php?timestamp=1725409515",
+        "date": "2024/09/04 08:25",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【轉知】113年度台灣少年權益與福利促進聯盟「媒體識讀」活動申請",
         "timestamp": "1725356292",
         "url": "mail_display.php?timestamp=1725356292",
@@ -194,19 +208,5 @@
             "phone": "6013"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "尚未完成113學年度第1學期兵役緩徵、儘召網路申請者請盡速申請",
-        "timestamp": "1725235980",
-        "url": "mail_display.php?timestamp=1725235980",
-        "date": "2024/09/02 08:13",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "黃勇程",
-            "email": "victor0903@gms.ndhu.edu.tw",
-            "phone": "6225"
-        },
-        "attachmentCount": 1
     }
 ]

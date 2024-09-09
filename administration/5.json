@@ -1,5 +1,47 @@
 [
     {
+        "title": "本校113年9月4日至7日辦理全校建築物室外病媒防治消毒。",
+        "timestamp": "1724634722",
+        "url": "mail_display.php?timestamp=1724634722",
+        "date": "2024/08/26 09:12",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "許智翔",
+            "email": "cocco3746@gms.ndhu.edu.tw",
+            "phone": "03-8906399"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "全校區緊急停水公告",
+        "timestamp": "1724561631",
+        "url": "mail_display.php?timestamp=1724561631",
+        "date": "2024/08/25 12:53",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "張宗豪",
+            "email": "Zonghao@gms.ndhu.edu.tw",
+            "phone": "890-6389"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "8/26至9/2志學門出入口道路改善工程管制公告",
+        "timestamp": "1724382969",
+        "url": "mail_display.php?timestamp=1724382969",
+        "date": "2024/08/23 11:16",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "黃章傑",
+            "email": "cotycafe@gms.ndhu.edu.tw",
+            "phone": "5778"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "行政大樓4樓隔間牆封板施工公告",
         "timestamp": "1724382808",
         "url": "mail_display.php?timestamp=1724382808",
@@ -166,47 +208,5 @@
             "phone": "(03)890-6727"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "禁用遠端桌面服務【第一次公告】",
-        "timestamp": "1724136987",
-        "url": "mail_display.php?timestamp=1724136987",
-        "date": "2024/08/20 14:56",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "黃金城",
-            "email": "hjc@gms.ndhu.edu.tw",
-            "phone": "6724"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【轉知】衛生福利部製作「兒童及少年性剝削防制條例修法重點(懶人包)」、「兒童及少年性剝削防制宣導素材」案，請積極宣導運用。",
-        "timestamp": "1724136894",
-        "url": "mail_display.php?timestamp=1724136894",
-        "date": "2024/08/20 14:54",
-        "department": "秘書室",
-        "author": {
-            "department": "秘書室",
-            "name": "蔡麗燕",
-            "email": "liyen@gms.ndhu.edu.tw",
-            "phone": "6005"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "人社一、二館牆面修復施工公告",
-        "timestamp": "1724136643",
-        "url": "mail_display.php?timestamp=1724136643",
-        "date": "2024/08/20 14:50",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "許珅銘",
-            "email": "600130@gms.ndhu.edu.tw",
-            "phone": "863-6375"
-        },
-        "attachmentCount": 0
     }
 ]
