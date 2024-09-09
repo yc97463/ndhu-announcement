@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才】經濟部所屬台灣中油股份有限公司113年新進博士級職員甄試",
+        "timestamp": "1725444376",
+        "url": "mail_display.php?timestamp=1725444376",
+        "date": "2024/09/04 18:06",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 7
+    },
+    {
         "title": "國立東華大學數位學伴中心 - 【113-1 學期大學伴招募】",
         "timestamp": "1725443988",
         "url": "mail_display.php?timestamp=1725443988",
@@ -194,19 +208,5 @@
             "phone": "5919"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【活動轉知】國泰卓越獎助計畫開放報名，每案最高獎勵20萬元，預計獎助20組團隊",
-        "timestamp": "1725322866",
-        "url": "mail_display.php?timestamp=1725322866",
-        "date": "2024/09/03 08:21",
-        "department": "永續發展中心",
-        "author": {
-            "department": "永續發展中心",
-            "name": "李敏賢",
-            "email": "jordanlee@gms.ndhu.edu.tw",
-            "phone": "5159"
-        },
-        "attachmentCount": 3
     }
 ]
