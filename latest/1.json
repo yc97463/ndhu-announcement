@@ -1,5 +1,47 @@
 [
     {
+        "title": "【K書中心公告】K書中心A、B館關閉公告 K-Book Center Closure Announcement",
+        "timestamp": "1725852151",
+        "url": "mail_display.php?timestamp=1725852151",
+        "date": "2024/09/09 11:22",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳小姐",
+            "email": "sian@gms.ndhu.edu.tw",
+            "phone": "5846"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113-1諮商中心伴侶諮商服務開放申請",
+        "timestamp": "1725852086",
+        "url": "mail_display.php?timestamp=1725852086",
+        "date": "2024/09/09 11:21",
+        "department": "心理諮商輔導中心",
+        "author": {
+            "department": "心理諮商輔導中心",
+            "name": "魏凡涓",
+            "email": "juliawei@gms.ndhu.edu.tw",
+            "phone": "03-8906892"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【出國交換】2025年第一次國際交換學生甄選",
+        "timestamp": "1725849921",
+        "url": "mail_display.php?timestamp=1725849921",
+        "date": "2024/09/09 10:45",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 6
+    },
+    {
         "title": "113-1校核心通識課程-「心學與人生」及「人文經典與現代生活」課程改為線上上課公告",
         "timestamp": "1725848578",
         "url": "mail_display.php?timestamp=1725848578",
@@ -164,48 +206,6 @@
             "name": "黃章傑",
             "email": "cotycafe@gms.ndhu.edu.tw",
             "phone": "5778"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "掌握未來教育趨勢！立即報名教育大數據微學程招生說明會",
-        "timestamp": "1725807852",
-        "url": "mail_display.php?timestamp=1725807852",
-        "date": "2024/09/08 23:04",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "黃小姐",
-            "email": "chinghua@gms.ndhu.edu.tw",
-            "phone": "6579"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【語傳系】首創「阿美族語口譯微學程」",
-        "timestamp": "1725787116",
-        "url": "mail_display.php?timestamp=1725787116",
-        "date": "2024/09/08 17:18",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "巴莉亞妲．蘇利伊",
-            "email": "damu@gms.ndhu.edu.tw",
-            "phone": "5824"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "今日下午起北迴線因土石流雙線不通，受影響之師生，明日（9/9）課務請彈性處理。",
-        "timestamp": "1725785011",
-        "url": "mail_display.php?timestamp=1725785011",
-        "date": "2024/09/08 16:43",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "utd1003@gms.ndhu.edu.tw",
-            "phone": "6122~6126"
         },
         "attachmentCount": 0
     }

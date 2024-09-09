@@ -1,5 +1,19 @@
 [
     {
+        "title": "【K書中心公告】K書中心A、B館關閉公告 K-Book Center Closure Announcement",
+        "timestamp": "1725852151",
+        "url": "mail_display.php?timestamp=1725852151",
+        "date": "2024/09/09 11:22",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳小姐",
+            "email": "sian@gms.ndhu.edu.tw",
+            "phone": "5846"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "免費心理諮商資源",
         "timestamp": "1725845953",
         "url": "mail_display.php?timestamp=1725845953",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 7
-    },
-    {
-        "title": "【轉知】溫世仁文教基金會【2024 TalentNXT Fresh 人才培育計畫】",
-        "timestamp": "1725421738",
-        "url": "mail_display.php?timestamp=1725421738",
-        "date": "2024/09/04 11:48",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 6
     }
 ]

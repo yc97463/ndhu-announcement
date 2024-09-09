@@ -1,5 +1,33 @@
 [
     {
+        "title": "行政大樓3樓9/9(一)~9/13(五)隔間牆封板施工公告",
+        "timestamp": "1725333865",
+        "url": "mail_display.php?timestamp=1725333865",
+        "date": "2024/09/03 11:24",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "黃章傑",
+            "email": "cotycafe@gms.ndhu.edu.tw",
+            "phone": "5778"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "本校全家便利商店各分店營業時間公告",
+        "timestamp": "1725269827",
+        "url": "mail_display.php?timestamp=1725269827",
+        "date": "2024/09/02 17:37",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "賴榮璉",
+            "email": "chrishnalai@gms.ndhu.edu.tw",
+            "phone": "6237"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "學生事務處搬遷公告",
         "timestamp": "1725256920",
         "url": "mail_display.php?timestamp=1725256920",
@@ -178,34 +206,6 @@
             "name": "鍾佩玲",
             "email": "free22011@gms.ndhu.edu.tw",
             "phone": "038906217"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【徵才公告】國立東華大學民族語言與傳播學系誠徵助理職務代理人一名",
-        "timestamp": "1724900622",
-        "url": "mail_display.php?timestamp=1724900622",
-        "date": "2024/08/29 11:03",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "巴莉亞妲‧蘇利伊",
-            "email": "damu@gms.ndhu.edu.tw",
-            "phone": "(03)8905824"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": " 8/29(四)至9/1(日)志學門出入口道路改善工程管制公告",
-        "timestamp": "1724827614",
-        "url": "mail_display.php?timestamp=1724827614",
-        "date": "2024/08/28 14:46",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "黃章傑",
-            "email": "cotycafe@gms.ndhu.edu.tw",
-            "phone": "5778"
         },
         "attachmentCount": 0
     }
