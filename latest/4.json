@@ -1,5 +1,19 @@
 [
     {
+        "title": "🌟【VIP課程智慧能源社區行動 課程說明會】🌟",
+        "timestamp": "1725608115",
+        "url": "mail_display.php?timestamp=1725608115",
+        "date": "2024/09/06 15:35",
+        "department": "管理學院",
+        "author": {
+            "department": "管理學院",
+            "name": "高云偈",
+            "email": "jerrygao@gms.ndhu.edu.tw",
+            "phone": "03-890-3789"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【課務組公告】請注意113-1網路加退選時間 Please Notice the Period for Online Add/Drop Courses ",
         "timestamp": "1725606092",
         "url": "mail_display.php?timestamp=1725606092",
@@ -194,19 +208,5 @@
             "phone": "6061"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "[心理諮商輔導中心] 113學年度 入班活動申請辦法與申請表",
-        "timestamp": "1725589138",
-        "url": "mail_display.php?timestamp=1725589138",
-        "date": "2024/09/06 10:18",
-        "department": "心理諮商輔導中心",
-        "author": {
-            "department": "心理諮商輔導中心",
-            "name": "李玟蒨",
-            "email": "phee1801@gms.ndhu.edu.tw",
-            "phone": "(03)890-6263"
-        },
-        "attachmentCount": 1
     }
 ]

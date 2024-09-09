@@ -1,5 +1,19 @@
 [
     {
+        "title": "請授課教師提供113學年度第1學期「教師指定參考書清單」，謝謝。",
+        "timestamp": "1725859832",
+        "url": "mail_display.php?timestamp=1725859832",
+        "date": "2024/09/09 13:30",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "陳昱佐",
+            "email": "yutuchen@gms.ndhu.edu.tw",
+            "phone": "038906824"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "113-1校核心通識課程-「心學與人生」及「人文經典與現代生活」課程改為線上上課公告",
         "timestamp": "1725848578",
         "url": "mail_display.php?timestamp=1725848578",
@@ -194,19 +208,5 @@
             "phone": "6122-6126"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【通識】113-1學期通識課程活動補助申請(延長至9/9(一)截止收件)(第三次公告)",
-        "timestamp": "1725411556",
-        "url": "mail_display.php?timestamp=1725411556",
-        "date": "2024/09/04 08:59",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "李睿芬",
-            "email": "fen19@gms.ndhu.edu.tw",
-            "phone": "6602"
-        },
-        "attachmentCount": 4
     }
 ]
