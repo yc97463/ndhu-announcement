@@ -1,5 +1,19 @@
 [
     {
+        "title": "【活動推推】學習型地景的教育實踐：從理念到行動 線上講座",
+        "timestamp": "1725882910",
+        "url": "mail_display.php?timestamp=1725882910",
+        "date": "2024/09/09 19:55",
+        "department": "社會參與中心",
+        "author": {
+            "department": "社會參與中心",
+            "name": "黃小姐",
+            "email": "ellie@gms.ndhu.edu.tw",
+            "phone": "5242"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【特聘教授演講】10/1(二)王鴻濬特聘教授：永續發展與聯合國永續發展目標SDGs",
         "timestamp": "1725590947",
         "url": "mail_display.php?timestamp=1725590947",
@@ -194,19 +208,5 @@
             "phone": "0909039764"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【轉知】教育部辦理「113年度大專校院教師性別平等教育研討會」報名日期延長至113年7月19日17時止",
-        "timestamp": "1721206939",
-        "url": "mail_display.php?timestamp=1721206939",
-        "date": "2024/07/17 17:02",
-        "department": "秘書室",
-        "author": {
-            "department": "秘書室",
-            "name": "蔡麗燕",
-            "email": "liyen@gms.ndhu.edu.tw",
-            "phone": "6005"
-        },
-        "attachmentCount": 2
     }
 ]
