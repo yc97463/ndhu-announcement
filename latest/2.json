@@ -1,5 +1,89 @@
 [
     {
+        "title": "【獎助學金申請】華儒青年關懷基金會113-1獎學金 (限低或中低、身心障礙、家逢變故、軍公教遺眷或子女)",
+        "timestamp": "1725678559",
+        "url": "mail_display.php?timestamp=1725678559",
+        "date": "2024/09/07 11:09",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【獎助學金申請】漢儒文教基金會113-1獎學金 (限低或中低、身心障礙、家逢變故、軍公教遺眷或子女)",
+        "timestamp": "1725676688",
+        "url": "mail_display.php?timestamp=1725676688",
+        "date": "2024/09/07 10:38",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【獎助學金申請】東光教育基金會113-1獎學金 (限台北市籍低收、身心障礙、家況特殊)",
+        "timestamp": "1725675058",
+        "url": "mail_display.php?timestamp=1725675058",
+        "date": "2024/09/07 10:10",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【論文獎助】日月光文教基金會第十一屆日月光環保學術碩、博士論文獎助",
+        "timestamp": "1725671156",
+        "url": "mail_display.php?timestamp=1725671156",
+        "date": "2024/09/07 09:05",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【獎助學金申請】勞動部113-1失業勞工子女就學補助",
+        "timestamp": "1725667546",
+        "url": "mail_display.php?timestamp=1725667546",
+        "date": "2024/09/07 08:05",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "定期捐血保障你我~熱血行動!!!",
+        "timestamp": "1725666904",
+        "url": "mail_display.php?timestamp=1725666904",
+        "date": "2024/09/07 07:55",
+        "department": "學務處 衛生保健組",
+        "author": {
+            "department": "學務處 衛生保健組",
+            "name": "吳星穎",
+            "email": "carmier@gms.ndhu.edu.tw",
+            "phone": "8906252"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113.09.20（五）經濟學系葉勁廷系友演講（元大證券新生分公司經理）：股動人生、錢景看俏",
         "timestamp": "1725666903",
         "url": "mail_display.php?timestamp=1725666903",
@@ -122,90 +206,6 @@
             "name": "沈正雄",
             "email": "chshen@gms.ndhu.edu.tw",
             "phone": "6618"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【徵才公告】國立東華大學總務處環保組徵聘【校務基金職務代理人】",
-        "timestamp": "1725615017",
-        "url": "mail_display.php?timestamp=1725615017",
-        "date": "2024/09/06 17:30",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "許智翔",
-            "email": "cocco3746@gms.ndhu.edu.tw",
-            "phone": "038906399"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "學生事務處搬遷公告-第二次公告",
-        "timestamp": "1725611055",
-        "url": "mail_display.php?timestamp=1725611055",
-        "date": "2024/09/06 16:24",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "學務處",
-            "email": "chchiou@gms.ndhu.edu.tw",
-            "phone": "０３８９０６２０３"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【獎助學金申請】宋映潭先生文教基金會113年度獎學金 (限勞農漁榮民子女、身心障礙、原住民)",
-        "timestamp": "1725610944",
-        "url": "mail_display.php?timestamp=1725610944",
-        "date": "2024/09/06 16:22",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【獎助學金申請】鹿港天后宮113年度清寒獎助學金 (限彰化縣籍)",
-        "timestamp": "1725609574",
-        "url": "mail_display.php?timestamp=1725609574",
-        "date": "2024/09/06 15:59",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【獎助學金申請】鄭品聰先生文教公益基金會113年清寒學生助學金 (限台東縣籍低或中低收入戶)",
-        "timestamp": "1725609000",
-        "url": "mail_display.php?timestamp=1725609000",
-        "date": "2024/09/06 15:50",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "🌟【VIP課程智慧能源社區行動 課程說明會】🌟",
-        "timestamp": "1725608115",
-        "url": "mail_display.php?timestamp=1725608115",
-        "date": "2024/09/06 15:35",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "高云偈",
-            "email": "jerrygao@gms.ndhu.edu.tw",
-            "phone": "03-890-3789"
         },
         "attachmentCount": 2
     }
