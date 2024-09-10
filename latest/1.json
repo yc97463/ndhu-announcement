@@ -1,5 +1,19 @@
 [
     {
+        "title": "113年度校區內客貨電梯進行月保養排程通告9月保養",
+        "timestamp": "1725948999",
+        "url": "mail_display.php?timestamp=1725948999",
+        "date": "2024/09/10 14:16",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【轉知】行政院人事行政總處公務人力發展學院113年11月開辦自由報名班別一覽表，請鼓勵同仁踴躍報名參加。",
         "timestamp": "1725946554",
         "url": "mail_display.php?timestamp=1725946554",
@@ -194,19 +208,5 @@
             "phone": "5247"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "TEJ臺灣經濟新報資料庫(TEJ Pro)系統升級通知",
-        "timestamp": "1725860919",
-        "url": "mail_display.php?timestamp=1725860919",
-        "date": "2024/09/09 13:48",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "陳昱佐",
-            "email": "yutuchen@gms.ndhu.edu.tw",
-            "phone": "038906824"
-        },
-        "attachmentCount": 2
     }
 ]
