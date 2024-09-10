@@ -1,5 +1,33 @@
 [
     {
+        "title": "築一個飛行夢",
+        "timestamp": "1725926101",
+        "url": "mail_display.php?timestamp=1725926101",
+        "date": "2024/09/10 07:55",
+        "department": "人文社會科學學院 諮商與臨床心理學系",
+        "author": {
+            "department": "人文社會科學學院 諮商與臨床心理學系",
+            "name": "王沂釗",
+            "email": "scholarwang@gms.ndhu.edu.tw",
+            "phone": "5654"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【活動推推】學習型地景的教育實踐：從理念到行動 線上講座",
+        "timestamp": "1725882910",
+        "url": "mail_display.php?timestamp=1725882910",
+        "date": "2024/09/09 19:55",
+        "department": "社會參與中心",
+        "author": {
+            "department": "社會參與中心",
+            "name": "黃小姐",
+            "email": "ellie@gms.ndhu.edu.tw",
+            "phone": "5242"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "113學年第1學期開學總務處業務相關注意事項",
         "timestamp": "1725868243",
         "url": "mail_display.php?timestamp=1725868243",
@@ -180,33 +208,5 @@
             "phone": "8906422"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【徵才公告】國立東華大學數位學伴中心 - 113-1 學期大學伴招募",
-        "timestamp": "1725843051",
-        "url": "mail_display.php?timestamp=1725843051",
-        "date": "2024/09/09 08:50",
-        "department": "花師教育學院",
-        "author": {
-            "department": "花師教育學院",
-            "name": "李宛玲",
-            "email": "etutor_c226@gms.ndhu.edu.tw",
-            "phone": "890-3816"
-        },
-        "attachmentCount": 8
-    },
-    {
-        "title": "   113-1校核心通識課程【 性別教育與文化觀光的對話 】",
-        "timestamp": "1725842832",
-        "url": "mail_display.php?timestamp=1725842832",
-        "date": "2024/09/09 08:47",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 1
     }
 ]

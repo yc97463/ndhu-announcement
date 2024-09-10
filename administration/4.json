@@ -1,5 +1,19 @@
 [
     {
+        "title": "尚未完成113學年度第1學期兵役緩徵、儘召網路申請者請盡速申請",
+        "timestamp": "1725235980",
+        "url": "mail_display.php?timestamp=1725235980",
+        "date": "2024/09/02 08:13",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "6225"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【圖書館公告】113-1學期圖書館開放情形",
         "timestamp": "1725095300",
         "url": "mail_display.php?timestamp=1725095300",
@@ -194,19 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "學生活動中心化糞池埋設工程公告",
-        "timestamp": "1724750275",
-        "url": "mail_display.php?timestamp=1724750275",
-        "date": "2024/08/27 17:17",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "郭家銘",
-            "email": "jiaming7185@gms.ndhu.edu.tw",
-            "phone": "6372"
-        },
-        "attachmentCount": 1
     }
 ]

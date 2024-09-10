@@ -1,5 +1,19 @@
 [
     {
+        "title": "【代轉學生會公告】第14屆東華學生會成員招募",
+        "timestamp": "1725521739",
+        "url": "mail_display.php?timestamp=1725521739",
+        "date": "2024/09/05 15:35",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "姜紫淇",
+            "email": "yaya@gms.ndhu.edu.tw",
+            "phone": "03-8906235"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "本校新簽訂之富友鍋物/火鍋世家吉安店、海岸小旅民宿以及雄獅旅行社股份有限公司花蓮分公司特約商店公告。",
         "timestamp": "1725517470",
         "url": "mail_display.php?timestamp=1725517470",
@@ -194,19 +208,5 @@
             "phone": "8906059"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "尚未完成113學年度第1學期兵役緩徵、儘召網路申請者請盡速申請",
-        "timestamp": "1725235980",
-        "url": "mail_display.php?timestamp=1725235980",
-        "date": "2024/09/02 08:13",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "黃勇程",
-            "email": "victor0903@gms.ndhu.edu.tw",
-            "phone": "6225"
-        },
-        "attachmentCount": 1
     }
 ]

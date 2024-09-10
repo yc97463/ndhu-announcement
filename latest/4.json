@@ -1,5 +1,33 @@
 [
     {
+        "title": "【獎助學金申請】華儒青年關懷基金會113-1獎學金 (限低或中低、身心障礙、家逢變故、軍公教遺眷或子女)",
+        "timestamp": "1725678559",
+        "url": "mail_display.php?timestamp=1725678559",
+        "date": "2024/09/07 11:09",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【獎助學金申請】漢儒文教基金會113-1獎學金 (限低或中低、身心障礙、家逢變故、軍公教遺眷或子女)",
+        "timestamp": "1725676688",
+        "url": "mail_display.php?timestamp=1725676688",
+        "date": "2024/09/07 10:38",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】東光教育基金會113-1獎學金 (限台北市籍低收、身心障礙、家況特殊)",
         "timestamp": "1725675058",
         "url": "mail_display.php?timestamp=1725675058",
@@ -180,33 +208,5 @@
             "phone": "6618"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【徵才公告】國立東華大學總務處環保組徵聘【校務基金職務代理人】",
-        "timestamp": "1725615017",
-        "url": "mail_display.php?timestamp=1725615017",
-        "date": "2024/09/06 17:30",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "許智翔",
-            "email": "cocco3746@gms.ndhu.edu.tw",
-            "phone": "038906399"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "學生事務處搬遷公告-第二次公告",
-        "timestamp": "1725611055",
-        "url": "mail_display.php?timestamp=1725611055",
-        "date": "2024/09/06 16:24",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "學務處",
-            "email": "chchiou@gms.ndhu.edu.tw",
-            "phone": "０３８９０６２０３"
-        },
-        "attachmentCount": 0
     }
 ]
