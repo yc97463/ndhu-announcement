@@ -1,5 +1,19 @@
 [
     {
+        "title": "【K書中心公告】K書中心A、B館關閉公告 K-Book Center Closure Announcement",
+        "timestamp": "1725852151",
+        "url": "mail_display.php?timestamp=1725852151",
+        "date": "2024/09/09 11:22",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳小姐",
+            "email": "sian@gms.ndhu.edu.tw",
+            "phone": "5846"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113-1諮商中心伴侶諮商服務開放申請",
         "timestamp": "1725852086",
         "url": "mail_display.php?timestamp=1725852086",
@@ -194,19 +208,5 @@
             "phone": "5778"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "掌握未來教育趨勢！立即報名教育大數據微學程招生說明會",
-        "timestamp": "1725807852",
-        "url": "mail_display.php?timestamp=1725807852",
-        "date": "2024/09/08 23:04",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "黃小姐",
-            "email": "chinghua@gms.ndhu.edu.tw",
-            "phone": "6579"
-        },
-        "attachmentCount": 2
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "【專題演講】臺灣系x族文系碩士班專題講座-我的跨域學習經驗：回顧二十多年的學思過程",
+        "timestamp": "1715335535",
+        "url": "mail_display.php?timestamp=1715335535",
+        "date": "2024/05/10 18:05",
+        "department": "臺灣文化學系",
+        "author": {
+            "department": "臺灣文化學系",
+            "name": "唐家渝",
+            "email": "abby0528@gms.ndhu.edu.tw",
+            "phone": "038905213"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【臺灣系x族文系碩士班】研究論文聯合發表會",
         "timestamp": "1715333843",
         "url": "mail_display.php?timestamp=1715333843",
@@ -194,19 +208,5 @@
             "phone": "03-8905203"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【財金系專題演講】5/3(五) 14:00 ~ 16:00 智慧金融與人工智慧應用",
-        "timestamp": "1714460922",
-        "url": "mail_display.php?timestamp=1714460922",
-        "date": "2024/04/30 15:08",
-        "department": "財務金融學系",
-        "author": {
-            "department": "財務金融學系",
-            "name": "林役霜",
-            "email": "ys012@gms.ndhu.edu.tw",
-            "phone": "3133"
-        },
-        "attachmentCount": 3
     }
 ]

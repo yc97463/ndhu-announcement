@@ -1,5 +1,33 @@
 [
     {
+        "title": "第十七屆親善大使團招募!!",
+        "timestamp": "1725594634",
+        "url": "mail_display.php?timestamp=1725594634",
+        "date": "2024/09/06 11:50",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "游雅筑",
+            "email": "pink389124@gms.ndhu.edu.tw",
+            "phone": "03-8906236"
+        },
+        "attachmentCount": 4
+    },
+    {
+        "title": "【新生入學活動】邀請本校全體師生蒞臨「113學年度新生入學活動-社團博覽會\u0026東華之夜」",
+        "timestamp": "1725594324",
+        "url": "mail_display.php?timestamp=1725594324",
+        "date": "2024/09/06 11:45",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "余惠真",
+            "email": "nacy4631@gms.ndhu.edu.tw",
+            "phone": "6232"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "諮商中心-【好好說再見】分手失落情緒支持團體",
         "timestamp": "1725592454",
         "url": "mail_display.php?timestamp=1725592454",
@@ -180,33 +208,5 @@
             "phone": "03-890-6579"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "⭐教育大數據微學程⭐邀請您參與教育大數據計畫—9/13招生說明會",
-        "timestamp": "1725442377",
-        "url": "mail_display.php?timestamp=1725442377",
-        "date": "2024/09/04 17:32",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "黃小姐",
-            "email": "chinghua@gms.ndhu.edu.tw",
-            "phone": "03-890-6579"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "原住民族學生資源中心-程式與科技課程修課說明會📣",
-        "timestamp": "1725412715",
-        "url": "mail_display.php?timestamp=1725412715",
-        "date": "2024/09/04 09:18",
-        "department": "原住民族學生資源中心",
-        "author": {
-            "department": "原住民族學生資源中心",
-            "name": "吳倩茹",
-            "email": "tipus0401@gms.ndhu.edu.tw",
-            "phone": "(03)890-5707"
-        },
-        "attachmentCount": 2
     }
 ]
