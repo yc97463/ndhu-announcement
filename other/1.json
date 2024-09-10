@@ -1,5 +1,33 @@
 [
     {
+        "title": "【徵才公告】國立東華大學數位學伴中心 - 113-1 學期大學伴招募",
+        "timestamp": "1725930492",
+        "url": "mail_display.php?timestamp=1725930492",
+        "date": "2024/09/10 09:08",
+        "department": "花師教育學院",
+        "author": {
+            "department": "花師教育學院",
+            "name": "李宛玲",
+            "email": "etutor_c226@gms.ndhu.edu.tw",
+            "phone": "890-3816"
+        },
+        "attachmentCount": 8
+    },
+    {
+        "title": "【師培獎學金甄選】113學年度師資培育獎學金甄選簡章，歡迎符合資格之師資生報名。",
+        "timestamp": "1725929052",
+        "url": "mail_display.php?timestamp=1725929052",
+        "date": "2024/09/10 08:44",
+        "department": "師資培育中心",
+        "author": {
+            "department": "師資培育中心",
+            "name": "陳淑貞",
+            "email": "sjchen@gms.ndhu.edu.tw",
+            "phone": "(03)8906636"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "TEJ臺灣經濟新報資料庫(TEJ Pro)系統升級通知",
         "timestamp": "1725860919",
         "url": "mail_display.php?timestamp=1725860919",
@@ -180,33 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【傑出校友選拔】高雄市立旗津國民中學辦理60週年校慶傑出校友遴選， 敬請推薦或轉知服務於本單位之校友參加遴選。",
-        "timestamp": "1725519977",
-        "url": "mail_display.php?timestamp=1725519977",
-        "date": "2024/09/05 15:06",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "陳美杏",
-            "email": "msing@gms.ndhu.edu.tw",
-            "phone": "6053"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "「113-1學期財物報廢時間」公告",
-        "timestamp": "1725498282",
-        "url": "mail_display.php?timestamp=1725498282",
-        "date": "2024/09/05 09:04",
-        "department": "總務處保管組",
-        "author": {
-            "department": "總務處保管組",
-            "name": "林慧濘",
-            "email": "maya70@gms.ndhu.edu.tw",
-            "phone": "8906344"
-        },
-        "attachmentCount": 0
     }
 ]

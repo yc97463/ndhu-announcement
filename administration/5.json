@@ -1,5 +1,47 @@
 [
     {
+        "title": "禁用遠端桌面服務【第二次公告】",
+        "timestamp": "1724738466",
+        "url": "mail_display.php?timestamp=1724738466",
+        "date": "2024/08/27 14:01",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "黃金城",
+            "email": "hjc@gms.ndhu.edu.tw",
+            "phone": "6724"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "公告113-1校核心資訊科技領域-「無人機操作與飛行創作」(初級程式設計)課程尚有名額，敬請踴躍加選課程",
+        "timestamp": "1724736053",
+        "url": "mail_display.php?timestamp=1724736053",
+        "date": "2024/08/27 13:20",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "8906607"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113-1校核心通識課程異動(增開及停開課程)公告",
+        "timestamp": "1724735821",
+        "url": "mail_display.php?timestamp=1724735821",
+        "date": "2024/08/27 13:17",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "8906607"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "湖畔電梯故障維修公告",
         "timestamp": "1724670497",
         "url": "mail_display.php?timestamp=1724670497",
@@ -166,47 +208,5 @@
             "phone": "6390"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "擴大行政會議 會議紀錄公告通知",
-        "timestamp": "1724222334",
-        "url": "mail_display.php?timestamp=1724222334",
-        "date": "2024/08/21 14:38",
-        "department": "秘書室議事公文組",
-        "author": {
-            "department": "秘書室議事公文組",
-            "name": "陳婉婉",
-            "email": "secretariat@gms.ndhu.edu.tw",
-            "phone": "6004"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "113年8月23日(五)08:00~20:00壽豐校區配合台電公司線路保養全校區停電(第7次公告)",
-        "timestamp": "1724217324",
-        "url": "mail_display.php?timestamp=1724217324",
-        "date": "2024/08/21 13:15",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉景富",
-            "email": "nickak@gms.ndhu.edu.tw",
-            "phone": "03-8906373"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "113學年度第1學期兵役緩徵、儘召網路登錄開放申請注意事項(第二次通知)",
-        "timestamp": "1724212304",
-        "url": "mail_display.php?timestamp=1724212304",
-        "date": "2024/08/21 11:51",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "黃勇程",
-            "email": "victor0903@gms.ndhu.edu.tw",
-            "phone": "6225"
-        },
-        "attachmentCount": 1
     }
 ]

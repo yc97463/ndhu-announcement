@@ -1,5 +1,19 @@
 [
     {
+        "title": "公告113-1校核心通識課程-「職場倫理與工作態度」課程尚有名額，敬請踴躍加選課程",
+        "timestamp": "1725929039",
+        "url": "mail_display.php?timestamp=1725929039",
+        "date": "2024/09/10 08:43",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "8906607"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【課程推推】永續/領導的對話力",
         "timestamp": "1725862532",
         "url": "mail_display.php?timestamp=1725862532",
@@ -194,19 +208,5 @@
             "phone": "8906607"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "公告113-1校核心通識課程-「國際關係導論」課程尚有名額，敬請踴躍加選課程",
-        "timestamp": "1725508187",
-        "url": "mail_display.php?timestamp=1725508187",
-        "date": "2024/09/05 11:49",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 1
     }
 ]
