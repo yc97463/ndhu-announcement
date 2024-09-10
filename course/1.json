@@ -1,5 +1,19 @@
 [
     {
+        "title": "【教育大數據產學合作與專題實作】113-1 微學程實務課推廣",
+        "timestamp": "1725960540",
+        "url": "mail_display.php?timestamp=1725960540",
+        "date": "2024/09/10 17:29",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "03-890-6579"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "公告113-1校核心通識課程-「成功幸福的職涯」課程尚有名額，敬請踴躍加選課程",
         "timestamp": "1725952315",
         "url": "mail_display.php?timestamp=1725952315",
@@ -194,19 +208,5 @@
             "phone": "03-8906215"
         },
         "attachmentCount": 7
-    },
-    {
-        "title": "【體育中心公告】體育(一)第一週上課集合場地：體育館",
-        "timestamp": "1725527938",
-        "url": "mail_display.php?timestamp=1725527938",
-        "date": "2024/09/05 17:18",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "莊璦綺",
-            "email": "ichi@gms.ndhu.edu.tw",
-            "phone": "6613"
-        },
-        "attachmentCount": 1
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "【教育大數據產學合作與專題實作】113-1 微學程實務課推廣",
+        "timestamp": "1725960540",
+        "url": "mail_display.php?timestamp=1725960540",
+        "date": "2024/09/10 17:29",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "03-890-6579"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "公告113-1校核心通識課程-「成功幸福的職涯」課程尚有名額，敬請踴躍加選課程",
         "timestamp": "1725952315",
         "url": "mail_display.php?timestamp=1725952315",
@@ -194,19 +208,5 @@
             "phone": "8906607"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "公告113-1校核心資訊科技領域-「無人機操作與飛行創作」(初級程式設計)課程尚有名額，敬請踴躍加選課程",
-        "timestamp": "1724736053",
-        "url": "mail_display.php?timestamp=1724736053",
-        "date": "2024/08/27 13:20",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 0
     }
 ]
