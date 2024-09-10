@@ -1,19 +1,5 @@
 [
     {
-        "title": "【公告】113學年度第1學期資訊科技(程式設計)課程免修申請審核通過名單 ",
-        "timestamp": "1725936294",
-        "url": "mail_display.php?timestamp=1725936294",
-        "date": "2024/09/10 10:44",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 1
-    },
-    {
         "title": "公告113-1校核心通識課程-「職場倫理與工作態度」課程尚有名額，敬請踴躍加選課程",
         "timestamp": "1725929039",
         "url": "mail_display.php?timestamp=1725929039",
@@ -208,5 +194,19 @@
             "phone": "6613"
         },
         "attachmentCount": 1
+    },
+    {
+        "title": "公告113-1校核心通識課程-「職場倫理與工作態度」課程尚有名額，敬請踴躍加選課程",
+        "timestamp": "1725523923",
+        "url": "mail_display.php?timestamp=1725523923",
+        "date": "2024/09/05 16:12",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "8906607"
+        },
+        "attachmentCount": 0
     }
 ]

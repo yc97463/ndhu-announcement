@@ -1,19 +1,5 @@
 [
     {
-        "title": "國立東華大學教育大數據計畫—微學程招生說明會",
-        "timestamp": "1725494101",
-        "url": "mail_display.php?timestamp=1725494101",
-        "date": "2024/09/05 07:55",
-        "department": "理工學院 ",
-        "author": {
-            "department": "理工學院",
-            "name": "黃靖樺",
-            "email": "chinghua@gms.ndhu.edu.tw",
-            "phone": "03-890-6579"
-        },
-        "attachmentCount": 0
-    },
-    {
         "title": "⭐教育大數據微學程⭐邀請您參與教育大數據計畫—9/13招生說明會",
         "timestamp": "1725442377",
         "url": "mail_display.php?timestamp=1725442377",
@@ -208,5 +194,19 @@
             "phone": "5919"
         },
         "attachmentCount": 2
+    },
+    {
+        "title": "【活動轉知】國泰卓越獎助計畫開放報名，每案最高獎勵20萬元，預計獎助20組團隊",
+        "timestamp": "1725322866",
+        "url": "mail_display.php?timestamp=1725322866",
+        "date": "2024/09/03 08:21",
+        "department": "永續發展中心",
+        "author": {
+            "department": "永續發展中心",
+            "name": "李敏賢",
+            "email": "jordanlee@gms.ndhu.edu.tw",
+            "phone": "5159"
+        },
+        "attachmentCount": 3
     }
 ]

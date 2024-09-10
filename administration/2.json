@@ -1,19 +1,5 @@
 [
     {
-        "title": "今日下午起北迴線因土石流雙線不通，受影響之師生，明日（9/9）課務請彈性處理。",
-        "timestamp": "1725785011",
-        "url": "mail_display.php?timestamp=1725785011",
-        "date": "2024/09/08 16:43",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "utd1003@gms.ndhu.edu.tw",
-            "phone": "6122~6126"
-        },
-        "attachmentCount": 0
-    },
-    {
         "title": "NDHU-GPT",
         "timestamp": "1725776268",
         "url": "mail_display.php?timestamp=1725776268",
@@ -208,5 +194,19 @@
             "phone": "03-8906235"
         },
         "attachmentCount": 2
+    },
+    {
+        "title": "本校新簽訂之富友鍋物/火鍋世家吉安店、海岸小旅民宿以及雄獅旅行社股份有限公司花蓮分公司特約商店公告。",
+        "timestamp": "1725517470",
+        "url": "mail_display.php?timestamp=1725517470",
+        "date": "2024/09/05 14:24",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "賴榮璉",
+            "email": "chrishnalai@gms.ndhu.edu.tw",
+            "phone": "6237"
+        },
+        "attachmentCount": 4
     }
 ]
