@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】台北市王雲五基金會113年「王雲五自學獎學金」",
+        "timestamp": "1726031767",
+        "url": "mail_display.php?timestamp=1726031767",
+        "date": "2024/09/11 13:16",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【公告】配合辦理「教育部及所屬機關（構）學校113年強化公務人員終身學習及專書閱讀推動計畫」，於本校圖書館設有專書閱讀專區書展，請本校行政人員踴躍借閱及撰寫心得。",
         "timestamp": "1726027280",
         "url": "mail_display.php?timestamp=1726027280",
@@ -194,19 +208,5 @@
             "phone": "03-890-6579"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "公告113-1校核心通識課程-「成功幸福的職涯」課程尚有名額，敬請踴躍加選課程",
-        "timestamp": "1725952315",
-        "url": "mail_display.php?timestamp=1725952315",
-        "date": "2024/09/10 15:11",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 0
     }
 ]
