@@ -1,5 +1,19 @@
 [
     {
+        "title": "[心理諮商輔導中心] 113學年度 入班活動申請辦法與申請表",
+        "timestamp": "1725589138",
+        "url": "mail_display.php?timestamp=1725589138",
+        "date": "2024/09/06 10:18",
+        "department": "心理諮商輔導中心",
+        "author": {
+            "department": "心理諮商輔導中心",
+            "name": "李玟蒨",
+            "email": "phee1801@gms.ndhu.edu.tw",
+            "phone": "(03)890-6263"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【公告】重申及修訂有關赴大陸、香港及澳門地區相關申請事宜，請查照轉知所屬人員。",
         "timestamp": "1725587521",
         "url": "mail_display.php?timestamp=1725587521",
@@ -194,19 +208,5 @@
             "phone": "6237"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "學生事務處搬遷公告",
-        "timestamp": "1725256920",
-        "url": "mail_display.php?timestamp=1725256920",
-        "date": "2024/09/02 14:02",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "學務處",
-            "email": "chchiou@gms.ndhu.edu.tw",
-            "phone": "０３８９０６２０３"
-        },
-        "attachmentCount": 0
     }
 ]
