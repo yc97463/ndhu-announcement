@@ -1,5 +1,19 @@
 [
     {
+        "title": "國立東華大學公共行政學系113學年第1學期-期初系員大會暨學系說明會",
+        "timestamp": "1725926102",
+        "url": "mail_display.php?timestamp=1725926102",
+        "date": "2024/09/10 07:55",
+        "department": "人文社會科學學院 公共行政學系",
+        "author": {
+            "department": "人文社會科學學院 公共行政學系",
+            "name": "蔡語宸",
+            "email": "yuchen@gms.ndhu.edu.tw",
+            "phone": "038905512"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "築一個飛行夢",
         "timestamp": "1725926101",
         "url": "mail_display.php?timestamp=1725926101",
@@ -194,19 +208,5 @@
             "phone": "6269"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "新版東華e學苑使用說明",
-        "timestamp": "1725845726",
-        "url": "mail_display.php?timestamp=1725845726",
-        "date": "2024/09/09 09:35",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 4
     }
 ]
