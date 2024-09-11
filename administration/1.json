@@ -1,5 +1,47 @@
 [
     {
+        "title": "教育部於5月至12月止進行電子郵件社交工程演練（第一階段成績出爐）",
+        "timestamp": "1726017061",
+        "url": "mail_display.php?timestamp=1726017061",
+        "date": "2024/09/11 09:11",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "葉宏達",
+            "email": "honda@gms.ndhu.edu.tw",
+            "phone": "8906747"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "公告113-1校核心通識課程-「傳播學導論」課程尚有名額，敬請踴躍加選課程",
+        "timestamp": "1726016606",
+        "url": "mail_display.php?timestamp=1726016606",
+        "date": "2024/09/11 09:03",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "8906607"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "微型電動二輪車應於今(113)年11月29日前完成掛牌事宜。",
+        "timestamp": "1726015892",
+        "url": "mail_display.php?timestamp=1726015892",
+        "date": "2024/09/11 08:51",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "諮商中心-壓力支持團體",
         "timestamp": "1725964274",
         "url": "mail_display.php?timestamp=1725964274",
@@ -166,47 +208,5 @@
             "phone": "6053"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "新版東華e學苑使用說明",
-        "timestamp": "1725845726",
-        "url": "mail_display.php?timestamp=1725845726",
-        "date": "2024/09/09 09:35",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "   113-1校核心通識課程【 性別教育與文化觀光的對話 】",
-        "timestamp": "1725842832",
-        "url": "mail_display.php?timestamp=1725842832",
-        "date": "2024/09/09 08:47",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "113-1校核心通識課程-「法國藝術與文化AA」課程停課公告",
-        "timestamp": "1725841568",
-        "url": "mail_display.php?timestamp=1725841568",
-        "date": "2024/09/09 08:26",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 0
     }
 ]

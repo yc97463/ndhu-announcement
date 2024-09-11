@@ -1,5 +1,47 @@
 [
     {
+        "title": "配合學生宿舍開放入住，調整9月5日至9月7日垃圾車清運時段及地點。",
+        "timestamp": "1724805426",
+        "url": "mail_display.php?timestamp=1724805426",
+        "date": "2024/08/28 08:37",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "許智翔",
+            "email": "cocco3746@gms.ndhu.edu.tw",
+            "phone": "03-8906399"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【投票通知】(更正)辦理本校113至114學年度校務基金工作人員陞遷暨考核委員會票選委員遴選。",
+        "timestamp": "1724766491",
+        "url": "mail_display.php?timestamp=1724766491",
+        "date": "2024/08/27 21:48",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "林淑惠",
+            "email": "linsh@gms.ndhu.edu.tw",
+            "phone": "038906059"
+        },
+        "attachmentCount": 4
+    },
+    {
+        "title": "8/29(四)學人宿舍(包含幼稚園)停水公告",
+        "timestamp": "1724763755",
+        "url": "mail_display.php?timestamp=1724763755",
+        "date": "2024/08/27 21:02",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "學生活動中心化糞池埋設工程公告",
         "timestamp": "1724750275",
         "url": "mail_display.php?timestamp=1724750275",
@@ -166,47 +208,5 @@
             "phone": "890-6389"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "8/26至9/2志學門出入口道路改善工程管制公告",
-        "timestamp": "1724382969",
-        "url": "mail_display.php?timestamp=1724382969",
-        "date": "2024/08/23 11:16",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "黃章傑",
-            "email": "cotycafe@gms.ndhu.edu.tw",
-            "phone": "5778"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "行政大樓4樓隔間牆封板施工公告",
-        "timestamp": "1724382808",
-        "url": "mail_display.php?timestamp=1724382808",
-        "date": "2024/08/23 11:13",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "黃章傑",
-            "email": "cotycafe@gms.ndhu.edu.tw",
-            "phone": "5778"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【極重要】 113年8月23日(五)08:00~20:00壽豐校區配合台電公司線路保養全校區停電",
-        "timestamp": "1724293578",
-        "url": "mail_display.php?timestamp=1724293578",
-        "date": "2024/08/22 10:26",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉景富",
-            "email": "nickak@gms.ndhu.edu.tw",
-            "phone": "(03)8906373"
-        },
-        "attachmentCount": 1
     }
 ]
