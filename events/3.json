@@ -1,5 +1,19 @@
 [
     {
+        "title": "定期捐血保障你我~熱血行動!!!",
+        "timestamp": "1725666904",
+        "url": "mail_display.php?timestamp=1725666904",
+        "date": "2024/09/07 07:55",
+        "department": "學務處 衛生保健組",
+        "author": {
+            "department": "學務處 衛生保健組",
+            "name": "吳星穎",
+            "email": "carmier@gms.ndhu.edu.tw",
+            "phone": "8906252"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113.09.20（五）經濟學系葉勁廷系友演講（元大證券新生分公司經理）：股動人生、錢景看俏",
         "timestamp": "1725666903",
         "url": "mail_display.php?timestamp=1725666903",
@@ -194,19 +208,5 @@
             "phone": "038905512"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【新生入學活動】邀請本校全體師生蒞臨「113學年度新生入學活動-社團博覽會\u0026東華之夜」[Freshman Admissions Event] Welcome to 2024 NDHU Freshmen Orientation \" Event - Club Expo \u0026 Dong Hwa Night\"",
-        "timestamp": "1725534544",
-        "url": "mail_display.php?timestamp=1725534544",
-        "date": "2024/09/05 19:09",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "余惠真",
-            "email": "nacy4631@gms.ndhu.edu.tw",
-            "phone": "6232"
-        },
-        "attachmentCount": 1
     }
 ]

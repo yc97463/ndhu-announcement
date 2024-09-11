@@ -1,5 +1,33 @@
 [
     {
+        "title": "113-1幼兒教育學系期初系員大會",
+        "timestamp": "1725839701",
+        "url": "mail_display.php?timestamp=1725839701",
+        "date": "2024/09/09 07:55",
+        "department": "花師教育學院 幼兒教育學系",
+        "author": {
+            "department": "花師教育學院 幼兒教育學系",
+            "name": "蕭羽芩",
+            "email": "kay200128@gms.ndhu.edu.tw",
+            "phone": "5266"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "(更正) 志學門交通改善工程注意事項公告",
+        "timestamp": "1725808585",
+        "url": "mail_display.php?timestamp=1725808585",
+        "date": "2024/09/08 23:16",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "黃章傑",
+            "email": "cotycafe@gms.ndhu.edu.tw",
+            "phone": "5778"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "掌握未來教育趨勢！立即報名教育大數據微學程招生說明會",
         "timestamp": "1725807852",
         "url": "mail_display.php?timestamp=1725807852",
@@ -180,33 +208,5 @@
             "phone": "03-8906219"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "定期捐血保障你我~熱血行動!!!",
-        "timestamp": "1725666904",
-        "url": "mail_display.php?timestamp=1725666904",
-        "date": "2024/09/07 07:55",
-        "department": "學務處 衛生保健組",
-        "author": {
-            "department": "學務處 衛生保健組",
-            "name": "吳星穎",
-            "email": "carmier@gms.ndhu.edu.tw",
-            "phone": "8906252"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "113.09.20（五）經濟學系葉勁廷系友演講（元大證券新生分公司經理）：股動人生、錢景看俏",
-        "timestamp": "1725666903",
-        "url": "mail_display.php?timestamp=1725666903",
-        "date": "2024/09/07 07:55",
-        "department": "人文社會科學學院 經濟學系",
-        "author": {
-            "department": "人文社會科學學院 經濟學系",
-            "name": "張筱茵",
-            "email": "ying@gms.ndhu.edu.tw",
-            "phone": "(03)890-5533"
-        },
-        "attachmentCount": 0
     }
 ]
