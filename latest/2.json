@@ -1,5 +1,61 @@
 [
     {
+        "title": "教育部於5月至12月止進行電子郵件社交工程演練（第一階段成績出爐）",
+        "timestamp": "1726017061",
+        "url": "mail_display.php?timestamp=1726017061",
+        "date": "2024/09/11 09:11",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "葉宏達",
+            "email": "honda@gms.ndhu.edu.tw",
+            "phone": "8906747"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "公告113-1校核心通識課程-「傳播學導論」課程尚有名額，敬請踴躍加選課程",
+        "timestamp": "1726016606",
+        "url": "mail_display.php?timestamp=1726016606",
+        "date": "2024/09/11 09:03",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "8906607"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "微型電動二輪車應於今(113)年11月29日前完成掛牌事宜。",
+        "timestamp": "1726015892",
+        "url": "mail_display.php?timestamp=1726015892",
+        "date": "2024/09/11 08:51",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【光電系系學會】新生活動-113學年度迎新宿營【限系學會工作人員報名】",
+        "timestamp": "1726012505",
+        "url": "mail_display.php?timestamp=1726012505",
+        "date": "2024/09/11 07:55",
+        "department": "理工學院 光電工程學系",
+        "author": {
+            "department": "理工學院 光電工程學系",
+            "name": "劉碧純",
+            "email": "sun@gms.ndhu.edu.tw",
+            "phone": "3182"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【光電系系學會】新生活動-113學年度迎新宿營(活動參與人-限大一新生)",
         "timestamp": "1726012504",
         "url": "mail_display.php?timestamp=1726012504",
@@ -152,61 +208,5 @@
             "phone": "6053"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【健康促進活動】BLS(基本救命術)證照班，取得兩年效期合格證明，報名從速!",
-        "timestamp": "1725944967",
-        "url": "mail_display.php?timestamp=1725944967",
-        "date": "2024/09/10 13:09",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "「生成式AI與當代史學發展新趨勢：大眾史學的關鍵省思與展望」工作坊報名錄取名單",
-        "timestamp": "1725935609",
-        "url": "mail_display.php?timestamp=1725935609",
-        "date": "2024/09/10 10:33",
-        "department": "歷史學系",
-        "author": {
-            "department": "歷史學系",
-            "name": "吳助理",
-            "email": "suju1106@gms.ndhu.edu.tw",
-            "phone": "5323"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【敬邀參加】藝術學院2024教授聯展開幕活動",
-        "timestamp": "1725931754",
-        "url": "mail_display.php?timestamp=1725931754",
-        "date": "2024/09/10 09:29",
-        "department": "藝術學院",
-        "author": {
-            "department": "藝術學院",
-            "name": "黃小姐",
-            "email": "syuan7517@gms.ndhu.edu.tw",
-            "phone": "5103"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "新版東華e學苑討論區(公告)寄信方式",
-        "timestamp": "1725931527",
-        "url": "mail_display.php?timestamp=1725931527",
-        "date": "2024/09/10 09:25",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 0
     }
 ]
