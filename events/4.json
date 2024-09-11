@@ -1,5 +1,33 @@
 [
     {
+        "title": "諮商中心-【好好說再見】分手失落情緒支持團體",
+        "timestamp": "1725592454",
+        "url": "mail_display.php?timestamp=1725592454",
+        "date": "2024/09/06 11:14",
+        "department": "心理諮商輔導中心",
+        "author": {
+            "department": "心理諮商輔導中心",
+            "name": "陳奕錚",
+            "email": "yjchen92@gms.ndhu.edu.tw",
+            "phone": "(03)890-6894"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【第2次公告】敬邀本校教職員參加113年度中秋節暨教師節聯誼餐會。",
+        "timestamp": "1725585363",
+        "url": "mail_display.php?timestamp=1725585363",
+        "date": "2024/09/06 09:16",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "陳治豪",
+            "email": "jackchen168@gms.ndhu.edu.tw",
+            "phone": "6057"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【公行系新生活動】113學士班院系時間(學系說明)暨新生座談會(限公行一新生報名)",
         "timestamp": "1725580501",
         "url": "mail_display.php?timestamp=1725580501",
@@ -180,33 +208,5 @@
             "phone": "(03)890-5707"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "阿美族語口譯微學程",
-        "timestamp": "1725409909",
-        "url": "mail_display.php?timestamp=1725409909",
-        "date": "2024/09/04 08:31",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "巴莉亞妲‧蘇利伊",
-            "email": "damu@gms.ndhu.edu.tw",
-            "phone": "8905824"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【職涯講座】數位力提升",
-        "timestamp": "1725407706",
-        "url": "mail_display.php?timestamp=1725407706",
-        "date": "2024/09/04 07:55",
-        "department": "學務處 畢業生及校友服務組",
-        "author": {
-            "department": "學務處 畢業生及校友服務組",
-            "name": "張雯婷",
-            "email": "kz02820@gms.ndhu.edu.tw",
-            "phone": "03-8906284"
-        },
-        "attachmentCount": 0
     }
 ]

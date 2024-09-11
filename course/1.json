@@ -1,5 +1,19 @@
 [
     {
+        "title": "⭐教育大數據微學程⭐學習如何以大數據來解讀教育的問題！",
+        "timestamp": "1726046776",
+        "url": "mail_display.php?timestamp=1726046776",
+        "date": "2024/09/11 17:26",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【轉知】行政院人事行政總處公務人力發展學院「e等公務園+學習平臺」精選天下學習「AI素養系列」及Hahow好學校優質數位課程，提供公務人員學習，並自即日起至113年10月10日（星期四）辦理線上學習推廣活動，請鼓勵所屬公務人員多加利用。",
         "timestamp": "1726032798",
         "url": "mail_display.php?timestamp=1726032798",
@@ -192,20 +206,6 @@
             "name": "課務組",
             "email": "utd1003@gms.ndhu.edu.tw",
             "phone": "6122~6126"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【課務組公告】請注意113-1網路加退選時間 Please Notice the Period for Online Add/Drop Courses ",
-        "timestamp": "1725606092",
-        "url": "mail_display.php?timestamp=1725606092",
-        "date": "2024/09/06 15:01",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "utd1003@gms.ndhu.edu.tw",
-            "phone": "6122-6126"
         },
         "attachmentCount": 0
     }

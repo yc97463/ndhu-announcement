@@ -1,5 +1,33 @@
 [
     {
+        "title": "【新生入學活動】邀請本校全體師生蒞臨「113學年度新生入學活動-社團博覽會\u0026東華之夜」",
+        "timestamp": "1725752730",
+        "url": "mail_display.php?timestamp=1725752730",
+        "date": "2024/09/08 07:45",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "余惠真",
+            "email": "nacy4631@gms.ndhu.edu.tw",
+            "phone": "6232"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【新生入學活動】113年9月8日(星期日)圖書館與學生活動中心交通要道(起理工一館至管理學院)封路相關作業提醒與說明",
+        "timestamp": "1725752501",
+        "url": "mail_display.php?timestamp=1725752501",
+        "date": "2024/09/08 07:41",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "余惠真",
+            "email": "nacy4631@gms.ndhu.edu.tw",
+            "phone": "6232"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "第十七屆親善大使團招募!!",
         "timestamp": "1725703791",
         "url": "mail_display.php?timestamp=1725703791",
@@ -180,33 +208,5 @@
             "phone": "6232"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "諮商中心-【好好說再見】分手失落情緒支持團體",
-        "timestamp": "1725592454",
-        "url": "mail_display.php?timestamp=1725592454",
-        "date": "2024/09/06 11:14",
-        "department": "心理諮商輔導中心",
-        "author": {
-            "department": "心理諮商輔導中心",
-            "name": "陳奕錚",
-            "email": "yjchen92@gms.ndhu.edu.tw",
-            "phone": "(03)890-6894"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【第2次公告】敬邀本校教職員參加113年度中秋節暨教師節聯誼餐會。",
-        "timestamp": "1725585363",
-        "url": "mail_display.php?timestamp=1725585363",
-        "date": "2024/09/06 09:16",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "陳治豪",
-            "email": "jackchen168@gms.ndhu.edu.tw",
-            "phone": "6057"
-        },
-        "attachmentCount": 1
     }
 ]

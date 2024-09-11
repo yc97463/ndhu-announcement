@@ -1,5 +1,19 @@
 [
     {
+        "title": "⭐教育大數據微學程⭐學習如何以大數據來解讀教育的問題！",
+        "timestamp": "1726046776",
+        "url": "mail_display.php?timestamp=1726046776",
+        "date": "2024/09/11 17:26",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "公告113-1校核心通識課程-「傳播學導論」課程尚有名額，敬請踴躍加選課程",
         "timestamp": "1726016606",
         "url": "mail_display.php?timestamp=1726016606",
@@ -194,19 +208,5 @@
             "phone": "8906607"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "⭐教育大數據微學程⭐邀請您參與教育大數據計畫—9/13招生說明會",
-        "timestamp": "1725442377",
-        "url": "mail_display.php?timestamp=1725442377",
-        "date": "2024/09/04 17:32",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "黃小姐",
-            "email": "chinghua@gms.ndhu.edu.tw",
-            "phone": "03-890-6579"
-        },
-        "attachmentCount": 2
     }
 ]

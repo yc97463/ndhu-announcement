@@ -1,5 +1,19 @@
 [
     {
+        "title": "⭐教育大數據微學程⭐邀請您參與教育大數據計畫—9/13招生說明會",
+        "timestamp": "1725442377",
+        "url": "mail_display.php?timestamp=1725442377",
+        "date": "2024/09/04 17:32",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "03-890-6579"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "歡迎踴躍報名-半導體IC載板產業實務人才培育專班招生說明會",
         "timestamp": "1725328529",
         "url": "mail_display.php?timestamp=1725328529",
@@ -194,19 +208,5 @@
             "phone": "6579"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "⭐教育大數據微學程⭐學習如何以大數據來解讀教育的問題！",
-        "timestamp": "1716801195",
-        "url": "mail_display.php?timestamp=1716801195",
-        "date": "2024/05/27 17:13",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "黃小姐",
-            "email": "chinghua@gms.ndhu.edu.tw",
-            "phone": "6579"
-        },
-        "attachmentCount": 3
     }
 ]
