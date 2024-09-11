@@ -1,5 +1,33 @@
 [
     {
+        "title": "113年9月10日至20日辦理本校田園基地開放申請作業。",
+        "timestamp": "1725929790",
+        "url": "mail_display.php?timestamp=1725929790",
+        "date": "2024/09/10 08:56",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "賴宜萱",
+            "email": "lai0210@gms.ndhu.edu.tw",
+            "phone": "6393"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【師培獎學金甄選】113學年度師資培育獎學金甄選簡章，歡迎符合資格之師資生報名。",
+        "timestamp": "1725929052",
+        "url": "mail_display.php?timestamp=1725929052",
+        "date": "2024/09/10 08:44",
+        "department": "師資培育中心",
+        "author": {
+            "department": "師資培育中心",
+            "name": "陳淑貞",
+            "email": "sjchen@gms.ndhu.edu.tw",
+            "phone": "(03)8906636"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "國立東華大學公共行政學系113學年第1學期-期初系員大會暨學系說明會",
         "timestamp": "1725926102",
         "url": "mail_display.php?timestamp=1725926102",
@@ -180,33 +208,5 @@
             "phone": "6053"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "113-1學產基金低收入戶學生助學金申請",
-        "timestamp": "1725846769",
-        "url": "mail_display.php?timestamp=1725846769",
-        "date": "2024/09/09 09:52",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "李欣憓",
-            "email": "dora.lee@gms.ndhu.edu.tw",
-            "phone": "6218"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "免費心理諮商資源",
-        "timestamp": "1725845953",
-        "url": "mail_display.php?timestamp=1725845953",
-        "date": "2024/09/09 09:39",
-        "department": "心理諮商輔導中心",
-        "author": {
-            "department": "心理諮商輔導中心",
-            "name": "林賢謀",
-            "email": "lcm1460@gms.ndhu.edu.tw",
-            "phone": "6269"
-        },
-        "attachmentCount": 1
     }
 ]

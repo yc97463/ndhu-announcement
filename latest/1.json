@@ -1,9 +1,37 @@
 [
     {
+        "title": "【出納組公告】總務處出納組臨櫃收費時間調整為上班日下午4點截止",
+        "timestamp": "1726041923",
+        "url": "mail_display.php?timestamp=1726041923",
+        "date": "2024/09/11 16:05",
+        "department": "總務處",
+        "author": {
+            "department": "總務處",
+            "name": "許紹峯",
+            "email": "hsf113@gms.ndhu.edu.tw",
+            "phone": "038906361"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【獎助學金申請】雲林縣113-1清寒優秀學生獎學金 (限雲林縣籍)",
+        "timestamp": "1726041167",
+        "url": "mail_display.php?timestamp=1726041167",
+        "date": "2024/09/11 15:52",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【TA直播】10/1(二)18:00新版東華E學苑使用說明(必修)",
-        "timestamp": "1726040086",
-        "url": "mail_display.php?timestamp=1726040086",
-        "date": "2024/09/11 15:34",
+        "timestamp": "1726040601",
+        "url": "mail_display.php?timestamp=1726040601",
+        "date": "2024/09/11 15:43",
         "department": "教學卓越中心",
         "author": {
             "department": "教學卓越中心",
@@ -178,34 +206,6 @@
             "name": "劉碧純",
             "email": "sun@gms.ndhu.edu.tw",
             "phone": "3182"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "I Dream, Therefore I Am: Dream Exploration Workshop",
-        "timestamp": "1726012503",
-        "url": "mail_display.php?timestamp=1726012503",
-        "date": "2024/09/11 07:55",
-        "department": "心理諮商輔導中心 預防推廣組",
-        "author": {
-            "department": "心理諮商輔導中心 預防推廣組",
-            "name": "李玟蒨",
-            "email": "phee1801@gms.ndhu.edu.tw",
-            "phone": "03-890-6263"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【113-1活動】9/24第2場_國界外的天空：進修、旅遊、展望未來 A Sky Beyond the Border: Study, Tour, and Future",
-        "timestamp": "1726012502",
-        "url": "mail_display.php?timestamp=1726012502",
-        "date": "2024/09/11 07:55",
-        "department": "洄瀾學院 語言中心",
-        "author": {
-            "department": "洄瀾學院 語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
         },
         "attachmentCount": 0
     }
