@@ -1,5 +1,47 @@
 [
     {
+        "title": "【活動推推】學習型地景的教育實踐：從理念到行動 線上講座",
+        "timestamp": "1725882910",
+        "url": "mail_display.php?timestamp=1725882910",
+        "date": "2024/09/09 19:55",
+        "department": "社會參與中心",
+        "author": {
+            "department": "社會參與中心",
+            "name": "黃小姐",
+            "email": "ellie@gms.ndhu.edu.tw",
+            "phone": "5242"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "113學年第1學期開學總務處業務相關注意事項",
+        "timestamp": "1725868243",
+        "url": "mail_display.php?timestamp=1725868243",
+        "date": "2024/09/09 15:50",
+        "department": "總務處",
+        "author": {
+            "department": "總務處",
+            "name": "陳宇欽",
+            "email": "yuchin@gms.ndhu.edu.tw",
+            "phone": "6307"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【課程推推】永續/領導的對話力",
+        "timestamp": "1725862532",
+        "url": "mail_display.php?timestamp=1725862532",
+        "date": "2024/09/09 14:15",
+        "department": "社會參與中心",
+        "author": {
+            "department": "社會參與中心",
+            "name": "黃小姐",
+            "email": "Ellie@gms.ndhu.edu.tw",
+            "phone": "5247"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "TEJ臺灣經濟新報資料庫(TEJ Pro)系統升級通知",
         "timestamp": "1725860919",
         "url": "mail_display.php?timestamp=1725860919",
@@ -166,47 +208,5 @@
             "phone": "890-3816"
         },
         "attachmentCount": 8
-    },
-    {
-        "title": "   113-1校核心通識課程【 性別教育與文化觀光的對話 】",
-        "timestamp": "1725842832",
-        "url": "mail_display.php?timestamp=1725842832",
-        "date": "2024/09/09 08:47",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "113-1校核心通識課程-「法國藝術與文化AA」課程停課公告",
-        "timestamp": "1725841568",
-        "url": "mail_display.php?timestamp=1725841568",
-        "date": "2024/09/09 08:26",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "諮商中心資源教室：【身心障礙者就業資源盤點與就業服務分享講座(場次二)】",
-        "timestamp": "1725839703",
-        "url": "mail_display.php?timestamp=1725839703",
-        "date": "2024/09/09 07:55",
-        "department": "心理諮商輔導中心 資源開發組",
-        "author": {
-            "department": "心理諮商輔導中心 資源開發組",
-            "name": "鍾雅琳",
-            "email": "lin.chung@gms.ndhu.edu.tw",
-            "phone": "03-8903155"
-        },
-        "attachmentCount": 0
     }
 ]
