@@ -1,5 +1,47 @@
 [
     {
+        "title": "諮商中心-壓力支持團體",
+        "timestamp": "1725964274",
+        "url": "mail_display.php?timestamp=1725964274",
+        "date": "2024/09/10 18:31",
+        "department": "心理諮商輔導中心",
+        "author": {
+            "department": "心理諮商輔導中心",
+            "name": "陳奕錚",
+            "email": "yjchen92@gms.ndhu.edu.tw",
+            "phone": "(03)890-6894"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【轉知】「2024 台灣雲端社群年會」(AWS Communtiy Day Taiwan) 相關活動資訊，請參閱官方網站公告。",
+        "timestamp": "1725960588",
+        "url": "mail_display.php?timestamp=1725960588",
+        "date": "2024/09/10 17:29",
+        "department": "圖書資訊處綜合業務組",
+        "author": {
+            "department": "圖書資訊處綜合業務組",
+            "name": "李惠玲",
+            "email": "hllee@gms.ndhu.edu.tw",
+            "phone": "6775"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【教育大數據產學合作與專題實作】113-1 微學程實務課推廣",
+        "timestamp": "1725960540",
+        "url": "mail_display.php?timestamp=1725960540",
+        "date": "2024/09/10 17:29",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "03-890-6579"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "公告113-1校核心通識課程-「成功幸福的職涯」課程尚有名額，敬請踴躍加選課程",
         "timestamp": "1725952315",
         "url": "mail_display.php?timestamp=1725952315",
@@ -164,48 +206,6 @@
             "name": "王沂釗",
             "email": "scholarwang@gms.ndhu.edu.tw",
             "phone": "5654"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【活動推推】學習型地景的教育實踐：從理念到行動 線上講座",
-        "timestamp": "1725882910",
-        "url": "mail_display.php?timestamp=1725882910",
-        "date": "2024/09/09 19:55",
-        "department": "社會參與中心",
-        "author": {
-            "department": "社會參與中心",
-            "name": "黃小姐",
-            "email": "ellie@gms.ndhu.edu.tw",
-            "phone": "5242"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "113學年第1學期開學總務處業務相關注意事項",
-        "timestamp": "1725868243",
-        "url": "mail_display.php?timestamp=1725868243",
-        "date": "2024/09/09 15:50",
-        "department": "總務處",
-        "author": {
-            "department": "總務處",
-            "name": "陳宇欽",
-            "email": "yuchin@gms.ndhu.edu.tw",
-            "phone": "6307"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【課程推推】永續/領導的對話力",
-        "timestamp": "1725862532",
-        "url": "mail_display.php?timestamp=1725862532",
-        "date": "2024/09/09 14:15",
-        "department": "社會參與中心",
-        "author": {
-            "department": "社會參與中心",
-            "name": "黃小姐",
-            "email": "Ellie@gms.ndhu.edu.tw",
-            "phone": "5247"
         },
         "attachmentCount": 0
     }
