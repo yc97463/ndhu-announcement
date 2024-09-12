@@ -1,5 +1,19 @@
 [
     {
+        "title": "東華電子報 | 2024年08月刊 |",
+        "timestamp": "1725324173",
+        "url": "mail_display.php?timestamp=1725324173",
+        "date": "2024/09/03 08:42",
+        "department": "秘書室公關宣傳組",
+        "author": {
+            "department": "秘書室公關宣傳組",
+            "name": "林佩瑤",
+            "email": "peiyao@gms.ndhu.edu.tw",
+            "phone": "6013"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【活動轉知】「打造綠色校園，ESG 永續淨零提案競賽」開跑，報名截止只到 10/27！",
         "timestamp": "1725323025",
         "url": "mail_display.php?timestamp=1725323025",
@@ -194,19 +208,5 @@
             "phone": "8906422"
         },
         "attachmentCount": 8
-    },
-    {
-        "title": "【實習】臺中市政府社會局114年暑假實習。",
-        "timestamp": "1724814797",
-        "url": "mail_display.php?timestamp=1724814797",
-        "date": "2024/08/28 11:13",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
     }
 ]

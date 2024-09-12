@@ -1,5 +1,19 @@
 [
     {
+        "title": "公告113-1校核心通識課程-「傳播學導論」課程尚有名額，敬請踴躍加選課程",
+        "timestamp": "1726016606",
+        "url": "mail_display.php?timestamp=1726016606",
+        "date": "2024/09/11 09:03",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "8906607"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "微型電動二輪車應於今(113)年11月29日前完成掛牌事宜。",
         "timestamp": "1726015892",
         "url": "mail_display.php?timestamp=1726015892",
@@ -194,19 +208,5 @@
             "phone": "8906253"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "「生成式AI與當代史學發展新趨勢：大眾史學的關鍵省思與展望」工作坊報名錄取名單",
-        "timestamp": "1725935609",
-        "url": "mail_display.php?timestamp=1725935609",
-        "date": "2024/09/10 10:33",
-        "department": "歷史學系",
-        "author": {
-            "department": "歷史學系",
-            "name": "吳助理",
-            "email": "suju1106@gms.ndhu.edu.tw",
-            "phone": "5323"
-        },
-        "attachmentCount": 3
     }
 ]
