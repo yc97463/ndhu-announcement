@@ -1,5 +1,33 @@
 [
     {
+        "title": "研究所與出國交換的雙贏策略",
+        "timestamp": "1726098901",
+        "url": "mail_display.php?timestamp=1726098901",
+        "date": "2024/09/12 07:55",
+        "department": "管理學院 國際企業學系",
+        "author": {
+            "department": "管理學院 國際企業學系",
+            "name": "蔡季芸",
+            "email": "andreat@gms.ndhu.edu.tw",
+            "phone": "3043"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "體育中心-推廣教育課程通知",
+        "timestamp": "1726049885",
+        "url": "mail_display.php?timestamp=1726049885",
+        "date": "2024/09/11 18:18",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "楊永義",
+            "email": "yyy@gms.ndhu.edu.tw",
+            "phone": "0911765302"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "教職員工健促活動~挑戰！健康運動集點趣！",
         "timestamp": "1726047351",
         "url": "mail_display.php?timestamp=1726047351",
@@ -180,33 +208,5 @@
             "phone": "8906607"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【健康促進活動】BLS(基本救命術)證照班，取得兩年效期合格證明，報名從速!",
-        "timestamp": "1725944967",
-        "url": "mail_display.php?timestamp=1725944967",
-        "date": "2024/09/10 13:09",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "「生成式AI與當代史學發展新趨勢：大眾史學的關鍵省思與展望」工作坊報名錄取名單",
-        "timestamp": "1725935609",
-        "url": "mail_display.php?timestamp=1725935609",
-        "date": "2024/09/10 10:33",
-        "department": "歷史學系",
-        "author": {
-            "department": "歷史學系",
-            "name": "吳助理",
-            "email": "suju1106@gms.ndhu.edu.tw",
-            "phone": "5323"
-        },
-        "attachmentCount": 3
     }
 ]
