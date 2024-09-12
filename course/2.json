@@ -1,5 +1,19 @@
 [
     {
+        "title": "今日下午起北迴線因土石流雙線不通，受影響之師生，明日（9/9）課務請彈性處理。",
+        "timestamp": "1725785011",
+        "url": "mail_display.php?timestamp=1725785011",
+        "date": "2024/09/08 16:43",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122~6126"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【課務組公告】請注意113-1網路加退選時間 Please Notice the Period for Online Add/Drop Courses ",
         "timestamp": "1725606092",
         "url": "mail_display.php?timestamp=1725606092",
@@ -192,20 +206,6 @@
             "name": "巴莉亞妲‧蘇利伊",
             "email": "damu@gms.ndhu.edu.tw",
             "phone": "8905824"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "113-1校核心通識課程異動(停開課程)公告",
-        "timestamp": "1725241598",
-        "url": "mail_display.php?timestamp=1725241598",
-        "date": "2024/09/02 09:46",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
         },
         "attachmentCount": 1
     }

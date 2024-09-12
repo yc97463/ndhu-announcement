@@ -1,5 +1,19 @@
 [
     {
+        "title": "113-1校核心通識課程異動(停開課程)公告",
+        "timestamp": "1725241598",
+        "url": "mail_display.php?timestamp=1725241598",
+        "date": "2024/09/02 09:46",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "8906607"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "體育(一)第一週上課集合場地：體育館",
         "timestamp": "1724922462",
         "url": "mail_display.php?timestamp=1724922462",
@@ -194,19 +208,5 @@
             "phone": "6053"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【課程】AI基礎班:ChatGPT與內容行銷",
-        "timestamp": "1723441123",
-        "url": "mail_display.php?timestamp=1723441123",
-        "date": "2024/08/12 13:38",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "高云偈",
-            "email": "jerrygao@gms.ndhu.edu.tw",
-            "phone": "3789"
-        },
-        "attachmentCount": 2
     }
 ]

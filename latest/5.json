@@ -1,5 +1,19 @@
 [
     {
+        "title": "教育部於5月至12月止進行電子郵件社交工程演練（第一階段成績出爐）",
+        "timestamp": "1726017061",
+        "url": "mail_display.php?timestamp=1726017061",
+        "date": "2024/09/11 09:11",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "葉宏達",
+            "email": "honda@gms.ndhu.edu.tw",
+            "phone": "8906747"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "公告113-1校核心通識課程-「傳播學導論」課程尚有名額，敬請踴躍加選課程",
         "timestamp": "1726016606",
         "url": "mail_display.php?timestamp=1726016606",
@@ -194,19 +208,5 @@
             "phone": "6053"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【健康促進活動】BLS(基本救命術)證照班，取得兩年效期合格證明，報名從速!",
-        "timestamp": "1725944967",
-        "url": "mail_display.php?timestamp=1725944967",
-        "date": "2024/09/10 13:09",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 1
     }
 ]

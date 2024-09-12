@@ -1,5 +1,19 @@
 [
     {
+        "title": "📢113-1 教育大數據微學程實務課推廣📢",
+        "timestamp": "1726152203",
+        "url": "mail_display.php?timestamp=1726152203",
+        "date": "2024/09/12 22:43",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "⭐教育大數據微學程⭐學習如何以大數據來解讀教育的問題！",
         "timestamp": "1726046776",
         "url": "mail_display.php?timestamp=1726046776",
@@ -194,19 +208,5 @@
             "phone": "5824"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "今日下午起北迴線因土石流雙線不通，受影響之師生，明日（9/9）課務請彈性處理。",
-        "timestamp": "1725785011",
-        "url": "mail_display.php?timestamp=1725785011",
-        "date": "2024/09/08 16:43",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "utd1003@gms.ndhu.edu.tw",
-            "phone": "6122~6126"
-        },
-        "attachmentCount": 0
     }
 ]
