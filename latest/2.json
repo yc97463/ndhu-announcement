@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】桃園市113-1原住民族學生清寒及優秀獎助學金 (限桃園市籍)",
+        "timestamp": "1726120002",
+        "url": "mail_display.php?timestamp=1726120002",
+        "date": "2024/09/12 13:46",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "Meet Pacific 花蓮創新創業嘉年｜工讀生招募計畫",
         "timestamp": "1726119668",
         "url": "mail_display.php?timestamp=1726119668",
@@ -192,20 +206,6 @@
             "name": "許紹峯",
             "email": "yummy@gms.ndhu.edu.tw",
             "phone": "03-8906361"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【光電系系學會】113學年度光電X物理X教育三系聯合迎新【限系學會工作人員報名】",
-        "timestamp": "1726098910",
-        "url": "mail_display.php?timestamp=1726098910",
-        "date": "2024/09/12 07:55",
-        "department": "理工學院 光電工程學系",
-        "author": {
-            "department": "理工學院 光電工程學系",
-            "name": "劉碧純",
-            "email": "sun@gms.ndhu.edu.tw",
-            "phone": "3182"
         },
         "attachmentCount": 0
     }
