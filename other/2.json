@@ -1,5 +1,19 @@
 [
     {
+        "title": "【轉知】『2024第二十屆IIP國際傑出發明家獎』甄選資訊",
+        "timestamp": "1725854472",
+        "url": "mail_display.php?timestamp=1725854472",
+        "date": "2024/09/09 12:01",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "李淑淳",
+            "email": "chun@gms.ndhu.edu.tw",
+            "phone": "6522"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【K書中心公告】K書中心A、B館關閉公告 K-Book Center Closure Announcement",
         "timestamp": "1725852151",
         "url": "mail_display.php?timestamp=1725852151",
@@ -194,19 +208,5 @@
             "phone": "3816"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【轉知】彰化縣政府辦理「青年就業獎勵補助計畫」",
-        "timestamp": "1725443766",
-        "url": "mail_display.php?timestamp=1725443766",
-        "date": "2024/09/04 17:56",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 7
     }
 ]

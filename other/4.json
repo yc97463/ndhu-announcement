@@ -1,6 +1,20 @@
 [
     {
         "title": "【受贈通知】各單位年度 (112.10.1-113.9.30)接受非現金捐贈達10萬元以上調查",
+        "timestamp": "1725254322",
+        "url": "mail_display.php?timestamp=1725254322",
+        "date": "2024/09/02 13:18",
+        "department": "秘書室公關宣傳組",
+        "author": {
+            "department": "秘書室公關宣傳組",
+            "name": "林佩瑤",
+            "email": "peiyao@gms.ndhu.edu.tw",
+            "phone": "6013"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【受贈通知】各單位年度 (112.10.1-113.9.30)接受非現金捐贈達10萬元以上調查",
         "timestamp": "1725254157",
         "url": "mail_display.php?timestamp=1725254157",
         "date": "2024/09/02 13:15",
@@ -194,19 +208,5 @@
             "phone": "8906422"
         },
         "attachmentCount": 8
-    },
-    {
-        "title": "湖畔電梯故障維修公告",
-        "timestamp": "1724670497",
-        "url": "mail_display.php?timestamp=1724670497",
-        "date": "2024/08/26 19:08",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
     }
 ]

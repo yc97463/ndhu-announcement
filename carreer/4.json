@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才公告】國立東華大學財務金融學系徵聘校務基金助理一名",
+        "timestamp": "1719461689",
+        "url": "mail_display.php?timestamp=1719461689",
+        "date": "2024/06/27 12:14",
+        "department": "財務金融學系",
+        "author": {
+            "department": "財務金融學系",
+            "name": "林役霜",
+            "email": "ys012@gms.ndhu.edu.tw",
+            "phone": "03890-3133"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才公告】 國立東華大學學務處畢業生及校友服務組徵聘職務代理人一名（延長公告）",
         "timestamp": "1719230239",
         "url": "mail_display.php?timestamp=1719230239",
@@ -194,19 +208,5 @@
             "phone": "6613"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "Assistant Professor (or above) at International Ph.D. Program in Indigenous Studies ",
-        "timestamp": "1715657196",
-        "url": "mail_display.php?timestamp=1715657196",
-        "date": "2024/05/14 11:26",
-        "department": "原住民族研究國際博士班",
-        "author": {
-            "department": "原住民族研究國際博士班",
-            "name": "Ms. Dungi",
-            "email": "dungi@gms.ndhu.edu.tw",
-            "phone": "+886 3 8905760"
-        },
-        "attachmentCount": 2
     }
 ]

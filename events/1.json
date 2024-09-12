@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金】🚨🚨113-1學期「起飛學生獎助學金」開始申請囉！",
+        "timestamp": "1726122949",
+        "url": "mail_display.php?timestamp=1726122949",
+        "date": "2024/09/12 14:35",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "鄭淑亭",
+            "email": "ting@gms.ndhu.edu.tw",
+            "phone": "03-8906215"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【活動轉知】國立臺中科技大學辦理「開放教育資源專題演講」線上演講",
         "timestamp": "1726110829",
         "url": "mail_display.php?timestamp=1726110829",
@@ -194,19 +208,5 @@
             "phone": "0911765302"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "教職員工健促活動~挑戰！健康運動集點趣！",
-        "timestamp": "1726047351",
-        "url": "mail_display.php?timestamp=1726047351",
-        "date": "2024/09/11 17:35",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "吳星穎",
-            "email": "carmier@gms.ndhu.edu.tw",
-            "phone": "8906252"
-        },
-        "attachmentCount": 3
     }
 ]

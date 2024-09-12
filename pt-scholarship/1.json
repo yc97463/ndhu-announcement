@@ -1,5 +1,47 @@
 [
     {
+        "title": "【獎助學金申請】桃園市113-1原住民族學生生活津貼 (限桃園市籍)",
+        "timestamp": "1726123449",
+        "url": "mail_display.php?timestamp=1726123449",
+        "date": "2024/09/12 14:44",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【獎助學金】🚨🚨113-1學期「起飛學生獎助學金」開始申請囉！",
+        "timestamp": "1726122949",
+        "url": "mail_display.php?timestamp=1726122949",
+        "date": "2024/09/12 14:35",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "鄭淑亭",
+            "email": "ting@gms.ndhu.edu.tw",
+            "phone": "03-8906215"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【獎助學金申請】桃園市113-1原住民族學生生活津貼 (限桃園市籍)",
+        "timestamp": "1726122566",
+        "url": "mail_display.php?timestamp=1726122566",
+        "date": "2024/09/12 14:29",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】桃園市113-1原住民族學生清寒及優秀獎助學金 (限桃園市籍)",
         "timestamp": "1726120002",
         "url": "mail_display.php?timestamp=1726120002",
@@ -166,47 +208,5 @@
             "phone": "(03)8906636"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "113-1學產基金低收入戶學生助學金申請",
-        "timestamp": "1725846769",
-        "url": "mail_display.php?timestamp=1725846769",
-        "date": "2024/09/09 09:52",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "李欣憓",
-            "email": "dora.lee@gms.ndhu.edu.tw",
-            "phone": "6218"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【徵才公告】國立東華大學數位學伴中心 - 113-1 學期大學伴招募",
-        "timestamp": "1725843051",
-        "url": "mail_display.php?timestamp=1725843051",
-        "date": "2024/09/09 08:50",
-        "department": "花師教育學院",
-        "author": {
-            "department": "花師教育學院",
-            "name": "李宛玲",
-            "email": "etutor_c226@gms.ndhu.edu.tw",
-            "phone": "890-3816"
-        },
-        "attachmentCount": 8
-    },
-    {
-        "title": "【獎助學金申請】華儒青年關懷基金會113-1獎學金 (限低或中低、身心障礙、家逢變故、軍公教遺眷或子女)",
-        "timestamp": "1725678559",
-        "url": "mail_display.php?timestamp=1725678559",
-        "date": "2024/09/07 11:09",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]
