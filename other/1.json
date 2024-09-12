@@ -1,5 +1,33 @@
 [
     {
+        "title": "【兵役訊息】內政部113年度「95年次徵兵及齡男子兵籍調查線上申報作業公告",
+        "timestamp": "1726113567",
+        "url": "mail_display.php?timestamp=1726113567",
+        "date": "2024/09/12 11:59",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "6225"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【兵役訊息】內政部辦理113年就讀專科以上83至93年次在學男子，申請分階段接受常備兵役軍事訓練公告",
+        "timestamp": "1726113277",
+        "url": "mail_display.php?timestamp=1726113277",
+        "date": "2024/09/12 11:54",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "6225"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【徵才】農業部林業及自然保育署臺東分署113年第2次森林護管員甄試",
         "timestamp": "1726107883",
         "url": "mail_display.php?timestamp=1726107883",
@@ -180,33 +208,5 @@
             "phone": "5846"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "免費心理諮商資源",
-        "timestamp": "1725845953",
-        "url": "mail_display.php?timestamp=1725845953",
-        "date": "2024/09/09 09:39",
-        "department": "心理諮商輔導中心",
-        "author": {
-            "department": "心理諮商輔導中心",
-            "name": "林賢謀",
-            "email": "lcm1460@gms.ndhu.edu.tw",
-            "phone": "6269"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【徵才公告】國立東華大學數位學伴中心 - 113-1 學期大學伴招募",
-        "timestamp": "1725843051",
-        "url": "mail_display.php?timestamp=1725843051",
-        "date": "2024/09/09 08:50",
-        "department": "花師教育學院",
-        "author": {
-            "department": "花師教育學院",
-            "name": "李宛玲",
-            "email": "etutor_c226@gms.ndhu.edu.tw",
-            "phone": "890-3816"
-        },
-        "attachmentCount": 8
     }
 ]
