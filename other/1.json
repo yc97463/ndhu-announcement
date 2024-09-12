@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才】財政部中區國稅局「113年度儲備約僱人員甄選」",
+        "timestamp": "1726124833",
+        "url": "mail_display.php?timestamp=1726124833",
+        "date": "2024/09/12 15:07",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【實習】臺南市美術館「2025年大專院校寒假實習生招募」",
         "timestamp": "1726123533",
         "url": "mail_display.php?timestamp=1726123533",
@@ -194,19 +208,5 @@
             "phone": "038906824"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "請授課教師提供113學年度第1學期「教師指定參考書清單」，謝謝。",
-        "timestamp": "1725859832",
-        "url": "mail_display.php?timestamp=1725859832",
-        "date": "2024/09/09 13:30",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "陳昱佐",
-            "email": "yutuchen@gms.ndhu.edu.tw",
-            "phone": "038906824"
-        },
-        "attachmentCount": 1
     }
 ]

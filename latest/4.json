@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】育田社會福利慈善基金會2024癌友家庭子女-育秧獎助學金",
+        "timestamp": "1726033351",
+        "url": "mail_display.php?timestamp=1726033351",
+        "date": "2024/09/11 13:42",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【傑出校友選拔】國立陽明交通大學物理治療暨輔助科技學系，自即日起受理該系113學年度傑出系友之推薦申請，敬請推薦或轉知服務於本單位之校友參加遴選。",
         "timestamp": "1726032995",
         "url": "mail_display.php?timestamp=1726032995",
@@ -194,19 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "體育中心-推廣教育課程通知",
-        "timestamp": "1725964880",
-        "url": "mail_display.php?timestamp=1725964880",
-        "date": "2024/09/10 18:41",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "楊",
-            "email": "yyy@gms.ndhu.edu.tw",
-            "phone": "038906612"
-        },
-        "attachmentCount": 1
     }
 ]
