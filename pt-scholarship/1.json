@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】工業技術研究院113年(第六屆)第二次電網人才發展聯盟獎學金",
+        "timestamp": "1726129815",
+        "url": "mail_display.php?timestamp=1726129815",
+        "date": "2024/09/12 16:30",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】桃園市113-1原住民族學生生活津貼 (限桃園市籍)",
         "timestamp": "1726123449",
         "url": "mail_display.php?timestamp=1726123449",
@@ -194,19 +208,5 @@
             "phone": "890-3816"
         },
         "attachmentCount": 8
-    },
-    {
-        "title": "【師培獎學金甄選】113學年度師資培育獎學金甄選簡章，歡迎符合資格之師資生報名。",
-        "timestamp": "1725929052",
-        "url": "mail_display.php?timestamp=1725929052",
-        "date": "2024/09/10 08:44",
-        "department": "師資培育中心",
-        "author": {
-            "department": "師資培育中心",
-            "name": "陳淑貞",
-            "email": "sjchen@gms.ndhu.edu.tw",
-            "phone": "(03)8906636"
-        },
-        "attachmentCount": 5
     }
 ]
