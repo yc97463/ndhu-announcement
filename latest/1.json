@@ -1,5 +1,75 @@
 [
     {
+        "title": "【活動轉知】國立臺中科技大學辦理「開放教育資源專題演講」線上演講",
+        "timestamp": "1726110829",
+        "url": "mail_display.php?timestamp=1726110829",
+        "date": "2024/09/12 11:13",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【活動轉知】台灣母胎醫學會舉辦「生成式AI臨床醫療模型開發及應用工作坊(婦女照護)」",
+        "timestamp": "1726110559",
+        "url": "mail_display.php?timestamp=1726110559",
+        "date": "2024/09/12 11:09",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "114年1～6月份「推動國際學術合作交流補助」計畫，即日起受理申請至10月14日為止。",
+        "timestamp": "1726109860",
+        "url": "mail_display.php?timestamp=1726109860",
+        "date": "2024/09/12 10:57",
+        "department": "國際事務處國際合作組",
+        "author": {
+            "department": "國際事務處國際合作組",
+            "name": "梁忠誠",
+            "email": "ice@gms.ndhu.edu.tw",
+            "phone": "5108"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【活動轉知】國立臺灣師範大學辦理「AI系列講座：HI versus AI for Inventing the Future」",
+        "timestamp": "1726109842",
+        "url": "mail_display.php?timestamp=1726109842",
+        "date": "2024/09/12 10:57",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 4
+    },
+    {
+        "title": "【獎助學金申請】黑潮海洋文教基金會「吳鄭秀玉女士黑潮獎助金」",
+        "timestamp": "1726108858",
+        "url": "mail_display.php?timestamp=1726108858",
+        "date": "2024/09/12 10:40",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【徵才】農業部林業及自然保育署臺東分署113年第2次森林護管員甄試",
         "timestamp": "1726107883",
         "url": "mail_display.php?timestamp=1726107883",
@@ -136,76 +206,6 @@
             "name": "駱星羽",
             "email": "syluo@gms.ndhu.edu.tw",
             "phone": "5673"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "中國語文學系【中國文學講座】11/19‧鄧育仁教授演講",
-        "timestamp": "1726098906",
-        "url": "mail_display.php?timestamp=1726098906",
-        "date": "2024/09/12 07:55",
-        "department": "人文社會科學學院 中國語文學系",
-        "author": {
-            "department": "人文社會科學學院 中國語文學系",
-            "name": "駱星羽",
-            "email": "syluo@gms.ndhu.edu.tw",
-            "phone": "5673"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "中國語文學系【中國文學講座】11/12‧游逸飛教授演講",
-        "timestamp": "1726098905",
-        "url": "mail_display.php?timestamp=1726098905",
-        "date": "2024/09/12 07:55",
-        "department": "人文社會科學學院 中國語文學系",
-        "author": {
-            "department": "人文社會科學學院 中國語文學系",
-            "name": "駱星羽",
-            "email": "syluo@gms.ndhu.edu.tw",
-            "phone": "5673"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "中國語文學系【民間文學講座】10/23‧高莉芬教授演講",
-        "timestamp": "1726098904",
-        "url": "mail_display.php?timestamp=1726098904",
-        "date": "2024/09/12 07:55",
-        "department": "人文社會科學學院 中國語文學系",
-        "author": {
-            "department": "人文社會科學學院 中國語文學系",
-            "name": "駱星羽",
-            "email": "syluo@gms.ndhu.edu.tw",
-            "phone": "5673"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "中國語文學系【中國文學講座】09/24‧林安梧教授演講",
-        "timestamp": "1726098903",
-        "url": "mail_display.php?timestamp=1726098903",
-        "date": "2024/09/12 07:55",
-        "department": "人文社會科學學院 中國語文學系",
-        "author": {
-            "department": "人文社會科學學院 中國語文學系",
-            "name": "駱星羽",
-            "email": "syluo@gms.ndhu.edu.tw",
-            "phone": "5673"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "法律系113-1 期初系員大會",
-        "timestamp": "1726098902",
-        "url": "mail_display.php?timestamp=1726098902",
-        "date": "2024/09/12 07:55",
-        "department": "人文社會科學學院 法律學系",
-        "author": {
-            "department": "人文社會科學學院 法律學系",
-            "name": "陳雅慧",
-            "email": "meditator@gms.ndhu.edu.tw",
-            "phone": "038905662"
         },
         "attachmentCount": 0
     }

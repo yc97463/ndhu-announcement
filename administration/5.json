@@ -1,5 +1,19 @@
 [
     {
+        "title": "內政部提供113年學生校外租屋合理行情參考",
+        "timestamp": "1724919545",
+        "url": "mail_display.php?timestamp=1724919545",
+        "date": "2024/08/29 16:19",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳詩啓",
+            "email": "sam0831@gms.ndhu.edu.tw",
+            "phone": "6216"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【Student Dormitory】Deposit and Claim of Luggage Services",
         "timestamp": "1724910799",
         "url": "mail_display.php?timestamp=1724910799",
@@ -194,19 +208,5 @@
             "phone": "8906607"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "湖畔電梯故障維修公告",
-        "timestamp": "1724670497",
-        "url": "mail_display.php?timestamp=1724670497",
-        "date": "2024/08/26 19:08",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
     }
 ]
