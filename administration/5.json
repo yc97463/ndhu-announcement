@@ -1,5 +1,61 @@
 [
     {
+        "title": "【Student Dormitory】Deposit and Claim of Luggage Services",
+        "timestamp": "1724910799",
+        "url": "mail_display.php?timestamp=1724910799",
+        "date": "2024/08/29 13:53",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "鍾佩玲",
+            "email": "free22011@gms.ndhu.edu.tw",
+            "phone": "03890-6217"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【學生宿舍】寄放行李領取服務相關事宜，請務必詳閱，並配合與遵守！",
+        "timestamp": "1724910670",
+        "url": "mail_display.php?timestamp=1724910670",
+        "date": "2024/08/29 13:51",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "鍾佩玲",
+            "email": "free22011@gms.ndhu.edu.tw",
+            "phone": "038906217"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【徵才公告】國立東華大學民族語言與傳播學系誠徵助理職務代理人一名",
+        "timestamp": "1724900622",
+        "url": "mail_display.php?timestamp=1724900622",
+        "date": "2024/08/29 11:03",
+        "department": "原住民民族學院",
+        "author": {
+            "department": "原住民民族學院",
+            "name": "巴莉亞妲‧蘇利伊",
+            "email": "damu@gms.ndhu.edu.tw",
+            "phone": "(03)8905824"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": " 8/29(四)至9/1(日)志學門出入口道路改善工程管制公告",
+        "timestamp": "1724827614",
+        "url": "mail_display.php?timestamp=1724827614",
+        "date": "2024/08/28 14:46",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "黃章傑",
+            "email": "cotycafe@gms.ndhu.edu.tw",
+            "phone": "5778"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "本校113學年9月開學校內委外廠商營業時間公告",
         "timestamp": "1724808564",
         "url": "mail_display.php?timestamp=1724808564",
@@ -152,61 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "113年8月28至30日暫停開放行政大樓408、416會議室",
-        "timestamp": "1724660112",
-        "url": "mail_display.php?timestamp=1724660112",
-        "date": "2024/08/26 16:15",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "陳俐穎",
-            "email": "aspen@gms.ndhu.edu.tw",
-            "phone": "6392"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "重申禁用危害國家資通訊產品相關規定",
-        "timestamp": "1724659294",
-        "url": "mail_display.php?timestamp=1724659294",
-        "date": "2024/08/26 16:01",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "蕭澤宇",
-            "email": "zyhsiao@gms.ndhu.edu.tw",
-            "phone": "(03)890-6727"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【教務處課務組】各學制新生(含轉學生、復學生)113-1網路選課  Freshmen Online Preliminary Course Selection ",
-        "timestamp": "1724652688",
-        "url": "mail_display.php?timestamp=1724652688",
-        "date": "2024/08/26 14:11",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "utd1003@gms.ndhu.edu.tw",
-            "phone": "6122-6126"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "有關教育部實施「拉近公私立學校學雜費差距及其配套措施方案」，本校113學年度第1學期受理同仁申請子女教育補助彈性作法事宜。",
-        "timestamp": "1724639974",
-        "url": "mail_display.php?timestamp=1724639974",
-        "date": "2024/08/26 10:39",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "劉昱淩",
-            "email": "e56187@gms.ndhu.edu.tw",
-            "phone": "890-6056"
-        },
-        "attachmentCount": 1
     }
 ]

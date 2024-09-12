@@ -1,5 +1,61 @@
 [
     {
+        "title": "【行政公告】國立東華大學學生免費法律諮詢服務",
+        "timestamp": "1726104298",
+        "url": "mail_display.php?timestamp=1726104298",
+        "date": "2024/09/12 09:24",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "郭詩妘",
+            "email": "kikiguo@gms.ndhu.edu.tw",
+            "phone": "038906227"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "113-2「學期課程借用電腦教室」9/12(四)～9/20(五) 17:00止受理申請。",
+        "timestamp": "1726104127",
+        "url": "mail_display.php?timestamp=1726104127",
+        "date": "2024/09/12 09:22",
+        "department": "圖書資訊處綜合業務組",
+        "author": {
+            "department": "圖書資訊處綜合業務組",
+            "name": "林循美",
+            "email": "cindy@gms.ndhu.edu.tw",
+            "phone": "8906774"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "重申請確實做好垃圾分類",
+        "timestamp": "1726103254",
+        "url": "mail_display.php?timestamp=1726103254",
+        "date": "2024/09/12 09:07",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "許智翔",
+            "email": "cocco3746@gms.ndhu.edu.tw",
+            "phone": "03-8906399"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【出納組公告】總務處出納組臨櫃收費服務至上班日下午4點截止[Cashier Group Announcement] The collection service of the Cashier Divison of the General Affairs Office ends at 4 p.m. on working days",
+        "timestamp": "1726100526",
+        "url": "mail_display.php?timestamp=1726100526",
+        "date": "2024/09/12 08:22",
+        "department": "總務處",
+        "author": {
+            "department": "總務處",
+            "name": "許紹峯",
+            "email": "yummy@gms.ndhu.edu.tw",
+            "phone": "03-8906361"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "行政大樓電梯1故障維修公告",
         "timestamp": "1726060730",
         "url": "mail_display.php?timestamp=1726060730",
@@ -152,61 +208,5 @@
             "phone": "6307"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "TEJ臺灣經濟新報資料庫(TEJ Pro)系統升級通知",
-        "timestamp": "1725860919",
-        "url": "mail_display.php?timestamp=1725860919",
-        "date": "2024/09/09 13:48",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "陳昱佐",
-            "email": "yutuchen@gms.ndhu.edu.tw",
-            "phone": "038906824"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "請授課教師提供113學年度第1學期「教師指定參考書清單」，謝謝。",
-        "timestamp": "1725859832",
-        "url": "mail_display.php?timestamp=1725859832",
-        "date": "2024/09/09 13:30",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "陳昱佐",
-            "email": "yutuchen@gms.ndhu.edu.tw",
-            "phone": "038906824"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "113-1諮商中心伴侶諮商服務開放申請",
-        "timestamp": "1725852086",
-        "url": "mail_display.php?timestamp=1725852086",
-        "date": "2024/09/09 11:21",
-        "department": "心理諮商輔導中心",
-        "author": {
-            "department": "心理諮商輔導中心",
-            "name": "魏凡涓",
-            "email": "juliawei@gms.ndhu.edu.tw",
-            "phone": "03-8906892"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【出國交換】2025年第一次國際交換學生甄選",
-        "timestamp": "1725849921",
-        "url": "mail_display.php?timestamp=1725849921",
-        "date": "2024/09/09 10:45",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 6
     }
 ]
