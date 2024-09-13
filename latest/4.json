@@ -1,5 +1,19 @@
 [
     {
+        "title": "【TA直播】東華E學苑使用說明(必修)",
+        "timestamp": "1726098908",
+        "url": "mail_display.php?timestamp=1726098908",
+        "date": "2024/09/12 07:55",
+        "department": "教學卓越中心 教學與學習組",
+        "author": {
+            "department": "教學卓越中心 教學與學習組",
+            "name": "游家盛",
+            "email": "hyttepd@gms.ndhu.edu.tw",
+            "phone": "6589"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "中國語文學系【中國文學講座】11/28‧季旭昇教授演講",
         "timestamp": "1726098907",
         "url": "mail_display.php?timestamp=1726098907",
@@ -192,20 +206,6 @@
             "name": "王玉君",
             "email": "hu.jean0503@gms.ndhu.edu.tw",
             "phone": "8906220"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "🍄🍄113-1學期深耕計畫-「起飛獎助學金申請暨輔導說明會」誠摯邀請您來參加！",
-        "timestamp": "1726045628",
-        "url": "mail_display.php?timestamp=1726045628",
-        "date": "2024/09/11 17:07",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "鄭淑亭",
-            "email": "ting@gms.ndhu.edu.tw",
-            "phone": "03-8906215"
         },
         "attachmentCount": 1
     }
