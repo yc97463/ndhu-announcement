@@ -1,5 +1,19 @@
 [
     {
+        "title": "【訊息轉知】弘光科技大學開設6門磨課師(MOOCs)線上課程",
+        "timestamp": "1724816892",
+        "url": "mail_display.php?timestamp=1724816892",
+        "date": "2024/08/28 11:48",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 8
+    },
+    {
         "title": "【實習】臺中市政府社會局114年暑假實習。",
         "timestamp": "1724814797",
         "url": "mail_display.php?timestamp=1724814797",
@@ -194,19 +208,5 @@
             "phone": "8906422"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【訊息轉知】國立臺南大學開設「大數據程式設計」(MOOCs)線上課程",
-        "timestamp": "1724134911",
-        "url": "mail_display.php?timestamp=1724134911",
-        "date": "2024/08/20 14:21",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 2
     }
 ]

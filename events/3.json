@@ -1,19 +1,5 @@
 [
     {
-        "title": "【113-1活動】9/24第2場_國界外的天空：進修、旅遊、展望未來 A Sky Beyond the Border: Study, Tour, and Future",
-        "timestamp": "1726012502",
-        "url": "mail_display.php?timestamp=1726012502",
-        "date": "2024/09/11 07:55",
-        "department": "洄瀾學院 語言中心",
-        "author": {
-            "department": "洄瀾學院 語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 0
-    },
-    {
         "title": "【113-1活動】9/23第1場_國界外的天空：進修、旅遊、展望未來 A Sky Beyond the Border: Study, Tour, and Future\t",
         "timestamp": "1726012501",
         "url": "mail_display.php?timestamp=1726012501",
@@ -208,5 +194,19 @@
             "phone": "8906607"
         },
         "attachmentCount": 1
+    },
+    {
+        "title": "113-1校核心通識課程-「法國藝術與文化AA」課程停課公告",
+        "timestamp": "1725841568",
+        "url": "mail_display.php?timestamp=1725841568",
+        "date": "2024/09/09 08:26",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "8906607"
+        },
+        "attachmentCount": 0
     }
 ]

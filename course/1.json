@@ -1,5 +1,19 @@
 [
     {
+        "title": "傅可恩老師《語言與社會》課程宣傳",
+        "timestamp": "1726208287",
+        "url": "mail_display.php?timestamp=1726208287",
+        "date": "2024/09/13 14:18",
+        "department": "原住民民族學院",
+        "author": {
+            "department": "原住民民族學院",
+            "name": "蔡易庭",
+            "email": "ducky40317@gmail.com",
+            "phone": "5795"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "📢113-1 教育大數據微學程實務課推廣📢",
         "timestamp": "1726152203",
         "url": "mail_display.php?timestamp=1726152203",
@@ -194,19 +208,5 @@
             "phone": "8906607"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【語傳系】首創「阿美族語口譯微學程」",
-        "timestamp": "1725787116",
-        "url": "mail_display.php?timestamp=1725787116",
-        "date": "2024/09/08 17:18",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "巴莉亞妲．蘇利伊",
-            "email": "damu@gms.ndhu.edu.tw",
-            "phone": "5824"
-        },
-        "attachmentCount": 1
     }
 ]
