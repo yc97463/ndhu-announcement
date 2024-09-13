@@ -1,5 +1,19 @@
 [
     {
+        "title": "中國語文學系【中國文學講座】11/19‧鄧育仁教授演講",
+        "timestamp": "1726098906",
+        "url": "mail_display.php?timestamp=1726098906",
+        "date": "2024/09/12 07:55",
+        "department": "人文社會科學學院 中國語文學系",
+        "author": {
+            "department": "人文社會科學學院 中國語文學系",
+            "name": "駱星羽",
+            "email": "syluo@gms.ndhu.edu.tw",
+            "phone": "5673"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "中國語文學系【中國文學講座】11/12‧游逸飛教授演講",
         "timestamp": "1726098905",
         "url": "mail_display.php?timestamp=1726098905",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "【徵才】臺北市政府衛生局約聘僱人員職缺甄選(社工、心理師、訪視員)",
-        "timestamp": "1726044193",
-        "url": "mail_display.php?timestamp=1726044193",
-        "date": "2024/09/11 16:43",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
     }
 ]

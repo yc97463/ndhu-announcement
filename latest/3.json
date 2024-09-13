@@ -1,5 +1,19 @@
 [
     {
+        "title": "【活動轉知】國立臺中科技大學辦理「開放教育資源專題演講」線上演講",
+        "timestamp": "1726110829",
+        "url": "mail_display.php?timestamp=1726110829",
+        "date": "2024/09/12 11:13",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【活動轉知】台灣母胎醫學會舉辦「生成式AI臨床醫療模型開發及應用工作坊(婦女照護)」",
         "timestamp": "1726110559",
         "url": "mail_display.php?timestamp=1726110559",
@@ -185,20 +199,6 @@
         "title": "中國語文學系【中國文學講座】11/28‧季旭昇教授演講",
         "timestamp": "1726098907",
         "url": "mail_display.php?timestamp=1726098907",
-        "date": "2024/09/12 07:55",
-        "department": "人文社會科學學院 中國語文學系",
-        "author": {
-            "department": "人文社會科學學院 中國語文學系",
-            "name": "駱星羽",
-            "email": "syluo@gms.ndhu.edu.tw",
-            "phone": "5673"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "中國語文學系【中國文學講座】11/19‧鄧育仁教授演講",
-        "timestamp": "1726098906",
-        "url": "mail_display.php?timestamp=1726098906",
         "date": "2024/09/12 07:55",
         "department": "人文社會科學學院 中國語文學系",
         "author": {

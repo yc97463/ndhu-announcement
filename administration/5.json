@@ -1,5 +1,19 @@
 [
     {
+        "title": "阿美語口譯微學程",
+        "timestamp": "1725243536",
+        "url": "mail_display.php?timestamp=1725243536",
+        "date": "2024/09/02 10:18",
+        "department": "原住民民族學院",
+        "author": {
+            "department": "原住民民族學院",
+            "name": "巴莉亞妲‧蘇利伊",
+            "email": "damu@gms.ndhu.edu.tw",
+            "phone": "8905824"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "113-1校核心通識課程異動(停開課程)公告",
         "timestamp": "1725241598",
         "url": "mail_display.php?timestamp=1725241598",
@@ -194,19 +208,5 @@
             "phone": "6393"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "配合學生宿舍開放入住，調整9月5日至9月7日垃圾車清運時段及地點。",
-        "timestamp": "1724805426",
-        "url": "mail_display.php?timestamp=1724805426",
-        "date": "2024/08/28 08:37",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "許智翔",
-            "email": "cocco3746@gms.ndhu.edu.tw",
-            "phone": "03-8906399"
-        },
-        "attachmentCount": 2
     }
 ]

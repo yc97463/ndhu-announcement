@@ -1,5 +1,19 @@
 [
     {
+        "title": "新版東華e學苑使用說明",
+        "timestamp": "1725845726",
+        "url": "mail_display.php?timestamp=1725845726",
+        "date": "2024/09/09 09:35",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "   113-1校核心通識課程【 性別教育與文化觀光的對話 】",
         "timestamp": "1725842832",
         "url": "mail_display.php?timestamp=1725842832",
@@ -194,19 +208,5 @@
             "phone": "6060"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "113-2「學期課程借用電腦教室」，9/12(四)～9/20(五) 17:00止受理申請。",
-        "timestamp": "1725585744",
-        "url": "mail_display.php?timestamp=1725585744",
-        "date": "2024/09/06 09:22",
-        "department": "圖書資訊處綜合業務組",
-        "author": {
-            "department": "圖書資訊處綜合業務組",
-            "name": "林循美",
-            "email": "cindy@gms.ndhu.edu.tw",
-            "phone": "8906774"
-        },
-        "attachmentCount": 1
     }
 ]

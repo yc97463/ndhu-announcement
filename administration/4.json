@@ -1,5 +1,19 @@
 [
     {
+        "title": "113-2「學期課程借用電腦教室」，9/12(四)～9/20(五) 17:00止受理申請。",
+        "timestamp": "1725585744",
+        "url": "mail_display.php?timestamp=1725585744",
+        "date": "2024/09/06 09:22",
+        "department": "圖書資訊處綜合業務組",
+        "author": {
+            "department": "圖書資訊處綜合業務組",
+            "name": "林循美",
+            "email": "cindy@gms.ndhu.edu.tw",
+            "phone": "8906774"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "人社一館第一講堂頂樓涼亭遷移至詩經花園工程施工公告(9/6~9/8)",
         "timestamp": "1725524677",
         "url": "mail_display.php?timestamp=1725524677",
@@ -194,19 +208,5 @@
             "phone": "(03)8906079"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "阿美語口譯微學程",
-        "timestamp": "1725243536",
-        "url": "mail_display.php?timestamp=1725243536",
-        "date": "2024/09/02 10:18",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "巴莉亞妲‧蘇利伊",
-            "email": "damu@gms.ndhu.edu.tw",
-            "phone": "8905824"
-        },
-        "attachmentCount": 1
     }
 ]
