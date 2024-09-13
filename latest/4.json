@@ -1,5 +1,19 @@
 [
     {
+        "title": "中國語文學系【民間文學講座】10/23‧高莉芬教授演講",
+        "timestamp": "1726098904",
+        "url": "mail_display.php?timestamp=1726098904",
+        "date": "2024/09/12 07:55",
+        "department": "人文社會科學學院 中國語文學系",
+        "author": {
+            "department": "人文社會科學學院 中國語文學系",
+            "name": "駱星羽",
+            "email": "syluo@gms.ndhu.edu.tw",
+            "phone": "5673"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "中國語文學系【中國文學講座】09/24‧林安梧教授演講",
         "timestamp": "1726098903",
         "url": "mail_display.php?timestamp=1726098903",
@@ -194,19 +208,5 @@
             "phone": "038906361"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【獎助學金申請】雲林縣113-1清寒優秀學生獎學金 (限雲林縣籍)",
-        "timestamp": "1726041167",
-        "url": "mail_display.php?timestamp=1726041167",
-        "date": "2024/09/11 15:52",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]
