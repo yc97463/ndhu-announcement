@@ -1,5 +1,19 @@
 [
     {
+        "title": "【教育大數據微學程實務課推廣】",
+        "timestamp": "1726217146",
+        "url": "mail_display.php?timestamp=1726217146",
+        "date": "2024/09/13 16:45",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "東華e學苑教師端線上使用說明會",
         "timestamp": "1726216654",
         "url": "mail_display.php?timestamp=1726216654",
@@ -194,19 +208,5 @@
             "phone": "6237"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "113級新生迎新活動(限工作人員報名使用)",
-        "timestamp": "1726185302",
-        "url": "mail_display.php?timestamp=1726185302",
-        "date": "2024/09/13 07:55",
-        "department": "理工學院 生化暨分子醫學科學系",
-        "author": {
-            "department": "理工學院 生化暨分子醫學科學系",
-            "name": "元淑英",
-            "email": "syyuan@gms.ndhu.edu.tw",
-            "phone": "3632"
-        },
-        "attachmentCount": 0
     }
 ]
