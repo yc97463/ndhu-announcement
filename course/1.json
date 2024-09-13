@@ -1,5 +1,19 @@
 [
     {
+        "title": "【教育大數據微學程實務課推廣】",
+        "timestamp": "1726217146",
+        "url": "mail_display.php?timestamp=1726217146",
+        "date": "2024/09/13 16:45",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "傅可恩老師《語言與社會》課程宣傳",
         "timestamp": "1726208287",
         "url": "mail_display.php?timestamp=1726208287",
@@ -194,19 +208,5 @@
             "phone": "8906607"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "113-1校核心通識課程-「法國藝術與文化AA」課程停課公告",
-        "timestamp": "1725841568",
-        "url": "mail_display.php?timestamp=1725841568",
-        "date": "2024/09/09 08:26",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 0
     }
 ]
