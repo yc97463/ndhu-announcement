@@ -1,5 +1,61 @@
 [
     {
+        "title": "   113-1校核心通識課程【 性別教育與文化觀光的對話 】",
+        "timestamp": "1725842832",
+        "url": "mail_display.php?timestamp=1725842832",
+        "date": "2024/09/09 08:47",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "8906607"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "113-1校核心通識課程-「法國藝術與文化AA」課程停課公告",
+        "timestamp": "1725841568",
+        "url": "mail_display.php?timestamp=1725841568",
+        "date": "2024/09/09 08:26",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "8906607"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "(更正) 志學門交通改善工程注意事項公告",
+        "timestamp": "1725808585",
+        "url": "mail_display.php?timestamp=1725808585",
+        "date": "2024/09/08 23:16",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "黃章傑",
+            "email": "cotycafe@gms.ndhu.edu.tw",
+            "phone": "5778"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "今日下午起北迴線因土石流雙線不通，受影響之師生，明日（9/9）課務請彈性處理。",
+        "timestamp": "1725785011",
+        "url": "mail_display.php?timestamp=1725785011",
+        "date": "2024/09/08 16:43",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122~6126"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "NDHU-GPT",
         "timestamp": "1725776268",
         "url": "mail_display.php?timestamp=1725776268",
@@ -152,61 +208,5 @@
             "phone": "8906774"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "人社一館第一講堂頂樓涼亭遷移至詩經花園工程施工公告(9/6~9/8)",
-        "timestamp": "1725524677",
-        "url": "mail_display.php?timestamp=1725524677",
-        "date": "2024/09/05 16:24",
-        "department": "人文社會科學學院",
-        "author": {
-            "department": "人文社會科學學院",
-            "name": "吳雅萍",
-            "email": "ypwu@gms.ndhu.edu.tw",
-            "phone": "03-8905253"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "公告113-1校核心通識課程-「職場倫理與工作態度」課程尚有名額，敬請踴躍加選課程",
-        "timestamp": "1725523923",
-        "url": "mail_display.php?timestamp=1725523923",
-        "date": "2024/09/05 16:12",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【代轉學生會公告】第14屆東華學生會成員招募",
-        "timestamp": "1725521739",
-        "url": "mail_display.php?timestamp=1725521739",
-        "date": "2024/09/05 15:35",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "姜紫淇",
-            "email": "yaya@gms.ndhu.edu.tw",
-            "phone": "03-8906235"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "本校新簽訂之富友鍋物/火鍋世家吉安店、海岸小旅民宿以及雄獅旅行社股份有限公司花蓮分公司特約商店公告。",
-        "timestamp": "1725517470",
-        "url": "mail_display.php?timestamp=1725517470",
-        "date": "2024/09/05 14:24",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "賴榮璉",
-            "email": "chrishnalai@gms.ndhu.edu.tw",
-            "phone": "6237"
-        },
-        "attachmentCount": 4
     }
 ]
