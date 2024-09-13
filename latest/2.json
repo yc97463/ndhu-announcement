@@ -1,5 +1,33 @@
 [
     {
+        "title": "📢113-1 教育大數據微學程實務課推廣📢",
+        "timestamp": "1726152203",
+        "url": "mail_display.php?timestamp=1726152203",
+        "date": "2024/09/12 22:43",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "體育館體能訓練室冷氣更新工程作業暫時無法開放公告：",
+        "timestamp": "1726133413",
+        "url": "mail_display.php?timestamp=1726133413",
+        "date": "2024/09/12 17:30",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "沈正雄",
+            "email": "chshen@gms.ndhu.edu.tw",
+            "phone": "6618"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "課程延期志10/26日通知~【健康促進活動】BLS(基本救命術)證照班，取得兩年效期合格證明，報名從速!",
         "timestamp": "1726132111",
         "url": "mail_display.php?timestamp=1726132111",
@@ -180,33 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【獎助學金申請】桃園市113-1原住民族學生清寒及優秀獎助學金 (限桃園市籍)",
-        "timestamp": "1726120002",
-        "url": "mail_display.php?timestamp=1726120002",
-        "date": "2024/09/12 13:46",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "Meet Pacific 花蓮創新創業嘉年｜工讀生招募計畫",
-        "timestamp": "1726119668",
-        "url": "mail_display.php?timestamp=1726119668",
-        "date": "2024/09/12 13:41",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "洄瀾共好社會責任中心",
-            "email": "jerrygao@gms.ndhu.edu.tw",
-            "phone": "3772"
-        },
-        "attachmentCount": 2
     }
 ]

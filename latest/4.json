@@ -1,5 +1,33 @@
 [
     {
+        "title": "【光電系系學會】113學年度光電X物理X教育三系聯合迎新【限系學會工作人員報名】",
+        "timestamp": "1726098910",
+        "url": "mail_display.php?timestamp=1726098910",
+        "date": "2024/09/12 07:55",
+        "department": "理工學院 光電工程學系",
+        "author": {
+            "department": "理工學院 光電工程學系",
+            "name": "劉碧純",
+            "email": "sun@gms.ndhu.edu.tw",
+            "phone": "3182"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "台灣原住民族知識體系課程系列講座：當代原住民族知識的傳承與轉譯",
+        "timestamp": "1726098909",
+        "url": "mail_display.php?timestamp=1726098909",
+        "date": "2024/09/12 07:55",
+        "department": "原住民民族學院 族群關係與文化學系",
+        "author": {
+            "department": "原住民民族學院 族群關係與文化學系",
+            "name": "葉秀燕",
+            "email": "柯承希 411196018@gms.ndhu.edu.tw",
+            "phone": "柯承希 0988479360"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【TA直播】東華E學苑使用說明(必修)",
         "timestamp": "1726098908",
         "url": "mail_display.php?timestamp=1726098908",
@@ -180,33 +208,5 @@
             "phone": "6579"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【實習】【2025玉山實習計畫】開始報名囉~113年10月13日截止！",
-        "timestamp": "1726046427",
-        "url": "mail_display.php?timestamp=1726046427",
-        "date": "2024/09/11 17:20",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【獎助學金申請】本校113-1傳志基金獎助學金 (受理至113年10月3日止，請把握時限申請)",
-        "timestamp": "1726046310",
-        "url": "mail_display.php?timestamp=1726046310",
-        "date": "2024/09/11 17:18",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "王玉君",
-            "email": "hu.jean0503@gms.ndhu.edu.tw",
-            "phone": "8906220"
-        },
-        "attachmentCount": 1
     }
 ]

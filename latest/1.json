@@ -1,5 +1,33 @@
 [
     {
+        "title": "重要通知：K書中心A、B館開放領取個人物品的時間與流程",
+        "timestamp": "1726215545",
+        "url": "mail_display.php?timestamp=1726215545",
+        "date": "2024/09/13 16:19",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳小姐",
+            "email": "sian@gms.ndhu.edu.tw",
+            "phone": "5846"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【就業/考試】「2024年觀光及國際禮儀專業認證冬季大會考」開始報名囉~",
+        "timestamp": "1726214785",
+        "url": "mail_display.php?timestamp=1726214785",
+        "date": "2024/09/13 16:06",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【轉知】PGO摩特動力車廠參訪活動申請",
         "timestamp": "1726211181",
         "url": "mail_display.php?timestamp=1726211181",
@@ -178,34 +206,6 @@
             "name": "元淑英",
             "email": "syyuan@gms.ndhu.edu.tw",
             "phone": "3632"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "📢113-1 教育大數據微學程實務課推廣📢",
-        "timestamp": "1726152203",
-        "url": "mail_display.php?timestamp=1726152203",
-        "date": "2024/09/12 22:43",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "黃小姐",
-            "email": "chinghua@gms.ndhu.edu.tw",
-            "phone": "6579"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "體育館體能訓練室冷氣更新工程作業暫時無法開放公告：",
-        "timestamp": "1726133413",
-        "url": "mail_display.php?timestamp=1726133413",
-        "date": "2024/09/12 17:30",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "沈正雄",
-            "email": "chshen@gms.ndhu.edu.tw",
-            "phone": "6618"
         },
         "attachmentCount": 0
     }
