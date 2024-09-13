@@ -1,5 +1,19 @@
 [
     {
+        "title": "113-2「學期課程借用電腦教室」9/12(四)～9/20(五) 17:00止受理申請。",
+        "timestamp": "1726104127",
+        "url": "mail_display.php?timestamp=1726104127",
+        "date": "2024/09/12 09:22",
+        "department": "圖書資訊處綜合業務組",
+        "author": {
+            "department": "圖書資訊處綜合業務組",
+            "name": "林循美",
+            "email": "cindy@gms.ndhu.edu.tw",
+            "phone": "8906774"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "重申請確實做好垃圾分類",
         "timestamp": "1726103254",
         "url": "mail_display.php?timestamp=1726103254",
@@ -194,19 +208,5 @@
             "phone": "0911765302"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "教職員工健促活動~挑戰！健康運動集點趣！",
-        "timestamp": "1726047351",
-        "url": "mail_display.php?timestamp=1726047351",
-        "date": "2024/09/11 17:35",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "吳星穎",
-            "email": "carmier@gms.ndhu.edu.tw",
-            "phone": "8906252"
-        },
-        "attachmentCount": 3
     }
 ]

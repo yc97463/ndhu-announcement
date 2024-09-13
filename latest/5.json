@@ -1,5 +1,19 @@
 [
     {
+        "title": "教職員工健促活動~挑戰！健康運動集點趣！",
+        "timestamp": "1726047351",
+        "url": "mail_display.php?timestamp=1726047351",
+        "date": "2024/09/11 17:35",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "吳星穎",
+            "email": "carmier@gms.ndhu.edu.tw",
+            "phone": "8906252"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "定期捐血保障你我~熱血行動!!!",
         "timestamp": "1726046804",
         "url": "mail_display.php?timestamp=1726046804",
@@ -194,19 +208,5 @@
             "phone": "6053"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【獎助學金申請】台北市王雲五基金會113年「王雲五自學獎學金」",
-        "timestamp": "1726031767",
-        "url": "mail_display.php?timestamp=1726031767",
-        "date": "2024/09/11 13:16",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]
