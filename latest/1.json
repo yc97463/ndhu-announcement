@@ -1,5 +1,19 @@
 [
     {
+        "title": "【圖書館公告】中秋節【113.09.17 (二)】休館一日！ Library will be Closed for Mid-autumn festival on September 17, 2024",
+        "timestamp": "1726302218",
+        "url": "mail_display.php?timestamp=1726302218",
+        "date": "2024/09/14 16:23",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "詹",
+            "email": "ipchan@gms.ndhu.edu.tw",
+            "phone": "6813"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【敬邀參加】113/9/20~9/22「 無眾計畫 | 藝創十一文件展 」@藝術學院展覽廳",
         "timestamp": "1726287305",
         "url": "mail_display.php?timestamp=1726287305",
@@ -194,19 +208,5 @@
             "phone": "6307"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【原資轉知】「原潮新生－113年度新北市原住民族創(就)業研習暨社會教育系列活動」",
-        "timestamp": "1726199011",
-        "url": "mail_display.php?timestamp=1726199011",
-        "date": "2024/09/13 11:43",
-        "department": "原住民族學生資源中心",
-        "author": {
-            "department": "原住民族學生資源中心",
-            "name": "吳倩茹",
-            "email": "isrc@gms.ndhu.edu.tw",
-            "phone": "(03)890-5707"
-        },
-        "attachmentCount": 3
     }
 ]
