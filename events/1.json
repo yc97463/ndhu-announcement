@@ -1,5 +1,19 @@
 [
     {
+        "title": "【敬邀參加】113/9/20~9/22「 藝創系創藝市集 」@藝術學院展覽廳",
+        "timestamp": "1726283824",
+        "url": "mail_display.php?timestamp=1726283824",
+        "date": "2024/09/14 11:17",
+        "department": "藝術創意產業學系",
+        "author": {
+            "department": "藝術創意產業學系",
+            "name": "謝明海",
+            "email": "ocean@gms.ndhu.edu.tw",
+            "phone": "890-5889"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "113學年度【初領車證新生交通安全宣導活動】9月23日第一場次，有意申領校園車輛識別證同學，請儘速上網報名。",
         "timestamp": "1726271703",
         "url": "mail_display.php?timestamp=1726271703",
@@ -194,19 +208,5 @@
             "phone": "8906422"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【活動轉知】國立臺灣師範大學辦理「AI系列講座：HI versus AI for Inventing the Future」",
-        "timestamp": "1726109842",
-        "url": "mail_display.php?timestamp=1726109842",
-        "date": "2024/09/12 10:57",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 4
     }
 ]
