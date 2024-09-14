@@ -1,5 +1,47 @@
 [
     {
+        "title": "113學年度【初領車證新生交通安全宣導活動】9月23日第一場次，有意申領校園車輛識別證同學，請儘速上網報名。",
+        "timestamp": "1726271703",
+        "url": "mail_display.php?timestamp=1726271703",
+        "date": "2024/09/14 07:55",
+        "department": "學務處 生活輔導組",
+        "author": {
+            "department": "學務處 生活輔導組",
+            "name": "林嘉瑩",
+            "email": "tea7101@gms.ndhu.edu.tw",
+            "phone": "03-8906226"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "諮商中心資源教室：【職業探索體驗趣-拈花惹草香氣療癒手作趣】",
+        "timestamp": "1726271702",
+        "url": "mail_display.php?timestamp=1726271702",
+        "date": "2024/09/14 07:55",
+        "department": "心理諮商輔導中心 資源開發組",
+        "author": {
+            "department": "心理諮商輔導中心 資源開發組",
+            "name": "鍾雅琳",
+            "email": "lin.chung@gms.ndhu.edu.tw",
+            "phone": "03-8903155"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【藝設講座】～ 對生活有所體驗、洞察人性：追求卓越成功自然跟著來",
+        "timestamp": "1726271701",
+        "url": "mail_display.php?timestamp=1726271701",
+        "date": "2024/09/14 07:55",
+        "department": "藝術學院 藝術與設計學系",
+        "author": {
+            "department": "藝術學院 藝術與設計學系",
+            "name": "邱苡芳",
+            "email": "chiu91@gms.ndhu.edu.tw",
+            "phone": "8905122"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【教育大數據微學程實務課推廣】",
         "timestamp": "1726217146",
         "url": "mail_display.php?timestamp=1726217146",
@@ -166,47 +208,5 @@
             "phone": "8906422"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【光電系系學會】113學年度光電X物理X教育三系聯合迎新【限系學會工作人員報名】",
-        "timestamp": "1726098910",
-        "url": "mail_display.php?timestamp=1726098910",
-        "date": "2024/09/12 07:55",
-        "department": "理工學院 光電工程學系",
-        "author": {
-            "department": "理工學院 光電工程學系",
-            "name": "劉碧純",
-            "email": "sun@gms.ndhu.edu.tw",
-            "phone": "3182"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "台灣原住民族知識體系課程系列講座：當代原住民族知識的傳承與轉譯",
-        "timestamp": "1726098909",
-        "url": "mail_display.php?timestamp=1726098909",
-        "date": "2024/09/12 07:55",
-        "department": "原住民民族學院 族群關係與文化學系",
-        "author": {
-            "department": "原住民民族學院 族群關係與文化學系",
-            "name": "葉秀燕",
-            "email": "柯承希 411196018@gms.ndhu.edu.tw",
-            "phone": "柯承希 0988479360"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【TA直播】東華E學苑使用說明(必修)",
-        "timestamp": "1726098908",
-        "url": "mail_display.php?timestamp=1726098908",
-        "date": "2024/09/12 07:55",
-        "department": "教學卓越中心 教學與學習組",
-        "author": {
-            "department": "教學卓越中心 教學與學習組",
-            "name": "游家盛",
-            "email": "hyttepd@gms.ndhu.edu.tw",
-            "phone": "6589"
-        },
-        "attachmentCount": 0
     }
 ]

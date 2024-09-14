@@ -1,5 +1,47 @@
 [
     {
+        "title": "113學年度【初領車證新生交通安全宣導活動】9月23日第一場次，有意申領校園車輛識別證同學，請儘速上網報名。",
+        "timestamp": "1726271703",
+        "url": "mail_display.php?timestamp=1726271703",
+        "date": "2024/09/14 07:55",
+        "department": "學務處 生活輔導組",
+        "author": {
+            "department": "學務處 生活輔導組",
+            "name": "林嘉瑩",
+            "email": "tea7101@gms.ndhu.edu.tw",
+            "phone": "03-8906226"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "諮商中心資源教室：【職業探索體驗趣-拈花惹草香氣療癒手作趣】",
+        "timestamp": "1726271702",
+        "url": "mail_display.php?timestamp=1726271702",
+        "date": "2024/09/14 07:55",
+        "department": "心理諮商輔導中心 資源開發組",
+        "author": {
+            "department": "心理諮商輔導中心 資源開發組",
+            "name": "鍾雅琳",
+            "email": "lin.chung@gms.ndhu.edu.tw",
+            "phone": "03-8903155"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【藝設講座】～ 對生活有所體驗、洞察人性：追求卓越成功自然跟著來",
+        "timestamp": "1726271701",
+        "url": "mail_display.php?timestamp=1726271701",
+        "date": "2024/09/14 07:55",
+        "department": "藝術學院 藝術與設計學系",
+        "author": {
+            "department": "藝術學院 藝術與設計學系",
+            "name": "邱苡芳",
+            "email": "chiu91@gms.ndhu.edu.tw",
+            "phone": "8905122"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【傑出校友選拔】辭修學校財團法人新北市私立辭修高級中學辦理113年度傑出校友遴選活動",
         "timestamp": "1726224438",
         "url": "mail_display.php?timestamp=1726224438",
@@ -166,47 +208,5 @@
             "phone": "03-8906226"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "113學年度【初領車證新生交通安全宣導活動】9月23日第一場次，有意申領校園車輛識別證同學，請儘速上網報名。",
-        "timestamp": "1726189424",
-        "url": "mail_display.php?timestamp=1726189424",
-        "date": "2024/09/13 09:03",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "林嘉瑩",
-            "email": "tea7101@gms.ndhu.edu.tw",
-            "phone": "03-8906226"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【車輛停放】中秋假期，請注意志學火車站停車規定，並小心行車安全。",
-        "timestamp": "1726189266",
-        "url": "mail_display.php?timestamp=1726189266",
-        "date": "2024/09/13 09:01",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "林嘉瑩",
-            "email": "tea7101@gms.ndhu.edu.tw",
-            "phone": "03-8906226"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【學生宿舍】112學年住宿保證金暨113年暑期住宿保證金結算公告暨複查作業 【Student Dormitory】Announcement of 2023-2024 Student Dormitory and 2024 Summer Dormitory Deposit Refund",
-        "timestamp": "1726187810",
-        "url": "mail_display.php?timestamp=1726187810",
-        "date": "2024/09/13 08:36",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳怡秀",
-            "email": "yishoue@gms.ndhu.edu.tw",
-            "phone": "6212"
-        },
-        "attachmentCount": 3
     }
 ]

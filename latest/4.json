@@ -1,5 +1,47 @@
 [
     {
+        "title": "【徵才】農業部林業及自然保育署臺東分署113年第2次森林護管員甄試",
+        "timestamp": "1726107883",
+        "url": "mail_display.php?timestamp=1726107883",
+        "date": "2024/09/12 10:24",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "【獎助學金申請】台中商業銀行文教基金會113年獎學金 (限家境困難)",
+        "timestamp": "1726107214",
+        "url": "mail_display.php?timestamp=1726107214",
+        "date": "2024/09/12 10:13",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【行政公告】國立東華大學學生免費法律諮詢服務",
+        "timestamp": "1726104298",
+        "url": "mail_display.php?timestamp=1726104298",
+        "date": "2024/09/12 09:24",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "郭詩妘",
+            "email": "kikiguo@gms.ndhu.edu.tw",
+            "phone": "038906227"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "113-2「學期課程借用電腦教室」9/12(四)～9/20(五) 17:00止受理申請。",
         "timestamp": "1726104127",
         "url": "mail_display.php?timestamp=1726104127",
@@ -166,47 +208,5 @@
             "phone": "038905662"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "研究所與出國交換的雙贏策略",
-        "timestamp": "1726098901",
-        "url": "mail_display.php?timestamp=1726098901",
-        "date": "2024/09/12 07:55",
-        "department": "管理學院 國際企業學系",
-        "author": {
-            "department": "管理學院 國際企業學系",
-            "name": "蔡季芸",
-            "email": "andreat@gms.ndhu.edu.tw",
-            "phone": "3043"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "行政大樓電梯1故障維修公告",
-        "timestamp": "1726060730",
-        "url": "mail_display.php?timestamp=1726060730",
-        "date": "2024/09/11 21:18",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "體育中心-推廣教育課程通知",
-        "timestamp": "1726049885",
-        "url": "mail_display.php?timestamp=1726049885",
-        "date": "2024/09/11 18:18",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "楊永義",
-            "email": "yyy@gms.ndhu.edu.tw",
-            "phone": "0911765302"
-        },
-        "attachmentCount": 1
     }
 ]
