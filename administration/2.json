@@ -1,5 +1,19 @@
 [
     {
+        "title": "行政大樓電梯1故障維修公告",
+        "timestamp": "1726060730",
+        "url": "mail_display.php?timestamp=1726060730",
+        "date": "2024/09/11 21:18",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【出納組公告】總務處出納組臨櫃收費時間調整為上班日下午4點截止",
         "timestamp": "1726041923",
         "url": "mail_display.php?timestamp=1726041923",
@@ -194,19 +208,5 @@
             "phone": "5107"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "113-1校核心通識課程-「心學與人生」及「人文經典與現代生活」課程改為線上上課公告",
-        "timestamp": "1725848578",
-        "url": "mail_display.php?timestamp=1725848578",
-        "date": "2024/09/09 10:22",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 1
     }
 ]

@@ -1,5 +1,61 @@
 [
     {
+        "title": "重要通知：K書中心A、B館開放領取個人物品的時間與流程",
+        "timestamp": "1726449548",
+        "url": "mail_display.php?timestamp=1726449548",
+        "date": "2024/09/16 09:19",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳小姐",
+            "email": "sian@gms.ndhu.edu.tw",
+            "phone": "5846"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113年9 月17日「中秋節」，電腦教室暫不開放。The computer lab one will be closed on September 17 2024.",
+        "timestamp": "1726448463",
+        "url": "mail_display.php?timestamp=1726448463",
+        "date": "2024/09/16 09:01",
+        "department": "圖書資訊處綜合業務組",
+        "author": {
+            "department": "圖書資訊處綜合業務組",
+            "name": "林循美",
+            "email": "cindy@gms.ndhu.edu.tw",
+            "phone": "8906774"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113-1體育中心-身心靈推廣課程早鳥優惠即將到期",
+        "timestamp": "1726447346",
+        "url": "mail_display.php?timestamp=1726447346",
+        "date": "2024/09/16 08:42",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "楊永義",
+            "email": "yyy@gms.ndhu.edu.tw",
+            "phone": "0911765302"
+        },
+        "attachmentCount": 8
+    },
+    {
+        "title": "【Forward】2024產業淨零足跡：企業溫室氣體盤查永續管理師研習",
+        "timestamp": "1726445855",
+        "url": "mail_display.php?timestamp=1726445855",
+        "date": "2024/09/16 08:17",
+        "department": "永續發展中心",
+        "author": {
+            "department": "永續發展中心",
+            "name": "李莉莉 Li-Li Lee",
+            "email": "sd@gms.ndhu.edu.tw",
+            "phone": "03-890-5920"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "台灣原住民族知識體系課程系列講座：台灣原住民族知識體系與建構",
         "timestamp": "1726358101",
         "url": "mail_display.php?timestamp=1726358101",
@@ -152,61 +208,5 @@
             "phone": "5846"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【就業/考試】「2024年觀光及國際禮儀專業認證冬季大會考」開始報名囉~",
-        "timestamp": "1726214785",
-        "url": "mail_display.php?timestamp=1726214785",
-        "date": "2024/09/13 16:06",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【轉知】PGO摩特動力車廠參訪活動申請",
-        "timestamp": "1726211181",
-        "url": "mail_display.php?timestamp=1726211181",
-        "date": "2024/09/13 15:06",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "傅可恩老師《語言與社會》課程宣傳",
-        "timestamp": "1726208287",
-        "url": "mail_display.php?timestamp=1726208287",
-        "date": "2024/09/13 14:18",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "蔡易庭",
-            "email": "ducky40317@gmail.com",
-            "phone": "5795"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【徵才】中央銀行「經濟金融研究專業人員（助理研究員或同等職位、辦事員）甄選」",
-        "timestamp": "1726207200",
-        "url": "mail_display.php?timestamp=1726207200",
-        "date": "2024/09/13 14:00",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 6
     }
 ]
