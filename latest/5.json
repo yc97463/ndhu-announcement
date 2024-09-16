@@ -1,5 +1,19 @@
 [
     {
+        "title": "【兵役訊息】內政部辦理113年就讀專科以上83至93年次在學男子，申請分階段接受常備兵役軍事訓練公告",
+        "timestamp": "1726113277",
+        "url": "mail_display.php?timestamp=1726113277",
+        "date": "2024/09/12 11:54",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "6225"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【活動轉知】國立臺中科技大學辦理「開放教育資源專題演講」線上演講",
         "timestamp": "1726110829",
         "url": "mail_display.php?timestamp=1726110829",
@@ -192,20 +206,6 @@
             "name": "游家盛",
             "email": "hyttepd@gms.ndhu.edu.tw",
             "phone": "6589"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "中國語文學系【中國文學講座】11/28‧季旭昇教授演講",
-        "timestamp": "1726098907",
-        "url": "mail_display.php?timestamp=1726098907",
-        "date": "2024/09/12 07:55",
-        "department": "人文社會科學學院 中國語文學系",
-        "author": {
-            "department": "人文社會科學學院 中國語文學系",
-            "name": "駱星羽",
-            "email": "syluo@gms.ndhu.edu.tw",
-            "phone": "5673"
         },
         "attachmentCount": 0
     }
