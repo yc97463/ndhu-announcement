@@ -1,5 +1,75 @@
 [
     {
+        "title": "【徵才公告】國立東華大學數位學伴中心 - 113-1 學期大學伴招募",
+        "timestamp": "1726460267",
+        "url": "mail_display.php?timestamp=1726460267",
+        "date": "2024/09/16 12:17",
+        "department": "花師教育學院",
+        "author": {
+            "department": "花師教育學院",
+            "name": "李宛玲",
+            "email": "etutor_c226@gms.ndhu.edu.tw",
+            "phone": "890-3816"
+        },
+        "attachmentCount": 6
+    },
+    {
+        "title": "藝術與人文領域教學探索實作工作坊－相聲與戲劇的表達藝術",
+        "timestamp": "1726459665",
+        "url": "mail_display.php?timestamp=1726459665",
+        "date": "2024/09/16 12:07",
+        "department": "音樂學系",
+        "author": {
+            "department": "音樂學系",
+            "name": "張純倩",
+            "email": "asd963741@gms.ndhu.edu.tw",
+            "phone": "03-8905168"
+        },
+        "attachmentCount": 5
+    },
+    {
+        "title": "【Student Dormitory】Mandatory Participation in Disaster Prevention Drills for Fall Semester, Academic Year 2024-2025",
+        "timestamp": "1726458891",
+        "url": "mail_display.php?timestamp=1726458891",
+        "date": "2024/09/16 11:54",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "鍾佩玲",
+            "email": "free22011@gms.ndhu.edu.tw",
+            "phone": "03890-6217"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【學生宿舍】113學年度第一學期學生宿舍複合式災害疏散演練",
+        "timestamp": "1726458773",
+        "url": "mail_display.php?timestamp=1726458773",
+        "date": "2024/09/16 11:52",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "鍾佩玲",
+            "email": "free22011@gms.ndhu.edu.tw",
+            "phone": "03890-6217"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【獎助學金申請】建大文化教育基金會2024【彰化縣】優秀自強學生獎學金 (限彰化縣籍)",
+        "timestamp": "1726458720",
+        "url": "mail_display.php?timestamp=1726458720",
+        "date": "2024/09/16 11:52",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【公告】人事室臨時異地辦公",
         "timestamp": "1726458196",
         "url": "mail_display.php?timestamp=1726458196",
@@ -138,75 +208,5 @@
             "phone": "890-5889"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "113學年度【初領車證新生交通安全宣導活動】9月23日第一場次，有意申領校園車輛識別證同學，請儘速上網報名。",
-        "timestamp": "1726271703",
-        "url": "mail_display.php?timestamp=1726271703",
-        "date": "2024/09/14 07:55",
-        "department": "學務處 生活輔導組",
-        "author": {
-            "department": "學務處 生活輔導組",
-            "name": "林嘉瑩",
-            "email": "tea7101@gms.ndhu.edu.tw",
-            "phone": "03-8906226"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "諮商中心資源教室：【職業探索體驗趣-拈花惹草香氣療癒手作趣】",
-        "timestamp": "1726271702",
-        "url": "mail_display.php?timestamp=1726271702",
-        "date": "2024/09/14 07:55",
-        "department": "心理諮商輔導中心 資源開發組",
-        "author": {
-            "department": "心理諮商輔導中心 資源開發組",
-            "name": "鍾雅琳",
-            "email": "lin.chung@gms.ndhu.edu.tw",
-            "phone": "03-8903155"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【藝設講座】～ 對生活有所體驗、洞察人性：追求卓越成功自然跟著來",
-        "timestamp": "1726271701",
-        "url": "mail_display.php?timestamp=1726271701",
-        "date": "2024/09/14 07:55",
-        "department": "藝術學院 藝術與設計學系",
-        "author": {
-            "department": "藝術學院 藝術與設計學系",
-            "name": "邱苡芳",
-            "email": "chiu91@gms.ndhu.edu.tw",
-            "phone": "8905122"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【傑出校友選拔】辭修學校財團法人新北市私立辭修高級中學辦理113年度傑出校友遴選活動",
-        "timestamp": "1726224438",
-        "url": "mail_display.php?timestamp=1726224438",
-        "date": "2024/09/13 18:47",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "陳美杏",
-            "email": "msing@gms.ndhu.edu.tw",
-            "phone": "6053"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【教育大數據微學程實務課推廣】",
-        "timestamp": "1726217146",
-        "url": "mail_display.php?timestamp=1726217146",
-        "date": "2024/09/13 16:45",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "黃小姐",
-            "email": "chinghua@gms.ndhu.edu.tw",
-            "phone": "6579"
-        },
-        "attachmentCount": 2
     }
 ]
