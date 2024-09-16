@@ -1,5 +1,19 @@
 [
     {
+        "title": "重申請確實做好垃圾分類",
+        "timestamp": "1726103254",
+        "url": "mail_display.php?timestamp=1726103254",
+        "date": "2024/09/12 09:07",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "許智翔",
+            "email": "cocco3746@gms.ndhu.edu.tw",
+            "phone": "03-8906399"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【出納組公告】總務處出納組臨櫃收費服務至上班日下午4點截止[Cashier Group Announcement] The collection service of the Cashier Divison of the General Affairs Office ends at 4 p.m. on working days",
         "timestamp": "1726100526",
         "url": "mail_display.php?timestamp=1726100526",
@@ -192,20 +206,6 @@
             "name": "陳昱佐",
             "email": "yutuchen@gms.ndhu.edu.tw",
             "phone": "038906824"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "113-1諮商中心伴侶諮商服務開放申請",
-        "timestamp": "1725852086",
-        "url": "mail_display.php?timestamp=1725852086",
-        "date": "2024/09/09 11:21",
-        "department": "心理諮商輔導中心",
-        "author": {
-            "department": "心理諮商輔導中心",
-            "name": "魏凡涓",
-            "email": "juliawei@gms.ndhu.edu.tw",
-            "phone": "03-8906892"
         },
         "attachmentCount": 1
     }

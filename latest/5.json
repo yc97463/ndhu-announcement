@@ -1,5 +1,19 @@
 [
     {
+        "title": "【出納組公告】總務處出納組臨櫃收費服務至上班日下午4點截止[Cashier Group Announcement] The collection service of the Cashier Divison of the General Affairs Office ends at 4 p.m. on working days",
+        "timestamp": "1726100526",
+        "url": "mail_display.php?timestamp=1726100526",
+        "date": "2024/09/12 08:22",
+        "department": "總務處",
+        "author": {
+            "department": "總務處",
+            "name": "許紹峯",
+            "email": "yummy@gms.ndhu.edu.tw",
+            "phone": "03-8906361"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【光電系系學會】113學年度光電X物理X教育三系聯合迎新【限系學會工作人員報名】",
         "timestamp": "1726098910",
         "url": "mail_display.php?timestamp=1726098910",
@@ -192,20 +206,6 @@
             "name": "吳星穎",
             "email": "carmier@gms.ndhu.edu.tw",
             "phone": "8906252"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "⭐教育大數據微學程⭐學習如何以大數據來解讀教育的問題！",
-        "timestamp": "1726046776",
-        "url": "mail_display.php?timestamp=1726046776",
-        "date": "2024/09/11 17:26",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "黃小姐",
-            "email": "chinghua@gms.ndhu.edu.tw",
-            "phone": "6579"
         },
         "attachmentCount": 3
     }
