@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】黑潮海洋文教基金會「吳鄭秀玉女士黑潮獎助金」",
+        "timestamp": "1726108858",
+        "url": "mail_display.php?timestamp=1726108858",
+        "date": "2024/09/12 10:40",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【徵才】農業部林業及自然保育署臺東分署113年第2次森林護管員甄試",
         "timestamp": "1726107883",
         "url": "mail_display.php?timestamp=1726107883",
@@ -192,20 +206,6 @@
             "name": "駱星羽",
             "email": "syluo@gms.ndhu.edu.tw",
             "phone": "5673"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "法律系113-1 期初系員大會",
-        "timestamp": "1726098902",
-        "url": "mail_display.php?timestamp=1726098902",
-        "date": "2024/09/12 07:55",
-        "department": "人文社會科學學院 法律學系",
-        "author": {
-            "department": "人文社會科學學院 法律學系",
-            "name": "陳雅慧",
-            "email": "meditator@gms.ndhu.edu.tw",
-            "phone": "038905662"
         },
         "attachmentCount": 0
     }

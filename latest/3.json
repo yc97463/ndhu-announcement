@@ -1,5 +1,19 @@
 [
     {
+        "title": "【交通安全宣導】夜間騎自行車行車應開啟燈光，請勿逆向行駛，以策安全。",
+        "timestamp": "1726190455",
+        "url": "mail_display.php?timestamp=1726190455",
+        "date": "2024/09/13 09:20",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "林嘉瑩",
+            "email": "tea7101@gms.ndhu.edu.tw",
+            "phone": "03-8906226"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "113學年度【初領車證新生交通安全宣導活動】9月23日第一場次，有意申領校園車輛識別證同學，請儘速上網報名。",
         "timestamp": "1726189424",
         "url": "mail_display.php?timestamp=1726189424",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【徵才】財政部中區國稅局「113年度儲備約僱人員甄選」",
-        "timestamp": "1726124833",
-        "url": "mail_display.php?timestamp=1726124833",
-        "date": "2024/09/12 15:07",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
     }
 ]

@@ -1,5 +1,33 @@
 [
     {
+        "title": "113-1幼兒教育學系期初系員大會",
+        "timestamp": "1725839701",
+        "url": "mail_display.php?timestamp=1725839701",
+        "date": "2024/09/09 07:55",
+        "department": "花師教育學院 幼兒教育學系",
+        "author": {
+            "department": "花師教育學院 幼兒教育學系",
+            "name": "蕭羽芩",
+            "email": "kay200128@gms.ndhu.edu.tw",
+            "phone": "5266"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "掌握未來教育趨勢！立即報名教育大數據微學程招生說明會",
+        "timestamp": "1725807852",
+        "url": "mail_display.php?timestamp=1725807852",
+        "date": "2024/09/08 23:04",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【語傳系】首創「阿美族語口譯微學程」",
         "timestamp": "1725787116",
         "url": "mail_display.php?timestamp=1725787116",
@@ -178,34 +206,6 @@
             "name": "江東隆",
             "email": "techusr@gms.ndhu.edu.tw",
             "phone": "3772"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "113-1校核心通識課程尚有選課人數統計資料公告",
-        "timestamp": "1725599877",
-        "url": "mail_display.php?timestamp=1725599877",
-        "date": "2024/09/06 13:17",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "📢不管你是I型人還是E型人，通通來當教育大數據分析人📊👩‍💻",
-        "timestamp": "1725596955",
-        "url": "mail_display.php?timestamp=1725596955",
-        "date": "2024/09/06 12:29",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "黃小姐",
-            "email": "chinghua@gms.ndhu.edu.tw",
-            "phone": "6579"
         },
         "attachmentCount": 2
     }
