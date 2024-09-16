@@ -1,5 +1,47 @@
 [
     {
+        "title": "【獎助學金申請】聯合報系文化基金會113年王惕吾先生新聞獎學金",
+        "timestamp": "1726467589",
+        "url": "mail_display.php?timestamp=1726467589",
+        "date": "2024/09/16 14:19",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【113-1語言中心校園英語能力模擬測驗】10/19- English Score (Core Skills) (線上測驗)",
+        "timestamp": "1726466227",
+        "url": "mail_display.php?timestamp=1726466227",
+        "date": "2024/09/16 13:57",
+        "department": "語言中心",
+        "author": {
+            "department": "語言中心",
+            "name": "林瑜珊",
+            "email": "lc@gms.ndhu.edu.tw",
+            "phone": "03-895492"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【獎助學金申請】澎湖縣113-1清寒優秀學生獎學金 (限澎湖縣籍)",
+        "timestamp": "1726465468",
+        "url": "mail_display.php?timestamp=1726465468",
+        "date": "2024/09/16 13:44",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【健康促進活動】CPR+AED證照班，取得兩年效期合格證明，報名從速!",
         "timestamp": "1726461994",
         "url": "mail_display.php?timestamp=1726461994",
@@ -12,20 +54,6 @@
             "phone": "8906253"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": " 113-1語言中心校園英語能力模擬測驗】10/19- English Score (Core Skills) (線上測驗)",
-        "timestamp": "1726461444",
-        "url": "mail_display.php?timestamp=1726461444",
-        "date": "2024/09/16 12:37",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "林瑜珊",
-            "email": "lc@gms.ndhu.edu.tw",
-            "phone": "03-895492"
-        },
-        "attachmentCount": 0
     },
     {
         "title": "【徵才公告】國立東華大學數位學伴中心 - 113-1 學期大學伴招募",
@@ -180,33 +208,5 @@
             "phone": "03-890-5920"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "台灣原住民族知識體系課程系列講座：台灣原住民族知識體系與建構",
-        "timestamp": "1726358101",
-        "url": "mail_display.php?timestamp=1726358101",
-        "date": "2024/09/15 07:55",
-        "department": "原住民民族學院 族群關係與文化學系",
-        "author": {
-            "department": "原住民民族學院 族群關係與文化學系",
-            "name": "葉秀燕",
-            "email": "柯承希 411196018@gms.ndhu.edu.tw",
-            "phone": "柯承希 0988479360"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【圖書館公告】中秋節【113.09.17 (二)】休館一日！ Library will be Closed for Mid-autumn festival on September 17, 2024",
-        "timestamp": "1726302218",
-        "url": "mail_display.php?timestamp=1726302218",
-        "date": "2024/09/14 16:23",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "詹",
-            "email": "ipchan@gms.ndhu.edu.tw",
-            "phone": "6813"
-        },
-        "attachmentCount": 0
     }
 ]
