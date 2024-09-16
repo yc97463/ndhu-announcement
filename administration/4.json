@@ -1,5 +1,19 @@
 [
     {
+        "title": "諮商中心-【好好說再見】分手失落情緒支持團體",
+        "timestamp": "1725592454",
+        "url": "mail_display.php?timestamp=1725592454",
+        "date": "2024/09/06 11:14",
+        "department": "心理諮商輔導中心",
+        "author": {
+            "department": "心理諮商輔導中心",
+            "name": "陳奕錚",
+            "email": "yjchen92@gms.ndhu.edu.tw",
+            "phone": "(03)890-6894"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "[心理諮商輔導中心] 113學年度 入班活動申請辦法與申請表",
         "timestamp": "1725589138",
         "url": "mail_display.php?timestamp=1725589138",
@@ -194,19 +208,5 @@
             "phone": "5778"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "本校全家便利商店各分店營業時間公告",
-        "timestamp": "1725269827",
-        "url": "mail_display.php?timestamp=1725269827",
-        "date": "2024/09/02 17:37",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "賴榮璉",
-            "email": "chrishnalai@gms.ndhu.edu.tw",
-            "phone": "6237"
-        },
-        "attachmentCount": 2
     }
 ]
