@@ -1,5 +1,33 @@
 [
     {
+        "title": "【推廣教育填報改版通知】112學年第2學期課程資料填報作業暨系統改版通知",
+        "timestamp": "1725349713",
+        "url": "mail_display.php?timestamp=1725349713",
+        "date": "2024/09/03 15:48",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "洪乃慈",
+            "email": "naitzu@gms.ndhu.edu.tw",
+            "phone": "6523"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【更正公告】有關檢附113年本校資深優良教職員工表揚名冊疏誤案。",
+        "timestamp": "1725344953",
+        "url": "mail_display.php?timestamp=1725344953",
+        "date": "2024/09/03 14:29",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "劉昱淩",
+            "email": "e56187@gms.ndhu.edu.tw",
+            "phone": "890-6056"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "行政大樓3樓9/9(一)~9/13(五)隔間牆封板施工公告",
         "timestamp": "1725333865",
         "url": "mail_display.php?timestamp=1725333865",
@@ -180,33 +208,5 @@
             "phone": "6216"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【Student Dormitory】Deposit and Claim of Luggage Services",
-        "timestamp": "1724910799",
-        "url": "mail_display.php?timestamp=1724910799",
-        "date": "2024/08/29 13:53",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "鍾佩玲",
-            "email": "free22011@gms.ndhu.edu.tw",
-            "phone": "03890-6217"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【學生宿舍】寄放行李領取服務相關事宜，請務必詳閱，並配合與遵守！",
-        "timestamp": "1724910670",
-        "url": "mail_display.php?timestamp=1724910670",
-        "date": "2024/08/29 13:51",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "鍾佩玲",
-            "email": "free22011@gms.ndhu.edu.tw",
-            "phone": "038906217"
-        },
-        "attachmentCount": 0
     }
 ]

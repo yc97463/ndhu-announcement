@@ -1,6 +1,20 @@
 [
     {
         "title": "本校於113年「國家防災日」實施防震避難演練，請全校人員共同執行災防演練。(Our school will conduct earthquake prevention and evacuation drills on the 2024 National Disaster Prevention Day, and all school staff will be asked to perform the disaster prevention drills together.)",
+        "timestamp": "1726570710",
+        "url": "mail_display.php?timestamp=1726570710",
+        "date": "2024/09/17 18:58",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "吳昭毅",
+            "email": "wuyi12831@gms.ndhu.edu.tw",
+            "phone": "038906228"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "本校於113年「國家防災日」實施防震避難演練，請全校人員共同執行災防演練。(Our school will conduct earthquake prevention and evacuation drills on the 2024 National Disaster Prevention Day, and all school staff will be asked to perform the disaster prevention drills together.)",
         "timestamp": "1726569721",
         "url": "mail_display.php?timestamp=1726569721",
         "date": "2024/09/17 18:42",
@@ -194,19 +208,5 @@
             "phone": "5107"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "【113-1語言中心校園英語能力模擬測驗】10/19- English Score (Core Skills) (線上測驗)",
-        "timestamp": "1726466227",
-        "url": "mail_display.php?timestamp=1726466227",
-        "date": "2024/09/16 13:57",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "林瑜珊",
-            "email": "lc@gms.ndhu.edu.tw",
-            "phone": "03-895492"
-        },
-        "attachmentCount": 0
     }
 ]

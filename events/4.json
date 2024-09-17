@@ -1,5 +1,19 @@
 [
     {
+        "title": "中國語文學系【中國文學講座】09/24‧林安梧教授演講",
+        "timestamp": "1726098903",
+        "url": "mail_display.php?timestamp=1726098903",
+        "date": "2024/09/12 07:55",
+        "department": "人文社會科學學院 中國語文學系",
+        "author": {
+            "department": "人文社會科學學院 中國語文學系",
+            "name": "駱星羽",
+            "email": "syluo@gms.ndhu.edu.tw",
+            "phone": "5673"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "法律系113-1 期初系員大會",
         "timestamp": "1726098902",
         "url": "mail_display.php?timestamp=1726098902",
@@ -194,19 +208,5 @@
             "phone": "(03)890-6894"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【轉知】「2024 台灣雲端社群年會」(AWS Communtiy Day Taiwan) 相關活動資訊，請參閱官方網站公告。",
-        "timestamp": "1725960588",
-        "url": "mail_display.php?timestamp=1725960588",
-        "date": "2024/09/10 17:29",
-        "department": "圖書資訊處綜合業務組",
-        "author": {
-            "department": "圖書資訊處綜合業務組",
-            "name": "李惠玲",
-            "email": "hllee@gms.ndhu.edu.tw",
-            "phone": "6775"
-        },
-        "attachmentCount": 1
     }
 ]
