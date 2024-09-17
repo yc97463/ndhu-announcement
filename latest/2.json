@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】聯合報系文化基金會113年王惕吾先生新聞獎學金",
+        "timestamp": "1726467589",
+        "url": "mail_display.php?timestamp=1726467589",
+        "date": "2024/09/16 14:19",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【113-1語言中心校園英語能力模擬測驗】10/19- English Score (Core Skills) (線上測驗)",
         "timestamp": "1726466227",
         "url": "mail_display.php?timestamp=1726466227",
@@ -194,19 +208,5 @@
             "phone": "03-890-5920"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "台灣原住民族知識體系課程系列講座：台灣原住民族知識體系與建構",
-        "timestamp": "1726358101",
-        "url": "mail_display.php?timestamp=1726358101",
-        "date": "2024/09/15 07:55",
-        "department": "原住民民族學院 族群關係與文化學系",
-        "author": {
-            "department": "原住民民族學院 族群關係與文化學系",
-            "name": "葉秀燕",
-            "email": "柯承希 411196018@gms.ndhu.edu.tw",
-            "phone": "柯承希 0988479360"
-        },
-        "attachmentCount": 0
     }
 ]

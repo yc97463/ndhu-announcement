@@ -1,5 +1,19 @@
 [
     {
+        "title": "法律系113-1 期初系員大會",
+        "timestamp": "1726098902",
+        "url": "mail_display.php?timestamp=1726098902",
+        "date": "2024/09/12 07:55",
+        "department": "人文社會科學學院 法律學系",
+        "author": {
+            "department": "人文社會科學學院 法律學系",
+            "name": "陳雅慧",
+            "email": "meditator@gms.ndhu.edu.tw",
+            "phone": "038905662"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "研究所與出國交換的雙贏策略",
         "timestamp": "1726098901",
         "url": "mail_display.php?timestamp=1726098901",
@@ -194,19 +208,5 @@
             "phone": "6775"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "公告113-1校核心通識課程-「成功幸福的職涯」課程尚有名額，敬請踴躍加選課程",
-        "timestamp": "1725952315",
-        "url": "mail_display.php?timestamp=1725952315",
-        "date": "2024/09/10 15:11",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 0
     }
 ]
