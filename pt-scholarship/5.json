@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】本校113學年度「凌羣獎學金」 (限電機、資工)",
+        "timestamp": "1724863541",
+        "url": "mail_display.php?timestamp=1724863541",
+        "date": "2024/08/29 00:45",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】中華電信基金會113學年度方賢齊先生獎學金 (限家境清寒就讀理工、資訊、管理、商或傳播)",
         "timestamp": "1724859840",
         "url": "mail_display.php?timestamp=1724859840",
@@ -186,20 +200,6 @@
         "timestamp": "1724737641",
         "url": "mail_display.php?timestamp=1724737641",
         "date": "2024/08/27 13:47",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【論文獎助】文化部113年度文化藝術政策博碩士論文獎勵",
-        "timestamp": "1724732355",
-        "url": "mail_display.php?timestamp=1724732355",
-        "date": "2024/08/27 12:19",
         "department": "學務處",
         "author": {
             "department": "學務處",

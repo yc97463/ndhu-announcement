@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】白曉燕文教基金會112(二)警察子女獎助學金",
+        "timestamp": "1726651132",
+        "url": "mail_display.php?timestamp=1726651132",
+        "date": "2024/09/18 17:18",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】高雄市私立基督教福澤慈善事業基金會113年「困學獎學金」(限高雄市籍身心障礙者子女或學生)",
         "timestamp": "1726648299",
         "url": "mail_display.php?timestamp=1726648299",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "重要通知：K書中心A、B館開放領取個人物品的時間與流程",
-        "timestamp": "1726624994",
-        "url": "mail_display.php?timestamp=1726624994",
-        "date": "2024/09/18 10:03",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "陳小姐",
-            "email": "sian@gms.ndhu.edu.tw",
-            "phone": "5846"
-        },
-        "attachmentCount": 0
     }
 ]

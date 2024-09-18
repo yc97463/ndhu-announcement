@@ -1,5 +1,19 @@
 [
     {
+        "title": "113學年應數系服務奉獻志工",
+        "timestamp": "1726530903",
+        "url": "mail_display.php?timestamp=1726530903",
+        "date": "2024/09/17 07:55",
+        "department": "理工學院 應用數學系",
+        "author": {
+            "department": "理工學院 應用數學系",
+            "name": "陳素琳",
+            "email": "chsulin@gms.ndhu.edu.tw",
+            "phone": "3561"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "#METOO：從神話看生活裡的性騷擾",
         "timestamp": "1726530902",
         "url": "mail_display.php?timestamp=1726530902",
@@ -194,19 +208,5 @@
             "phone": "03-8906219"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【公告】人事室臨時異地辦公",
-        "timestamp": "1726458196",
-        "url": "mail_display.php?timestamp=1726458196",
-        "date": "2024/09/16 11:43",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "劉昱淩",
-            "email": "e56187@gms.ndhu.edu.tw",
-            "phone": "890-6056"
-        },
-        "attachmentCount": 0
     }
 ]
