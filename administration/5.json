@@ -1,5 +1,33 @@
 [
     {
+        "title": "【課務組公告】113-1學期選課相關公告 Announcement about 113-1 courses selection ",
+        "timestamp": "1725437821",
+        "url": "mail_display.php?timestamp=1725437821",
+        "date": "2024/09/04 16:17",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【課務組】113-1學期兼任教師教學、課程停開及請假補（代）課 提醒事項",
+        "timestamp": "1725411481",
+        "url": "mail_display.php?timestamp=1725411481",
+        "date": "2024/09/04 08:58",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "宋育縈",
+            "email": "suz@gms.ndhu.edu.tw",
+            "phone": "分機6123"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【推廣教育填報改版通知】112學年第2學期課程資料填報作業暨系統改版通知",
         "timestamp": "1725349713",
         "url": "mail_display.php?timestamp=1725349713",
@@ -180,33 +208,5 @@
             "phone": "5778"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "最新租屋資訊及租屋法規動態",
-        "timestamp": "1724921302",
-        "url": "mail_display.php?timestamp=1724921302",
-        "date": "2024/08/29 16:48",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳詩啓",
-            "email": "sam0831@gms.ndhu.edu.tw",
-            "phone": "6216"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "內政部提供113年學生校外租屋合理行情參考",
-        "timestamp": "1724919545",
-        "url": "mail_display.php?timestamp=1724919545",
-        "date": "2024/08/29 16:19",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳詩啓",
-            "email": "sam0831@gms.ndhu.edu.tw",
-            "phone": "6216"
-        },
-        "attachmentCount": 2
     }
 ]

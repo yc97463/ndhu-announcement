@@ -1,5 +1,61 @@
 [
     {
+        "title": "【獎助學金申請】澎湖縣113-1清寒優秀學生獎學金 (限澎湖縣籍)",
+        "timestamp": "1726465468",
+        "url": "mail_display.php?timestamp=1726465468",
+        "date": "2024/09/16 13:44",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【健康促進活動】CPR+AED證照班，取得兩年效期合格證明，報名從速!",
+        "timestamp": "1726461994",
+        "url": "mail_display.php?timestamp=1726461994",
+        "date": "2024/09/16 12:46",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【徵才公告】國立東華大學數位學伴中心 - 113-1 學期大學伴招募",
+        "timestamp": "1726460267",
+        "url": "mail_display.php?timestamp=1726460267",
+        "date": "2024/09/16 12:17",
+        "department": "花師教育學院",
+        "author": {
+            "department": "花師教育學院",
+            "name": "李宛玲",
+            "email": "etutor_c226@gms.ndhu.edu.tw",
+            "phone": "890-3816"
+        },
+        "attachmentCount": 6
+    },
+    {
+        "title": "藝術與人文領域教學探索實作工作坊－相聲與戲劇的表達藝術",
+        "timestamp": "1726459665",
+        "url": "mail_display.php?timestamp=1726459665",
+        "date": "2024/09/16 12:07",
+        "department": "音樂學系",
+        "author": {
+            "department": "音樂學系",
+            "name": "張純倩",
+            "email": "asd963741@gms.ndhu.edu.tw",
+            "phone": "03-8905168"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "【Student Dormitory】Mandatory Participation in Disaster Prevention Drills for Fall Semester, Academic Year 2024-2025",
         "timestamp": "1726458891",
         "url": "mail_display.php?timestamp=1726458891",
@@ -150,62 +206,6 @@
             "name": "詹",
             "email": "ipchan@gms.ndhu.edu.tw",
             "phone": "6813"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【敬邀參加】113/9/20~9/22「 無眾計畫 | 藝創十一文件展 」@藝術學院展覽廳",
-        "timestamp": "1726287305",
-        "url": "mail_display.php?timestamp=1726287305",
-        "date": "2024/09/14 12:15",
-        "department": "藝術創意產業學系",
-        "author": {
-            "department": "藝術創意產業學系",
-            "name": "謝明海",
-            "email": "ocean@gms.ndhu.edu.tw",
-            "phone": "890-5889"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【敬邀參加】113/9/20~9/22「 藝創系創藝市集 」@藝術學院展覽廳",
-        "timestamp": "1726283824",
-        "url": "mail_display.php?timestamp=1726283824",
-        "date": "2024/09/14 11:17",
-        "department": "藝術創意產業學系",
-        "author": {
-            "department": "藝術創意產業學系",
-            "name": "謝明海",
-            "email": "ocean@gms.ndhu.edu.tw",
-            "phone": "890-5889"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "113學年度【初領車證新生交通安全宣導活動】9月23日第一場次，有意申領校園車輛識別證同學，請儘速上網報名。",
-        "timestamp": "1726271703",
-        "url": "mail_display.php?timestamp=1726271703",
-        "date": "2024/09/14 07:55",
-        "department": "學務處 生活輔導組",
-        "author": {
-            "department": "學務處 生活輔導組",
-            "name": "林嘉瑩",
-            "email": "tea7101@gms.ndhu.edu.tw",
-            "phone": "03-8906226"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "諮商中心資源教室：【職業探索體驗趣-拈花惹草香氣療癒手作趣】",
-        "timestamp": "1726271702",
-        "url": "mail_display.php?timestamp=1726271702",
-        "date": "2024/09/14 07:55",
-        "department": "心理諮商輔導中心 資源開發組",
-        "author": {
-            "department": "心理諮商輔導中心 資源開發組",
-            "name": "鍾雅琳",
-            "email": "lin.chung@gms.ndhu.edu.tw",
-            "phone": "03-8903155"
         },
         "attachmentCount": 0
     }

@@ -1,5 +1,33 @@
 [
     {
+        "title": "113年9月10日至20日辦理本校田園基地開放申請作業。",
+        "timestamp": "1725929790",
+        "url": "mail_display.php?timestamp=1725929790",
+        "date": "2024/09/10 08:56",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "賴宜萱",
+            "email": "lai0210@gms.ndhu.edu.tw",
+            "phone": "6393"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "113學年第1學期開學總務處業務相關注意事項",
+        "timestamp": "1725868243",
+        "url": "mail_display.php?timestamp=1725868243",
+        "date": "2024/09/09 15:50",
+        "department": "總務處",
+        "author": {
+            "department": "總務處",
+            "name": "陳宇欽",
+            "email": "yuchin@gms.ndhu.edu.tw",
+            "phone": "6307"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "TEJ臺灣經濟新報資料庫(TEJ Pro)系統升級通知",
         "timestamp": "1725860919",
         "url": "mail_display.php?timestamp=1725860919",
@@ -178,34 +206,6 @@
             "name": "黃章傑",
             "email": "cotycafe@gms.ndhu.edu.tw",
             "phone": "5778"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "學生事務處搬遷公告-第二次公告",
-        "timestamp": "1725611055",
-        "url": "mail_display.php?timestamp=1725611055",
-        "date": "2024/09/06 16:24",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "學務處",
-            "email": "chchiou@gms.ndhu.edu.tw",
-            "phone": "０３８９０６２０３"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【課務組公告】請注意113-1網路加退選時間 Please Notice the Period for Online Add/Drop Courses ",
-        "timestamp": "1725606092",
-        "url": "mail_display.php?timestamp=1725606092",
-        "date": "2024/09/06 15:01",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "utd1003@gms.ndhu.edu.tw",
-            "phone": "6122-6126"
         },
         "attachmentCount": 0
     }
