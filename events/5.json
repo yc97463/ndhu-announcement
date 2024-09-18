@@ -1,5 +1,19 @@
 [
     {
+        "title": "【光電系系學會】新生活動-113學年度迎新宿營(活動參與人-限大一新生)",
+        "timestamp": "1726012504",
+        "url": "mail_display.php?timestamp=1726012504",
+        "date": "2024/09/11 07:55",
+        "department": "理工學院 光電工程學系",
+        "author": {
+            "department": "理工學院 光電工程學系",
+            "name": "劉碧純",
+            "email": "sun@gms.ndhu.edu.tw",
+            "phone": "3182"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "I Dream, Therefore I Am: Dream Exploration Workshop",
         "timestamp": "1726012503",
         "url": "mail_display.php?timestamp=1726012503",
@@ -194,19 +208,5 @@
             "phone": "5107"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "113-1校核心通識課程-「心學與人生」及「人文經典與現代生活」課程改為線上上課公告",
-        "timestamp": "1725848578",
-        "url": "mail_display.php?timestamp=1725848578",
-        "date": "2024/09/09 10:22",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 1
     }
 ]
