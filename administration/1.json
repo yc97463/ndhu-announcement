@@ -1,23 +1,9 @@
 [
     {
-        "title": "校外賃居住宿安全公告",
-        "timestamp": "1726622671",
-        "url": "mail_display.php?timestamp=1726622671",
-        "date": "2024/09/18 09:24",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳詩啓",
-            "email": "sam0831@gms.ndhu.edu.tw",
-            "phone": "6216"
-        },
-        "attachmentCount": 0
-    },
-    {
         "title": "本校於113年「國家防災日」實施防震避難演練，請全校人員共同執行災防演練。(Our school will conduct earthquake prevention and evacuation drills on the 2024 National Disaster Prevention Day, and all school staff will be asked to perform the disaster prevention drills together.)",
-        "timestamp": "1726570710",
-        "url": "mail_display.php?timestamp=1726570710",
-        "date": "2024/09/17 18:58",
+        "timestamp": "1726623675",
+        "url": "mail_display.php?timestamp=1726623675",
+        "date": "2024/09/18 09:41",
         "department": "學務處生活輔導組",
         "author": {
             "department": "學務處生活輔導組",
@@ -28,16 +14,16 @@
         "attachmentCount": 1
     },
     {
-        "title": "本校於113年「國家防災日」實施防震避難演練，請全校人員共同執行災防演練。(Our school will conduct earthquake prevention and evacuation drills on the 2024 National Disaster Prevention Day, and all school staff will be asked to perform the disaster prevention drills together.)",
-        "timestamp": "1726569721",
-        "url": "mail_display.php?timestamp=1726569721",
-        "date": "2024/09/17 18:42",
+        "title": "校外賃居住宿安全公告",
+        "timestamp": "1726622671",
+        "url": "mail_display.php?timestamp=1726622671",
+        "date": "2024/09/18 09:24",
         "department": "學務處生活輔導組",
         "author": {
             "department": "學務處生活輔導組",
-            "name": "吳昭毅",
-            "email": "wuyi12831@gms.ndhu.edu.tw",
-            "phone": "038906228"
+            "name": "陳詩啓",
+            "email": "sam0831@gms.ndhu.edu.tw",
+            "phone": "6216"
         },
         "attachmentCount": 0
     },
@@ -208,5 +194,19 @@
             "phone": "6225"
         },
         "attachmentCount": 2
+    },
+    {
+        "title": "114年1～6月份「推動國際學術合作交流補助」計畫，即日起受理申請至10月14日為止。",
+        "timestamp": "1726109860",
+        "url": "mail_display.php?timestamp=1726109860",
+        "date": "2024/09/12 10:57",
+        "department": "國際事務處國際合作組",
+        "author": {
+            "department": "國際事務處國際合作組",
+            "name": "梁忠誠",
+            "email": "ice@gms.ndhu.edu.tw",
+            "phone": "5108"
+        },
+        "attachmentCount": 1
     }
 ]

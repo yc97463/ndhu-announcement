@@ -1,5 +1,33 @@
 [
     {
+        "title": "【敬邀參加】藝術學院2024教授聯展開幕活動",
+        "timestamp": "1726530901",
+        "url": "mail_display.php?timestamp=1726530901",
+        "date": "2024/09/17 07:55",
+        "department": "藝術學院 ",
+        "author": {
+            "department": "藝術學院",
+            "name": "黃惠瑄",
+            "email": "syuan7517@gms.ndhu.edu.tw",
+            "phone": "5103"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "🦕花蓮玩具物流中心-9月萬代恐龍模型DIY活動🦕",
+        "timestamp": "1726474226",
+        "url": "mail_display.php?timestamp=1726474226",
+        "date": "2024/09/16 16:10",
+        "department": "管理學院",
+        "author": {
+            "department": "管理學院",
+            "name": "東華玩具樂園物流中心",
+            "email": "410825011@gms.ndhu.edu.tw",
+            "phone": "03-890-3772"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "113-114年「海外人才經驗分享及國際連結(TaiwanGPS)計畫」留遊學宣導說明會及學人分享會活動",
         "timestamp": "1726469124",
         "url": "mail_display.php?timestamp=1726469124",
@@ -180,33 +208,5 @@
             "phone": "6579"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "東華e學苑教師端線上使用說明會",
-        "timestamp": "1726216654",
-        "url": "mail_display.php?timestamp=1726216654",
-        "date": "2024/09/13 16:37",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【原資轉知】「原潮新生－113年度新北市原住民族創(就)業研習暨社會教育系列活動」",
-        "timestamp": "1726199011",
-        "url": "mail_display.php?timestamp=1726199011",
-        "date": "2024/09/13 11:43",
-        "department": "原住民族學生資源中心",
-        "author": {
-            "department": "原住民族學生資源中心",
-            "name": "吳倩茹",
-            "email": "isrc@gms.ndhu.edu.tw",
-            "phone": "(03)890-5707"
-        },
-        "attachmentCount": 3
     }
 ]
