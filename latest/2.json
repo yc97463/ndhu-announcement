@@ -1,5 +1,19 @@
 [
     {
+        "title": "校外賃居住宿安全公告",
+        "timestamp": "1726622671",
+        "url": "mail_display.php?timestamp=1726622671",
+        "date": "2024/09/18 09:24",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳詩啓",
+            "email": "sam0831@gms.ndhu.edu.tw",
+            "phone": "6216"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113學年度Rikec立革司學生會法律系原住民專班期初大會",
         "timestamp": "1726617303",
         "url": "mail_display.php?timestamp=1726617303",
@@ -194,19 +208,5 @@
             "phone": "5103"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "🦕花蓮玩具物流中心-9月萬代恐龍模型DIY活動🦕",
-        "timestamp": "1726474226",
-        "url": "mail_display.php?timestamp=1726474226",
-        "date": "2024/09/16 16:10",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "東華玩具樂園物流中心",
-            "email": "410825011@gms.ndhu.edu.tw",
-            "phone": "03-890-3772"
-        },
-        "attachmentCount": 3
     }
 ]
