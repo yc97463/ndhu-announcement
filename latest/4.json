@@ -1,5 +1,61 @@
 [
     {
+        "title": "重要通知：K書中心A、B館開放領取個人物品的時間與流程",
+        "timestamp": "1726215545",
+        "url": "mail_display.php?timestamp=1726215545",
+        "date": "2024/09/13 16:19",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳小姐",
+            "email": "sian@gms.ndhu.edu.tw",
+            "phone": "5846"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【就業/考試】「2024年觀光及國際禮儀專業認證冬季大會考」開始報名囉~",
+        "timestamp": "1726214785",
+        "url": "mail_display.php?timestamp=1726214785",
+        "date": "2024/09/13 16:06",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "【轉知】PGO摩特動力車廠參訪活動申請",
+        "timestamp": "1726211181",
+        "url": "mail_display.php?timestamp=1726211181",
+        "date": "2024/09/13 15:06",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "傅可恩老師《語言與社會》課程宣傳",
+        "timestamp": "1726208287",
+        "url": "mail_display.php?timestamp=1726208287",
+        "date": "2024/09/13 14:18",
+        "department": "原住民民族學院",
+        "author": {
+            "department": "原住民民族學院",
+            "name": "蔡易庭",
+            "email": "ducky40317@gmail.com",
+            "phone": "5795"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【徵才】中央銀行「經濟金融研究專業人員（助理研究員或同等職位、辦事員）甄選」",
         "timestamp": "1726207200",
         "url": "mail_display.php?timestamp=1726207200",
@@ -152,61 +208,5 @@
             "phone": "3632"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "📢113-1 教育大數據微學程實務課推廣📢",
-        "timestamp": "1726152203",
-        "url": "mail_display.php?timestamp=1726152203",
-        "date": "2024/09/12 22:43",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "黃小姐",
-            "email": "chinghua@gms.ndhu.edu.tw",
-            "phone": "6579"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "體育館體能訓練室冷氣更新工程作業暫時無法開放公告：",
-        "timestamp": "1726133413",
-        "url": "mail_display.php?timestamp=1726133413",
-        "date": "2024/09/12 17:30",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "沈正雄",
-            "email": "chshen@gms.ndhu.edu.tw",
-            "phone": "6618"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "課程延期志10/26日通知~【健康促進活動】BLS(基本救命術)證照班，取得兩年效期合格證明，報名從速!",
-        "timestamp": "1726132111",
-        "url": "mail_display.php?timestamp=1726132111",
-        "date": "2024/09/12 17:08",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【21世紀的花蓮20年：第七屆花蓮學研討會】活動報名",
-        "timestamp": "1726131083",
-        "url": "mail_display.php?timestamp=1726131083",
-        "date": "2024/09/12 16:51",
-        "department": "人文社會科學學院",
-        "author": {
-            "department": "人文社會科學學院",
-            "name": "陳瑞琪",
-            "email": "pooh21633@gms.ndhu.edu.tw",
-            "phone": "5322"
-        },
-        "attachmentCount": 3
     }
 ]
