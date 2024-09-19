@@ -1,5 +1,33 @@
 [
     {
+        "title": "9月23日上午10-12時壽豐消防隊於藝術學院進行消防搶救演練",
+        "timestamp": "1726452017",
+        "url": "mail_display.php?timestamp=1726452017",
+        "date": "2024/09/16 10:00",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "賴名塑",
+            "email": "a54604@gms.ndhu.edu.tw",
+            "phone": "8906378"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "重要通知：K書中心A、B館開放領取個人物品的時間與流程",
+        "timestamp": "1726449548",
+        "url": "mail_display.php?timestamp=1726449548",
+        "date": "2024/09/16 09:19",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳小姐",
+            "email": "sian@gms.ndhu.edu.tw",
+            "phone": "5846"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113年9 月17日「中秋節」，電腦教室暫不開放。The computer lab one will be closed on September 17 2024.",
         "timestamp": "1726448463",
         "url": "mail_display.php?timestamp=1726448463",
@@ -180,33 +208,5 @@
             "phone": "8906422"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "重要通知：K書中心A、B館開放領取個人物品的時間與流程",
-        "timestamp": "1726215545",
-        "url": "mail_display.php?timestamp=1726215545",
-        "date": "2024/09/13 16:19",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "陳小姐",
-            "email": "sian@gms.ndhu.edu.tw",
-            "phone": "5846"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【就業/考試】「2024年觀光及國際禮儀專業認證冬季大會考」開始報名囉~",
-        "timestamp": "1726214785",
-        "url": "mail_display.php?timestamp=1726214785",
-        "date": "2024/09/13 16:06",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
     }
 ]
