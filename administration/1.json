@@ -1,5 +1,19 @@
 [
     {
+        "title": "志學門路口交通改善工程完工公告",
+        "timestamp": "1726725681",
+        "url": "mail_display.php?timestamp=1726725681",
+        "date": "2024/09/19 14:01",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "黃章傑",
+            "email": "cotycafe@gms.ndhu.edu.tw",
+            "phone": "038905778"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【課務組通知】113-1加退選後課程確認及加簽作業(9/20-9/27) 【Curriculum Division】Course Confirm Online and Add Course Requests (Sep. 20-Sep. 27)",
         "timestamp": "1726709581",
         "url": "mail_display.php?timestamp=1726709581",
@@ -194,19 +208,5 @@
             "phone": "03-8906226"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【學生宿舍】112學年住宿保證金暨113年暑期住宿保證金結算公告暨複查作業 【Student Dormitory】Announcement of 2023-2024 Student Dormitory and 2024 Summer Dormitory Deposit Refund",
-        "timestamp": "1726187810",
-        "url": "mail_display.php?timestamp=1726187810",
-        "date": "2024/09/13 08:36",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳怡秀",
-            "email": "yishoue@gms.ndhu.edu.tw",
-            "phone": "6212"
-        },
-        "attachmentCount": 3
     }
 ]
