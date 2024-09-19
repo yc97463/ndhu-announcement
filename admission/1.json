@@ -1,5 +1,19 @@
 [
     {
+        "title": "體育中心 113-1 推廣教育課程招生中",
+        "timestamp": "1726763118",
+        "url": "mail_display.php?timestamp=1726763118",
+        "date": "2024/09/20 00:25",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "楊永義",
+            "email": "yyy@gms.ndhu.edu.tw",
+            "phone": "6612"
+        },
+        "attachmentCount": 11
+    },
+    {
         "title": "公告113-1校核心資訊科技領域-「中級程式設計-虛擬實境AA」課程尚有名額，敬請踴躍加選課程",
         "timestamp": "1726627212",
         "url": "mail_display.php?timestamp=1726627212",
@@ -192,20 +206,6 @@
             "name": "黃小姐",
             "email": "chinghua@gms.ndhu.edu.tw",
             "phone": "6579"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "參與教育大數據微學程 開啟你的數據分析之旅—立即報名說明會！",
-        "timestamp": "1725528898",
-        "url": "mail_display.php?timestamp=1725528898",
-        "date": "2024/09/05 17:34",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "黃小姐",
-            "email": "chinghua@gms.ndhu.edu.tw",
-            "phone": "03-890-6579"
         },
         "attachmentCount": 2
     }
