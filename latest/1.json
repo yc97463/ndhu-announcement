@@ -1,5 +1,33 @@
 [
     {
+        "title": "【東區基地活動轉知】113年「教學實踐研究計畫撰寫諮詢服務」申請",
+        "timestamp": "1726722045",
+        "url": "mail_display.php?timestamp=1726722045",
+        "date": "2024/09/19 13:00",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳禮凡",
+            "email": "lifan.chen@gms.ndhu.edu.tw",
+            "phone": "038906586"
+        },
+        "attachmentCount": 4
+    },
+    {
+        "title": "演講公告",
+        "timestamp": "1726721929",
+        "url": "mail_display.php?timestamp=1726721929",
+        "date": "2024/09/19 12:58",
+        "department": "科學教育中心",
+        "author": {
+            "department": "科學教育中心",
+            "name": "鄭立婷",
+            "email": "chyang@gms.ndhu.edu.tw",
+            "phone": "03-8903850"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "國家環境研究院113年淨零大專到校推廣課程",
         "timestamp": "1726717441",
         "url": "mail_display.php?timestamp=1726717441",
@@ -180,33 +208,5 @@
             "phone": "0930228514"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【發社系】災難中的社區系列講座─想想花蓮：災難的回顧與省思",
-        "timestamp": "1726703701",
-        "url": "mail_display.php?timestamp=1726703701",
-        "date": "2024/09/19 07:55",
-        "department": "原住民民族學院 民族發展與社會工作學系",
-        "author": {
-            "department": "原住民民族學院 民族發展與社會工作學系",
-            "name": "郭雅婷",
-            "email": "lingya@gms.ndhu.edu.tw",
-            "phone": "03-8905708 鐘助理"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【獎助學金申請】白曉燕文教基金會112(二)警察子女獎助學金",
-        "timestamp": "1726651132",
-        "url": "mail_display.php?timestamp=1726651132",
-        "date": "2024/09/18 17:18",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]

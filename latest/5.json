@@ -1,5 +1,33 @@
 [
     {
+        "title": "【獎助學金申請】建大文化教育基金會2024【彰化縣】優秀自強學生獎學金 (限彰化縣籍)",
+        "timestamp": "1726458720",
+        "url": "mail_display.php?timestamp=1726458720",
+        "date": "2024/09/16 11:52",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【公告】人事室臨時異地辦公",
+        "timestamp": "1726458196",
+        "url": "mail_display.php?timestamp=1726458196",
+        "date": "2024/09/16 11:43",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "劉昱淩",
+            "email": "e56187@gms.ndhu.edu.tw",
+            "phone": "890-6056"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "9月23日上午10-12時壽豐消防隊於藝術學院進行消防搶救演練",
         "timestamp": "1726452017",
         "url": "mail_display.php?timestamp=1726452017",
@@ -180,33 +208,5 @@
             "phone": "6053"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【教育大數據微學程實務課推廣】",
-        "timestamp": "1726217146",
-        "url": "mail_display.php?timestamp=1726217146",
-        "date": "2024/09/13 16:45",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "黃小姐",
-            "email": "chinghua@gms.ndhu.edu.tw",
-            "phone": "6579"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "東華e學苑教師端線上使用說明會",
-        "timestamp": "1726216654",
-        "url": "mail_display.php?timestamp=1726216654",
-        "date": "2024/09/13 16:37",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 1
     }
 ]
