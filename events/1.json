@@ -1,5 +1,19 @@
 [
     {
+        "title": "【發社系活動】你為什麼要來?-114學年度碩士班甄試招生說明會",
+        "timestamp": "1726795928",
+        "url": "mail_display.php?timestamp=1726795928",
+        "date": "2024/09/20 09:32",
+        "department": "原住民民族學院",
+        "author": {
+            "department": "原住民民族學院",
+            "name": "楊助理",
+            "email": "ringo@gms.ndhu.edu.tw",
+            "phone": "5822"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "運動零食・瘋運動",
         "timestamp": "1726790110",
         "url": "mail_display.php?timestamp=1726790110",
@@ -194,19 +208,5 @@
             "phone": "8905179"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "國立東華大學公共行政學系113-1實習心得發表會",
-        "timestamp": "1726703709",
-        "url": "mail_display.php?timestamp=1726703709",
-        "date": "2024/09/19 07:55",
-        "department": "人文社會科學學院 公共行政學系",
-        "author": {
-            "department": "人文社會科學學院 公共行政學系",
-            "name": "蔡語宸",
-            "email": "yuchen@gms.ndhu.edu.tw",
-            "phone": "5512"
-        },
-        "attachmentCount": 0
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "前進中美洲--外交部國際青年大使交流計畫經驗分享會",
+        "timestamp": "1726617302",
+        "url": "mail_display.php?timestamp=1726617302",
+        "date": "2024/09/18 07:55",
+        "department": "國際事務處 國際學生組",
+        "author": {
+            "department": "國際事務處 國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "2024後山文薈全國研究生論文研討會旁聽報名",
         "timestamp": "1726617301",
         "url": "mail_display.php?timestamp=1726617301",
@@ -194,19 +208,5 @@
             "phone": "5107"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "【113-1語言中心校園英語能力模擬測驗】10/19- English Score (Core Skills) (線上測驗)",
-        "timestamp": "1726466227",
-        "url": "mail_display.php?timestamp=1726466227",
-        "date": "2024/09/16 13:57",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "林瑜珊",
-            "email": "lc@gms.ndhu.edu.tw",
-            "phone": "03-895492"
-        },
-        "attachmentCount": 0
     }
 ]

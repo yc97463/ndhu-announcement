@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】東光教育基金會113-1獎學金 (限台北市籍低收、身心障礙、家況特殊)",
+        "timestamp": "1725675058",
+        "url": "mail_display.php?timestamp=1725675058",
+        "date": "2024/09/07 10:10",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【論文獎助】日月光文教基金會第十一屆日月光環保學術碩、博士論文獎助",
         "timestamp": "1725671156",
         "url": "mail_display.php?timestamp=1725671156",
@@ -186,20 +200,6 @@
         "timestamp": "1725464955",
         "url": "mail_display.php?timestamp=1725464955",
         "date": "2024/09/04 23:49",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【獎助學金申請】本校《113學年度》似鳥（NITORI）國際獎學金 (受理至113年9月25日止，請把握時限申請)",
-        "timestamp": "1725464470",
-        "url": "mail_display.php?timestamp=1725464470",
-        "date": "2024/09/04 23:41",
         "department": "學務處",
         "author": {
             "department": "學務處",

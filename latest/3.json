@@ -1,5 +1,33 @@
 [
     {
+        "title": "113-1語傳系期初系員大會",
+        "timestamp": "1726703703",
+        "url": "mail_display.php?timestamp=1726703703",
+        "date": "2024/09/19 07:55",
+        "department": "原住民民族學院 民族語言與傳播學系",
+        "author": {
+            "department": "原住民民族學院 民族語言與傳播學系",
+            "name": "璽祐.哈?咪",
+            "email": "411292027@gms.ndhu.edu.tw",
+            "phone": "0965726931"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "民族語言與傳播學系-職業生涯講座",
+        "timestamp": "1726703702",
+        "url": "mail_display.php?timestamp=1726703702",
+        "date": "2024/09/19 07:55",
+        "department": "原住民民族學院 民族語言與傳播學系",
+        "author": {
+            "department": "原住民民族學院 民族語言與傳播學系",
+            "name": "璽祐.哈?咪",
+            "email": "411292030@gms.ndhu.edu.tw",
+            "phone": "0930228514"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【發社系】災難中的社區系列講座─想想花蓮：災難的回顧與省思",
         "timestamp": "1726703701",
         "url": "mail_display.php?timestamp=1726703701",
@@ -180,33 +208,5 @@
             "phone": "8906607"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【徵才】臺北市就業服務處113年10月5日(六)辦理科技就業博覽會",
-        "timestamp": "1726626255",
-        "url": "mail_display.php?timestamp=1726626255",
-        "date": "2024/09/18 10:24",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "轉知臺灣國立大學系統辦理「跨校雙語TA增能工作坊全國巡迴場」活動",
-        "timestamp": "1726625990",
-        "url": "mail_display.php?timestamp=1726625990",
-        "date": "2024/09/18 10:19",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "utd1003@gms.ndhu.edu.tw",
-            "phone": "6122-6126"
-        },
-        "attachmentCount": 3
     }
 ]
