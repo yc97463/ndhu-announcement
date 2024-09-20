@@ -1,5 +1,19 @@
 [
     {
+        "title": "重要通知：K書中心A、B館開放領取個人物品的時間與流程",
+        "timestamp": "1726215545",
+        "url": "mail_display.php?timestamp=1726215545",
+        "date": "2024/09/13 16:19",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳小姐",
+            "email": "sian@gms.ndhu.edu.tw",
+            "phone": "5846"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【就業/考試】「2024年觀光及國際禮儀專業認證冬季大會考」開始報名囉~",
         "timestamp": "1726214785",
         "url": "mail_display.php?timestamp=1726214785",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【徵才】臺東縣學生輔導諮商中心113年度專業輔導人員第4次甄選(心理師、社工師)",
-        "timestamp": "1726044871",
-        "url": "mail_display.php?timestamp=1726044871",
-        "date": "2024/09/11 16:54",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 6
     }
 ]
