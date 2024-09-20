@@ -1,5 +1,19 @@
 [
     {
+        "title": "📢不管你是I型人還是E型人，通通來當教育大數據分析人📊👩‍💻",
+        "timestamp": "1725596955",
+        "url": "mail_display.php?timestamp=1725596955",
+        "date": "2024/09/06 12:29",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "參與教育大數據微學程 開啟你的數據分析之旅—立即報名說明會！",
         "timestamp": "1725528898",
         "url": "mail_display.php?timestamp=1725528898",
@@ -194,19 +208,5 @@
             "phone": "5247"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "【東華美崙校區】國立東華大學×傑瑞籃球運動—籃球夏令營線上報名表",
-        "timestamp": "1717391490",
-        "url": "mail_display.php?timestamp=1717391490",
-        "date": "2024/06/03 13:11",
-        "department": "東華創新研究園區",
-        "author": {
-            "department": "東華創新研究園區",
-            "name": "推廣組",
-            "email": "ipark@gms.ndhu.edu.tw",
-            "phone": "03-8906955"
-        },
-        "attachmentCount": 2
     }
 ]
