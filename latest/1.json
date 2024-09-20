@@ -1,5 +1,19 @@
 [
     {
+        "title": "【代轉學生選舉委員會公告】第十四屆學生自治會補選開跑",
+        "timestamp": "1726800353",
+        "url": "mail_display.php?timestamp=1726800353",
+        "date": "2024/09/20 10:45",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "姜紫淇",
+            "email": "yaya@gms.ndhu.edu.tw",
+            "phone": "03-8906235"
+        },
+        "attachmentCount": 6
+    },
+    {
         "title": "【獎助學金申請】113-1學期 原住民族委員會原住民學生獎助學金 (Scholarship information for R.O.C aboriginal citizens)",
         "timestamp": "1726798598",
         "url": "mail_display.php?timestamp=1726798598",
@@ -194,19 +208,5 @@
             "phone": "03-8906219"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【課務組】113-2數位課程、跨領域共授實體課程及114-1跨域共授磨課師課程已開始申請，請轉知有意申請教師逕洽各開課單位！",
-        "timestamp": "1726737842",
-        "url": "mail_display.php?timestamp=1726737842",
-        "date": "2024/09/19 17:24",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "sychen@gms.ndhu.edu.tw",
-            "phone": "6122～6126"
-        },
-        "attachmentCount": 0
     }
 ]

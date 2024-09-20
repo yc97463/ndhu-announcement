@@ -1,5 +1,19 @@
 [
     {
+        "title": "迎新活動暨抽直屬活動",
+        "timestamp": "1726703704",
+        "url": "mail_display.php?timestamp=1726703704",
+        "date": "2024/09/19 07:55",
+        "department": "原住民民族學院 民族語言與傳播學系",
+        "author": {
+            "department": "原住民民族學院 民族語言與傳播學系",
+            "name": "璽祐.哈?咪",
+            "email": "411292027@gms.ndhu.edu.tw",
+            "phone": "0965726931"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113-1語傳系期初系員大會",
         "timestamp": "1726703703",
         "url": "mail_display.php?timestamp=1726703703",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "公告113-1校核心資訊科技領域-「中級程式設計-虛擬實境AA」課程尚有名額，敬請踴躍加選課程",
-        "timestamp": "1726627212",
-        "url": "mail_display.php?timestamp=1726627212",
-        "date": "2024/09/18 10:40",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 0
     }
 ]

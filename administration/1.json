@@ -1,5 +1,19 @@
 [
     {
+        "title": "【代轉學生選舉委員會公告】第十四屆學生自治會補選開跑",
+        "timestamp": "1726800353",
+        "url": "mail_display.php?timestamp=1726800353",
+        "date": "2024/09/20 10:45",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "姜紫淇",
+            "email": "yaya@gms.ndhu.edu.tw",
+            "phone": "03-8906235"
+        },
+        "attachmentCount": 6
+    },
+    {
         "title": "【公告】主計室臨時異地辦公",
         "timestamp": "1726729241",
         "url": "mail_display.php?timestamp=1726729241",
@@ -192,20 +206,6 @@
             "name": "陳宇欽",
             "email": "yuchin@gms.ndhu.edu.tw",
             "phone": "6307"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【交通安全宣導】夜間騎自行車行車應開啟燈光，請勿逆向行駛，以策安全。",
-        "timestamp": "1726190455",
-        "url": "mail_display.php?timestamp=1726190455",
-        "date": "2024/09/13 09:20",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "林嘉瑩",
-            "email": "tea7101@gms.ndhu.edu.tw",
-            "phone": "03-8906226"
         },
         "attachmentCount": 1
     }

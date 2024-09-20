@@ -1,5 +1,19 @@
 [
     {
+        "title": "幼教系迎新活動－「志學街美食大富翁」",
+        "timestamp": "1726530907",
+        "url": "mail_display.php?timestamp=1726530907",
+        "date": "2024/09/17 07:55",
+        "department": "花師教育學院 幼兒教育學系",
+        "author": {
+            "department": "花師教育學院 幼兒教育學系",
+            "name": "蕭羽芩",
+            "email": "kay200128@gms.ndhu.edu.tw",
+            "phone": "5266"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "合作學習的實踐",
         "timestamp": "1726530906",
         "url": "mail_display.php?timestamp=1726530906",
@@ -194,19 +208,5 @@
             "phone": "890-3816"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "藝術與人文領域教學探索實作工作坊－相聲與戲劇的表達藝術",
-        "timestamp": "1726459665",
-        "url": "mail_display.php?timestamp=1726459665",
-        "date": "2024/09/16 12:07",
-        "department": "音樂學系",
-        "author": {
-            "department": "音樂學系",
-            "name": "張純倩",
-            "email": "asd963741@gms.ndhu.edu.tw",
-            "phone": "03-8905168"
-        },
-        "attachmentCount": 5
     }
 ]
