@@ -1,5 +1,33 @@
 [
     {
+        "title": "【傑出校友選拔】新北市天主教恆毅高級中學辦理113年傑出校友遴選，請推薦該校畢業傑出校友參加遴選。",
+        "timestamp": "1726644131",
+        "url": "mail_display.php?timestamp=1726644131",
+        "date": "2024/09/18 15:22",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "陳美杏",
+            "email": "msing@gms.ndhu.edu.tw",
+            "phone": "6053"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【獎助學金申請】陳振武防盲教育基金會113學年度視障學生獎助學金",
+        "timestamp": "1726640788",
+        "url": "mail_display.php?timestamp=1726640788",
+        "date": "2024/09/18 14:26",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【資料庫公告】Wiley電子書全庫贊助全校師生免費使用三個月",
         "timestamp": "1726639483",
         "url": "mail_display.php?timestamp=1726639483",
@@ -180,33 +208,5 @@
             "phone": "6237"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "校外賃居住宿安全公告",
-        "timestamp": "1726622671",
-        "url": "mail_display.php?timestamp=1726622671",
-        "date": "2024/09/18 09:24",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳詩啓",
-            "email": "sam0831@gms.ndhu.edu.tw",
-            "phone": "6216"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "113學年度Rikec立革司學生會法律系原住民專班期初大會",
-        "timestamp": "1726617303",
-        "url": "mail_display.php?timestamp=1726617303",
-        "date": "2024/09/18 07:55",
-        "department": "人文社會科學學院 法律學系",
-        "author": {
-            "department": "人文社會科學學院 法律學系",
-            "name": "高蘇恩",
-            "email": "galaigai@gms.ndhu.edu.tw",
-            "phone": "5663"
-        },
-        "attachmentCount": 0
     }
 ]

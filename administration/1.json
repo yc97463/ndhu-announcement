@@ -1,5 +1,33 @@
 [
     {
+        "title": "【教育優先區】114年寒假教育優先區中小學營隊活動，校內申請即日起至113年10月18日(五)下午17:00收件截止!!! Application for the K-12 School Camp Activities during winter break of academic year 2024-2025",
+        "timestamp": "1726817852",
+        "url": "mail_display.php?timestamp=1726817852",
+        "date": "2024/09/20 15:37",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "余惠真",
+            "email": "nacy4631@gms.ndhu.edu.tw",
+            "phone": "6232"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【提醒Reminder】尊重在地文化與禮儀 Respect Local Culture and Manners",
+        "timestamp": "1726817722",
+        "url": "mail_display.php?timestamp=1726817722",
+        "date": "2024/09/20 15:35",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【活動】花師C229特色教室使用說明會：師資生試教演示與YT直播教學示範（師資培育生優先）113/10/07",
         "timestamp": "1726815163",
         "url": "mail_display.php?timestamp=1726815163",
@@ -180,33 +208,5 @@
             "phone": "038906228"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "校外賃居住宿安全公告",
-        "timestamp": "1726622671",
-        "url": "mail_display.php?timestamp=1726622671",
-        "date": "2024/09/18 09:24",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳詩啓",
-            "email": "sam0831@gms.ndhu.edu.tw",
-            "phone": "6216"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【公告】人事室臨時異地辦公",
-        "timestamp": "1726458196",
-        "url": "mail_display.php?timestamp=1726458196",
-        "date": "2024/09/16 11:43",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "劉昱淩",
-            "email": "e56187@gms.ndhu.edu.tw",
-            "phone": "890-6056"
-        },
-        "attachmentCount": 0
     }
 ]

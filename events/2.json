@@ -1,5 +1,19 @@
 [
     {
+        "title": "【東區基地活動轉知】113年「教學實踐研究計畫撰寫諮詢服務」申請",
+        "timestamp": "1726722045",
+        "url": "mail_display.php?timestamp=1726722045",
+        "date": "2024/09/19 13:00",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳禮凡",
+            "email": "lifan.chen@gms.ndhu.edu.tw",
+            "phone": "038906586"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "國家環境研究院113年淨零大專到校推廣課程",
         "timestamp": "1726717441",
         "url": "mail_display.php?timestamp=1726717441",
@@ -194,19 +208,5 @@
             "phone": "03-8905203"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "公告113-1校核心資訊科技領域-「中級程式設計-虛擬實境AA」課程尚有名額，敬請踴躍加選課程",
-        "timestamp": "1726627212",
-        "url": "mail_display.php?timestamp=1726627212",
-        "date": "2024/09/18 10:40",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 0
     }
 ]

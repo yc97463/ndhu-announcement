@@ -1,5 +1,33 @@
 [
     {
+        "title": "請授課教師提供113學年度第1學期「教師指定參考書清單」，謝謝。",
+        "timestamp": "1725859832",
+        "url": "mail_display.php?timestamp=1725859832",
+        "date": "2024/09/09 13:30",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "陳昱佐",
+            "email": "yutuchen@gms.ndhu.edu.tw",
+            "phone": "038906824"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "113-1諮商中心伴侶諮商服務開放申請",
+        "timestamp": "1725852086",
+        "url": "mail_display.php?timestamp=1725852086",
+        "date": "2024/09/09 11:21",
+        "department": "心理諮商輔導中心",
+        "author": {
+            "department": "心理諮商輔導中心",
+            "name": "魏凡涓",
+            "email": "juliawei@gms.ndhu.edu.tw",
+            "phone": "03-8906892"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【出國交換】2025年第一次國際交換學生甄選",
         "timestamp": "1725849921",
         "url": "mail_display.php?timestamp=1725849921",
@@ -180,33 +208,5 @@
             "phone": "8906252"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "113-1校核心通識課程尚有選課人數統計資料公告",
-        "timestamp": "1725599877",
-        "url": "mail_display.php?timestamp=1725599877",
-        "date": "2024/09/06 13:17",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【轉知】有關「兒童及少年性剝削防制條例」部分修正條文業奉總統113年8月7日總統華總一義字第11300069571號令公布",
-        "timestamp": "1725593048",
-        "url": "mail_display.php?timestamp=1725593048",
-        "date": "2024/09/06 11:24",
-        "department": "秘書室",
-        "author": {
-            "department": "秘書室",
-            "name": "蔡麗燕",
-            "email": "liyen@gms.ndhu.edu.tw",
-            "phone": "6005"
-        },
-        "attachmentCount": 2
     }
 ]
