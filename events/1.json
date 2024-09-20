@@ -1,5 +1,19 @@
 [
     {
+        "title": "【活動】花師C229特色教室使用說明會：師資生試教演示與YT直播教學示範（師資培育生優先）113/10/07",
+        "timestamp": "1726815163",
+        "url": "mail_display.php?timestamp=1726815163",
+        "date": "2024/09/20 14:52",
+        "department": "花師教育學院",
+        "author": {
+            "department": "花師教育學院",
+            "name": "賴姿伶",
+            "email": "tll@gms.ndhu.edu.tw",
+            "phone": "3804"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【代轉學生選舉委員會公告】第十四屆學生自治會補選開跑",
         "timestamp": "1726800353",
         "url": "mail_display.php?timestamp=1726800353",
@@ -194,19 +208,5 @@
             "phone": "038906586"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "國家環境研究院113年淨零大專到校推廣課程",
-        "timestamp": "1726717441",
-        "url": "mail_display.php?timestamp=1726717441",
-        "date": "2024/09/19 11:44",
-        "department": "永續發展中心",
-        "author": {
-            "department": "永續發展中心",
-            "name": "李敏賢",
-            "email": "sd@gms.ndhu.edu.tw",
-            "phone": "03-8905919"
-        },
-        "attachmentCount": 1
     }
 ]

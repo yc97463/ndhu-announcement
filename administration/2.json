@@ -1,5 +1,19 @@
 [
     {
+        "title": "9月23日上午10-12時壽豐消防隊於藝術學院進行消防搶救演練",
+        "timestamp": "1726452017",
+        "url": "mail_display.php?timestamp=1726452017",
+        "date": "2024/09/16 10:00",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "賴名塑",
+            "email": "a54604@gms.ndhu.edu.tw",
+            "phone": "8906378"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113年9 月17日「中秋節」，電腦教室暫不開放。The computer lab one will be closed on September 17 2024.",
         "timestamp": "1726448463",
         "url": "mail_display.php?timestamp=1726448463",
@@ -194,19 +208,5 @@
             "phone": "03-8906399"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【出納組公告】總務處出納組臨櫃收費服務至上班日下午4點截止[Cashier Group Announcement] The collection service of the Cashier Divison of the General Affairs Office ends at 4 p.m. on working days",
-        "timestamp": "1726100526",
-        "url": "mail_display.php?timestamp=1726100526",
-        "date": "2024/09/12 08:22",
-        "department": "總務處",
-        "author": {
-            "department": "總務處",
-            "name": "許紹峯",
-            "email": "yummy@gms.ndhu.edu.tw",
-            "phone": "03-8906361"
-        },
-        "attachmentCount": 0
     }
 ]

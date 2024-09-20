@@ -1,5 +1,19 @@
 [
     {
+        "title": "【體育中心公告】體育(一)第一週上課集合場地：體育館",
+        "timestamp": "1725527938",
+        "url": "mail_display.php?timestamp=1725527938",
+        "date": "2024/09/05 17:18",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "莊璦綺",
+            "email": "ichi@gms.ndhu.edu.tw",
+            "phone": "6613"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "公告113-1校核心通識課程-「職場倫理與工作態度」課程尚有名額，敬請踴躍加選課程",
         "timestamp": "1725523923",
         "url": "mail_display.php?timestamp=1725523923",
@@ -194,19 +208,5 @@
             "phone": "6122-6126"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "歡迎踴躍報名-半導體IC載板產業實務人才培育專班",
-        "timestamp": "1724291689",
-        "url": "mail_display.php?timestamp=1724291689",
-        "date": "2024/08/22 09:54",
-        "department": "材料科學與工程學系",
-        "author": {
-            "department": "材料科學與工程學系",
-            "name": "林淑玲",
-            "email": "shuling@gms.ndhu.edu.tw",
-            "phone": "03-8903204"
-        },
-        "attachmentCount": 4
     }
 ]
