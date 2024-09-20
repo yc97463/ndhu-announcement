@@ -1,5 +1,19 @@
 [
     {
+        "title": "【課務組公告】請注意113-1網路加退選時間 Please Notice the Period for Online Add/Drop Courses ",
+        "timestamp": "1725606092",
+        "url": "mail_display.php?timestamp=1725606092",
+        "date": "2024/09/06 15:01",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "健康中心已於9/2搬遷至學生活動中心C103(Health Center Relocated to Student Activity Center C103 as of September 2)",
         "timestamp": "1725600731",
         "url": "mail_display.php?timestamp=1725600731",
@@ -194,19 +208,5 @@
             "phone": "6122-6126"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【課務組】113-1學期兼任教師教學、課程停開及請假補（代）課 提醒事項",
-        "timestamp": "1725411481",
-        "url": "mail_display.php?timestamp=1725411481",
-        "date": "2024/09/04 08:58",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "宋育縈",
-            "email": "suz@gms.ndhu.edu.tw",
-            "phone": "分機6123"
-        },
-        "attachmentCount": 3
     }
 ]
