@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才公告】國立東華大學總務處環保組徵聘【校務基金職務代理人】",
+        "timestamp": "1726644682",
+        "url": "mail_display.php?timestamp=1726644682",
+        "date": "2024/09/18 15:31",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "許智翔",
+            "email": "cocco3746@gms.ndhu.edu.tw",
+            "phone": "03-8906399"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【傑出校友選拔】新北市天主教恆毅高級中學辦理113年傑出校友遴選，請推薦該校畢業傑出校友參加遴選。",
         "timestamp": "1726644131",
         "url": "mail_display.php?timestamp=1726644131",
@@ -194,19 +208,5 @@
             "phone": "038906228"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "本校新簽訂之花蓮牛排以及青田の蔬食特約商店公告。",
-        "timestamp": "1726622927",
-        "url": "mail_display.php?timestamp=1726622927",
-        "date": "2024/09/18 09:28",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "賴榮璉",
-            "email": "chrishnalai@gms.ndhu.edu.tw",
-            "phone": "6237"
-        },
-        "attachmentCount": 3
     }
 ]

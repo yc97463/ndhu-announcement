@@ -1,5 +1,19 @@
 [
     {
+        "title": "湖畔餐廳二樓餐廳新開幕公告",
+        "timestamp": "1726818352",
+        "url": "mail_display.php?timestamp=1726818352",
+        "date": "2024/09/20 15:45",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "賴榮璉",
+            "email": "chrishnalai@gms.ndhu.edu.tw",
+            "phone": "6237"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【教育優先區】114年寒假教育優先區中小學營隊活動，校內申請即日起至113年10月18日(五)下午17:00收件截止!!! Application for the K-12 School Camp Activities during winter break of academic year 2024-2025",
         "timestamp": "1726817852",
         "url": "mail_display.php?timestamp=1726817852",
@@ -194,19 +208,5 @@
             "phone": "8906607"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "本校於113年「國家防災日」實施防震避難演練，請全校人員共同執行災防演練。(Our school will conduct earthquake prevention and evacuation drills on the 2024 National Disaster Prevention Day, and all school staff will be asked to perform the disaster prevention drills together.)",
-        "timestamp": "1726623675",
-        "url": "mail_display.php?timestamp=1726623675",
-        "date": "2024/09/18 09:41",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "吳昭毅",
-            "email": "wuyi12831@gms.ndhu.edu.tw",
-            "phone": "038906228"
-        },
-        "attachmentCount": 1
     }
 ]
