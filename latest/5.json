@@ -1,5 +1,33 @@
 [
     {
+        "title": "幼教系迎新活動－新生宿營「幼cool幼校-移地訓練」",
+        "timestamp": "1726530909",
+        "url": "mail_display.php?timestamp=1726530909",
+        "date": "2024/09/17 07:55",
+        "department": "花師教育學院 幼兒教育學系",
+        "author": {
+            "department": "花師教育學院 幼兒教育學系",
+            "name": "蕭羽芩",
+            "email": "kay200128@gms.ndhu.edu.tw",
+            "phone": "5266"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "幼教系迎新活動－「志學街美食大富翁」及宿營「幼cool幼校-移地訓練」之工作人員",
+        "timestamp": "1726530908",
+        "url": "mail_display.php?timestamp=1726530908",
+        "date": "2024/09/17 07:55",
+        "department": "花師教育學院 幼兒教育學系",
+        "author": {
+            "department": "花師教育學院 幼兒教育學系",
+            "name": "蕭羽芩",
+            "email": "kay200128@gms.ndhu.edu.tw",
+            "phone": "5266"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "幼教系迎新活動－「志學街美食大富翁」",
         "timestamp": "1726530907",
         "url": "mail_display.php?timestamp=1726530907",
@@ -180,33 +208,5 @@
             "phone": "03-8906219"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【健康促進活動】CPR+AED證照班，取得兩年效期合格證明，報名從速!",
-        "timestamp": "1726461994",
-        "url": "mail_display.php?timestamp=1726461994",
-        "date": "2024/09/16 12:46",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【徵才公告】國立東華大學數位學伴中心 - 113-1 學期大學伴招募",
-        "timestamp": "1726460267",
-        "url": "mail_display.php?timestamp=1726460267",
-        "date": "2024/09/16 12:17",
-        "department": "花師教育學院",
-        "author": {
-            "department": "花師教育學院",
-            "name": "李宛玲",
-            "email": "etutor_c226@gms.ndhu.edu.tw",
-            "phone": "890-3816"
-        },
-        "attachmentCount": 6
     }
 ]

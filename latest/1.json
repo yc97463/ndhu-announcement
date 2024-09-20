@@ -1,5 +1,33 @@
 [
     {
+        "title": "[Student Dormitory] 10/1 Smart Power System Implementation Notes and Precautions",
+        "timestamp": "1726803400",
+        "url": "mail_display.php?timestamp=1726803400",
+        "date": "2024/09/20 11:36",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳怡秀",
+            "email": "yishoue@gms.ndhu.edu.tw",
+            "phone": "6212"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【學生宿舍】10/1智慧電力系統啟用配合與注意事項",
+        "timestamp": "1726803339",
+        "url": "mail_display.php?timestamp=1726803339",
+        "date": "2024/09/20 11:35",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳怡秀",
+            "email": "yishoue@gms.ndhu.edu.tw",
+            "phone": "6212"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【代轉學生選舉委員會公告】第十四屆學生自治會補選開跑",
         "timestamp": "1726800353",
         "url": "mail_display.php?timestamp=1726800353",
@@ -180,33 +208,5 @@
             "phone": "3006"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "體育中心 113-1 推廣教育課程招生中",
-        "timestamp": "1726763118",
-        "url": "mail_display.php?timestamp=1726763118",
-        "date": "2024/09/20 00:25",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "楊永義",
-            "email": "yyy@gms.ndhu.edu.tw",
-            "phone": "6612"
-        },
-        "attachmentCount": 11
-    },
-    {
-        "title": "【獎助學金申請】羅許基金會羅東博愛醫院113年第二次獎助學金 (限宜蘭縣籍家境困難)",
-        "timestamp": "1726754567",
-        "url": "mail_display.php?timestamp=1726754567",
-        "date": "2024/09/19 22:02",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]

@@ -1,5 +1,33 @@
 [
     {
+        "title": "[Student Dormitory] 10/1 Smart Power System Implementation Notes and Precautions",
+        "timestamp": "1726803400",
+        "url": "mail_display.php?timestamp=1726803400",
+        "date": "2024/09/20 11:36",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳怡秀",
+            "email": "yishoue@gms.ndhu.edu.tw",
+            "phone": "6212"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【學生宿舍】10/1智慧電力系統啟用配合與注意事項",
+        "timestamp": "1726803339",
+        "url": "mail_display.php?timestamp=1726803339",
+        "date": "2024/09/20 11:35",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳怡秀",
+            "email": "yishoue@gms.ndhu.edu.tw",
+            "phone": "6212"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【代轉學生選舉委員會公告】第十四屆學生自治會補選開跑",
         "timestamp": "1726800353",
         "url": "mail_display.php?timestamp=1726800353",
@@ -180,33 +208,5 @@
             "phone": "8906774"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【圖書館公告】中秋節【113.09.17 (二)】休館一日！ Library will be Closed for Mid-autumn festival on September 17, 2024",
-        "timestamp": "1726302218",
-        "url": "mail_display.php?timestamp=1726302218",
-        "date": "2024/09/14 16:23",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "詹",
-            "email": "ipchan@gms.ndhu.edu.tw",
-            "phone": "6813"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "中秋節(9/17)暫停垃圾清運及校內廠商營業時間公告",
-        "timestamp": "1726204645",
-        "url": "mail_display.php?timestamp=1726204645",
-        "date": "2024/09/13 13:17",
-        "department": "總務處",
-        "author": {
-            "department": "總務處",
-            "name": "陳宇欽",
-            "email": "yuchin@gms.ndhu.edu.tw",
-            "phone": "6307"
-        },
-        "attachmentCount": 1
     }
 ]
