@@ -1,5 +1,19 @@
 [
     {
+        "title": "原民新生運動會暨迎新晚會(限工作人員報名)",
+        "timestamp": "1726530910",
+        "url": "mail_display.php?timestamp=1726530910",
+        "date": "2024/09/17 07:55",
+        "department": "學務處 原住民族學生資源中心",
+        "author": {
+            "department": "學務處 原住民族學生資源中心",
+            "name": "曾暐娟",
+            "email": "kinu@gms.ndhu.edu.tw",
+            "phone": "(03)890-5759"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "幼教系迎新活動－新生宿營「幼cool幼校-移地訓練」",
         "timestamp": "1726530909",
         "url": "mail_display.php?timestamp=1726530909",
@@ -194,19 +208,5 @@
             "phone": "03-895492"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【獎助學金申請】澎湖縣113-1清寒優秀學生獎學金 (限澎湖縣籍)",
-        "timestamp": "1726465468",
-        "url": "mail_display.php?timestamp=1726465468",
-        "date": "2024/09/16 13:44",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "管財班系學會服務",
+        "timestamp": "1726790101",
+        "url": "mail_display.php?timestamp=1726790101",
+        "date": "2024/09/20 07:55",
+        "department": "管理學院 管理科學與財金國際學士學位學程",
+        "author": {
+            "department": "管理學院 管理科學與財金國際學士學位學程",
+            "name": "林逸潔",
+            "email": "jamielin0902@gms.ndhu.edu.tw",
+            "phone": "3006"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "體育中心 113-1 推廣教育課程招生中",
         "timestamp": "1726763118",
         "url": "mail_display.php?timestamp=1726763118",
@@ -192,20 +206,6 @@
             "name": "楊鵑穎",
             "email": "ringo@gms.ndhu.edu.tw",
             "phone": "5822"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【發社系】112-1民族講座：教授為什麼沒告訴我？論文寫作我思我做",
-        "timestamp": "1726703707",
-        "url": "mail_display.php?timestamp=1726703707",
-        "date": "2024/09/19 07:55",
-        "department": "原住民民族學院 民族發展與社會工作學系",
-        "author": {
-            "department": "原住民民族學院 民族發展與社會工作學系",
-            "name": "郭雅婷",
-            "email": "tefi@gms.ndhu.edu.tw",
-            "phone": "03-8905708 鐘助理"
         },
         "attachmentCount": 0
     }
