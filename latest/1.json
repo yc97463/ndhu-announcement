@@ -1,5 +1,19 @@
 [
     {
+        "title": "【資安訊息公告】有關Google Map單位名稱遭變更處理方式說明",
+        "timestamp": "1727046626",
+        "url": "mail_display.php?timestamp=1727046626",
+        "date": "2024/09/23 07:10",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "李宇峰",
+            "email": "eric@mail.ndhu.edu.tw",
+            "phone": "03-8906721"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "瑜伽呼吸與梵唱",
         "timestamp": "1727009195",
         "url": "mail_display.php?timestamp=1727009195",
@@ -194,19 +208,5 @@
             "phone": "03890-6217"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "湖畔餐廳二樓餐廳新開幕公告",
-        "timestamp": "1726818352",
-        "url": "mail_display.php?timestamp=1726818352",
-        "date": "2024/09/20 15:45",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "賴榮璉",
-            "email": "chrishnalai@gms.ndhu.edu.tw",
-            "phone": "6237"
-        },
-        "attachmentCount": 2
     }
 ]
