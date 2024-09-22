@@ -1,5 +1,19 @@
 [
     {
+        "title": "【113-1語言中心校園英語能力模擬測驗】10/19- English Score (Core Skills) (線上測驗)",
+        "timestamp": "1726466227",
+        "url": "mail_display.php?timestamp=1726466227",
+        "date": "2024/09/16 13:57",
+        "department": "語言中心",
+        "author": {
+            "department": "語言中心",
+            "name": "林瑜珊",
+            "email": "lc@gms.ndhu.edu.tw",
+            "phone": "03-895492"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【健康促進活動】CPR+AED證照班，取得兩年效期合格證明，報名從速!",
         "timestamp": "1726461994",
         "url": "mail_display.php?timestamp=1726461994",
@@ -194,19 +208,5 @@
             "phone": "03-8906226"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "113級新生迎新活動(限工作人員報名使用)",
-        "timestamp": "1726185302",
-        "url": "mail_display.php?timestamp=1726185302",
-        "date": "2024/09/13 07:55",
-        "department": "理工學院 生化暨分子醫學科學系",
-        "author": {
-            "department": "理工學院 生化暨分子醫學科學系",
-            "name": "元淑英",
-            "email": "syyuan@gms.ndhu.edu.tw",
-            "phone": "3632"
-        },
-        "attachmentCount": 0
     }
 ]
