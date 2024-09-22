@@ -1,5 +1,33 @@
 [
     {
+        "title": "運動零食・瘋運動",
+        "timestamp": "1726790110",
+        "url": "mail_display.php?timestamp=1726790110",
+        "date": "2024/09/20 07:55",
+        "department": "學務處 衛生保健組",
+        "author": {
+            "department": "學務處 衛生保健組",
+            "name": "吳星穎",
+            "email": "carmier@gms.ndhu.edu.tw",
+            "phone": "8906252"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "10/24《明白歌》東華大學校園放映暨座談會",
+        "timestamp": "1726790109",
+        "url": "mail_display.php?timestamp=1726790109",
+        "date": "2024/09/20 07:55",
+        "department": "人文社會科學學院 華文文學系",
+        "author": {
+            "department": "人文社會科學學院 華文文學系",
+            "name": "伍佳雯",
+            "email": "sl@gms.ndhu.edu.tw",
+            "phone": "＃5262"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "第二場~定期捐血保障你我~熱血行動!!!",
         "timestamp": "1726790108",
         "url": "mail_display.php?timestamp=1726790108",
@@ -178,34 +206,6 @@
             "name": "蔡語宸",
             "email": "yuchen@gms.ndhu.edu.tw",
             "phone": "5512"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【發社系】你為什麼要來?-1114學年度碩士班甄試招生說明會",
-        "timestamp": "1726703708",
-        "url": "mail_display.php?timestamp=1726703708",
-        "date": "2024/09/19 07:55",
-        "department": "原住民民族學院 民族發展與社會工作學系",
-        "author": {
-            "department": "原住民民族學院 民族發展與社會工作學系",
-            "name": "楊鵑穎",
-            "email": "ringo@gms.ndhu.edu.tw",
-            "phone": "5822"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【發社系】112-1民族講座：教授為什麼沒告訴我？論文寫作我思我做",
-        "timestamp": "1726703707",
-        "url": "mail_display.php?timestamp=1726703707",
-        "date": "2024/09/19 07:55",
-        "department": "原住民民族學院 民族發展與社會工作學系",
-        "author": {
-            "department": "原住民民族學院 民族發展與社會工作學系",
-            "name": "郭雅婷",
-            "email": "tefi@gms.ndhu.edu.tw",
-            "phone": "03-8905708 鐘助理"
         },
         "attachmentCount": 0
     }
