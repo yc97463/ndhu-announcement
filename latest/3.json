@@ -1,5 +1,19 @@
 [
     {
+        "title": "【Student Dormitory Announcement】Please claim personal belongings in the storage area as soon as possible",
+        "timestamp": "1726821766",
+        "url": "mail_display.php?timestamp=1726821766",
+        "date": "2024/09/20 16:42",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "鍾佩玲",
+            "email": "free22011@gms.ndhu.edu.tw",
+            "phone": "03890-6217"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【學生宿舍】未領取寄放宿舍行李與物品之同學，請儘速領取。",
         "timestamp": "1726821706",
         "url": "mail_display.php?timestamp=1726821706",
@@ -192,20 +206,6 @@
             "name": "吳星穎",
             "email": "carmier@gms.ndhu.edu.tw",
             "phone": "8906252"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "10/24《明白歌》東華大學校園放映暨座談會",
-        "timestamp": "1726790109",
-        "url": "mail_display.php?timestamp=1726790109",
-        "date": "2024/09/20 07:55",
-        "department": "人文社會科學學院 華文文學系",
-        "author": {
-            "department": "人文社會科學學院 華文文學系",
-            "name": "伍佳雯",
-            "email": "sl@gms.ndhu.edu.tw",
-            "phone": "＃5262"
         },
         "attachmentCount": 0
     }

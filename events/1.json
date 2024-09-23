@@ -1,9 +1,23 @@
 [
     {
+        "title": "【113-1法語角系列】French for Beginners ",
+        "timestamp": "1727082255",
+        "url": "mail_display.php?timestamp=1727082255",
+        "date": "2024/09/23 17:04",
+        "department": "語言中心",
+        "author": {
+            "department": "語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "國立東華大學2024年校慶系列活動_羽球賽",
-        "timestamp": "1727074913",
-        "url": "mail_display.php?timestamp=1727074913",
-        "date": "2024/09/23 15:01",
+        "timestamp": "1727081917",
+        "url": "mail_display.php?timestamp=1727081917",
+        "date": "2024/09/23 16:58",
         "department": "體育中心",
         "author": {
             "department": "體育中心",
@@ -192,20 +206,6 @@
             "name": "溫鳳婷",
             "email": "fengting0804@gms.ndhu.edu.tw",
             "phone": "6282"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "112學年度自資系實習課程成果分享會 ",
-        "timestamp": "1726876505",
-        "url": "mail_display.php?timestamp=1726876505",
-        "date": "2024/09/21 07:55",
-        "department": "環境暨海洋學院 自然資源與環境學系",
-        "author": {
-            "department": "環境暨海洋學院 自然資源與環境學系",
-            "name": "程曦",
-            "email": "chengc831004@gms.ndhu.edu.tw",
-            "phone": "(03)890-3322"
         },
         "attachmentCount": 0
     }

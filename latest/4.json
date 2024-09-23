@@ -1,5 +1,19 @@
 [
     {
+        "title": "10/24《明白歌》東華大學校園放映暨座談會",
+        "timestamp": "1726790109",
+        "url": "mail_display.php?timestamp=1726790109",
+        "date": "2024/09/20 07:55",
+        "department": "人文社會科學學院 華文文學系",
+        "author": {
+            "department": "人文社會科學學院 華文文學系",
+            "name": "伍佳雯",
+            "email": "sl@gms.ndhu.edu.tw",
+            "phone": "＃5262"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "第二場~定期捐血保障你我~熱血行動!!!",
         "timestamp": "1726790108",
         "url": "mail_display.php?timestamp=1726790108",
@@ -194,19 +208,5 @@
             "phone": "5603"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【東區基地活動轉知】113年「教學實踐研究計畫撰寫諮詢服務」申請",
-        "timestamp": "1726722045",
-        "url": "mail_display.php?timestamp=1726722045",
-        "date": "2024/09/19 13:00",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "陳禮凡",
-            "email": "lifan.chen@gms.ndhu.edu.tw",
-            "phone": "038906586"
-        },
-        "attachmentCount": 4
     }
 ]
