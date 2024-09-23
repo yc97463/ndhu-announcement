@@ -1,5 +1,19 @@
 [
     {
+        "title": "【演講公告】玩藝數的萬富STEAM",
+        "timestamp": "1727060459",
+        "url": "mail_display.php?timestamp=1727060459",
+        "date": "2024/09/23 11:00",
+        "department": "科學教育中心",
+        "author": {
+            "department": "科學教育中心",
+            "name": "鄭立婷",
+            "email": "liting032@gms.ndhu.edu.tw",
+            "phone": "03-8903850"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "教育部於5月至12月止進行電子郵件社交工程演練",
         "timestamp": "1727058227",
         "url": "mail_display.php?timestamp=1727058227",
@@ -192,20 +206,6 @@
             "name": "鄭立婷",
             "email": "liting032@gms.ndhu.edu.tw",
             "phone": "3850"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "[CSIE] Traffic Safety Orientation",
-        "timestamp": "1726876508",
-        "url": "mail_display.php?timestamp=1726876508",
-        "date": "2024/09/21 07:55",
-        "department": "理工學院 資訊工程學系",
-        "author": {
-            "department": "理工學院 資訊工程學系",
-            "name": "謝嘉文",
-            "email": "cbjiawen@gms.ndhu.edu.tw",
-            "phone": "5026"
         },
         "attachmentCount": 0
     }
