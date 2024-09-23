@@ -1,5 +1,47 @@
 [
     {
+        "title": "(社會系)國科會大專生研究計畫分享會",
+        "timestamp": "1726876507",
+        "url": "mail_display.php?timestamp=1726876507",
+        "date": "2024/09/21 07:55",
+        "department": "人文社會科學學院 社會學系",
+        "author": {
+            "department": "人文社會科學學院 社會學系",
+            "name": "葉珮芳",
+            "email": "",
+            "phone": "謝明臻  (email: 41124B007@gms.ndhu.edu.tw)"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "🎉考選部國家考試宣導-職涯規劃-邁向公職之路",
+        "timestamp": "1726876506",
+        "url": "mail_display.php?timestamp=1726876506",
+        "date": "2024/09/21 07:55",
+        "department": "學務處 畢業生及校友服務組",
+        "author": {
+            "department": "學務處 畢業生及校友服務組",
+            "name": "溫鳳婷",
+            "email": "fengting0804@gms.ndhu.edu.tw",
+            "phone": "6282"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "112學年度自資系實習課程成果分享會 ",
+        "timestamp": "1726876505",
+        "url": "mail_display.php?timestamp=1726876505",
+        "date": "2024/09/21 07:55",
+        "department": "環境暨海洋學院 自然資源與環境學系",
+        "author": {
+            "department": "環境暨海洋學院 自然資源與環境學系",
+            "name": "程曦",
+            "email": "chengc831004@gms.ndhu.edu.tw",
+            "phone": "(03)890-3322"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "「原」來這樣存－金融培力班",
         "timestamp": "1726876504",
         "url": "mail_display.php?timestamp=1726876504",
@@ -166,47 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "(路權修正)志學門路口交通改善工程完工公告",
-        "timestamp": "1726804379",
-        "url": "mail_display.php?timestamp=1726804379",
-        "date": "2024/09/20 11:52",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "黃章傑",
-            "email": "cotycafe@gms.ndhu.edu.tw",
-            "phone": "038905778"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "[Student Dormitory] 10/1 Smart Power System Implementation Notes and Precautions",
-        "timestamp": "1726803400",
-        "url": "mail_display.php?timestamp=1726803400",
-        "date": "2024/09/20 11:36",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳怡秀",
-            "email": "yishoue@gms.ndhu.edu.tw",
-            "phone": "6212"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【學生宿舍】10/1智慧電力系統啟用配合與注意事項",
-        "timestamp": "1726803339",
-        "url": "mail_display.php?timestamp=1726803339",
-        "date": "2024/09/20 11:35",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳怡秀",
-            "email": "yishoue@gms.ndhu.edu.tw",
-            "phone": "6212"
-        },
-        "attachmentCount": 1
     }
 ]

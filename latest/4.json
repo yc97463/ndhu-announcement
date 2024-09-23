@@ -1,5 +1,47 @@
 [
     {
+        "title": "管財班系學會服務",
+        "timestamp": "1726790101",
+        "url": "mail_display.php?timestamp=1726790101",
+        "date": "2024/09/20 07:55",
+        "department": "管理學院 管理科學與財金國際學士學位學程",
+        "author": {
+            "department": "管理學院 管理科學與財金國際學士學位學程",
+            "name": "林逸潔",
+            "email": "jamielin0902@gms.ndhu.edu.tw",
+            "phone": "3006"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "體育中心 113-1 推廣教育課程招生中",
+        "timestamp": "1726763118",
+        "url": "mail_display.php?timestamp=1726763118",
+        "date": "2024/09/20 00:25",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "楊永義",
+            "email": "yyy@gms.ndhu.edu.tw",
+            "phone": "6612"
+        },
+        "attachmentCount": 11
+    },
+    {
+        "title": "【獎助學金申請】羅許基金會羅東博愛醫院113年第二次獎助學金 (限宜蘭縣籍家境困難)",
+        "timestamp": "1726754567",
+        "url": "mail_display.php?timestamp=1726754567",
+        "date": "2024/09/19 22:02",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【課務組】113-2數位課程、跨領域共授實體課程及114-1跨域共授磨課師課程已開始申請，請轉知有意申請教師逕洽各開課單位！",
         "timestamp": "1726737842",
         "url": "mail_display.php?timestamp=1726737842",
@@ -164,48 +206,6 @@
             "name": "楊鵑穎",
             "email": "ringo@gms.ndhu.edu.tw",
             "phone": "5822"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【發社系】112-1民族講座：教授為什麼沒告訴我？論文寫作我思我做",
-        "timestamp": "1726703707",
-        "url": "mail_display.php?timestamp=1726703707",
-        "date": "2024/09/19 07:55",
-        "department": "原住民民族學院 民族發展與社會工作學系",
-        "author": {
-            "department": "原住民民族學院 民族發展與社會工作學系",
-            "name": "郭雅婷",
-            "email": "tefi@gms.ndhu.edu.tw",
-            "phone": "03-8905708 鐘助理"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "自資系專題演講-From Jena to Hualien: Studying the Mysteries of Once Deeply Subducted Rocks",
-        "timestamp": "1726703706",
-        "url": "mail_display.php?timestamp=1726703706",
-        "date": "2024/09/19 07:55",
-        "department": "環境暨海洋學院 自然資源與環境學系",
-        "author": {
-            "department": "環境暨海洋學院 自然資源與環境學系",
-            "name": "夏懿心",
-            "email": "heart630@gms.ndhu.edu.tw",
-            "phone": "8903277"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "花師C229特色教室使用說明會：師資生試教演示與YT直播教學示範（師資培育生優生）113/10/07",
-        "timestamp": "1726703705",
-        "url": "mail_display.php?timestamp=1726703705",
-        "date": "2024/09/19 07:55",
-        "department": "花師教育學院 ",
-        "author": {
-            "department": "花師教育學院",
-            "name": "賴姿伶",
-            "email": "tll@gms.ndhu.edu.tw",
-            "phone": "3804"
         },
         "attachmentCount": 0
     }

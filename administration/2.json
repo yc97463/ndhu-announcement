@@ -1,5 +1,33 @@
 [
     {
+        "title": "【課務組通知】113-1加退選後課程確認及加簽作業(9/20-9/27) 【Curriculum Division】Course Confirm Online and Add Course Requests (Sep. 20-Sep. 27)",
+        "timestamp": "1726709581",
+        "url": "mail_display.php?timestamp=1726709581",
+        "date": "2024/09/19 09:33",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "行政大樓於9月20日(五)上午9:21進行「國家防災日」防震演練通知 (再次提醒)",
+        "timestamp": "1726705240",
+        "url": "mail_display.php?timestamp=1726705240",
+        "date": "2024/09/19 08:20",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "賴榮璉",
+            "email": "chrishnalai@gms.ndhu.edu.tw",
+            "phone": "6237"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【資料庫公告】Wiley電子書全庫贊助全校師生免費使用三個月",
         "timestamp": "1726639483",
         "url": "mail_display.php?timestamp=1726639483",
@@ -180,33 +208,5 @@
             "phone": "6212"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "行政大樓於9月20日(五)上午9:21進行「國家防災日」防震演練通知",
-        "timestamp": "1726186830",
-        "url": "mail_display.php?timestamp=1726186830",
-        "date": "2024/09/13 08:20",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "賴榮璉",
-            "email": "chrishnalai@gms.ndhu.edu.tw",
-            "phone": "6237"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "請同仁謹慎面對校內資訊之提供",
-        "timestamp": "1726126424",
-        "url": "mail_display.php?timestamp=1726126424",
-        "date": "2024/09/12 15:33",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "楊惠雯",
-            "email": "hwyang@gms.ndhu.edu.tw",
-            "phone": "6061"
-        },
-        "attachmentCount": 0
     }
 ]
