@@ -1,5 +1,61 @@
 [
     {
+        "title": "#METOO：從神話看生活裡的性騷擾",
+        "timestamp": "1726530902",
+        "url": "mail_display.php?timestamp=1726530902",
+        "date": "2024/09/17 07:55",
+        "department": "心理諮商輔導中心 預防推廣組",
+        "author": {
+            "department": "心理諮商輔導中心 預防推廣組",
+            "name": "魏凡涓",
+            "email": "juliawei@gms.ndhu.edu.tw",
+            "phone": "03-8906892"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【敬邀參加】藝術學院2024教授聯展開幕活動",
+        "timestamp": "1726530901",
+        "url": "mail_display.php?timestamp=1726530901",
+        "date": "2024/09/17 07:55",
+        "department": "藝術學院 ",
+        "author": {
+            "department": "藝術學院",
+            "name": "黃惠瑄",
+            "email": "syuan7517@gms.ndhu.edu.tw",
+            "phone": "5103"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "🦕花蓮玩具物流中心-9月萬代恐龍模型DIY活動🦕",
+        "timestamp": "1726474226",
+        "url": "mail_display.php?timestamp=1726474226",
+        "date": "2024/09/16 16:10",
+        "department": "管理學院",
+        "author": {
+            "department": "管理學院",
+            "name": "東華玩具樂園物流中心",
+            "email": "410825011@gms.ndhu.edu.tw",
+            "phone": "03-890-3772"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "113-114年「海外人才經驗分享及國際連結(TaiwanGPS)計畫」留遊學宣導說明會及學人分享會活動",
+        "timestamp": "1726469124",
+        "url": "mail_display.php?timestamp=1726469124",
+        "date": "2024/09/16 14:45",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 6
+    },
+    {
         "title": "【113-1語言中心校園英語能力模擬測驗】10/19- English Score (Core Skills) (線上測驗)",
         "timestamp": "1726466227",
         "url": "mail_display.php?timestamp=1726466227",
@@ -152,61 +208,5 @@
             "phone": "8905122"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【教育大數據微學程實務課推廣】",
-        "timestamp": "1726217146",
-        "url": "mail_display.php?timestamp=1726217146",
-        "date": "2024/09/13 16:45",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "黃小姐",
-            "email": "chinghua@gms.ndhu.edu.tw",
-            "phone": "6579"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "東華e學苑教師端線上使用說明會",
-        "timestamp": "1726216654",
-        "url": "mail_display.php?timestamp=1726216654",
-        "date": "2024/09/13 16:37",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【原資轉知】「原潮新生－113年度新北市原住民族創(就)業研習暨社會教育系列活動」",
-        "timestamp": "1726199011",
-        "url": "mail_display.php?timestamp=1726199011",
-        "date": "2024/09/13 11:43",
-        "department": "原住民族學生資源中心",
-        "author": {
-            "department": "原住民族學生資源中心",
-            "name": "吳倩茹",
-            "email": "isrc@gms.ndhu.edu.tw",
-            "phone": "(03)890-5707"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "113學年度【初領車證新生交通安全宣導活動】9月23日第一場次，有意申領校園車輛識別證同學，請儘速上網報名。",
-        "timestamp": "1726189424",
-        "url": "mail_display.php?timestamp=1726189424",
-        "date": "2024/09/13 09:03",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "林嘉瑩",
-            "email": "tea7101@gms.ndhu.edu.tw",
-            "phone": "03-8906226"
-        },
-        "attachmentCount": 1
     }
 ]

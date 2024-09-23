@@ -1,5 +1,19 @@
 [
     {
+        "title": "📢📢🔆113-1學期【起飛免費學習輔導課程，精彩好康不容錯過，快來把握機會！】🔆",
+        "timestamp": "1725530737",
+        "url": "mail_display.php?timestamp=1725530737",
+        "date": "2024/09/05 18:05",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "鄭淑亭",
+            "email": "ting@gms.ndhu.edu.tw",
+            "phone": "03-8906215"
+        },
+        "attachmentCount": 7
+    },
+    {
         "title": "【體育中心公告】體育(一)第一週上課集合場地：體育館",
         "timestamp": "1725527938",
         "url": "mail_display.php?timestamp=1725527938",
@@ -194,19 +208,5 @@
             "phone": "8906607"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【教務處課務組】各學制新生(含轉學生、復學生)113-1網路選課  Freshmen Online Preliminary Course Selection ",
-        "timestamp": "1724652688",
-        "url": "mail_display.php?timestamp=1724652688",
-        "date": "2024/08/26 14:11",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "utd1003@gms.ndhu.edu.tw",
-            "phone": "6122-6126"
-        },
-        "attachmentCount": 0
     }
 ]

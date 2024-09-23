@@ -1,5 +1,61 @@
 [
     {
+        "title": "體育中心 113-1 推廣教育課程招生中",
+        "timestamp": "1726763118",
+        "url": "mail_display.php?timestamp=1726763118",
+        "date": "2024/09/20 00:25",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "楊永義",
+            "email": "yyy@gms.ndhu.edu.tw",
+            "phone": "6612"
+        },
+        "attachmentCount": 11
+    },
+    {
+        "title": "【東區基地活動轉知】113年「教學實踐研究計畫撰寫諮詢服務」申請",
+        "timestamp": "1726722045",
+        "url": "mail_display.php?timestamp=1726722045",
+        "date": "2024/09/19 13:00",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳禮凡",
+            "email": "lifan.chen@gms.ndhu.edu.tw",
+            "phone": "038906586"
+        },
+        "attachmentCount": 4
+    },
+    {
+        "title": "國家環境研究院113年淨零大專到校推廣課程",
+        "timestamp": "1726717441",
+        "url": "mail_display.php?timestamp=1726717441",
+        "date": "2024/09/19 11:44",
+        "department": "永續發展中心",
+        "author": {
+            "department": "永續發展中心",
+            "name": "李敏賢",
+            "email": "sd@gms.ndhu.edu.tw",
+            "phone": "03-8905919"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "［徵求］20241025 科普列車🚅服務學習及跨域自主志工",
+        "timestamp": "1726716616",
+        "url": "mail_display.php?timestamp=1726716616",
+        "date": "2024/09/19 11:30",
+        "department": "環境學院",
+        "author": {
+            "department": "環境學院",
+            "name": "羅郁庭",
+            "email": "erntmap@gms.ndhu.edu.tw",
+            "phone": "8905179"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "國立東華大學公共行政學系113-1實習心得發表會",
         "timestamp": "1726703709",
         "url": "mail_display.php?timestamp=1726703709",
@@ -152,61 +208,5 @@
             "phone": "5107"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【防災演練】人社樓館113年度地震防災演練公告與說明 / 2024 Humanities and Social Sciences Buildings Earthquake Evacuation Drill Notice",
-        "timestamp": "1726628537",
-        "url": "mail_display.php?timestamp=1726628537",
-        "date": "2024/09/18 11:02",
-        "department": "人文社會科學學院",
-        "author": {
-            "department": "人文社會科學學院",
-            "name": "姜妃澤",
-            "email": "ftc1029@gms.ndhu.edu.tw",
-            "phone": "03-8905203"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "公告113-1校核心資訊科技領域-「中級程式設計-虛擬實境AA」課程尚有名額，敬請踴躍加選課程",
-        "timestamp": "1726627212",
-        "url": "mail_display.php?timestamp=1726627212",
-        "date": "2024/09/18 10:40",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "轉知臺灣國立大學系統辦理「跨校雙語TA增能工作坊全國巡迴場」活動",
-        "timestamp": "1726625990",
-        "url": "mail_display.php?timestamp=1726625990",
-        "date": "2024/09/18 10:19",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "utd1003@gms.ndhu.edu.tw",
-            "phone": "6122-6126"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "113學年度Rikec立革司學生會法律系原住民專班期初大會",
-        "timestamp": "1726617303",
-        "url": "mail_display.php?timestamp=1726617303",
-        "date": "2024/09/18 07:55",
-        "department": "人文社會科學學院 法律學系",
-        "author": {
-            "department": "人文社會科學學院 法律學系",
-            "name": "高蘇恩",
-            "email": "galaigai@gms.ndhu.edu.tw",
-            "phone": "5663"
-        },
-        "attachmentCount": 0
     }
 ]
