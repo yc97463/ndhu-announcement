@@ -1,5 +1,19 @@
 [
     {
+        "title": " 教師潛能測試暨教學實務案例工作坊",
+        "timestamp": "1726790103",
+        "url": "mail_display.php?timestamp=1726790103",
+        "date": "2024/09/20 07:55",
+        "department": "師資培育中心 國小、幼教與特教學程組",
+        "author": {
+            "department": "師資培育中心 國小、幼教與特教學程組",
+            "name": "陳淑貞",
+            "email": "sjchen@gms.ndhu.edu.tw",
+            "phone": "6636"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "Makotaay生態藝術村探訪走讀活動",
         "timestamp": "1726790102",
         "url": "mail_display.php?timestamp=1726790102",
@@ -194,19 +208,5 @@
             "phone": "6237"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "國立東華大學公共行政學系113-1實習心得發表會",
-        "timestamp": "1726703709",
-        "url": "mail_display.php?timestamp=1726703709",
-        "date": "2024/09/19 07:55",
-        "department": "人文社會科學學院 公共行政學系",
-        "author": {
-            "department": "人文社會科學學院 公共行政學系",
-            "name": "蔡語宸",
-            "email": "yuchen@gms.ndhu.edu.tw",
-            "phone": "5512"
-        },
-        "attachmentCount": 0
     }
 ]

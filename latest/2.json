@@ -1,5 +1,19 @@
 [
     {
+        "title": "玩藝數的萬富STEAM",
+        "timestamp": "1726876509",
+        "url": "mail_display.php?timestamp=1726876509",
+        "date": "2024/09/21 07:55",
+        "department": "花師教育學院 教育與潛能開發學系",
+        "author": {
+            "department": "花師教育學院 教育與潛能開發學系",
+            "name": "鄭立婷",
+            "email": "liting032@gms.ndhu.edu.tw",
+            "phone": "3850"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "[CSIE] Traffic Safety Orientation",
         "timestamp": "1726876508",
         "url": "mail_display.php?timestamp=1726876508",
@@ -194,19 +208,5 @@
             "phone": "3804"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【徵才】中華電信股份有限公司所屬機構114年基層從業人員招考(113年10月18日截止)",
-        "timestamp": "1726810563",
-        "url": "mail_display.php?timestamp=1726810563",
-        "date": "2024/09/20 13:36",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 5
     }
 ]
