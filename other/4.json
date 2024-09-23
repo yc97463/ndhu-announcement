@@ -1,5 +1,19 @@
 [
     {
+        "title": "免費心理諮商資源",
+        "timestamp": "1725845953",
+        "url": "mail_display.php?timestamp=1725845953",
+        "date": "2024/09/09 09:39",
+        "department": "心理諮商輔導中心",
+        "author": {
+            "department": "心理諮商輔導中心",
+            "name": "林賢謀",
+            "email": "lcm1460@gms.ndhu.edu.tw",
+            "phone": "6269"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【徵才公告】國立東華大學數位學伴中心 - 113-1 學期大學伴招募",
         "timestamp": "1725843051",
         "url": "mail_display.php?timestamp=1725843051",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "新版東華e學苑使用說明",
-        "timestamp": "1725409515",
-        "url": "mail_display.php?timestamp=1725409515",
-        "date": "2024/09/04 08:25",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 3
     }
 ]
