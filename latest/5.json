@@ -1,5 +1,33 @@
 [
     {
+        "title": "【課務組通知】113-1加退選後課程確認及加簽作業(9/20-9/27) 【Curriculum Division】Course Confirm Online and Add Course Requests (Sep. 20-Sep. 27)",
+        "timestamp": "1726709581",
+        "url": "mail_display.php?timestamp=1726709581",
+        "date": "2024/09/19 09:33",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "行政大樓於9月20日(五)上午9:21進行「國家防災日」防震演練通知 (再次提醒)",
+        "timestamp": "1726705240",
+        "url": "mail_display.php?timestamp=1726705240",
+        "date": "2024/09/19 08:20",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "賴榮璉",
+            "email": "chrishnalai@gms.ndhu.edu.tw",
+            "phone": "6237"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "國立東華大學公共行政學系113-1實習心得發表會",
         "timestamp": "1726703709",
         "url": "mail_display.php?timestamp=1726703709",
@@ -180,33 +208,5 @@
             "phone": "6053"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【獎助學金申請】陳振武防盲教育基金會113學年度視障學生獎助學金",
-        "timestamp": "1726640788",
-        "url": "mail_display.php?timestamp=1726640788",
-        "date": "2024/09/18 14:26",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【資料庫公告】Wiley電子書全庫贊助全校師生免費使用三個月",
-        "timestamp": "1726639483",
-        "url": "mail_display.php?timestamp=1726639483",
-        "date": "2024/09/18 14:04",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "陳昱佐",
-            "email": "yutuchen@gms.ndhu.edu.tw",
-            "phone": "6824"
-        },
-        "attachmentCount": 5
     }
 ]
