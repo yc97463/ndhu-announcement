@@ -1,5 +1,19 @@
 [
     {
+        "title": "113-1校核心通識課程尚有選課人數統計資料公告",
+        "timestamp": "1725599877",
+        "url": "mail_display.php?timestamp=1725599877",
+        "date": "2024/09/06 13:17",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "8906607"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【語傳系】首創「阿美族語口譯微學程」",
         "timestamp": "1725585352",
         "url": "mail_display.php?timestamp=1725585352",
@@ -194,19 +208,5 @@
             "phone": "038906613"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "公告113-1校核心資訊科技領域-「無人機操作與飛行創作」(初級程式設計)課程尚有名額，敬請踴躍加選課程",
-        "timestamp": "1724736053",
-        "url": "mail_display.php?timestamp=1724736053",
-        "date": "2024/08/27 13:20",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 0
     }
 ]

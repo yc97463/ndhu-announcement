@@ -1,5 +1,61 @@
 [
     {
+        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
+        "timestamp": "1727052206",
+        "url": "mail_display.php?timestamp=1727052206",
+        "date": "2024/09/23 08:43",
+        "department": "圖書資訊處校務系統組",
+        "author": {
+            "department": "圖書資訊處校務系統組",
+            "name": "林志軒",
+            "email": "chshlin@gms.ndhu.edu.tw",
+            "phone": "6752"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "語傳系影視組期初招生放映會",
+        "timestamp": "1727049302",
+        "url": "mail_display.php?timestamp=1727049302",
+        "date": "2024/09/23 07:55",
+        "department": "原住民民族學院 民族語言與傳播學系",
+        "author": {
+            "department": "原住民民族學院 民族語言與傳播學系",
+            "name": "璽祐.哈?咪",
+            "email": "411192037@gms.ndhu.edu.tw",
+            "phone": "0910353297"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "語傳系影視組期初招生放映會(限工作人員)",
+        "timestamp": "1727049301",
+        "url": "mail_display.php?timestamp=1727049301",
+        "date": "2024/09/23 07:55",
+        "department": "原住民民族學院 民族語言與傳播學系",
+        "author": {
+            "department": "原住民民族學院 民族語言與傳播學系",
+            "name": "璽祐.哈?咪",
+            "email": "411192037@gms.ndhu.edu.tw",
+            "phone": "0910-353-297"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【資安訊息公告】有關Google Map單位名稱遭變更處理方式說明",
+        "timestamp": "1727046626",
+        "url": "mail_display.php?timestamp=1727046626",
+        "date": "2024/09/23 07:10",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "李宇峰",
+            "email": "eric@mail.ndhu.edu.tw",
+            "phone": "03-8906721"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "瑜伽呼吸與梵唱",
         "timestamp": "1727009195",
         "url": "mail_display.php?timestamp=1727009195",
@@ -152,61 +208,5 @@
             "phone": "038903822"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "生科系9/27(週五)專題講座公告，歡迎踴躍參加~~",
-        "timestamp": "1726876501",
-        "url": "mail_display.php?timestamp=1726876501",
-        "date": "2024/09/21 07:55",
-        "department": "理工學院 生化暨分子醫學科學系",
-        "author": {
-            "department": "理工學院 生化暨分子醫學科學系",
-            "name": "元淑英",
-            "email": "syyuan@gms.ndhu.edu.tw",
-            "phone": "3632"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【Student Dormitory Announcement】Please claim personal belongings in the storage area as soon as possible",
-        "timestamp": "1726821766",
-        "url": "mail_display.php?timestamp=1726821766",
-        "date": "2024/09/20 16:42",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "鍾佩玲",
-            "email": "free22011@gms.ndhu.edu.tw",
-            "phone": "03890-6217"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【學生宿舍】未領取寄放宿舍行李與物品之同學，請儘速領取。",
-        "timestamp": "1726821706",
-        "url": "mail_display.php?timestamp=1726821706",
-        "date": "2024/09/20 16:41",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "鍾佩玲",
-            "email": "free22011@gms.ndhu.edu.tw",
-            "phone": "03890-6217"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "湖畔餐廳二樓餐廳新開幕公告",
-        "timestamp": "1726818352",
-        "url": "mail_display.php?timestamp=1726818352",
-        "date": "2024/09/20 15:45",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "賴榮璉",
-            "email": "chrishnalai@gms.ndhu.edu.tw",
-            "phone": "6237"
-        },
-        "attachmentCount": 2
     }
 ]

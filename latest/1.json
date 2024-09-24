@@ -1,5 +1,61 @@
 [
     {
+        "title": "學生活動中心充電設施施工公告",
+        "timestamp": "1727145771",
+        "url": "mail_display.php?timestamp=1727145771",
+        "date": "2024/09/24 10:42",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "邱健榮",
+            "email": "janus@gms.ndhu.edu.tw",
+            "phone": "6385"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【獎助學金申請】國防工業發展基金會114 年度國防工業獎學金 (限博士班)",
+        "timestamp": "1727145459",
+        "url": "mail_display.php?timestamp=1727145459",
+        "date": "2024/09/24 10:37",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "學人宿舍區監視器光纖網路鋪設施工公告",
+        "timestamp": "1727143862",
+        "url": "mail_display.php?timestamp=1727143862",
+        "date": "2024/09/24 10:11",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "許智翔",
+            "email": "cocco3746@gms.ndhu.edu.tw",
+            "phone": "03-8906399"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【Forward 協助轉知】113 年 ESG 永續報告書暨碳管理師證書培訓班招生簡章",
+        "timestamp": "1727142480",
+        "url": "mail_display.php?timestamp=1727142480",
+        "date": "2024/09/24 09:48",
+        "department": "永續發展中心",
+        "author": {
+            "department": "永續發展中心",
+            "name": "李莉莉 Li-Li Lee",
+            "email": "sd@gms.ndhu.edu.tw",
+            "phone": "03-890-5920"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "113學年度「大專校院弱勢學生助學計畫」申請公告",
         "timestamp": "1727141187",
         "url": "mail_display.php?timestamp=1727141187",
@@ -152,61 +208,5 @@
             "phone": "8906253"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【週四法語角】113-1 French Lunch Hour 法文午餐會話時間 10/03 第1場 Session 1\t",
-        "timestamp": "1727135701",
-        "url": "mail_display.php?timestamp=1727135701",
-        "date": "2024/09/24 07:55",
-        "department": "洄瀾學院 語言中心",
-        "author": {
-            "department": "洄瀾學院 語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【113-1法語角系列】French for Beginners ",
-        "timestamp": "1727082255",
-        "url": "mail_display.php?timestamp=1727082255",
-        "date": "2024/09/23 17:04",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "國立東華大學2024年校慶系列活動_羽球賽",
-        "timestamp": "1727081917",
-        "url": "mail_display.php?timestamp=1727081917",
-        "date": "2024/09/23 16:58",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "莊璦綺",
-            "email": "ichi@gms.ndhu.edu.tw",
-            "phone": "6613"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【實習】新光產物保險股份有限公司招募學期實習生(113年10月30日截止)",
-        "timestamp": "1727076200",
-        "url": "mail_display.php?timestamp=1727076200",
-        "date": "2024/09/23 15:23",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
     }
 ]

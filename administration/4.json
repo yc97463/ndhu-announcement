@@ -1,5 +1,19 @@
 [
     {
+        "title": "教育部於5月至12月止進行電子郵件社交工程演練（第一階段成績出爐）",
+        "timestamp": "1726017061",
+        "url": "mail_display.php?timestamp=1726017061",
+        "date": "2024/09/11 09:11",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "葉宏達",
+            "email": "honda@gms.ndhu.edu.tw",
+            "phone": "8906747"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "公告113-1校核心通識課程-「傳播學導論」課程尚有名額，敬請踴躍加選課程",
         "timestamp": "1726016606",
         "url": "mail_display.php?timestamp=1726016606",
@@ -192,20 +206,6 @@
             "name": "陳美杏",
             "email": "msing@gms.ndhu.edu.tw",
             "phone": "6053"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "新版東華e學苑使用說明",
-        "timestamp": "1725845726",
-        "url": "mail_display.php?timestamp=1725845726",
-        "date": "2024/09/09 09:35",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
         },
         "attachmentCount": 4
     }

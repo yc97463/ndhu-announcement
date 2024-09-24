@@ -1,5 +1,61 @@
 [
     {
+        "title": "生科系9/27(週五)專題講座公告，歡迎踴躍參加~~",
+        "timestamp": "1726876501",
+        "url": "mail_display.php?timestamp=1726876501",
+        "date": "2024/09/21 07:55",
+        "department": "理工學院 生化暨分子醫學科學系",
+        "author": {
+            "department": "理工學院 生化暨分子醫學科學系",
+            "name": "元淑英",
+            "email": "syyuan@gms.ndhu.edu.tw",
+            "phone": "3632"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【Student Dormitory Announcement】Please claim personal belongings in the storage area as soon as possible",
+        "timestamp": "1726821766",
+        "url": "mail_display.php?timestamp=1726821766",
+        "date": "2024/09/20 16:42",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "鍾佩玲",
+            "email": "free22011@gms.ndhu.edu.tw",
+            "phone": "03890-6217"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【學生宿舍】未領取寄放宿舍行李與物品之同學，請儘速領取。",
+        "timestamp": "1726821706",
+        "url": "mail_display.php?timestamp=1726821706",
+        "date": "2024/09/20 16:41",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "鍾佩玲",
+            "email": "free22011@gms.ndhu.edu.tw",
+            "phone": "03890-6217"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "湖畔餐廳二樓餐廳新開幕公告",
+        "timestamp": "1726818352",
+        "url": "mail_display.php?timestamp=1726818352",
+        "date": "2024/09/20 15:45",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "賴榮璉",
+            "email": "chrishnalai@gms.ndhu.edu.tw",
+            "phone": "6237"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【教育優先區】114年寒假教育優先區中小學營隊活動，校內申請即日起至113年10月18日(五)下午17:00收件截止!!! Application for the K-12 School Camp Activities during winter break of academic year 2024-2025",
         "timestamp": "1726817852",
         "url": "mail_display.php?timestamp=1726817852",
@@ -152,61 +208,5 @@
             "phone": "5822"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "運動零食・瘋運動",
-        "timestamp": "1726790110",
-        "url": "mail_display.php?timestamp=1726790110",
-        "date": "2024/09/20 07:55",
-        "department": "學務處 衛生保健組",
-        "author": {
-            "department": "學務處 衛生保健組",
-            "name": "吳星穎",
-            "email": "carmier@gms.ndhu.edu.tw",
-            "phone": "8906252"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "10/24《明白歌》東華大學校園放映暨座談會",
-        "timestamp": "1726790109",
-        "url": "mail_display.php?timestamp=1726790109",
-        "date": "2024/09/20 07:55",
-        "department": "人文社會科學學院 華文文學系",
-        "author": {
-            "department": "人文社會科學學院 華文文學系",
-            "name": "伍佳雯",
-            "email": "sl@gms.ndhu.edu.tw",
-            "phone": "＃5262"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "第二場~定期捐血保障你我~熱血行動!!!",
-        "timestamp": "1726790108",
-        "url": "mail_display.php?timestamp=1726790108",
-        "date": "2024/09/20 07:55",
-        "department": "學務處 衛生保健組",
-        "author": {
-            "department": "學務處 衛生保健組",
-            "name": "吳星穎",
-            "email": "carmier@gms.ndhu.edu.tw",
-            "phone": "8906252"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "澳洲昆士蘭科技大學交流晚會（限工作人員）",
-        "timestamp": "1726790107",
-        "url": "mail_display.php?timestamp=1726790107",
-        "date": "2024/09/20 07:55",
-        "department": "學務處 原住民族學生資源中心",
-        "author": {
-            "department": "學務處 原住民族學生資源中心",
-            "name": "林佳儀",
-            "email": "tipus1120103@gms.ndhu.edu.tw",
-            "phone": "5718"
-        },
-        "attachmentCount": 0
     }
 ]
