@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】國防工業發展基金會114 年度國防工業獎學金 (限博士班)",
+        "timestamp": "1727145459",
+        "url": "mail_display.php?timestamp=1727145459",
+        "date": "2024/09/24 10:37",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "學人宿舍區監視器光纖網路鋪設施工公告",
         "timestamp": "1727143862",
         "url": "mail_display.php?timestamp=1727143862",
@@ -194,19 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【113-1法語角系列】French for Beginners ",
-        "timestamp": "1727082255",
-        "url": "mail_display.php?timestamp=1727082255",
-        "date": "2024/09/23 17:04",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 4
     }
 ]
