@@ -1,5 +1,19 @@
 [
     {
+        "title": "語傳系影視組期初招生放映會",
+        "timestamp": "1727049302",
+        "url": "mail_display.php?timestamp=1727049302",
+        "date": "2024/09/23 07:55",
+        "department": "原住民民族學院 民族語言與傳播學系",
+        "author": {
+            "department": "原住民民族學院 民族語言與傳播學系",
+            "name": "璽祐.哈?咪",
+            "email": "411192037@gms.ndhu.edu.tw",
+            "phone": "0910353297"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "語傳系影視組期初招生放映會(限工作人員)",
         "timestamp": "1727049301",
         "url": "mail_display.php?timestamp=1727049301",
@@ -194,19 +208,5 @@
             "phone": "6232"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【活動】花師C229特色教室使用說明會：師資生試教演示與YT直播教學示範（師資培育生優先）113/10/07",
-        "timestamp": "1726815163",
-        "url": "mail_display.php?timestamp=1726815163",
-        "date": "2024/09/20 14:52",
-        "department": "花師教育學院",
-        "author": {
-            "department": "花師教育學院",
-            "name": "賴姿伶",
-            "email": "tll@gms.ndhu.edu.tw",
-            "phone": "3804"
-        },
-        "attachmentCount": 0
     }
 ]

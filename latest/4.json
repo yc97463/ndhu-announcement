@@ -1,5 +1,33 @@
 [
     {
+        "title": "[CSIE] Traffic Safety Orientation",
+        "timestamp": "1726876508",
+        "url": "mail_display.php?timestamp=1726876508",
+        "date": "2024/09/21 07:55",
+        "department": "理工學院 資訊工程學系",
+        "author": {
+            "department": "理工學院 資訊工程學系",
+            "name": "謝嘉文",
+            "email": "cbjiawen@gms.ndhu.edu.tw",
+            "phone": "5026"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "(社會系)國科會大專生研究計畫分享會",
+        "timestamp": "1726876507",
+        "url": "mail_display.php?timestamp=1726876507",
+        "date": "2024/09/21 07:55",
+        "department": "人文社會科學學院 社會學系",
+        "author": {
+            "department": "人文社會科學學院 社會學系",
+            "name": "葉珮芳",
+            "email": "",
+            "phone": "謝明臻  (email: 41124B007@gms.ndhu.edu.tw)"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "🎉考選部國家考試宣導-職涯規劃-邁向公職之路",
         "timestamp": "1726876506",
         "url": "mail_display.php?timestamp=1726876506",
@@ -180,33 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【113年「雙語浪潮」教師社群講座活動】評量的概念與評量尺規的設計與應用",
-        "timestamp": "1726810537",
-        "url": "mail_display.php?timestamp=1726810537",
-        "date": "2024/09/20 13:35",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "(路權修正)志學門路口交通改善工程完工公告",
-        "timestamp": "1726804379",
-        "url": "mail_display.php?timestamp=1726804379",
-        "date": "2024/09/20 11:52",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "黃章傑",
-            "email": "cotycafe@gms.ndhu.edu.tw",
-            "phone": "038905778"
-        },
-        "attachmentCount": 0
     }
 ]
