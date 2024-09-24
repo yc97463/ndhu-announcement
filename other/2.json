@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才】苗栗縣113年度專業輔導人員(心理師)甄選(113年9月20日截止)",
+        "timestamp": "1726629257",
+        "url": "mail_display.php?timestamp=1726629257",
+        "date": "2024/09/18 11:14",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【防災演練】人社樓館113年度地震防災演練公告與說明 / 2024 Humanities and Social Sciences Buildings Earthquake Evacuation Drill Notice",
         "timestamp": "1726628537",
         "url": "mail_display.php?timestamp=1726628537",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "體育館體能訓練室冷氣更新工程作業暫時無法開放公告：",
-        "timestamp": "1726133413",
-        "url": "mail_display.php?timestamp=1726133413",
-        "date": "2024/09/12 17:30",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "沈正雄",
-            "email": "chshen@gms.ndhu.edu.tw",
-            "phone": "6618"
-        },
-        "attachmentCount": 0
     }
 ]

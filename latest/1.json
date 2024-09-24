@@ -1,5 +1,19 @@
 [
     {
+        "title": "【重要通知】暫時開放K書中心A館討論區及個人物品領取 Temporary Opening of K-Book Center A Discussion Area and Collection of Personal Items(第二次公告）",
+        "timestamp": "1727167369",
+        "url": "mail_display.php?timestamp=1727167369",
+        "date": "2024/09/24 16:42",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳小姐",
+            "email": "Sian@gms.ndhu.edu.tw",
+            "phone": "5846"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "113-1初領車證新生交通安全宣導活動，10月2日第二場次，有意申領校園車輛識別證同學，請儘速上網報名。",
         "timestamp": "1727166575",
         "url": "mail_display.php?timestamp=1727166575",
@@ -194,19 +208,5 @@
             "phone": "03-8906219"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "學人宿舍區監視器光纖網路鋪設施工公告",
-        "timestamp": "1727143862",
-        "url": "mail_display.php?timestamp=1727143862",
-        "date": "2024/09/24 10:11",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "許智翔",
-            "email": "cocco3746@gms.ndhu.edu.tw",
-            "phone": "03-8906399"
-        },
-        "attachmentCount": 0
     }
 ]

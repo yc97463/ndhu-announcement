@@ -1,5 +1,19 @@
 [
     {
+        "title": "【學生宿舍】未領取寄放宿舍行李與物品之同學，請儘速領取。",
+        "timestamp": "1726821706",
+        "url": "mail_display.php?timestamp=1726821706",
+        "date": "2024/09/20 16:41",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "鍾佩玲",
+            "email": "free22011@gms.ndhu.edu.tw",
+            "phone": "03890-6217"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "湖畔餐廳二樓餐廳新開幕公告",
         "timestamp": "1726818352",
         "url": "mail_display.php?timestamp=1726818352",
@@ -192,20 +206,6 @@
             "name": "伍佳雯",
             "email": "sl@gms.ndhu.edu.tw",
             "phone": "＃5262"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "第二場~定期捐血保障你我~熱血行動!!!",
-        "timestamp": "1726790108",
-        "url": "mail_display.php?timestamp=1726790108",
-        "date": "2024/09/20 07:55",
-        "department": "學務處 衛生保健組",
-        "author": {
-            "department": "學務處 衛生保健組",
-            "name": "吳星穎",
-            "email": "carmier@gms.ndhu.edu.tw",
-            "phone": "8906252"
         },
         "attachmentCount": 0
     }

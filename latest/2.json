@@ -1,5 +1,19 @@
 [
     {
+        "title": "學人宿舍區監視器光纖網路鋪設施工公告",
+        "timestamp": "1727143862",
+        "url": "mail_display.php?timestamp=1727143862",
+        "date": "2024/09/24 10:11",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "許智翔",
+            "email": "cocco3746@gms.ndhu.edu.tw",
+            "phone": "03-8906399"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【Forward 協助轉知】113 年 ESG 永續報告書暨碳管理師證書培訓班招生簡章",
         "timestamp": "1727142480",
         "url": "mail_display.php?timestamp=1727142480",
@@ -194,19 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "國立東華大學2024年校慶系列活動_羽球賽",
-        "timestamp": "1727081917",
-        "url": "mail_display.php?timestamp=1727081917",
-        "date": "2024/09/23 16:58",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "莊璦綺",
-            "email": "ichi@gms.ndhu.edu.tw",
-            "phone": "6613"
-        },
-        "attachmentCount": 1
     }
 ]
