@@ -1,5 +1,19 @@
 [
     {
+        "title": "學生活動中心充電設施施工公告",
+        "timestamp": "1727145771",
+        "url": "mail_display.php?timestamp=1727145771",
+        "date": "2024/09/24 10:42",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "邱健榮",
+            "email": "janus@gms.ndhu.edu.tw",
+            "phone": "6385"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】國防工業發展基金會114 年度國防工業獎學金 (限博士班)",
         "timestamp": "1727145459",
         "url": "mail_display.php?timestamp=1727145459",
@@ -192,20 +206,6 @@
             "name": "王惠貞",
             "email": "labi@gms.ndhu.edu.tw",
             "phone": "8906253"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【週四法語角】113-1 French Lunch Hour 法文午餐會話時間 10/03 第1場 Session 1\t",
-        "timestamp": "1727135701",
-        "url": "mail_display.php?timestamp=1727135701",
-        "date": "2024/09/24 07:55",
-        "department": "洄瀾學院 語言中心",
-        "author": {
-            "department": "洄瀾學院 語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
         },
         "attachmentCount": 0
     }
