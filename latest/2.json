@@ -1,5 +1,19 @@
 [
     {
+        "title": "網路管理組_招募影片課程剪輯工讀生1名",
+        "timestamp": "1727138853",
+        "url": "mail_display.php?timestamp=1727138853",
+        "date": "2024/09/24 08:47",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "趙心榆",
+            "email": "vsychao@gms.ndhu.edu.tw",
+            "phone": "03-890-6722"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【轉知】教育部委託拍攝之敬師微電影《老師：一直陪伴在我們身邊的您》已上線，歡迎學校全體教師上線觀賞，並預祝全體教師教師節快樂。",
         "timestamp": "1727137441",
         "url": "mail_display.php?timestamp=1727137441",
@@ -194,19 +208,5 @@
             "phone": "5846"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【健康動不停】113-1 教職員運動增能班",
-        "timestamp": "1727064403",
-        "url": "mail_display.php?timestamp=1727064403",
-        "date": "2024/09/23 12:06",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "莊璦綺",
-            "email": "ichi@gms.ndhu.edu.tw",
-            "phone": "6613"
-        },
-        "attachmentCount": 2
     }
 ]
