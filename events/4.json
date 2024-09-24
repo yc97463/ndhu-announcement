@@ -1,5 +1,19 @@
 [
     {
+        "title": "［徵求］20241025 科普列車🚅服務學習及跨域自主志工",
+        "timestamp": "1726716616",
+        "url": "mail_display.php?timestamp=1726716616",
+        "date": "2024/09/19 11:30",
+        "department": "環境學院",
+        "author": {
+            "department": "環境學院",
+            "name": "羅郁庭",
+            "email": "erntmap@gms.ndhu.edu.tw",
+            "phone": "8905179"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "國立東華大學公共行政學系113-1實習心得發表會",
         "timestamp": "1726703709",
         "url": "mail_display.php?timestamp=1726703709",
@@ -194,19 +208,5 @@
             "phone": "6122-6126"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "113學年度Rikec立革司學生會法律系原住民專班期初大會",
-        "timestamp": "1726617303",
-        "url": "mail_display.php?timestamp=1726617303",
-        "date": "2024/09/18 07:55",
-        "department": "人文社會科學學院 法律學系",
-        "author": {
-            "department": "人文社會科學學院 法律學系",
-            "name": "高蘇恩",
-            "email": "galaigai@gms.ndhu.edu.tw",
-            "phone": "5663"
-        },
-        "attachmentCount": 0
     }
 ]

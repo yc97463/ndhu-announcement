@@ -1,5 +1,19 @@
 [
     {
+        "title": "【行政公告】國立東華大學學生免費法律諮詢服務更換諮詢地點",
+        "timestamp": "1727147712",
+        "url": "mail_display.php?timestamp=1727147712",
+        "date": "2024/09/24 11:15",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "郭詩妘",
+            "email": "kikiguo@gms.ndhu.edu.tw",
+            "phone": "03-8906227"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "學生活動中心充電設施施工公告",
         "timestamp": "1727145771",
         "url": "mail_display.php?timestamp=1727145771",
@@ -194,19 +208,5 @@
             "phone": "038905778"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "[Student Dormitory] 10/1 Smart Power System Implementation Notes and Precautions",
-        "timestamp": "1726803400",
-        "url": "mail_display.php?timestamp=1726803400",
-        "date": "2024/09/20 11:36",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳怡秀",
-            "email": "yishoue@gms.ndhu.edu.tw",
-            "phone": "6212"
-        },
-        "attachmentCount": 1
     }
 ]

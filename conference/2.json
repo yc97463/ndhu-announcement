@@ -1,5 +1,19 @@
 [
     {
+        "title": "【活動轉知】國立屏東大學「春風化雨-談中正大學教學專業發展數位學習碩士在職專班辦學經驗分享」線上講座",
+        "timestamp": "1723539972",
+        "url": "mail_display.php?timestamp=1723539972",
+        "date": "2024/08/13 17:06",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "08-08(四10:00 ~11:00)--線上課程-- 防範電子郵件社交工程（第2次通知）",
         "timestamp": "1722847880",
         "url": "mail_display.php?timestamp=1722847880",
@@ -194,19 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "「縱目歐亞-空間與人文的對話」課程系列講座-6/19（三）姜允玉教授（韓國明知大學中文系、東亞細亞研究所所長）：漢字對朝鮮時期儒家思想紀錄文化的影響（中文演講）",
-        "timestamp": "1718094542",
-        "url": "mail_display.php?timestamp=1718094542",
-        "date": "2024/06/11 16:29",
-        "department": "人文社會科學學院",
-        "author": {
-            "department": "人文社會科學學院",
-            "name": "姜妃澤",
-            "email": "ftc1029@gms.ndhu.edu.tw",
-            "phone": "03-8905203"
-        },
-        "attachmentCount": 1
     }
 ]
