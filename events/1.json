@@ -1,5 +1,131 @@
 [
     {
+        "title": "【健康促進講座】考前紓壓，芳療守護健康，報名從速!",
+        "timestamp": "1727225466",
+        "url": "mail_display.php?timestamp=1727225466",
+        "date": "2024/09/25 08:51",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "【光電系演講】日落大夢紀錄片~勇敢追求夢想的故事",
+        "timestamp": "1727222108",
+        "url": "mail_display.php?timestamp=1727222108",
+        "date": "2024/09/25 07:55",
+        "department": "理工學院 光電工程學系",
+        "author": {
+            "department": "理工學院 光電工程學系",
+            "name": "劉碧純",
+            "email": "sun@gms.ndhu.edu.tw",
+            "phone": "3182"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "Toward a Deeper Understanding of the Proton(書報討論修課同學請勿報名)",
+        "timestamp": "1727222107",
+        "url": "mail_display.php?timestamp=1727222107",
+        "date": "2024/09/25 07:55",
+        "department": "理工學院 物理學系",
+        "author": {
+            "department": "理工學院 物理學系",
+            "name": "劉芝葳",
+            "email": "810914201@gms.ndhu.edu.tw",
+            "phone": "0900671189"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【大二以上報名】學士班班級輔導活動-自我探索與成長",
+        "timestamp": "1727222106",
+        "url": "mail_display.php?timestamp=1727222106",
+        "date": "2024/09/25 07:55",
+        "department": "花師教育學院 教育與潛能開發學系",
+        "author": {
+            "department": "花師教育學院 教育與潛能開發學系",
+            "name": "黃偲婷",
+            "email": "cls39white@gms.ndhu.edu.tw",
+            "phone": "038903822"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "AI在科學教育研究與教學的應用",
+        "timestamp": "1727222105",
+        "url": "mail_display.php?timestamp=1727222105",
+        "date": "2024/09/25 07:55",
+        "department": "花師教育學院 教育與潛能開發學系",
+        "author": {
+            "department": "花師教育學院 教育與潛能開發學系",
+            "name": "黃偲婷",
+            "email": "cls39white@gms.ndhu.edu.tw",
+            "phone": "038903822"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "地織機示範課程",
+        "timestamp": "1727222104",
+        "url": "mail_display.php?timestamp=1727222104",
+        "date": "2024/09/25 07:55",
+        "department": "學務處 原住民族學生資源中心",
+        "author": {
+            "department": "學務處 原住民族學生資源中心",
+            "name": "吳倩茹",
+            "email": "411096007@gms.ndhu.edu.tw",
+            "phone": "鄧雨茹 0902357009"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "小米園課程之手作小米吊飾",
+        "timestamp": "1727222103",
+        "url": "mail_display.php?timestamp=1727222103",
+        "date": "2024/09/25 07:55",
+        "department": "學務處 原住民族學生資源中心",
+        "author": {
+            "department": "學務處 原住民族學生資源中心",
+            "name": "吳倩茹",
+            "email": "411196073@gms.mdhu.edu.tw",
+            "phone": "周毅 0907379575"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【發社系-113-1民族講座】Maciwciw再聚首-我的玻里尼西亞文化航海",
+        "timestamp": "1727222102",
+        "url": "mail_display.php?timestamp=1727222102",
+        "date": "2024/09/25 07:55",
+        "department": "原住民民族學院 民族發展與社會工作學系",
+        "author": {
+            "department": "原住民民族學院 民族發展與社會工作學系",
+            "name": "楊鵑穎",
+            "email": "ringo@gms.ndhu.edu.tw",
+            "phone": "5822"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113-1初領車證新生交通安全宣導活動，10月2日第二場次，有意申領校園車輛識別證同學，請儘速上網報名。",
+        "timestamp": "1727222101",
+        "url": "mail_display.php?timestamp=1727222101",
+        "date": "2024/09/25 07:55",
+        "department": "學務處 生活輔導組",
+        "author": {
+            "department": "學務處 生活輔導組",
+            "name": "林嘉瑩",
+            "email": "tea7101@gms.ndhu.edu.tw",
+            "phone": "03-8906226"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113-1初領車證新生交通安全宣導活動，10月2日第二場次，有意申領校園車輛識別證同學，請儘速上網報名。",
         "timestamp": "1727166575",
         "url": "mail_display.php?timestamp=1727166575",
@@ -82,131 +208,5 @@
             "phone": "6053"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "性平影展:尾號1314",
-        "timestamp": "1727135706",
-        "url": "mail_display.php?timestamp=1727135706",
-        "date": "2024/09/24 07:55",
-        "department": "圖書資訊處 圖資服務組",
-        "author": {
-            "department": "圖書資訊處 圖資服務組",
-            "name": "廖銘珠",
-            "email": "min-judy@gms.ndhu.edu.tw",
-            "phone": "6855"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "113-1 ESP Lunch Gathering 第1場 Session 1：10/02 ",
-        "timestamp": "1727135705",
-        "url": "mail_display.php?timestamp=1727135705",
-        "date": "2024/09/24 07:55",
-        "department": "洄瀾學院 語言中心",
-        "author": {
-            "department": "洄瀾學院 語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "113.10.04（五）黃敬峰老師（交點文化股份有公司負責人）：迎接AI世代：AI工具及ChatGPT實戰教學",
-        "timestamp": "1727135704",
-        "url": "mail_display.php?timestamp=1727135704",
-        "date": "2024/09/24 07:55",
-        "department": "人文社會科學學院 經濟學系",
-        "author": {
-            "department": "人文社會科學學院 經濟學系",
-            "name": "張筱茵",
-            "email": "ying@gms.ndhu.edu.tw",
-            "phone": "(03)890-5533"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "[招募工作人員] I Dream, Therefore I Am: Dream Exploration Workshop (conducted in English)",
-        "timestamp": "1727135703",
-        "url": "mail_display.php?timestamp=1727135703",
-        "date": "2024/09/24 07:55",
-        "department": "心理諮商輔導中心 預防推廣組",
-        "author": {
-            "department": "心理諮商輔導中心 預防推廣組",
-            "name": "李玟蒨",
-            "email": "phee1801@gms.ndhu.edu.tw",
-            "phone": "(03)890-6263"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【健康促進活動】CPR+AED證照班，取得兩年效期合格證明，報名從速!",
-        "timestamp": "1727135702",
-        "url": "mail_display.php?timestamp=1727135702",
-        "date": "2024/09/24 07:55",
-        "department": "學務處 衛生保健組",
-        "author": {
-            "department": "學務處 衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【週四法語角】113-1 French Lunch Hour 法文午餐會話時間 10/03 第1場 Session 1\t",
-        "timestamp": "1727135701",
-        "url": "mail_display.php?timestamp=1727135701",
-        "date": "2024/09/24 07:55",
-        "department": "洄瀾學院 語言中心",
-        "author": {
-            "department": "洄瀾學院 語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【113-1法語角系列】French for Beginners ",
-        "timestamp": "1727082255",
-        "url": "mail_display.php?timestamp=1727082255",
-        "date": "2024/09/23 17:04",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "國立東華大學2024年校慶系列活動_羽球賽",
-        "timestamp": "1727081917",
-        "url": "mail_display.php?timestamp=1727081917",
-        "date": "2024/09/23 16:58",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "莊璦綺",
-            "email": "ichi@gms.ndhu.edu.tw",
-            "phone": "6613"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【健康動不停】113-1 教職員運動增能班",
-        "timestamp": "1727064403",
-        "url": "mail_display.php?timestamp=1727064403",
-        "date": "2024/09/23 12:06",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "莊璦綺",
-            "email": "ichi@gms.ndhu.edu.tw",
-            "phone": "6613"
-        },
-        "attachmentCount": 2
     }
 ]
