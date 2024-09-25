@@ -1,5 +1,19 @@
 [
     {
+        "title": "[專題演講]AI在科學教育研究與教學的應用9/27陳世文主講",
+        "timestamp": "1727234593",
+        "url": "mail_display.php?timestamp=1727234593",
+        "date": "2024/09/25 11:23",
+        "department": "教育與潛能開發學系",
+        "author": {
+            "department": "教育與潛能開發學系",
+            "name": "教育系",
+            "email": "esontsai@gms.ndhu.edu.tw",
+            "phone": "3824"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【發社系-113-1民族講座】Maciwciw再聚首-我的玻里尼西亞文化航海",
         "timestamp": "1727146790",
         "url": "mail_display.php?timestamp=1727146790",
@@ -194,19 +208,5 @@
             "phone": "5242"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "📢【延長報名至8/23】原住民族廣播電台人才培育工作坊 Spii(夢想) 從東海岸起飛🔥🔥",
-        "timestamp": "1723880797",
-        "url": "mail_display.php?timestamp=1723880797",
-        "date": "2024/08/17 15:46",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "巴莉亞妲‧蘇利伊",
-            "email": "damu@gms.ndhu.edu.tw",
-            "phone": "5824"
-        },
-        "attachmentCount": 4
     }
 ]

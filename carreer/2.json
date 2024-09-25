@@ -1,6 +1,20 @@
 [
     {
         "title": "【徵才公告】國立東華大學民族語言與傳播學系誠徵助理職務代理人一名",
+        "timestamp": "1725410343",
+        "url": "mail_display.php?timestamp=1725410343",
+        "date": "2024/09/04 08:39",
+        "department": "原住民民族學院",
+        "author": {
+            "department": "原住民民族學院",
+            "name": "巴莉亞妲‧蘇利伊",
+            "email": "damu@gms.ndhu.edu.tw",
+            "phone": "8905824"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【徵才公告】國立東華大學民族語言與傳播學系誠徵助理職務代理人一名",
         "timestamp": "1725325577",
         "url": "mail_display.php?timestamp=1725325577",
         "date": "2024/09/03 09:06",
@@ -194,19 +208,5 @@
             "phone": "03-8903777"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "113年度自資系楊悠娟老師國科會計畫專任暨兼任助理徵才",
-        "timestamp": "1723519731",
-        "url": "mail_display.php?timestamp=1723519731",
-        "date": "2024/08/13 11:28",
-        "department": "環境學院",
-        "author": {
-            "department": "環境學院",
-            "name": "陳和毅助理",
-            "email": "erntmap@gmail.com",
-            "phone": "8905179"
-        },
-        "attachmentCount": 1
     }
 ]

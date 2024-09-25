@@ -1,5 +1,19 @@
 [
     {
+        "title": "［徵求］20241025 科普列車🚅服務學習及跨域自主志工",
+        "timestamp": "1727233896",
+        "url": "mail_display.php?timestamp=1727233896",
+        "date": "2024/09/25 11:11",
+        "department": "環境學院",
+        "author": {
+            "department": "環境學院",
+            "name": "羅郁庭",
+            "email": "erntmap@gms.ndhu.edu.tw",
+            "phone": "8905179"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【徵才公告】國立東華大學總務處環保組徵聘【校務基金職務代理人】",
         "timestamp": "1727156381",
         "url": "mail_display.php?timestamp=1727156381",
@@ -194,19 +208,5 @@
             "phone": "3073"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【徵才公告】國立東華大學民族語言與傳播學系誠徵助理職務代理人一名",
-        "timestamp": "1725410343",
-        "url": "mail_display.php?timestamp=1725410343",
-        "date": "2024/09/04 08:39",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "巴莉亞妲‧蘇利伊",
-            "email": "damu@gms.ndhu.edu.tw",
-            "phone": "8905824"
-        },
-        "attachmentCount": 0
     }
 ]
