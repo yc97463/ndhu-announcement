@@ -1,5 +1,19 @@
 [
     {
+        "title": "【行政公告】國立東華大學學生免費法律諮詢服務更換諮詢地點",
+        "timestamp": "1727147712",
+        "url": "mail_display.php?timestamp=1727147712",
+        "date": "2024/09/24 11:15",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "郭詩妘",
+            "email": "kikiguo@gms.ndhu.edu.tw",
+            "phone": "03-8906227"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】清宗文化教育基金會113學年度獎學金 (限低、中低收入戶)",
         "timestamp": "1727146956",
         "url": "mail_display.php?timestamp=1727146956",
@@ -192,20 +206,6 @@
             "name": "呂岳芳",
             "email": "carollu@gms.ndhu.edu.tw",
             "phone": "03-8905497"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "113.10.04（五）黃敬峰老師（交點文化股份有公司負責人）：迎接AI世代：AI工具及ChatGPT實戰教學",
-        "timestamp": "1727135704",
-        "url": "mail_display.php?timestamp=1727135704",
-        "date": "2024/09/24 07:55",
-        "department": "人文社會科學學院 經濟學系",
-        "author": {
-            "department": "人文社會科學學院 經濟學系",
-            "name": "張筱茵",
-            "email": "ying@gms.ndhu.edu.tw",
-            "phone": "(03)890-5533"
         },
         "attachmentCount": 0
     }
