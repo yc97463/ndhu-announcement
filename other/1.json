@@ -1,5 +1,19 @@
 [
     {
+        "title": "Wiley Online Library東華大學「電子書有獎徵答」活動",
+        "timestamp": "1727244255",
+        "url": "mail_display.php?timestamp=1727244255",
+        "date": "2024/09/25 14:04",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "陳昱佐",
+            "email": "yutuchen@gms.ndhu.edu.tw",
+            "phone": "038906824"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【健康促進講座】考前紓壓，芳療守護健康，報名從速!",
         "timestamp": "1727225466",
         "url": "mail_display.php?timestamp=1727225466",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【Student Dormitory Announcement】Please claim personal belongings in the storage area as soon as possible",
-        "timestamp": "1726821766",
-        "url": "mail_display.php?timestamp=1726821766",
-        "date": "2024/09/20 16:42",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "鍾佩玲",
-            "email": "free22011@gms.ndhu.edu.tw",
-            "phone": "03890-6217"
-        },
-        "attachmentCount": 0
     }
 ]
