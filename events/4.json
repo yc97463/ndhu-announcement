@@ -1,5 +1,19 @@
 [
     {
+        "title": "大腦與學習的東談西講",
+        "timestamp": "1726876502",
+        "url": "mail_display.php?timestamp=1726876502",
+        "date": "2024/09/21 07:55",
+        "department": "花師教育學院 教育與潛能開發學系",
+        "author": {
+            "department": "花師教育學院 教育與潛能開發學系",
+            "name": "黃偲婷",
+            "email": "cls39white@gms.ndhu.edu.tw",
+            "phone": "038903822"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "生科系9/27(週五)專題講座公告，歡迎踴躍參加~~",
         "timestamp": "1726876501",
         "url": "mail_display.php?timestamp=1726876501",
@@ -192,20 +206,6 @@
             "name": "林佳儀",
             "email": "tipus1120103@gms.ndhu.edu.tw",
             "phone": "5718"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "管財班系學會服務",
-        "timestamp": "1726790101",
-        "url": "mail_display.php?timestamp=1726790101",
-        "date": "2024/09/20 07:55",
-        "department": "管理學院 管理科學與財金國際學士學位學程",
-        "author": {
-            "department": "管理學院 管理科學與財金國際學士學位學程",
-            "name": "林逸潔",
-            "email": "jamielin0902@gms.ndhu.edu.tw",
-            "phone": "3006"
         },
         "attachmentCount": 0
     }

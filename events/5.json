@@ -1,5 +1,19 @@
 [
     {
+        "title": "管財班系學會服務",
+        "timestamp": "1726790101",
+        "url": "mail_display.php?timestamp=1726790101",
+        "date": "2024/09/20 07:55",
+        "department": "管理學院 管理科學與財金國際學士學位學程",
+        "author": {
+            "department": "管理學院 管理科學與財金國際學士學位學程",
+            "name": "林逸潔",
+            "email": "jamielin0902@gms.ndhu.edu.tw",
+            "phone": "3006"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "體育中心 113-1 推廣教育課程招生中",
         "timestamp": "1726763118",
         "url": "mail_display.php?timestamp=1726763118",
@@ -194,19 +208,5 @@
             "phone": "6824"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "前進中美洲--外交部國際青年大使交流計畫經驗分享會",
-        "timestamp": "1726630216",
-        "url": "mail_display.php?timestamp=1726630216",
-        "date": "2024/09/18 11:30",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 1
     }
 ]
