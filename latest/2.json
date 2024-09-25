@@ -1,5 +1,19 @@
 [
     {
+        "title": "AI在科學教育研究與教學的應用",
+        "timestamp": "1727222105",
+        "url": "mail_display.php?timestamp=1727222105",
+        "date": "2024/09/25 07:55",
+        "department": "花師教育學院 教育與潛能開發學系",
+        "author": {
+            "department": "花師教育學院 教育與潛能開發學系",
+            "name": "黃偲婷",
+            "email": "cls39white@gms.ndhu.edu.tw",
+            "phone": "038903822"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "地織機示範課程",
         "timestamp": "1727222104",
         "url": "mail_display.php?timestamp=1727222104",
@@ -194,19 +208,5 @@
             "phone": "038906399"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【轉知】國科會博士生研究獎學金試辦方案114年甄選類徵件說明會(東華大學場次)",
-        "timestamp": "1727156129",
-        "url": "mail_display.php?timestamp=1727156129",
-        "date": "2024/09/24 13:35",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "綜合企劃組",
-            "email": "rd505@gms.ndhu.edu.tw",
-            "phone": "6510"
-        },
-        "attachmentCount": 1
     }
 ]
