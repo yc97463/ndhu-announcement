@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】台灣癲癇之友協會113年度「新光鋼添澄癲癇之友獎助學金」",
+        "timestamp": "1727140122",
+        "url": "mail_display.php?timestamp=1727140122",
+        "date": "2024/09/24 09:08",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "網路管理組_招募影片課程剪輯工讀生1名",
         "timestamp": "1727138853",
         "url": "mail_display.php?timestamp=1727138853",
@@ -194,19 +208,5 @@
             "phone": "03-8906361"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【重要通知】暫時開放K書中心A館討論區及個人物品領取 Temporary Opening of K-Book Center A Discussion Area and Collection of Personal Items",
-        "timestamp": "1727069198",
-        "url": "mail_display.php?timestamp=1727069198",
-        "date": "2024/09/23 13:26",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "陳小姐",
-            "email": "sian@gms.ndhu.edu.tw",
-            "phone": "5846"
-        },
-        "attachmentCount": 1
     }
 ]
