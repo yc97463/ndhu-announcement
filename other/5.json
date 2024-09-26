@@ -1,5 +1,19 @@
 [
     {
+        "title": "【活動訊息】國防部113年全民國防教育「網際網路有獎徵答活動」",
+        "timestamp": "1725624404",
+        "url": "mail_display.php?timestamp=1725624404",
+        "date": "2024/09/06 20:06",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "6225"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【徵才】高雄市政府勞工局訓練就業中心113年9月21日(六)現場徵才活動",
         "timestamp": "1725617823",
         "url": "mail_display.php?timestamp=1725617823",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【計畫申請】⭐️勞動部114年度「結合大專校院辦理就業服務補助計畫」申請開始囉⭐️(本校申請期限：即日起至113年10月13日止)",
-        "timestamp": "1725349923",
-        "url": "mail_display.php?timestamp=1725349923",
-        "date": "2024/09/03 15:52",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "張雯婷",
-            "email": "kz02820@gms.ndhu.edu.tw",
-            "phone": "03-8906284"
-        },
-        "attachmentCount": 3
     }
 ]
