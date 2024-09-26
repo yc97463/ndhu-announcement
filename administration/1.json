@@ -1,5 +1,19 @@
 [
     {
+        "title": "【性平宣導】系所及社團辦理迎新活動提醒",
+        "timestamp": "1727336966",
+        "url": "mail_display.php?timestamp=1727336966",
+        "date": "2024/09/26 15:49",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "王玉君",
+            "email": "hu.jean0503@gms.ndhu.edu.tw",
+            "phone": "8906220"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "室內游泳池儲熱桶施工公告",
         "timestamp": "1727334069",
         "url": "mail_display.php?timestamp=1727334069",
@@ -194,19 +208,5 @@
             "phone": "03-8906721"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【學生宿舍】未領取寄放宿舍行李與物品之同學，請儘速領取。",
-        "timestamp": "1726821706",
-        "url": "mail_display.php?timestamp=1726821706",
-        "date": "2024/09/20 16:41",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "鍾佩玲",
-            "email": "free22011@gms.ndhu.edu.tw",
-            "phone": "03890-6217"
-        },
-        "attachmentCount": 0
     }
 ]
