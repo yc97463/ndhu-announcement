@@ -1,5 +1,33 @@
 [
     {
+        "title": "【徵聘公告】國立東華大學英美語文學系徵聘專任教師二名",
+        "timestamp": "1727334371",
+        "url": "mail_display.php?timestamp=1727334371",
+        "date": "2024/09/26 15:06",
+        "department": "英美語文學系",
+        "author": {
+            "department": "英美語文學系",
+            "name": "顏余珊",
+            "email": "shanshan221@gms.ndhu.edu.tw",
+            "phone": "03-8905292"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "室內游泳池儲熱桶施工公告",
+        "timestamp": "1727334069",
+        "url": "mail_display.php?timestamp=1727334069",
+        "date": "2024/09/26 15:01",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "林國偉",
+            "email": "dear0130@gms.ndhu.edu.tw",
+            "phone": "038906617"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才】台灣人材ネット_第十六屆日本企業就職博覽會線上徵才活動",
         "timestamp": "1727332928",
         "url": "mail_display.php?timestamp=1727332928",
@@ -180,33 +208,5 @@
             "phone": "8903277"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【元大證券-理財菁英實習計畫】說明會",
-        "timestamp": "1727308501",
-        "url": "mail_display.php?timestamp=1727308501",
-        "date": "2024/09/26 07:55",
-        "department": "管理學院 財務金融學系",
-        "author": {
-            "department": "管理學院 財務金融學系",
-            "name": "呂羅晟峰",
-            "email": "luluo@gms.ndhu.edu.tw",
-            "phone": "8903132"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "🚂東華玩具樂園物流中心 十月玩具志工招募中！",
-        "timestamp": "1727255600",
-        "url": "mail_display.php?timestamp=1727255600",
-        "date": "2024/09/25 17:13",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "東華玩具樂園物流中心",
-            "email": "techusr@gms.ndhu.edu.tw",
-            "phone": "3771"
-        },
-        "attachmentCount": 2
     }
 ]
