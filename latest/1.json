@@ -1,5 +1,19 @@
 [
     {
+        "title": "【重要通知】暫時開放K書中心A館討論區及個人物品領取 Temporary Opening of K-Book Center A Discussion Area and Collection of Personal Items (第三次公告)",
+        "timestamp": "1727329806",
+        "url": "mail_display.php?timestamp=1727329806",
+        "date": "2024/09/26 13:50",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳小姐",
+            "email": "sian@gms.ndhu.edu.tw",
+            "phone": "5846"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【Jazz x Classical 】音樂學系-音樂三班級音樂會",
         "timestamp": "1727321018",
         "url": "mail_display.php?timestamp=1727321018",
@@ -194,19 +208,5 @@
             "phone": "6606"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "【東區基地活動轉知】11月07日耕莘健康管理專科學校/11月08日國立宜蘭大學",
-        "timestamp": "1727247615",
-        "url": "mail_display.php?timestamp=1727247615",
-        "date": "2024/09/25 15:00",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "陳禮凡",
-            "email": "lifan.chen@gms.ndhu.edu.tw",
-            "phone": "038906586"
-        },
-        "attachmentCount": 4
     }
 ]
