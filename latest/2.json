@@ -1,5 +1,131 @@
 [
     {
+        "title": "[專題演講]AI在科學教育研究與教學的應用9/27陳世文主講",
+        "timestamp": "1727234593",
+        "url": "mail_display.php?timestamp=1727234593",
+        "date": "2024/09/25 11:23",
+        "department": "教育與潛能開發學系",
+        "author": {
+            "department": "教育與潛能開發學系",
+            "name": "教育系",
+            "email": "esontsai@gms.ndhu.edu.tw",
+            "phone": "3824"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "［徵求］20241025 科普列車🚅服務學習及跨域自主志工",
+        "timestamp": "1727233896",
+        "url": "mail_display.php?timestamp=1727233896",
+        "date": "2024/09/25 11:11",
+        "department": "環境學院",
+        "author": {
+            "department": "環境學院",
+            "name": "羅郁庭",
+            "email": "erntmap@gms.ndhu.edu.tw",
+            "phone": "8905179"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "[宣導公告]車輛進入校園請依規定停放。",
+        "timestamp": "1727226579",
+        "url": "mail_display.php?timestamp=1727226579",
+        "date": "2024/09/25 09:09",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【健康促進講座】考前紓壓，芳療守護健康，報名從速!",
+        "timestamp": "1727225466",
+        "url": "mail_display.php?timestamp=1727225466",
+        "date": "2024/09/25 08:51",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "【轉知】教育部青年發展署114年「大專校院國際永續及社會創新人才培育計畫」開始申請",
+        "timestamp": "1727222924",
+        "url": "mail_display.php?timestamp=1727222924",
+        "date": "2024/09/25 08:08",
+        "department": "永續發展中心",
+        "author": {
+            "department": "永續發展中心",
+            "name": "李莉莉",
+            "email": "sd@gms.ndhu.edu.tw",
+            "phone": "03-890-5920"
+        },
+        "attachmentCount": 4
+    },
+    {
+        "title": "公文系統將於113年9月25日(三)中午12~13時暫停服務公告",
+        "timestamp": "1727222730",
+        "url": "mail_display.php?timestamp=1727222730",
+        "date": "2024/09/25 08:05",
+        "department": "總務處文書組",
+        "author": {
+            "department": "總務處文書組",
+            "name": "張建中",
+            "email": "eric.chang@gms.ndhu.edu.tw",
+            "phone": "6352"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【光電系演講】日落大夢紀錄片~勇敢追求夢想的故事",
+        "timestamp": "1727222108",
+        "url": "mail_display.php?timestamp=1727222108",
+        "date": "2024/09/25 07:55",
+        "department": "理工學院 光電工程學系",
+        "author": {
+            "department": "理工學院 光電工程學系",
+            "name": "劉碧純",
+            "email": "sun@gms.ndhu.edu.tw",
+            "phone": "3182"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "Toward a Deeper Understanding of the Proton(書報討論修課同學請勿報名)",
+        "timestamp": "1727222107",
+        "url": "mail_display.php?timestamp=1727222107",
+        "date": "2024/09/25 07:55",
+        "department": "理工學院 物理學系",
+        "author": {
+            "department": "理工學院 物理學系",
+            "name": "劉芝葳",
+            "email": "810914201@gms.ndhu.edu.tw",
+            "phone": "0900671189"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【大二以上報名】學士班班級輔導活動-自我探索與成長",
+        "timestamp": "1727222106",
+        "url": "mail_display.php?timestamp=1727222106",
+        "date": "2024/09/25 07:55",
+        "department": "花師教育學院 教育與潛能開發學系",
+        "author": {
+            "department": "花師教育學院 教育與潛能開發學系",
+            "name": "黃偲婷",
+            "email": "cls39white@gms.ndhu.edu.tw",
+            "phone": "038903822"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "AI在科學教育研究與教學的應用",
         "timestamp": "1727222105",
         "url": "mail_display.php?timestamp=1727222105",
@@ -80,132 +206,6 @@
             "name": "劉宏銘",
             "email": "hung.liu@gms.ndhu.edu.tw",
             "phone": "6376"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【轉知】中原大學113年10月23日辦理「職涯發展暨就業學程歷程分享會」",
-        "timestamp": "1727170441",
-        "url": "mail_display.php?timestamp=1727170441",
-        "date": "2024/09/24 17:34",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "Models for photoshoots",
-        "timestamp": "1727168637",
-        "url": "mail_display.php?timestamp=1727168637",
-        "date": "2024/09/24 17:03",
-        "department": "原住民族研究國際博士班",
-        "author": {
-            "department": "原住民族研究國際博士班",
-            "name": "Ms. Dungi黃怡瑄",
-            "email": "dungi@gms.ndhu.edu.tw",
-            "phone": "038905760"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【重要通知】暫時開放K書中心A館討論區及個人物品領取 Temporary Opening of K-Book Center A Discussion Area and Collection of Personal Items(第二次公告）",
-        "timestamp": "1727167369",
-        "url": "mail_display.php?timestamp=1727167369",
-        "date": "2024/09/24 16:42",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "陳小姐",
-            "email": "Sian@gms.ndhu.edu.tw",
-            "phone": "5846"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "113-1初領車證新生交通安全宣導活動，10月2日第二場次，有意申領校園車輛識別證同學，請儘速上網報名。",
-        "timestamp": "1727166575",
-        "url": "mail_display.php?timestamp=1727166575",
-        "date": "2024/09/24 16:29",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "林嘉瑩",
-            "email": "tea7101@gms.ndhu.edu.tw",
-            "phone": "03-8906226"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【活動轉知】台鋼科技大學辦理「高教深耕研習活動-高中職教師數位科技應用研習營」",
-        "timestamp": "1727165151",
-        "url": "mail_display.php?timestamp=1727165151",
-        "date": "2024/09/24 16:05",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【訊息轉知】弘光科技大學開設2門磨課師(MOOCs)線上課程",
-        "timestamp": "1727164634",
-        "url": "mail_display.php?timestamp=1727164634",
-        "date": "2024/09/24 15:57",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "【訊息轉知】靜宜大學開設10門磨課師(MOOCs)線上課程",
-        "timestamp": "1727164526",
-        "url": "mail_display.php?timestamp=1727164526",
-        "date": "2024/09/24 15:55",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "第二場~定期捐血保障你我~熱血行動!!!",
-        "timestamp": "1727162850",
-        "url": "mail_display.php?timestamp=1727162850",
-        "date": "2024/09/24 15:27",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "吳星穎",
-            "email": "carmier@gms.ndhu.edu.tw",
-            "phone": "8906252"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【徵才公告】國立東華大學總務處環保組徵聘【校務基金職務代理人】",
-        "timestamp": "1727156381",
-        "url": "mail_display.php?timestamp=1727156381",
-        "date": "2024/09/24 13:39",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "許智翔",
-            "email": "cocco3746@gms.ndhu.edu.tw",
-            "phone": "038906399"
         },
         "attachmentCount": 0
     }
