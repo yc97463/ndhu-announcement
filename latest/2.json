@@ -1,5 +1,19 @@
 [
     {
+        "title": "【企管系暨運籌所】113-1 Language Lounge-Different indoor Games(第二場)",
+        "timestamp": "1727308504",
+        "url": "mail_display.php?timestamp=1727308504",
+        "date": "2024/09/26 07:55",
+        "department": "管理學院 企業管理學系",
+        "author": {
+            "department": "管理學院 企業管理學系",
+            "name": "陳雅芳",
+            "email": "mayachen@gms.ndhu.edu.tw",
+            "phone": "3162"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【企管系暨運籌所】113-1 Language Lounge-Introductions \u0026 Show and Tell(第一場)",
         "timestamp": "1727308503",
         "url": "mail_display.php?timestamp=1727308503",
@@ -194,19 +208,5 @@
             "phone": "03-890-5920"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "公文系統將於113年9月25日(三)中午12~13時暫停服務公告",
-        "timestamp": "1727222730",
-        "url": "mail_display.php?timestamp=1727222730",
-        "date": "2024/09/25 08:05",
-        "department": "總務處文書組",
-        "author": {
-            "department": "總務處文書組",
-            "name": "張建中",
-            "email": "eric.chang@gms.ndhu.edu.tw",
-            "phone": "6352"
-        },
-        "attachmentCount": 0
     }
 ]
