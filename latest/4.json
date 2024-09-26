@@ -1,5 +1,19 @@
 [
     {
+        "title": "【活動轉知】台鋼科技大學辦理「高教深耕研習活動-高中職教師數位科技應用研習營」",
+        "timestamp": "1727165151",
+        "url": "mail_display.php?timestamp=1727165151",
+        "date": "2024/09/24 16:05",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【訊息轉知】弘光科技大學開設2門磨課師(MOOCs)線上課程",
         "timestamp": "1727164634",
         "url": "mail_display.php?timestamp=1727164634",
@@ -194,19 +208,5 @@
             "phone": "03-890-5920"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "113學年度「大專校院弱勢學生助學計畫」申請公告",
-        "timestamp": "1727141187",
-        "url": "mail_display.php?timestamp=1727141187",
-        "date": "2024/09/24 09:26",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "林黃漢穎",
-            "email": "henry30180@gms.ndhu.edu.tw",
-            "phone": "8906218"
-        },
-        "attachmentCount": 2
     }
 ]
