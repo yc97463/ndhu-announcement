@@ -1,5 +1,19 @@
 [
     {
+        "title": "113-2「學期課程借用電腦教室」9/12(四)～9/20(五) 17:00止受理申請。",
+        "timestamp": "1726104127",
+        "url": "mail_display.php?timestamp=1726104127",
+        "date": "2024/09/12 09:22",
+        "department": "圖書資訊處綜合業務組",
+        "author": {
+            "department": "圖書資訊處綜合業務組",
+            "name": "林循美",
+            "email": "cindy@gms.ndhu.edu.tw",
+            "phone": "8906774"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "重申請確實做好垃圾分類",
         "timestamp": "1726103254",
         "url": "mail_display.php?timestamp=1726103254",
@@ -194,19 +208,5 @@
             "phone": "038906824"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "請授課教師提供113學年度第1學期「教師指定參考書清單」，謝謝。",
-        "timestamp": "1725859832",
-        "url": "mail_display.php?timestamp=1725859832",
-        "date": "2024/09/09 13:30",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "陳昱佐",
-            "email": "yutuchen@gms.ndhu.edu.tw",
-            "phone": "038906824"
-        },
-        "attachmentCount": 1
     }
 ]
