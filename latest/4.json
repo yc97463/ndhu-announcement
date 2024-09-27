@@ -1,5 +1,19 @@
 [
     {
+        "title": "公文系統將於113年9月25日(三)中午12~13時暫停服務公告",
+        "timestamp": "1727222730",
+        "url": "mail_display.php?timestamp=1727222730",
+        "date": "2024/09/25 08:05",
+        "department": "總務處文書組",
+        "author": {
+            "department": "總務處文書組",
+            "name": "張建中",
+            "email": "eric.chang@gms.ndhu.edu.tw",
+            "phone": "6352"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【光電系演講】日落大夢紀錄片~勇敢追求夢想的故事",
         "timestamp": "1727222108",
         "url": "mail_display.php?timestamp=1727222108",
@@ -194,19 +208,5 @@
             "phone": "8906422"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【訊息轉知】弘光科技大學開設2門磨課師(MOOCs)線上課程",
-        "timestamp": "1727164634",
-        "url": "mail_display.php?timestamp=1727164634",
-        "date": "2024/09/24 15:57",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 4
     }
 ]
