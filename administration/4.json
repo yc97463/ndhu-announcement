@@ -1,5 +1,19 @@
 [
     {
+        "title": "【兵役訊息】內政部辦理113年就讀專科以上83至93年次在學男子，申請分階段接受常備兵役軍事訓練公告",
+        "timestamp": "1726113277",
+        "url": "mail_display.php?timestamp=1726113277",
+        "date": "2024/09/12 11:54",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "6225"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "114年1～6月份「推動國際學術合作交流補助」計畫，即日起受理申請至10月14日為止。",
         "timestamp": "1726109860",
         "url": "mail_display.php?timestamp=1726109860",
@@ -194,19 +208,5 @@
             "phone": "8906422"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "113年9月10日至20日辦理本校田園基地開放申請作業。",
-        "timestamp": "1725929790",
-        "url": "mail_display.php?timestamp=1725929790",
-        "date": "2024/09/10 08:56",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "賴宜萱",
-            "email": "lai0210@gms.ndhu.edu.tw",
-            "phone": "6393"
-        },
-        "attachmentCount": 1
     }
 ]
