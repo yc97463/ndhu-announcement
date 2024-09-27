@@ -1,5 +1,19 @@
 [
     {
+        "title": "【資料庫公告】Wiley電子書全庫贊助全校師生免費使用三個月",
+        "timestamp": "1726639483",
+        "url": "mail_display.php?timestamp=1726639483",
+        "date": "2024/09/18 14:04",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "陳昱佐",
+            "email": "yutuchen@gms.ndhu.edu.tw",
+            "phone": "6824"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "【防災演練】人社樓館113年度地震防災演練公告與說明 / 2024 Humanities and Social Sciences Buildings Earthquake Evacuation Drill Notice",
         "timestamp": "1726628537",
         "url": "mail_display.php?timestamp=1726628537",
@@ -194,19 +208,5 @@
             "phone": "6061"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【兵役訊息】內政部113年度「95年次徵兵及齡男子兵籍調查線上申報作業公告",
-        "timestamp": "1726113567",
-        "url": "mail_display.php?timestamp=1726113567",
-        "date": "2024/09/12 11:59",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "黃勇程",
-            "email": "victor0903@gms.ndhu.edu.tw",
-            "phone": "6225"
-        },
-        "attachmentCount": 2
     }
 ]

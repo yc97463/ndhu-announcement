@@ -1,5 +1,19 @@
 [
     {
+        "title": "【代轉學生選舉委員會公告】公告第十四屆學生自治會補選選舉公報",
+        "timestamp": "1727427882",
+        "url": "mail_display.php?timestamp=1727427882",
+        "date": "2024/09/27 17:04",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "姜紫淇",
+            "email": "yaya@gms.ndhu.edu.tw",
+            "phone": "03-8906235"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【推廣教育通知】即日起至10月22日止受理推廣教育工作人員績效酬勞核發",
         "timestamp": "1727408549",
         "url": "mail_display.php?timestamp=1727408549",
@@ -194,19 +208,5 @@
             "phone": "8906252"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
-        "timestamp": "1727052206",
-        "url": "mail_display.php?timestamp=1727052206",
-        "date": "2024/09/23 08:43",
-        "department": "圖書資訊處校務系統組",
-        "author": {
-            "department": "圖書資訊處校務系統組",
-            "name": "林志軒",
-            "email": "chshlin@gms.ndhu.edu.tw",
-            "phone": "6752"
-        },
-        "attachmentCount": 0
     }
 ]

@@ -1,5 +1,33 @@
 [
     {
+        "title": "[宣導公告]車輛進入校園請依規定停放。",
+        "timestamp": "1727226579",
+        "url": "mail_display.php?timestamp=1727226579",
+        "date": "2024/09/25 09:09",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【健康促進講座】考前紓壓，芳療守護健康，報名從速!",
+        "timestamp": "1727225466",
+        "url": "mail_display.php?timestamp=1727225466",
+        "date": "2024/09/25 08:51",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【轉知】教育部青年發展署114年「大專校院國際永續及社會創新人才培育計畫」開始申請",
         "timestamp": "1727222924",
         "url": "mail_display.php?timestamp=1727222924",
@@ -180,33 +208,5 @@
             "phone": "038905760"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【重要通知】暫時開放K書中心A館討論區及個人物品領取 Temporary Opening of K-Book Center A Discussion Area and Collection of Personal Items(第二次公告）",
-        "timestamp": "1727167369",
-        "url": "mail_display.php?timestamp=1727167369",
-        "date": "2024/09/24 16:42",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "陳小姐",
-            "email": "Sian@gms.ndhu.edu.tw",
-            "phone": "5846"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "113-1初領車證新生交通安全宣導活動，10月2日第二場次，有意申領校園車輛識別證同學，請儘速上網報名。",
-        "timestamp": "1727166575",
-        "url": "mail_display.php?timestamp=1727166575",
-        "date": "2024/09/24 16:29",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "林嘉瑩",
-            "email": "tea7101@gms.ndhu.edu.tw",
-            "phone": "03-8906226"
-        },
-        "attachmentCount": 1
     }
 ]

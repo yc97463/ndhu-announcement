@@ -1,5 +1,33 @@
 [
     {
+        "title": "學務處深耕起飛計畫-113-1學期「AI影像生成術」",
+        "timestamp": "1727308507",
+        "url": "mail_display.php?timestamp=1727308507",
+        "date": "2024/09/26 07:55",
+        "department": "學務處 ",
+        "author": {
+            "department": "學務處",
+            "name": "鄭淑亭",
+            "email": "ting@gms.ndhu.edu.tw",
+            "phone": "038906215"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "學務處深耕起飛計畫-113-1學期「影片剪輯零門檻－剪接快速上手」",
+        "timestamp": "1727308506",
+        "url": "mail_display.php?timestamp=1727308506",
+        "date": "2024/09/26 07:55",
+        "department": "學務處 ",
+        "author": {
+            "department": "學務處",
+            "name": "鄭淑亭",
+            "email": "ting@gms.ndhu.edu.tw",
+            "phone": "038906215"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "化學系專題演講-化學專業與職涯",
         "timestamp": "1727308505",
         "url": "mail_display.php?timestamp=1727308505",
@@ -180,33 +208,5 @@
             "phone": "8905179"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "[宣導公告]車輛進入校園請依規定停放。",
-        "timestamp": "1727226579",
-        "url": "mail_display.php?timestamp=1727226579",
-        "date": "2024/09/25 09:09",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【健康促進講座】考前紓壓，芳療守護健康，報名從速!",
-        "timestamp": "1727225466",
-        "url": "mail_display.php?timestamp=1727225466",
-        "date": "2024/09/25 08:51",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 3
     }
 ]
