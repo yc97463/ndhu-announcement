@@ -1,5 +1,19 @@
 [
     {
+        "title": "​教育部轉知衛生福利部(以下簡稱衛福部)113-114年COVID-19 JN.1疫苗接種訊息",
+        "timestamp": "1727057354",
+        "url": "mail_display.php?timestamp=1727057354",
+        "date": "2024/09/23 10:09",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "吳星穎",
+            "email": "carmier@gms.ndhu.edu.tw",
+            "phone": "8906252"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
         "timestamp": "1727052206",
         "url": "mail_display.php?timestamp=1727052206",
@@ -194,19 +208,5 @@
             "phone": "6122-6126"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "行政大樓於9月20日(五)上午9:21進行「國家防災日」防震演練通知 (再次提醒)",
-        "timestamp": "1726705240",
-        "url": "mail_display.php?timestamp=1726705240",
-        "date": "2024/09/19 08:20",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "賴榮璉",
-            "email": "chrishnalai@gms.ndhu.edu.tw",
-            "phone": "6237"
-        },
-        "attachmentCount": 4
     }
 ]

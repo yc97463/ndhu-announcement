@@ -1,5 +1,47 @@
 [
     {
+        "title": "生科系10/4(週五)專題講座公告，歡迎踴躍參加~~",
+        "timestamp": "1727481304",
+        "url": "mail_display.php?timestamp=1727481304",
+        "date": "2024/09/28 07:55",
+        "department": "理工學院 生化暨分子醫學科學系",
+        "author": {
+            "department": "理工學院 生化暨分子醫學科學系",
+            "name": "元淑英",
+            "email": "syyuan@gms.ndhu.edu.tw",
+            "phone": "3632"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "生科系10/4(週五)第二場專題講座公告，歡迎踴躍參加~~",
+        "timestamp": "1727481303",
+        "url": "mail_display.php?timestamp=1727481303",
+        "date": "2024/09/28 07:55",
+        "department": "理工學院 生化暨分子醫學科學系",
+        "author": {
+            "department": "理工學院 生化暨分子醫學科學系",
+            "name": "元淑英",
+            "email": "syyuan@gms.ndhu.edu.tw",
+            "phone": "3632"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【113-1 性平關我什麼事？】第二講－師生戀行不行？權勢、性騷擾",
+        "timestamp": "1727481302",
+        "url": "mail_display.php?timestamp=1727481302",
+        "date": "2024/09/28 07:55",
+        "department": "花師教育學院 教育與潛能開發學系",
+        "author": {
+            "department": "花師教育學院 教育與潛能開發學系",
+            "name": "王敬堯",
+            "email": "611088102@gms.ndhu.edu.tw",
+            "phone": "0971217585"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113-1教職員暨眷屬運動增能班錄取名單",
         "timestamp": "1727428682",
         "url": "mail_display.php?timestamp=1727428682",
@@ -166,47 +208,5 @@
             "phone": "(03)890-3322"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "Vytautas Magnus University 2025 Lithuanian Language and Culture Course(Online)",
-        "timestamp": "1727341311",
-        "url": "mail_display.php?timestamp=1727341311",
-        "date": "2024/09/26 17:01",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "呂姿穎",
-            "email": "doris@gms.ndhu.edu.tw",
-            "phone": "5173"
-        },
-        "attachmentCount": 5
-    },
-    {
-        "title": "Vytautas Magnus University 2025 Lithuanian Language and Culture Course(Contact)",
-        "timestamp": "1727340569",
-        "url": "mail_display.php?timestamp=1727340569",
-        "date": "2024/09/26 16:49",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "呂姿穎",
-            "email": "doris@gms.ndhu.edu.tw",
-            "phone": "5173"
-        },
-        "attachmentCount": 5
-    },
-    {
-        "title": "【Jazz x Classical 】音樂學系-音樂三班級音樂會",
-        "timestamp": "1727321018",
-        "url": "mail_display.php?timestamp=1727321018",
-        "date": "2024/09/26 11:23",
-        "department": "音樂學系",
-        "author": {
-            "department": "音樂學系",
-            "name": "張純倩",
-            "email": "asd963741@gms.ndhu.edu.tw",
-            "phone": "03-8905168"
-        },
-        "attachmentCount": 1
     }
 ]

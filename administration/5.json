@@ -1,5 +1,19 @@
 [
     {
+        "title": "113年度校區內客貨電梯進行月保養排程通告9月保養",
+        "timestamp": "1725948999",
+        "url": "mail_display.php?timestamp=1725948999",
+        "date": "2024/09/10 14:16",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "新版東華e學苑討論區(公告)寄信方式",
         "timestamp": "1725931527",
         "url": "mail_display.php?timestamp=1725931527",
@@ -194,19 +208,5 @@
             "phone": "6122~6126"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "NDHU-GPT",
-        "timestamp": "1725776268",
-        "url": "mail_display.php?timestamp=1725776268",
-        "date": "2024/09/08 14:17",
-        "department": "圖書資訊處校務系統組",
-        "author": {
-            "department": "圖書資訊處校務系統組",
-            "name": "簡暐哲",
-            "email": "wcc@gms.ndhu.edu.tw",
-            "phone": "038905060"
-        },
-        "attachmentCount": 2
     }
 ]

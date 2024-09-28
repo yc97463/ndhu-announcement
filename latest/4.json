@@ -1,5 +1,61 @@
 [
     {
+        "title": "Wiley Online Library東華大學「電子書有獎徵答」活動",
+        "timestamp": "1727244255",
+        "url": "mail_display.php?timestamp=1727244255",
+        "date": "2024/09/25 14:04",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "陳昱佐",
+            "email": "yutuchen@gms.ndhu.edu.tw",
+            "phone": "038906824"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "教職員工健促活動～挑戰！健康運動集點趣！",
+        "timestamp": "1727238711",
+        "url": "mail_display.php?timestamp=1727238711",
+        "date": "2024/09/25 12:31",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "吳星穎",
+            "email": "carmier@gms.ndhu.edu.tw",
+            "phone": "8906252"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "[專題演講]AI在科學教育研究與教學的應用9/27陳世文主講",
+        "timestamp": "1727234593",
+        "url": "mail_display.php?timestamp=1727234593",
+        "date": "2024/09/25 11:23",
+        "department": "教育與潛能開發學系",
+        "author": {
+            "department": "教育與潛能開發學系",
+            "name": "教育系",
+            "email": "esontsai@gms.ndhu.edu.tw",
+            "phone": "3824"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "［徵求］20241025 科普列車🚅服務學習及跨域自主志工",
+        "timestamp": "1727233896",
+        "url": "mail_display.php?timestamp=1727233896",
+        "date": "2024/09/25 11:11",
+        "department": "環境學院",
+        "author": {
+            "department": "環境學院",
+            "name": "羅郁庭",
+            "email": "erntmap@gms.ndhu.edu.tw",
+            "phone": "8905179"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "[宣導公告]車輛進入校園請依規定停放。",
         "timestamp": "1727226579",
         "url": "mail_display.php?timestamp=1727226579",
@@ -152,61 +208,5 @@
             "phone": "5822"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "113-1初領車證新生交通安全宣導活動，10月2日第二場次，有意申領校園車輛識別證同學，請儘速上網報名。",
-        "timestamp": "1727222101",
-        "url": "mail_display.php?timestamp=1727222101",
-        "date": "2024/09/25 07:55",
-        "department": "學務處 生活輔導組",
-        "author": {
-            "department": "學務處 生活輔導組",
-            "name": "林嘉瑩",
-            "email": "tea7101@gms.ndhu.edu.tw",
-            "phone": "03-8906226"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "主旨:學人宿舍(包含幼稚園)及素心里停水公告。",
-        "timestamp": "1727179541",
-        "url": "mail_display.php?timestamp=1727179541",
-        "date": "2024/09/24 20:05",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【轉知】中原大學113年10月23日辦理「職涯發展暨就業學程歷程分享會」",
-        "timestamp": "1727170441",
-        "url": "mail_display.php?timestamp=1727170441",
-        "date": "2024/09/24 17:34",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "Models for photoshoots",
-        "timestamp": "1727168637",
-        "url": "mail_display.php?timestamp=1727168637",
-        "date": "2024/09/24 17:03",
-        "department": "原住民族研究國際博士班",
-        "author": {
-            "department": "原住民族研究國際博士班",
-            "name": "Ms. Dungi黃怡瑄",
-            "email": "dungi@gms.ndhu.edu.tw",
-            "phone": "038905760"
-        },
-        "attachmentCount": 2
     }
 ]
