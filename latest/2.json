@@ -1,5 +1,19 @@
 [
     {
+        "title": "【重要通知】9月27日 開放領取K書中心兩館遺留物品，請同學盡速前往K書中心A館領取",
+        "timestamp": "1727401207",
+        "url": "mail_display.php?timestamp=1727401207",
+        "date": "2024/09/27 09:40",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳小姐",
+            "email": "daidai@gms.ndhu.edu.tw",
+            "phone": "sian"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【第二次公告】 10/1(二)王鴻濬特聘教授演講：永續發展與聯合國永續發展目標SDGs",
         "timestamp": "1727398597",
         "url": "mail_display.php?timestamp=1727398597",
@@ -194,19 +208,5 @@
             "phone": "5173"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【性平宣導】系所及社團辦理迎新活動提醒",
-        "timestamp": "1727336966",
-        "url": "mail_display.php?timestamp=1727336966",
-        "date": "2024/09/26 15:49",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "王玉君",
-            "email": "hu.jean0503@gms.ndhu.edu.tw",
-            "phone": "8906220"
-        },
-        "attachmentCount": 3
     }
 ]
