@@ -1,5 +1,19 @@
 [
     {
+        "title": "【海上颱風警報】輕度颱風「山陀兒」海上警報已於本日08時30分發布，請注意！The Central Weather Bureau Typhoon Watch Advisory #18【 KRATHON 】",
+        "timestamp": "1727574514",
+        "url": "mail_display.php?timestamp=1727574514",
+        "date": "2024/09/29 09:48",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "郭詩妘",
+            "email": "kikiguo@gms.ndhu.edu.tw",
+            "phone": "03-8906227"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【大二以上報名】學士班班級輔導活動-壓力及情緒管理",
         "timestamp": "1727567703",
         "url": "mail_display.php?timestamp=1727567703",
@@ -194,19 +208,5 @@
             "phone": "6061"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【健康促進講座】考前紓壓，芳療守護健康，報名從速!",
-        "timestamp": "1727394911",
-        "url": "mail_display.php?timestamp=1727394911",
-        "date": "2024/09/27 07:55",
-        "department": "學務處 衛生保健組",
-        "author": {
-            "department": "學務處 衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 0
     }
 ]

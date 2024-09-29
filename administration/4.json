@@ -1,5 +1,19 @@
 [
     {
+        "title": "行政大樓於9月20日(五)上午9:21進行「國家防災日」防震演練通知",
+        "timestamp": "1726186830",
+        "url": "mail_display.php?timestamp=1726186830",
+        "date": "2024/09/13 08:20",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "賴榮璉",
+            "email": "chrishnalai@gms.ndhu.edu.tw",
+            "phone": "6237"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "請同仁謹慎面對校內資訊之提供",
         "timestamp": "1726126424",
         "url": "mail_display.php?timestamp=1726126424",
@@ -194,19 +208,5 @@
             "phone": "(03)890-6894"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "公告113-1校核心通識課程-「成功幸福的職涯」課程尚有名額，敬請踴躍加選課程",
-        "timestamp": "1725952315",
-        "url": "mail_display.php?timestamp=1725952315",
-        "date": "2024/09/10 15:11",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 0
     }
 ]
