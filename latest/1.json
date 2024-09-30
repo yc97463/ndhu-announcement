@@ -1,5 +1,33 @@
 [
     {
+        "title": "【圖書館公告】113.10.01(二)休館一日。依花蓮縣政府公告《山陀兒颱風》停止上班、停止上課。",
+        "timestamp": "1727706122",
+        "url": "mail_display.php?timestamp=1727706122",
+        "date": "2024/09/30 22:22",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "詹依萍",
+            "email": "ipchan@gms.ndhu.edu.tw",
+            "phone": "6813"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【人事室公告】依花蓮縣政府公告，明(10/1)日(二)停止上班上課",
+        "timestamp": "1727704680",
+        "url": "mail_display.php?timestamp=1727704680",
+        "date": "2024/09/30 21:58",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "劉依虹",
+            "email": "joyce_liu@gms.ndhu.edu.tw",
+            "phone": "6060"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【第二次公告-獎助學金申請】113-1學期 原住民族委員會原住民學生獎助學金 (Scholarship information for R.O.C aboriginal citizens)",
         "timestamp": "1727687396",
         "url": "mail_display.php?timestamp=1727687396",
@@ -180,33 +208,5 @@
             "phone": "6232"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "📢來去東海岸大展場---尋訪花蓮2024森川里海濕地藝術季藝術品",
-        "timestamp": "1727672956",
-        "url": "mail_display.php?timestamp=1727672956",
-        "date": "2024/09/30 13:09",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "李睿芬",
-            "email": "fen19@gms.ndhu.edu.tw",
-            "phone": "6602"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【9/30東華場次線上視訊辦理】國科會博士生研究獎學金試辦方案114年甄選類徵件說明會",
-        "timestamp": "1727668546",
-        "url": "mail_display.php?timestamp=1727668546",
-        "date": "2024/09/30 11:55",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "綜合企劃組",
-            "email": "rd505@gms.ndhu.edu.tw",
-            "phone": "6510"
-        },
-        "attachmentCount": 0
     }
 ]
