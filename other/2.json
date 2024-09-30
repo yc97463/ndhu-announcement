@@ -1,5 +1,33 @@
 [
     {
+        "title": "學人宿舍區監視器光纖網路鋪設施工公告",
+        "timestamp": "1727143862",
+        "url": "mail_display.php?timestamp=1727143862",
+        "date": "2024/09/24 10:11",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "許智翔",
+            "email": "cocco3746@gms.ndhu.edu.tw",
+            "phone": "03-8906399"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【轉知】「智慧財產權之權利取得暨運用策略」講座，歡迎踴躍報名參加",
+        "timestamp": "1727140675",
+        "url": "mail_display.php?timestamp=1727140675",
+        "date": "2024/09/24 09:17",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "李淑淳",
+            "email": "chun@gms.ndhu.edu.tw",
+            "phone": "6522"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【實習】新光產物保險股份有限公司招募學期實習生(113年10月30日截止)",
         "timestamp": "1727076200",
         "url": "mail_display.php?timestamp=1727076200",
@@ -180,33 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【徵才】臺北市就業服務處113年10月5日(六)辦理科技就業博覽會",
-        "timestamp": "1726626255",
-        "url": "mail_display.php?timestamp=1726626255",
-        "date": "2024/09/18 10:24",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【實習】觀察家生態顧問有限公司113學年度下學期實習申請(113年10月15日截止)",
-        "timestamp": "1726625171",
-        "url": "mail_display.php?timestamp=1726625171",
-        "date": "2024/09/18 10:06",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
     }
 ]

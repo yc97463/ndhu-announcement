@@ -1,5 +1,33 @@
 [
     {
+        "title": "【圖書館公告】今(9/30)日17:00起休館。花蓮縣因颱風停止上班、停止上課。",
+        "timestamp": "1727681831",
+        "url": "mail_display.php?timestamp=1727681831",
+        "date": "2024/09/30 15:37",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "詹依萍",
+            "email": "ipchan@gms.ndhu.edu.tw",
+            "phone": "6813"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【K中A館閉館公告】因颱風來襲K中A館自113年9/30(一)起暫時閉館",
+        "timestamp": "1727680889",
+        "url": "mail_display.php?timestamp=1727680889",
+        "date": "2024/09/30 15:21",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳小姐",
+            "email": "sian@gms.ndhu.edu.tw",
+            "phone": "5846"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【Important Notice】 Collection of Items Left at Study Centers A and B on September 27",
         "timestamp": "1727403906",
         "url": "mail_display.php?timestamp=1727403906",
@@ -178,34 +206,6 @@
             "name": "王立凡",
             "email": "lfwang@gms.ndhu.edu.tw",
             "phone": "8906422"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "學人宿舍區監視器光纖網路鋪設施工公告",
-        "timestamp": "1727143862",
-        "url": "mail_display.php?timestamp=1727143862",
-        "date": "2024/09/24 10:11",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "許智翔",
-            "email": "cocco3746@gms.ndhu.edu.tw",
-            "phone": "03-8906399"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【轉知】「智慧財產權之權利取得暨運用策略」講座，歡迎踴躍報名參加",
-        "timestamp": "1727140675",
-        "url": "mail_display.php?timestamp=1727140675",
-        "date": "2024/09/24 09:17",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "李淑淳",
-            "email": "chun@gms.ndhu.edu.tw",
-            "phone": "6522"
         },
         "attachmentCount": 1
     }
