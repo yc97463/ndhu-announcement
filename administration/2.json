@@ -1,5 +1,19 @@
 [
     {
+        "title": "公文系統將於113年9月25日(三)中午12~13時暫停服務公告",
+        "timestamp": "1727222730",
+        "url": "mail_display.php?timestamp=1727222730",
+        "date": "2024/09/25 08:05",
+        "department": "總務處文書組",
+        "author": {
+            "department": "總務處文書組",
+            "name": "張建中",
+            "email": "eric.chang@gms.ndhu.edu.tw",
+            "phone": "6352"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "主旨:學人宿舍(包含幼稚園)及素心里停水公告。",
         "timestamp": "1727179541",
         "url": "mail_display.php?timestamp=1727179541",
@@ -192,20 +206,6 @@
             "name": "陳良愛",
             "email": "issa@gms.ndhu.edu.tw",
             "phone": "5107"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【活動】花師C229特色教室使用說明會：師資生試教演示與YT直播教學示範（師資培育生優先）113/10/07",
-        "timestamp": "1726815163",
-        "url": "mail_display.php?timestamp=1726815163",
-        "date": "2024/09/20 14:52",
-        "department": "花師教育學院",
-        "author": {
-            "department": "花師教育學院",
-            "name": "賴姿伶",
-            "email": "tll@gms.ndhu.edu.tw",
-            "phone": "3804"
         },
         "attachmentCount": 0
     }

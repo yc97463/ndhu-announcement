@@ -1,5 +1,19 @@
 [
     {
+        "title": "【出納組公告】總務處出納組臨櫃收費服務至上班日下午4點截止[Cashier Group Announcement] The collection service of the Cashier Divison of the General Affairs Office ends at 4 p.m. on working days",
+        "timestamp": "1726100526",
+        "url": "mail_display.php?timestamp=1726100526",
+        "date": "2024/09/12 08:22",
+        "department": "總務處",
+        "author": {
+            "department": "總務處",
+            "name": "許紹峯",
+            "email": "yummy@gms.ndhu.edu.tw",
+            "phone": "03-8906361"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "行政大樓電梯1故障維修公告",
         "timestamp": "1726060730",
         "url": "mail_display.php?timestamp=1726060730",
@@ -194,19 +208,5 @@
             "phone": "03-8906892"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【出國交換】2025年第一次國際交換學生甄選",
-        "timestamp": "1725849921",
-        "url": "mail_display.php?timestamp=1725849921",
-        "date": "2024/09/09 10:45",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 6
     }
 ]
