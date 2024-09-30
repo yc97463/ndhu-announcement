@@ -1,5 +1,47 @@
 [
     {
+        "title": "敬邀同學參加1008健康講座:談戀愛不等於親密行為",
+        "timestamp": "1727394909",
+        "url": "mail_display.php?timestamp=1727394909",
+        "date": "2024/09/27 07:55",
+        "department": "學務處 衛生保健組",
+        "author": {
+            "department": "學務處 衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【113-1學期-演講公告】台北教育大學 數學暨資訊教育學系 周建興教授-有愛的研究",
+        "timestamp": "1727394908",
+        "url": "mail_display.php?timestamp=1727394908",
+        "date": "2024/09/27 07:55",
+        "department": "管理學院 資訊管理學系",
+        "author": {
+            "department": "管理學院 資訊管理學系",
+            "name": "吳佳芬",
+            "email": "fen@gms.ndhu.edu.tw",
+            "phone": "3102"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【113-1學期-演講公告】元智大學 劉俞志學務長",
+        "timestamp": "1727394907",
+        "url": "mail_display.php?timestamp=1727394907",
+        "date": "2024/09/27 07:55",
+        "department": "管理學院 資訊管理學系",
+        "author": {
+            "department": "管理學院 資訊管理學系",
+            "name": "吳佳芬",
+            "email": "fen@gms.ndhu.edu.tw",
+            "phone": "3102"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【113-1學期-演講公告】量趨科技 戴志洋技術長-「後美元時代的世界」",
         "timestamp": "1727394906",
         "url": "mail_display.php?timestamp=1727394906",
@@ -164,48 +206,6 @@
             "name": "鄭淑亭",
             "email": "ting@gms.ndhu.edu.tw",
             "phone": "038906215"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "化學系專題演講-化學專業與職涯",
-        "timestamp": "1727308505",
-        "url": "mail_display.php?timestamp=1727308505",
-        "date": "2024/09/26 07:55",
-        "department": "理工學院 化學系",
-        "author": {
-            "department": "理工學院 化學系",
-            "name": "黃翎欣",
-            "email": "u882025@gms.ndhu.edu.tw",
-            "phone": "3574"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【企管系暨運籌所】113-1 Language Lounge-Different indoor Games(第二場)",
-        "timestamp": "1727308504",
-        "url": "mail_display.php?timestamp=1727308504",
-        "date": "2024/09/26 07:55",
-        "department": "管理學院 企業管理學系",
-        "author": {
-            "department": "管理學院 企業管理學系",
-            "name": "陳雅芳",
-            "email": "mayachen@gms.ndhu.edu.tw",
-            "phone": "3162"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【企管系暨運籌所】113-1 Language Lounge-Introductions \u0026 Show and Tell(第一場)",
-        "timestamp": "1727308503",
-        "url": "mail_display.php?timestamp=1727308503",
-        "date": "2024/09/26 07:55",
-        "department": "管理學院 企業管理學系",
-        "author": {
-            "department": "管理學院 企業管理學系",
-            "name": "陳雅芳",
-            "email": "mayachen@gms.ndhu.edu.tw",
-            "phone": "3162"
         },
         "attachmentCount": 0
     }

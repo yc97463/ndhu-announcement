@@ -1,5 +1,19 @@
 [
     {
+        "title": "【活動公告】紅學中心與聯合文學合辦2024臺灣文學巡禮—花蓮場",
+        "timestamp": "1724838235",
+        "url": "mail_display.php?timestamp=1724838235",
+        "date": "2024/08/28 17:43",
+        "department": "國際紅學研究中心",
+        "author": {
+            "department": "國際紅學研究中心",
+            "name": "池助理",
+            "email": "tcsl@gms.ndhu.edu.tw",
+            "phone": "5403"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【Forward 協助轉知】2024年國際農業綠能論壇 International Conference on Green Energy in Agriculture",
         "timestamp": "1724807907",
         "url": "mail_display.php?timestamp=1724807907",
@@ -194,19 +208,5 @@
             "phone": "6725"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【轉知】教育部辦理「113年度大專校院教師性別平等教育研討會」",
-        "timestamp": "1719570959",
-        "url": "mail_display.php?timestamp=1719570959",
-        "date": "2024/06/28 18:35",
-        "department": "秘書室議事公文組",
-        "author": {
-            "department": "秘書室議事公文組",
-            "name": "蔡麗燕",
-            "email": "liyen@gms.ndhu.edu.tw",
-            "phone": "6005"
-        },
-        "attachmentCount": 2
     }
 ]
