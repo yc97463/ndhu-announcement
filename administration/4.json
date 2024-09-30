@@ -1,5 +1,47 @@
 [
     {
+        "title": "113年9 月17日「中秋節」，電腦教室暫不開放。The computer lab one will be closed on September 17 2024.",
+        "timestamp": "1726448463",
+        "url": "mail_display.php?timestamp=1726448463",
+        "date": "2024/09/16 09:01",
+        "department": "圖書資訊處綜合業務組",
+        "author": {
+            "department": "圖書資訊處綜合業務組",
+            "name": "林循美",
+            "email": "cindy@gms.ndhu.edu.tw",
+            "phone": "8906774"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【圖書館公告】中秋節【113.09.17 (二)】休館一日！ Library will be Closed for Mid-autumn festival on September 17, 2024",
+        "timestamp": "1726302218",
+        "url": "mail_display.php?timestamp=1726302218",
+        "date": "2024/09/14 16:23",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "詹",
+            "email": "ipchan@gms.ndhu.edu.tw",
+            "phone": "6813"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "中秋節(9/17)暫停垃圾清運及校內廠商營業時間公告",
+        "timestamp": "1726204645",
+        "url": "mail_display.php?timestamp=1726204645",
+        "date": "2024/09/13 13:17",
+        "department": "總務處",
+        "author": {
+            "department": "總務處",
+            "name": "陳宇欽",
+            "email": "yuchin@gms.ndhu.edu.tw",
+            "phone": "6307"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【交通安全宣導】夜間騎自行車行車應開啟燈光，請勿逆向行駛，以策安全。",
         "timestamp": "1726190455",
         "url": "mail_display.php?timestamp=1726190455",
@@ -166,47 +208,5 @@
             "phone": "03-8906361"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "行政大樓電梯1故障維修公告",
-        "timestamp": "1726060730",
-        "url": "mail_display.php?timestamp=1726060730",
-        "date": "2024/09/11 21:18",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【出納組公告】總務處出納組臨櫃收費時間調整為上班日下午4點截止",
-        "timestamp": "1726041923",
-        "url": "mail_display.php?timestamp=1726041923",
-        "date": "2024/09/11 16:05",
-        "department": "總務處",
-        "author": {
-            "department": "總務處",
-            "name": "許紹峯",
-            "email": "hsf113@gms.ndhu.edu.tw",
-            "phone": "038906361"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "教育部於5月至12月止進行電子郵件社交工程演練（第一階段成績出爐）",
-        "timestamp": "1726017061",
-        "url": "mail_display.php?timestamp=1726017061",
-        "date": "2024/09/11 09:11",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "葉宏達",
-            "email": "honda@gms.ndhu.edu.tw",
-            "phone": "8906747"
-        },
-        "attachmentCount": 1
     }
 ]

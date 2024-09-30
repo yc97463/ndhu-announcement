@@ -1,5 +1,47 @@
 [
     {
+        "title": "【代轉學生選舉委員會公告】公告第十四屆學生自治會補選選舉公報",
+        "timestamp": "1727427882",
+        "url": "mail_display.php?timestamp=1727427882",
+        "date": "2024/09/27 17:04",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "姜紫淇",
+            "email": "yaya@gms.ndhu.edu.tw",
+            "phone": "03-8906235"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【推廣教育通知】即日起至10月22日止受理推廣教育工作人員績效酬勞核發",
+        "timestamp": "1727408549",
+        "url": "mail_display.php?timestamp=1727408549",
+        "date": "2024/09/27 11:42",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "洪乃慈",
+            "email": "naitzu@gms.ndhu.edu.tw",
+            "phone": "6523"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【獎助學金申請】波錠文教基金會113年獎助學金 (限低收或家庭年收40萬以下)",
+        "timestamp": "1727406697",
+        "url": "mail_display.php?timestamp=1727406697",
+        "date": "2024/09/27 11:11",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【Important Notice】 Collection of Items Left at Study Centers A and B on September 27",
         "timestamp": "1727403906",
         "url": "mail_display.php?timestamp=1727403906",
@@ -166,47 +208,5 @@
             "phone": "(03)890-3322"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "113-1學期校園環境中心服務學習計畫_校園兩棲類調查(大一專區)",
-        "timestamp": "1727394902",
-        "url": "mail_display.php?timestamp=1727394902",
-        "date": "2024/09/27 07:55",
-        "department": "環境暨海洋學院 校園環境中心",
-        "author": {
-            "department": "環境暨海洋學院 校園環境中心",
-            "name": "程曦",
-            "email": "chengc831004@gms.ndhu.edu.tw",
-            "phone": "(03)890-3322"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【轉知】📣 📣 蝦皮購物2024東南亞新二代培力計畫，每人最高獎金10萬元!!",
-        "timestamp": "1727343381",
-        "url": "mail_display.php?timestamp=1727343381",
-        "date": "2024/09/26 17:36",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 5
-    },
-    {
-        "title": "Vytautas Magnus University 2025 Lithuanian Language and Culture Course(Online)",
-        "timestamp": "1727341311",
-        "url": "mail_display.php?timestamp=1727341311",
-        "date": "2024/09/26 17:01",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "呂姿穎",
-            "email": "doris@gms.ndhu.edu.tw",
-            "phone": "5173"
-        },
-        "attachmentCount": 5
     }
 ]

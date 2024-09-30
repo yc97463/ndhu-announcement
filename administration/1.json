@@ -1,5 +1,47 @@
 [
     {
+        "title": "秘書室異地辦公公告",
+        "timestamp": "1727658387",
+        "url": "mail_display.php?timestamp=1727658387",
+        "date": "2024/09/30 09:06",
+        "department": "秘書室議事公文組",
+        "author": {
+            "department": "秘書室議事公文組",
+            "name": "陳婉婉",
+            "email": "secretariat@gms.ndhu.edu.tw",
+            "phone": "6004"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "本校堪用舊品借用通知",
+        "timestamp": "1727657500",
+        "url": "mail_display.php?timestamp=1727657500",
+        "date": "2024/09/30 08:51",
+        "department": "總務處保管組",
+        "author": {
+            "department": "總務處保管組",
+            "name": "林慧濘",
+            "email": "maya70@gms.ndhu.edu.tw",
+            "phone": "8906344"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113年10月份全校綠地除草維護時間及施作區域公告",
+        "timestamp": "1727656038",
+        "url": "mail_display.php?timestamp=1727656038",
+        "date": "2024/09/30 08:27",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "賴宜萱",
+            "email": "lai0210@gms.ndhu.edu.tw",
+            "phone": "6393"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【海上和陸上颱風警報】山陀兒中度颱風（國際名KRATHON）海上和陸地颱風警報!  Moderate typhoon KRATHON (international name KRATHON) maritime and land typhoon warning",
         "timestamp": "1727648012",
         "url": "mail_display.php?timestamp=1727648012",
@@ -166,47 +208,5 @@
             "phone": "6352"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "主旨:學人宿舍(包含幼稚園)及素心里停水公告。",
-        "timestamp": "1727179541",
-        "url": "mail_display.php?timestamp=1727179541",
-        "date": "2024/09/24 20:05",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【行政公告】國立東華大學學生免費法律諮詢服務更換諮詢地點",
-        "timestamp": "1727147712",
-        "url": "mail_display.php?timestamp=1727147712",
-        "date": "2024/09/24 11:15",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "郭詩妘",
-            "email": "kikiguo@gms.ndhu.edu.tw",
-            "phone": "03-8906227"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "學生活動中心充電設施施工公告",
-        "timestamp": "1727145771",
-        "url": "mail_display.php?timestamp=1727145771",
-        "date": "2024/09/24 10:42",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "邱健榮",
-            "email": "janus@gms.ndhu.edu.tw",
-            "phone": "6385"
-        },
-        "attachmentCount": 1
     }
 ]
