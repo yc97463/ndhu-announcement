@@ -1,5 +1,47 @@
 [
     {
+        "title": "【活動轉知】台南家專學校財團法人台南應用科技大學辦理永續發展暨大學社會責任(USR)「USR x 永續 x SIG」跨校培力工作坊活動",
+        "timestamp": "1727312724",
+        "url": "mail_display.php?timestamp=1727312724",
+        "date": "2024/09/26 09:05",
+        "department": "永續發展中心",
+        "author": {
+            "department": "永續發展中心",
+            "name": "李敏賢",
+            "email": "sd@gms.ndhu.edu.tw",
+            "phone": "03-8635919"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "農業驗證與服務提升中心見習活動",
+        "timestamp": "1727308508",
+        "url": "mail_display.php?timestamp=1727308508",
+        "date": "2024/09/26 07:55",
+        "department": "技術服務中心 農業驗證與服務提升中心",
+        "author": {
+            "department": "技術服務中心 農業驗證與服務提升中心",
+            "name": "林欣余",
+            "email": "singyu@gms.ndhu.edu.tw",
+            "phone": "03-8903669"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "學務處深耕起飛計畫-113-1學期「AI影像生成術」",
+        "timestamp": "1727308507",
+        "url": "mail_display.php?timestamp=1727308507",
+        "date": "2024/09/26 07:55",
+        "department": "學務處 ",
+        "author": {
+            "department": "學務處",
+            "name": "鄭淑亭",
+            "email": "ting@gms.ndhu.edu.tw",
+            "phone": "038906215"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "學務處深耕起飛計畫-113-1學期「影片剪輯零門檻－剪接快速上手」",
         "timestamp": "1727308506",
         "url": "mail_display.php?timestamp=1727308506",
@@ -166,47 +208,5 @@
             "phone": "8906252"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "[專題演講]AI在科學教育研究與教學的應用9/27陳世文主講",
-        "timestamp": "1727234593",
-        "url": "mail_display.php?timestamp=1727234593",
-        "date": "2024/09/25 11:23",
-        "department": "教育與潛能開發學系",
-        "author": {
-            "department": "教育與潛能開發學系",
-            "name": "教育系",
-            "email": "esontsai@gms.ndhu.edu.tw",
-            "phone": "3824"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "［徵求］20241025 科普列車🚅服務學習及跨域自主志工",
-        "timestamp": "1727233896",
-        "url": "mail_display.php?timestamp=1727233896",
-        "date": "2024/09/25 11:11",
-        "department": "環境學院",
-        "author": {
-            "department": "環境學院",
-            "name": "羅郁庭",
-            "email": "erntmap@gms.ndhu.edu.tw",
-            "phone": "8905179"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "[宣導公告]車輛進入校園請依規定停放。",
-        "timestamp": "1727226579",
-        "url": "mail_display.php?timestamp=1727226579",
-        "date": "2024/09/25 09:09",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 0
     }
 ]

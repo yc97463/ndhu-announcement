@@ -1,5 +1,19 @@
 [
     {
+        "title": "【課務組公告】請注意113-1網路加退選時間 Please Notice the Period for Online Add/Drop Courses ",
+        "timestamp": "1725606092",
+        "url": "mail_display.php?timestamp=1725606092",
+        "date": "2024/09/06 15:01",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113-1校核心通識課程尚有選課人數統計資料公告",
         "timestamp": "1725599877",
         "url": "mail_display.php?timestamp=1725599877",
@@ -192,20 +206,6 @@
             "name": "陳美娥",
             "email": "mayer@gms.ndhu.edu.tw",
             "phone": "8906607"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "體育(一)第一週上課集合場地：體育館",
-        "timestamp": "1724922462",
-        "url": "mail_display.php?timestamp=1724922462",
-        "date": "2024/08/29 17:07",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "莊璦綺",
-            "email": "ichi@gms.ndhu.edu.tw",
-            "phone": "038906613"
         },
         "attachmentCount": 1
     }

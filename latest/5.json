@@ -1,5 +1,47 @@
 [
     {
+        "title": "[專題演講]AI在科學教育研究與教學的應用9/27陳世文主講",
+        "timestamp": "1727234593",
+        "url": "mail_display.php?timestamp=1727234593",
+        "date": "2024/09/25 11:23",
+        "department": "教育與潛能開發學系",
+        "author": {
+            "department": "教育與潛能開發學系",
+            "name": "教育系",
+            "email": "esontsai@gms.ndhu.edu.tw",
+            "phone": "3824"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "［徵求］20241025 科普列車🚅服務學習及跨域自主志工",
+        "timestamp": "1727233896",
+        "url": "mail_display.php?timestamp=1727233896",
+        "date": "2024/09/25 11:11",
+        "department": "環境學院",
+        "author": {
+            "department": "環境學院",
+            "name": "羅郁庭",
+            "email": "erntmap@gms.ndhu.edu.tw",
+            "phone": "8905179"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "[宣導公告]車輛進入校園請依規定停放。",
+        "timestamp": "1727226579",
+        "url": "mail_display.php?timestamp=1727226579",
+        "date": "2024/09/25 09:09",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【健康促進講座】考前紓壓，芳療守護健康，報名從速!",
         "timestamp": "1727225466",
         "url": "mail_display.php?timestamp=1727225466",
@@ -166,47 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【轉知】中原大學113年10月23日辦理「職涯發展暨就業學程歷程分享會」",
-        "timestamp": "1727170441",
-        "url": "mail_display.php?timestamp=1727170441",
-        "date": "2024/09/24 17:34",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "Models for photoshoots",
-        "timestamp": "1727168637",
-        "url": "mail_display.php?timestamp=1727168637",
-        "date": "2024/09/24 17:03",
-        "department": "原住民族研究國際博士班",
-        "author": {
-            "department": "原住民族研究國際博士班",
-            "name": "Ms. Dungi黃怡瑄",
-            "email": "dungi@gms.ndhu.edu.tw",
-            "phone": "038905760"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【重要通知】暫時開放K書中心A館討論區及個人物品領取 Temporary Opening of K-Book Center A Discussion Area and Collection of Personal Items(第二次公告）",
-        "timestamp": "1727167369",
-        "url": "mail_display.php?timestamp=1727167369",
-        "date": "2024/09/24 16:42",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "陳小姐",
-            "email": "Sian@gms.ndhu.edu.tw",
-            "phone": "5846"
-        },
-        "attachmentCount": 1
     }
 ]

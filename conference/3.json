@@ -1,5 +1,19 @@
 [
     {
+        "title": "【轉知】2024總統盃黑客松「徵件說明會暨資料應用講座」活動",
+        "timestamp": "1719296572",
+        "url": "mail_display.php?timestamp=1719296572",
+        "date": "2024/06/25 14:22",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "陳美杏",
+            "email": "msing@gms.ndhu.edu.tw",
+            "phone": "6053"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【華語碩博班-演講公告】2024.07.02 何寶璋 教授「飲食與文化」",
         "timestamp": "1719134798",
         "url": "mail_display.php?timestamp=1719134798",
@@ -194,19 +208,5 @@
             "phone": "0909039764"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【Forward 協助轉知】2024中山永續月-「永續發展與社會實踐論壇」",
-        "timestamp": "1716258595",
-        "url": "mail_display.php?timestamp=1716258595",
-        "date": "2024/05/21 10:29",
-        "department": "永續發展中心籌備處",
-        "author": {
-            "department": "永續發展中心籌備處",
-            "name": "李莉莉 Li-Li Lee",
-            "email": "sd@gms.ndhu.edu.tw",
-            "phone": "03-8905920"
-        },
-        "attachmentCount": 4
     }
 ]
