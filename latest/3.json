@@ -1,5 +1,33 @@
 [
     {
+        "title": "【第二次公告】 10/1(二)王鴻濬特聘教授演講：永續發展與聯合國永續發展目標SDGs",
+        "timestamp": "1727398597",
+        "url": "mail_display.php?timestamp=1727398597",
+        "date": "2024/09/27 08:56",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "楊惠雯",
+            "email": "hwyang@gms.ndhu.edu.tw",
+            "phone": "6061"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【健康促進講座】考前紓壓，芳療守護健康，報名從速!",
+        "timestamp": "1727394911",
+        "url": "mail_display.php?timestamp=1727394911",
+        "date": "2024/09/27 07:55",
+        "department": "學務處 衛生保健組",
+        "author": {
+            "department": "學務處 衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【資工系專題講座】9/27(五) 捷鵬國際金融集團 周振豐董事長",
         "timestamp": "1727394910",
         "url": "mail_display.php?timestamp=1727394910",
@@ -180,33 +208,5 @@
             "phone": "8906220"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【徵聘公告】國立東華大學英美語文學系徵聘專任教師二名",
-        "timestamp": "1727334371",
-        "url": "mail_display.php?timestamp=1727334371",
-        "date": "2024/09/26 15:06",
-        "department": "英美語文學系",
-        "author": {
-            "department": "英美語文學系",
-            "name": "顏余珊",
-            "email": "shanshan221@gms.ndhu.edu.tw",
-            "phone": "03-8905292"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "室內游泳池儲熱桶施工公告",
-        "timestamp": "1727334069",
-        "url": "mail_display.php?timestamp=1727334069",
-        "date": "2024/09/26 15:01",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "林國偉",
-            "email": "dear0130@gms.ndhu.edu.tw",
-            "phone": "038906617"
-        },
-        "attachmentCount": 0
     }
 ]
