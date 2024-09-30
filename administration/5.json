@@ -1,5 +1,47 @@
 [
     {
+        "title": "【兵役訊息】內政部辦理113年就讀專科以上83至93年次在學男子，申請分階段接受常備兵役軍事訓練公告",
+        "timestamp": "1726113277",
+        "url": "mail_display.php?timestamp=1726113277",
+        "date": "2024/09/12 11:54",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "6225"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "114年1～6月份「推動國際學術合作交流補助」計畫，即日起受理申請至10月14日為止。",
+        "timestamp": "1726109860",
+        "url": "mail_display.php?timestamp=1726109860",
+        "date": "2024/09/12 10:57",
+        "department": "國際事務處國際合作組",
+        "author": {
+            "department": "國際事務處國際合作組",
+            "name": "梁忠誠",
+            "email": "ice@gms.ndhu.edu.tw",
+            "phone": "5108"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【行政公告】國立東華大學學生免費法律諮詢服務",
+        "timestamp": "1726104298",
+        "url": "mail_display.php?timestamp=1726104298",
+        "date": "2024/09/12 09:24",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "郭詩妘",
+            "email": "kikiguo@gms.ndhu.edu.tw",
+            "phone": "038906227"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "113-2「學期課程借用電腦教室」9/12(四)～9/20(五) 17:00止受理申請。",
         "timestamp": "1726104127",
         "url": "mail_display.php?timestamp=1726104127",
@@ -166,47 +208,5 @@
             "phone": "8906422"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "113年9月10日至20日辦理本校田園基地開放申請作業。",
-        "timestamp": "1725929790",
-        "url": "mail_display.php?timestamp=1725929790",
-        "date": "2024/09/10 08:56",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "賴宜萱",
-            "email": "lai0210@gms.ndhu.edu.tw",
-            "phone": "6393"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "113學年第1學期開學總務處業務相關注意事項",
-        "timestamp": "1725868243",
-        "url": "mail_display.php?timestamp=1725868243",
-        "date": "2024/09/09 15:50",
-        "department": "總務處",
-        "author": {
-            "department": "總務處",
-            "name": "陳宇欽",
-            "email": "yuchin@gms.ndhu.edu.tw",
-            "phone": "6307"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "TEJ臺灣經濟新報資料庫(TEJ Pro)系統升級通知",
-        "timestamp": "1725860919",
-        "url": "mail_display.php?timestamp=1725860919",
-        "date": "2024/09/09 13:48",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "陳昱佐",
-            "email": "yutuchen@gms.ndhu.edu.tw",
-            "phone": "038906824"
-        },
-        "attachmentCount": 2
     }
 ]

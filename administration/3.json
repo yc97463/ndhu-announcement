@@ -1,5 +1,47 @@
 [
     {
+        "title": "【資安訊息公告】有關Google Map單位名稱遭變更處理方式說明",
+        "timestamp": "1727046626",
+        "url": "mail_display.php?timestamp=1727046626",
+        "date": "2024/09/23 07:10",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "李宇峰",
+            "email": "eric@mail.ndhu.edu.tw",
+            "phone": "03-8906721"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【學生宿舍】未領取寄放宿舍行李與物品之同學，請儘速領取。",
+        "timestamp": "1726821706",
+        "url": "mail_display.php?timestamp=1726821706",
+        "date": "2024/09/20 16:41",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "鍾佩玲",
+            "email": "free22011@gms.ndhu.edu.tw",
+            "phone": "03890-6217"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "湖畔餐廳二樓餐廳新開幕公告",
+        "timestamp": "1726818352",
+        "url": "mail_display.php?timestamp=1726818352",
+        "date": "2024/09/20 15:45",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "賴榮璉",
+            "email": "chrishnalai@gms.ndhu.edu.tw",
+            "phone": "6237"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【教育優先區】114年寒假教育優先區中小學營隊活動，校內申請即日起至113年10月18日(五)下午17:00收件截止!!! Application for the K-12 School Camp Activities during winter break of academic year 2024-2025",
         "timestamp": "1726817852",
         "url": "mail_display.php?timestamp=1726817852",
@@ -166,47 +208,5 @@
             "phone": "6824"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【防災演練】人社樓館113年度地震防災演練公告與說明 / 2024 Humanities and Social Sciences Buildings Earthquake Evacuation Drill Notice",
-        "timestamp": "1726628537",
-        "url": "mail_display.php?timestamp=1726628537",
-        "date": "2024/09/18 11:02",
-        "department": "人文社會科學學院",
-        "author": {
-            "department": "人文社會科學學院",
-            "name": "姜妃澤",
-            "email": "ftc1029@gms.ndhu.edu.tw",
-            "phone": "03-8905203"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "公告113-1校核心資訊科技領域-「中級程式設計-虛擬實境AA」課程尚有名額，敬請踴躍加選課程",
-        "timestamp": "1726627212",
-        "url": "mail_display.php?timestamp=1726627212",
-        "date": "2024/09/18 10:40",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "本校於113年「國家防災日」實施防震避難演練，請全校人員共同執行災防演練。(Our school will conduct earthquake prevention and evacuation drills on the 2024 National Disaster Prevention Day, and all school staff will be asked to perform the disaster prevention drills together.)",
-        "timestamp": "1726623675",
-        "url": "mail_display.php?timestamp=1726623675",
-        "date": "2024/09/18 09:41",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "吳昭毅",
-            "email": "wuyi12831@gms.ndhu.edu.tw",
-            "phone": "038906228"
-        },
-        "attachmentCount": 1
     }
 ]

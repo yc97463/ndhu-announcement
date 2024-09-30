@@ -1,5 +1,47 @@
 [
     {
+        "title": "113-1教職員暨眷屬運動增能班錄取名單",
+        "timestamp": "1727428682",
+        "url": "mail_display.php?timestamp=1727428682",
+        "date": "2024/09/27 17:18",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "莊璦綺",
+            "email": "ichi@gms.ndhu.edu.tw",
+            "phone": "6613"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【代轉學生選舉委員會公告】公告第十四屆學生自治會補選選舉公報",
+        "timestamp": "1727427882",
+        "url": "mail_display.php?timestamp=1727427882",
+        "date": "2024/09/27 17:04",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "姜紫淇",
+            "email": "yaya@gms.ndhu.edu.tw",
+            "phone": "03-8906235"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【健康促進講座】考前紓壓，芳療守護健康，報名從速!",
+        "timestamp": "1727394911",
+        "url": "mail_display.php?timestamp=1727394911",
+        "date": "2024/09/27 07:55",
+        "department": "學務處 衛生保健組",
+        "author": {
+            "department": "學務處 衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【資工系專題講座】9/27(五) 捷鵬國際金融集團 周振豐董事長",
         "timestamp": "1727394910",
         "url": "mail_display.php?timestamp=1727394910",
@@ -166,47 +208,5 @@
             "phone": "03-8905168"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【活動轉知】台南家專學校財團法人台南應用科技大學辦理永續發展暨大學社會責任(USR)「USR x 永續 x SIG」跨校培力工作坊活動",
-        "timestamp": "1727312724",
-        "url": "mail_display.php?timestamp=1727312724",
-        "date": "2024/09/26 09:05",
-        "department": "永續發展中心",
-        "author": {
-            "department": "永續發展中心",
-            "name": "李敏賢",
-            "email": "sd@gms.ndhu.edu.tw",
-            "phone": "03-8635919"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "農業驗證與服務提升中心見習活動",
-        "timestamp": "1727308508",
-        "url": "mail_display.php?timestamp=1727308508",
-        "date": "2024/09/26 07:55",
-        "department": "技術服務中心 農業驗證與服務提升中心",
-        "author": {
-            "department": "技術服務中心 農業驗證與服務提升中心",
-            "name": "林欣余",
-            "email": "singyu@gms.ndhu.edu.tw",
-            "phone": "03-8903669"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "學務處深耕起飛計畫-113-1學期「AI影像生成術」",
-        "timestamp": "1727308507",
-        "url": "mail_display.php?timestamp=1727308507",
-        "date": "2024/09/26 07:55",
-        "department": "學務處 ",
-        "author": {
-            "department": "學務處",
-            "name": "鄭淑亭",
-            "email": "ting@gms.ndhu.edu.tw",
-            "phone": "038906215"
-        },
-        "attachmentCount": 0
     }
 ]

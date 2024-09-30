@@ -1,5 +1,75 @@
 [
     {
+        "title": "【第二次公告】國家環境研究院113年淨零大專到校推廣課程",
+        "timestamp": "1727664653",
+        "url": "mail_display.php?timestamp=1727664653",
+        "date": "2024/09/30 10:50",
+        "department": "永續發展中心",
+        "author": {
+            "department": "永續發展中心",
+            "name": "李敏賢",
+            "email": "sd@gms.ndhu.edu.tw",
+            "phone": "03-8905919"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【財金系專題演講】10/4(五) 14:00 ~ 16:00 EXPLORING CARBON TAX DYNAMICS IN THE TRANSPORT SECTOR",
+        "timestamp": "1727662933",
+        "url": "mail_display.php?timestamp=1727662933",
+        "date": "2024/09/30 10:22",
+        "department": "財務金融學系",
+        "author": {
+            "department": "財務金融學系",
+            "name": "林役霜",
+            "email": "ys012@gms.ndhu.edu.tw",
+            "phone": "3132"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【活動】113-1 The Writing Clinic 英文寫作諮詢服務",
+        "timestamp": "1727662053",
+        "url": "mail_display.php?timestamp=1727662053",
+        "date": "2024/09/30 10:07",
+        "department": "語言中心",
+        "author": {
+            "department": "語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "秘書室異地辦公公告",
+        "timestamp": "1727658387",
+        "url": "mail_display.php?timestamp=1727658387",
+        "date": "2024/09/30 09:06",
+        "department": "秘書室議事公文組",
+        "author": {
+            "department": "秘書室議事公文組",
+            "name": "陳婉婉",
+            "email": "secretariat@gms.ndhu.edu.tw",
+            "phone": "6004"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "本校堪用舊品借用通知",
+        "timestamp": "1727657500",
+        "url": "mail_display.php?timestamp=1727657500",
+        "date": "2024/09/30 08:51",
+        "department": "總務處保管組",
+        "author": {
+            "department": "總務處保管組",
+            "name": "林慧濘",
+            "email": "maya70@gms.ndhu.edu.tw",
+            "phone": "8906344"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113年10月份全校綠地除草維護時間及施作區域公告",
         "timestamp": "1727656038",
         "url": "mail_display.php?timestamp=1727656038",
@@ -138,75 +208,5 @@
             "phone": "3632"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "生科系10/4(週五)第二場專題講座公告，歡迎踴躍參加~~",
-        "timestamp": "1727481303",
-        "url": "mail_display.php?timestamp=1727481303",
-        "date": "2024/09/28 07:55",
-        "department": "理工學院 生化暨分子醫學科學系",
-        "author": {
-            "department": "理工學院 生化暨分子醫學科學系",
-            "name": "元淑英",
-            "email": "syyuan@gms.ndhu.edu.tw",
-            "phone": "3632"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【113-1 性平關我什麼事？】第二講－師生戀行不行？權勢、性騷擾",
-        "timestamp": "1727481302",
-        "url": "mail_display.php?timestamp=1727481302",
-        "date": "2024/09/28 07:55",
-        "department": "花師教育學院 教育與潛能開發學系",
-        "author": {
-            "department": "花師教育學院 教育與潛能開發學系",
-            "name": "王敬堯",
-            "email": "611088102@gms.ndhu.edu.tw",
-            "phone": "0971217585"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "113-1教職員暨眷屬運動增能班錄取名單",
-        "timestamp": "1727428682",
-        "url": "mail_display.php?timestamp=1727428682",
-        "date": "2024/09/27 17:18",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "莊璦綺",
-            "email": "ichi@gms.ndhu.edu.tw",
-            "phone": "6613"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【代轉學生選舉委員會公告】公告第十四屆學生自治會補選選舉公報",
-        "timestamp": "1727427882",
-        "url": "mail_display.php?timestamp=1727427882",
-        "date": "2024/09/27 17:04",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "姜紫淇",
-            "email": "yaya@gms.ndhu.edu.tw",
-            "phone": "03-8906235"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【推廣教育通知】即日起至10月22日止受理推廣教育工作人員績效酬勞核發",
-        "timestamp": "1727408549",
-        "url": "mail_display.php?timestamp=1727408549",
-        "date": "2024/09/27 11:42",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "洪乃慈",
-            "email": "naitzu@gms.ndhu.edu.tw",
-            "phone": "6523"
-        },
-        "attachmentCount": 1
     }
 ]
