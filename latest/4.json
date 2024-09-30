@@ -1,5 +1,19 @@
 [
     {
+        "title": "【資工系專題講座】9/27(五) 捷鵬國際金融集團 周振豐董事長",
+        "timestamp": "1727394910",
+        "url": "mail_display.php?timestamp=1727394910",
+        "date": "2024/09/27 07:55",
+        "department": "理工學院 資訊工程學系",
+        "author": {
+            "department": "理工學院 資訊工程學系",
+            "name": "葉子綺",
+            "email": "kiki2002@gms.ndhu.edu.tw",
+            "phone": "5012"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "敬邀同學參加1008健康講座:談戀愛不等於親密行為",
         "timestamp": "1727394909",
         "url": "mail_display.php?timestamp=1727394909",
@@ -194,19 +208,5 @@
             "phone": "038906617"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【徵才】台灣人材ネット_第十六屆日本企業就職博覽會線上徵才活動",
-        "timestamp": "1727332928",
-        "url": "mail_display.php?timestamp=1727332928",
-        "date": "2024/09/26 14:42",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 5
     }
 ]
