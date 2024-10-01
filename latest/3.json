@@ -1,5 +1,47 @@
 [
     {
+        "title": "114學年度 教學實踐研究計畫初稿 外審服務 校內徵件",
+        "timestamp": "1727668325",
+        "url": "mail_display.php?timestamp=1727668325",
+        "date": "2024/09/30 11:52",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳禮凡",
+            "email": "lifan.chen@gms.ndhu.edu.tw",
+            "phone": "038906586"
+        },
+        "attachmentCount": 6
+    },
+    {
+        "title": "【第二次公告】國家環境研究院113年淨零大專到校推廣課程",
+        "timestamp": "1727664653",
+        "url": "mail_display.php?timestamp=1727664653",
+        "date": "2024/09/30 10:50",
+        "department": "永續發展中心",
+        "author": {
+            "department": "永續發展中心",
+            "name": "李敏賢",
+            "email": "sd@gms.ndhu.edu.tw",
+            "phone": "03-8905919"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【財金系專題演講】10/4(五) 14:00 ~ 16:00 EXPLORING CARBON TAX DYNAMICS IN THE TRANSPORT SECTOR",
+        "timestamp": "1727662933",
+        "url": "mail_display.php?timestamp=1727662933",
+        "date": "2024/09/30 10:22",
+        "department": "財務金融學系",
+        "author": {
+            "department": "財務金融學系",
+            "name": "林役霜",
+            "email": "ys012@gms.ndhu.edu.tw",
+            "phone": "3132"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【活動】113-1 The Writing Clinic 英文寫作諮詢服務",
         "timestamp": "1727662053",
         "url": "mail_display.php?timestamp=1727662053",
@@ -166,47 +208,5 @@
             "phone": "038905778"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "生科系10/4(週五)專題講座公告，歡迎踴躍參加~~",
-        "timestamp": "1727481304",
-        "url": "mail_display.php?timestamp=1727481304",
-        "date": "2024/09/28 07:55",
-        "department": "理工學院 生化暨分子醫學科學系",
-        "author": {
-            "department": "理工學院 生化暨分子醫學科學系",
-            "name": "元淑英",
-            "email": "syyuan@gms.ndhu.edu.tw",
-            "phone": "3632"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "生科系10/4(週五)第二場專題講座公告，歡迎踴躍參加~~",
-        "timestamp": "1727481303",
-        "url": "mail_display.php?timestamp=1727481303",
-        "date": "2024/09/28 07:55",
-        "department": "理工學院 生化暨分子醫學科學系",
-        "author": {
-            "department": "理工學院 生化暨分子醫學科學系",
-            "name": "元淑英",
-            "email": "syyuan@gms.ndhu.edu.tw",
-            "phone": "3632"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【113-1 性平關我什麼事？】第二講－師生戀行不行？權勢、性騷擾",
-        "timestamp": "1727481302",
-        "url": "mail_display.php?timestamp=1727481302",
-        "date": "2024/09/28 07:55",
-        "department": "花師教育學院 教育與潛能開發學系",
-        "author": {
-            "department": "花師教育學院 教育與潛能開發學系",
-            "name": "王敬堯",
-            "email": "611088102@gms.ndhu.edu.tw",
-            "phone": "0971217585"
-        },
-        "attachmentCount": 0
     }
 ]
