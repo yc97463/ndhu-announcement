@@ -1,5 +1,19 @@
 [
     {
+        "title": "(更新連結)❗第六屆T大使計畫說明會(東華大學)強力招募❗",
+        "timestamp": "1727750993",
+        "url": "mail_display.php?timestamp=1727750993",
+        "date": "2024/10/01 10:49",
+        "department": "跨領域學術研究中心",
+        "author": {
+            "department": "跨領域學術研究中心",
+            "name": "江東隆",
+            "email": "stb.tony@gms.ndhu.edu.tw",
+            "phone": "038903772"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "【發社系】113-1民族講座：過不一樣的人生會怎樣？快速變化的時代裡，如何找到適合自己的跑道",
         "timestamp": "1727740506",
         "url": "mail_display.php?timestamp=1727740506",
@@ -194,19 +208,5 @@
             "phone": "6329"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "第六屆T大使計畫說明會(東華大學)強力招募",
-        "timestamp": "1727683083",
-        "url": "mail_display.php?timestamp=1727683083",
-        "date": "2024/09/30 15:58",
-        "department": "跨領域學術研究中心",
-        "author": {
-            "department": "跨領域學術研究中心",
-            "name": "江東隆",
-            "email": "stb.tony@gms.ndhu.edu.tw",
-            "phone": "3772"
-        },
-        "attachmentCount": 5
     }
 ]

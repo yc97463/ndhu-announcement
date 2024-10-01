@@ -1,5 +1,19 @@
 [
     {
+        "title": "TEJ臺灣經濟新報資料庫(TEJ Pro)系統升級通知",
+        "timestamp": "1725860919",
+        "url": "mail_display.php?timestamp=1725860919",
+        "date": "2024/09/09 13:48",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "陳昱佐",
+            "email": "yutuchen@gms.ndhu.edu.tw",
+            "phone": "038906824"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "請授課教師提供113學年度第1學期「教師指定參考書清單」，謝謝。",
         "timestamp": "1725859832",
         "url": "mail_display.php?timestamp=1725859832",
@@ -194,19 +208,5 @@
             "phone": "8906344"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【徵才】經濟部所屬台灣中油股份有限公司113年新進博士級職員甄試",
-        "timestamp": "1725444376",
-        "url": "mail_display.php?timestamp=1725444376",
-        "date": "2024/09/04 18:06",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 7
     }
 ]
