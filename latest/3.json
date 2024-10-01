@@ -1,5 +1,19 @@
 [
     {
+        "title": "【活動】113-1 The Writing Clinic 英文寫作諮詢服務",
+        "timestamp": "1727662053",
+        "url": "mail_display.php?timestamp=1727662053",
+        "date": "2024/09/30 10:07",
+        "department": "語言中心",
+        "author": {
+            "department": "語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "秘書室異地辦公公告",
         "timestamp": "1727658387",
         "url": "mail_display.php?timestamp=1727658387",
@@ -194,19 +208,5 @@
             "phone": "0971217585"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "113-1教職員暨眷屬運動增能班錄取名單",
-        "timestamp": "1727428682",
-        "url": "mail_display.php?timestamp=1727428682",
-        "date": "2024/09/27 17:18",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "莊璦綺",
-            "email": "ichi@gms.ndhu.edu.tw",
-            "phone": "6613"
-        },
-        "attachmentCount": 1
     }
 ]
