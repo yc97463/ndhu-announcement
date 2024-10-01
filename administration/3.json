@@ -1,19 +1,5 @@
 [
     {
-        "title": "113學年度第1學期兵役緩徵、儘召網路登錄開放申請最後一次通知",
-        "timestamp": "1727071956",
-        "url": "mail_display.php?timestamp=1727071956",
-        "date": "2024/09/23 14:12",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "黃勇程",
-            "email": "victor0903@gms.ndhu.edu.tw",
-            "phone": "6225"
-        },
-        "attachmentCount": 0
-    },
-    {
         "title": "教育部於5月至12月止進行電子郵件社交工程演練",
         "timestamp": "1727058227",
         "url": "mail_display.php?timestamp=1727058227",
@@ -206,6 +192,20 @@
             "name": "曾俊達",
             "email": "kleiber0576@gms.ndhu.edu.tw",
             "phone": "(03)8906079"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "志學門路口交通改善工程完工公告",
+        "timestamp": "1726725681",
+        "url": "mail_display.php?timestamp=1726725681",
+        "date": "2024/09/19 14:01",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "黃章傑",
+            "email": "cotycafe@gms.ndhu.edu.tw",
+            "phone": "038905778"
         },
         "attachmentCount": 0
     }

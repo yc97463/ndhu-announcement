@@ -42,20 +42,6 @@
         "attachmentCount": 1
     },
     {
-        "title": "113年9月30日夜間垃圾車停止清運Garbage trucks will cease service at night on September 30, 2013",
-        "timestamp": "1727687143",
-        "url": "mail_display.php?timestamp=1727687143",
-        "date": "2024/09/30 17:05",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "許智翔",
-            "email": "cocco3746@gms.ndhu.edu.tw",
-            "phone": "03-8906399"
-        },
-        "attachmentCount": 0
-    },
-    {
         "title": "【安全宣導】颱風期間非必要勿外出，雨天行車請減速慢行，避免緊急煞車【Safety Reminder】Road Safety on Rainy Days",
         "timestamp": "1727684835",
         "url": "mail_display.php?timestamp=1727684835",
@@ -208,5 +194,19 @@
             "phone": "038906228"
         },
         "attachmentCount": 0
+    },
+    {
+        "title": "提醒防颱準備(公告)",
+        "timestamp": "1727587621",
+        "url": "mail_display.php?timestamp=1727587621",
+        "date": "2024/09/29 13:27",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 2
     }
 ]

@@ -1,5 +1,75 @@
 [
     {
+        "title": "因颱風影響，113年9月30日晚上電腦教室不開放。The computer lab one will be closed on September 30 ,2024 at 18-22.",
+        "timestamp": "1727682079",
+        "url": "mail_display.php?timestamp=1727682079",
+        "date": "2024/09/30 15:41",
+        "department": "圖書資訊處綜合業務組",
+        "author": {
+            "department": "圖書資訊處綜合業務組",
+            "name": "林循美",
+            "email": "cindy@gms.ndhu.edu.tw",
+            "phone": "8906774"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【圖書館公告】今(9/30)日17:00起休館。花蓮縣因颱風停止上班、停止上課。",
+        "timestamp": "1727681831",
+        "url": "mail_display.php?timestamp=1727681831",
+        "date": "2024/09/30 15:37",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "詹依萍",
+            "email": "ipchan@gms.ndhu.edu.tw",
+            "phone": "6813"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【人事室】依花蓮縣政府公告，今(30)晚間六時起停止上班上課",
+        "timestamp": "1727681426",
+        "url": "mail_display.php?timestamp=1727681426",
+        "date": "2024/09/30 15:30",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "劉依虹",
+            "email": "joyce_liu@gms.ndhu.edu.tw",
+            "phone": "6060"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "9/30 18:00 起，體育場館暫停開放",
+        "timestamp": "1727681218",
+        "url": "mail_display.php?timestamp=1727681218",
+        "date": "2024/09/30 15:26",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "楊永義",
+            "email": "yyy@gms.ndhu.edu.tw",
+            "phone": "0911765302"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【K中A館閉館公告】因颱風來襲K中A館自113年9/30(一)起暫時閉館",
+        "timestamp": "1727680889",
+        "url": "mail_display.php?timestamp=1727680889",
+        "date": "2024/09/30 15:21",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳小姐",
+            "email": "sian@gms.ndhu.edu.tw",
+            "phone": "5846"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【教育優先區】114年寒假教育優先區中小學營隊活動，校內申請即日起至113年10月18日(五)下午17:00收件截止!!! Application for the K-12 School Camp Activities during winter break of academic year 2024-2025",
         "timestamp": "1727673391",
         "url": "mail_display.php?timestamp=1727673391",
@@ -138,75 +208,5 @@
             "phone": "8906344"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "113年10月份全校綠地除草維護時間及施作區域公告",
-        "timestamp": "1727656038",
-        "url": "mail_display.php?timestamp=1727656038",
-        "date": "2024/09/30 08:27",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "賴宜萱",
-            "email": "lai0210@gms.ndhu.edu.tw",
-            "phone": "6393"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【海上和陸上颱風警報】山陀兒中度颱風（國際名KRATHON）海上和陸地颱風警報!  Moderate typhoon KRATHON (international name KRATHON) maritime and land typhoon warning",
-        "timestamp": "1727648012",
-        "url": "mail_display.php?timestamp=1727648012",
-        "date": "2024/09/30 06:13",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "吳昭毅",
-            "email": "wuyi12831@gms.ndhu.edu.tw",
-            "phone": "038906228"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "提醒志學街(中正路) 10月1日換邊停車，請同學記得移動車輛並依告示停放，勿隨意臨停，以免影響交通，遭到拖吊！",
-        "timestamp": "1727645204",
-        "url": "mail_display.php?timestamp=1727645204",
-        "date": "2024/09/30 05:26",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "吳昭毅",
-            "email": "wuyi12831@gms.ndhu.edu.tw",
-            "phone": "038906228"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "提醒防颱準備(公告)",
-        "timestamp": "1727587621",
-        "url": "mail_display.php?timestamp=1727587621",
-        "date": "2024/09/29 13:27",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【海上颱風警報】輕度颱風「山陀兒」海上警報已於本日08時30分發布，請注意！The Central Weather Bureau Typhoon Watch Advisory #18【 KRATHON 】",
-        "timestamp": "1727574514",
-        "url": "mail_display.php?timestamp=1727574514",
-        "date": "2024/09/29 09:48",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "郭詩妘",
-            "email": "kikiguo@gms.ndhu.edu.tw",
-            "phone": "03-8906227"
-        },
-        "attachmentCount": 4
     }
 ]

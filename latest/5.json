@@ -1,5 +1,75 @@
 [
     {
+        "title": "Vytautas Magnus University 2025 Lithuanian Language and Culture Course(Online)",
+        "timestamp": "1727341311",
+        "url": "mail_display.php?timestamp=1727341311",
+        "date": "2024/09/26 17:01",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "呂姿穎",
+            "email": "doris@gms.ndhu.edu.tw",
+            "phone": "5173"
+        },
+        "attachmentCount": 5
+    },
+    {
+        "title": "Vytautas Magnus University 2025 Lithuanian Language and Culture Course(Contact)",
+        "timestamp": "1727340569",
+        "url": "mail_display.php?timestamp=1727340569",
+        "date": "2024/09/26 16:49",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "呂姿穎",
+            "email": "doris@gms.ndhu.edu.tw",
+            "phone": "5173"
+        },
+        "attachmentCount": 5
+    },
+    {
+        "title": "【性平宣導】系所及社團辦理迎新活動提醒",
+        "timestamp": "1727336966",
+        "url": "mail_display.php?timestamp=1727336966",
+        "date": "2024/09/26 15:49",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "王玉君",
+            "email": "hu.jean0503@gms.ndhu.edu.tw",
+            "phone": "8906220"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "【徵聘公告】國立東華大學英美語文學系徵聘專任教師二名",
+        "timestamp": "1727334371",
+        "url": "mail_display.php?timestamp=1727334371",
+        "date": "2024/09/26 15:06",
+        "department": "英美語文學系",
+        "author": {
+            "department": "英美語文學系",
+            "name": "顏余珊",
+            "email": "shanshan221@gms.ndhu.edu.tw",
+            "phone": "03-8905292"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "室內游泳池儲熱桶施工公告",
+        "timestamp": "1727334069",
+        "url": "mail_display.php?timestamp=1727334069",
+        "date": "2024/09/26 15:01",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "林國偉",
+            "email": "dear0130@gms.ndhu.edu.tw",
+            "phone": "038906617"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才】台灣人材ネット_第十六屆日本企業就職博覽會線上徵才活動",
         "timestamp": "1727332928",
         "url": "mail_display.php?timestamp=1727332928",
@@ -138,75 +208,5 @@
             "phone": "3574"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【企管系暨運籌所】113-1 Language Lounge-Different indoor Games(第二場)",
-        "timestamp": "1727308504",
-        "url": "mail_display.php?timestamp=1727308504",
-        "date": "2024/09/26 07:55",
-        "department": "管理學院 企業管理學系",
-        "author": {
-            "department": "管理學院 企業管理學系",
-            "name": "陳雅芳",
-            "email": "mayachen@gms.ndhu.edu.tw",
-            "phone": "3162"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【企管系暨運籌所】113-1 Language Lounge-Introductions \u0026 Show and Tell(第一場)",
-        "timestamp": "1727308503",
-        "url": "mail_display.php?timestamp=1727308503",
-        "date": "2024/09/26 07:55",
-        "department": "管理學院 企業管理學系",
-        "author": {
-            "department": "管理學院 企業管理學系",
-            "name": "陳雅芳",
-            "email": "mayachen@gms.ndhu.edu.tw",
-            "phone": "3162"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "自資系專題演講-NbS自然解方的自然資本評估：以玉里森林復育計畫為例",
-        "timestamp": "1727308502",
-        "url": "mail_display.php?timestamp=1727308502",
-        "date": "2024/09/26 07:55",
-        "department": "環境暨海洋學院 自然資源與環境學系",
-        "author": {
-            "department": "環境暨海洋學院 自然資源與環境學系",
-            "name": "夏懿心",
-            "email": "heart630@gms.ndhu.edu.tw",
-            "phone": "8903277"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【元大證券-理財菁英實習計畫】說明會",
-        "timestamp": "1727308501",
-        "url": "mail_display.php?timestamp=1727308501",
-        "date": "2024/09/26 07:55",
-        "department": "管理學院 財務金融學系",
-        "author": {
-            "department": "管理學院 財務金融學系",
-            "name": "呂羅晟峰",
-            "email": "luluo@gms.ndhu.edu.tw",
-            "phone": "8903132"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "🚂東華玩具樂園物流中心 十月玩具志工招募中！",
-        "timestamp": "1727255600",
-        "url": "mail_display.php?timestamp=1727255600",
-        "date": "2024/09/25 17:13",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "東華玩具樂園物流中心",
-            "email": "techusr@gms.ndhu.edu.tw",
-            "phone": "3771"
-        },
-        "attachmentCount": 2
     }
 ]

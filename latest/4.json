@@ -1,5 +1,75 @@
 [
     {
+        "title": "【獎助學金申請】波錠文教基金會113年獎助學金 (限低收或家庭年收40萬以下)",
+        "timestamp": "1727406697",
+        "url": "mail_display.php?timestamp=1727406697",
+        "date": "2024/09/27 11:11",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【Important Notice】 Collection of Items Left at Study Centers A and B on September 27",
+        "timestamp": "1727403906",
+        "url": "mail_display.php?timestamp=1727403906",
+        "date": "2024/09/27 10:25",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳小姐",
+            "email": "sian@gms.ndhu.edu.tw",
+            "phone": "6584"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【重要通知】9月27日 開放領取K書中心兩館遺留物品，請同學盡速前往K書中心A館領取",
+        "timestamp": "1727401207",
+        "url": "mail_display.php?timestamp=1727401207",
+        "date": "2024/09/27 09:40",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳小姐",
+            "email": "daidai@gms.ndhu.edu.tw",
+            "phone": "sian"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【第二次公告】 10/1(二)王鴻濬特聘教授演講：永續發展與聯合國永續發展目標SDGs",
+        "timestamp": "1727398597",
+        "url": "mail_display.php?timestamp=1727398597",
+        "date": "2024/09/27 08:56",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "楊惠雯",
+            "email": "hwyang@gms.ndhu.edu.tw",
+            "phone": "6061"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【健康促進講座】考前紓壓，芳療守護健康，報名從速!",
+        "timestamp": "1727394911",
+        "url": "mail_display.php?timestamp=1727394911",
+        "date": "2024/09/27 07:55",
+        "department": "學務處 衛生保健組",
+        "author": {
+            "department": "學務處 衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【資工系專題講座】9/27(五) 捷鵬國際金融集團 周振豐董事長",
         "timestamp": "1727394910",
         "url": "mail_display.php?timestamp=1727394910",
@@ -138,75 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "Vytautas Magnus University 2025 Lithuanian Language and Culture Course(Online)",
-        "timestamp": "1727341311",
-        "url": "mail_display.php?timestamp=1727341311",
-        "date": "2024/09/26 17:01",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "呂姿穎",
-            "email": "doris@gms.ndhu.edu.tw",
-            "phone": "5173"
-        },
-        "attachmentCount": 5
-    },
-    {
-        "title": "Vytautas Magnus University 2025 Lithuanian Language and Culture Course(Contact)",
-        "timestamp": "1727340569",
-        "url": "mail_display.php?timestamp=1727340569",
-        "date": "2024/09/26 16:49",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "呂姿穎",
-            "email": "doris@gms.ndhu.edu.tw",
-            "phone": "5173"
-        },
-        "attachmentCount": 5
-    },
-    {
-        "title": "【性平宣導】系所及社團辦理迎新活動提醒",
-        "timestamp": "1727336966",
-        "url": "mail_display.php?timestamp=1727336966",
-        "date": "2024/09/26 15:49",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "王玉君",
-            "email": "hu.jean0503@gms.ndhu.edu.tw",
-            "phone": "8906220"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【徵聘公告】國立東華大學英美語文學系徵聘專任教師二名",
-        "timestamp": "1727334371",
-        "url": "mail_display.php?timestamp=1727334371",
-        "date": "2024/09/26 15:06",
-        "department": "英美語文學系",
-        "author": {
-            "department": "英美語文學系",
-            "name": "顏余珊",
-            "email": "shanshan221@gms.ndhu.edu.tw",
-            "phone": "03-8905292"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "室內游泳池儲熱桶施工公告",
-        "timestamp": "1727334069",
-        "url": "mail_display.php?timestamp=1727334069",
-        "date": "2024/09/26 15:01",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "林國偉",
-            "email": "dear0130@gms.ndhu.edu.tw",
-            "phone": "038906617"
-        },
-        "attachmentCount": 0
     }
 ]
