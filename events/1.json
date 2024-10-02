@@ -1,5 +1,33 @@
 [
     {
+        "title": "【光電系演講】113學年度京元電子實習說明會(線上)",
+        "timestamp": "1727826902",
+        "url": "mail_display.php?timestamp=1727826902",
+        "date": "2024/10/02 07:55",
+        "department": "理工學院 光電工程學系",
+        "author": {
+            "department": "理工學院 光電工程學系",
+            "name": "劉碧純",
+            "email": "sun@gms.ndhu.edu.tw",
+            "phone": "3182"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【資工系專題講座】10/4(五) 臺灣網路認證股份有限公司（TWCA）李榮琳董事長",
+        "timestamp": "1727826901",
+        "url": "mail_display.php?timestamp=1727826901",
+        "date": "2024/10/02 07:55",
+        "department": "理工學院 資訊工程學系",
+        "author": {
+            "department": "理工學院 資訊工程學系",
+            "name": "葉子綺",
+            "email": "kiki2002@gms.ndhu.edu.tw",
+            "phone": "5012"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113-1初領車證新生交通安全宣導活動第二場，因山陀兒颱風影響，原訂於10/02(三)的宣講改至10/9舉辦，還請見諒。",
         "timestamp": "1727770172",
         "url": "mail_display.php?timestamp=1727770172",
@@ -178,34 +206,6 @@
             "name": "鄒小姐",
             "email": "tsai_yen@gms.ndhu.edu.tw",
             "phone": "5243"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "114學年度 教學實踐研究計畫初稿 外審服務 校內徵件",
-        "timestamp": "1727668325",
-        "url": "mail_display.php?timestamp=1727668325",
-        "date": "2024/09/30 11:52",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "陳禮凡",
-            "email": "lifan.chen@gms.ndhu.edu.tw",
-            "phone": "038906586"
-        },
-        "attachmentCount": 6
-    },
-    {
-        "title": "【第二次公告】國家環境研究院113年淨零大專到校推廣課程",
-        "timestamp": "1727664653",
-        "url": "mail_display.php?timestamp=1727664653",
-        "date": "2024/09/30 10:50",
-        "department": "永續發展中心",
-        "author": {
-            "department": "永續發展中心",
-            "name": "李敏賢",
-            "email": "sd@gms.ndhu.edu.tw",
-            "phone": "03-8905919"
         },
         "attachmentCount": 2
     }
