@@ -1,5 +1,19 @@
 [
     {
+        "title": "9/30 18:00 起，體育場館暫停開放",
+        "timestamp": "1727681218",
+        "url": "mail_display.php?timestamp=1727681218",
+        "date": "2024/09/30 15:26",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "楊永義",
+            "email": "yyy@gms.ndhu.edu.tw",
+            "phone": "0911765302"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【K中A館閉館公告】因颱風來襲K中A館自113年9/30(一)起暫時閉館",
         "timestamp": "1727680889",
         "url": "mail_display.php?timestamp=1727680889",
@@ -194,19 +208,5 @@
             "phone": "038906228"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "提醒防颱準備(公告)",
-        "timestamp": "1727587621",
-        "url": "mail_display.php?timestamp=1727587621",
-        "date": "2024/09/29 13:27",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 2
     }
 ]

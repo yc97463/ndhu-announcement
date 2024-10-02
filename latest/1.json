@@ -1,5 +1,19 @@
 [
     {
+        "title": "(更新10/3餐廳營業狀況)總務處提醒防颱(糧食)準備(第四次公告)",
+        "timestamp": "1727872361",
+        "url": "mail_display.php?timestamp=1727872361",
+        "date": "2024/10/02 20:32",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "Hualien County will suspend work and classes tomorrow（10/03）",
         "timestamp": "1727865741",
         "url": "mail_display.php?timestamp=1727865741",
@@ -192,20 +206,6 @@
             "name": "鄒采晏",
             "email": "tsai_yen@gms.ndhu.edu.tw",
             "phone": "038905243"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【週四法語角】113-1 French Lunch Hour 法文午餐會話時間 10/17 第2場 Session 2",
-        "timestamp": "1727740503",
-        "url": "mail_display.php?timestamp=1727740503",
-        "date": "2024/10/01 07:55",
-        "department": "洄瀾學院 語言中心",
-        "author": {
-            "department": "洄瀾學院 語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
         },
         "attachmentCount": 0
     }
