@@ -1,5 +1,47 @@
 [
     {
+        "title": "【K中A館閉館公告】因颱風來襲K中A館自113年9/30(一)起暫時閉館",
+        "timestamp": "1727680889",
+        "url": "mail_display.php?timestamp=1727680889",
+        "date": "2024/09/30 15:21",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳小姐",
+            "email": "sian@gms.ndhu.edu.tw",
+            "phone": "5846"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【教育優先區】114年寒假教育優先區中小學營隊活動，校內申請即日起至113年10月18日(五)下午17:00收件截止!!! Application for the K-12 School Camp Activities during winter break of academic year 2024-2025",
+        "timestamp": "1727673391",
+        "url": "mail_display.php?timestamp=1727673391",
+        "date": "2024/09/30 13:16",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "余惠真",
+            "email": "nacy4631@gms.ndhu.edu.tw",
+            "phone": "6232"
+        },
+        "attachmentCount": 5
+    },
+    {
+        "title": "📢來去東海岸大展場---尋訪花蓮2024森川里海濕地藝術季藝術品",
+        "timestamp": "1727672956",
+        "url": "mail_display.php?timestamp=1727672956",
+        "date": "2024/09/30 13:09",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "李睿芬",
+            "email": "fen19@gms.ndhu.edu.tw",
+            "phone": "6602"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【9/30東華場次線上視訊辦理】國科會博士生研究獎學金試辦方案114年甄選類徵件說明會",
         "timestamp": "1727668546",
         "url": "mail_display.php?timestamp=1727668546",
@@ -166,47 +208,5 @@
             "phone": "6329"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【海上颱風警報】輕度颱風「山陀兒」海上警報已於本日08時30分發布，請注意！The Central Weather Bureau Typhoon Watch Advisory #18【 KRATHON 】",
-        "timestamp": "1727574514",
-        "url": "mail_display.php?timestamp=1727574514",
-        "date": "2024/09/29 09:48",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "郭詩妘",
-            "email": "kikiguo@gms.ndhu.edu.tw",
-            "phone": "03-8906227"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "【大二以上報名】學士班班級輔導活動-壓力及情緒管理",
-        "timestamp": "1727567703",
-        "url": "mail_display.php?timestamp=1727567703",
-        "date": "2024/09/29 07:55",
-        "department": "花師教育學院 教育與潛能開發學系",
-        "author": {
-            "department": "花師教育學院 教育與潛能開發學系",
-            "name": "黃偲婷",
-            "email": "cls39white@gms.ndhu.edu.tw",
-            "phone": "038903822"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "性平影展:恭請光臨曾賈府喜事",
-        "timestamp": "1727567702",
-        "url": "mail_display.php?timestamp=1727567702",
-        "date": "2024/09/29 07:55",
-        "department": "圖書資訊處 圖資服務組",
-        "author": {
-            "department": "圖書資訊處 圖資服務組",
-            "name": "廖銘珠",
-            "email": "min-judy@gms.ndhu.edu.tw",
-            "phone": "6855"
-        },
-        "attachmentCount": 0
     }
 ]

@@ -1,5 +1,47 @@
 [
     {
+        "title": "公文系統將於113年9月25日(三)中午12~13時暫停服務公告",
+        "timestamp": "1727222730",
+        "url": "mail_display.php?timestamp=1727222730",
+        "date": "2024/09/25 08:05",
+        "department": "總務處文書組",
+        "author": {
+            "department": "總務處文書組",
+            "name": "張建中",
+            "email": "eric.chang@gms.ndhu.edu.tw",
+            "phone": "6352"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "主旨:學人宿舍(包含幼稚園)及素心里停水公告。",
+        "timestamp": "1727179541",
+        "url": "mail_display.php?timestamp=1727179541",
+        "date": "2024/09/24 20:05",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【行政公告】國立東華大學學生免費法律諮詢服務更換諮詢地點",
+        "timestamp": "1727147712",
+        "url": "mail_display.php?timestamp=1727147712",
+        "date": "2024/09/24 11:15",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "郭詩妘",
+            "email": "kikiguo@gms.ndhu.edu.tw",
+            "phone": "03-8906227"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "學生活動中心充電設施施工公告",
         "timestamp": "1727145771",
         "url": "mail_display.php?timestamp=1727145771",
@@ -166,47 +208,5 @@
             "phone": "5107"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【活動】花師C229特色教室使用說明會：師資生試教演示與YT直播教學示範（師資培育生優先）113/10/07",
-        "timestamp": "1726815163",
-        "url": "mail_display.php?timestamp=1726815163",
-        "date": "2024/09/20 14:52",
-        "department": "花師教育學院",
-        "author": {
-            "department": "花師教育學院",
-            "name": "賴姿伶",
-            "email": "tll@gms.ndhu.edu.tw",
-            "phone": "3804"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "(路權修正)志學門路口交通改善工程完工公告",
-        "timestamp": "1726804379",
-        "url": "mail_display.php?timestamp=1726804379",
-        "date": "2024/09/20 11:52",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "黃章傑",
-            "email": "cotycafe@gms.ndhu.edu.tw",
-            "phone": "038905778"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "[Student Dormitory] 10/1 Smart Power System Implementation Notes and Precautions",
-        "timestamp": "1726803400",
-        "url": "mail_display.php?timestamp=1726803400",
-        "date": "2024/09/20 11:36",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳怡秀",
-            "email": "yishoue@gms.ndhu.edu.tw",
-            "phone": "6212"
-        },
-        "attachmentCount": 1
     }
 ]

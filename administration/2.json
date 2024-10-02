@@ -1,5 +1,47 @@
 [
     {
+        "title": "【教育優先區】114年寒假教育優先區中小學營隊活動，校內申請即日起至113年10月18日(五)下午17:00收件截止!!! Application for the K-12 School Camp Activities during winter break of academic year 2024-2025",
+        "timestamp": "1727673391",
+        "url": "mail_display.php?timestamp=1727673391",
+        "date": "2024/09/30 13:16",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "余惠真",
+            "email": "nacy4631@gms.ndhu.edu.tw",
+            "phone": "6232"
+        },
+        "attachmentCount": 5
+    },
+    {
+        "title": "秘書室異地辦公公告",
+        "timestamp": "1727658387",
+        "url": "mail_display.php?timestamp=1727658387",
+        "date": "2024/09/30 09:06",
+        "department": "秘書室議事公文組",
+        "author": {
+            "department": "秘書室議事公文組",
+            "name": "陳婉婉",
+            "email": "secretariat@gms.ndhu.edu.tw",
+            "phone": "6004"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "本校堪用舊品借用通知",
+        "timestamp": "1727657500",
+        "url": "mail_display.php?timestamp=1727657500",
+        "date": "2024/09/30 08:51",
+        "department": "總務處保管組",
+        "author": {
+            "department": "總務處保管組",
+            "name": "林慧濘",
+            "email": "maya70@gms.ndhu.edu.tw",
+            "phone": "8906344"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113年10月份全校綠地除草維護時間及施作區域公告",
         "timestamp": "1727656038",
         "url": "mail_display.php?timestamp=1727656038",
@@ -166,47 +208,5 @@
             "phone": "6329"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "公文系統將於113年9月25日(三)中午12~13時暫停服務公告",
-        "timestamp": "1727222730",
-        "url": "mail_display.php?timestamp=1727222730",
-        "date": "2024/09/25 08:05",
-        "department": "總務處文書組",
-        "author": {
-            "department": "總務處文書組",
-            "name": "張建中",
-            "email": "eric.chang@gms.ndhu.edu.tw",
-            "phone": "6352"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "主旨:學人宿舍(包含幼稚園)及素心里停水公告。",
-        "timestamp": "1727179541",
-        "url": "mail_display.php?timestamp=1727179541",
-        "date": "2024/09/24 20:05",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【行政公告】國立東華大學學生免費法律諮詢服務更換諮詢地點",
-        "timestamp": "1727147712",
-        "url": "mail_display.php?timestamp=1727147712",
-        "date": "2024/09/24 11:15",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "郭詩妘",
-            "email": "kikiguo@gms.ndhu.edu.tw",
-            "phone": "03-8906227"
-        },
-        "attachmentCount": 1
     }
 ]

@@ -1,5 +1,33 @@
 [
     {
+        "title": "113年10月3日垃圾車停止清運Garbage trucks will cease service on October 3, 2024",
+        "timestamp": "1727865419",
+        "url": "mail_display.php?timestamp=1727865419",
+        "date": "2024/10/02 18:36",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "許智翔",
+            "email": "cocco3746@gms.ndhu.edu.tw",
+            "phone": "03-8906399"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【人事室公告】依行政院人事行政總處公告，明(10/3)日停止上班上課",
+        "timestamp": "1727864644",
+        "url": "mail_display.php?timestamp=1727864644",
+        "date": "2024/10/02 18:24",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "劉依虹",
+            "email": "joyce_liu@gms.ndhu.edu.tw",
+            "phone": "6060"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【光電系演講】113學年度京元電子實習說明會(線上)",
         "timestamp": "1727826902",
         "url": "mail_display.php?timestamp=1727826902",
@@ -178,34 +206,6 @@
             "name": "徐青卉",
             "email": "mandy_hsu@gms.ndhu.edu.tw",
             "phone": "5633"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "動物輔助介入於臨床應用（外系報名用）",
-        "timestamp": "1727740501",
-        "url": "mail_display.php?timestamp=1727740501",
-        "date": "2024/10/01 07:55",
-        "department": "人文社會科學學院 諮商與臨床心理學系",
-        "author": {
-            "department": "人文社會科學學院 諮商與臨床心理學系",
-            "name": "徐青卉",
-            "email": "mandy_hsu@gms.ndhu.edu.tw",
-            "phone": "5633"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "113年10月1日垃圾車停止清運Garbage trucks will cease service on October 1, 2024",
-        "timestamp": "1727713229",
-        "url": "mail_display.php?timestamp=1727713229",
-        "date": "2024/10/01 00:20",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "許智翔",
-            "email": "cocco3746@gms.ndhu.edu.tw",
-            "phone": "03-8906399"
         },
         "attachmentCount": 0
     }
