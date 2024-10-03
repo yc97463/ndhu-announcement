@@ -1,5 +1,33 @@
 [
     {
+        "title": "【圖書館公告】今(9/30)日17:00起休館。花蓮縣因颱風停止上班、停止上課。",
+        "timestamp": "1727681831",
+        "url": "mail_display.php?timestamp=1727681831",
+        "date": "2024/09/30 15:37",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "詹依萍",
+            "email": "ipchan@gms.ndhu.edu.tw",
+            "phone": "6813"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【人事室】依花蓮縣政府公告，今(30)晚間六時起停止上班上課",
+        "timestamp": "1727681426",
+        "url": "mail_display.php?timestamp=1727681426",
+        "date": "2024/09/30 15:30",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "劉依虹",
+            "email": "joyce_liu@gms.ndhu.edu.tw",
+            "phone": "6060"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "9/30 18:00 起，體育場館暫停開放",
         "timestamp": "1727681218",
         "url": "mail_display.php?timestamp=1727681218",
@@ -180,33 +208,5 @@
             "phone": "6393"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【海上和陸上颱風警報】山陀兒中度颱風（國際名KRATHON）海上和陸地颱風警報!  Moderate typhoon KRATHON (international name KRATHON) maritime and land typhoon warning",
-        "timestamp": "1727648012",
-        "url": "mail_display.php?timestamp=1727648012",
-        "date": "2024/09/30 06:13",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "吳昭毅",
-            "email": "wuyi12831@gms.ndhu.edu.tw",
-            "phone": "038906228"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "提醒志學街(中正路) 10月1日換邊停車，請同學記得移動車輛並依告示停放，勿隨意臨停，以免影響交通，遭到拖吊！",
-        "timestamp": "1727645204",
-        "url": "mail_display.php?timestamp=1727645204",
-        "date": "2024/09/30 05:26",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "吳昭毅",
-            "email": "wuyi12831@gms.ndhu.edu.tw",
-            "phone": "038906228"
-        },
-        "attachmentCount": 0
     }
 ]

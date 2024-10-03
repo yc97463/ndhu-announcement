@@ -1,5 +1,33 @@
 [
     {
+        "title": "化學系專題演講-化學專業與職涯",
+        "timestamp": "1727308505",
+        "url": "mail_display.php?timestamp=1727308505",
+        "date": "2024/09/26 07:55",
+        "department": "理工學院 化學系",
+        "author": {
+            "department": "理工學院 化學系",
+            "name": "黃翎欣",
+            "email": "u882025@gms.ndhu.edu.tw",
+            "phone": "3574"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【企管系暨運籌所】113-1 Language Lounge-Different indoor Games(第二場)",
+        "timestamp": "1727308504",
+        "url": "mail_display.php?timestamp=1727308504",
+        "date": "2024/09/26 07:55",
+        "department": "管理學院 企業管理學系",
+        "author": {
+            "department": "管理學院 企業管理學系",
+            "name": "陳雅芳",
+            "email": "mayachen@gms.ndhu.edu.tw",
+            "phone": "3162"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【企管系暨運籌所】113-1 Language Lounge-Introductions \u0026 Show and Tell(第一場)",
         "timestamp": "1727308503",
         "url": "mail_display.php?timestamp=1727308503",
@@ -178,34 +206,6 @@
             "name": "劉芝葳",
             "email": "810914201@gms.ndhu.edu.tw",
             "phone": "0900671189"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【大二以上報名】學士班班級輔導活動-自我探索與成長",
-        "timestamp": "1727222106",
-        "url": "mail_display.php?timestamp=1727222106",
-        "date": "2024/09/25 07:55",
-        "department": "花師教育學院 教育與潛能開發學系",
-        "author": {
-            "department": "花師教育學院 教育與潛能開發學系",
-            "name": "黃偲婷",
-            "email": "cls39white@gms.ndhu.edu.tw",
-            "phone": "038903822"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "AI在科學教育研究與教學的應用",
-        "timestamp": "1727222105",
-        "url": "mail_display.php?timestamp=1727222105",
-        "date": "2024/09/25 07:55",
-        "department": "花師教育學院 教育與潛能開發學系",
-        "author": {
-            "department": "花師教育學院 教育與潛能開發學系",
-            "name": "黃偲婷",
-            "email": "cls39white@gms.ndhu.edu.tw",
-            "phone": "038903822"
         },
         "attachmentCount": 0
     }
