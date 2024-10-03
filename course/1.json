@@ -1,5 +1,19 @@
 [
     {
+        "title": "花蓮縣 113下半年 文化與秋冬星空跨域教學師資培訓計畫",
+        "timestamp": "1727936740",
+        "url": "mail_display.php?timestamp=1727936740",
+        "date": "2024/10/03 14:25",
+        "department": "科學教育中心",
+        "author": {
+            "department": "科學教育中心",
+            "name": "鄭立婷",
+            "email": "liting032@gms.ndhu.edu.tw",
+            "phone": "03-8903850"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【第二次公告】國家環境研究院113年淨零大專到校推廣課程",
         "timestamp": "1727664653",
         "url": "mail_display.php?timestamp=1727664653",
@@ -194,19 +208,5 @@
             "phone": "5795"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "📢113-1 教育大數據微學程實務課推廣📢",
-        "timestamp": "1726152203",
-        "url": "mail_display.php?timestamp=1726152203",
-        "date": "2024/09/12 22:43",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "黃小姐",
-            "email": "chinghua@gms.ndhu.edu.tw",
-            "phone": "6579"
-        },
-        "attachmentCount": 3
     }
 ]
