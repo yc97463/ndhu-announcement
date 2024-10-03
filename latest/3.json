@@ -1,5 +1,19 @@
 [
     {
+        "title": "因颱風影響，113年9月30日晚上電腦教室不開放。The computer lab one will be closed on September 30 ,2024 at 18-22.",
+        "timestamp": "1727682079",
+        "url": "mail_display.php?timestamp=1727682079",
+        "date": "2024/09/30 15:41",
+        "department": "圖書資訊處綜合業務組",
+        "author": {
+            "department": "圖書資訊處綜合業務組",
+            "name": "林循美",
+            "email": "cindy@gms.ndhu.edu.tw",
+            "phone": "8906774"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【圖書館公告】今(9/30)日17:00起休館。花蓮縣因颱風停止上班、停止上課。",
         "timestamp": "1727681831",
         "url": "mail_display.php?timestamp=1727681831",
@@ -194,19 +208,5 @@
             "phone": "8906344"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "113年10月份全校綠地除草維護時間及施作區域公告",
-        "timestamp": "1727656038",
-        "url": "mail_display.php?timestamp=1727656038",
-        "date": "2024/09/30 08:27",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "賴宜萱",
-            "email": "lai0210@gms.ndhu.edu.tw",
-            "phone": "6393"
-        },
-        "attachmentCount": 1
     }
 ]
