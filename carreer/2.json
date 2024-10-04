@@ -1,5 +1,19 @@
 [
     {
+        "title": "國立東華大學數位學伴中心 - 【113-1 學期大學伴招募】",
+        "timestamp": "1725443988",
+        "url": "mail_display.php?timestamp=1725443988",
+        "date": "2024/09/04 17:59",
+        "department": "花師教育學院",
+        "author": {
+            "department": "花師教育學院",
+            "name": "李宛玲",
+            "email": "etutor_c226@gms.ndhu.edu.tw",
+            "phone": "3816"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【徵才】國立東華大學管理學院會計學系徵聘專任教師一名（第2次公告，收件截止日期(書面資料與word檔)：113年09月30日(一) 23:59。(書面資料以郵戳日期為憑))",
         "timestamp": "1725415258",
         "url": "mail_display.php?timestamp=1725415258",
@@ -194,19 +208,5 @@
             "phone": "6361"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【徵聘教師公告】國立東華大學企業管理學系暨運籌管理研究所徵聘專任教師2名",
-        "timestamp": "1723535524",
-        "url": "mail_display.php?timestamp=1723535524",
-        "date": "2024/08/13 15:52",
-        "department": "企業管理學系",
-        "author": {
-            "department": "企業管理學系",
-            "name": "莊巧萍",
-            "email": "cpjuang@gms.ndhu.edu.tw",
-            "phone": "03-8903013"
-        },
-        "attachmentCount": 5
     }
 ]

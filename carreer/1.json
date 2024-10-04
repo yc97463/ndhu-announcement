@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才公告】國立東華大學總務處環保組徵聘【校務基金助理 】",
+        "timestamp": "1728032400",
+        "url": "mail_display.php?timestamp=1728032400",
+        "date": "2024/10/04 17:00",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "許智翔",
+            "email": "cocco3746@gms.ndhu.edu.tw",
+            "phone": "03-8906399"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵聘公告】國立東華大學英美語文學系徵聘專任教師二名",
         "timestamp": "1727334371",
         "url": "mail_display.php?timestamp=1727334371",
@@ -194,19 +208,5 @@
             "phone": "038906399"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "國立東華大學數位學伴中心 - 【113-1 學期大學伴招募】",
-        "timestamp": "1725443988",
-        "url": "mail_display.php?timestamp=1725443988",
-        "date": "2024/09/04 17:59",
-        "department": "花師教育學院",
-        "author": {
-            "department": "花師教育學院",
-            "name": "李宛玲",
-            "email": "etutor_c226@gms.ndhu.edu.tw",
-            "phone": "3816"
-        },
-        "attachmentCount": 4
     }
 ]

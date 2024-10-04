@@ -1,5 +1,19 @@
 [
     {
+        "title": "歷史系專題演講：清官難斷家務事：唐代法律制度與地方生活實例",
+        "timestamp": "1715139385",
+        "url": "mail_display.php?timestamp=1715139385",
+        "date": "2024/05/08 11:36",
+        "department": "歷史學系",
+        "author": {
+            "department": "歷史學系",
+            "name": "吳助理",
+            "email": "suju1106@gms.ndhu.edu.tw",
+            "phone": "5323"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【法專班講座】rikec法學講座-第一次立法就上手：研擬反歧視法草案的經驗分享",
         "timestamp": "1715068645",
         "url": "mail_display.php?timestamp=1715068645",
@@ -194,19 +208,5 @@
             "phone": "0909039764"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【法專班講座】05/10-follow原住民族部落議題講座-捍衛先人智慧—達悟族智慧創作專用權維權行動分享",
-        "timestamp": "1714376265",
-        "url": "mail_display.php?timestamp=1714376265",
-        "date": "2024/04/29 15:37",
-        "department": "法律學系",
-        "author": {
-            "department": "法律學系",
-            "name": "黃助理",
-            "email": "yijing@gms.ndhu.edu.tw",
-            "phone": "890-5663"
-        },
-        "attachmentCount": 2
     }
 ]
