@@ -1,5 +1,19 @@
 [
     {
+        "title": "【訊息轉知】國立高雄大學開設12門磨課師(MOOCs)線上課程",
+        "timestamp": "1728006543",
+        "url": "mail_display.php?timestamp=1728006543",
+        "date": "2024/10/04 09:49",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【計畫申請】⭐️勞動部114年度「結合大專校院辦理就業服務補助計畫」申請開始囉⭐️(本校申請期限：即日起至113年10月13日止)",
         "timestamp": "1728005325",
         "url": "mail_display.php?timestamp=1728005325",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【重要通知】暫時開放K書中心A館討論區及個人物品領取 Temporary Opening of K-Book Center A Discussion Area and Collection of Personal Items(第二次公告）",
-        "timestamp": "1727167369",
-        "url": "mail_display.php?timestamp=1727167369",
-        "date": "2024/09/24 16:42",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "陳小姐",
-            "email": "Sian@gms.ndhu.edu.tw",
-            "phone": "5846"
-        },
-        "attachmentCount": 1
     }
 ]

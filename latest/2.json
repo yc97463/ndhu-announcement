@@ -1,5 +1,19 @@
 [
     {
+        "title": "【光電系演講】113學年度京元電子實習說明會(線上)",
+        "timestamp": "1727826902",
+        "url": "mail_display.php?timestamp=1727826902",
+        "date": "2024/10/02 07:55",
+        "department": "理工學院 光電工程學系",
+        "author": {
+            "department": "理工學院 光電工程學系",
+            "name": "劉碧純",
+            "email": "sun@gms.ndhu.edu.tw",
+            "phone": "3182"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【資工系專題講座】10/4(五) 臺灣網路認證股份有限公司（TWCA）李榮琳董事長",
         "timestamp": "1727826901",
         "url": "mail_display.php?timestamp=1727826901",
@@ -192,20 +206,6 @@
             "name": "許智翔",
             "email": "cocco3746@gms.ndhu.edu.tw",
             "phone": "03-8906399"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【圖書館公告】113.10.01(二)休館一日。依花蓮縣政府公告《山陀兒颱風》停止上班、停止上課。",
-        "timestamp": "1727706122",
-        "url": "mail_display.php?timestamp=1727706122",
-        "date": "2024/09/30 22:22",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "詹依萍",
-            "email": "ipchan@gms.ndhu.edu.tw",
-            "phone": "6813"
         },
         "attachmentCount": 0
     }
