@@ -1,5 +1,19 @@
 [
     {
+        "title": "【中文系公告】 因應颱風影響，本系10月04日（五）舉辦之「2024後山文薈全國研究生論文研討會」全面改為線上會議，檢附會議連結，歡迎學界先進、同學或對相關題目感興趣之人士上線旁聽。",
+        "timestamp": "1728005563",
+        "url": "mail_display.php?timestamp=1728005563",
+        "date": "2024/10/04 09:32",
+        "department": "中國語文學系",
+        "author": {
+            "department": "中國語文學系",
+            "name": "賴奕如",
+            "email": "yiju1006@gms.ndhu.edu.tw",
+            "phone": "03-8905672"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "花蓮縣 113下半年 文化與秋冬星空跨域教學師資培訓計畫",
         "timestamp": "1727936740",
         "url": "mail_display.php?timestamp=1727936740",
@@ -194,19 +208,5 @@
             "phone": "6005"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【活動推推】香港校園勞動合作社經驗分享",
-        "timestamp": "1725252811",
-        "url": "mail_display.php?timestamp=1725252811",
-        "date": "2024/09/02 12:53",
-        "department": "社會參與中心",
-        "author": {
-            "department": "社會參與中心",
-            "name": "黃小姐",
-            "email": "ellie@gms.ndhu.edu.tw",
-            "phone": "5242"
-        },
-        "attachmentCount": 2
     }
 ]

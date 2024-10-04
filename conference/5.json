@@ -1,5 +1,19 @@
 [
     {
+        "title": "【法專班講座】follow原住民族部落議題講座-原住民族文化資產V.S.原住民族傳統智慧創作",
+        "timestamp": "1715068432",
+        "url": "mail_display.php?timestamp=1715068432",
+        "date": "2024/05/07 15:53",
+        "department": "法律學系",
+        "author": {
+            "department": "法律學系",
+            "name": "黃助理",
+            "email": "yijing@gms.ndhu.edu.tw",
+            "phone": "5663"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "歷史系專題演講：全球化與全球南方的抵抗",
         "timestamp": "1714980398",
         "url": "mail_display.php?timestamp=1714980398",
@@ -194,19 +208,5 @@
             "phone": "8905026"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【新創大學堂】五月等你來報名！",
-        "timestamp": "1714315225",
-        "url": "mail_display.php?timestamp=1714315225",
-        "date": "2024/04/28 22:40",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "吳其璁",
-            "email": "dci93031@gms.ndhu.edu.tw",
-            "phone": "03-8903687"
-        },
-        "attachmentCount": 2
     }
 ]

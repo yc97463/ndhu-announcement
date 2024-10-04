@@ -1,5 +1,19 @@
 [
     {
+        "title": "【師培獎學金甄選】113學年度師資培育獎學金甄選簡章，歡迎符合資格之師資生報名。",
+        "timestamp": "1725929052",
+        "url": "mail_display.php?timestamp=1725929052",
+        "date": "2024/09/10 08:44",
+        "department": "師資培育中心",
+        "author": {
+            "department": "師資培育中心",
+            "name": "陳淑貞",
+            "email": "sjchen@gms.ndhu.edu.tw",
+            "phone": "(03)8906636"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "TEJ臺灣經濟新報資料庫(TEJ Pro)系統升級通知",
         "timestamp": "1725860919",
         "url": "mail_display.php?timestamp=1725860919",
@@ -194,19 +208,5 @@
             "phone": "6053"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "「113-1學期財物報廢時間」公告",
-        "timestamp": "1725498282",
-        "url": "mail_display.php?timestamp=1725498282",
-        "date": "2024/09/05 09:04",
-        "department": "總務處保管組",
-        "author": {
-            "department": "總務處保管組",
-            "name": "林慧濘",
-            "email": "maya70@gms.ndhu.edu.tw",
-            "phone": "8906344"
-        },
-        "attachmentCount": 0
     }
 ]
