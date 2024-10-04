@@ -1,5 +1,47 @@
 [
     {
+        "title": "【活動取消通知】10/3(四)電影欣賞:性平影展活動",
+        "timestamp": "1727925488",
+        "url": "mail_display.php?timestamp=1727925488",
+        "date": "2024/10/03 11:18",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "廖銘珠",
+            "email": "min-judy@gms.ndhu.edu.tw",
+            "phone": "6855"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "(更新10/3餐廳營業狀況)總務處提醒防颱(糧食)準備(第四次公告)",
+        "timestamp": "1727872361",
+        "url": "mail_display.php?timestamp=1727872361",
+        "date": "2024/10/02 20:32",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "Hualien County will suspend work and classes tomorrow（10/03）",
+        "timestamp": "1727865741",
+        "url": "mail_display.php?timestamp=1727865741",
+        "date": "2024/10/02 18:42",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "113年10月3日垃圾車停止清運Garbage trucks will cease service on October 3, 2024",
         "timestamp": "1727865419",
         "url": "mail_display.php?timestamp=1727865419",
@@ -164,48 +206,6 @@
             "name": "黃淑美",
             "email": "sumay@gms.ndhu.edu.tw",
             "phone": "03-8905792"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "新二代是誰？誰是新二代？——以婚姻移民子女議題看台灣社會的多元文化發展與前景",
-        "timestamp": "1727740504",
-        "url": "mail_display.php?timestamp=1727740504",
-        "date": "2024/10/01 07:55",
-        "department": "社會參與中心 ",
-        "author": {
-            "department": "社會參與中心",
-            "name": "鄒采晏",
-            "email": "tsai_yen@gms.ndhu.edu.tw",
-            "phone": "038905243"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【週四法語角】113-1 French Lunch Hour 法文午餐會話時間 10/17 第2場 Session 2",
-        "timestamp": "1727740503",
-        "url": "mail_display.php?timestamp=1727740503",
-        "date": "2024/10/01 07:55",
-        "department": "洄瀾學院 語言中心",
-        "author": {
-            "department": "洄瀾學院 語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "動物輔助介入於臨床應用（本系）",
-        "timestamp": "1727740502",
-        "url": "mail_display.php?timestamp=1727740502",
-        "date": "2024/10/01 07:55",
-        "department": "人文社會科學學院 諮商與臨床心理學系",
-        "author": {
-            "department": "人文社會科學學院 諮商與臨床心理學系",
-            "name": "徐青卉",
-            "email": "mandy_hsu@gms.ndhu.edu.tw",
-            "phone": "5633"
         },
         "attachmentCount": 0
     }
