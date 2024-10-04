@@ -1,5 +1,33 @@
 [
     {
+        "title": "【徵才】臺南市政府教育局「113年度約聘專任專業輔導人員第2次甄選」(心理師、社會工作師)(113年10月14日截止)",
+        "timestamp": "1728023340",
+        "url": "mail_display.php?timestamp=1728023340",
+        "date": "2024/10/04 14:29",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "【就業/考試】考選部「114年專門職業及技術人員醫事人員考試」報名即將開始囉~",
+        "timestamp": "1728021352",
+        "url": "mail_display.php?timestamp=1728021352",
+        "date": "2024/10/04 13:55",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "東華電子報 | 2024年09月刊 |",
         "timestamp": "1728019509",
         "url": "mail_display.php?timestamp=1728019509",
@@ -180,33 +208,5 @@
             "phone": "5846"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "Wiley Online Library東華大學「電子書有獎徵答」活動",
-        "timestamp": "1727244255",
-        "url": "mail_display.php?timestamp=1727244255",
-        "date": "2024/09/25 14:04",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "陳昱佐",
-            "email": "yutuchen@gms.ndhu.edu.tw",
-            "phone": "038906824"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【健康促進講座】考前紓壓，芳療守護健康，報名從速!",
-        "timestamp": "1727225466",
-        "url": "mail_display.php?timestamp=1727225466",
-        "date": "2024/09/25 08:51",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 3
     }
 ]
