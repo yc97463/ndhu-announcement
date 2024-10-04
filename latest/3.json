@@ -1,5 +1,19 @@
 [
     {
+        "title": "113年10月1日垃圾車停止清運Garbage trucks will cease service on October 1, 2024",
+        "timestamp": "1727713229",
+        "url": "mail_display.php?timestamp=1727713229",
+        "date": "2024/10/01 00:20",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "許智翔",
+            "email": "cocco3746@gms.ndhu.edu.tw",
+            "phone": "03-8906399"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【圖書館公告】113.10.01(二)休館一日。依花蓮縣政府公告《山陀兒颱風》停止上班、停止上課。",
         "timestamp": "1727706122",
         "url": "mail_display.php?timestamp=1727706122",
@@ -194,19 +208,5 @@
             "phone": "6232"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "📢來去東海岸大展場---尋訪花蓮2024森川里海濕地藝術季藝術品",
-        "timestamp": "1727672956",
-        "url": "mail_display.php?timestamp=1727672956",
-        "date": "2024/09/30 13:09",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "李睿芬",
-            "email": "fen19@gms.ndhu.edu.tw",
-            "phone": "6602"
-        },
-        "attachmentCount": 2
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "性平影展:恭請光臨曾賈府喜事",
+        "timestamp": "1727567702",
+        "url": "mail_display.php?timestamp=1727567702",
+        "date": "2024/09/29 07:55",
+        "department": "圖書資訊處 圖資服務組",
+        "author": {
+            "department": "圖書資訊處 圖資服務組",
+            "name": "廖銘珠",
+            "email": "min-judy@gms.ndhu.edu.tw",
+            "phone": "6855"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "台灣原住民族知識體系課程系列講座：原住民族史觀與阿美族知織體系",
         "timestamp": "1727567701",
         "url": "mail_display.php?timestamp=1727567701",
@@ -192,20 +206,6 @@
             "name": "葉子綺",
             "email": "kiki2002@gms.ndhu.edu.tw",
             "phone": "5012"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "敬邀同學參加1008健康講座:談戀愛不等於親密行為",
-        "timestamp": "1727394909",
-        "url": "mail_display.php?timestamp=1727394909",
-        "date": "2024/09/27 07:55",
-        "department": "學務處 衛生保健組",
-        "author": {
-            "department": "學務處 衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
         },
         "attachmentCount": 0
     }
