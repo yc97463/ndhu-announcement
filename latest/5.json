@@ -1,5 +1,19 @@
 [
     {
+        "title": "(新增餐廳營業狀況)總務處提醒防颱(糧食)準備(第二次公告)",
+        "timestamp": "1727683678",
+        "url": "mail_display.php?timestamp=1727683678",
+        "date": "2024/09/30 16:07",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "第六屆T大使計畫說明會(東華大學)強力招募",
         "timestamp": "1727683083",
         "url": "mail_display.php?timestamp=1727683083",
@@ -194,19 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "秘書室異地辦公公告",
-        "timestamp": "1727658387",
-        "url": "mail_display.php?timestamp=1727658387",
-        "date": "2024/09/30 09:06",
-        "department": "秘書室議事公文組",
-        "author": {
-            "department": "秘書室議事公文組",
-            "name": "陳婉婉",
-            "email": "secretariat@gms.ndhu.edu.tw",
-            "phone": "6004"
-        },
-        "attachmentCount": 0
     }
 ]

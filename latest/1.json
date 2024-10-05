@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】金門縣政府113-1獎學金 (限金門縣籍)",
+        "timestamp": "1728142632",
+        "url": "mail_display.php?timestamp=1728142632",
+        "date": "2024/10/05 23:37",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【專題演講】日本防災經驗談講座",
         "timestamp": "1728086109",
         "url": "mail_display.php?timestamp=1728086109",
@@ -194,19 +208,5 @@
             "phone": "6053"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "美國教授學者Robert D.Eldridge,Ph.D.s演講：日本防災經驗談講座",
-        "timestamp": "1728023638",
-        "url": "mail_display.php?timestamp=1728023638",
-        "date": "2024/10/04 14:33",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "姜紫淇",
-            "email": "yaya@gms.ndhu.edu.tw",
-            "phone": "03-8906235"
-        },
-        "attachmentCount": 2
     }
 ]
