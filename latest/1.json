@@ -1,5 +1,33 @@
 [
     {
+        "title": "【圖書館公告】國慶日【113.10.10 (四)】休館一日！ Library will be Closed for National Day on October 10, 2024",
+        "timestamp": "1728178178",
+        "url": "mail_display.php?timestamp=1728178178",
+        "date": "2024/10/06 09:29",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "詹依萍",
+            "email": "ipchan@gms.ndhu.edu.tw",
+            "phone": "6813"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "台灣原住民族知識體系課程系列講座：《巴奈回家》：樂舞、原運中「以身為度」的知識建構",
+        "timestamp": "1728172501",
+        "url": "mail_display.php?timestamp=1728172501",
+        "date": "2024/10/06 07:55",
+        "department": "原住民民族學院 族群關係與文化學系",
+        "author": {
+            "department": "原住民民族學院 族群關係與文化學系",
+            "name": "葉秀燕",
+            "email": "柯承希 411196018@gms.ndhu.edu.tw",
+            "phone": "柯承希 0988479360"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【獎助學金申請】鳳山佛教蓮社113年煮雲老和尚獎學金 (限設籍高屏雲嘉南縣市、原住民不限縣市)",
         "timestamp": "1728144741",
         "url": "mail_display.php?timestamp=1728144741",
@@ -172,34 +200,6 @@
         "timestamp": "1728031975",
         "url": "mail_display.php?timestamp=1728031975",
         "date": "2024/10/04 16:52",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "有關校內流浪犬請提高警覺注意安全",
-        "timestamp": "1728030327",
-        "url": "mail_display.php?timestamp=1728030327",
-        "date": "2024/10/04 16:25",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "賴宜萱",
-            "email": "lai0210@gms.ndhu.edu.tw",
-            "phone": "6393"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【獎助學金申請】桃園市113學年度中等以上學校清寒優秀學生獎學金 (限桃園市籍)",
-        "timestamp": "1728028897",
-        "url": "mail_display.php?timestamp=1728028897",
-        "date": "2024/10/04 16:01",
         "department": "學務處",
         "author": {
             "department": "學務處",

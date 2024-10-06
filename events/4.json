@@ -1,5 +1,19 @@
 [
     {
+        "title": "113-1教職員暨眷屬運動增能班錄取名單",
+        "timestamp": "1727428682",
+        "url": "mail_display.php?timestamp=1727428682",
+        "date": "2024/09/27 17:18",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "莊璦綺",
+            "email": "ichi@gms.ndhu.edu.tw",
+            "phone": "6613"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【代轉學生選舉委員會公告】公告第十四屆學生自治會補選選舉公報",
         "timestamp": "1727427882",
         "url": "mail_display.php?timestamp=1727427882",
@@ -194,19 +208,5 @@
             "phone": "03-8905168"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【活動轉知】台南家專學校財團法人台南應用科技大學辦理永續發展暨大學社會責任(USR)「USR x 永續 x SIG」跨校培力工作坊活動",
-        "timestamp": "1727312724",
-        "url": "mail_display.php?timestamp=1727312724",
-        "date": "2024/09/26 09:05",
-        "department": "永續發展中心",
-        "author": {
-            "department": "永續發展中心",
-            "name": "李敏賢",
-            "email": "sd@gms.ndhu.edu.tw",
-            "phone": "03-8635919"
-        },
-        "attachmentCount": 3
     }
 ]

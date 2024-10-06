@@ -1,5 +1,19 @@
 [
     {
+        "title": "【學生宿舍】未領取寄放宿舍行李與物品之同學，請儘速領取。",
+        "timestamp": "1726821706",
+        "url": "mail_display.php?timestamp=1726821706",
+        "date": "2024/09/20 16:41",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "鍾佩玲",
+            "email": "free22011@gms.ndhu.edu.tw",
+            "phone": "03890-6217"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "湖畔餐廳二樓餐廳新開幕公告",
         "timestamp": "1726818352",
         "url": "mail_display.php?timestamp=1726818352",
@@ -194,19 +208,5 @@
             "phone": "03-8905203"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "公告113-1校核心資訊科技領域-「中級程式設計-虛擬實境AA」課程尚有名額，敬請踴躍加選課程",
-        "timestamp": "1726627212",
-        "url": "mail_display.php?timestamp=1726627212",
-        "date": "2024/09/18 10:40",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 0
     }
 ]
