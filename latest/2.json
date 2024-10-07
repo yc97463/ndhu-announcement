@@ -1,5 +1,33 @@
 [
     {
+        "title": "【獎助學金申請】金門縣政府113-1獎學金 (限金門縣籍)",
+        "timestamp": "1728142632",
+        "url": "mail_display.php?timestamp=1728142632",
+        "date": "2024/10/05 23:37",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【專題演講】日本防災經驗談講座",
+        "timestamp": "1728086109",
+        "url": "mail_display.php?timestamp=1728086109",
+        "date": "2024/10/05 07:55",
+        "department": "學務處 課外活動組",
+        "author": {
+            "department": "學務處 課外活動組",
+            "name": "游雅筑",
+            "email": "pink389124@gms.ndhu.edu.tw",
+            "phone": "038906236"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "諮商中心資源教室：【特教宣導暨台東友善機構企業參訪】",
         "timestamp": "1728086108",
         "url": "mail_display.php?timestamp=1728086108",
@@ -180,33 +208,5 @@
             "phone": "6053"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "美國教授學者Robert D.Eldridge,Ph.D.s演講：日本防災經驗談講座",
-        "timestamp": "1728023638",
-        "url": "mail_display.php?timestamp=1728023638",
-        "date": "2024/10/04 14:33",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "姜紫淇",
-            "email": "yaya@gms.ndhu.edu.tw",
-            "phone": "03-8906235"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【徵才】臺南市政府教育局「113年度約聘專任專業輔導人員第2次甄選」(心理師、社會工作師)(113年10月14日截止)",
-        "timestamp": "1728023340",
-        "url": "mail_display.php?timestamp=1728023340",
-        "date": "2024/10/04 14:29",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
     }
 ]
