@@ -1,5 +1,61 @@
 [
     {
+        "title": "【健康促進】花蓮衛生局辦理健康餐盒集點送餐卷【集食饗樂】活動，3家在本校請多加利用",
+        "timestamp": "1728264275",
+        "url": "mail_display.php?timestamp=1728264275",
+        "date": "2024/10/07 09:24",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【語言中心】113-1 午餐英語聊天時間場次公告 Lunchtime Chats Schedule 2024 Fall",
+        "timestamp": "1728263813",
+        "url": "mail_display.php?timestamp=1728263813",
+        "date": "2024/10/07 09:16",
+        "department": "語言中心",
+        "author": {
+            "department": "語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "有關財團法人法律扶助基金會第八屆董事被推薦人案",
+        "timestamp": "1728262339",
+        "url": "mail_display.php?timestamp=1728262339",
+        "date": "2024/10/07 08:52",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "楊惠雯",
+            "email": "hwyang@gms.ndhu.edu.tw",
+            "phone": "6061"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【發社系-113-1民族講座】先自己自己，再一起一起",
+        "timestamp": "1728260346",
+        "url": "mail_display.php?timestamp=1728260346",
+        "date": "2024/10/07 08:19",
+        "department": "原住民民族學院",
+        "author": {
+            "department": "原住民民族學院",
+            "name": "楊助理",
+            "email": "ringo@gms.ndhu.edu.tw",
+            "phone": "5822"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【圖書館公告】國慶日【113.10.10 (四)】休館一日！ Library will be Closed for National Day on October 10, 2024",
         "timestamp": "1728178178",
         "url": "mail_display.php?timestamp=1728178178",
@@ -152,61 +208,5 @@
             "phone": "038905213"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【職涯講座】打造未來生涯策略地圖",
-        "timestamp": "1728086102",
-        "url": "mail_display.php?timestamp=1728086102",
-        "date": "2024/10/05 07:55",
-        "department": "學務處 畢業生及校友服務組",
-        "author": {
-            "department": "學務處 畢業生及校友服務組",
-            "name": "張雯婷",
-            "email": "kz02820@gms.ndhu.edu.tw",
-            "phone": "03-8906284"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "國立中興大學EMI教學資源中心「領域專長模組化雙語課程」教師社群實施計畫 ESAP專業學術英語講座報名資訊",
-        "timestamp": "1728032442",
-        "url": "mail_display.php?timestamp=1728032442",
-        "date": "2024/10/04 17:00",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【徵才公告】國立東華大學總務處環保組徵聘【校務基金助理 】",
-        "timestamp": "1728032400",
-        "url": "mail_display.php?timestamp=1728032400",
-        "date": "2024/10/04 17:00",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "許智翔",
-            "email": "cocco3746@gms.ndhu.edu.tw",
-            "phone": "03-8906399"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【獎助學金申請】桃園市113年希望工程獎助學金 (限桃園市籍)",
-        "timestamp": "1728031975",
-        "url": "mail_display.php?timestamp=1728031975",
-        "date": "2024/10/04 16:52",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]

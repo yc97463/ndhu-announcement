@@ -1,5 +1,19 @@
 [
     {
+        "title": "【113年「雙語浪潮」教師社群講座活動】Fun學說英語",
+        "timestamp": "1717493579",
+        "url": "mail_display.php?timestamp=1717493579",
+        "date": "2024/06/04 17:32",
+        "department": "語言中心",
+        "author": {
+            "department": "語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【演講】113.06.05 專題演講 – 張明治教授",
         "timestamp": "1717403463",
         "url": "mail_display.php?timestamp=1717403463",
@@ -194,19 +208,5 @@
             "phone": "038905213"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【臺灣系x族文系碩士班】研究論文聯合發表會",
-        "timestamp": "1715333843",
-        "url": "mail_display.php?timestamp=1715333843",
-        "date": "2024/05/10 17:37",
-        "department": "臺灣文化學系",
-        "author": {
-            "department": "臺灣文化學系",
-            "name": "唐家渝",
-            "email": "abby0528@gms.ndhu.edu.tw",
-            "phone": "038905213"
-        },
-        "attachmentCount": 4
     }
 ]

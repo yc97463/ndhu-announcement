@@ -1,5 +1,19 @@
 [
     {
+        "title": "9月23日上午10-12時壽豐消防隊於藝術學院進行消防搶救演練",
+        "timestamp": "1726452017",
+        "url": "mail_display.php?timestamp=1726452017",
+        "date": "2024/09/16 10:00",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "賴名塑",
+            "email": "a54604@gms.ndhu.edu.tw",
+            "phone": "8906378"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "重要通知：K書中心A、B館開放領取個人物品的時間與流程",
         "timestamp": "1726449548",
         "url": "mail_display.php?timestamp=1726449548",
@@ -194,19 +208,5 @@
             "phone": "6225"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【徵才】農業部林業及自然保育署臺東分署113年第2次森林護管員甄試",
-        "timestamp": "1726107883",
-        "url": "mail_display.php?timestamp=1726107883",
-        "date": "2024/09/12 10:24",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
     }
 ]

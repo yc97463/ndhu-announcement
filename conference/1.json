@@ -1,5 +1,19 @@
 [
     {
+        "title": "【發社系-113-1民族講座】先自己自己，再一起一起",
+        "timestamp": "1728260346",
+        "url": "mail_display.php?timestamp=1728260346",
+        "date": "2024/10/07 08:19",
+        "department": "原住民民族學院",
+        "author": {
+            "department": "原住民民族學院",
+            "name": "楊助理",
+            "email": "ringo@gms.ndhu.edu.tw",
+            "phone": "5822"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "國立中興大學EMI教學資源中心「領域專長模組化雙語課程」教師社群實施計畫 ESAP專業學術英語講座報名資訊",
         "timestamp": "1728032442",
         "url": "mail_display.php?timestamp=1728032442",
@@ -194,19 +208,5 @@
             "phone": "5323"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【活動推推】學習型地景的教育實踐：從理念到行動 線上講座",
-        "timestamp": "1725882910",
-        "url": "mail_display.php?timestamp=1725882910",
-        "date": "2024/09/09 19:55",
-        "department": "社會參與中心",
-        "author": {
-            "department": "社會參與中心",
-            "name": "黃小姐",
-            "email": "ellie@gms.ndhu.edu.tw",
-            "phone": "5242"
-        },
-        "attachmentCount": 1
     }
 ]
