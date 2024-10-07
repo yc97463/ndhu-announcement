@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才公告】國立東華大學總務處環保組徵聘【校務基金助理 】",
+        "timestamp": "1728032400",
+        "url": "mail_display.php?timestamp=1728032400",
+        "date": "2024/10/04 17:00",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "許智翔",
+            "email": "cocco3746@gms.ndhu.edu.tw",
+            "phone": "03-8906399"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【獎助學金申請】桃園市113年希望工程獎助學金 (限桃園市籍)",
         "timestamp": "1728031975",
         "url": "mail_display.php?timestamp=1728031975",
@@ -194,19 +208,5 @@
             "phone": "8906422"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【中文系公告】 因應颱風影響，本系10月04日（五）舉辦之「2024後山文薈全國研究生論文研討會」全面改為線上會議，檢附會議連結，歡迎學界先進、同學或對相關題目感興趣之人士上線旁聽。",
-        "timestamp": "1728005563",
-        "url": "mail_display.php?timestamp=1728005563",
-        "date": "2024/10/04 09:32",
-        "department": "中國語文學系",
-        "author": {
-            "department": "中國語文學系",
-            "name": "賴奕如",
-            "email": "yiju1006@gms.ndhu.edu.tw",
-            "phone": "03-8905672"
-        },
-        "attachmentCount": 3
     }
 ]
