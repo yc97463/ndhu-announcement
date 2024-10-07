@@ -1,5 +1,19 @@
 [
     {
+        "title": "【健康促進活動】敬邀同學參加1008健康講座:談戀愛不等於親密行為",
+        "timestamp": "1728018982",
+        "url": "mail_display.php?timestamp=1728018982",
+        "date": "2024/10/04 13:16",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【轉知】教育部辦理「學海計畫」說明會，歡迎本校師生踴躍報名參加",
         "timestamp": "1728018979",
         "url": "mail_display.php?timestamp=1728018979",
@@ -194,19 +208,5 @@
             "phone": "6855"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "(更新10/3餐廳營業狀況)總務處提醒防颱(糧食)準備(第四次公告)",
-        "timestamp": "1727872361",
-        "url": "mail_display.php?timestamp=1727872361",
-        "date": "2024/10/02 20:32",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 2
     }
 ]

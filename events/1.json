@@ -1,5 +1,19 @@
 [
     {
+        "title": "【健康講座】健康新運動~遠離傳染病~ 水痘、流感、登革熱、愛滋、梅毒、淋病防治等~報名從速喔!",
+        "timestamp": "1728271292",
+        "url": "mail_display.php?timestamp=1728271292",
+        "date": "2024/10/07 11:21",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【健康促進】花蓮衛生局辦理健康餐盒集點送餐卷【集食饗樂】活動，3家在本校請多加利用",
         "timestamp": "1728264275",
         "url": "mail_display.php?timestamp=1728264275",
@@ -194,19 +208,5 @@
             "phone": "5107"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【資料庫活動】「E書E語 推薦接力」電子書推廣活動",
-        "timestamp": "1728013717",
-        "url": "mail_display.php?timestamp=1728013717",
-        "date": "2024/10/04 11:48",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "陳昱佐",
-            "email": "yutuchen@ndhu.edu.tw",
-            "phone": "038906824"
-        },
-        "attachmentCount": 3
     }
 ]
