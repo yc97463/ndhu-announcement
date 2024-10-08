@@ -1,5 +1,19 @@
 [
     {
+        "title": "【圖書館公告】國慶日【113.10.10 (四)】休館一日！ Library will be Closed for National Day on October 10, 2024",
+        "timestamp": "1728178178",
+        "url": "mail_display.php?timestamp=1728178178",
+        "date": "2024/10/06 09:29",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "詹依萍",
+            "email": "ipchan@gms.ndhu.edu.tw",
+            "phone": "6813"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "台灣原住民族知識體系課程系列講座：《巴奈回家》：樂舞、原運中「以身為度」的知識建構",
         "timestamp": "1728172501",
         "url": "mail_display.php?timestamp=1728172501",
@@ -194,19 +208,5 @@
             "phone": "03-8906219"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "有關校內流浪犬請提高警覺注意安全",
-        "timestamp": "1728030327",
-        "url": "mail_display.php?timestamp=1728030327",
-        "date": "2024/10/04 16:25",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "賴宜萱",
-            "email": "lai0210@gms.ndhu.edu.tw",
-            "phone": "6393"
-        },
-        "attachmentCount": 0
     }
 ]
