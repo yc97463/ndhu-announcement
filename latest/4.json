@@ -1,5 +1,33 @@
 [
     {
+        "title": "【職涯講座】打造未來生涯策略地圖",
+        "timestamp": "1728086102",
+        "url": "mail_display.php?timestamp=1728086102",
+        "date": "2024/10/05 07:55",
+        "department": "學務處 畢業生及校友服務組",
+        "author": {
+            "department": "學務處 畢業生及校友服務組",
+            "name": "張雯婷",
+            "email": "kz02820@gms.ndhu.edu.tw",
+            "phone": "03-8906284"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "國立中興大學EMI教學資源中心「領域專長模組化雙語課程」教師社群實施計畫 ESAP專業學術英語講座報名資訊",
+        "timestamp": "1728032442",
+        "url": "mail_display.php?timestamp=1728032442",
+        "date": "2024/10/04 17:00",
+        "department": "語言中心",
+        "author": {
+            "department": "語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【徵才公告】國立東華大學總務處環保組徵聘【校務基金助理 】",
         "timestamp": "1728032400",
         "url": "mail_display.php?timestamp=1728032400",
@@ -180,33 +208,5 @@
             "phone": "038906824"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【氣候危機攝影展】「每年都是最熱的一年」展覽與開幕式邀請(10/5-10/19)  [Climate Crisis Photography Exhibition] \"Every Year is the Hottest Year\" Exhibition and Opening Ceremony Invitation",
-        "timestamp": "1728012507",
-        "url": "mail_display.php?timestamp=1728012507",
-        "date": "2024/10/04 11:28",
-        "department": "永續發展中心",
-        "author": {
-            "department": "永續發展中心",
-            "name": "李莉莉 Li-Li Lee",
-            "email": "sd@gms.ndhu.edu.tw",
-            "phone": "03-890-5920"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【訊息轉知】國立高雄大學開設12門磨課師(MOOCs)線上課程",
-        "timestamp": "1728006543",
-        "url": "mail_display.php?timestamp=1728006543",
-        "date": "2024/10/04 09:49",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 1
     }
 ]
