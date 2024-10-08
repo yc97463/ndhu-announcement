@@ -1,5 +1,19 @@
 [
     {
+        "title": "【師培中心】113-1研習公告",
+        "timestamp": "1728403709",
+        "url": "mail_display.php?timestamp=1728403709",
+        "date": "2024/10/09 00:08",
+        "department": "師資培育中心",
+        "author": {
+            "department": "師資培育中心",
+            "name": "劉姵君",
+            "email": "amyliou@gms.ndhu.edu.tw",
+            "phone": "6632"
+        },
+        "attachmentCount": 6
+    },
+    {
         "title": "【跨域自主服務學習機會】有機生活營：食農教育園遊會",
         "timestamp": "1728399126",
         "url": "mail_display.php?timestamp=1728399126",
@@ -194,19 +208,5 @@
             "phone": "5323"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "113-1學期 導師輔導知能研習【優良導師經驗分享--打造雙贏的師生關係】",
-        "timestamp": "1728350799",
-        "url": "mail_display.php?timestamp=1728350799",
-        "date": "2024/10/08 09:26",
-        "department": "心理諮商輔導中心",
-        "author": {
-            "department": "心理諮商輔導中心",
-            "name": "陶開勤",
-            "email": "kctao@gms.ndhu.edu.tw",
-            "phone": "03-8906275"
-        },
-        "attachmentCount": 2
     }
 ]
