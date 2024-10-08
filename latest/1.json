@@ -1,5 +1,19 @@
 [
     {
+        "title": "大學門及志學門車牌辨識系統測試公告。",
+        "timestamp": "1728352842",
+        "url": "mail_display.php?timestamp=1728352842",
+        "date": "2024/10/08 10:00",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "歷史系專題演講：小人物眼中的三十年戰爭：簡介傭兵Peter Hagendorf的日記",
         "timestamp": "1728351022",
         "url": "mail_display.php?timestamp=1728351022",
@@ -194,19 +208,5 @@
             "phone": "6606"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【公告】年底將做資安時數調查，提醒全校職員務必接受資安教育訓練",
-        "timestamp": "1728282403",
-        "url": "mail_display.php?timestamp=1728282403",
-        "date": "2024/10/07 14:26",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "蕭澤宇",
-            "email": "zyhsiao@gms.ndhu.edu.tw",
-            "phone": "03-8906727"
-        },
-        "attachmentCount": 0
     }
 ]
