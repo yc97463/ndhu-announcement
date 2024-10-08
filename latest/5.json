@@ -1,5 +1,19 @@
 [
     {
+        "title": "東華電子報 | 2024年09月刊 |",
+        "timestamp": "1728019509",
+        "url": "mail_display.php?timestamp=1728019509",
+        "date": "2024/10/04 13:25",
+        "department": "秘書室公關宣傳組",
+        "author": {
+            "department": "秘書室公關宣傳組",
+            "name": "林佩瑤",
+            "email": "peiyao@gms.ndhu.edu.tw",
+            "phone": "6013"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【K書中心公告】K中A館今日恢復開館通知與國慶日休館公告",
         "timestamp": "1728019027",
         "url": "mail_display.php?timestamp=1728019027",
@@ -194,19 +208,5 @@
             "phone": "8906253"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "📢⪦ 2024東華秋藝季：德國呂北克的跨界單簧管與三重奏 ILJA RUF TRIO feat. Bernd Ruf",
-        "timestamp": "1727925892",
-        "url": "mail_display.php?timestamp=1727925892",
-        "date": "2024/10/03 11:24",
-        "department": "藝術中心",
-        "author": {
-            "department": "藝術中心",
-            "name": "周葦綸",
-            "email": "arts@gms.ndhu.edu.tw",
-            "phone": "6606"
-        },
-        "attachmentCount": 7
     }
 ]

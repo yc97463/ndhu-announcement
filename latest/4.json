@@ -1,5 +1,19 @@
 [
     {
+        "title": "城鄉共學營隊招生說明會",
+        "timestamp": "1728086107",
+        "url": "mail_display.php?timestamp=1728086107",
+        "date": "2024/10/05 07:55",
+        "department": "管理學院 國際企業學系",
+        "author": {
+            "department": "管理學院 國際企業學系",
+            "name": "蔡季芸",
+            "email": "411033034@gms.ndhu.edu.tw",
+            "phone": "0960557980"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "國際企業學系113年畢業專題成果展_口頭簡報（工作人員）",
         "timestamp": "1728086106",
         "url": "mail_display.php?timestamp=1728086106",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "東華電子報 | 2024年09月刊 |",
-        "timestamp": "1728019509",
-        "url": "mail_display.php?timestamp=1728019509",
-        "date": "2024/10/04 13:25",
-        "department": "秘書室公關宣傳組",
-        "author": {
-            "department": "秘書室公關宣傳組",
-            "name": "林佩瑤",
-            "email": "peiyao@gms.ndhu.edu.tw",
-            "phone": "6013"
-        },
-        "attachmentCount": 0
     }
 ]
