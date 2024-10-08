@@ -1,5 +1,33 @@
 [
     {
+        "title": "【113-1 性平關我什麼事？】第二講－師生戀行不行？權勢、性騷擾",
+        "timestamp": "1727481302",
+        "url": "mail_display.php?timestamp=1727481302",
+        "date": "2024/09/28 07:55",
+        "department": "花師教育學院 教育與潛能開發學系",
+        "author": {
+            "department": "花師教育學院 教育與潛能開發學系",
+            "name": "王敬堯",
+            "email": "611088102@gms.ndhu.edu.tw",
+            "phone": "0971217585"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113-1教職員暨眷屬運動增能班錄取名單",
+        "timestamp": "1727428682",
+        "url": "mail_display.php?timestamp=1727428682",
+        "date": "2024/09/27 17:18",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "莊璦綺",
+            "email": "ichi@gms.ndhu.edu.tw",
+            "phone": "6613"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【代轉學生選舉委員會公告】公告第十四屆學生自治會補選選舉公報",
         "timestamp": "1727427882",
         "url": "mail_display.php?timestamp=1727427882",
@@ -180,33 +208,5 @@
             "phone": "5173"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【Jazz x Classical 】音樂學系-音樂三班級音樂會",
-        "timestamp": "1727321018",
-        "url": "mail_display.php?timestamp=1727321018",
-        "date": "2024/09/26 11:23",
-        "department": "音樂學系",
-        "author": {
-            "department": "音樂學系",
-            "name": "張純倩",
-            "email": "asd963741@gms.ndhu.edu.tw",
-            "phone": "03-8905168"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【活動轉知】台南家專學校財團法人台南應用科技大學辦理永續發展暨大學社會責任(USR)「USR x 永續 x SIG」跨校培力工作坊活動",
-        "timestamp": "1727312724",
-        "url": "mail_display.php?timestamp=1727312724",
-        "date": "2024/09/26 09:05",
-        "department": "永續發展中心",
-        "author": {
-            "department": "永續發展中心",
-            "name": "李敏賢",
-            "email": "sd@gms.ndhu.edu.tw",
-            "phone": "03-8635919"
-        },
-        "attachmentCount": 3
     }
 ]

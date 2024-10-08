@@ -1,5 +1,19 @@
 [
     {
+        "title": "【國際展覽】藝術學院與日本岡山大學共同辦理之臺日藝術文化交流展",
+        "timestamp": "1728373105",
+        "url": "mail_display.php?timestamp=1728373105",
+        "date": "2024/10/08 15:38",
+        "department": "藝術學院",
+        "author": {
+            "department": "藝術學院",
+            "name": "戴麗雯",
+            "email": "lwtai@gms.ndhu.edu.tw",
+            "phone": "03-8905102"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "【2024教育大數據分析競賽】活動開始報名 總獎金高達100萬 等你來挑戰！！",
         "timestamp": "1728368620",
         "url": "mail_display.php?timestamp=1728368620",
@@ -194,19 +208,5 @@
             "phone": "5822"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "台灣原住民族知識體系課程系列講座：《巴奈回家》：樂舞、原運中「以身為度」的知識建構",
-        "timestamp": "1728172501",
-        "url": "mail_display.php?timestamp=1728172501",
-        "date": "2024/10/06 07:55",
-        "department": "原住民民族學院 族群關係與文化學系",
-        "author": {
-            "department": "原住民民族學院 族群關係與文化學系",
-            "name": "葉秀燕",
-            "email": "柯承希 411196018@gms.ndhu.edu.tw",
-            "phone": "柯承希 0988479360"
-        },
-        "attachmentCount": 0
     }
 ]
