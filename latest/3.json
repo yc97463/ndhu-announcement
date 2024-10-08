@@ -1,5 +1,19 @@
 [
     {
+        "title": "向晴莊電梯1故障維修公告",
+        "timestamp": "1728281666",
+        "url": "mail_display.php?timestamp=1728281666",
+        "date": "2024/10/07 14:14",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【東華30年】🎊🎊本校30週年校慶標誌上網，歡迎多加利用🎊🎊",
         "timestamp": "1728279425",
         "url": "mail_display.php?timestamp=1728279425",
@@ -194,19 +208,5 @@
             "phone": "03-8906219"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【專題演講】日本防災經驗談講座",
-        "timestamp": "1728086109",
-        "url": "mail_display.php?timestamp=1728086109",
-        "date": "2024/10/05 07:55",
-        "department": "學務處 課外活動組",
-        "author": {
-            "department": "學務處 課外活動組",
-            "name": "游雅筑",
-            "email": "pink389124@gms.ndhu.edu.tw",
-            "phone": "038906236"
-        },
-        "attachmentCount": 0
     }
 ]
