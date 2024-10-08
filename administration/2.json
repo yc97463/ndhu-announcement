@@ -1,5 +1,33 @@
 [
     {
+        "title": "113年10月3日垃圾車停止清運Garbage trucks will cease service on October 3, 2024",
+        "timestamp": "1727865419",
+        "url": "mail_display.php?timestamp=1727865419",
+        "date": "2024/10/02 18:36",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "許智翔",
+            "email": "cocco3746@gms.ndhu.edu.tw",
+            "phone": "03-8906399"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【人事室公告】依行政院人事行政總處公告，明(10/3)日停止上班上課",
+        "timestamp": "1727864644",
+        "url": "mail_display.php?timestamp=1727864644",
+        "date": "2024/10/02 18:24",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "劉依虹",
+            "email": "joyce_liu@gms.ndhu.edu.tw",
+            "phone": "6060"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "Hualien County will suspend work and classes tomorrow（10/02）",
         "timestamp": "1727785994",
         "url": "mail_display.php?timestamp=1727785994",
@@ -180,33 +208,5 @@
             "phone": "6232"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "秘書室異地辦公公告",
-        "timestamp": "1727658387",
-        "url": "mail_display.php?timestamp=1727658387",
-        "date": "2024/09/30 09:06",
-        "department": "秘書室議事公文組",
-        "author": {
-            "department": "秘書室議事公文組",
-            "name": "陳婉婉",
-            "email": "secretariat@gms.ndhu.edu.tw",
-            "phone": "6004"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "本校堪用舊品借用通知",
-        "timestamp": "1727657500",
-        "url": "mail_display.php?timestamp=1727657500",
-        "date": "2024/09/30 08:51",
-        "department": "總務處保管組",
-        "author": {
-            "department": "總務處保管組",
-            "name": "林慧濘",
-            "email": "maya70@gms.ndhu.edu.tw",
-            "phone": "8906344"
-        },
-        "attachmentCount": 0
     }
 ]
