@@ -1,5 +1,47 @@
 [
     {
+        "title": "運動科學導入運動產品設計案例分享",
+        "timestamp": "1727999701",
+        "url": "mail_display.php?timestamp=1727999701",
+        "date": "2024/10/04 07:55",
+        "department": "花師教育學院 體育與運動科學系",
+        "author": {
+            "department": "花師教育學院 體育與運動科學系",
+            "name": "蔡依珊",
+            "email": "ss321@gms.ndhu.edu.tw",
+            "phone": "3932"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【健康促進活動】CPR+AED證照班，取得兩年效期合格證明，名額有限報名從速!",
+        "timestamp": "1727930869",
+        "url": "mail_display.php?timestamp=1727930869",
+        "date": "2024/10/03 12:47",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "📢⪦ 2024東華秋藝季：德國呂北克的跨界單簧管與三重奏 ILJA RUF TRIO feat. Bernd Ruf",
+        "timestamp": "1727925892",
+        "url": "mail_display.php?timestamp=1727925892",
+        "date": "2024/10/03 11:24",
+        "department": "藝術中心",
+        "author": {
+            "department": "藝術中心",
+            "name": "周葦綸",
+            "email": "arts@gms.ndhu.edu.tw",
+            "phone": "6606"
+        },
+        "attachmentCount": 7
+    },
+    {
         "title": "【活動取消通知】10/3(四)電影欣賞:性平影展活動",
         "timestamp": "1727925488",
         "url": "mail_display.php?timestamp=1727925488",
@@ -166,47 +208,5 @@
             "phone": "6053"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "第六屆T大使計畫說明會(東華大學)強力招募",
-        "timestamp": "1727683083",
-        "url": "mail_display.php?timestamp=1727683083",
-        "date": "2024/09/30 15:58",
-        "department": "跨領域學術研究中心",
-        "author": {
-            "department": "跨領域學術研究中心",
-            "name": "江東隆",
-            "email": "stb.tony@gms.ndhu.edu.tw",
-            "phone": "3772"
-        },
-        "attachmentCount": 5
-    },
-    {
-        "title": "📢來去東海岸大展場---尋訪花蓮2024森川里海濕地藝術季藝術品",
-        "timestamp": "1727672956",
-        "url": "mail_display.php?timestamp=1727672956",
-        "date": "2024/09/30 13:09",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "李睿芬",
-            "email": "fen19@gms.ndhu.edu.tw",
-            "phone": "6602"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【9/30東華場次線上視訊辦理】國科會博士生研究獎學金試辦方案114年甄選類徵件說明會",
-        "timestamp": "1727668546",
-        "url": "mail_display.php?timestamp=1727668546",
-        "date": "2024/09/30 11:55",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "綜合企劃組",
-            "email": "rd505@gms.ndhu.edu.tw",
-            "phone": "6510"
-        },
-        "attachmentCount": 0
     }
 ]
