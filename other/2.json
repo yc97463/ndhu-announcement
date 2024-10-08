@@ -1,5 +1,19 @@
 [
     {
+        "title": "(更新連結)❗第六屆T大使計畫說明會(東華大學)強力招募❗",
+        "timestamp": "1727750993",
+        "url": "mail_display.php?timestamp=1727750993",
+        "date": "2024/10/01 10:49",
+        "department": "跨領域學術研究中心",
+        "author": {
+            "department": "跨領域學術研究中心",
+            "name": "江東隆",
+            "email": "stb.tony@gms.ndhu.edu.tw",
+            "phone": "038903772"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "【圖書館公告】今(9/30)日17:00起休館。花蓮縣因颱風停止上班、停止上課。",
         "timestamp": "1727681831",
         "url": "mail_display.php?timestamp=1727681831",
@@ -194,19 +208,5 @@
             "phone": "8906422"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【訊息轉知】靜宜大學開設10門磨課師(MOOCs)線上課程",
-        "timestamp": "1727164526",
-        "url": "mail_display.php?timestamp=1727164526",
-        "date": "2024/09/24 15:55",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 1
     }
 ]
