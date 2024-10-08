@@ -1,5 +1,19 @@
 [
     {
+        "title": "運動選手傷後的後盾：運動科學在醫療 上的協作應用",
+        "timestamp": "1727999703",
+        "url": "mail_display.php?timestamp=1727999703",
+        "date": "2024/10/04 07:55",
+        "department": "花師教育學院 體育與運動科學系",
+        "author": {
+            "department": "花師教育學院 體育與運動科學系",
+            "name": "蔡依珊",
+            "email": "ss321@gms.ndhu.edu.tw",
+            "phone": "3932"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "運動員的心理計畫與實務應用",
         "timestamp": "1727999702",
         "url": "mail_display.php?timestamp=1727999702",
@@ -194,19 +208,5 @@
             "phone": "038906399"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【人事室公告】依花蓮縣政府公告，明(10/2)日停止上班上課",
-        "timestamp": "1727783357",
-        "url": "mail_display.php?timestamp=1727783357",
-        "date": "2024/10/01 19:49",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "劉依虹",
-            "email": "joyce_liu@gms.ndhu.edu.tw",
-            "phone": "6060"
-        },
-        "attachmentCount": 2
     }
 ]
