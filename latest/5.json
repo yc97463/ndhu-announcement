@@ -1,5 +1,47 @@
 [
     {
+        "title": "【徵才公告】國立東華大學總務處環保組徵聘【校務基金助理 】",
+        "timestamp": "1728032400",
+        "url": "mail_display.php?timestamp=1728032400",
+        "date": "2024/10/04 17:00",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "許智翔",
+            "email": "cocco3746@gms.ndhu.edu.tw",
+            "phone": "03-8906399"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【獎助學金申請】桃園市113年希望工程獎助學金 (限桃園市籍)",
+        "timestamp": "1728031975",
+        "url": "mail_display.php?timestamp=1728031975",
+        "date": "2024/10/04 16:52",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "有關校內流浪犬請提高警覺注意安全",
+        "timestamp": "1728030327",
+        "url": "mail_display.php?timestamp=1728030327",
+        "date": "2024/10/04 16:25",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "賴宜萱",
+            "email": "lai0210@gms.ndhu.edu.tw",
+            "phone": "6393"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【獎助學金申請】桃園市113學年度中等以上學校清寒優秀學生獎學金 (限桃園市籍)",
         "timestamp": "1728028897",
         "url": "mail_display.php?timestamp=1728028897",
@@ -166,47 +208,5 @@
             "phone": "8906422"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【中文系公告】 因應颱風影響，本系10月04日（五）舉辦之「2024後山文薈全國研究生論文研討會」全面改為線上會議，檢附會議連結，歡迎學界先進、同學或對相關題目感興趣之人士上線旁聽。",
-        "timestamp": "1728005563",
-        "url": "mail_display.php?timestamp=1728005563",
-        "date": "2024/10/04 09:32",
-        "department": "中國語文學系",
-        "author": {
-            "department": "中國語文學系",
-            "name": "賴奕如",
-            "email": "yiju1006@gms.ndhu.edu.tw",
-            "phone": "03-8905672"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【計畫申請】⭐️勞動部114年度「結合大專校院辦理就業服務補助計畫」申請開始囉⭐️(本校申請期限：即日起至113年10月13日止)",
-        "timestamp": "1728005325",
-        "url": "mail_display.php?timestamp=1728005325",
-        "date": "2024/10/04 09:28",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "張雯婷",
-            "email": "kz02820@gms.ndhu.edu.tw",
-            "phone": "038906284"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "SportX 運動產業跨界合作趨勢",
-        "timestamp": "1727999704",
-        "url": "mail_display.php?timestamp=1727999704",
-        "date": "2024/10/04 07:55",
-        "department": "花師教育學院 體育與運動科學系",
-        "author": {
-            "department": "花師教育學院 體育與運動科學系",
-            "name": "蔡依珊",
-            "email": "ss321@gms.ndhu.edu.tw",
-            "phone": "3932"
-        },
-        "attachmentCount": 0
     }
 ]

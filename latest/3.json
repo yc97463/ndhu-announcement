@@ -1,5 +1,47 @@
 [
     {
+        "title": "【2024教育大數據分析競賽】活動開始報名 總獎金高達100萬 等你來挑戰！！",
+        "timestamp": "1728288288",
+        "url": "mail_display.php?timestamp=1728288288",
+        "date": "2024/10/07 16:04",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【實習】🔔【2025玉山實習計畫】報名最後倒數~113年10月13日截止！🔔",
+        "timestamp": "1728284763",
+        "url": "mail_display.php?timestamp=1728284763",
+        "date": "2024/10/07 15:06",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【轉知】實踐大學辦理「多元社會關懷深耕職涯輔導」靜態成果展",
+        "timestamp": "1728284119",
+        "url": "mail_display.php?timestamp=1728284119",
+        "date": "2024/10/07 14:55",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【單身聯誼】花蓮縣政府訂於113年11月2日、3日(星期六、日)辦理「花漾蓮華情定理想公教人員未婚聯誼活動」，歡迎未婚同仁踴躍報名參加。",
         "timestamp": "1728283971",
         "url": "mail_display.php?timestamp=1728283971",
@@ -166,47 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "有關財團法人法律扶助基金會第八屆董事被推薦人案",
-        "timestamp": "1728262339",
-        "url": "mail_display.php?timestamp=1728262339",
-        "date": "2024/10/07 08:52",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "楊惠雯",
-            "email": "hwyang@gms.ndhu.edu.tw",
-            "phone": "6061"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【發社系-113-1民族講座】先自己自己，再一起一起",
-        "timestamp": "1728260346",
-        "url": "mail_display.php?timestamp=1728260346",
-        "date": "2024/10/07 08:19",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "楊助理",
-            "email": "ringo@gms.ndhu.edu.tw",
-            "phone": "5822"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【圖書館公告】國慶日【113.10.10 (四)】休館一日！ Library will be Closed for National Day on October 10, 2024",
-        "timestamp": "1728178178",
-        "url": "mail_display.php?timestamp=1728178178",
-        "date": "2024/10/06 09:29",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "詹依萍",
-            "email": "ipchan@gms.ndhu.edu.tw",
-            "phone": "6813"
-        },
-        "attachmentCount": 0
     }
 ]
