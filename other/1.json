@@ -1,5 +1,19 @@
 [
     {
+        "title": "【K書中心公告】113年國慶日K中A館休館一天與開放時間說明(第二次公告)",
+        "timestamp": "1728472958",
+        "url": "mail_display.php?timestamp=1728472958",
+        "date": "2024/10/09 19:22",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳小姐",
+            "email": "sian@gms.ndhu.edu.tw",
+            "phone": "6931"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【徵才】臺北市政府衛生局約聘僱人員職缺甄選(輔導員、訪視員、心理師、社工督導)(113年10月15日截止)",
         "timestamp": "1728458806",
         "url": "mail_display.php?timestamp=1728458806",
@@ -194,19 +208,5 @@
             "phone": "6743"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "有關財團法人法律扶助基金會第八屆董事被推薦人案",
-        "timestamp": "1728262339",
-        "url": "mail_display.php?timestamp=1728262339",
-        "date": "2024/10/07 08:52",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "楊惠雯",
-            "email": "hwyang@gms.ndhu.edu.tw",
-            "phone": "6061"
-        },
-        "attachmentCount": 1
     }
 ]
