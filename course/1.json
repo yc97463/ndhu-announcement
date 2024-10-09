@@ -1,5 +1,19 @@
 [
     {
+        "title": "【課務組通知】授課教師可列印113-1學期選課確認名單",
+        "timestamp": "1728444532",
+        "url": "mail_display.php?timestamp=1728444532",
+        "date": "2024/10/09 11:28",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "花蓮縣 113下半年 文化與秋冬星空跨域教學師資培訓計畫",
         "timestamp": "1727936740",
         "url": "mail_display.php?timestamp=1727936740",
@@ -194,19 +208,5 @@
             "phone": "6579"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "傅可恩老師《語言與社會》課程宣傳",
-        "timestamp": "1726208287",
-        "url": "mail_display.php?timestamp=1726208287",
-        "date": "2024/09/13 14:18",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "蔡易庭",
-            "email": "ducky40317@gmail.com",
-            "phone": "5795"
-        },
-        "attachmentCount": 1
     }
 ]
