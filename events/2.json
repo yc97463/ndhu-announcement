@@ -1,5 +1,61 @@
 [
     {
+        "title": "初領車證新生交通安全宣導活動，10月15日第三場次，有意申領校園車輛識別證同學，請儘速上網報名。",
+        "timestamp": "1728375083",
+        "url": "mail_display.php?timestamp=1728375083",
+        "date": "2024/10/08 16:11",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "林嘉瑩",
+            "email": "tea7101@gms.ndhu.edu.tw",
+            "phone": "03-8906226"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【活動資訊】10/26-28日大學生機車安全駕駛研習及考照活動，專業培訓，原地考照，名額有限，報名從速。",
+        "timestamp": "1728373180",
+        "url": "mail_display.php?timestamp=1728373180",
+        "date": "2024/10/08 15:39",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "林嘉瑩",
+            "email": "tea7101@gms.ndhu.edu.tw",
+            "phone": "03-8906226"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "【2024教育大數據分析競賽】活動開始報名 總獎金高達100萬 等你來挑戰！！",
+        "timestamp": "1728368620",
+        "url": "mail_display.php?timestamp=1728368620",
+        "date": "2024/10/08 14:23",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "113-1學期 導師輔導知能研習【優良導師經驗分享--打造雙贏的師生關係】",
+        "timestamp": "1728350799",
+        "url": "mail_display.php?timestamp=1728350799",
+        "date": "2024/10/08 09:26",
+        "department": "心理諮商輔導中心",
+        "author": {
+            "department": "心理諮商輔導中心",
+            "name": "陶開勤",
+            "email": "kctao@gms.ndhu.edu.tw",
+            "phone": "03-8906275"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【教育優先區】114年寒假教育優先區中小學營隊活動，校內申請即日起至113年10月18日(五)下午17:00收件截止!!! Application for the K-12 School Camp Activities during winter break of academic year 2024-2025",
         "timestamp": "1728347352",
         "url": "mail_display.php?timestamp=1728347352",
@@ -152,61 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【發社系-113-1民族講座】先自己自己，再一起一起",
-        "timestamp": "1728260346",
-        "url": "mail_display.php?timestamp=1728260346",
-        "date": "2024/10/07 08:19",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "楊助理",
-            "email": "ringo@gms.ndhu.edu.tw",
-            "phone": "5822"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "台灣原住民族知識體系課程系列講座：《巴奈回家》：樂舞、原運中「以身為度」的知識建構",
-        "timestamp": "1728172501",
-        "url": "mail_display.php?timestamp=1728172501",
-        "date": "2024/10/06 07:55",
-        "department": "原住民民族學院 族群關係與文化學系",
-        "author": {
-            "department": "原住民民族學院 族群關係與文化學系",
-            "name": "葉秀燕",
-            "email": "柯承希 411196018@gms.ndhu.edu.tw",
-            "phone": "柯承希 0988479360"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【專題演講】日本防災經驗談講座",
-        "timestamp": "1728086109",
-        "url": "mail_display.php?timestamp=1728086109",
-        "date": "2024/10/05 07:55",
-        "department": "學務處 課外活動組",
-        "author": {
-            "department": "學務處 課外活動組",
-            "name": "游雅筑",
-            "email": "pink389124@gms.ndhu.edu.tw",
-            "phone": "038906236"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "諮商中心資源教室：【特教宣導暨台東友善機構企業參訪】",
-        "timestamp": "1728086108",
-        "url": "mail_display.php?timestamp=1728086108",
-        "date": "2024/10/05 07:55",
-        "department": "心理諮商輔導中心 資源開發組",
-        "author": {
-            "department": "心理諮商輔導中心 資源開發組",
-            "name": "鍾雅琳",
-            "email": "lin.chung@gms.ndhu.edu.tw",
-            "phone": "03-8903155"
-        },
-        "attachmentCount": 0
     }
 ]

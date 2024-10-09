@@ -1,5 +1,61 @@
 [
     {
+        "title": "【發社系-113-1民族講座】先自己自己，再一起一起",
+        "timestamp": "1728260346",
+        "url": "mail_display.php?timestamp=1728260346",
+        "date": "2024/10/07 08:19",
+        "department": "原住民民族學院",
+        "author": {
+            "department": "原住民民族學院",
+            "name": "楊助理",
+            "email": "ringo@gms.ndhu.edu.tw",
+            "phone": "5822"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "台灣原住民族知識體系課程系列講座：《巴奈回家》：樂舞、原運中「以身為度」的知識建構",
+        "timestamp": "1728172501",
+        "url": "mail_display.php?timestamp=1728172501",
+        "date": "2024/10/06 07:55",
+        "department": "原住民民族學院 族群關係與文化學系",
+        "author": {
+            "department": "原住民民族學院 族群關係與文化學系",
+            "name": "葉秀燕",
+            "email": "柯承希 411196018@gms.ndhu.edu.tw",
+            "phone": "柯承希 0988479360"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【專題演講】日本防災經驗談講座",
+        "timestamp": "1728086109",
+        "url": "mail_display.php?timestamp=1728086109",
+        "date": "2024/10/05 07:55",
+        "department": "學務處 課外活動組",
+        "author": {
+            "department": "學務處 課外活動組",
+            "name": "游雅筑",
+            "email": "pink389124@gms.ndhu.edu.tw",
+            "phone": "038906236"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "諮商中心資源教室：【特教宣導暨台東友善機構企業參訪】",
+        "timestamp": "1728086108",
+        "url": "mail_display.php?timestamp=1728086108",
+        "date": "2024/10/05 07:55",
+        "department": "心理諮商輔導中心 資源開發組",
+        "author": {
+            "department": "心理諮商輔導中心 資源開發組",
+            "name": "鍾雅琳",
+            "email": "lin.chung@gms.ndhu.edu.tw",
+            "phone": "03-8903155"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "城鄉共學營隊招生說明會",
         "timestamp": "1728086107",
         "url": "mail_display.php?timestamp=1728086107",
@@ -152,61 +208,5 @@
             "phone": "03-8905672"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "SportX 運動產業跨界合作趨勢",
-        "timestamp": "1727999704",
-        "url": "mail_display.php?timestamp=1727999704",
-        "date": "2024/10/04 07:55",
-        "department": "花師教育學院 體育與運動科學系",
-        "author": {
-            "department": "花師教育學院 體育與運動科學系",
-            "name": "蔡依珊",
-            "email": "ss321@gms.ndhu.edu.tw",
-            "phone": "3932"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "運動選手傷後的後盾：運動科學在醫療 上的協作應用",
-        "timestamp": "1727999703",
-        "url": "mail_display.php?timestamp=1727999703",
-        "date": "2024/10/04 07:55",
-        "department": "花師教育學院 體育與運動科學系",
-        "author": {
-            "department": "花師教育學院 體育與運動科學系",
-            "name": "蔡依珊",
-            "email": "ss321@gms.ndhu.edu.tw",
-            "phone": "3932"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "運動員的心理計畫與實務應用",
-        "timestamp": "1727999702",
-        "url": "mail_display.php?timestamp=1727999702",
-        "date": "2024/10/04 07:55",
-        "department": "花師教育學院 體育與運動科學系",
-        "author": {
-            "department": "花師教育學院 體育與運動科學系",
-            "name": "蔡依珊",
-            "email": "ss321@gms.ndhu.edu.tw",
-            "phone": "3932"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "運動科學導入運動產品設計案例分享",
-        "timestamp": "1727999701",
-        "url": "mail_display.php?timestamp=1727999701",
-        "date": "2024/10/04 07:55",
-        "department": "花師教育學院 體育與運動科學系",
-        "author": {
-            "department": "花師教育學院 體育與運動科學系",
-            "name": "蔡依珊",
-            "email": "ss321@gms.ndhu.edu.tw",
-            "phone": "3932"
-        },
-        "attachmentCount": 0
     }
 ]
