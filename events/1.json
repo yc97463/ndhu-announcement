@@ -1,5 +1,19 @@
 [
     {
+        "title": "#地方與藝術的感染指南來啦！",
+        "timestamp": "1728452513",
+        "url": "mail_display.php?timestamp=1728452513",
+        "date": "2024/10/09 13:41",
+        "department": "縱谷跨域書院學士學位學程",
+        "author": {
+            "department": "縱谷跨域書院學士學位學程",
+            "name": "蔡怡臻",
+            "email": "eng720@gms.ndhu.edu.tw",
+            "phone": "6023"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "📢⪦ 2024東華秋藝季：瑞典AORA人聲樂團巡迴音樂會花蓮場《2024台灣國際重唱藝術節》",
         "timestamp": "1728442038",
         "url": "mail_display.php?timestamp=1728442038",
@@ -194,19 +208,5 @@
             "phone": "03-8906275"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【教育優先區】114年寒假教育優先區中小學營隊活動，校內申請即日起至113年10月18日(五)下午17:00收件截止!!! Application for the K-12 School Camp Activities during winter break of academic year 2024-2025",
-        "timestamp": "1728347352",
-        "url": "mail_display.php?timestamp=1728347352",
-        "date": "2024/10/08 08:29",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "余惠真",
-            "email": "nacy4631@gms.ndhu.edu.tw",
-            "phone": "6232"
-        },
-        "attachmentCount": 5
     }
 ]
