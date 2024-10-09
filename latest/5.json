@@ -1,5 +1,47 @@
 [
     {
+        "title": "【專題演講】日本防災經驗談講座",
+        "timestamp": "1728086109",
+        "url": "mail_display.php?timestamp=1728086109",
+        "date": "2024/10/05 07:55",
+        "department": "學務處 課外活動組",
+        "author": {
+            "department": "學務處 課外活動組",
+            "name": "游雅筑",
+            "email": "pink389124@gms.ndhu.edu.tw",
+            "phone": "038906236"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "諮商中心資源教室：【特教宣導暨台東友善機構企業參訪】",
+        "timestamp": "1728086108",
+        "url": "mail_display.php?timestamp=1728086108",
+        "date": "2024/10/05 07:55",
+        "department": "心理諮商輔導中心 資源開發組",
+        "author": {
+            "department": "心理諮商輔導中心 資源開發組",
+            "name": "鍾雅琳",
+            "email": "lin.chung@gms.ndhu.edu.tw",
+            "phone": "03-8903155"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "城鄉共學營隊招生說明會",
+        "timestamp": "1728086107",
+        "url": "mail_display.php?timestamp=1728086107",
+        "date": "2024/10/05 07:55",
+        "department": "管理學院 國際企業學系",
+        "author": {
+            "department": "管理學院 國際企業學系",
+            "name": "蔡季芸",
+            "email": "411033034@gms.ndhu.edu.tw",
+            "phone": "0960557980"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "國際企業學系113年畢業專題成果展_口頭簡報（工作人員）",
         "timestamp": "1728086106",
         "url": "mail_display.php?timestamp=1728086106",
@@ -166,47 +208,5 @@
             "phone": "03-8906235"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【徵才】臺南市政府教育局「113年度約聘專任專業輔導人員第2次甄選」(心理師、社會工作師)(113年10月14日截止)",
-        "timestamp": "1728023340",
-        "url": "mail_display.php?timestamp=1728023340",
-        "date": "2024/10/04 14:29",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【就業/考試】考選部「114年專門職業及技術人員醫事人員考試」報名即將開始囉~",
-        "timestamp": "1728021352",
-        "url": "mail_display.php?timestamp=1728021352",
-        "date": "2024/10/04 13:55",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "東華電子報 | 2024年09月刊 |",
-        "timestamp": "1728019509",
-        "url": "mail_display.php?timestamp=1728019509",
-        "date": "2024/10/04 13:25",
-        "department": "秘書室公關宣傳組",
-        "author": {
-            "department": "秘書室公關宣傳組",
-            "name": "林佩瑤",
-            "email": "peiyao@gms.ndhu.edu.tw",
-            "phone": "6013"
-        },
-        "attachmentCount": 0
     }
 ]

@@ -1,5 +1,47 @@
 [
     {
+        "title": "向晴莊電梯1故障維修公告",
+        "timestamp": "1728281666",
+        "url": "mail_display.php?timestamp=1728281666",
+        "date": "2024/10/07 14:14",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【東華30年】🎊🎊本校30週年校慶標誌上網，歡迎多加利用🎊🎊",
+        "timestamp": "1728279425",
+        "url": "mail_display.php?timestamp=1728279425",
+        "date": "2024/10/07 13:37",
+        "department": "圖書資訊處綜合業務組",
+        "author": {
+            "department": "圖書資訊處綜合業務組",
+            "name": "陳偉",
+            "email": "ichirowei@gms.ndhu.edu.tw",
+            "phone": "6743"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "📢【活動推推】日本大學生協的歷史和現在，面向未來的課題 經驗分享",
+        "timestamp": "1728276099",
+        "url": "mail_display.php?timestamp=1728276099",
+        "date": "2024/10/07 12:41",
+        "department": "社會參與中心",
+        "author": {
+            "department": "社會參與中心",
+            "name": "鄒小姐",
+            "email": "tsai_yen@gms.ndhu.edu.tw",
+            "phone": "5243"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【原資講座】2024當代原住民族青年政策藍圖論壇：反歧視法，然後呢？—全民原教講座",
         "timestamp": "1728273151",
         "url": "mail_display.php?timestamp=1728273151",
@@ -166,47 +208,5 @@
             "phone": "03-8906219"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【專題演講】日本防災經驗談講座",
-        "timestamp": "1728086109",
-        "url": "mail_display.php?timestamp=1728086109",
-        "date": "2024/10/05 07:55",
-        "department": "學務處 課外活動組",
-        "author": {
-            "department": "學務處 課外活動組",
-            "name": "游雅筑",
-            "email": "pink389124@gms.ndhu.edu.tw",
-            "phone": "038906236"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "諮商中心資源教室：【特教宣導暨台東友善機構企業參訪】",
-        "timestamp": "1728086108",
-        "url": "mail_display.php?timestamp=1728086108",
-        "date": "2024/10/05 07:55",
-        "department": "心理諮商輔導中心 資源開發組",
-        "author": {
-            "department": "心理諮商輔導中心 資源開發組",
-            "name": "鍾雅琳",
-            "email": "lin.chung@gms.ndhu.edu.tw",
-            "phone": "03-8903155"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "城鄉共學營隊招生說明會",
-        "timestamp": "1728086107",
-        "url": "mail_display.php?timestamp=1728086107",
-        "date": "2024/10/05 07:55",
-        "department": "管理學院 國際企業學系",
-        "author": {
-            "department": "管理學院 國際企業學系",
-            "name": "蔡季芸",
-            "email": "411033034@gms.ndhu.edu.tw",
-            "phone": "0960557980"
-        },
-        "attachmentCount": 0
     }
 ]

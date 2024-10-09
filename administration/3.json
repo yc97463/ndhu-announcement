@@ -1,5 +1,33 @@
 [
     {
+        "title": "(新增餐廳營業狀況)總務處提醒防颱(糧食)準備(第二次公告)",
+        "timestamp": "1727683678",
+        "url": "mail_display.php?timestamp=1727683678",
+        "date": "2024/09/30 16:07",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "因颱風影響，113年9月30日晚上電腦教室不開放。The computer lab one will be closed on September 30 ,2024 at 18-22.",
+        "timestamp": "1727682079",
+        "url": "mail_display.php?timestamp=1727682079",
+        "date": "2024/09/30 15:41",
+        "department": "圖書資訊處綜合業務組",
+        "author": {
+            "department": "圖書資訊處綜合業務組",
+            "name": "林循美",
+            "email": "cindy@gms.ndhu.edu.tw",
+            "phone": "8906774"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【人事室】依花蓮縣政府公告，今(30)晚間六時起停止上班上課",
         "timestamp": "1727681426",
         "url": "mail_display.php?timestamp=1727681426",
@@ -180,33 +208,5 @@
             "phone": "6523"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【性平宣導】系所及社團辦理迎新活動提醒",
-        "timestamp": "1727336966",
-        "url": "mail_display.php?timestamp=1727336966",
-        "date": "2024/09/26 15:49",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "王玉君",
-            "email": "hu.jean0503@gms.ndhu.edu.tw",
-            "phone": "8906220"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "室內游泳池儲熱桶施工公告",
-        "timestamp": "1727334069",
-        "url": "mail_display.php?timestamp=1727334069",
-        "date": "2024/09/26 15:01",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "林國偉",
-            "email": "dear0130@gms.ndhu.edu.tw",
-            "phone": "038906617"
-        },
-        "attachmentCount": 0
     }
 ]
