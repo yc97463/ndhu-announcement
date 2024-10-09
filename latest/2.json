@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才】國立教育廣播電臺(花蓮分臺)甄選聘用職務代理人(113年10月18日截止)",
+        "timestamp": "1728378032",
+        "url": "mail_display.php?timestamp=1728378032",
+        "date": "2024/10/08 17:00",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【國際展覽】藝術學院與日本岡山大學共同辦理之臺日藝術文化交流展",
         "timestamp": "1728376105",
         "url": "mail_display.php?timestamp=1728376105",
@@ -194,19 +208,5 @@
             "phone": "6855"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "2024/10/17「愛深耕・彩虹生根：性別電影巡迴放映」性別影展活動",
-        "timestamp": "1728293476",
-        "url": "mail_display.php?timestamp=1728293476",
-        "date": "2024/10/07 17:31",
-        "department": "教育與潛能開發學系",
-        "author": {
-            "department": "教育與潛能開發學系",
-            "name": "溫小姐",
-            "email": "yuyu@gms.ndhu.edu.tw",
-            "phone": "3823"
-        },
-        "attachmentCount": 2
     }
 ]

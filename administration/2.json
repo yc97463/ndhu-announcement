@@ -1,5 +1,19 @@
 [
     {
+        "title": "(更新10/3餐廳營業狀況)總務處提醒防颱(糧食)準備(第四次公告)",
+        "timestamp": "1727872361",
+        "url": "mail_display.php?timestamp=1727872361",
+        "date": "2024/10/02 20:32",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "Hualien County will suspend work and classes tomorrow（10/03）",
         "timestamp": "1727865741",
         "url": "mail_display.php?timestamp=1727865741",
@@ -192,20 +206,6 @@
             "name": "劉依虹",
             "email": "joyce_liu@gms.ndhu.edu.tw",
             "phone": "6060"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "9/30 18:00 起，體育場館暫停開放",
-        "timestamp": "1727681218",
-        "url": "mail_display.php?timestamp=1727681218",
-        "date": "2024/09/30 15:26",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "楊永義",
-            "email": "yyy@gms.ndhu.edu.tw",
-            "phone": "0911765302"
         },
         "attachmentCount": 0
     }
