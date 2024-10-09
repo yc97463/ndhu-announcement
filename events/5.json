@@ -1,5 +1,33 @@
 [
     {
+        "title": "【第二次公告】國家環境研究院113年淨零大專到校推廣課程",
+        "timestamp": "1727664653",
+        "url": "mail_display.php?timestamp=1727664653",
+        "date": "2024/09/30 10:50",
+        "department": "永續發展中心",
+        "author": {
+            "department": "永續發展中心",
+            "name": "李敏賢",
+            "email": "sd@gms.ndhu.edu.tw",
+            "phone": "03-8905919"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【活動】113-1 The Writing Clinic 英文寫作諮詢服務",
+        "timestamp": "1727662053",
+        "url": "mail_display.php?timestamp=1727662053",
+        "date": "2024/09/30 10:07",
+        "department": "語言中心",
+        "author": {
+            "department": "語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【大二以上報名】學士班班級輔導活動-壓力及情緒管理",
         "timestamp": "1727567703",
         "url": "mail_display.php?timestamp=1727567703",
@@ -178,34 +206,6 @@
             "name": "吳佳芬",
             "email": "fen@gms.ndhu.edu.tw",
             "phone": "3102"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【113-1學期-演講公告】量趨科技 戴志洋技術長-「後美元時代的世界」",
-        "timestamp": "1727394906",
-        "url": "mail_display.php?timestamp=1727394906",
-        "date": "2024/09/27 07:55",
-        "department": "管理學院 資訊管理學系",
-        "author": {
-            "department": "管理學院 資訊管理學系",
-            "name": "吳佳芬",
-            "email": "fen@gms.ndhu.edu.tw",
-            "phone": "3102"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "木瓜溪河川生態的動植物資源分享",
-        "timestamp": "1727394905",
-        "url": "mail_display.php?timestamp=1727394905",
-        "date": "2024/09/27 07:55",
-        "department": "環境暨海洋學院 自然資源與環境學系",
-        "author": {
-            "department": "環境暨海洋學院 自然資源與環境學系",
-            "name": "程曦",
-            "email": "chengc831004@gms.ndhu.edu.tw",
-            "phone": "(03)890-3322"
         },
         "attachmentCount": 0
     }
