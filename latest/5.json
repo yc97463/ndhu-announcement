@@ -1,5 +1,47 @@
 [
     {
+        "title": "車輛違規紀錄請儘速以愛校服務或繳納處理費完成銷單。",
+        "timestamp": "1728265631",
+        "url": "mail_display.php?timestamp=1728265631",
+        "date": "2024/10/07 09:47",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【健康促進】花蓮衛生局辦理健康餐盒集點送餐卷【集食饗樂】活動，3家在本校請多加利用",
+        "timestamp": "1728264275",
+        "url": "mail_display.php?timestamp=1728264275",
+        "date": "2024/10/07 09:24",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【語言中心】113-1 午餐英語聊天時間場次公告 Lunchtime Chats Schedule 2024 Fall",
+        "timestamp": "1728263813",
+        "url": "mail_display.php?timestamp=1728263813",
+        "date": "2024/10/07 09:16",
+        "department": "語言中心",
+        "author": {
+            "department": "語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "有關財團法人法律扶助基金會第八屆董事被推薦人案",
         "timestamp": "1728262339",
         "url": "mail_display.php?timestamp=1728262339",
@@ -166,47 +208,5 @@
             "phone": "0956597858"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【臺灣系】課程演講－客家飲食關鍵字",
-        "timestamp": "1728086103",
-        "url": "mail_display.php?timestamp=1728086103",
-        "date": "2024/10/05 07:55",
-        "department": "人文社會科學學院 臺灣文化學系",
-        "author": {
-            "department": "人文社會科學學院 臺灣文化學系",
-            "name": "唐家渝",
-            "email": "abby0528@gms.ndhu.edu.tw",
-            "phone": "038905213"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【職涯講座】打造未來生涯策略地圖",
-        "timestamp": "1728086102",
-        "url": "mail_display.php?timestamp=1728086102",
-        "date": "2024/10/05 07:55",
-        "department": "學務處 畢業生及校友服務組",
-        "author": {
-            "department": "學務處 畢業生及校友服務組",
-            "name": "張雯婷",
-            "email": "kz02820@gms.ndhu.edu.tw",
-            "phone": "03-8906284"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "國立中興大學EMI教學資源中心「領域專長模組化雙語課程」教師社群實施計畫 ESAP專業學術英語講座報名資訊",
-        "timestamp": "1728032442",
-        "url": "mail_display.php?timestamp=1728032442",
-        "date": "2024/10/04 17:00",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 1
     }
 ]
