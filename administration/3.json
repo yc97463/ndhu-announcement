@@ -1,5 +1,33 @@
 [
     {
+        "title": "【圖書館公告】113.10.01(二)休館一日。依花蓮縣政府公告《山陀兒颱風》停止上班、停止上課。",
+        "timestamp": "1727706122",
+        "url": "mail_display.php?timestamp=1727706122",
+        "date": "2024/09/30 22:22",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "詹依萍",
+            "email": "ipchan@gms.ndhu.edu.tw",
+            "phone": "6813"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【人事室公告】依花蓮縣政府公告，明(10/1)日(二)停止上班上課",
+        "timestamp": "1727704680",
+        "url": "mail_display.php?timestamp=1727704680",
+        "date": "2024/09/30 21:58",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "劉依虹",
+            "email": "joyce_liu@gms.ndhu.edu.tw",
+            "phone": "6060"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【安全宣導】颱風期間非必要勿外出，雨天行車請減速慢行，避免緊急煞車【Safety Reminder】Road Safety on Rainy Days",
         "timestamp": "1727684835",
         "url": "mail_display.php?timestamp=1727684835",
@@ -180,33 +208,5 @@
             "phone": "03-8906227"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "10/1-11/30西側外環道路改善工程施工公告",
-        "timestamp": "1727485702",
-        "url": "mail_display.php?timestamp=1727485702",
-        "date": "2024/09/28 09:08",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "黃章傑",
-            "email": "cotycafe@gms.ndhu.edu.tw",
-            "phone": "038905778"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【代轉學生選舉委員會公告】公告第十四屆學生自治會補選選舉公報",
-        "timestamp": "1727427882",
-        "url": "mail_display.php?timestamp=1727427882",
-        "date": "2024/09/27 17:04",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "姜紫淇",
-            "email": "yaya@gms.ndhu.edu.tw",
-            "phone": "03-8906235"
-        },
-        "attachmentCount": 2
     }
 ]

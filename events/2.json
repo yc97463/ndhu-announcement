@@ -1,5 +1,19 @@
 [
     {
+        "title": "【師培中心】113-1研習公告",
+        "timestamp": "1728403709",
+        "url": "mail_display.php?timestamp=1728403709",
+        "date": "2024/10/09 00:08",
+        "department": "師資培育中心",
+        "author": {
+            "department": "師資培育中心",
+            "name": "劉姵君",
+            "email": "amyliou@gms.ndhu.edu.tw",
+            "phone": "6632"
+        },
+        "attachmentCount": 6
+    },
+    {
         "title": "【跨域自主服務學習機會】有機生活營：食農教育園遊會",
         "timestamp": "1728399126",
         "url": "mail_display.php?timestamp=1728399126",
@@ -194,19 +208,5 @@
             "phone": "5243"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【原資講座】2024當代原住民族青年政策藍圖論壇：反歧視法，然後呢？—全民原教講座",
-        "timestamp": "1728273151",
-        "url": "mail_display.php?timestamp=1728273151",
-        "date": "2024/10/07 11:52",
-        "department": "原住民族學生資源中心",
-        "author": {
-            "department": "原住民族學生資源中心",
-            "name": "林佳儀",
-            "email": "tipus1120103@gms.ndhu.edu.tw",
-            "phone": "5718"
-        },
-        "attachmentCount": 1
     }
 ]
