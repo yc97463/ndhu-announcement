@@ -1,5 +1,33 @@
 [
     {
+        "title": "(人事室通知)離職儲金系統正式上線，謝謝大家。",
+        "timestamp": "1728456634",
+        "url": "mail_display.php?timestamp=1728456634",
+        "date": "2024/10/09 14:50",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "林淑惠",
+            "email": "linsh@gms.ndhu.edu.tw",
+            "phone": "8906059"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "113學年度「大專校院弱勢學生助學計畫」申請公告-(▲第二次公告)",
+        "timestamp": "1728455837",
+        "url": "mail_display.php?timestamp=1728455837",
+        "date": "2024/10/09 14:37",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "林黃漢穎",
+            "email": "henry30180@gms.ndhu.edu.tw",
+            "phone": "8906218"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【獎助學金申請】主計協進社113年主計獎學金 (限會計、統計相關科系)",
         "timestamp": "1728455637",
         "url": "mail_display.php?timestamp=1728455637",
@@ -180,33 +208,5 @@
             "phone": "3102"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "［113-1教育議題專題講座］",
-        "timestamp": "1728405231",
-        "url": "mail_display.php?timestamp=1728405231",
-        "date": "2024/10/09 00:33",
-        "department": "師資培育中心",
-        "author": {
-            "department": "師資培育中心",
-            "name": "劉姵君",
-            "email": "amyliou@gms.ndhu.edu.tw",
-            "phone": "6632"
-        },
-        "attachmentCount": 6
-    },
-    {
-        "title": "【師培中心】113-1研習公告",
-        "timestamp": "1728403709",
-        "url": "mail_display.php?timestamp=1728403709",
-        "date": "2024/10/09 00:08",
-        "department": "師資培育中心",
-        "author": {
-            "department": "師資培育中心",
-            "name": "劉姵君",
-            "email": "amyliou@gms.ndhu.edu.tw",
-            "phone": "6632"
-        },
-        "attachmentCount": 6
     }
 ]
