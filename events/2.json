@@ -1,5 +1,19 @@
 [
     {
+        "title": "教職員健康促進活動:大農大富騎遇記",
+        "timestamp": "1728457754",
+        "url": "mail_display.php?timestamp=1728457754",
+        "date": "2024/10/09 15:09",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "吳星穎",
+            "email": "carmier@gms.ndhu.edu.tw",
+            "phone": "8906252"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "創業品牌進化論【品牌塑造與業績成長秘訣】系列活動",
         "timestamp": "1728457456",
         "url": "mail_display.php?timestamp=1728457456",
@@ -194,19 +208,5 @@
             "phone": "03-8906226"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【2024教育大數據分析競賽】活動開始報名 總獎金高達100萬 等你來挑戰！！",
-        "timestamp": "1728368620",
-        "url": "mail_display.php?timestamp=1728368620",
-        "date": "2024/10/08 14:23",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "黃小姐",
-            "email": "chinghua@gms.ndhu.edu.tw",
-            "phone": "6579"
-        },
-        "attachmentCount": 1
     }
 ]

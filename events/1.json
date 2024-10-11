@@ -1,5 +1,19 @@
 [
     {
+        "title": "教學卓越中心敬邀您參加【教師講座】打造精準計畫書：高效AI工具應用，名額有限，敬請把握",
+        "timestamp": "1728643764",
+        "url": "mail_display.php?timestamp=1728643764",
+        "date": "2024/10/11 18:49",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "李小姐",
+            "email": "daidai@gms.ndhu.edu.tw",
+            "phone": "6584"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "東京都立大學 道（Dō ）The Art of Japanese Language \u0026 Culture",
         "timestamp": "1728638027",
         "url": "mail_display.php?timestamp=1728638027",
@@ -194,19 +208,5 @@
             "phone": "8906252"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "教職員健康促進活動:大農大富騎遇記",
-        "timestamp": "1728457754",
-        "url": "mail_display.php?timestamp=1728457754",
-        "date": "2024/10/09 15:09",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "吳星穎",
-            "email": "carmier@gms.ndhu.edu.tw",
-            "phone": "8906252"
-        },
-        "attachmentCount": 2
     }
 ]

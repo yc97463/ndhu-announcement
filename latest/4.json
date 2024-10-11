@@ -1,5 +1,19 @@
 [
     {
+        "title": "【113-1學期-演講公告】陽明交大 葉國暉教授-「CMMC與NIST SP 800-171A」",
+        "timestamp": "1728431701",
+        "url": "mail_display.php?timestamp=1728431701",
+        "date": "2024/10/09 07:55",
+        "department": "管理學院 資訊管理學系",
+        "author": {
+            "department": "管理學院 資訊管理學系",
+            "name": "吳佳芬",
+            "email": "fen@gms.ndhu.edu.tw",
+            "phone": "3102"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "［113-1教育議題專題講座］",
         "timestamp": "1728405231",
         "url": "mail_display.php?timestamp=1728405231",
@@ -194,19 +208,5 @@
             "phone": "5846"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "大學門及志學門車牌辨識系統測試公告。",
-        "timestamp": "1728352842",
-        "url": "mail_display.php?timestamp=1728352842",
-        "date": "2024/10/08 10:00",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 1
     }
 ]
