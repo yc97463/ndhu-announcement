@@ -1,5 +1,19 @@
 [
     {
+        "title": "2024年國科會法律研習營「原住民族法的研究：典範與轉型」",
+        "timestamp": "1728634816",
+        "url": "mail_display.php?timestamp=1728634816",
+        "date": "2024/10/11 16:20",
+        "department": "法律學系",
+        "author": {
+            "department": "法律學系",
+            "name": "Galaigai Cavalje 高蘇恩",
+            "email": "galaigai@gms.ndhu.edu.tw",
+            "phone": "03890-5663"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【新創基地進駐申請】2025年花蓮新創基地進駐團隊招募正式開跑",
         "timestamp": "1728617904",
         "url": "mail_display.php?timestamp=1728617904",
@@ -194,19 +208,5 @@
             "phone": "5243"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【財金系專題演講】10/4(五) 14:00 ~ 16:00 EXPLORING CARBON TAX DYNAMICS IN THE TRANSPORT SECTOR",
-        "timestamp": "1727662933",
-        "url": "mail_display.php?timestamp=1727662933",
-        "date": "2024/09/30 10:22",
-        "department": "財務金融學系",
-        "author": {
-            "department": "財務金融學系",
-            "name": "林役霜",
-            "email": "ys012@gms.ndhu.edu.tw",
-            "phone": "3132"
-        },
-        "attachmentCount": 1
     }
 ]

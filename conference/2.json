@@ -1,5 +1,19 @@
 [
     {
+        "title": "【財金系專題演講】10/4(五) 14:00 ~ 16:00 EXPLORING CARBON TAX DYNAMICS IN THE TRANSPORT SECTOR",
+        "timestamp": "1727662933",
+        "url": "mail_display.php?timestamp=1727662933",
+        "date": "2024/09/30 10:22",
+        "department": "財務金融學系",
+        "author": {
+            "department": "財務金融學系",
+            "name": "林役霜",
+            "email": "ys012@gms.ndhu.edu.tw",
+            "phone": "3132"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【第二次公告】 10/1(二)王鴻濬特聘教授演講：永續發展與聯合國永續發展目標SDGs",
         "timestamp": "1727398597",
         "url": "mail_display.php?timestamp=1727398597",
@@ -194,19 +208,5 @@
             "phone": "5403"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【Forward 協助轉知】2024年國際農業綠能論壇 International Conference on Green Energy in Agriculture",
-        "timestamp": "1724807907",
-        "url": "mail_display.php?timestamp=1724807907",
-        "date": "2024/08/28 09:18",
-        "department": "永續發展中心籌備處",
-        "author": {
-            "department": "永續發展中心籌備處",
-            "name": "李莉莉 Li-Li Lee",
-            "email": "sd@gms.ndhu.edu.tw",
-            "phone": "03-890-5920"
-        },
-        "attachmentCount": 5
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "【電腦教室公告】113年10 月10日國慶日，電腦教室不開放。The computer lab one will be closed on October 10, 2024.",
+        "timestamp": "1728454584",
+        "url": "mail_display.php?timestamp=1728454584",
+        "date": "2024/10/09 14:16",
+        "department": "圖書資訊處綜合業務組",
+        "author": {
+            "department": "圖書資訊處綜合業務組",
+            "name": "林循美",
+            "email": "cindy@gms.ndhu.edu.tw",
+            "phone": "8906774"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "#地方與藝術的感染指南來啦！",
         "timestamp": "1728452513",
         "url": "mail_display.php?timestamp=1728452513",
@@ -194,19 +208,5 @@
             "phone": "6392"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "擴大行政會議 會議紀錄公告通知",
-        "timestamp": "1728392985",
-        "url": "mail_display.php?timestamp=1728392985",
-        "date": "2024/10/08 21:09",
-        "department": "秘書室議事公文組",
-        "author": {
-            "department": "秘書室議事公文組",
-            "name": "陳婉婉",
-            "email": "secretariat@gms.ndhu.edu.tw",
-            "phone": "6004"
-        },
-        "attachmentCount": 1
     }
 ]
