@@ -1,5 +1,19 @@
 [
     {
+        "title": "【課務組通知】授課教師可列印113-1學期選課確認名單",
+        "timestamp": "1728444532",
+        "url": "mail_display.php?timestamp=1728444532",
+        "date": "2024/10/09 11:28",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "📢⪦ 2024東華秋藝季：瑞典AORA人聲樂團巡迴音樂會花蓮場《2024台灣國際重唱藝術節》",
         "timestamp": "1728442038",
         "url": "mail_display.php?timestamp=1728442038",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【國際展覽】藝術學院與日本岡山大學共同辦理之臺日藝術文化交流展",
-        "timestamp": "1728376105",
-        "url": "mail_display.php?timestamp=1728376105",
-        "date": "2024/10/08 16:28",
-        "department": "藝術學院",
-        "author": {
-            "department": "藝術學院",
-            "name": "戴麗雯",
-            "email": "lwtai@gms.ndhu.edu.tw",
-            "phone": "03-8905102"
-        },
-        "attachmentCount": 5
     }
 ]
