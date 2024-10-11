@@ -1,5 +1,33 @@
 [
     {
+        "title": "113學年度第1學期兵役緩徵、儘召網路登錄開放申請最後一次通知",
+        "timestamp": "1727071956",
+        "url": "mail_display.php?timestamp=1727071956",
+        "date": "2024/09/23 14:12",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "6225"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【重要通知】暫時開放K書中心A館討論區及個人物品領取 Temporary Opening of K-Book Center A Discussion Area and Collection of Personal Items",
+        "timestamp": "1727069198",
+        "url": "mail_display.php?timestamp=1727069198",
+        "date": "2024/09/23 13:26",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳小姐",
+            "email": "sian@gms.ndhu.edu.tw",
+            "phone": "5846"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【第二次公告】📢📢🔆113-1學期【起飛免費學習輔導課程，精彩好康不容錯過，快來把握機會！】🔆",
         "timestamp": "1727054664",
         "url": "mail_display.php?timestamp=1727054664",
@@ -180,33 +208,5 @@
             "phone": "5846"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "本校新簽訂之花蓮牛排以及青田の蔬食特約商店公告。",
-        "timestamp": "1726622927",
-        "url": "mail_display.php?timestamp=1726622927",
-        "date": "2024/09/18 09:28",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "賴榮璉",
-            "email": "chrishnalai@gms.ndhu.edu.tw",
-            "phone": "6237"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【徵才公告】國立東華大學數位學伴中心 - 113-1 學期大學伴招募",
-        "timestamp": "1726460267",
-        "url": "mail_display.php?timestamp=1726460267",
-        "date": "2024/09/16 12:17",
-        "department": "花師教育學院",
-        "author": {
-            "department": "花師教育學院",
-            "name": "李宛玲",
-            "email": "etutor_c226@gms.ndhu.edu.tw",
-            "phone": "890-3816"
-        },
-        "attachmentCount": 6
     }
 ]

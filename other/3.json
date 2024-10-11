@@ -1,5 +1,33 @@
 [
     {
+        "title": "【重要通知】9月27日 開放領取K書中心兩館遺留物品，請同學盡速前往K書中心A館領取",
+        "timestamp": "1727401207",
+        "url": "mail_display.php?timestamp=1727401207",
+        "date": "2024/09/27 09:40",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳小姐",
+            "email": "daidai@gms.ndhu.edu.tw",
+            "phone": "sian"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【轉知】📣 📣 蝦皮購物2024東南亞新二代培力計畫，每人最高獎金10萬元!!",
+        "timestamp": "1727343381",
+        "url": "mail_display.php?timestamp=1727343381",
+        "date": "2024/09/26 17:36",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "【徵才】台灣人材ネット_第十六屆日本企業就職博覽會線上徵才活動",
         "timestamp": "1727332928",
         "url": "mail_display.php?timestamp=1727332928",
@@ -180,33 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "113學年度第1學期兵役緩徵、儘召網路登錄開放申請最後一次通知",
-        "timestamp": "1727071956",
-        "url": "mail_display.php?timestamp=1727071956",
-        "date": "2024/09/23 14:12",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "黃勇程",
-            "email": "victor0903@gms.ndhu.edu.tw",
-            "phone": "6225"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【重要通知】暫時開放K書中心A館討論區及個人物品領取 Temporary Opening of K-Book Center A Discussion Area and Collection of Personal Items",
-        "timestamp": "1727069198",
-        "url": "mail_display.php?timestamp=1727069198",
-        "date": "2024/09/23 13:26",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "陳小姐",
-            "email": "sian@gms.ndhu.edu.tw",
-            "phone": "5846"
-        },
-        "attachmentCount": 1
     }
 ]

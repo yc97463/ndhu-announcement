@@ -1,5 +1,33 @@
 [
     {
+        "title": "本校新簽訂之花蓮牛排以及青田の蔬食特約商店公告。",
+        "timestamp": "1726622927",
+        "url": "mail_display.php?timestamp=1726622927",
+        "date": "2024/09/18 09:28",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "賴榮璉",
+            "email": "chrishnalai@gms.ndhu.edu.tw",
+            "phone": "6237"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "【徵才公告】國立東華大學數位學伴中心 - 113-1 學期大學伴招募",
+        "timestamp": "1726460267",
+        "url": "mail_display.php?timestamp=1726460267",
+        "date": "2024/09/16 12:17",
+        "department": "花師教育學院",
+        "author": {
+            "department": "花師教育學院",
+            "name": "李宛玲",
+            "email": "etutor_c226@gms.ndhu.edu.tw",
+            "phone": "890-3816"
+        },
+        "attachmentCount": 6
+    },
+    {
         "title": "9月23日上午10-12時壽豐消防隊於藝術學院進行消防搶救演練",
         "timestamp": "1726452017",
         "url": "mail_display.php?timestamp=1726452017",
@@ -180,33 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【兵役訊息】內政部113年度「95年次徵兵及齡男子兵籍調查線上申報作業公告",
-        "timestamp": "1726113567",
-        "url": "mail_display.php?timestamp=1726113567",
-        "date": "2024/09/12 11:59",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "黃勇程",
-            "email": "victor0903@gms.ndhu.edu.tw",
-            "phone": "6225"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【兵役訊息】內政部辦理113年就讀專科以上83至93年次在學男子，申請分階段接受常備兵役軍事訓練公告",
-        "timestamp": "1726113277",
-        "url": "mail_display.php?timestamp=1726113277",
-        "date": "2024/09/12 11:54",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "黃勇程",
-            "email": "victor0903@gms.ndhu.edu.tw",
-            "phone": "6225"
-        },
-        "attachmentCount": 2
     }
 ]
