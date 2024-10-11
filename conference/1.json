@@ -1,5 +1,19 @@
 [
     {
+        "title": "【講座公告】從精緻農業、農業公費班到有機世界大會 10/25 陳柏青教授主講",
+        "timestamp": "1728613012",
+        "url": "mail_display.php?timestamp=1728613012",
+        "date": "2024/10/11 10:16",
+        "department": "永續發展中心",
+        "author": {
+            "department": "永續發展中心",
+            "name": "李敏賢",
+            "email": "sd@gms.ndhu.edu.tw",
+            "phone": "03-8905919"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "美國教授學者Robert D.Eldridge,Ph.D.s演講：日本防災經驗談講座(第二次公告)",
         "timestamp": "1728608581",
         "url": "mail_display.php?timestamp=1728608581",
@@ -194,19 +208,5 @@
             "phone": "6005"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "[專題演講]AI在科學教育研究與教學的應用9/27陳世文主講",
-        "timestamp": "1727234593",
-        "url": "mail_display.php?timestamp=1727234593",
-        "date": "2024/09/25 11:23",
-        "department": "教育與潛能開發學系",
-        "author": {
-            "department": "教育與潛能開發學系",
-            "name": "教育系",
-            "email": "esontsai@gms.ndhu.edu.tw",
-            "phone": "3824"
-        },
-        "attachmentCount": 0
     }
 ]

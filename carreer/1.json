@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才】本校徵求人文社會科學學院院長候選人",
+        "timestamp": "1728612196",
+        "url": "mail_display.php?timestamp=1728612196",
+        "date": "2024/10/11 10:03",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "楊惠雯",
+            "email": "hwyang@gms.ndhu.edu.tw",
+            "phone": "6061"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【徵才公告】國立東華大學總務處環保組徵聘【校務基金助理 】",
         "timestamp": "1728032400",
         "url": "mail_display.php?timestamp=1728032400",
@@ -194,19 +208,5 @@
             "phone": "890-3816"
         },
         "attachmentCount": 8
-    },
-    {
-        "title": "【徵才公告】國立東華大學總務處環保組徵聘【校務基金職務代理人】",
-        "timestamp": "1725615017",
-        "url": "mail_display.php?timestamp=1725615017",
-        "date": "2024/09/06 17:30",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "許智翔",
-            "email": "cocco3746@gms.ndhu.edu.tw",
-            "phone": "038906399"
-        },
-        "attachmentCount": 0
     }
 ]
