@@ -1,5 +1,33 @@
 [
     {
+        "title": "性平影展:梅莉",
+        "timestamp": "1728345301",
+        "url": "mail_display.php?timestamp=1728345301",
+        "date": "2024/10/08 07:55",
+        "department": "圖書資訊處 圖資服務組",
+        "author": {
+            "department": "圖書資訊處 圖資服務組",
+            "name": "廖銘珠",
+            "email": "min-judy@gms.ndhu.edu.tw",
+            "phone": "6855"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "2024/10/17「愛深耕・彩虹生根：性別電影巡迴放映」性別影展活動",
+        "timestamp": "1728293476",
+        "url": "mail_display.php?timestamp=1728293476",
+        "date": "2024/10/07 17:31",
+        "department": "教育與潛能開發學系",
+        "author": {
+            "department": "教育與潛能開發學系",
+            "name": "溫小姐",
+            "email": "yuyu@gms.ndhu.edu.tw",
+            "phone": "3823"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【徵才】「114年公務人員初等考試」113年10月22日起開始報名囉! 📣📣",
         "timestamp": "1728293247",
         "url": "mail_display.php?timestamp=1728293247",
@@ -178,34 +206,6 @@
             "name": "王惠貞",
             "email": "labi@gms.ndhu.edu.tw",
             "phone": "8906253"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "114年1～6月份「推動國際學術合作交流補助」計畫，即日起受理申請至10月14日為止。",
-        "timestamp": "1728266525",
-        "url": "mail_display.php?timestamp=1728266525",
-        "date": "2024/10/07 10:02",
-        "department": "國際事務處國際合作組",
-        "author": {
-            "department": "國際事務處國際合作組",
-            "name": "梁忠誠",
-            "email": "ice@gms.ndhu.edu.tw",
-            "phone": "5108"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "車輛違規紀錄請儘速以愛校服務或繳納處理費完成銷單。",
-        "timestamp": "1728265631",
-        "url": "mail_display.php?timestamp=1728265631",
-        "date": "2024/10/07 09:47",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
         },
         "attachmentCount": 2
     }
