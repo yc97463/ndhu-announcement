@@ -1,5 +1,33 @@
 [
     {
+        "title": "【交通安全活動】PGO火花羅道路安全講座",
+        "timestamp": "1728290910",
+        "url": "mail_display.php?timestamp=1728290910",
+        "date": "2024/10/07 16:48",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "林嘉瑩",
+            "email": "tea7101@gms.ndhu.edu.tw",
+            "phone": "03-8906226"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【2024教育大數據分析競賽】活動開始報名 總獎金高達100萬 等你來挑戰！！",
+        "timestamp": "1728288288",
+        "url": "mail_display.php?timestamp=1728288288",
+        "date": "2024/10/07 16:04",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【實習】🔔【2025玉山實習計畫】報名最後倒數~113年10月13日截止！🔔",
         "timestamp": "1728284763",
         "url": "mail_display.php?timestamp=1728284763",
@@ -180,33 +208,5 @@
             "phone": "8906253"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【語言中心】113-1 午餐英語聊天時間場次公告 Lunchtime Chats Schedule 2024 Fall",
-        "timestamp": "1728263813",
-        "url": "mail_display.php?timestamp=1728263813",
-        "date": "2024/10/07 09:16",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "有關財團法人法律扶助基金會第八屆董事被推薦人案",
-        "timestamp": "1728262339",
-        "url": "mail_display.php?timestamp=1728262339",
-        "date": "2024/10/07 08:52",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "楊惠雯",
-            "email": "hwyang@gms.ndhu.edu.tw",
-            "phone": "6061"
-        },
-        "attachmentCount": 1
     }
 ]
