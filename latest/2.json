@@ -1,5 +1,19 @@
 [
     {
+        "title": "【訓練課程公告】溫室氣體盤查及碳足跡主導查證員訓練課程－永續發展中心",
+        "timestamp": "1728618874",
+        "url": "mail_display.php?timestamp=1728618874",
+        "date": "2024/10/11 11:54",
+        "department": "永續發展中心",
+        "author": {
+            "department": "永續發展中心",
+            "name": "李敏賢",
+            "email": "sd@gms.ndhu.edu.tw",
+            "phone": "03-8905919"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【海外研究計畫】教育部試辦赴國外實驗機構研究計畫，選送學生赴國外實驗機構進行研究實習",
         "timestamp": "1728618852",
         "url": "mail_display.php?timestamp=1728618852",
@@ -194,19 +208,5 @@
             "phone": "3823"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "手刀報名-YES就業力組合測驗量表",
-        "timestamp": "1728461213",
-        "url": "mail_display.php?timestamp=1728461213",
-        "date": "2024/10/09 16:06",
-        "department": "心理諮商輔導中心",
-        "author": {
-            "department": "心理諮商輔導中心",
-            "name": "林賢謀",
-            "email": "lcm1460@gms.ndhu.edu.tw",
-            "phone": "6269"
-        },
-        "attachmentCount": 1
     }
 ]
