@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】波錠文教基金會113年獎助學金 (限低收或家庭年收40萬以下)",
+        "timestamp": "1727406697",
+        "url": "mail_display.php?timestamp=1727406697",
+        "date": "2024/09/27 11:11",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "Models for photoshoots",
         "timestamp": "1727168637",
         "url": "mail_display.php?timestamp=1727168637",
@@ -194,19 +208,5 @@
             "phone": "03-8906219"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【徵才公告】國立東華大學數位學伴中心 - 113-1 學期大學伴招募",
-        "timestamp": "1726460267",
-        "url": "mail_display.php?timestamp=1726460267",
-        "date": "2024/09/16 12:17",
-        "department": "花師教育學院",
-        "author": {
-            "department": "花師教育學院",
-            "name": "李宛玲",
-            "email": "etutor_c226@gms.ndhu.edu.tw",
-            "phone": "890-3816"
-        },
-        "attachmentCount": 6
     }
 ]
