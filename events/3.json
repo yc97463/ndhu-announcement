@@ -1,5 +1,19 @@
 [
     {
+        "title": "初領車證新生交通安全宣導活動，10月15日第三場次，有意申領校園車輛識別證同學，請儘速上網報名。",
+        "timestamp": "1728375083",
+        "url": "mail_display.php?timestamp=1728375083",
+        "date": "2024/10/08 16:11",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "林嘉瑩",
+            "email": "tea7101@gms.ndhu.edu.tw",
+            "phone": "03-8906226"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【活動資訊】10/26-28日大學生機車安全駕駛研習及考照活動，專業培訓，原地考照，名額有限，報名從速。",
         "timestamp": "1728373180",
         "url": "mail_display.php?timestamp=1728373180",
@@ -194,19 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【發社系-113-1民族講座】先自己自己，再一起一起",
-        "timestamp": "1728260346",
-        "url": "mail_display.php?timestamp=1728260346",
-        "date": "2024/10/07 08:19",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "楊助理",
-            "email": "ringo@gms.ndhu.edu.tw",
-            "phone": "5822"
-        },
-        "attachmentCount": 2
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "【發社系-113-1民族講座】先自己自己，再一起一起",
+        "timestamp": "1728260346",
+        "url": "mail_display.php?timestamp=1728260346",
+        "date": "2024/10/07 08:19",
+        "department": "原住民民族學院",
+        "author": {
+            "department": "原住民民族學院",
+            "name": "楊助理",
+            "email": "ringo@gms.ndhu.edu.tw",
+            "phone": "5822"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "台灣原住民族知識體系課程系列講座：《巴奈回家》：樂舞、原運中「以身為度」的知識建構",
         "timestamp": "1728172501",
         "url": "mail_display.php?timestamp=1728172501",
@@ -194,19 +208,5 @@
             "phone": "03-8905672"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "SportX 運動產業跨界合作趨勢",
-        "timestamp": "1727999704",
-        "url": "mail_display.php?timestamp=1727999704",
-        "date": "2024/10/04 07:55",
-        "department": "花師教育學院 體育與運動科學系",
-        "author": {
-            "department": "花師教育學院 體育與運動科學系",
-            "name": "蔡依珊",
-            "email": "ss321@gms.ndhu.edu.tw",
-            "phone": "3932"
-        },
-        "attachmentCount": 0
     }
 ]
