@@ -1,5 +1,19 @@
 [
     {
+        "title": "【K書中心公告】113年國慶日K中A館休館一天",
+        "timestamp": "1728359779",
+        "url": "mail_display.php?timestamp=1728359779",
+        "date": "2024/10/08 11:56",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳小姐",
+            "email": "sian@gms.ndhu.edu.tw",
+            "phone": "5846"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "大學門及志學門車牌辨識系統測試公告。",
         "timestamp": "1728352842",
         "url": "mail_display.php?timestamp=1728352842",
@@ -194,19 +208,5 @@
             "phone": "6053"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "🙌服務學習🙌 藝文中心展覽顧展志工招募公告",
-        "timestamp": "1728283453",
-        "url": "mail_display.php?timestamp=1728283453",
-        "date": "2024/10/07 14:44",
-        "department": "藝術中心",
-        "author": {
-            "department": "藝術中心",
-            "name": "周葦綸",
-            "email": "arts@gms.ndhu.edu.tw",
-            "phone": "6606"
-        },
-        "attachmentCount": 2
     }
 ]

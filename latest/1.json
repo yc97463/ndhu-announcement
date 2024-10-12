@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才公告】圖書資訊處徵聘【校務行政系統開發】碩士級技術師一名(預估缺，到職日為114年2月1日以後)",
+        "timestamp": "1728698057",
+        "url": "mail_display.php?timestamp=1728698057",
+        "date": "2024/10/12 09:54",
+        "department": "圖書資訊處",
+        "author": {
+            "department": "圖書資訊處",
+            "name": "周小萍",
+            "email": "hedy@gms.ndhu.edu.tw",
+            "phone": "8906852"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "教學卓越中心敬邀您參加【教師講座】打造精準計畫書：高效AI工具應用，名額有限，敬請把握",
         "timestamp": "1728643764",
         "url": "mail_display.php?timestamp=1728643764",
@@ -192,20 +206,6 @@
             "name": "李敏賢",
             "email": "sd@gms.ndhu.edu.tw",
             "phone": "03-8905919"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【徵才】本校徵求人文社會科學學院院長候選人",
-        "timestamp": "1728612196",
-        "url": "mail_display.php?timestamp=1728612196",
-        "date": "2024/10/11 10:03",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "楊惠雯",
-            "email": "hwyang@gms.ndhu.edu.tw",
-            "phone": "6061"
         },
         "attachmentCount": 1
     }

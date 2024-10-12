@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才訊息】國立東華大學國際事務處誠徵計畫專任助理1名",
+        "timestamp": "1724121165",
+        "url": "mail_display.php?timestamp=1724121165",
+        "date": "2024/08/20 10:32",
+        "department": "國際事務處",
+        "author": {
+            "department": "國際事務處",
+            "name": "劉力綺",
+            "email": "cheerio@gms.ndhu.edu.tw",
+            "phone": "5109"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才公告】國立東華大學財務金融學系誠徵行政助理一名 (第二次公告)",
         "timestamp": "1724031167",
         "url": "mail_display.php?timestamp=1724031167",
@@ -192,20 +206,6 @@
             "name": "林逸潔",
             "email": "jamielin0902@gms.ndhu.edu.tw",
             "phone": "03-8903006"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "113年度自資系楊悠娟老師國科會計畫專任暨兼任助理徵才",
-        "timestamp": "1722323694",
-        "url": "mail_display.php?timestamp=1722323694",
-        "date": "2024/07/30 15:14",
-        "department": "環境學院",
-        "author": {
-            "department": "環境學院",
-            "name": "陳和毅助理",
-            "email": "erntmap@gmail.com",
-            "phone": "8905179"
         },
         "attachmentCount": 1
     }
