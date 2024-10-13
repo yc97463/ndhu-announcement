@@ -1,5 +1,61 @@
 [
     {
+        "title": "【電腦教室公告】113年10 月10日國慶日，電腦教室不開放。The computer lab one will be closed on October 10, 2024.",
+        "timestamp": "1728454584",
+        "url": "mail_display.php?timestamp=1728454584",
+        "date": "2024/10/09 14:16",
+        "department": "圖書資訊處綜合業務組",
+        "author": {
+            "department": "圖書資訊處綜合業務組",
+            "name": "林循美",
+            "email": "cindy@gms.ndhu.edu.tw",
+            "phone": "8906774"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "#地方與藝術的感染指南來啦！",
+        "timestamp": "1728452513",
+        "url": "mail_display.php?timestamp=1728452513",
+        "date": "2024/10/09 13:41",
+        "department": "縱谷跨域書院學士學位學程",
+        "author": {
+            "department": "縱谷跨域書院學士學位學程",
+            "name": "蔡怡臻",
+            "email": "eng720@gms.ndhu.edu.tw",
+            "phone": "6023"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "轉知婦援會「捍衛數位身體隱私權，不容越線!」宣導資源",
+        "timestamp": "1728444940",
+        "url": "mail_display.php?timestamp=1728444940",
+        "date": "2024/10/09 11:35",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "王玉君",
+            "email": "hu.jean0503@gms.ndhu.edu.tw",
+            "phone": "8906220"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "【課務組通知】授課教師可列印113-1學期選課確認名單",
+        "timestamp": "1728444532",
+        "url": "mail_display.php?timestamp=1728444532",
+        "date": "2024/10/09 11:28",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "📢⪦ 2024東華秋藝季：瑞典AORA人聲樂團巡迴音樂會花蓮場《2024台灣國際重唱藝術節》",
         "timestamp": "1728442038",
         "url": "mail_display.php?timestamp=1728442038",
@@ -152,61 +208,5 @@
             "phone": "6392"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "擴大行政會議 會議紀錄公告通知",
-        "timestamp": "1728392985",
-        "url": "mail_display.php?timestamp=1728392985",
-        "date": "2024/10/08 21:09",
-        "department": "秘書室議事公文組",
-        "author": {
-            "department": "秘書室議事公文組",
-            "name": "陳婉婉",
-            "email": "secretariat@gms.ndhu.edu.tw",
-            "phone": "6004"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【活動轉知】國立高雄科技大學舉辦「2024邁向永續淨零策略國際研討會」相關訊",
-        "timestamp": "1728378211",
-        "url": "mail_display.php?timestamp=1728378211",
-        "date": "2024/10/08 17:03",
-        "department": "永續發展中心",
-        "author": {
-            "department": "永續發展中心",
-            "name": "李敏賢",
-            "email": "sd@gms.ndhu.edu.tw",
-            "phone": "5919"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【徵才】國立教育廣播電臺(花蓮分臺)甄選聘用職務代理人(113年10月18日截止)",
-        "timestamp": "1728378032",
-        "url": "mail_display.php?timestamp=1728378032",
-        "date": "2024/10/08 17:00",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【國際展覽】藝術學院與日本岡山大學共同辦理之臺日藝術文化交流展",
-        "timestamp": "1728376105",
-        "url": "mail_display.php?timestamp=1728376105",
-        "date": "2024/10/08 16:28",
-        "department": "藝術學院",
-        "author": {
-            "department": "藝術學院",
-            "name": "戴麗雯",
-            "email": "lwtai@gms.ndhu.edu.tw",
-            "phone": "03-8905102"
-        },
-        "attachmentCount": 5
     }
 ]

@@ -1,5 +1,61 @@
 [
     {
+        "title": "【師培中心】113-1研習公告",
+        "timestamp": "1728403709",
+        "url": "mail_display.php?timestamp=1728403709",
+        "date": "2024/10/09 00:08",
+        "department": "師資培育中心",
+        "author": {
+            "department": "師資培育中心",
+            "name": "劉姵君",
+            "email": "amyliou@gms.ndhu.edu.tw",
+            "phone": "6632"
+        },
+        "attachmentCount": 6
+    },
+    {
+        "title": "【跨域自主服務學習機會】有機生活營：食農教育園遊會",
+        "timestamp": "1728399126",
+        "url": "mail_display.php?timestamp=1728399126",
+        "date": "2024/10/08 22:52",
+        "department": "永續發展中心",
+        "author": {
+            "department": "永續發展中心",
+            "name": "李莉莉 Li-Li Lee",
+            "email": "sd@gms.ndhu.edu.tw",
+            "phone": "03-890-5920"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【國際展覽】藝術學院與日本岡山大學共同辦理之臺日藝術文化交流展",
+        "timestamp": "1728376105",
+        "url": "mail_display.php?timestamp=1728376105",
+        "date": "2024/10/08 16:28",
+        "department": "藝術學院",
+        "author": {
+            "department": "藝術學院",
+            "name": "戴麗雯",
+            "email": "lwtai@gms.ndhu.edu.tw",
+            "phone": "03-8905102"
+        },
+        "attachmentCount": 5
+    },
+    {
+        "title": "初領車證新生交通安全宣導活動，10月15日第三場次，有意申領校園車輛識別證同學，請儘速上網報名。",
+        "timestamp": "1728375086",
+        "url": "mail_display.php?timestamp=1728375086",
+        "date": "2024/10/08 16:11",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "林嘉瑩",
+            "email": "tea7101@gms.ndhu.edu.tw",
+            "phone": "03-8906226"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "初領車證新生交通安全宣導活動，10月15日第三場次，有意申領校園車輛識別證同學，請儘速上網報名。",
         "timestamp": "1728375083",
         "url": "mail_display.php?timestamp=1728375083",
@@ -152,61 +208,5 @@
             "phone": "5243"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【原資講座】2024當代原住民族青年政策藍圖論壇：反歧視法，然後呢？—全民原教講座",
-        "timestamp": "1728273151",
-        "url": "mail_display.php?timestamp=1728273151",
-        "date": "2024/10/07 11:52",
-        "department": "原住民族學生資源中心",
-        "author": {
-            "department": "原住民族學生資源中心",
-            "name": "林佳儀",
-            "email": "tipus1120103@gms.ndhu.edu.tw",
-            "phone": "5718"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【健康講座】健康新運動~遠離傳染病~ 水痘、流感、登革熱、愛滋、梅毒、淋病防治等~報名從速喔!",
-        "timestamp": "1728271292",
-        "url": "mail_display.php?timestamp=1728271292",
-        "date": "2024/10/07 11:21",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【健康促進】花蓮衛生局辦理健康餐盒集點送餐卷【集食饗樂】活動，3家在本校請多加利用",
-        "timestamp": "1728264275",
-        "url": "mail_display.php?timestamp=1728264275",
-        "date": "2024/10/07 09:24",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【語言中心】113-1 午餐英語聊天時間場次公告 Lunchtime Chats Schedule 2024 Fall",
-        "timestamp": "1728263813",
-        "url": "mail_display.php?timestamp=1728263813",
-        "date": "2024/10/07 09:16",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 1
     }
 ]

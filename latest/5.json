@@ -1,5 +1,61 @@
 [
     {
+        "title": "擴大行政會議 會議紀錄公告通知",
+        "timestamp": "1728392985",
+        "url": "mail_display.php?timestamp=1728392985",
+        "date": "2024/10/08 21:09",
+        "department": "秘書室議事公文組",
+        "author": {
+            "department": "秘書室議事公文組",
+            "name": "陳婉婉",
+            "email": "secretariat@gms.ndhu.edu.tw",
+            "phone": "6004"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【活動轉知】國立高雄科技大學舉辦「2024邁向永續淨零策略國際研討會」相關訊",
+        "timestamp": "1728378211",
+        "url": "mail_display.php?timestamp=1728378211",
+        "date": "2024/10/08 17:03",
+        "department": "永續發展中心",
+        "author": {
+            "department": "永續發展中心",
+            "name": "李敏賢",
+            "email": "sd@gms.ndhu.edu.tw",
+            "phone": "5919"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【徵才】國立教育廣播電臺(花蓮分臺)甄選聘用職務代理人(113年10月18日截止)",
+        "timestamp": "1728378032",
+        "url": "mail_display.php?timestamp=1728378032",
+        "date": "2024/10/08 17:00",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【國際展覽】藝術學院與日本岡山大學共同辦理之臺日藝術文化交流展",
+        "timestamp": "1728376105",
+        "url": "mail_display.php?timestamp=1728376105",
+        "date": "2024/10/08 16:28",
+        "department": "藝術學院",
+        "author": {
+            "department": "藝術學院",
+            "name": "戴麗雯",
+            "email": "lwtai@gms.ndhu.edu.tw",
+            "phone": "03-8905102"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "初領車證新生交通安全宣導活動，10月15日第三場次，有意申領校園車輛識別證同學，請儘速上網報名。",
         "timestamp": "1728375086",
         "url": "mail_display.php?timestamp=1728375086",
@@ -152,61 +208,5 @@
             "phone": "03-8906399"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【傑出校友選拔】臺東專科學校辦理113年度傑出校友遴選，歡迎踴躍推薦該校校友參加遴選。",
-        "timestamp": "1728345377",
-        "url": "mail_display.php?timestamp=1728345377",
-        "date": "2024/10/08 07:56",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "陳美杏",
-            "email": "msing@gms.ndhu.edu.tw",
-            "phone": "6053"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "性平影展:梅莉",
-        "timestamp": "1728345301",
-        "url": "mail_display.php?timestamp=1728345301",
-        "date": "2024/10/08 07:55",
-        "department": "圖書資訊處 圖資服務組",
-        "author": {
-            "department": "圖書資訊處 圖資服務組",
-            "name": "廖銘珠",
-            "email": "min-judy@gms.ndhu.edu.tw",
-            "phone": "6855"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "2024/10/17「愛深耕・彩虹生根：性別電影巡迴放映」性別影展活動",
-        "timestamp": "1728293476",
-        "url": "mail_display.php?timestamp=1728293476",
-        "date": "2024/10/07 17:31",
-        "department": "教育與潛能開發學系",
-        "author": {
-            "department": "教育與潛能開發學系",
-            "name": "溫小姐",
-            "email": "yuyu@gms.ndhu.edu.tw",
-            "phone": "3823"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【徵才】「114年公務人員初等考試」113年10月22日起開始報名囉! 📣📣",
-        "timestamp": "1728293247",
-        "url": "mail_display.php?timestamp=1728293247",
-        "date": "2024/10/07 17:27",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 2
     }
 ]
