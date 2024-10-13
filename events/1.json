@@ -1,5 +1,19 @@
 [
     {
+        "title": "騎牛、覓牛與 見性",
+        "timestamp": "1728794797",
+        "url": "mail_display.php?timestamp=1728794797",
+        "date": "2024/10/13 12:46",
+        "department": "物理學系",
+        "author": {
+            "department": "物理學系",
+            "name": "彭文平",
+            "email": "pengw@gms.ndhu.edu.tw",
+            "phone": "8903733"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "台灣原住民族知識體系課程系列講座：經驗、知識與權力—有關原住民族知識建構的若干檢討",
         "timestamp": "1728777304",
         "url": "mail_display.php?timestamp=1728777304",
@@ -194,19 +208,5 @@
             "phone": "03-8905919"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【Forward 協助轉知】臺灣青年永續發展協會（TYSDA）第三期影響力見習招募中！",
-        "timestamp": "1728611587",
-        "url": "mail_display.php?timestamp=1728611587",
-        "date": "2024/10/11 09:53",
-        "department": "永續發展中心",
-        "author": {
-            "department": "永續發展中心",
-            "name": "李莉莉 Li-Li Lee",
-            "email": "sd@gms.ndhu.edu.tw",
-            "phone": "03-890-5920"
-        },
-        "attachmentCount": 5
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "［113-1教育議題專題講座］",
+        "timestamp": "1728405231",
+        "url": "mail_display.php?timestamp=1728405231",
+        "date": "2024/10/09 00:33",
+        "department": "師資培育中心",
+        "author": {
+            "department": "師資培育中心",
+            "name": "劉姵君",
+            "email": "amyliou@gms.ndhu.edu.tw",
+            "phone": "6632"
+        },
+        "attachmentCount": 6
+    },
+    {
         "title": "【師培中心】113-1研習公告",
         "timestamp": "1728403709",
         "url": "mail_display.php?timestamp=1728403709",
@@ -194,19 +208,5 @@
             "phone": "6053"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "📢【活動推推】日本大學生協的歷史和現在，面向未來的課題 經驗分享",
-        "timestamp": "1728276099",
-        "url": "mail_display.php?timestamp=1728276099",
-        "date": "2024/10/07 12:41",
-        "department": "社會參與中心",
-        "author": {
-            "department": "社會參與中心",
-            "name": "鄒小姐",
-            "email": "tsai_yen@gms.ndhu.edu.tw",
-            "phone": "5243"
-        },
-        "attachmentCount": 2
     }
 ]
