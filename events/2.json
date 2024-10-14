@@ -1,5 +1,19 @@
 [
     {
+        "title": "113-1華語文中心教師研習講座",
+        "timestamp": "1728725296",
+        "url": "mail_display.php?timestamp=1728725296",
+        "date": "2024/10/12 17:28",
+        "department": "華語文中心",
+        "author": {
+            "department": "華語文中心",
+            "name": "林容華",
+            "email": "kattylin@gms.ndhu.edu.tw",
+            "phone": "038905348"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "💡教學卓越中心敬邀您參加【教師講座】打造精準計畫書：高效AI工具應用（最後加開10位名額）",
         "timestamp": "1728711584",
         "url": "mail_display.php?timestamp=1728711584",
@@ -194,19 +208,5 @@
             "phone": "038903678"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "轉知衛服部辦理113年「走路尋寶趣，全台齊步走」全民健走線上競賽。",
-        "timestamp": "1728457860",
-        "url": "mail_display.php?timestamp=1728457860",
-        "date": "2024/10/09 15:11",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "吳星穎",
-            "email": "carmier@gms.ndhu.edu.tw",
-            "phone": "8906252"
-        },
-        "attachmentCount": 1
     }
 ]
