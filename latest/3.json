@@ -1,5 +1,19 @@
 [
     {
+        "title": "【113-1 走一趟性別的旅行】單身女子自由行不行",
+        "timestamp": "1728777302",
+        "url": "mail_display.php?timestamp=1728777302",
+        "date": "2024/10/13 07:55",
+        "department": "花師教育學院 教育與潛能開發學系",
+        "author": {
+            "department": "花師教育學院 教育與潛能開發學系",
+            "name": "王敬堯",
+            "email": "411088007@gms.ndhu.edu.tw",
+            "phone": "0000000000"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "性平影展:沙之書",
         "timestamp": "1728777301",
         "url": "mail_display.php?timestamp=1728777301",
@@ -194,19 +208,5 @@
             "phone": "6632"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【K書中心公告】K中A館開放時間說明(第三次公告) ",
-        "timestamp": "1728626317",
-        "url": "mail_display.php?timestamp=1728626317",
-        "date": "2024/10/11 13:58",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "陳小姐",
-            "email": "sian@gms.ndhu.edu.tw",
-            "phone": "5846"
-        },
-        "attachmentCount": 1
     }
 ]
