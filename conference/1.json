@@ -1,5 +1,47 @@
 [
     {
+        "title": "【更正】【演講公告】10/21「永續金融之學術趨勢」－國立台北大學池祥麟永續發展副校長",
+        "timestamp": "1728874528",
+        "url": "mail_display.php?timestamp=1728874528",
+        "date": "2024/10/14 10:55",
+        "department": "永續發展中心",
+        "author": {
+            "department": "永續發展中心",
+            "name": "李敏賢",
+            "email": "sd@gms.ndhu.edu.tw",
+            "phone": "5919"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【演講公告】10/21「永續金融之學術趨勢」－國立台北大學池祥麟永續發展副校長",
+        "timestamp": "1728872793",
+        "url": "mail_display.php?timestamp=1728872793",
+        "date": "2024/10/14 10:26",
+        "department": "永續發展中心",
+        "author": {
+            "department": "永續發展中心",
+            "name": "李敏賢",
+            "email": "sd@gms.ndhu.edu.tw",
+            "phone": "5919"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "諮商中心幸福學苑-鏡頭下的N號房-不可不知的數位性別暴力",
+        "timestamp": "1728870710",
+        "url": "mail_display.php?timestamp=1728870710",
+        "date": "2024/10/14 09:51",
+        "department": "心理諮商輔導中心",
+        "author": {
+            "department": "心理諮商輔導中心",
+            "name": "陳奕錚",
+            "email": "yjchen92@gms.ndhu.edu.tw",
+            "phone": "(03)890-6894"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "2024年國科會法律研習營「原住民族法的研究：典範與轉型」",
         "timestamp": "1728634816",
         "url": "mail_display.php?timestamp=1728634816",
@@ -164,48 +206,6 @@
             "name": "姜紫淇",
             "email": "yaya@gms.ndhu.edu.tw",
             "phone": "03-8906235"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【中文系公告】 因應颱風影響，本系10月04日（五）舉辦之「2024後山文薈全國研究生論文研討會」全面改為線上會議，檢附會議連結，歡迎學界先進、同學或對相關題目感興趣之人士上線旁聽。",
-        "timestamp": "1728005563",
-        "url": "mail_display.php?timestamp=1728005563",
-        "date": "2024/10/04 09:32",
-        "department": "中國語文學系",
-        "author": {
-            "department": "中國語文學系",
-            "name": "賴奕如",
-            "email": "yiju1006@gms.ndhu.edu.tw",
-            "phone": "03-8905672"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "花蓮縣 113下半年 文化與秋冬星空跨域教學師資培訓計畫",
-        "timestamp": "1727936740",
-        "url": "mail_display.php?timestamp=1727936740",
-        "date": "2024/10/03 14:25",
-        "department": "科學教育中心",
-        "author": {
-            "department": "科學教育中心",
-            "name": "鄭立婷",
-            "email": "liting032@gms.ndhu.edu.tw",
-            "phone": "03-8903850"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "新二代是誰？誰是新二代？——以婚姻移民子女議題看台灣社會的多元文化發展與前景",
-        "timestamp": "1727668427",
-        "url": "mail_display.php?timestamp=1727668427",
-        "date": "2024/09/30 11:53",
-        "department": "社會參與中心",
-        "author": {
-            "department": "社會參與中心",
-            "name": "鄒小姐",
-            "email": "tsai_yen@gms.ndhu.edu.tw",
-            "phone": "5243"
         },
         "attachmentCount": 2
     }

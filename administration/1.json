@@ -1,5 +1,61 @@
 [
     {
+        "title": "修復理工一館A側屋頂漏水公告",
+        "timestamp": "1728872763",
+        "url": "mail_display.php?timestamp=1728872763",
+        "date": "2024/10/14 10:26",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "賴名塑",
+            "email": "a54604@gms.ndhu.edu.tw",
+            "phone": "8906378"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "10月17日(四)上午9-11時壽豐消防隊於多容館進行消防搶救演練",
+        "timestamp": "1728872489",
+        "url": "mail_display.php?timestamp=1728872489",
+        "date": "2024/10/14 10:21",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "賴名塑",
+            "email": "a54604@gms.ndhu.edu.tw",
+            "phone": "8906378"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【課務組通知】「期中教學意見回饋」系統將自10月21日(一)起開放學生填寫 NDHU’s mid-term teaching feedback system will open on October 21.",
+        "timestamp": "1728872296",
+        "url": "mail_display.php?timestamp=1728872296",
+        "date": "2024/10/14 10:18",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【教務處通知】113-1學期「期中教學意見回饋」系統自10月21日(一)起開放學生填寫",
+        "timestamp": "1728870185",
+        "url": "mail_display.php?timestamp=1728870185",
+        "date": "2024/10/14 09:43",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "提醒：勿開啟來路不明之信件，教育部至12月前進行電子郵件社交工程演練",
         "timestamp": "1728867409",
         "url": "mail_display.php?timestamp=1728867409",
@@ -150,62 +206,6 @@
             "name": "課務組",
             "email": "utd1003@gms.ndhu.edu.tw",
             "phone": "6122-6126"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "近日外環道發現野生動物，請務必減速慢行",
-        "timestamp": "1728393611",
-        "url": "mail_display.php?timestamp=1728393611",
-        "date": "2024/10/08 21:20",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "陳小姐",
-            "email": "aspen@gms.ndhu.edu.tw",
-            "phone": "6392"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "擴大行政會議 會議紀錄公告通知",
-        "timestamp": "1728392985",
-        "url": "mail_display.php?timestamp=1728392985",
-        "date": "2024/10/08 21:09",
-        "department": "秘書室議事公文組",
-        "author": {
-            "department": "秘書室議事公文組",
-            "name": "陳婉婉",
-            "email": "secretariat@gms.ndhu.edu.tw",
-            "phone": "6004"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "大學門及志學門車牌辨識系統測試公告。",
-        "timestamp": "1728352842",
-        "url": "mail_display.php?timestamp=1728352842",
-        "date": "2024/10/08 10:00",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "113年10月10日(週四)垃圾車暫停服務一天。Garbage truck removal services will be suspended for one day on October 10, 2024 (Thursday).",
-        "timestamp": "1728346933",
-        "url": "mail_display.php?timestamp=1728346933",
-        "date": "2024/10/08 08:22",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "許智翔",
-            "email": "cocco3746@gms.ndhu.edu.tw",
-            "phone": "03-8906399"
         },
         "attachmentCount": 0
     }

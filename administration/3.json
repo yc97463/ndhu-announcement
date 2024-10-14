@@ -1,5 +1,61 @@
 [
     {
+        "title": "113年10月3日垃圾車停止清運Garbage trucks will cease service on October 3, 2024",
+        "timestamp": "1727865419",
+        "url": "mail_display.php?timestamp=1727865419",
+        "date": "2024/10/02 18:36",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "許智翔",
+            "email": "cocco3746@gms.ndhu.edu.tw",
+            "phone": "03-8906399"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【人事室公告】依行政院人事行政總處公告，明(10/3)日停止上班上課",
+        "timestamp": "1727864644",
+        "url": "mail_display.php?timestamp=1727864644",
+        "date": "2024/10/02 18:24",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "劉依虹",
+            "email": "joyce_liu@gms.ndhu.edu.tw",
+            "phone": "6060"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "Hualien County will suspend work and classes tomorrow（10/02）",
+        "timestamp": "1727785994",
+        "url": "mail_display.php?timestamp=1727785994",
+        "date": "2024/10/01 20:33",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "113年10月2日垃圾車停止清運Garbage trucks will cease service on October 2, 2024",
+        "timestamp": "1727784043",
+        "url": "mail_display.php?timestamp=1727784043",
+        "date": "2024/10/01 20:00",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "許智翔",
+            "email": "cocco3746@gms.ndhu.edu.tw",
+            "phone": "038906399"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【人事室公告】依花蓮縣政府公告，明(10/2)日停止上班上課",
         "timestamp": "1727783357",
         "url": "mail_display.php?timestamp=1727783357",
@@ -152,61 +208,5 @@
             "phone": "6232"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "秘書室異地辦公公告",
-        "timestamp": "1727658387",
-        "url": "mail_display.php?timestamp=1727658387",
-        "date": "2024/09/30 09:06",
-        "department": "秘書室議事公文組",
-        "author": {
-            "department": "秘書室議事公文組",
-            "name": "陳婉婉",
-            "email": "secretariat@gms.ndhu.edu.tw",
-            "phone": "6004"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "本校堪用舊品借用通知",
-        "timestamp": "1727657500",
-        "url": "mail_display.php?timestamp=1727657500",
-        "date": "2024/09/30 08:51",
-        "department": "總務處保管組",
-        "author": {
-            "department": "總務處保管組",
-            "name": "林慧濘",
-            "email": "maya70@gms.ndhu.edu.tw",
-            "phone": "8906344"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "113年10月份全校綠地除草維護時間及施作區域公告",
-        "timestamp": "1727656038",
-        "url": "mail_display.php?timestamp=1727656038",
-        "date": "2024/09/30 08:27",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "賴宜萱",
-            "email": "lai0210@gms.ndhu.edu.tw",
-            "phone": "6393"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【海上和陸上颱風警報】山陀兒中度颱風（國際名KRATHON）海上和陸地颱風警報!  Moderate typhoon KRATHON (international name KRATHON) maritime and land typhoon warning",
-        "timestamp": "1727648012",
-        "url": "mail_display.php?timestamp=1727648012",
-        "date": "2024/09/30 06:13",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "吳昭毅",
-            "email": "wuyi12831@gms.ndhu.edu.tw",
-            "phone": "038906228"
-        },
-        "attachmentCount": 3
     }
 ]
