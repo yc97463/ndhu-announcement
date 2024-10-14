@@ -1,5 +1,19 @@
 [
     {
+        "title": "東京都立大學 道（Dō ）The Art of Japanese Language \u0026 Culture",
+        "timestamp": "1728638027",
+        "url": "mail_display.php?timestamp=1728638027",
+        "date": "2024/10/11 17:13",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "呂姿穎",
+            "email": "doris@gms.ndhu.edu.tw",
+            "phone": "5173"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "日本芝浦工業大學 Cross-cultural Engineering Project (CEP)",
         "timestamp": "1728637180",
         "url": "mail_display.php?timestamp=1728637180",
@@ -192,20 +206,6 @@
             "name": "吳星穎",
             "email": "carmier@gms.ndhu.edu.tw",
             "phone": "8906252"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "創業品牌進化論【品牌塑造與業績成長秘訣】系列活動",
-        "timestamp": "1728457456",
-        "url": "mail_display.php?timestamp=1728457456",
-        "date": "2024/10/09 15:04",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "吳其璁",
-            "email": "dci93031@gms.ndhu.edu.tw",
-            "phone": "03-8903687"
         },
         "attachmentCount": 2
     }

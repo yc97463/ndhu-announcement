@@ -1,5 +1,47 @@
 [
     {
+        "title": "🙌服務學習第二波🙌 故宮校園巡迴展覽顧展志工招募公告",
+        "timestamp": "1728636002",
+        "url": "mail_display.php?timestamp=1728636002",
+        "date": "2024/10/11 16:40",
+        "department": "藝術中心",
+        "author": {
+            "department": "藝術中心",
+            "name": "周葦綸",
+            "email": "arts@gms.ndhu.edu.tw",
+            "phone": "6606"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "2024年國科會法律研習營「原住民族法的研究：典範與轉型」",
+        "timestamp": "1728634816",
+        "url": "mail_display.php?timestamp=1728634816",
+        "date": "2024/10/11 16:20",
+        "department": "法律學系",
+        "author": {
+            "department": "法律學系",
+            "name": "Galaigai Cavalje 高蘇恩",
+            "email": "galaigai@gms.ndhu.edu.tw",
+            "phone": "03890-5663"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【研習】適性教學應用(因材網)工作坊-國中小-自然領域",
+        "timestamp": "1728626638",
+        "url": "mail_display.php?timestamp=1728626638",
+        "date": "2024/10/11 14:03",
+        "department": "師資培育中心",
+        "author": {
+            "department": "師資培育中心",
+            "name": "劉姵君",
+            "email": "amyliou@gms.ndhu.edu.tw",
+            "phone": "6632"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【K書中心公告】K中A館開放時間說明(第三次公告) ",
         "timestamp": "1728626317",
         "url": "mail_display.php?timestamp=1728626317",
@@ -166,47 +208,5 @@
             "phone": "0971217585"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【K書中心公告】113年國慶日K中A館休館一天與開放時間說明(第二次公告)",
-        "timestamp": "1728472958",
-        "url": "mail_display.php?timestamp=1728472958",
-        "date": "2024/10/09 19:22",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "陳小姐",
-            "email": "sian@gms.ndhu.edu.tw",
-            "phone": "6931"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【轉知】「斯洛伐克國家獎學金計畫 (National Scholarship Programme of the Slovak Republic)」開放申請。",
-        "timestamp": "1728465528",
-        "url": "mail_display.php?timestamp=1728465528",
-        "date": "2024/10/09 17:18",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "2024校慶系列活動－校慶園遊會攤位報名",
-        "timestamp": "1728464375",
-        "url": "mail_display.php?timestamp=1728464375",
-        "date": "2024/10/09 16:59",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "游雅筑",
-            "email": "pink389124@gms.ndhu.edu.tw",
-            "phone": "8906236"
-        },
-        "attachmentCount": 2
     }
 ]

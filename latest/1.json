@@ -1,5 +1,47 @@
 [
     {
+        "title": "【海外研究計畫】教育部試辦赴國外實驗機構研究計畫，選送學生赴國外實驗機構進行研究實習",
+        "timestamp": "1728876802",
+        "url": "mail_display.php?timestamp=1728876802",
+        "date": "2024/10/14 11:33",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "第三場~定期捐血保障你我~熱血行動!!!加碼送大麥克。",
+        "timestamp": "1728875424",
+        "url": "mail_display.php?timestamp=1728875424",
+        "date": "2024/10/14 11:10",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "吳星穎",
+            "email": "carmier@gms.ndhu.edu.tw",
+            "phone": "8906252"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【更正】【演講公告】10/21「永續金融之學術趨勢」－國立台北大學池祥麟永續發展副校長",
+        "timestamp": "1728874528",
+        "url": "mail_display.php?timestamp=1728874528",
+        "date": "2024/10/14 10:55",
+        "department": "永續發展中心",
+        "author": {
+            "department": "永續發展中心",
+            "name": "李敏賢",
+            "email": "sd@gms.ndhu.edu.tw",
+            "phone": "5919"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【演講公告】10/21「永續金融之學術趨勢」－國立台北大學池祥麟永續發展副校長",
         "timestamp": "1728872793",
         "url": "mail_display.php?timestamp=1728872793",
@@ -166,47 +208,5 @@
             "phone": "3823"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "騎牛、覓牛與 見性",
-        "timestamp": "1728794797",
-        "url": "mail_display.php?timestamp=1728794797",
-        "date": "2024/10/13 12:46",
-        "department": "物理學系",
-        "author": {
-            "department": "物理學系",
-            "name": "彭文平",
-            "email": "pengw@gms.ndhu.edu.tw",
-            "phone": "8903733"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "台灣原住民族知識體系課程系列講座：經驗、知識與權力—有關原住民族知識建構的若干檢討",
-        "timestamp": "1728777304",
-        "url": "mail_display.php?timestamp=1728777304",
-        "date": "2024/10/13 07:55",
-        "department": "原住民民族學院 族群關係與文化學系",
-        "author": {
-            "department": "原住民民族學院 族群關係與文化學系",
-            "name": "葉秀燕",
-            "email": "柯承希 411196018@gms.ndhu.edu.tw",
-            "phone": "柯承希 0988479360"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【臺灣系】系友講座－GIS應用新視野：從專案管理到高效決策",
-        "timestamp": "1728777303",
-        "url": "mail_display.php?timestamp=1728777303",
-        "date": "2024/10/13 07:55",
-        "department": "人文社會科學學院 臺灣文化學系",
-        "author": {
-            "department": "人文社會科學學院 臺灣文化學系",
-            "name": "唐家渝",
-            "email": "abby0528@gms.ndhu.edu.tw",
-            "phone": "038905213"
-        },
-        "attachmentCount": 0
     }
 ]

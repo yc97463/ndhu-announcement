@@ -1,5 +1,47 @@
 [
     {
+        "title": "騎牛、覓牛與 見性",
+        "timestamp": "1728794797",
+        "url": "mail_display.php?timestamp=1728794797",
+        "date": "2024/10/13 12:46",
+        "department": "物理學系",
+        "author": {
+            "department": "物理學系",
+            "name": "彭文平",
+            "email": "pengw@gms.ndhu.edu.tw",
+            "phone": "8903733"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "台灣原住民族知識體系課程系列講座：經驗、知識與權力—有關原住民族知識建構的若干檢討",
+        "timestamp": "1728777304",
+        "url": "mail_display.php?timestamp=1728777304",
+        "date": "2024/10/13 07:55",
+        "department": "原住民民族學院 族群關係與文化學系",
+        "author": {
+            "department": "原住民民族學院 族群關係與文化學系",
+            "name": "葉秀燕",
+            "email": "柯承希 411196018@gms.ndhu.edu.tw",
+            "phone": "柯承希 0988479360"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【臺灣系】系友講座－GIS應用新視野：從專案管理到高效決策",
+        "timestamp": "1728777303",
+        "url": "mail_display.php?timestamp=1728777303",
+        "date": "2024/10/13 07:55",
+        "department": "人文社會科學學院 臺灣文化學系",
+        "author": {
+            "department": "人文社會科學學院 臺灣文化學系",
+            "name": "唐家渝",
+            "email": "abby0528@gms.ndhu.edu.tw",
+            "phone": "038905213"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【113-1 走一趟性別的旅行】單身女子自由行不行",
         "timestamp": "1728777302",
         "url": "mail_display.php?timestamp=1728777302",
@@ -164,48 +206,6 @@
             "name": "周葦綸",
             "email": "arts@gms.ndhu.edu.tw",
             "phone": "6606"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "🙌服務學習第二波🙌 故宮校園巡迴展覽顧展志工招募公告",
-        "timestamp": "1728636002",
-        "url": "mail_display.php?timestamp=1728636002",
-        "date": "2024/10/11 16:40",
-        "department": "藝術中心",
-        "author": {
-            "department": "藝術中心",
-            "name": "周葦綸",
-            "email": "arts@gms.ndhu.edu.tw",
-            "phone": "6606"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "2024年國科會法律研習營「原住民族法的研究：典範與轉型」",
-        "timestamp": "1728634816",
-        "url": "mail_display.php?timestamp=1728634816",
-        "date": "2024/10/11 16:20",
-        "department": "法律學系",
-        "author": {
-            "department": "法律學系",
-            "name": "Galaigai Cavalje 高蘇恩",
-            "email": "galaigai@gms.ndhu.edu.tw",
-            "phone": "03890-5663"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【研習】適性教學應用(因材網)工作坊-國中小-自然領域",
-        "timestamp": "1728626638",
-        "url": "mail_display.php?timestamp=1728626638",
-        "date": "2024/10/11 14:03",
-        "department": "師資培育中心",
-        "author": {
-            "department": "師資培育中心",
-            "name": "劉姵君",
-            "email": "amyliou@gms.ndhu.edu.tw",
-            "phone": "6632"
         },
         "attachmentCount": 2
     }
