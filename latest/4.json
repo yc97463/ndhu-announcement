@@ -1,5 +1,33 @@
 [
     {
+        "title": "【113-1 教育研究法課程專題講座】研究生創造力：善用研究煉金術建構新視野－生成式引導、對談與自主建構",
+        "timestamp": "1728604502",
+        "url": "mail_display.php?timestamp=1728604502",
+        "date": "2024/10/11 07:55",
+        "department": "花師教育學院 教育與潛能開發學系",
+        "author": {
+            "department": "花師教育學院 教育與潛能開發學系",
+            "name": "王敬堯",
+            "email": "611088102@gms.ndhu.edu.tw",
+            "phone": "0971217585"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【K書中心公告】113年國慶日K中A館休館一天與開放時間說明(第二次公告)",
+        "timestamp": "1728472958",
+        "url": "mail_display.php?timestamp=1728472958",
+        "date": "2024/10/09 19:22",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳小姐",
+            "email": "sian@gms.ndhu.edu.tw",
+            "phone": "6931"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【轉知】「斯洛伐克國家獎學金計畫 (National Scholarship Programme of the Slovak Republic)」開放申請。",
         "timestamp": "1728465528",
         "url": "mail_display.php?timestamp=1728465528",
@@ -180,33 +208,5 @@
             "phone": "8906218"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【獎助學金申請】主計協進社113年主計獎學金 (限會計、統計相關科系)",
-        "timestamp": "1728455637",
-        "url": "mail_display.php?timestamp=1728455637",
-        "date": "2024/10/09 14:33",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【職涯探索】✨✨【YES就業力組合量表】線上測驗 一起探索全方位就業力! ✨✨",
-        "timestamp": "1728454933",
-        "url": "mail_display.php?timestamp=1728454933",
-        "date": "2024/10/09 14:22",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
     }
 ]
