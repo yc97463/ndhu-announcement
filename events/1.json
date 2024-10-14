@@ -1,5 +1,19 @@
 [
     {
+        "title": "教職員活動~快閃安妮~閃電CPR挑戰拿好禮",
+        "timestamp": "1728894445",
+        "url": "mail_display.php?timestamp=1728894445",
+        "date": "2024/10/14 16:27",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "吳星穎",
+            "email": "carmier@gms.ndhu.edu.tw",
+            "phone": "8906252"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【活動轉知】國立勤益科技大學辦理「AI與虛擬實境於教學應用：教師能力與跨域交流研討會」",
         "timestamp": "1728890989",
         "url": "mail_display.php?timestamp=1728890989",
@@ -192,20 +206,6 @@
             "name": "葉秀燕",
             "email": "柯承希 411196018@gms.ndhu.edu.tw",
             "phone": "柯承希 0988479360"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【臺灣系】系友講座－GIS應用新視野：從專案管理到高效決策",
-        "timestamp": "1728777303",
-        "url": "mail_display.php?timestamp=1728777303",
-        "date": "2024/10/13 07:55",
-        "department": "人文社會科學學院 臺灣文化學系",
-        "author": {
-            "department": "人文社會科學學院 臺灣文化學系",
-            "name": "唐家渝",
-            "email": "abby0528@gms.ndhu.edu.tw",
-            "phone": "038905213"
         },
         "attachmentCount": 0
     }
