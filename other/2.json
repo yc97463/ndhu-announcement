@@ -1,5 +1,19 @@
 [
     {
+        "title": "檢附113年本校資深教職員工名冊，敬請於10月17日(星期四)前協助核對。",
+        "timestamp": "1728441668",
+        "url": "mail_display.php?timestamp=1728441668",
+        "date": "2024/10/09 10:41",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "劉昱淩",
+            "email": "e56187@gms.ndhu.edu.tw",
+            "phone": "890-6056"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "113學年度校內無主機車、自行車自10月25日起進行拖吊作業公告",
         "timestamp": "1728439929",
         "url": "mail_display.php?timestamp=1728439929",
@@ -192,20 +206,6 @@
             "name": "林佩瑤",
             "email": "peiyao@gms.ndhu.edu.tw",
             "phone": "6013"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【K書中心公告】K中A館今日恢復開館通知與國慶日休館公告",
-        "timestamp": "1728019027",
-        "url": "mail_display.php?timestamp=1728019027",
-        "date": "2024/10/04 13:17",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "陳小姐",
-            "email": "sian@gms.ndhu.edu.tw",
-            "phone": "5846"
         },
         "attachmentCount": 0
     }
