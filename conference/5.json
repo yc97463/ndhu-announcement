@@ -1,5 +1,19 @@
 [
     {
+        "title": "【演講】113.06.05 專題演講 – 張明治教授",
+        "timestamp": "1717403463",
+        "url": "mail_display.php?timestamp=1717403463",
+        "date": "2024/06/03 16:31",
+        "department": "資訊工程學系",
+        "author": {
+            "department": "資訊工程學系",
+            "name": "葉助理",
+            "email": "kiki2002@gms.ndhu.edu.tw",
+            "phone": "5012"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "「縱目歐亞-空間與人文的對話」課程系列講座-6/5（三）李雅瑞教授(Astrid Lipinsky)維也納大學維也納台灣研究中心 (VCTS)：歐洲視角下的台灣—語言/移民/社會",
         "timestamp": "1717153165",
         "url": "mail_display.php?timestamp=1717153165",
@@ -194,19 +208,5 @@
             "phone": "038905213"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "歷史系專題演講：清官難斷家務事：唐代法律制度與地方生活實例",
-        "timestamp": "1715139385",
-        "url": "mail_display.php?timestamp=1715139385",
-        "date": "2024/05/08 11:36",
-        "department": "歷史學系",
-        "author": {
-            "department": "歷史學系",
-            "name": "吳助理",
-            "email": "suju1106@gms.ndhu.edu.tw",
-            "phone": "5323"
-        },
-        "attachmentCount": 1
     }
 ]

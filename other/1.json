@@ -1,5 +1,19 @@
 [
     {
+        "title": "【轉知】勞動部勞動力發展署桃竹苗分署自辦114年職前訓練",
+        "timestamp": "1728884219",
+        "url": "mail_display.php?timestamp=1728884219",
+        "date": "2024/10/14 13:36",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 6
+    },
+    {
         "title": "修復理工一館A側屋頂漏水公告",
         "timestamp": "1728872763",
         "url": "mail_display.php?timestamp=1728872763",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【K書中心公告】113年國慶日K中A館休館一天",
-        "timestamp": "1728359779",
-        "url": "mail_display.php?timestamp=1728359779",
-        "date": "2024/10/08 11:56",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "陳小姐",
-            "email": "sian@gms.ndhu.edu.tw",
-            "phone": "5846"
-        },
-        "attachmentCount": 0
     }
 ]
