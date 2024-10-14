@@ -1,5 +1,33 @@
 [
     {
+        "title": "【徵才】本校徵求人文社會科學學院院長候選人",
+        "timestamp": "1728612196",
+        "url": "mail_display.php?timestamp=1728612196",
+        "date": "2024/10/11 10:03",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "楊惠雯",
+            "email": "hwyang@gms.ndhu.edu.tw",
+            "phone": "6061"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【Forward 協助轉知】臺灣青年永續發展協會（TYSDA）第三期影響力見習招募中！",
+        "timestamp": "1728611587",
+        "url": "mail_display.php?timestamp=1728611587",
+        "date": "2024/10/11 09:53",
+        "department": "永續發展中心",
+        "author": {
+            "department": "永續發展中心",
+            "name": "李莉莉 Li-Li Lee",
+            "email": "sd@gms.ndhu.edu.tw",
+            "phone": "03-890-5920"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "美國教授學者Robert D.Eldridge,Ph.D.s演講：日本防災經驗談講座(第二次公告)",
         "timestamp": "1728608581",
         "url": "mail_display.php?timestamp=1728608581",
@@ -180,33 +208,5 @@
             "phone": "8906252"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "創業品牌進化論【品牌塑造與業績成長秘訣】系列活動",
-        "timestamp": "1728457456",
-        "url": "mail_display.php?timestamp=1728457456",
-        "date": "2024/10/09 15:04",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "吳其璁",
-            "email": "dci93031@gms.ndhu.edu.tw",
-            "phone": "03-8903687"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "10/17~10/18勞僱型教職員工一般健康檢查",
-        "timestamp": "1728457238",
-        "url": "mail_display.php?timestamp=1728457238",
-        "date": "2024/10/09 15:00",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "吳星穎",
-            "email": "carmier@gms.ndhu.edu.tw",
-            "phone": "8906252"
-        },
-        "attachmentCount": 3
     }
 ]
