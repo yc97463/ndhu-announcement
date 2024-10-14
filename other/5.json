@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才】國立臺南大學特殊教育學系教師徵聘(113年10月31日截止)",
+        "timestamp": "1726629970",
+        "url": "mail_display.php?timestamp=1726629970",
+        "date": "2024/09/18 11:26",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【徵才】苗栗縣113年度專業輔導人員(心理師)甄選(113年9月20日截止)",
         "timestamp": "1726629257",
         "url": "mail_display.php?timestamp=1726629257",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【徵才】中央銀行「經濟金融研究專業人員（助理研究員或同等職位、辦事員）甄選」",
-        "timestamp": "1726207200",
-        "url": "mail_display.php?timestamp=1726207200",
-        "date": "2024/09/13 14:00",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 6
     }
 ]

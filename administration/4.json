@@ -1,5 +1,19 @@
 [
     {
+        "title": "9/30 18:00 起，體育場館暫停開放",
+        "timestamp": "1727681218",
+        "url": "mail_display.php?timestamp=1727681218",
+        "date": "2024/09/30 15:26",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "楊永義",
+            "email": "yyy@gms.ndhu.edu.tw",
+            "phone": "0911765302"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【教育優先區】114年寒假教育優先區中小學營隊活動，校內申請即日起至113年10月18日(五)下午17:00收件截止!!! Application for the K-12 School Camp Activities during winter break of academic year 2024-2025",
         "timestamp": "1727673391",
         "url": "mail_display.php?timestamp=1727673391",
@@ -194,19 +208,5 @@
             "phone": "(03)8906079"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "[宣導公告]車輛進入校園請依規定停放。",
-        "timestamp": "1727226579",
-        "url": "mail_display.php?timestamp=1727226579",
-        "date": "2024/09/25 09:09",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 0
     }
 ]

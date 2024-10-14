@@ -1,5 +1,19 @@
 [
     {
+        "title": "113學年度校內無主機車、自行車自10月25日起進行拖吊作業公告",
+        "timestamp": "1728439929",
+        "url": "mail_display.php?timestamp=1728439929",
+        "date": "2024/10/09 10:12",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "洪國華",
+            "email": "eejj@gms.ndhu.edu.tw",
+            "phone": "6401"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【活動轉知】國立高雄科技大學舉辦「2024邁向永續淨零策略國際研討會」相關訊",
         "timestamp": "1728378211",
         "url": "mail_display.php?timestamp=1728378211",
@@ -194,19 +208,5 @@
             "phone": "5846"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【資料庫活動】「E書E語 推薦接力」電子書推廣活動",
-        "timestamp": "1728013717",
-        "url": "mail_display.php?timestamp=1728013717",
-        "date": "2024/10/04 11:48",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "陳昱佐",
-            "email": "yutuchen@ndhu.edu.tw",
-            "phone": "038906824"
-        },
-        "attachmentCount": 3
     }
 ]

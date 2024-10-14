@@ -1,5 +1,19 @@
 [
     {
+        "title": "[宣導公告]車輛進入校園請依規定停放。",
+        "timestamp": "1727226579",
+        "url": "mail_display.php?timestamp=1727226579",
+        "date": "2024/09/25 09:09",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "公文系統將於113年9月25日(三)中午12~13時暫停服務公告",
         "timestamp": "1727222730",
         "url": "mail_display.php?timestamp=1727222730",
@@ -194,19 +208,5 @@
             "phone": "6232"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【提醒Reminder】尊重在地文化與禮儀 Respect Local Culture and Manners",
-        "timestamp": "1726817722",
-        "url": "mail_display.php?timestamp=1726817722",
-        "date": "2024/09/20 15:35",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 0
     }
 ]
