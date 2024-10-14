@@ -84,20 +84,6 @@
         "attachmentCount": 2
     },
     {
-        "title": "【海外研究計畫】教育部試辦赴國外實驗機構研究計畫，選送學生赴國外實驗機構進行研究實習",
-        "timestamp": "1728618852",
-        "url": "mail_display.php?timestamp=1728618852",
-        "date": "2024/10/11 11:54",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 2
-    },
-    {
         "title": "【新創基地進駐申請】2025年花蓮新創基地進駐團隊招募正式開跑",
         "timestamp": "1728617904",
         "url": "mail_display.php?timestamp=1728617904",
@@ -208,5 +194,19 @@
             "phone": "0971217585"
         },
         "attachmentCount": 0
+    },
+    {
+        "title": "【K書中心公告】113年國慶日K中A館休館一天與開放時間說明(第二次公告)",
+        "timestamp": "1728472958",
+        "url": "mail_display.php?timestamp=1728472958",
+        "date": "2024/10/09 19:22",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳小姐",
+            "email": "sian@gms.ndhu.edu.tw",
+            "phone": "6931"
+        },
+        "attachmentCount": 1
     }
 ]
