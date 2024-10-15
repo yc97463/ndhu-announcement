@@ -1,5 +1,19 @@
 [
     {
+        "title": "教職員工特殊健康檢查(從事特殊化學實驗者)",
+        "timestamp": "1728889767",
+        "url": "mail_display.php?timestamp=1728889767",
+        "date": "2024/10/14 15:09",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "吳星穎",
+            "email": "carmier@gms.ndhu.edu.tw",
+            "phone": "8906252"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "第二次公告~10/17和10/18勞僱型教職員工一般健康檢查",
         "timestamp": "1728888643",
         "url": "mail_display.php?timestamp=1728888643",
@@ -194,19 +208,5 @@
             "phone": "6122-6126"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "諮商中心幸福學苑-鏡頭下的N號房-不可不知的數位性別暴力",
-        "timestamp": "1728870710",
-        "url": "mail_display.php?timestamp=1728870710",
-        "date": "2024/10/14 09:51",
-        "department": "心理諮商輔導中心",
-        "author": {
-            "department": "心理諮商輔導中心",
-            "name": "陳奕錚",
-            "email": "yjchen92@gms.ndhu.edu.tw",
-            "phone": "(03)890-6894"
-        },
-        "attachmentCount": 2
     }
 ]

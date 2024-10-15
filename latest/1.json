@@ -1,5 +1,19 @@
 [
     {
+        "title": "10/16【華文文學講座】勞淑珍 Sidse Laugesen老師",
+        "timestamp": "1728964174",
+        "url": "mail_display.php?timestamp=1728964174",
+        "date": "2024/10/15 11:49",
+        "department": "華文文學系",
+        "author": {
+            "department": "華文文學系",
+            "name": "伍佳雯",
+            "email": "sl@gms.ndhu.edu.tw",
+            "phone": "＃5262"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "📢⪦ 2024東華秋藝季：瑞典AORA人聲樂團巡迴音樂會花蓮場《2024台灣國際重唱藝術節》",
         "timestamp": "1728961996",
         "url": "mail_display.php?timestamp=1728961996",
@@ -194,19 +208,5 @@
             "phone": "03-8905277"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "教職員工特殊健康檢查(從事特殊化學實驗者)",
-        "timestamp": "1728889767",
-        "url": "mail_display.php?timestamp=1728889767",
-        "date": "2024/10/14 15:09",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "吳星穎",
-            "email": "carmier@gms.ndhu.edu.tw",
-            "phone": "8906252"
-        },
-        "attachmentCount": 3
     }
 ]
