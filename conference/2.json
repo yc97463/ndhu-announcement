@@ -1,5 +1,19 @@
 [
     {
+        "title": "歷史系專題演講：小人物眼中的三十年戰爭：簡介傭兵Peter Hagendorf的日記",
+        "timestamp": "1728351022",
+        "url": "mail_display.php?timestamp=1728351022",
+        "date": "2024/10/08 09:30",
+        "department": "歷史學系",
+        "author": {
+            "department": "歷史學系",
+            "name": "吳助理",
+            "email": "suju1106@gms.ndhu.edu.tw",
+            "phone": "5323"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【發社系-113-1民族講座】先自己自己，再一起一起",
         "timestamp": "1728260346",
         "url": "mail_display.php?timestamp=1728260346",
@@ -194,19 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "「生成式AI與當代史學發展新趨勢：大眾史學的關鍵省思與展望」工作坊報名錄取名單",
-        "timestamp": "1725935609",
-        "url": "mail_display.php?timestamp=1725935609",
-        "date": "2024/09/10 10:33",
-        "department": "歷史學系",
-        "author": {
-            "department": "歷史學系",
-            "name": "吳助理",
-            "email": "suju1106@gms.ndhu.edu.tw",
-            "phone": "5323"
-        },
-        "attachmentCount": 3
     }
 ]

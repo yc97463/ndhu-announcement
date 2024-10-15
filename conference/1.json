@@ -1,5 +1,19 @@
 [
     {
+        "title": "10/16【華文文學講座】勞淑珍 Sidse Laugesen老師",
+        "timestamp": "1728964174",
+        "url": "mail_display.php?timestamp=1728964174",
+        "date": "2024/10/15 11:49",
+        "department": "華文文學系",
+        "author": {
+            "department": "華文文學系",
+            "name": "伍佳雯",
+            "email": "sl@gms.ndhu.edu.tw",
+            "phone": "＃5262"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "美國教授學者Robert D.Eldridge,Ph.D.s演講：日本防災經驗談講座-延長報名公告",
         "timestamp": "1728960707",
         "url": "mail_display.php?timestamp=1728960707",
@@ -194,19 +208,5 @@
             "phone": "03-8903687"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "歷史系專題演講：小人物眼中的三十年戰爭：簡介傭兵Peter Hagendorf的日記",
-        "timestamp": "1728351022",
-        "url": "mail_display.php?timestamp=1728351022",
-        "date": "2024/10/08 09:30",
-        "department": "歷史學系",
-        "author": {
-            "department": "歷史學系",
-            "name": "吳助理",
-            "email": "suju1106@gms.ndhu.edu.tw",
-            "phone": "5323"
-        },
-        "attachmentCount": 1
     }
 ]
