@@ -1,5 +1,19 @@
 [
     {
+        "title": "為進行理工二館A403教室冷氣安裝公告",
+        "timestamp": "1728971154",
+        "url": "mail_display.php?timestamp=1728971154",
+        "date": "2024/10/15 13:45",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "10/16【華文文學講座】勞淑珍 Sidse Laugesen老師",
         "timestamp": "1728964174",
         "url": "mail_display.php?timestamp=1728964174",
@@ -194,19 +208,5 @@
             "phone": "8906422"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【2024臺灣文學獎金典獎入圍書展】文學館舍金典書展－楊牧書房",
-        "timestamp": "1728889824",
-        "url": "mail_display.php?timestamp=1728889824",
-        "date": "2024/10/14 15:10",
-        "department": "楊牧文學研究中心",
-        "author": {
-            "department": "楊牧文學研究中心",
-            "name": "林祐瑄",
-            "email": "yslin1120@gms.ndhu.edu.tw",
-            "phone": "03-8905277"
-        },
-        "attachmentCount": 4
     }
 ]
