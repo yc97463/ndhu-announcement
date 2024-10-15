@@ -1,5 +1,19 @@
 [
     {
+        "title": "【電腦教室公告】113年10 月10日國慶日，電腦教室不開放。The computer lab one will be closed on October 10, 2024.",
+        "timestamp": "1728454584",
+        "url": "mail_display.php?timestamp=1728454584",
+        "date": "2024/10/09 14:16",
+        "department": "圖書資訊處綜合業務組",
+        "author": {
+            "department": "圖書資訊處綜合業務組",
+            "name": "林循美",
+            "email": "cindy@gms.ndhu.edu.tw",
+            "phone": "8906774"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "轉知婦援會「捍衛數位身體隱私權，不容越線!」宣導資源",
         "timestamp": "1728444940",
         "url": "mail_display.php?timestamp=1728444940",
@@ -194,19 +208,5 @@
             "phone": "6393"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "美國教授學者Robert D.Eldridge,Ph.D.s演講：日本防災經驗談講座",
-        "timestamp": "1728023638",
-        "url": "mail_display.php?timestamp=1728023638",
-        "date": "2024/10/04 14:33",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "姜紫淇",
-            "email": "yaya@gms.ndhu.edu.tw",
-            "phone": "03-8906235"
-        },
-        "attachmentCount": 2
     }
 ]

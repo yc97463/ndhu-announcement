@@ -1,5 +1,19 @@
 [
     {
+        "title": "【人事室】依花蓮縣政府公告，今(30)晚間六時起停止上班上課",
+        "timestamp": "1727681426",
+        "url": "mail_display.php?timestamp=1727681426",
+        "date": "2024/09/30 15:30",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "劉依虹",
+            "email": "joyce_liu@gms.ndhu.edu.tw",
+            "phone": "6060"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "9/30 18:00 起，體育場館暫停開放",
         "timestamp": "1727681218",
         "url": "mail_display.php?timestamp=1727681218",
@@ -194,19 +208,5 @@
             "phone": "038906617"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【第1次公告】113會計年度結束經費報支注意事項",
-        "timestamp": "1727315916",
-        "url": "mail_display.php?timestamp=1727315916",
-        "date": "2024/09/26 09:58",
-        "department": "主計室",
-        "author": {
-            "department": "主計室",
-            "name": "曾俊達",
-            "email": "kleiber0576@gms.ndhu.edu.tw",
-            "phone": "(03)8906079"
-        },
-        "attachmentCount": 1
     }
 ]

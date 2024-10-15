@@ -1,5 +1,47 @@
 [
     {
+        "title": "【海外研究計畫】教育部試辦赴國外實驗機構研究計畫，選送學生赴國外實驗機構進行研究實習",
+        "timestamp": "1728955348",
+        "url": "mail_display.php?timestamp=1728955348",
+        "date": "2024/10/15 09:22",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【活動】113-1 Lunchtime Chats! 午餐英語會話時間！！2024 Fall 󠀠",
+        "timestamp": "1728955094",
+        "url": "mail_display.php?timestamp=1728955094",
+        "date": "2024/10/15 09:18",
+        "department": "語言中心",
+        "author": {
+            "department": "語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【週四法語角】113-1 French Lunch Hour 法文午餐會話時間 10/24 第3場 Session 3\t",
+        "timestamp": "1728950101",
+        "url": "mail_display.php?timestamp=1728950101",
+        "date": "2024/10/15 07:55",
+        "department": "洄瀾學院 語言中心",
+        "author": {
+            "department": "洄瀾學院 語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【跨域自主服務學習機會】有機生活營：食農教育園遊會",
         "timestamp": "1728949276",
         "url": "mail_display.php?timestamp=1728949276",
@@ -166,47 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "【職涯講座】113年度校園深耕「勞動保障說明會」- 職場新鮮人勞保權益報你知 開放報名中~",
-        "timestamp": "1728883339",
-        "url": "mail_display.php?timestamp=1728883339",
-        "date": "2024/10/14 13:22",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "張雯婷",
-            "email": "kz02820@gms.ndhu.edu.tw",
-            "phone": "038906284"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【113年「雙語浪潮」教師社群講座活動】「看不見的教學成果：教學實踐研究計畫可以為我的教學做什麼?」",
-        "timestamp": "1728879253",
-        "url": "mail_display.php?timestamp=1728879253",
-        "date": "2024/10/14 12:14",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "2024故宮校園大使《畫夢清宮》東華展10/22即將開展✨",
-        "timestamp": "1728878280",
-        "url": "mail_display.php?timestamp=1728878280",
-        "date": "2024/10/14 11:58",
-        "department": "藝術中心",
-        "author": {
-            "department": "藝術中心",
-            "name": "周葦綸",
-            "email": "arts@gms.ndhu.edu.tw",
-            "phone": "6606"
-        },
-        "attachmentCount": 3
     }
 ]
