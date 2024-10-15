@@ -1,5 +1,19 @@
 [
     {
+        "title": "10/22【笠詩社六十周年系列講座】東華大學場",
+        "timestamp": "1728977657",
+        "url": "mail_display.php?timestamp=1728977657",
+        "date": "2024/10/15 15:34",
+        "department": "楊牧文學研究中心",
+        "author": {
+            "department": "楊牧文學研究中心",
+            "name": "林祐瑄",
+            "email": "yslin1120@gms.ndhu.edu.tw",
+            "phone": "03-8905277"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "10/16【華文文學講座】勞淑珍 Sidse Laugesen老師",
         "timestamp": "1728964174",
         "url": "mail_display.php?timestamp=1728964174",
@@ -194,19 +208,5 @@
             "phone": "3823"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "創業品牌進化論【品牌塑造與業績成長秘訣】系列活動",
-        "timestamp": "1728457456",
-        "url": "mail_display.php?timestamp=1728457456",
-        "date": "2024/10/09 15:04",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "吳其璁",
-            "email": "dci93031@gms.ndhu.edu.tw",
-            "phone": "03-8903687"
-        },
-        "attachmentCount": 2
     }
 ]

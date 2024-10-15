@@ -1,5 +1,19 @@
 [
     {
+        "title": "創業品牌進化論【品牌塑造與業績成長秘訣】系列活動",
+        "timestamp": "1728457456",
+        "url": "mail_display.php?timestamp=1728457456",
+        "date": "2024/10/09 15:04",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "吳其璁",
+            "email": "dci93031@gms.ndhu.edu.tw",
+            "phone": "03-8903687"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "歷史系專題演講：小人物眼中的三十年戰爭：簡介傭兵Peter Hagendorf的日記",
         "timestamp": "1728351022",
         "url": "mail_display.php?timestamp=1728351022",
@@ -194,19 +208,5 @@
             "phone": "3804"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【113年「雙語浪潮」教師社群講座活動】評量的概念與評量尺規的設計與應用",
-        "timestamp": "1726810537",
-        "url": "mail_display.php?timestamp=1726810537",
-        "date": "2024/09/20 13:35",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 2
     }
 ]

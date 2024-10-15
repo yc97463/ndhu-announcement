@@ -1,5 +1,19 @@
 [
     {
+        "title": "10/22【笠詩社六十周年系列講座】東華大學場",
+        "timestamp": "1728977657",
+        "url": "mail_display.php?timestamp=1728977657",
+        "date": "2024/10/15 15:34",
+        "department": "楊牧文學研究中心",
+        "author": {
+            "department": "楊牧文學研究中心",
+            "name": "林祐瑄",
+            "email": "yslin1120@gms.ndhu.edu.tw",
+            "phone": "03-8905277"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "資訊資產盤點暨風險評鑑教育訓練",
         "timestamp": "1728971565",
         "url": "mail_display.php?timestamp=1728971565",
@@ -194,19 +208,5 @@
             "phone": "8906252"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【活動轉知】國立勤益科技大學辦理「AI與虛擬實境於教學應用：教師能力與跨域交流研討會」",
-        "timestamp": "1728890989",
-        "url": "mail_display.php?timestamp=1728890989",
-        "date": "2024/10/14 15:29",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 3
     }
 ]
