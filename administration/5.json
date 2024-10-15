@@ -1,5 +1,19 @@
 [
     {
+        "title": "室內游泳池儲熱桶施工公告",
+        "timestamp": "1727334069",
+        "url": "mail_display.php?timestamp=1727334069",
+        "date": "2024/09/26 15:01",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "林國偉",
+            "email": "dear0130@gms.ndhu.edu.tw",
+            "phone": "038906617"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【第1次公告】113會計年度結束經費報支注意事項",
         "timestamp": "1727315916",
         "url": "mail_display.php?timestamp=1727315916",
@@ -194,19 +208,5 @@
             "phone": "03890-6217"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "湖畔餐廳二樓餐廳新開幕公告",
-        "timestamp": "1726818352",
-        "url": "mail_display.php?timestamp=1726818352",
-        "date": "2024/09/20 15:45",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "賴榮璉",
-            "email": "chrishnalai@gms.ndhu.edu.tw",
-            "phone": "6237"
-        },
-        "attachmentCount": 2
     }
 ]
