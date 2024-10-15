@@ -1,5 +1,19 @@
 [
     {
+        "title": "歷史系專題演講：串聯「地下-地面」的垂直系統：台灣的地下採煤、自有能源與地面變遷",
+        "timestamp": "1728981756",
+        "url": "mail_display.php?timestamp=1728981756",
+        "date": "2024/10/15 16:42",
+        "department": "歷史學系",
+        "author": {
+            "department": "歷史學系",
+            "name": "吳助理",
+            "email": "suju1106@gms.ndhu.edu.tw",
+            "phone": "5323"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "人社一館第一講堂頂樓防水施工公告 (10/16~11/16)",
         "timestamp": "1728980473",
         "url": "mail_display.php?timestamp=1728980473",
@@ -194,19 +208,5 @@
             "phone": "03-8906219"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【徵才】財政部臺北國稅局113年度儲備約僱人員甄選(113年10月24日截止)",
-        "timestamp": "1728897409",
-        "url": "mail_display.php?timestamp=1728897409",
-        "date": "2024/10/14 17:16",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
     }
 ]

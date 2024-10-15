@@ -1,5 +1,19 @@
 [
     {
+        "title": "歷史系專題演講：串聯「地下-地面」的垂直系統：台灣的地下採煤、自有能源與地面變遷",
+        "timestamp": "1728981756",
+        "url": "mail_display.php?timestamp=1728981756",
+        "date": "2024/10/15 16:42",
+        "department": "歷史學系",
+        "author": {
+            "department": "歷史學系",
+            "name": "吳助理",
+            "email": "suju1106@gms.ndhu.edu.tw",
+            "phone": "5323"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "10/22【笠詩社六十周年系列講座】東華大學場",
         "timestamp": "1728977657",
         "url": "mail_display.php?timestamp=1728977657",
@@ -194,19 +208,5 @@
             "phone": "03-8906235"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "2024/11/7～2024 臺、泰、越國際性別論壇 2024 International Gender Forum for Taiwan, Thailand and Vietnam",
-        "timestamp": "1728461413",
-        "url": "mail_display.php?timestamp=1728461413",
-        "date": "2024/10/09 16:10",
-        "department": "教育與潛能開發學系",
-        "author": {
-            "department": "教育與潛能開發學系",
-            "name": "溫小姐",
-            "email": "yuyu@gms.ndhu.edu.tw",
-            "phone": "3823"
-        },
-        "attachmentCount": 5
     }
 ]
