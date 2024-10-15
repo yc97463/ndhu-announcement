@@ -1,5 +1,19 @@
 [
     {
+        "title": "【代轉學生會公告】南西肯恩講唱會",
+        "timestamp": "1728867652",
+        "url": "mail_display.php?timestamp=1728867652",
+        "date": "2024/10/14 09:00",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "姜紫淇",
+            "email": "yaya@gms.ndhu.edu.tw",
+            "phone": "03-8906235"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "提醒：勿開啟來路不明之信件，教育部至12月前進行電子郵件社交工程演練",
         "timestamp": "1728867409",
         "url": "mail_display.php?timestamp=1728867409",
@@ -194,19 +208,5 @@
             "phone": "8906852"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "教學卓越中心敬邀您參加【教師講座】打造精準計畫書：高效AI工具應用，名額有限，敬請把握",
-        "timestamp": "1728643764",
-        "url": "mail_display.php?timestamp=1728643764",
-        "date": "2024/10/11 18:49",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "李小姐",
-            "email": "daidai@gms.ndhu.edu.tw",
-            "phone": "6584"
-        },
-        "attachmentCount": 1
     }
 ]

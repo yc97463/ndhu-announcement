@@ -1,5 +1,19 @@
 [
     {
+        "title": "113年度校區內客貨電梯進行月保養排程通告10月保養",
+        "timestamp": "1728990151",
+        "url": "mail_display.php?timestamp=1728990151",
+        "date": "2024/10/15 19:02",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【敬邀填寫】國立東華大學 2024 年利害關係人問卷",
         "timestamp": "1728984174",
         "url": "mail_display.php?timestamp=1728984174",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【新創基地進駐申請】2025年花蓮新創基地進駐團隊招募正式開跑",
-        "timestamp": "1728458009",
-        "url": "mail_display.php?timestamp=1728458009",
-        "date": "2024/10/09 15:13",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "翁欣儀",
-            "email": "cari20240307@gms.ndhu.edu.tw",
-            "phone": "038903678"
-        },
-        "attachmentCount": 5
     }
 ]
