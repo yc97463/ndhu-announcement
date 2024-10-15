@@ -1,5 +1,33 @@
 [
     {
+        "title": "113.10.18(五)連貫傑老師演講：資訊工具應用與未來職場趨勢——大學生如何提前做好職涯準備",
+        "timestamp": "1728986153",
+        "url": "mail_display.php?timestamp=1728986153",
+        "date": "2024/10/15 17:55",
+        "department": "經濟學系",
+        "author": {
+            "department": "經濟學系",
+            "name": "張筱茵",
+            "email": "ying@gms.ndhu.edu.tw",
+            "phone": "(03)890-5533"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【經濟系系友演講】113.10.21(一)王嘉慶先生(前Google Taiwan副總經理)：職涯求知說明貨",
+        "timestamp": "1728985730",
+        "url": "mail_display.php?timestamp=1728985730",
+        "date": "2024/10/15 17:48",
+        "department": "經濟學系",
+        "author": {
+            "department": "經濟學系",
+            "name": "張筱茵",
+            "email": "ying@gms.ndhu.edu.tw",
+            "phone": "(03)890-5533"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【敬邀填寫】國立東華大學 2024 年利害關係人問卷",
         "timestamp": "1728984174",
         "url": "mail_display.php?timestamp=1728984174",
@@ -180,33 +208,5 @@
             "phone": "5107"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【海外研究計畫】教育部試辦赴國外實驗機構研究計畫，選送學生赴國外實驗機構進行研究實習",
-        "timestamp": "1728955348",
-        "url": "mail_display.php?timestamp=1728955348",
-        "date": "2024/10/15 09:22",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【活動】113-1 Lunchtime Chats! 午餐英語會話時間！！2024 Fall 󠀠",
-        "timestamp": "1728955094",
-        "url": "mail_display.php?timestamp=1728955094",
-        "date": "2024/10/15 09:18",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 1
     }
 ]
