@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才公告】圖書資訊處徵聘【校務行政系統開發】碩士級技術師一名(預估缺，到職日為114年2月1日以後)",
+        "timestamp": "1728698057",
+        "url": "mail_display.php?timestamp=1728698057",
+        "date": "2024/10/12 09:54",
+        "department": "圖書資訊處",
+        "author": {
+            "department": "圖書資訊處",
+            "name": "周小萍",
+            "email": "hedy@gms.ndhu.edu.tw",
+            "phone": "8906852"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "教學卓越中心敬邀您參加【教師講座】打造精準計畫書：高效AI工具應用，名額有限，敬請把握",
         "timestamp": "1728643764",
         "url": "mail_display.php?timestamp=1728643764",
@@ -194,19 +208,5 @@
             "phone": "6061"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【Forward 協助轉知】臺灣青年永續發展協會（TYSDA）第三期影響力見習招募中！",
-        "timestamp": "1728611587",
-        "url": "mail_display.php?timestamp=1728611587",
-        "date": "2024/10/11 09:53",
-        "department": "永續發展中心",
-        "author": {
-            "department": "永續發展中心",
-            "name": "李莉莉 Li-Li Lee",
-            "email": "sd@gms.ndhu.edu.tw",
-            "phone": "03-890-5920"
-        },
-        "attachmentCount": 5
     }
 ]
