@@ -1,5 +1,19 @@
 [
     {
+        "title": "【活動轉知】國立陽明交通大學舉辦「113-1語言教學與研究中心語言教學成果分享會:課程設計與數位教學工具」",
+        "timestamp": "1728870331",
+        "url": "mail_display.php?timestamp=1728870331",
+        "date": "2024/10/14 09:45",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【教務處通知】113-1學期「期中教學意見回饋」系統自10月21日(一)起開放學生填寫",
         "timestamp": "1728870185",
         "url": "mail_display.php?timestamp=1728870185",
@@ -192,20 +206,6 @@
             "name": "葉俊良",
             "email": "ycliang@gms.ndhu.edu.tw",
             "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "113-1華語文中心教師研習講座",
-        "timestamp": "1728725296",
-        "url": "mail_display.php?timestamp=1728725296",
-        "date": "2024/10/12 17:28",
-        "department": "華語文中心",
-        "author": {
-            "department": "華語文中心",
-            "name": "林容華",
-            "email": "kattylin@gms.ndhu.edu.tw",
-            "phone": "038905348"
         },
         "attachmentCount": 1
     }
