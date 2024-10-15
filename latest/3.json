@@ -1,5 +1,19 @@
 [
     {
+        "title": "10月17日(四)上午9-11時壽豐消防隊於多容館進行消防搶救演練",
+        "timestamp": "1728872489",
+        "url": "mail_display.php?timestamp=1728872489",
+        "date": "2024/10/14 10:21",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "賴名塑",
+            "email": "a54604@gms.ndhu.edu.tw",
+            "phone": "8906378"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【課務組通知】「期中教學意見回饋」系統將自10月21日(一)起開放學生填寫 NDHU’s mid-term teaching feedback system will open on October 21.",
         "timestamp": "1728872296",
         "url": "mail_display.php?timestamp=1728872296",
@@ -194,19 +208,5 @@
             "phone": "6855"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【獎助學金申請】祐生研究基金會113年度讀書會報告獎助暨知識科門執守者甄選",
-        "timestamp": "1728746672",
-        "url": "mail_display.php?timestamp=1728746672",
-        "date": "2024/10/12 23:24",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]

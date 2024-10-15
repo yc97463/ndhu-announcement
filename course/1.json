@@ -1,5 +1,19 @@
 [
     {
+        "title": "資訊資產盤點暨風險評鑑教育訓練",
+        "timestamp": "1728971565",
+        "url": "mail_display.php?timestamp=1728971565",
+        "date": "2024/10/15 13:52",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "蕭澤宇",
+            "email": "zyhsiao@gms.ndhu.edu.tw",
+            "phone": "03-8906727"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【訓練課程公告】溫室氣體盤查及碳足跡主導查證員訓練課程－永續發展中心",
         "timestamp": "1728618874",
         "url": "mail_display.php?timestamp=1728618874",
@@ -194,19 +208,5 @@
             "phone": "0911765302"
         },
         "attachmentCount": 8
-    },
-    {
-        "title": "【Forward】2024產業淨零足跡：企業溫室氣體盤查永續管理師研習",
-        "timestamp": "1726445855",
-        "url": "mail_display.php?timestamp=1726445855",
-        "date": "2024/09/16 08:17",
-        "department": "永續發展中心",
-        "author": {
-            "department": "永續發展中心",
-            "name": "李莉莉 Li-Li Lee",
-            "email": "sd@gms.ndhu.edu.tw",
-            "phone": "03-890-5920"
-        },
-        "attachmentCount": 2
     }
 ]

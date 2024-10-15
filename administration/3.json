@@ -1,5 +1,33 @@
 [
     {
+        "title": "車輛違規紀錄請儘速以愛校服務或繳納處理費完成銷單。",
+        "timestamp": "1728265631",
+        "url": "mail_display.php?timestamp=1728265631",
+        "date": "2024/10/07 09:47",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【圖書館公告】國慶日【113.10.10 (四)】休館一日！ Library will be Closed for National Day on October 10, 2024",
+        "timestamp": "1728178178",
+        "url": "mail_display.php?timestamp=1728178178",
+        "date": "2024/10/06 09:29",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "詹依萍",
+            "email": "ipchan@gms.ndhu.edu.tw",
+            "phone": "6813"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "有關校內流浪犬請提高警覺注意安全",
         "timestamp": "1728030327",
         "url": "mail_display.php?timestamp=1728030327",
@@ -180,33 +208,5 @@
             "phone": "6060"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【安全宣導】颱風期間非必要勿外出，雨天行車請減速慢行，避免緊急煞車【Safety Reminder】Road Safety on Rainy Days",
-        "timestamp": "1727684835",
-        "url": "mail_display.php?timestamp=1727684835",
-        "date": "2024/09/30 16:27",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "王玉君",
-            "email": "hu.jean0503@gms.ndhu.edu.tw",
-            "phone": "8906220"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "(新增餐廳營業狀況)總務處提醒防颱(糧食)準備(第二次公告)",
-        "timestamp": "1727683678",
-        "url": "mail_display.php?timestamp=1727683678",
-        "date": "2024/09/30 16:07",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 2
     }
 ]

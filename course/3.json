@@ -1,5 +1,19 @@
 [
     {
+        "title": "   113-1校核心通識課程【 性別教育與文化觀光的對話 】",
+        "timestamp": "1725842832",
+        "url": "mail_display.php?timestamp=1725842832",
+        "date": "2024/09/09 08:47",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "8906607"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "113-1校核心通識課程-「法國藝術與文化AA」課程停課公告",
         "timestamp": "1725841568",
         "url": "mail_display.php?timestamp=1725841568",
@@ -194,19 +208,5 @@
             "phone": "分機6123"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "阿美族語口譯微學程",
-        "timestamp": "1725409909",
-        "url": "mail_display.php?timestamp=1725409909",
-        "date": "2024/09/04 08:31",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "巴莉亞妲‧蘇利伊",
-            "email": "damu@gms.ndhu.edu.tw",
-            "phone": "8905824"
-        },
-        "attachmentCount": 1
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "阿美族語口譯微學程",
+        "timestamp": "1725409909",
+        "url": "mail_display.php?timestamp=1725409909",
+        "date": "2024/09/04 08:31",
+        "department": "原住民民族學院",
+        "author": {
+            "department": "原住民民族學院",
+            "name": "巴莉亞妲‧蘇利伊",
+            "email": "damu@gms.ndhu.edu.tw",
+            "phone": "8905824"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "歡迎踴躍報名-半導體IC載板產業實務人才培育專班招生說明會",
         "timestamp": "1725328529",
         "url": "mail_display.php?timestamp=1725328529",
@@ -194,19 +208,5 @@
             "phone": "6057"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【課務組】113學年度第1學期學士班課程「免修」申請（自即日起至09/09(一)午夜23:59止）",
-        "timestamp": "1724113335",
-        "url": "mail_display.php?timestamp=1724113335",
-        "date": "2024/08/20 08:22",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "course@gms.ndhu.edu.tw",
-            "phone": "6122~6126"
-        },
-        "attachmentCount": 0
     }
 ]
