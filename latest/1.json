@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】屏東縣113-1清寒優秀學生獎學金 (限屏東縣籍)",
+        "timestamp": "1729092653",
+        "url": "mail_display.php?timestamp=1729092653",
+        "date": "2024/10/16 23:30",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【語言中心】113-1學期11月16日校園英語能力模擬測驗(實體) 2024 CAMPUS TOEIC PRACTICE TEST 11/16",
         "timestamp": "1729069676",
         "url": "mail_display.php?timestamp=1729069676",
@@ -192,20 +206,6 @@
             "name": "周葦綸",
             "email": "valen0810@gms.ndhu.edu.tw",
             "phone": "6606"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "歷史學系專題演講：串聯「地下-地面」的垂直系統：台灣的地下採煤、自有能源與地面變遷",
-        "timestamp": "1729036555",
-        "url": "mail_display.php?timestamp=1729036555",
-        "date": "2024/10/16 07:55",
-        "department": "人文社會科學學院 歷史學系",
-        "author": {
-            "department": "人文社會科學學院 歷史學系",
-            "name": "吳芷萱",
-            "email": "suju1106@gms.ndhu.edu.tw",
-            "phone": "5323"
         },
         "attachmentCount": 0
     }
