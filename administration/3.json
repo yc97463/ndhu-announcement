@@ -1,5 +1,19 @@
 [
     {
+        "title": "【2024教育大數據分析競賽】活動開始報名 總獎金高達100萬 等你來挑戰！！",
+        "timestamp": "1728288288",
+        "url": "mail_display.php?timestamp=1728288288",
+        "date": "2024/10/07 16:04",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【公告】年底將做資安時數調查，提醒全校職員務必接受資安教育訓練",
         "timestamp": "1728282403",
         "url": "mail_display.php?timestamp=1728282403",
@@ -194,19 +208,5 @@
             "phone": "038906399"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【人事室公告】依花蓮縣政府公告，明(10/2)日停止上班上課",
-        "timestamp": "1727783357",
-        "url": "mail_display.php?timestamp=1727783357",
-        "date": "2024/10/01 19:49",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "劉依虹",
-            "email": "joyce_liu@gms.ndhu.edu.tw",
-            "phone": "6060"
-        },
-        "attachmentCount": 2
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "【教務處通知】113-1學期「期中教學意見回饋」系統自10月21日(一)起開放學生填寫",
+        "timestamp": "1728870185",
+        "url": "mail_display.php?timestamp=1728870185",
+        "date": "2024/10/14 09:43",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "提醒：勿開啟來路不明之信件，教育部至12月前進行電子郵件社交工程演練",
         "timestamp": "1728867409",
         "url": "mail_display.php?timestamp=1728867409",
@@ -194,19 +208,5 @@
             "phone": "03-8906399"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【2024教育大數據分析競賽】活動開始報名 總獎金高達100萬 等你來挑戰！！",
-        "timestamp": "1728288288",
-        "url": "mail_display.php?timestamp=1728288288",
-        "date": "2024/10/07 16:04",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "黃小姐",
-            "email": "chinghua@gms.ndhu.edu.tw",
-            "phone": "6579"
-        },
-        "attachmentCount": 1
     }
 ]

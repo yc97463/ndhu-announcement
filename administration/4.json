@@ -1,5 +1,19 @@
 [
     {
+        "title": "【人事室公告】依花蓮縣政府公告，明(10/2)日停止上班上課",
+        "timestamp": "1727783357",
+        "url": "mail_display.php?timestamp=1727783357",
+        "date": "2024/10/01 19:49",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "劉依虹",
+            "email": "joyce_liu@gms.ndhu.edu.tw",
+            "phone": "6060"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "(更新10/2餐廳營業狀況)總務處提醒防颱(糧食)準備(第三次公告)",
         "timestamp": "1727779660",
         "url": "mail_display.php?timestamp=1727779660",
@@ -194,19 +208,5 @@
             "phone": "038906228"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "提醒志學街(中正路) 10月1日換邊停車，請同學記得移動車輛並依告示停放，勿隨意臨停，以免影響交通，遭到拖吊！",
-        "timestamp": "1727645204",
-        "url": "mail_display.php?timestamp=1727645204",
-        "date": "2024/09/30 05:26",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "吳昭毅",
-            "email": "wuyi12831@gms.ndhu.edu.tw",
-            "phone": "038906228"
-        },
-        "attachmentCount": 0
     }
 ]

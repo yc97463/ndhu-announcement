@@ -1,5 +1,19 @@
 [
     {
+        "title": "113學年度「大專校院弱勢學生助學計畫」申請公告-(▲第三次公告)",
+        "timestamp": "1729051104",
+        "url": "mail_display.php?timestamp=1729051104",
+        "date": "2024/10/16 11:58",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "林黃漢穎",
+            "email": "henry30180@gms.ndhu.edu.tw",
+            "phone": "8906218"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "宣導校園性別事件通報窗口",
         "timestamp": "1729047921",
         "url": "mail_display.php?timestamp=1729047921",
@@ -194,19 +208,5 @@
             "phone": "6122-6126"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【教務處通知】113-1學期「期中教學意見回饋」系統自10月21日(一)起開放學生填寫",
-        "timestamp": "1728870185",
-        "url": "mail_display.php?timestamp=1728870185",
-        "date": "2024/10/14 09:43",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "utd1003@gms.ndhu.edu.tw",
-            "phone": "6122-6126"
-        },
-        "attachmentCount": 4
     }
 ]
