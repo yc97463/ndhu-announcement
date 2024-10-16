@@ -1,5 +1,19 @@
 [
     {
+        "title": "113-1體育中心-身心靈推廣課程早鳥優惠即將到期",
+        "timestamp": "1726447346",
+        "url": "mail_display.php?timestamp=1726447346",
+        "date": "2024/09/16 08:42",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "楊永義",
+            "email": "yyy@gms.ndhu.edu.tw",
+            "phone": "0911765302"
+        },
+        "attachmentCount": 8
+    },
+    {
         "title": "【Forward】2024產業淨零足跡：企業溫室氣體盤查永續管理師研習",
         "timestamp": "1726445855",
         "url": "mail_display.php?timestamp=1726445855",
@@ -192,20 +206,6 @@
             "name": "陳昱佐",
             "email": "yutuchen@gms.ndhu.edu.tw",
             "phone": "038906824"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "113-1校核心通識課程-「心學與人生」及「人文經典與現代生活」課程改為線上上課公告",
-        "timestamp": "1725848578",
-        "url": "mail_display.php?timestamp=1725848578",
-        "date": "2024/09/09 10:22",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
         },
         "attachmentCount": 1
     }

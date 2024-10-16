@@ -1,5 +1,19 @@
 [
     {
+        "title": "【公告】茲訂於113年10月18日(星期五)10時至12時，假行政大樓303會議室辦理本校行政人員專書閱讀導讀會及讀書會課程，請本校各行政人員撥冗踴躍參加。",
+        "timestamp": "1729066227",
+        "url": "mail_display.php?timestamp=1729066227",
+        "date": "2024/10/16 16:10",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "陳治豪",
+            "email": "jackchen168@gms.ndhu.edu.tw",
+            "phone": "6057"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "資訊資產盤點暨風險評鑑教育訓練",
         "timestamp": "1728971565",
         "url": "mail_display.php?timestamp=1728971565",
@@ -194,19 +208,5 @@
             "phone": "8906607"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "113-1體育中心-身心靈推廣課程早鳥優惠即將到期",
-        "timestamp": "1726447346",
-        "url": "mail_display.php?timestamp=1726447346",
-        "date": "2024/09/16 08:42",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "楊永義",
-            "email": "yyy@gms.ndhu.edu.tw",
-            "phone": "0911765302"
-        },
-        "attachmentCount": 8
     }
 ]
