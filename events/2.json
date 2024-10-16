@@ -1,5 +1,19 @@
 [
     {
+        "title": "母語屋企劃書撰寫課程",
+        "timestamp": "1729036547",
+        "url": "mail_display.php?timestamp=1729036547",
+        "date": "2024/10/16 07:55",
+        "department": "學務處 原住民族學生資源中心",
+        "author": {
+            "department": "學務處 原住民族學生資源中心",
+            "name": "吳倩茹",
+            "email": "tipus0401@gms.ndhu.edu.tw",
+            "phone": "鄭恩惠 0907816067"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "教學備課AI工具融入教學應用",
         "timestamp": "1729036546",
         "url": "mail_display.php?timestamp=1729036546",
@@ -192,20 +206,6 @@
             "name": "高蘇恩",
             "email": "galaigai@gms.ndhu.edu.tw",
             "phone": "5663"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "紐西蘭留學資訊分享會--林肯大學雙聯學位推廣",
-        "timestamp": "1729036532",
-        "url": "mail_display.php?timestamp=1729036532",
-        "date": "2024/10/16 07:55",
-        "department": "國際事務處 國際學生組",
-        "author": {
-            "department": "國際事務處 國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
         },
         "attachmentCount": 0
     }

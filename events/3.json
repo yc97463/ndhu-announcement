@@ -1,5 +1,19 @@
 [
     {
+        "title": "紐西蘭留學資訊分享會--林肯大學雙聯學位推廣",
+        "timestamp": "1729036532",
+        "url": "mail_display.php?timestamp=1729036532",
+        "date": "2024/10/16 07:55",
+        "department": "國際事務處 國際學生組",
+        "author": {
+            "department": "國際事務處 國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【發社系】113學年度新生成年禮",
         "timestamp": "1729036531",
         "url": "mail_display.php?timestamp=1729036531",
@@ -192,20 +206,6 @@
             "name": "王敬堯",
             "email": "410683047@gms.ndhu.edu.tw",
             "phone": "0930786828"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "咖啡與永續生活體驗日",
-        "timestamp": "1729036517",
-        "url": "mail_display.php?timestamp=1729036517",
-        "date": "2024/10/16 07:55",
-        "department": "技術服務中心 農業驗證與服務提升中心",
-        "author": {
-            "department": "技術服務中心 農業驗證與服務提升中心",
-            "name": "林欣余",
-            "email": "singyu@gms.ndhu.edu.tw",
-            "phone": "03-8903669"
         },
         "attachmentCount": 0
     }
