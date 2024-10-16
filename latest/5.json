@@ -1,5 +1,33 @@
 [
     {
+        "title": "【發社系-113-1民族講座】先自己自己，再一起一起",
+        "timestamp": "1729036503",
+        "url": "mail_display.php?timestamp=1729036503",
+        "date": "2024/10/16 07:55",
+        "department": "原住民民族學院 民族發展與社會工作學系",
+        "author": {
+            "department": "原住民民族學院 民族發展與社會工作學系",
+            "name": "楊鵑穎",
+            "email": "ringo@gms.ndhu.edu.tw",
+            "phone": "5822"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "國立東華大學一百一十三學年度第一學期 中國語文學系系學會年度電影欣賞活動",
+        "timestamp": "1729036502",
+        "url": "mail_display.php?timestamp=1729036502",
+        "date": "2024/10/16 07:55",
+        "department": "人文社會科學學院 中國語文學系",
+        "author": {
+            "department": "人文社會科學學院 中國語文學系",
+            "name": "駱星羽",
+            "email": "syluo@gms.ndhu.edu.tw",
+            "phone": "5673"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "永續新趨勢  自然相關財務揭露TNFD的框架與應用",
         "timestamp": "1729036501",
         "url": "mail_display.php?timestamp=1729036501",
@@ -180,33 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "10/16【華文文學講座】勞淑珍 Sidse Laugesen老師",
-        "timestamp": "1728964174",
-        "url": "mail_display.php?timestamp=1728964174",
-        "date": "2024/10/15 11:49",
-        "department": "華文文學系",
-        "author": {
-            "department": "華文文學系",
-            "name": "伍佳雯",
-            "email": "sl@gms.ndhu.edu.tw",
-            "phone": "＃5262"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "📢⪦ 2024東華秋藝季：瑞典AORA人聲樂團巡迴音樂會花蓮場《2024台灣國際重唱藝術節》",
-        "timestamp": "1728961996",
-        "url": "mail_display.php?timestamp=1728961996",
-        "date": "2024/10/15 11:13",
-        "department": "藝術中心",
-        "author": {
-            "department": "藝術中心",
-            "name": "周葦綸",
-            "email": "arts@gms.ndhu.edu.tw",
-            "phone": "6606"
-        },
-        "attachmentCount": 7
     }
 ]

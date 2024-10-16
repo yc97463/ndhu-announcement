@@ -1,5 +1,19 @@
 [
     {
+        "title": "The 77th Anniversary, Halal Food Festival in Anniversary Celebration of Hua-Shih College of Education清真美食饗宴-花師教育學院77周年慶活動",
+        "timestamp": "1729058511",
+        "url": "mail_display.php?timestamp=1729058511",
+        "date": "2024/10/16 14:01",
+        "department": "花師教育學院",
+        "author": {
+            "department": "花師教育學院",
+            "name": "賴小姐",
+            "email": "tll@gms.ndhu.edu.tw",
+            "phone": "(03)890-3804"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "113學年度「大專校院弱勢學生助學計畫」申請公告-(▲第三次公告)",
         "timestamp": "1729051104",
         "url": "mail_display.php?timestamp=1729051104",
@@ -194,19 +208,5 @@
             "phone": "8906378"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【課務組通知】「期中教學意見回饋」系統將自10月21日(一)起開放學生填寫 NDHU’s mid-term teaching feedback system will open on October 21.",
-        "timestamp": "1728872296",
-        "url": "mail_display.php?timestamp=1728872296",
-        "date": "2024/10/14 10:18",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "utd1003@gms.ndhu.edu.tw",
-            "phone": "6122-6126"
-        },
-        "attachmentCount": 0
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "【課務組通知】「期中教學意見回饋」系統將自10月21日(一)起開放學生填寫 NDHU’s mid-term teaching feedback system will open on October 21.",
+        "timestamp": "1728872296",
+        "url": "mail_display.php?timestamp=1728872296",
+        "date": "2024/10/14 10:18",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【教務處通知】113-1學期「期中教學意見回饋」系統自10月21日(一)起開放學生填寫",
         "timestamp": "1728870185",
         "url": "mail_display.php?timestamp=1728870185",
@@ -194,19 +208,5 @@
             "phone": "6329"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "113年10月10日(週四)垃圾車暫停服務一天。Garbage truck removal services will be suspended for one day on October 10, 2024 (Thursday).",
-        "timestamp": "1728346933",
-        "url": "mail_display.php?timestamp=1728346933",
-        "date": "2024/10/08 08:22",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "許智翔",
-            "email": "cocco3746@gms.ndhu.edu.tw",
-            "phone": "03-8906399"
-        },
-        "attachmentCount": 0
     }
 ]
