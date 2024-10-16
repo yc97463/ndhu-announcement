@@ -1,5 +1,19 @@
 [
     {
+        "title": "提醒：勿開啟來路不明之信件，教育部至12月前進行電子郵件社交工程演練",
+        "timestamp": "1728867409",
+        "url": "mail_display.php?timestamp=1728867409",
+        "date": "2024/10/14 08:56",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "葉宏達",
+            "email": "honda@gms.ndhu.edu.tw",
+            "phone": "8906747"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【教育優先區】114年寒假教育優先區中小學營隊活動，校內申請即日起至113年10月18日(五)下午17:00收件截止!!! Application for the K-12 School Camp Activities during winter break of academic year 2024-2025",
         "timestamp": "1728866913",
         "url": "mail_display.php?timestamp=1728866913",
@@ -194,19 +208,5 @@
             "phone": "6579"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【公告】年底將做資安時數調查，提醒全校職員務必接受資安教育訓練",
-        "timestamp": "1728282403",
-        "url": "mail_display.php?timestamp=1728282403",
-        "date": "2024/10/07 14:26",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "蕭澤宇",
-            "email": "zyhsiao@gms.ndhu.edu.tw",
-            "phone": "03-8906727"
-        },
-        "attachmentCount": 0
     }
 ]
