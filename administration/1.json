@@ -1,5 +1,33 @@
 [
     {
+        "title": "【徵才公告】國立東華大學總務處出納組徵聘校務基金助理一名",
+        "timestamp": "1729147962",
+        "url": "mail_display.php?timestamp=1729147962",
+        "date": "2024/10/17 14:52",
+        "department": "總務處",
+        "author": {
+            "department": "總務處",
+            "name": "陳宇欽",
+            "email": "yuchin@gms.ndhu.edu.tw",
+            "phone": "6307"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
+        "timestamp": "1729147722",
+        "url": "mail_display.php?timestamp=1729147722",
+        "date": "2024/10/17 14:48",
+        "department": "圖書資訊處校務系統組",
+        "author": {
+            "department": "圖書資訊處校務系統組",
+            "name": "林志軒",
+            "email": "chshlin@gms.ndhu.edu.tw",
+            "phone": "6752"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【推廣教育】即日起至10月22日止受理績效酬勞核發(第二次通知)",
         "timestamp": "1729143247",
         "url": "mail_display.php?timestamp=1729143247",
@@ -180,33 +208,5 @@
             "phone": "8906252"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "第二次公告~10/17和10/18勞僱型教職員工一般健康檢查",
-        "timestamp": "1728888643",
-        "url": "mail_display.php?timestamp=1728888643",
-        "date": "2024/10/14 14:50",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "吳星穎",
-            "email": "carmier@gms.ndhu.edu.tw",
-            "phone": "8906252"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【海外研究計畫】教育部試辦赴國外實驗機構研究計畫，選送學生赴國外實驗機構進行研究實習",
-        "timestamp": "1728876802",
-        "url": "mail_display.php?timestamp=1728876802",
-        "date": "2024/10/14 11:33",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 2
     }
 ]

@@ -1,5 +1,33 @@
 [
     {
+        "title": "【課務組通知】授課教師可列印113-1學期選課確認名單",
+        "timestamp": "1728444532",
+        "url": "mail_display.php?timestamp=1728444532",
+        "date": "2024/10/09 11:28",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "近日外環道發現野生動物，請務必減速慢行",
+        "timestamp": "1728393611",
+        "url": "mail_display.php?timestamp=1728393611",
+        "date": "2024/10/08 21:20",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "陳小姐",
+            "email": "aspen@gms.ndhu.edu.tw",
+            "phone": "6392"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "擴大行政會議 會議紀錄公告通知",
         "timestamp": "1728392985",
         "url": "mail_display.php?timestamp=1728392985",
@@ -180,33 +208,5 @@
             "phone": "6329"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "Hualien County will suspend work and classes tomorrow（10/03）",
-        "timestamp": "1727865741",
-        "url": "mail_display.php?timestamp=1727865741",
-        "date": "2024/10/02 18:42",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "113年10月3日垃圾車停止清運Garbage trucks will cease service on October 3, 2024",
-        "timestamp": "1727865419",
-        "url": "mail_display.php?timestamp=1727865419",
-        "date": "2024/10/02 18:36",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "許智翔",
-            "email": "cocco3746@gms.ndhu.edu.tw",
-            "phone": "03-8906399"
-        },
-        "attachmentCount": 0
     }
 ]

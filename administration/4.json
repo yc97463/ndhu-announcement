@@ -1,5 +1,33 @@
 [
     {
+        "title": "Hualien County will suspend work and classes tomorrow（10/03）",
+        "timestamp": "1727865741",
+        "url": "mail_display.php?timestamp=1727865741",
+        "date": "2024/10/02 18:42",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "113年10月3日垃圾車停止清運Garbage trucks will cease service on October 3, 2024",
+        "timestamp": "1727865419",
+        "url": "mail_display.php?timestamp=1727865419",
+        "date": "2024/10/02 18:36",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "許智翔",
+            "email": "cocco3746@gms.ndhu.edu.tw",
+            "phone": "03-8906399"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【人事室公告】依行政院人事行政總處公告，明(10/3)日停止上班上課",
         "timestamp": "1727864644",
         "url": "mail_display.php?timestamp=1727864644",
@@ -178,34 +206,6 @@
             "name": "楊永義",
             "email": "yyy@gms.ndhu.edu.tw",
             "phone": "0911765302"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【教育優先區】114年寒假教育優先區中小學營隊活動，校內申請即日起至113年10月18日(五)下午17:00收件截止!!! Application for the K-12 School Camp Activities during winter break of academic year 2024-2025",
-        "timestamp": "1727673391",
-        "url": "mail_display.php?timestamp=1727673391",
-        "date": "2024/09/30 13:16",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "余惠真",
-            "email": "nacy4631@gms.ndhu.edu.tw",
-            "phone": "6232"
-        },
-        "attachmentCount": 5
-    },
-    {
-        "title": "秘書室異地辦公公告",
-        "timestamp": "1727658387",
-        "url": "mail_display.php?timestamp=1727658387",
-        "date": "2024/09/30 09:06",
-        "department": "秘書室議事公文組",
-        "author": {
-            "department": "秘書室議事公文組",
-            "name": "陳婉婉",
-            "email": "secretariat@gms.ndhu.edu.tw",
-            "phone": "6004"
         },
         "attachmentCount": 0
     }
