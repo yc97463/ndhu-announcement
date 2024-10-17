@@ -1,5 +1,19 @@
 [
     {
+        "title": "本校堪用舊品借用通知",
+        "timestamp": "1727657500",
+        "url": "mail_display.php?timestamp=1727657500",
+        "date": "2024/09/30 08:51",
+        "department": "總務處保管組",
+        "author": {
+            "department": "總務處保管組",
+            "name": "林慧濘",
+            "email": "maya70@gms.ndhu.edu.tw",
+            "phone": "8906344"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113年10月份全校綠地除草維護時間及施作區域公告",
         "timestamp": "1727656038",
         "url": "mail_display.php?timestamp=1727656038",
@@ -194,19 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【行政公告】國立東華大學學生免費法律諮詢服務更換諮詢地點",
-        "timestamp": "1727147712",
-        "url": "mail_display.php?timestamp=1727147712",
-        "date": "2024/09/24 11:15",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "郭詩妘",
-            "email": "kikiguo@gms.ndhu.edu.tw",
-            "phone": "03-8906227"
-        },
-        "attachmentCount": 1
     }
 ]

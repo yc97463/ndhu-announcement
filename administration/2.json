@@ -1,5 +1,19 @@
 [
     {
+        "title": "修復理工一館A側屋頂漏水公告",
+        "timestamp": "1728872763",
+        "url": "mail_display.php?timestamp=1728872763",
+        "date": "2024/10/14 10:26",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "賴名塑",
+            "email": "a54604@gms.ndhu.edu.tw",
+            "phone": "8906378"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "10月17日(四)上午9-11時壽豐消防隊於多容館進行消防搶救演練",
         "timestamp": "1728872489",
         "url": "mail_display.php?timestamp=1728872489",
@@ -194,19 +208,5 @@
             "phone": "6392"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "擴大行政會議 會議紀錄公告通知",
-        "timestamp": "1728392985",
-        "url": "mail_display.php?timestamp=1728392985",
-        "date": "2024/10/08 21:09",
-        "department": "秘書室議事公文組",
-        "author": {
-            "department": "秘書室議事公文組",
-            "name": "陳婉婉",
-            "email": "secretariat@gms.ndhu.edu.tw",
-            "phone": "6004"
-        },
-        "attachmentCount": 1
     }
 ]

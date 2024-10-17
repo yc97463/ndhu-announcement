@@ -1,5 +1,19 @@
 [
     {
+        "title": "擴大行政會議 會議紀錄公告通知",
+        "timestamp": "1728392985",
+        "url": "mail_display.php?timestamp=1728392985",
+        "date": "2024/10/08 21:09",
+        "department": "秘書室議事公文組",
+        "author": {
+            "department": "秘書室議事公文組",
+            "name": "陳婉婉",
+            "email": "secretariat@gms.ndhu.edu.tw",
+            "phone": "6004"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "大學門及志學門車牌辨識系統測試公告。",
         "timestamp": "1728352842",
         "url": "mail_display.php?timestamp=1728352842",
@@ -194,19 +208,5 @@
             "phone": "03-8906399"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【人事室公告】依行政院人事行政總處公告，明(10/3)日停止上班上課",
-        "timestamp": "1727864644",
-        "url": "mail_display.php?timestamp=1727864644",
-        "date": "2024/10/02 18:24",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "劉依虹",
-            "email": "joyce_liu@gms.ndhu.edu.tw",
-            "phone": "6060"
-        },
-        "attachmentCount": 1
     }
 ]
