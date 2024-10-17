@@ -1,5 +1,19 @@
 [
     {
+        "title": "【國立東華大學藝術創意產業學系系主任】徵聘公告",
+        "timestamp": "1729124998",
+        "url": "mail_display.php?timestamp=1729124998",
+        "date": "2024/10/17 08:29",
+        "department": "藝術學院",
+        "author": {
+            "department": "藝術學院",
+            "name": "戴麗雯",
+            "email": "lwtai@gms.ndhu.edu.tw",
+            "phone": "03-8905102"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才公告】圖書資訊處徵聘【校務行政系統開發】碩士級技術師一名(預估缺，到職日為114年2月1日以後)",
         "timestamp": "1728698057",
         "url": "mail_display.php?timestamp=1728698057",
@@ -194,19 +208,5 @@
             "phone": "8906059"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【徵才訊息】本校總務處(事務組) 招聘校務基金助理大樓管理員",
-        "timestamp": "1726123231",
-        "url": "mail_display.php?timestamp=1726123231",
-        "date": "2024/09/12 14:40",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 2
     }
 ]

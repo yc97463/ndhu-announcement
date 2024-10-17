@@ -1,5 +1,19 @@
 [
     {
+        "title": "【重要通知】暫時開放K書中心A館討論區及個人物品領取 Temporary Opening of K-Book Center A Discussion Area and Collection of Personal Items",
+        "timestamp": "1727069198",
+        "url": "mail_display.php?timestamp=1727069198",
+        "date": "2024/09/23 13:26",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳小姐",
+            "email": "sian@gms.ndhu.edu.tw",
+            "phone": "5846"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【第二次公告】📢📢🔆113-1學期【起飛免費學習輔導課程，精彩好康不容錯過，快來把握機會！】🔆",
         "timestamp": "1727054664",
         "url": "mail_display.php?timestamp=1727054664",
@@ -194,19 +208,5 @@
             "phone": "6237"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【徵才公告】國立東華大學數位學伴中心 - 113-1 學期大學伴招募",
-        "timestamp": "1726460267",
-        "url": "mail_display.php?timestamp=1726460267",
-        "date": "2024/09/16 12:17",
-        "department": "花師教育學院",
-        "author": {
-            "department": "花師教育學院",
-            "name": "李宛玲",
-            "email": "etutor_c226@gms.ndhu.edu.tw",
-            "phone": "890-3816"
-        },
-        "attachmentCount": 6
     }
 ]
