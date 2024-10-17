@@ -1,5 +1,19 @@
 [
     {
+        "title": "【ROTC招生訊息】國防部1 1 4年大學儲備軍官訓練團甄選(招生)簡章 宣導",
+        "timestamp": "1729208805",
+        "url": "mail_display.php?timestamp=1729208805",
+        "date": "2024/10/18 07:46",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "6225"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【計畫申請】⭐️勞動部114年度「補助大專校院辦理就業學程計畫」開始受理申請⭐️(本校申請期限：即日起至114年1月6日止)",
         "timestamp": "1729157305",
         "url": "mail_display.php?timestamp=1729157305",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "修復理工一館A側屋頂漏水公告",
-        "timestamp": "1728872763",
-        "url": "mail_display.php?timestamp=1728872763",
-        "date": "2024/10/14 10:26",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "賴名塑",
-            "email": "a54604@gms.ndhu.edu.tw",
-            "phone": "8906378"
-        },
-        "attachmentCount": 0
     }
 ]
