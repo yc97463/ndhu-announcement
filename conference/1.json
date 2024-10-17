@@ -1,5 +1,33 @@
 [
     {
+        "title": "10/22【笠詩社六十周年系列講座】東華大學場",
+        "timestamp": "1729132385",
+        "url": "mail_display.php?timestamp=1729132385",
+        "date": "2024/10/17 10:33",
+        "department": "楊牧文學研究中心",
+        "author": {
+            "department": "楊牧文學研究中心",
+            "name": "林祐瑄",
+            "email": "yslin1120@gms.ndhu.edu.tw",
+            "phone": "03-8905277"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【延期公告】原訂10/25 陳柏青教授演講《從精緻農業、農業公費班到有機世界大會》",
+        "timestamp": "1729131828",
+        "url": "mail_display.php?timestamp=1729131828",
+        "date": "2024/10/17 10:23",
+        "department": "永續發展中心",
+        "author": {
+            "department": "永續發展中心",
+            "name": "李敏賢",
+            "email": "jordanlee@gms.ndhu.edu.tw",
+            "phone": "03-8905919"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113.10.18(五)連貫傑老師演講：資訊工具應用與未來職場趨勢——大學生如何提前做好職涯準備",
         "timestamp": "1728986153",
         "url": "mail_display.php?timestamp=1728986153",
@@ -180,33 +208,5 @@
             "phone": "03-8903687"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "113年度地方特色產業發展趨勢論壇【讓商品走出花蓮，國際通路拓展實務】",
-        "timestamp": "1728617708",
-        "url": "mail_display.php?timestamp=1728617708",
-        "date": "2024/10/11 11:35",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "吳其璁",
-            "email": "dci93031@gms.ndhu.edu.tw",
-            "phone": "03-8903687"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【講座公告】從精緻農業、農業公費班到有機世界大會 10/25 陳柏青教授主講",
-        "timestamp": "1728613012",
-        "url": "mail_display.php?timestamp=1728613012",
-        "date": "2024/10/11 10:16",
-        "department": "永續發展中心",
-        "author": {
-            "department": "永續發展中心",
-            "name": "李敏賢",
-            "email": "sd@gms.ndhu.edu.tw",
-            "phone": "03-8905919"
-        },
-        "attachmentCount": 1
     }
 ]

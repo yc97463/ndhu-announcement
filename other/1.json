@@ -1,5 +1,19 @@
 [
     {
+        "title": "【訊息轉知】國立勤益科技大學「AI與虛擬實境於教學應用：教師能力與跨域交流研討會」主講人異動",
+        "timestamp": "1729130202",
+        "url": "mail_display.php?timestamp=1729130202",
+        "date": "2024/10/17 09:56",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【清真美食饗宴】花師教育學院77周年院慶活動The 77th Anniversary, Halal Food Festival in Anniversary Celebration of Hua-Shih College of Education",
         "timestamp": "1729123596",
         "url": "mail_display.php?timestamp=1729123596",
@@ -194,19 +208,5 @@
             "phone": "5846"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【新創基地進駐申請】2025年花蓮新創基地進駐團隊招募正式開跑",
-        "timestamp": "1728617904",
-        "url": "mail_display.php?timestamp=1728617904",
-        "date": "2024/10/11 11:38",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "吳其璁",
-            "email": "dci93031@gms.ndhu.edu.tw",
-            "phone": "03-8903687"
-        },
-        "attachmentCount": 4
     }
 ]
