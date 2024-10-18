@@ -1,5 +1,19 @@
 [
     {
+        "title": "公告113-1校核心資訊科技領域-「中級程式設計-虛擬實境AA」課程尚有名額，敬請踴躍加選課程",
+        "timestamp": "1726627212",
+        "url": "mail_display.php?timestamp=1726627212",
+        "date": "2024/09/18 10:40",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "8906607"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113-1體育中心-身心靈推廣課程早鳥優惠即將到期",
         "timestamp": "1726447346",
         "url": "mail_display.php?timestamp=1726447346",
@@ -194,19 +208,5 @@
             "phone": "038906824"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "請授課教師提供113學年度第1學期「教師指定參考書清單」，謝謝。",
-        "timestamp": "1725859832",
-        "url": "mail_display.php?timestamp=1725859832",
-        "date": "2024/09/09 13:30",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "陳昱佐",
-            "email": "yutuchen@gms.ndhu.edu.tw",
-            "phone": "038906824"
-        },
-        "attachmentCount": 1
     }
 ]

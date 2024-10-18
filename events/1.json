@@ -1,5 +1,47 @@
 [
     {
+        "title": "【敬邀參加】本校30周年校慶慶祝大會(11/11) 第2次公告",
+        "timestamp": "1729218987",
+        "url": "mail_display.php?timestamp=1729218987",
+        "date": "2024/10/18 10:36",
+        "department": "秘書室公關宣傳組",
+        "author": {
+            "department": "秘書室公關宣傳組",
+            "name": "林佩瑤",
+            "email": "peiyao@gms.ndhu.edu.tw",
+            "phone": "6013"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【大師講座活動轉知】創意煉成術：破千萬流量的內容實戰心法",
+        "timestamp": "1729218452",
+        "url": "mail_display.php?timestamp=1729218452",
+        "date": "2024/10/18 10:27",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "翁欣儀",
+            "email": "cari20240307@gms.ndhu.edu.tw",
+            "phone": "038221316"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "職業認識講座-特教輔導員的職涯抉擇歷程",
+        "timestamp": "1729216322",
+        "url": "mail_display.php?timestamp=1729216322",
+        "date": "2024/10/18 09:52",
+        "department": "心理諮商輔導中心",
+        "author": {
+            "department": "心理諮商輔導中心",
+            "name": "林賢謀",
+            "email": "lcm1460@gms.ndhu.edu.tw",
+            "phone": "6269"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "原來？這也叫新創？",
         "timestamp": "1729209309",
         "url": "mail_display.php?timestamp=1729209309",
@@ -166,47 +208,5 @@
             "phone": "6606"
         },
         "attachmentCount": 7
-    },
-    {
-        "title": "經濟部中小及新創企業署 AI服務團：推廣志工工作坊",
-        "timestamp": "1729147420",
-        "url": "mail_display.php?timestamp=1729147420",
-        "date": "2024/10/17 14:43",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "韓榮樂",
-            "email": "joyhan@gms.ndhu.edu.tw",
-            "phone": "3789"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "10/22【笠詩社六十周年系列講座】東華大學場",
-        "timestamp": "1729132385",
-        "url": "mail_display.php?timestamp=1729132385",
-        "date": "2024/10/17 10:33",
-        "department": "楊牧文學研究中心",
-        "author": {
-            "department": "楊牧文學研究中心",
-            "name": "林祐瑄",
-            "email": "yslin1120@gms.ndhu.edu.tw",
-            "phone": "03-8905277"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【延期公告】原訂10/25 陳柏青教授演講《從精緻農業、農業公費班到有機世界大會》",
-        "timestamp": "1729131828",
-        "url": "mail_display.php?timestamp=1729131828",
-        "date": "2024/10/17 10:23",
-        "department": "永續發展中心",
-        "author": {
-            "department": "永續發展中心",
-            "name": "李敏賢",
-            "email": "jordanlee@gms.ndhu.edu.tw",
-            "phone": "03-8905919"
-        },
-        "attachmentCount": 0
     }
 ]

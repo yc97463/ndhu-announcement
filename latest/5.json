@@ -1,5 +1,47 @@
 [
     {
+        "title": "【敬邀參加】本校30周年校慶慶祝大會(11/11) 第1次公告",
+        "timestamp": "1729037241",
+        "url": "mail_display.php?timestamp=1729037241",
+        "date": "2024/10/16 08:07",
+        "department": "秘書室公關宣傳組",
+        "author": {
+            "department": "秘書室公關宣傳組",
+            "name": "林佩瑤",
+            "email": "peiyao@gms.ndhu.edu.tw",
+            "phone": "6013"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【觀遊系融合性休閒遊憩專題講座】黃欣儀：無障礙旅遊~跟著輪椅導遊玩台灣",
+        "timestamp": "1729036558",
+        "url": "mail_display.php?timestamp=1729036558",
+        "date": "2024/10/16 07:55",
+        "department": "管理學院 觀光暨休閒遊憩學系",
+        "author": {
+            "department": "管理學院 觀光暨休閒遊憩學系",
+            "name": "莊月玲",
+            "email": "trls@gms.ndhu.edu.tw",
+            "phone": "5602"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【材料系演講公告】10/21(一)15:10-17:00 奈米壓痕誘發奈米雙晶於Cantor高熵單晶上的研究",
+        "timestamp": "1729036557",
+        "url": "mail_display.php?timestamp=1729036557",
+        "date": "2024/10/16 07:55",
+        "department": "理工學院 材料科學與工程學系",
+        "author": {
+            "department": "理工學院 材料科學與工程學系",
+            "name": "林淑玲",
+            "email": "shuling@gms.ndhu.edu.tw",
+            "phone": "3204"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "🚩2024 東華秋藝季： Alex Sipiagin俄國爵士四重奏",
         "timestamp": "1729036556",
         "url": "mail_display.php?timestamp=1729036556",
@@ -164,48 +206,6 @@
             "name": "劉姵君",
             "email": "amyliou@gms.ndhu.edu.tw",
             "phone": "6632"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【京元電子實習說明會】",
-        "timestamp": "1729036544",
-        "url": "mail_display.php?timestamp=1729036544",
-        "date": "2024/10/16 07:55",
-        "department": "理工學院 電機工程學系",
-        "author": {
-            "department": "理工學院 電機工程學系",
-            "name": "邱昭儒",
-            "email": "senorita@gms.ndhu.edu.tw",
-            "phone": "5063"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【會計學系演講】生成式AI研習",
-        "timestamp": "1729036543",
-        "url": "mail_display.php?timestamp=1729036543",
-        "date": "2024/10/16 07:55",
-        "department": "管理學院 會計學系",
-        "author": {
-            "department": "管理學院 會計學系",
-            "name": "吳佳玟",
-            "email": "chiawen@gms.ndhu.edu.tw",
-            "phone": "3073"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【會計學系演講】人工智慧AIL基本素養",
-        "timestamp": "1729036542",
-        "url": "mail_display.php?timestamp=1729036542",
-        "date": "2024/10/16 07:55",
-        "department": "管理學院 會計學系",
-        "author": {
-            "department": "管理學院 會計學系",
-            "name": "吳佳玟",
-            "email": "chiawen@gms.ndhu.edu.tw",
-            "phone": "3073"
         },
         "attachmentCount": 0
     }
