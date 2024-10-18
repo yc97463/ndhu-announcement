@@ -1,5 +1,19 @@
 [
     {
+        "title": "【活動推推】SIG論壇-在地韌性社會重建",
+        "timestamp": "1724093460",
+        "url": "mail_display.php?timestamp=1724093460",
+        "date": "2024/08/20 02:51",
+        "department": "社會參與中心",
+        "author": {
+            "department": "社會參與中心",
+            "name": "黃小姐",
+            "email": "ellie@gms.ndhu.edu.tw",
+            "phone": "5242"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【徵稿公告】2024 偏鄉教育論壇╳東暨慈論壇- 「臺灣偏鄉教育的挑戰、契機與創新」學術研討會徵稿計畫",
         "timestamp": "1724093350",
         "url": "mail_display.php?timestamp=1724093350",
@@ -194,19 +208,5 @@
             "phone": "6053"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【華語碩博班-演講公告】2024.07.02 何寶璋 教授「飲食與文化」",
-        "timestamp": "1719134798",
-        "url": "mail_display.php?timestamp=1719134798",
-        "date": "2024/06/23 17:26",
-        "department": "國際紅學研究中心",
-        "author": {
-            "department": "國際紅學研究中心",
-            "name": "阮氏玉映",
-            "email": "rdrc@gms.ndhu.edu.tw",
-            "phone": "0909039764"
-        },
-        "attachmentCount": 2
     }
 ]

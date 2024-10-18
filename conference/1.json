@@ -1,5 +1,19 @@
 [
     {
+        "title": "【財金系專題演講】10/25(五)14:00~16:00 The Effect of Lease accounting on Share Repurchases租賃會計對於股票買回之影響",
+        "timestamp": "1729221984",
+        "url": "mail_display.php?timestamp=1729221984",
+        "date": "2024/10/18 11:26",
+        "department": "財務金融學系",
+        "author": {
+            "department": "財務金融學系",
+            "name": "林役霜",
+            "email": "ys012@gms.ndhu.edu.tw",
+            "phone": "3133"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "10/22【笠詩社六十周年系列講座】東華大學場",
         "timestamp": "1729132385",
         "url": "mail_display.php?timestamp=1729132385",
@@ -194,19 +208,5 @@
             "phone": "03890-5663"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【新創基地進駐申請】2025年花蓮新創基地進駐團隊招募正式開跑",
-        "timestamp": "1728617904",
-        "url": "mail_display.php?timestamp=1728617904",
-        "date": "2024/10/11 11:38",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "吳其璁",
-            "email": "dci93031@gms.ndhu.edu.tw",
-            "phone": "03-8903687"
-        },
-        "attachmentCount": 4
     }
 ]

@@ -1,5 +1,33 @@
 [
     {
+        "title": "協助註冊組整理美崙校區學籍冊上架及其他交辦事項",
+        "timestamp": "1729209301",
+        "url": "mail_display.php?timestamp=1729209301",
+        "date": "2024/10/18 07:55",
+        "department": "教務處 註冊組",
+        "author": {
+            "department": "教務處 註冊組",
+            "name": "莊珆芸",
+            "email": "agnes@gms.ndhu.edu.tw",
+            "phone": "038906113"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【兵役資訊】內政部役政署113年度研發替代役役男報名及用人單位 甄選作業說明會，開放報名",
+        "timestamp": "1729209073",
+        "url": "mail_display.php?timestamp=1729209073",
+        "date": "2024/10/18 07:51",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "6225"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【ROTC招生訊息】國防部1 1 4年大學儲備軍官訓練團甄選(招生)簡章 宣導",
         "timestamp": "1729208805",
         "url": "mail_display.php?timestamp=1729208805",
@@ -180,33 +208,5 @@
             "phone": "6523"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "10/22【笠詩社六十周年系列講座】東華大學場",
-        "timestamp": "1729132385",
-        "url": "mail_display.php?timestamp=1729132385",
-        "date": "2024/10/17 10:33",
-        "department": "楊牧文學研究中心",
-        "author": {
-            "department": "楊牧文學研究中心",
-            "name": "林祐瑄",
-            "email": "yslin1120@gms.ndhu.edu.tw",
-            "phone": "03-8905277"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【延期公告】原訂10/25 陳柏青教授演講《從精緻農業、農業公費班到有機世界大會》",
-        "timestamp": "1729131828",
-        "url": "mail_display.php?timestamp=1729131828",
-        "date": "2024/10/17 10:23",
-        "department": "永續發展中心",
-        "author": {
-            "department": "永續發展中心",
-            "name": "李敏賢",
-            "email": "jordanlee@gms.ndhu.edu.tw",
-            "phone": "03-8905919"
-        },
-        "attachmentCount": 0
     }
 ]

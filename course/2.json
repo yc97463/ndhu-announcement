@@ -1,5 +1,19 @@
 [
     {
+        "title": "【課務組通知】113-1加退選後課程確認及加簽作業(9/20-9/27) 【Curriculum Division】Course Confirm Online and Add Course Requests (Sep. 20-Sep. 27)",
+        "timestamp": "1726709581",
+        "url": "mail_display.php?timestamp=1726709581",
+        "date": "2024/09/19 09:33",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "公告113-1校核心資訊科技領域-「中級程式設計-虛擬實境AA」課程尚有名額，敬請踴躍加選課程",
         "timestamp": "1726627212",
         "url": "mail_display.php?timestamp=1726627212",
@@ -194,19 +208,5 @@
             "phone": "5247"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "TEJ臺灣經濟新報資料庫(TEJ Pro)系統升級通知",
-        "timestamp": "1725860919",
-        "url": "mail_display.php?timestamp=1725860919",
-        "date": "2024/09/09 13:48",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "陳昱佐",
-            "email": "yutuchen@gms.ndhu.edu.tw",
-            "phone": "038906824"
-        },
-        "attachmentCount": 2
     }
 ]
