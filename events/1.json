@@ -1,9 +1,23 @@
 [
     {
+        "title": "修正【敬邀參加】本校30周年校慶慶祝大會(11/11) 第2次公告",
+        "timestamp": "1729241118",
+        "url": "mail_display.php?timestamp=1729241118",
+        "date": "2024/10/18 16:45",
+        "department": "秘書室公關宣傳組",
+        "author": {
+            "department": "秘書室公關宣傳組",
+            "name": "林佩瑤",
+            "email": "peiyao@gms.ndhu.edu.tw",
+            "phone": "6013"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "⚖️校內也有免費法律諮詢啦⚖️",
-        "timestamp": "1729238393",
-        "url": "mail_display.php?timestamp=1729238393",
-        "date": "2024/10/18 15:59",
+        "timestamp": "1729240915",
+        "url": "mail_display.php?timestamp=1729240915",
+        "date": "2024/10/18 16:41",
         "department": "秘書室法制組",
         "author": {
             "department": "秘書室法制組",
@@ -40,20 +54,6 @@
             "phone": "038221316"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【敬邀參加】本校30周年校慶慶祝大會(11/11) 第2次公告",
-        "timestamp": "1729218987",
-        "url": "mail_display.php?timestamp=1729218987",
-        "date": "2024/10/18 10:36",
-        "department": "秘書室公關宣傳組",
-        "author": {
-            "department": "秘書室公關宣傳組",
-            "name": "林佩瑤",
-            "email": "peiyao@gms.ndhu.edu.tw",
-            "phone": "6013"
-        },
-        "attachmentCount": 1
     },
     {
         "title": "【大師講座活動轉知】創意煉成術：破千萬流量的內容實戰心法",
