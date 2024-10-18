@@ -1,5 +1,19 @@
 [
     {
+        "title": "【會計學系演講】生成式AI研習",
+        "timestamp": "1729036543",
+        "url": "mail_display.php?timestamp=1729036543",
+        "date": "2024/10/16 07:55",
+        "department": "管理學院 會計學系",
+        "author": {
+            "department": "管理學院 會計學系",
+            "name": "吳佳玟",
+            "email": "chiawen@gms.ndhu.edu.tw",
+            "phone": "3073"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【會計學系演講】人工智慧AIL基本素養",
         "timestamp": "1729036542",
         "url": "mail_display.php?timestamp=1729036542",
@@ -192,20 +206,6 @@
             "name": "周葦綸",
             "email": "valen0810@gms.ndhu.edu.tw",
             "phone": "6606"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "新書分享講座：女礦工的勞動、身體與記憶",
-        "timestamp": "1729036528",
-        "url": "mail_display.php?timestamp=1729036528",
-        "date": "2024/10/16 07:55",
-        "department": "人文社會科學學院 社會學系",
-        "author": {
-            "department": "人文社會科學學院 社會學系",
-            "name": "葉珮芳",
-            "email": "",
-            "phone": "蘇倖瑤   (email: 41104b009@gms.ndhu.edu.tw )"
         },
         "attachmentCount": 0
     }

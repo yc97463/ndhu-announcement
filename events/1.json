@@ -1,5 +1,19 @@
 [
     {
+        "title": "⚖️校內也有免費法律諮詢啦⚖️",
+        "timestamp": "1729236139",
+        "url": "mail_display.php?timestamp=1729236139",
+        "date": "2024/10/18 15:22",
+        "department": "秘書室法制組",
+        "author": {
+            "department": "秘書室法制組",
+            "name": "阮念慈",
+            "email": "nt0701@gms.ndhu.edu.tw",
+            "phone": "6021"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "自我探索評量工作坊-發現我的職業適應力，提升我的職場存活率",
         "timestamp": "1729223220",
         "url": "mail_display.php?timestamp=1729223220",
@@ -194,19 +208,5 @@
             "phone": "038906113"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "2024校慶運動會田徑競賽規程及報名資訊",
-        "timestamp": "1729156904",
-        "url": "mail_display.php?timestamp=1729156904",
-        "date": "2024/10/17 17:21",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "莊璦綺",
-            "email": "ichi@gms.ndhu.edu.tw",
-            "phone": "6613"
-        },
-        "attachmentCount": 2
     }
 ]
