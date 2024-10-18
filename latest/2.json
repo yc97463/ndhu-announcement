@@ -1,5 +1,19 @@
 [
     {
+        "title": "華人工作適應探索工作坊(B場)",
+        "timestamp": "1729209302",
+        "url": "mail_display.php?timestamp=1729209302",
+        "date": "2024/10/18 07:55",
+        "department": "人文社會科學學院 諮商與臨床心理學系",
+        "author": {
+            "department": "人文社會科學學院 諮商與臨床心理學系",
+            "name": "王沂釗",
+            "email": "career2024@gms.ndhu.edu.tw",
+            "phone": "5654"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "協助註冊組整理美崙校區學籍冊上架及其他交辦事項",
         "timestamp": "1729209301",
         "url": "mail_display.php?timestamp=1729209301",
@@ -194,19 +208,5 @@
             "phone": "3789"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【推廣教育】即日起至10月22日止受理績效酬勞核發(第二次通知)",
-        "timestamp": "1729143247",
-        "url": "mail_display.php?timestamp=1729143247",
-        "date": "2024/10/17 13:34",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "洪乃慈",
-            "email": "naitzu@gms.ndhu.edu.tw",
-            "phone": "6523"
-        },
-        "attachmentCount": 1
     }
 ]

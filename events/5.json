@@ -1,5 +1,19 @@
 [
     {
+        "title": "【會計學系演講】人工智慧AIL基本素養",
+        "timestamp": "1729036542",
+        "url": "mail_display.php?timestamp=1729036542",
+        "date": "2024/10/16 07:55",
+        "department": "管理學院 會計學系",
+        "author": {
+            "department": "管理學院 會計學系",
+            "name": "吳佳玟",
+            "email": "chiawen@gms.ndhu.edu.tw",
+            "phone": "3073"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【會計學系演講】ERP 永續數位雙軸轉型 (視訊講座)",
         "timestamp": "1729036541",
         "url": "mail_display.php?timestamp=1729036541",
@@ -192,20 +206,6 @@
             "name": "葉珮芳",
             "email": "",
             "phone": "蘇倖瑤   (email: 41104b009@gms.ndhu.edu.tw )"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【亭午風起，有詩東華】113-1 英詩小講堂 10/23 第1場 \"Lyrical Lunch at Dong Hwa\" Poetry Reading Session 1",
-        "timestamp": "1729036527",
-        "url": "mail_display.php?timestamp=1729036527",
-        "date": "2024/10/16 07:55",
-        "department": "洄瀾學院 語言中心",
-        "author": {
-            "department": "洄瀾學院 語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
         },
         "attachmentCount": 0
     }
