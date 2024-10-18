@@ -1,5 +1,19 @@
 [
     {
+        "title": "【京元電子實習說明會】",
+        "timestamp": "1729036544",
+        "url": "mail_display.php?timestamp=1729036544",
+        "date": "2024/10/16 07:55",
+        "department": "理工學院 電機工程學系",
+        "author": {
+            "department": "理工學院 電機工程學系",
+            "name": "邱昭儒",
+            "email": "senorita@gms.ndhu.edu.tw",
+            "phone": "5063"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【會計學系演講】生成式AI研習",
         "timestamp": "1729036543",
         "url": "mail_display.php?timestamp=1729036543",
@@ -192,20 +206,6 @@
             "name": "邱苡芳",
             "email": "chiu91@gms.ndhu.edu.tw",
             "phone": "8905122"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "🚩2024 東華秋藝季： 瑞典AORA人聲樂團巡迴音樂會花蓮場《2024台灣國際重唱藝術節》",
-        "timestamp": "1729036529",
-        "url": "mail_display.php?timestamp=1729036529",
-        "date": "2024/10/16 07:55",
-        "department": "洄瀾學院 藝文中心",
-        "author": {
-            "department": "洄瀾學院 藝文中心",
-            "name": "周葦綸",
-            "email": "valen0810@gms.ndhu.edu.tw",
-            "phone": "6606"
         },
         "attachmentCount": 0
     }

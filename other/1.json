@@ -1,5 +1,19 @@
 [
     {
+        "title": "各院自習空間開放時段",
+        "timestamp": "1729243610",
+        "url": "mail_display.php?timestamp=1729243610",
+        "date": "2024/10/18 17:26",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【課程活動轉發】 新創大學堂11月課程歡迎報名",
         "timestamp": "1729220846",
         "url": "mail_display.php?timestamp=1729220846",
@@ -194,19 +208,5 @@
             "phone": "8906422"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【徵才】苗栗縣政府113年度專業輔導人員(心理師)甄選(113年10月16日截止)",
-        "timestamp": "1728887034",
-        "url": "mail_display.php?timestamp=1728887034",
-        "date": "2024/10/14 14:23",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 4
     }
 ]

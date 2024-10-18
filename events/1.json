@@ -1,5 +1,33 @@
 [
     {
+        "title": "⚖️校內也有免費法律諮詢啦⚖️",
+        "timestamp": "1729242935",
+        "url": "mail_display.php?timestamp=1729242935",
+        "date": "2024/10/18 17:15",
+        "department": "秘書室法制組",
+        "author": {
+            "department": "秘書室法制組",
+            "name": "阮念慈",
+            "email": "nt0701@gms.ndhu.edu.tw",
+            "phone": "6021"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【國際交流活動】Universitas Negeri Malang Vocational Inter-Cultural Camp 2024",
+        "timestamp": "1729241626",
+        "url": "mail_display.php?timestamp=1729241626",
+        "date": "2024/10/18 16:53",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "呂姿穎",
+            "email": "doris@gms.ndhu.edu.tw",
+            "phone": "5173"
+        },
+        "attachmentCount": 6
+    },
+    {
         "title": "修正【敬邀參加】本校30周年校慶慶祝大會(11/11) 第2次公告",
         "timestamp": "1729241118",
         "url": "mail_display.php?timestamp=1729241118",
@@ -12,20 +40,6 @@
             "phone": "6013"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "⚖️校內也有免費法律諮詢啦⚖️",
-        "timestamp": "1729240915",
-        "url": "mail_display.php?timestamp=1729240915",
-        "date": "2024/10/18 16:41",
-        "department": "秘書室法制組",
-        "author": {
-            "department": "秘書室法制組",
-            "name": "阮念慈",
-            "email": "nt0701@gms.ndhu.edu.tw",
-            "phone": "6021"
-        },
-        "attachmentCount": 0
     },
     {
         "title": "自我探索評量工作坊-發現我的職業適應力，提升我的職場存活率",
@@ -192,20 +206,6 @@
             "name": "王沂釗",
             "email": "career2024@gms.ndhu.edu.tw",
             "phone": "5654"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "協助註冊組整理美崙校區學籍冊上架及其他交辦事項",
-        "timestamp": "1729209301",
-        "url": "mail_display.php?timestamp=1729209301",
-        "date": "2024/10/18 07:55",
-        "department": "教務處 註冊組",
-        "author": {
-            "department": "教務處 註冊組",
-            "name": "莊珆芸",
-            "email": "agnes@gms.ndhu.edu.tw",
-            "phone": "038906113"
         },
         "attachmentCount": 0
     }
