@@ -1,5 +1,33 @@
 [
     {
+        "title": "洄瀾校廉丶活力清廉~大專院校職涯倫理廉政工作坊",
+        "timestamp": "1729244280",
+        "url": "mail_display.php?timestamp=1729244280",
+        "date": "2024/10/18 17:38",
+        "department": "華語文中心",
+        "author": {
+            "department": "華語文中心",
+            "name": "林容華",
+            "email": "kattylin@gms.ndhu.edu.tw",
+            "phone": "038905248"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "各院自習空間開放時段",
+        "timestamp": "1729243610",
+        "url": "mail_display.php?timestamp=1729243610",
+        "date": "2024/10/18 17:26",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "⚖️校內也有免費法律諮詢啦⚖️",
         "timestamp": "1729242935",
         "url": "mail_display.php?timestamp=1729242935",
@@ -178,34 +206,6 @@
             "name": "蔡季芸",
             "email": "611333001@gms.ndhu.edu.tw",
             "phone": "0987161773"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【電機系校友回娘家座談會】",
-        "timestamp": "1729209308",
-        "url": "mail_display.php?timestamp=1729209308",
-        "date": "2024/10/18 07:55",
-        "department": "理工學院 電機工程學系",
-        "author": {
-            "department": "理工學院 電機工程學系",
-            "name": "邱昭儒",
-            "email": "senorita@gms.ndhu.edu.tw",
-            "phone": "5063"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "民族語言與傳播學系-影視組器材認證工作坊",
-        "timestamp": "1729209307",
-        "url": "mail_display.php?timestamp=1729209307",
-        "date": "2024/10/18 07:55",
-        "department": "原住民民族學院 民族語言與傳播學系",
-        "author": {
-            "department": "原住民民族學院 民族語言與傳播學系",
-            "name": "璽祐.哈?咪",
-            "email": "411192037@gms.ndhu.edu.tw",
-            "phone": "0910-353-297"
         },
         "attachmentCount": 0
     }
