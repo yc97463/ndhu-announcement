@@ -1,5 +1,131 @@
 [
     {
+        "title": "原來？這也叫新創？",
+        "timestamp": "1729209309",
+        "url": "mail_display.php?timestamp=1729209309",
+        "date": "2024/10/18 07:55",
+        "department": "管理學院 國際企業學系",
+        "author": {
+            "department": "管理學院 國際企業學系",
+            "name": "蔡季芸",
+            "email": "611333001@gms.ndhu.edu.tw",
+            "phone": "0987161773"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【電機系校友回娘家座談會】",
+        "timestamp": "1729209308",
+        "url": "mail_display.php?timestamp=1729209308",
+        "date": "2024/10/18 07:55",
+        "department": "理工學院 電機工程學系",
+        "author": {
+            "department": "理工學院 電機工程學系",
+            "name": "邱昭儒",
+            "email": "senorita@gms.ndhu.edu.tw",
+            "phone": "5063"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "民族語言與傳播學系-影視組器材認證工作坊",
+        "timestamp": "1729209307",
+        "url": "mail_display.php?timestamp=1729209307",
+        "date": "2024/10/18 07:55",
+        "department": "原住民民族學院 民族語言與傳播學系",
+        "author": {
+            "department": "原住民民族學院 民族語言與傳播學系",
+            "name": "璽祐.哈?咪",
+            "email": "411192037@gms.ndhu.edu.tw",
+            "phone": "0910-353-297"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "民族語言與傳播學系-影視組器材認證工作坊（限本系）",
+        "timestamp": "1729209306",
+        "url": "mail_display.php?timestamp=1729209306",
+        "date": "2024/10/18 07:55",
+        "department": "原住民民族學院 民族語言與傳播學系",
+        "author": {
+            "department": "原住民民族學院 民族語言與傳播學系",
+            "name": "璽祐.哈?咪",
+            "email": "411192037@gms.ndhu.edu.tw",
+            "phone": "0910-353-297"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "民族語言與傳播學系-系影視組器材認證工作坊 （限工作人員）",
+        "timestamp": "1729209305",
+        "url": "mail_display.php?timestamp=1729209305",
+        "date": "2024/10/18 07:55",
+        "department": "原住民民族學院 民族語言與傳播學系",
+        "author": {
+            "department": "原住民民族學院 民族語言與傳播學系",
+            "name": "璽祐.哈?咪",
+            "email": "411192037@gms.ndhu.edu.tw",
+            "phone": "0910-353-297"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "職業認識講座-特教輔導員的生涯抉擇歷程",
+        "timestamp": "1729209304",
+        "url": "mail_display.php?timestamp=1729209304",
+        "date": "2024/10/18 07:55",
+        "department": "心理諮商輔導中心 預防推廣組",
+        "author": {
+            "department": "心理諮商輔導中心 預防推廣組",
+            "name": "林賢謀",
+            "email": "lcm1460@gms.ndhu.edu.tw",
+            "phone": "8906269"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113-1【Rikec部落參訪】苗栗rareme:an向天湖部落",
+        "timestamp": "1729209303",
+        "url": "mail_display.php?timestamp=1729209303",
+        "date": "2024/10/18 07:55",
+        "department": "人文社會科學學院 法律學系",
+        "author": {
+            "department": "人文社會科學學院 法律學系",
+            "name": "高蘇恩",
+            "email": "galaigai@gms.ndhu.edu.tw",
+            "phone": "5663"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "華人工作適應探索工作坊(B場)",
+        "timestamp": "1729209302",
+        "url": "mail_display.php?timestamp=1729209302",
+        "date": "2024/10/18 07:55",
+        "department": "人文社會科學學院 諮商與臨床心理學系",
+        "author": {
+            "department": "人文社會科學學院 諮商與臨床心理學系",
+            "name": "王沂釗",
+            "email": "career2024@gms.ndhu.edu.tw",
+            "phone": "5654"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "協助註冊組整理美崙校區學籍冊上架及其他交辦事項",
+        "timestamp": "1729209301",
+        "url": "mail_display.php?timestamp=1729209301",
+        "date": "2024/10/18 07:55",
+        "department": "教務處 註冊組",
+        "author": {
+            "department": "教務處 註冊組",
+            "name": "莊珆芸",
+            "email": "agnes@gms.ndhu.edu.tw",
+            "phone": "038906113"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "2024校慶運動會田徑競賽規程及報名資訊",
         "timestamp": "1729156904",
         "url": "mail_display.php?timestamp=1729156904",
@@ -80,132 +206,6 @@
             "name": "李敏賢",
             "email": "jordanlee@gms.ndhu.edu.tw",
             "phone": "03-8905919"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "Yes 就業力組合量表線上施測，歡迎參加",
-        "timestamp": "1729128700",
-        "url": "mail_display.php?timestamp=1729128700",
-        "date": "2024/10/17 09:31",
-        "department": "諮商與臨床心理學系",
-        "author": {
-            "department": "諮商與臨床心理學系",
-            "name": "王沂釗",
-            "email": "scholarwang@gms.ndhu.edu.tw",
-            "phone": "5654"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【活動轉知】國立高雄大學「Zuvio進階工作坊-課堂即時互動全攻略」",
-        "timestamp": "1729128533",
-        "url": "mail_display.php?timestamp=1729128533",
-        "date": "2024/10/17 09:28",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【清真美食饗宴】花師教育學院77周年院慶活動The 77th Anniversary, Halal Food Festival in Anniversary Celebration of Hua-Shih College of Education",
-        "timestamp": "1729123596",
-        "url": "mail_display.php?timestamp=1729123596",
-        "date": "2024/10/17 08:06",
-        "department": "花師教育學院",
-        "author": {
-            "department": "花師教育學院",
-            "name": "賴小姐",
-            "email": "tll@gms.ndhu.edu.tw",
-            "phone": "3804"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "物件分析工作坊（一）",
-        "timestamp": "1729122915",
-        "url": "mail_display.php?timestamp=1729122915",
-        "date": "2024/10/17 07:55",
-        "department": "學務處 原住民族學生資源中心",
-        "author": {
-            "department": "學務處 原住民族學生資源中心",
-            "name": "吳倩茹",
-            "email": "411096007@gms.ndhu.edu.tw",
-            "phone": "鄧雨茹 0902357009"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "華人工作適應探索工作坊(A場)",
-        "timestamp": "1729122914",
-        "url": "mail_display.php?timestamp=1729122914",
-        "date": "2024/10/17 07:55",
-        "department": "人文社會科學學院 諮商與臨床心理學系",
-        "author": {
-            "department": "人文社會科學學院 諮商與臨床心理學系",
-            "name": "王沂釗",
-            "email": "career2024@gms.ndhu.edu.tw",
-            "phone": "5654"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "國企系畢專成果展 工作人員彩排(2hr)",
-        "timestamp": "1729122913",
-        "url": "mail_display.php?timestamp=1729122913",
-        "date": "2024/10/17 07:55",
-        "department": "管理學院 國際企業學系",
-        "author": {
-            "department": "管理學院 國際企業學系",
-            "name": "蔡季芸",
-            "email": "411133010@gms.ndhu.edu.tw",
-            "phone": "0956597858"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "國企系畢專成果展 工作人員彩排(3hr)",
-        "timestamp": "1729122912",
-        "url": "mail_display.php?timestamp=1729122912",
-        "date": "2024/10/17 07:55",
-        "department": "管理學院 國際企業學系",
-        "author": {
-            "department": "管理學院 國際企業學系",
-            "name": "蔡季芸",
-            "email": "411133010@gms.ndhu.edu.tw",
-            "phone": "0956597858"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "國際企業學系113年專題成果展_口頭簡報",
-        "timestamp": "1729122911",
-        "url": "mail_display.php?timestamp=1729122911",
-        "date": "2024/10/17 07:55",
-        "department": "管理學院 國際企業學系",
-        "author": {
-            "department": "管理學院 國際企業學系",
-            "name": "蔡季芸",
-            "email": "411133010@gms.ndhu.edu.tw",
-            "phone": "0956597858"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "國際企業學系113年專題成果展_壁報展",
-        "timestamp": "1729122910",
-        "url": "mail_display.php?timestamp=1729122910",
-        "date": "2024/10/17 07:55",
-        "department": "管理學院 國際企業學系",
-        "author": {
-            "department": "管理學院 國際企業學系",
-            "name": "蔡季芸",
-            "email": "411133010@gms.ndhu.edu.tw",
-            "phone": "0956597858"
         },
         "attachmentCount": 0
     }

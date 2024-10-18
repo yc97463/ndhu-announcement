@@ -1,5 +1,19 @@
 [
     {
+        "title": "【K書中心公告】113年國慶日K中A館休館一天",
+        "timestamp": "1728359779",
+        "url": "mail_display.php?timestamp=1728359779",
+        "date": "2024/10/08 11:56",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳小姐",
+            "email": "sian@gms.ndhu.edu.tw",
+            "phone": "5846"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【傑出校友選拔】臺東專科學校辦理113年度傑出校友遴選，歡迎踴躍推薦該校校友參加遴選。",
         "timestamp": "1728345377",
         "url": "mail_display.php?timestamp=1728345377",
@@ -194,19 +208,5 @@
             "phone": "038906284"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "(更新連結)❗第六屆T大使計畫說明會(東華大學)強力招募❗",
-        "timestamp": "1727750993",
-        "url": "mail_display.php?timestamp=1727750993",
-        "date": "2024/10/01 10:49",
-        "department": "跨領域學術研究中心",
-        "author": {
-            "department": "跨領域學術研究中心",
-            "name": "江東隆",
-            "email": "stb.tony@gms.ndhu.edu.tw",
-            "phone": "038903772"
-        },
-        "attachmentCount": 5
     }
 ]
