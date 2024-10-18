@@ -14,20 +14,6 @@
         "attachmentCount": 2
     },
     {
-        "title": "各院自習空間開放時段",
-        "timestamp": "1729243610",
-        "url": "mail_display.php?timestamp=1729243610",
-        "date": "2024/10/18 17:26",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 2
-    },
-    {
         "title": "【課程活動轉發】 新創大學堂11月課程歡迎報名",
         "timestamp": "1729220846",
         "url": "mail_display.php?timestamp=1729220846",
@@ -208,5 +194,19 @@
             "phone": "6283"
         },
         "attachmentCount": 3
+    },
+    {
+        "title": "【訊息轉知】輔仁大學開設「生命電影院─電影中的疾病與人生」磨課師(MOOCs)線上課程",
+        "timestamp": "1728890757",
+        "url": "mail_display.php?timestamp=1728890757",
+        "date": "2024/10/14 15:25",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 2
     }
 ]
