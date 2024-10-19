@@ -1,5 +1,103 @@
 [
     {
+        "title": "四樓書庫整架 10/22 10:00~12:00",
+        "timestamp": "1729122906",
+        "url": "mail_display.php?timestamp=1729122906",
+        "date": "2024/10/17 07:55",
+        "department": "圖書資訊處 圖資服務組",
+        "author": {
+            "department": "圖書資訊處 圖資服務組",
+            "name": "何銘俊",
+            "email": "robert@gms.ndhu.edu.tw",
+            "phone": "6841"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "自資系專題演講-腳底下的精靈：探索土壤動物多樣性(Life under your feet—Exploring the wonders of soil animal biodiversity)",
+        "timestamp": "1729122905",
+        "url": "mail_display.php?timestamp=1729122905",
+        "date": "2024/10/17 07:55",
+        "department": "環境暨海洋學院 自然資源與環境學系",
+        "author": {
+            "department": "環境暨海洋學院 自然資源與環境學系",
+            "name": "夏懿心",
+            "email": "heart630@gms.ndhu.edu.tw",
+            "phone": "8903277"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "2024 第十一屆有機生活營--食農教育園遊會",
+        "timestamp": "1729122904",
+        "url": "mail_display.php?timestamp=1729122904",
+        "date": "2024/10/17 07:55",
+        "department": "永續發展中心 ",
+        "author": {
+            "department": "永續發展中心",
+            "name": "李莉莉",
+            "email": "sd@gms.ndhu.edu.tw",
+            "phone": "03-890-5920"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【Get it 跨域就業系列講座】 重大刑事案件辯護",
+        "timestamp": "1729122903",
+        "url": "mail_display.php?timestamp=1729122903",
+        "date": "2024/10/17 07:55",
+        "department": "人文社會科學學院 法律學系",
+        "author": {
+            "department": "人文社會科學學院 法律學系",
+            "name": "高蘇恩",
+            "email": "galaigai@gms.ndhu.edu.tw",
+            "phone": "5663"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【幼教系演講】程式教育向下扎根STEAM幼兒AI課程-推廣與實作",
+        "timestamp": "1729122902",
+        "url": "mail_display.php?timestamp=1729122902",
+        "date": "2024/10/17 07:55",
+        "department": "花師教育學院 幼兒教育學系",
+        "author": {
+            "department": "花師教育學院 幼兒教育學系",
+            "name": "蕭羽芩",
+            "email": "kay200128@gms.ndhu.edu.tw",
+            "phone": "5266"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【獎助學金申請】屏東縣113-1清寒優秀學生獎學金 (限屏東縣籍)",
+        "timestamp": "1729092653",
+        "url": "mail_display.php?timestamp=1729092653",
+        "date": "2024/10/16 23:30",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【語言中心】113-1學期11月16日校園英語能力模擬測驗(實體) 2024 CAMPUS TOEIC PRACTICE TEST 11/16",
+        "timestamp": "1729069676",
+        "url": "mail_display.php?timestamp=1729069676",
+        "date": "2024/10/16 17:07",
+        "department": "語言中心",
+        "author": {
+            "department": "語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【實習】財團法人慈濟傳播人文志業基金會「2025年大專生113-2學期實習」開放申請囉! 📣 📣",
         "timestamp": "1729068896",
         "url": "mail_display.php?timestamp=1729068896",
@@ -110,103 +208,5 @@
             "phone": "8906218"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "宣導校園性別事件通報窗口",
-        "timestamp": "1729047921",
-        "url": "mail_display.php?timestamp=1729047921",
-        "date": "2024/10/16 11:05",
-        "department": "秘書室",
-        "author": {
-            "department": "秘書室",
-            "name": "東華大學性平會",
-            "email": "gender10404@gms.ndhu.edu.tw",
-            "phone": "6005"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【敬邀參加】本校30周年校慶慶祝大會(11/11) 第1次公告",
-        "timestamp": "1729037241",
-        "url": "mail_display.php?timestamp=1729037241",
-        "date": "2024/10/16 08:07",
-        "department": "秘書室公關宣傳組",
-        "author": {
-            "department": "秘書室公關宣傳組",
-            "name": "林佩瑤",
-            "email": "peiyao@gms.ndhu.edu.tw",
-            "phone": "6013"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【觀遊系融合性休閒遊憩專題講座】黃欣儀：無障礙旅遊~跟著輪椅導遊玩台灣",
-        "timestamp": "1729036558",
-        "url": "mail_display.php?timestamp=1729036558",
-        "date": "2024/10/16 07:55",
-        "department": "管理學院 觀光暨休閒遊憩學系",
-        "author": {
-            "department": "管理學院 觀光暨休閒遊憩學系",
-            "name": "莊月玲",
-            "email": "trls@gms.ndhu.edu.tw",
-            "phone": "5602"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【材料系演講公告】10/21(一)15:10-17:00 奈米壓痕誘發奈米雙晶於Cantor高熵單晶上的研究",
-        "timestamp": "1729036557",
-        "url": "mail_display.php?timestamp=1729036557",
-        "date": "2024/10/16 07:55",
-        "department": "理工學院 材料科學與工程學系",
-        "author": {
-            "department": "理工學院 材料科學與工程學系",
-            "name": "林淑玲",
-            "email": "shuling@gms.ndhu.edu.tw",
-            "phone": "3204"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "🚩2024 東華秋藝季： Alex Sipiagin俄國爵士四重奏",
-        "timestamp": "1729036556",
-        "url": "mail_display.php?timestamp=1729036556",
-        "date": "2024/10/16 07:55",
-        "department": "洄瀾學院 藝文中心",
-        "author": {
-            "department": "洄瀾學院 藝文中心",
-            "name": "周葦綸",
-            "email": "valen0810@gms.ndhu.edu.tw",
-            "phone": "6606"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "歷史學系專題演講：串聯「地下-地面」的垂直系統：台灣的地下採煤、自有能源與地面變遷",
-        "timestamp": "1729036555",
-        "url": "mail_display.php?timestamp=1729036555",
-        "date": "2024/10/16 07:55",
-        "department": "人文社會科學學院 歷史學系",
-        "author": {
-            "department": "人文社會科學學院 歷史學系",
-            "name": "吳芷萱",
-            "email": "suju1106@gms.ndhu.edu.tw",
-            "phone": "5323"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【在地療癒】線上增能演講—台灣精神病院的前世今生：李弘毅 臨床心理師",
-        "timestamp": "1729036554",
-        "url": "mail_display.php?timestamp=1729036554",
-        "date": "2024/10/16 07:55",
-        "department": "人文社會科學學院 ",
-        "author": {
-            "department": "人文社會科學學院",
-            "name": "姜妃澤",
-            "email": "ftc1029@gms.ndhu.edu.tw",
-            "phone": "03-8905203"
-        },
-        "attachmentCount": 0
     }
 ]

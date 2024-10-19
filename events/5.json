@@ -1,5 +1,103 @@
 [
     {
+        "title": "升學大補帖",
+        "timestamp": "1729036552",
+        "url": "mail_display.php?timestamp=1729036552",
+        "date": "2024/10/16 07:55",
+        "department": "理工學院 化學系",
+        "author": {
+            "department": "理工學院 化學系",
+            "name": "黃翎欣",
+            "email": "u882025@gms.ndhu.edu.tw",
+            "phone": "3574"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "生活的詩，及環境保育生態詩",
+        "timestamp": "1729036551",
+        "url": "mail_display.php?timestamp=1729036551",
+        "date": "2024/10/16 07:55",
+        "department": "人文社會科學學院 楊牧文學研究中心",
+        "author": {
+            "department": "人文社會科學學院 楊牧文學研究中心",
+            "name": "林祐瑄",
+            "email": "yslin1120@gms.ndhu.edu.tw",
+            "phone": "03-8905277"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【體育系校友講座】挑戰與轉型-從運動員到學者的旅程",
+        "timestamp": "1729036550",
+        "url": "mail_display.php?timestamp=1729036550",
+        "date": "2024/10/16 07:55",
+        "department": "花師教育學院 體育與運動科學系",
+        "author": {
+            "department": "花師教育學院 體育與運動科學系",
+            "name": "王怡晴",
+            "email": "yicwang@gms.ndhu.edu.tw",
+            "phone": "03-8903936"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "服務志工(協助「開啟我的出國探索之路--談談打工度假與國外留學準備」講座)",
+        "timestamp": "1729036549",
+        "url": "mail_display.php?timestamp=1729036549",
+        "date": "2024/10/16 07:55",
+        "department": "心理諮商輔導中心 心理諮商組",
+        "author": {
+            "department": "心理諮商輔導中心 心理諮商組",
+            "name": "王淳羽",
+            "email": "smileevelyn@gms.ndhu.edu.tw",
+            "phone": "03-8906273"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "服務志工(協助「迷網?迷惘？網路使用與社交焦慮工作坊」當天事務)",
+        "timestamp": "1729036548",
+        "url": "mail_display.php?timestamp=1729036548",
+        "date": "2024/10/16 07:55",
+        "department": "心理諮商輔導中心 心理諮商組",
+        "author": {
+            "department": "心理諮商輔導中心 心理諮商組",
+            "name": "王淳羽",
+            "email": "smileevelyn@gms.ndhu.edu.tw",
+            "phone": "03-8906273"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "母語屋企劃書撰寫課程",
+        "timestamp": "1729036547",
+        "url": "mail_display.php?timestamp=1729036547",
+        "date": "2024/10/16 07:55",
+        "department": "學務處 原住民族學生資源中心",
+        "author": {
+            "department": "學務處 原住民族學生資源中心",
+            "name": "吳倩茹",
+            "email": "tipus0401@gms.ndhu.edu.tw",
+            "phone": "鄭恩惠 0907816067"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "教學備課AI工具融入教學應用",
+        "timestamp": "1729036546",
+        "url": "mail_display.php?timestamp=1729036546",
+        "date": "2024/10/16 07:55",
+        "department": "師資培育中心 中等學程組",
+        "author": {
+            "department": "師資培育中心 中等學程組",
+            "name": "劉姵君",
+            "email": "amyliou@gms.ndhu.edu.tw",
+            "phone": "6632"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【研習】適性教學應用(因材網)工作坊-國中小-自然領域",
         "timestamp": "1729036545",
         "url": "mail_display.php?timestamp=1729036545",
@@ -108,104 +206,6 @@
             "name": "張筱茵",
             "email": "ying@gms.ndhu.edu.tw",
             "phone": "(03)890-5533"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【經濟系系友演講】113.10.21(一)王嘉慶先生(前Google Taiwan副總經理)：職涯求知說明貨",
-        "timestamp": "1729036537",
-        "url": "mail_display.php?timestamp=1729036537",
-        "date": "2024/10/16 07:55",
-        "department": "人文社會科學學院 經濟學系",
-        "author": {
-            "department": "人文社會科學學院 經濟學系",
-            "name": "張筱茵",
-            "email": "ying@gms.ndhu.edu.tw",
-            "phone": "(03)890-5533"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "What do you know about Self-harm and Suicide? Let’s discuss in a simple way (This activity will be conducted in English)",
-        "timestamp": "1729036536",
-        "url": "mail_display.php?timestamp=1729036536",
-        "date": "2024/10/16 07:55",
-        "department": "心理諮商輔導中心 預防推廣組",
-        "author": {
-            "department": "心理諮商輔導中心 預防推廣組",
-            "name": "李玟蒨",
-            "email": "phee1801@gms.ndhu.edu.tw",
-            "phone": "(03)890-6263"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【永續講座】從精緻農業、農業公費班到有機世界大會",
-        "timestamp": "1729036535",
-        "url": "mail_display.php?timestamp=1729036535",
-        "date": "2024/10/16 07:55",
-        "department": "永續發展中心 ",
-        "author": {
-            "department": "永續發展中心",
-            "name": "李敏賢",
-            "email": "jordanlee@gms.ndhu.edu.tw",
-            "phone": "03-8905919"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "鏡頭下的N號房-不可不知的數位性別暴力",
-        "timestamp": "1729036534",
-        "url": "mail_display.php?timestamp=1729036534",
-        "date": "2024/10/16 07:55",
-        "department": "心理諮商輔導中心 預防推廣組",
-        "author": {
-            "department": "心理諮商輔導中心 預防推廣組",
-            "name": "陳奕錚",
-            "email": "yjchen92@gms.ndhu.edu.tw",
-            "phone": "(03)890-6894"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【RIKEC法學系列講座】死刑憲法判決之後：法實證研究與刑罰理論交錯視角下的台灣死刑論辯",
-        "timestamp": "1729036533",
-        "url": "mail_display.php?timestamp=1729036533",
-        "date": "2024/10/16 07:55",
-        "department": "人文社會科學學院 法律學系",
-        "author": {
-            "department": "人文社會科學學院 法律學系",
-            "name": "高蘇恩",
-            "email": "galaigai@gms.ndhu.edu.tw",
-            "phone": "5663"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "紐西蘭留學資訊分享會--林肯大學雙聯學位推廣",
-        "timestamp": "1729036532",
-        "url": "mail_display.php?timestamp=1729036532",
-        "date": "2024/10/16 07:55",
-        "department": "國際事務處 國際學生組",
-        "author": {
-            "department": "國際事務處 國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【發社系】113學年度新生成年禮",
-        "timestamp": "1729036531",
-        "url": "mail_display.php?timestamp=1729036531",
-        "date": "2024/10/16 07:55",
-        "department": "原住民民族學院 民族發展與社會工作學系",
-        "author": {
-            "department": "原住民民族學院 民族發展與社會工作學系",
-            "name": "郭雅婷",
-            "email": "tefi@gms.ndhu.edu.tw",
-            "phone": "5788"
         },
         "attachmentCount": 0
     }
