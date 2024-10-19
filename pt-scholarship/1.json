@@ -1,5 +1,19 @@
 [
     {
+        "title": "【論文獎助】日本台灣交流協會「2024年度撰寫碩博士論文經費資助」",
+        "timestamp": "1729348507",
+        "url": "mail_display.php?timestamp=1729348507",
+        "date": "2024/10/19 22:35",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "轉花蓮縣政府辦理114年度原住民族青年暑期工讀計畫",
         "timestamp": "1729236016",
         "url": "mail_display.php?timestamp=1729236016",
@@ -194,19 +208,5 @@
             "phone": "6606"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【獎助學金申請】鳳山佛教蓮社113年煮雲老和尚獎學金 (限設籍高屏雲嘉南縣市、原住民不限縣市)",
-        "timestamp": "1728144741",
-        "url": "mail_display.php?timestamp=1728144741",
-        "date": "2024/10/06 00:12",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]

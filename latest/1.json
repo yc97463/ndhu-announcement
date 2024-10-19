@@ -1,5 +1,19 @@
 [
     {
+        "title": "【論文獎助】日本台灣交流協會「2024年度撰寫碩博士論文經費資助」",
+        "timestamp": "1729348507",
+        "url": "mail_display.php?timestamp=1729348507",
+        "date": "2024/10/19 22:35",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【公告】教育部修正「教育部補(捐)助及委辦經費核撥結報作業要點」第5點及第4點附件1之1、附件1之2、附件1之3、附件2、第8點附件1之4、附件1之5、附件1之6",
         "timestamp": "1729334093",
         "url": "mail_display.php?timestamp=1729334093",
@@ -194,19 +208,5 @@
             "phone": "5173"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "修正【敬邀參加】本校30周年校慶慶祝大會(11/11) 第2次公告",
-        "timestamp": "1729241118",
-        "url": "mail_display.php?timestamp=1729241118",
-        "date": "2024/10/18 16:45",
-        "department": "秘書室公關宣傳組",
-        "author": {
-            "department": "秘書室公關宣傳組",
-            "name": "林佩瑤",
-            "email": "peiyao@gms.ndhu.edu.tw",
-            "phone": "6013"
-        },
-        "attachmentCount": 1
     }
 ]
