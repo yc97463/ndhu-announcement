@@ -1,5 +1,19 @@
 [
     {
+        "title": "宣導校園性別事件通報窗口",
+        "timestamp": "1729047921",
+        "url": "mail_display.php?timestamp=1729047921",
+        "date": "2024/10/16 11:05",
+        "department": "秘書室",
+        "author": {
+            "department": "秘書室",
+            "name": "東華大學性平會",
+            "email": "gender10404@gms.ndhu.edu.tw",
+            "phone": "6005"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113年度校區內客貨電梯進行月保養排程通告10月保養",
         "timestamp": "1728990151",
         "url": "mail_display.php?timestamp=1728990151",
@@ -194,19 +208,5 @@
             "phone": "6122-6126"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "提醒：勿開啟來路不明之信件，教育部至12月前進行電子郵件社交工程演練",
-        "timestamp": "1728867409",
-        "url": "mail_display.php?timestamp=1728867409",
-        "date": "2024/10/14 08:56",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "葉宏達",
-            "email": "honda@gms.ndhu.edu.tw",
-            "phone": "8906747"
-        },
-        "attachmentCount": 1
     }
 ]

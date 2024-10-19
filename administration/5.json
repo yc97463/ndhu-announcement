@@ -1,5 +1,19 @@
 [
     {
+        "title": "(更新10/2餐廳營業狀況)總務處提醒防颱(糧食)準備(第三次公告)",
+        "timestamp": "1727779660",
+        "url": "mail_display.php?timestamp=1727779660",
+        "date": "2024/10/01 18:47",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "113年10月1日垃圾車停止清運Garbage trucks will cease service on October 1, 2024",
         "timestamp": "1727713229",
         "url": "mail_display.php?timestamp=1727713229",
@@ -194,19 +208,5 @@
             "phone": "038906228"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "提醒防颱準備(公告)",
-        "timestamp": "1727587621",
-        "url": "mail_display.php?timestamp=1727587621",
-        "date": "2024/09/29 13:27",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 2
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "113-1【Rikec部落參訪】苗栗rareme:an向天湖部落",
+        "timestamp": "1729209303",
+        "url": "mail_display.php?timestamp=1729209303",
+        "date": "2024/10/18 07:55",
+        "department": "人文社會科學學院 法律學系",
+        "author": {
+            "department": "人文社會科學學院 法律學系",
+            "name": "高蘇恩",
+            "email": "galaigai@gms.ndhu.edu.tw",
+            "phone": "5663"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "華人工作適應探索工作坊(B場)",
         "timestamp": "1729209302",
         "url": "mail_display.php?timestamp=1729209302",
@@ -194,19 +208,5 @@
             "phone": "6752"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "經濟部中小及新創企業署 AI服務團：推廣志工工作坊",
-        "timestamp": "1729147420",
-        "url": "mail_display.php?timestamp=1729147420",
-        "date": "2024/10/17 14:43",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "韓榮樂",
-            "email": "joyhan@gms.ndhu.edu.tw",
-            "phone": "3789"
-        },
-        "attachmentCount": 2
     }
 ]

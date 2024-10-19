@@ -1,5 +1,19 @@
 [
     {
+        "title": "【公告】年底將做資安時數調查，提醒全校職員務必接受資安教育訓練",
+        "timestamp": "1728282403",
+        "url": "mail_display.php?timestamp=1728282403",
+        "date": "2024/10/07 14:26",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "蕭澤宇",
+            "email": "zyhsiao@gms.ndhu.edu.tw",
+            "phone": "03-8906727"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "向晴莊電梯1故障維修公告",
         "timestamp": "1728281666",
         "url": "mail_display.php?timestamp=1728281666",
@@ -192,20 +206,6 @@
             "name": "劉依虹",
             "email": "joyce_liu@gms.ndhu.edu.tw",
             "phone": "6060"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "(更新10/2餐廳營業狀況)總務處提醒防颱(糧食)準備(第三次公告)",
-        "timestamp": "1727779660",
-        "url": "mail_display.php?timestamp=1727779660",
-        "date": "2024/10/01 18:47",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
         },
         "attachmentCount": 2
     }

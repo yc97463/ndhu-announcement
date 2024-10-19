@@ -1,5 +1,19 @@
 [
     {
+        "title": "【公告】教育部修正「教育部補(捐)助及委辦經費核撥結報作業要點」第5點及第4點附件1之1、附件1之2、附件1之3、附件2、第8點附件1之4、附件1之5、附件1之6",
+        "timestamp": "1729334093",
+        "url": "mail_display.php?timestamp=1729334093",
+        "date": "2024/10/19 18:34",
+        "department": "主計室",
+        "author": {
+            "department": "主計室",
+            "name": "張欣慧",
+            "email": "hsin.hui66@gms.ndhu.edu.tw",
+            "phone": "(03)8906086"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "行政院修正「行政院表揚模範公務人員要點」，並自113年10月4日生效",
         "timestamp": "1729301602",
         "url": "mail_display.php?timestamp=1729301602",
@@ -194,19 +208,5 @@
             "phone": "8906218"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "宣導校園性別事件通報窗口",
-        "timestamp": "1729047921",
-        "url": "mail_display.php?timestamp=1729047921",
-        "date": "2024/10/16 11:05",
-        "department": "秘書室",
-        "author": {
-            "department": "秘書室",
-            "name": "東華大學性平會",
-            "email": "gender10404@gms.ndhu.edu.tw",
-            "phone": "6005"
-        },
-        "attachmentCount": 0
     }
 ]
