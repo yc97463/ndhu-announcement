@@ -1,5 +1,19 @@
 [
     {
+        "title": "【國際交流活動】Universitas Negeri Malang Vocational Inter-Cultural Camp 2024",
+        "timestamp": "1729241626",
+        "url": "mail_display.php?timestamp=1729241626",
+        "date": "2024/10/18 16:53",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "呂姿穎",
+            "email": "doris@gms.ndhu.edu.tw",
+            "phone": "5173"
+        },
+        "attachmentCount": 6
+    },
+    {
         "title": "修正【敬邀參加】本校30周年校慶慶祝大會(11/11) 第2次公告",
         "timestamp": "1729241118",
         "url": "mail_display.php?timestamp=1729241118",
@@ -194,19 +208,5 @@
             "phone": "038906113"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "2024校慶運動會田徑競賽規程及報名資訊",
-        "timestamp": "1729156904",
-        "url": "mail_display.php?timestamp=1729156904",
-        "date": "2024/10/17 17:21",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "莊璦綺",
-            "email": "ichi@gms.ndhu.edu.tw",
-            "phone": "6613"
-        },
-        "attachmentCount": 2
     }
 ]

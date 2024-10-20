@@ -1,5 +1,19 @@
 [
     {
+        "title": "10/22【笠詩社六十周年系列講座】東華大學場",
+        "timestamp": "1729439084",
+        "url": "mail_display.php?timestamp=1729439084",
+        "date": "2024/10/20 23:44",
+        "department": "楊牧文學研究中心",
+        "author": {
+            "department": "楊牧文學研究中心",
+            "name": "林祐瑄",
+            "email": "yslin1120@gms.ndhu.edu.tw",
+            "phone": "03-8905277"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【Campus Screening Project】Beyond Beauty - Taiwan from Above 小小齊柏林·看見台灣校園公播計畫-從高空看見我們的家園",
         "timestamp": "1729395565",
         "url": "mail_display.php?timestamp=1729395565",
@@ -194,19 +208,5 @@
             "phone": "6021"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【國際交流活動】Universitas Negeri Malang Vocational Inter-Cultural Camp 2024",
-        "timestamp": "1729241626",
-        "url": "mail_display.php?timestamp=1729241626",
-        "date": "2024/10/18 16:53",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "呂姿穎",
-            "email": "doris@gms.ndhu.edu.tw",
-            "phone": "5173"
-        },
-        "attachmentCount": 6
     }
 ]
