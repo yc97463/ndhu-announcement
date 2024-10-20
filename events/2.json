@@ -1,5 +1,19 @@
 [
     {
+        "title": "修正【敬邀參加】本校30周年校慶慶祝大會(11/11) 第2次公告",
+        "timestamp": "1729241118",
+        "url": "mail_display.php?timestamp=1729241118",
+        "date": "2024/10/18 16:45",
+        "department": "秘書室公關宣傳組",
+        "author": {
+            "department": "秘書室公關宣傳組",
+            "name": "林佩瑤",
+            "email": "peiyao@gms.ndhu.edu.tw",
+            "phone": "6013"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "自我探索評量工作坊-發現我的職業適應力，提升我的職場存活率",
         "timestamp": "1729223220",
         "url": "mail_display.php?timestamp=1729223220",
@@ -194,19 +208,5 @@
             "phone": "6613"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "📢⪦ 2024東華秋藝季：《恐龍復活了！》一日音樂劇體驗營",
-        "timestamp": "1729154378",
-        "url": "mail_display.php?timestamp=1729154378",
-        "date": "2024/10/17 16:39",
-        "department": "藝術中心",
-        "author": {
-            "department": "藝術中心",
-            "name": "周葦綸",
-            "email": "arts@gms.ndhu.edu.tw",
-            "phone": "6606"
-        },
-        "attachmentCount": 7
     }
 ]
