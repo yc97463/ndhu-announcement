@@ -1,5 +1,19 @@
 [
     {
+        "title": "【就業/考試】考選部「114年專門職業及技術人員醫事人員考試」報名即將開始囉~",
+        "timestamp": "1728021352",
+        "url": "mail_display.php?timestamp=1728021352",
+        "date": "2024/10/04 13:55",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "東華電子報 | 2024年09月刊 |",
         "timestamp": "1728019509",
         "url": "mail_display.php?timestamp=1728019509",
@@ -194,19 +208,5 @@
             "phone": "038906824"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【健康促進講座】考前紓壓，芳療守護健康，報名從速!",
-        "timestamp": "1727225466",
-        "url": "mail_display.php?timestamp=1727225466",
-        "date": "2024/09/25 08:51",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 3
     }
 ]
