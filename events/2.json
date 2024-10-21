@@ -1,5 +1,19 @@
 [
     {
+        "title": "【華文系友講座】陳尚季先生、楊凱丞先生",
+        "timestamp": "1729295706",
+        "url": "mail_display.php?timestamp=1729295706",
+        "date": "2024/10/19 07:55",
+        "department": "人文社會科學學院 華文文學系",
+        "author": {
+            "department": "人文社會科學學院 華文文學系",
+            "name": "伍佳雯",
+            "email": "sl@gms.ndhu.edu.tw",
+            "phone": "＃5262"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "中國語文學系【運動文學/中國文學講座】11/27‧徐國峰講師演講",
         "timestamp": "1729295705",
         "url": "mail_display.php?timestamp=1729295705",
@@ -192,20 +206,6 @@
             "name": "蔡季芸",
             "email": "611333001@gms.ndhu.edu.tw",
             "phone": "0987161773"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【電機系校友回娘家座談會】",
-        "timestamp": "1729209308",
-        "url": "mail_display.php?timestamp=1729209308",
-        "date": "2024/10/18 07:55",
-        "department": "理工學院 電機工程學系",
-        "author": {
-            "department": "理工學院 電機工程學系",
-            "name": "邱昭儒",
-            "email": "senorita@gms.ndhu.edu.tw",
-            "phone": "5063"
         },
         "attachmentCount": 0
     }
