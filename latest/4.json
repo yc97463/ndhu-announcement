@@ -1,5 +1,33 @@
 [
     {
+        "title": "【網路服務維運公告】TWAREN SSL-VPN維護公告",
+        "timestamp": "1729212867",
+        "url": "mail_display.php?timestamp=1729212867",
+        "date": "2024/10/18 08:54",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "李宇峰",
+            "email": "eric@mail.ndhu.edu.tw",
+            "phone": "038906721"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【交通安全宣導】行經路口時:請停 、看 、 聽 再go；可以有效降低交通事故。",
+        "timestamp": "1729210537",
+        "url": "mail_display.php?timestamp=1729210537",
+        "date": "2024/10/18 08:15",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "林嘉瑩",
+            "email": "tea7101@gms.ndhu.edu.tw",
+            "phone": "03-8906226"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "原來？這也叫新創？",
         "timestamp": "1729209309",
         "url": "mail_display.php?timestamp=1729209309",
@@ -180,33 +208,5 @@
             "phone": "8906252"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "2024校慶運動會田徑競賽規程及報名資訊",
-        "timestamp": "1729156904",
-        "url": "mail_display.php?timestamp=1729156904",
-        "date": "2024/10/17 17:21",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "莊璦綺",
-            "email": "ichi@gms.ndhu.edu.tw",
-            "phone": "6613"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "📢⪦ 2024東華秋藝季：《恐龍復活了！》一日音樂劇體驗營",
-        "timestamp": "1729154378",
-        "url": "mail_display.php?timestamp=1729154378",
-        "date": "2024/10/17 16:39",
-        "department": "藝術中心",
-        "author": {
-            "department": "藝術中心",
-            "name": "周葦綸",
-            "email": "arts@gms.ndhu.edu.tw",
-            "phone": "6606"
-        },
-        "attachmentCount": 7
     }
 ]
