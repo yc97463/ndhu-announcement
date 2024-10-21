@@ -1,5 +1,33 @@
 [
     {
+        "title": "原資中心【期中英文讀書會】",
+        "timestamp": "1729295707",
+        "url": "mail_display.php?timestamp=1729295707",
+        "date": "2024/10/19 07:55",
+        "department": "學務處 原住民族學生資源中心",
+        "author": {
+            "department": "學務處 原住民族學生資源中心",
+            "name": "吳倩茹",
+            "email": "tipus0401@gms.ndhu.edu.tw",
+            "phone": "(03)890-5707"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【華文系友講座】陳尚季先生、楊凱丞先生",
+        "timestamp": "1729295706",
+        "url": "mail_display.php?timestamp=1729295706",
+        "date": "2024/10/19 07:55",
+        "department": "人文社會科學學院 華文文學系",
+        "author": {
+            "department": "人文社會科學學院 華文文學系",
+            "name": "伍佳雯",
+            "email": "sl@gms.ndhu.edu.tw",
+            "phone": "＃5262"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "中國語文學系【運動文學/中國文學講座】11/27‧徐國峰講師演講",
         "timestamp": "1729295705",
         "url": "mail_display.php?timestamp=1729295705",
@@ -180,33 +208,5 @@
             "phone": "5919"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【財金系專題演講】10/25(五)14:00~16:00 The Effect of Lease accounting on Share Repurchases租賃會計對於股票買回之影響",
-        "timestamp": "1729221984",
-        "url": "mail_display.php?timestamp=1729221984",
-        "date": "2024/10/18 11:26",
-        "department": "財務金融學系",
-        "author": {
-            "department": "財務金融學系",
-            "name": "林役霜",
-            "email": "ys012@gms.ndhu.edu.tw",
-            "phone": "3133"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【課程活動轉發】 新創大學堂11月課程歡迎報名",
-        "timestamp": "1729220846",
-        "url": "mail_display.php?timestamp=1729220846",
-        "date": "2024/10/18 11:07",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "翁欣儀",
-            "email": "cari20240307@gms.ndhu.edu.tw",
-            "phone": "038221316"
-        },
-        "attachmentCount": 2
     }
 ]

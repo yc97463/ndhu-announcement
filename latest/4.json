@@ -1,5 +1,33 @@
 [
     {
+        "title": "【財金系專題演講】10/25(五)14:00~16:00 The Effect of Lease accounting on Share Repurchases租賃會計對於股票買回之影響",
+        "timestamp": "1729221984",
+        "url": "mail_display.php?timestamp=1729221984",
+        "date": "2024/10/18 11:26",
+        "department": "財務金融學系",
+        "author": {
+            "department": "財務金融學系",
+            "name": "林役霜",
+            "email": "ys012@gms.ndhu.edu.tw",
+            "phone": "3133"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【課程活動轉發】 新創大學堂11月課程歡迎報名",
+        "timestamp": "1729220846",
+        "url": "mail_display.php?timestamp=1729220846",
+        "date": "2024/10/18 11:07",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "翁欣儀",
+            "email": "cari20240307@gms.ndhu.edu.tw",
+            "phone": "038221316"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【大師講座活動轉知】創意煉成術：破千萬流量的內容實戰心法",
         "timestamp": "1729218452",
         "url": "mail_display.php?timestamp=1729218452",
@@ -180,33 +208,5 @@
             "phone": "038906113"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【兵役資訊】內政部役政署113年度研發替代役役男報名及用人單位 甄選作業說明會，開放報名",
-        "timestamp": "1729209073",
-        "url": "mail_display.php?timestamp=1729209073",
-        "date": "2024/10/18 07:51",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "黃勇程",
-            "email": "victor0903@gms.ndhu.edu.tw",
-            "phone": "6225"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【ROTC招生訊息】國防部1 1 4年大學儲備軍官訓練團甄選(招生)簡章 宣導",
-        "timestamp": "1729208805",
-        "url": "mail_display.php?timestamp=1729208805",
-        "date": "2024/10/18 07:46",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "黃勇程",
-            "email": "victor0903@gms.ndhu.edu.tw",
-            "phone": "6225"
-        },
-        "attachmentCount": 1
     }
 ]
