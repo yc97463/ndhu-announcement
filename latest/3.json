@@ -1,5 +1,103 @@
 [
     {
+        "title": "【場地變更】【恭敬邀請】10/21「永續金融之學術趨勢」專題演講－國立台北大學池祥麟永續發展副校長",
+        "timestamp": "1729222827",
+        "url": "mail_display.php?timestamp=1729222827",
+        "date": "2024/10/18 11:40",
+        "department": "永續發展中心",
+        "author": {
+            "department": "永續發展中心",
+            "name": "李敏賢",
+            "email": "sd@gms.ndhu.edu.tw",
+            "phone": "5919"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【財金系專題演講】10/25(五)14:00~16:00 The Effect of Lease accounting on Share Repurchases租賃會計對於股票買回之影響",
+        "timestamp": "1729221984",
+        "url": "mail_display.php?timestamp=1729221984",
+        "date": "2024/10/18 11:26",
+        "department": "財務金融學系",
+        "author": {
+            "department": "財務金融學系",
+            "name": "林役霜",
+            "email": "ys012@gms.ndhu.edu.tw",
+            "phone": "3133"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【課程活動轉發】 新創大學堂11月課程歡迎報名",
+        "timestamp": "1729220846",
+        "url": "mail_display.php?timestamp=1729220846",
+        "date": "2024/10/18 11:07",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "翁欣儀",
+            "email": "cari20240307@gms.ndhu.edu.tw",
+            "phone": "038221316"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【大師講座活動轉知】創意煉成術：破千萬流量的內容實戰心法",
+        "timestamp": "1729218452",
+        "url": "mail_display.php?timestamp=1729218452",
+        "date": "2024/10/18 10:27",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "翁欣儀",
+            "email": "cari20240307@gms.ndhu.edu.tw",
+            "phone": "038221316"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "職業認識講座-特教輔導員的職涯抉擇歷程",
+        "timestamp": "1729216322",
+        "url": "mail_display.php?timestamp=1729216322",
+        "date": "2024/10/18 09:52",
+        "department": "心理諮商輔導中心",
+        "author": {
+            "department": "心理諮商輔導中心",
+            "name": "林賢謀",
+            "email": "lcm1460@gms.ndhu.edu.tw",
+            "phone": "6269"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【網路服務維運公告】TWAREN SSL-VPN維護公告",
+        "timestamp": "1729212867",
+        "url": "mail_display.php?timestamp=1729212867",
+        "date": "2024/10/18 08:54",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "李宇峰",
+            "email": "eric@mail.ndhu.edu.tw",
+            "phone": "038906721"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【交通安全宣導】行經路口時:請停 、看 、 聽 再go；可以有效降低交通事故。",
+        "timestamp": "1729210537",
+        "url": "mail_display.php?timestamp=1729210537",
+        "date": "2024/10/18 08:15",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "林嘉瑩",
+            "email": "tea7101@gms.ndhu.edu.tw",
+            "phone": "03-8906226"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "原來？這也叫新創？",
         "timestamp": "1729209309",
         "url": "mail_display.php?timestamp=1729209309",
@@ -110,103 +208,5 @@
             "phone": "5654"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "協助註冊組整理美崙校區學籍冊上架及其他交辦事項",
-        "timestamp": "1729209301",
-        "url": "mail_display.php?timestamp=1729209301",
-        "date": "2024/10/18 07:55",
-        "department": "教務處 註冊組",
-        "author": {
-            "department": "教務處 註冊組",
-            "name": "莊珆芸",
-            "email": "agnes@gms.ndhu.edu.tw",
-            "phone": "038906113"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【兵役資訊】內政部役政署113年度研發替代役役男報名及用人單位 甄選作業說明會，開放報名",
-        "timestamp": "1729209073",
-        "url": "mail_display.php?timestamp=1729209073",
-        "date": "2024/10/18 07:51",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "黃勇程",
-            "email": "victor0903@gms.ndhu.edu.tw",
-            "phone": "6225"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【ROTC招生訊息】國防部1 1 4年大學儲備軍官訓練團甄選(招生)簡章 宣導",
-        "timestamp": "1729208805",
-        "url": "mail_display.php?timestamp=1729208805",
-        "date": "2024/10/18 07:46",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "黃勇程",
-            "email": "victor0903@gms.ndhu.edu.tw",
-            "phone": "6225"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【計畫申請】⭐️勞動部114年度「補助大專校院辦理就業學程計畫」開始受理申請⭐️(本校申請期限：即日起至114年1月6日止)",
-        "timestamp": "1729157305",
-        "url": "mail_display.php?timestamp=1729157305",
-        "date": "2024/10/17 17:28",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "張雯婷",
-            "email": "kz02820@gms.ndhu.edu.tw",
-            "phone": "038906284"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "第三次公告~10/18勞僱型教職員工一般健康檢查(最後一天到校健檢)",
-        "timestamp": "1729157063",
-        "url": "mail_display.php?timestamp=1729157063",
-        "date": "2024/10/17 17:24",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "吳星穎",
-            "email": "carmier@gms.ndhu.edu.tw",
-            "phone": "8906252"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "2024校慶運動會田徑競賽規程及報名資訊",
-        "timestamp": "1729156904",
-        "url": "mail_display.php?timestamp=1729156904",
-        "date": "2024/10/17 17:21",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "莊璦綺",
-            "email": "ichi@gms.ndhu.edu.tw",
-            "phone": "6613"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "📢⪦ 2024東華秋藝季：《恐龍復活了！》一日音樂劇體驗營",
-        "timestamp": "1729154378",
-        "url": "mail_display.php?timestamp=1729154378",
-        "date": "2024/10/17 16:39",
-        "department": "藝術中心",
-        "author": {
-            "department": "藝術中心",
-            "name": "周葦綸",
-            "email": "arts@gms.ndhu.edu.tw",
-            "phone": "6606"
-        },
-        "attachmentCount": 7
     }
 ]

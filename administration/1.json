@@ -1,5 +1,33 @@
 [
     {
+        "title": "【健康宣導】時序進入秋冬，已到水痘好發季節，請大家做好水痘預防工作",
+        "timestamp": "1729472670",
+        "url": "mail_display.php?timestamp=1729472670",
+        "date": "2024/10/21 09:04",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "公文系統訂於113年10月22日(二)中午12~13時暫停服務公告",
+        "timestamp": "1729472104",
+        "url": "mail_display.php?timestamp=1729472104",
+        "date": "2024/10/21 08:55",
+        "department": "總務處文書組",
+        "author": {
+            "department": "總務處文書組",
+            "name": "張建中",
+            "email": "eric.chang@gms.ndhu.edu.tw",
+            "phone": "03-8906352"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【公告】教育部修正「教育部補(捐)助及委辦經費核撥結報作業要點」第5點及第4點附件1之1、附件1之2、附件1之3、附件2、第8點附件1之4、附件1之5、附件1之6",
         "timestamp": "1729334093",
         "url": "mail_display.php?timestamp=1729334093",
@@ -180,33 +208,5 @@
             "phone": "3804"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "The 77th Anniversary, Halal Food Festival in Anniversary Celebration of Hua-Shih College of Education清真美食饗宴-花師教育學院77周年慶活動",
-        "timestamp": "1729058511",
-        "url": "mail_display.php?timestamp=1729058511",
-        "date": "2024/10/16 14:01",
-        "department": "花師教育學院",
-        "author": {
-            "department": "花師教育學院",
-            "name": "賴小姐",
-            "email": "tll@gms.ndhu.edu.tw",
-            "phone": "(03)890-3804"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "113學年度「大專校院弱勢學生助學計畫」申請公告-(▲第三次公告)",
-        "timestamp": "1729051104",
-        "url": "mail_display.php?timestamp=1729051104",
-        "date": "2024/10/16 11:58",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "林黃漢穎",
-            "email": "henry30180@gms.ndhu.edu.tw",
-            "phone": "8906218"
-        },
-        "attachmentCount": 2
     }
 ]

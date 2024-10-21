@@ -1,5 +1,19 @@
 [
     {
+        "title": "【校園防疫宣導】登革熱、茲卡病毒感染症防護撇步",
+        "timestamp": "1729474097",
+        "url": "mail_display.php?timestamp=1729474097",
+        "date": "2024/10/21 09:28",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【重要通知】113-1學期各院自習空間期中考開放時段(公告更新)",
         "timestamp": "1729248527",
         "url": "mail_display.php?timestamp=1729248527",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【訊息轉知】輔仁大學開設「生命電影院─電影中的疾病與人生」磨課師(MOOCs)線上課程",
-        "timestamp": "1728890757",
-        "url": "mail_display.php?timestamp=1728890757",
-        "date": "2024/10/14 15:25",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 2
     }
 ]
