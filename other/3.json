@@ -1,5 +1,19 @@
 [
     {
+        "title": "【職涯探索】✨✨【YES就業力組合量表】線上測驗 一起探索全方位就業力! ✨✨",
+        "timestamp": "1728454933",
+        "url": "mail_display.php?timestamp=1728454933",
+        "date": "2024/10/09 14:22",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "檢附113年本校資深教職員工名冊，敬請於10月17日(星期四)前協助核對。",
         "timestamp": "1728441668",
         "url": "mail_display.php?timestamp=1728441668",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "東華電子報 | 2024年09月刊 |",
-        "timestamp": "1728019509",
-        "url": "mail_display.php?timestamp=1728019509",
-        "date": "2024/10/04 13:25",
-        "department": "秘書室公關宣傳組",
-        "author": {
-            "department": "秘書室公關宣傳組",
-            "name": "林佩瑤",
-            "email": "peiyao@gms.ndhu.edu.tw",
-            "phone": "6013"
-        },
-        "attachmentCount": 0
     }
 ]

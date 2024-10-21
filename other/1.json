@@ -1,5 +1,19 @@
 [
     {
+        "title": "【轉知】第28屆國家品質獎申請須知",
+        "timestamp": "1729487530",
+        "url": "mail_display.php?timestamp=1729487530",
+        "date": "2024/10/21 13:12",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "李淑淳",
+            "email": "chun@gms.ndhu.edu.tw",
+            "phone": "6522"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【訊息轉知】國立嘉義大學開設5門磨課師(MOOCs)線上課程",
         "timestamp": "1729482612",
         "url": "mail_display.php?timestamp=1729482612",
@@ -194,19 +208,5 @@
             "phone": "03-890-5920"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "第三次公告~10/17和10/18勞僱型教職員工一般健康檢查(延長補檢時間)",
-        "timestamp": "1728983609",
-        "url": "mail_display.php?timestamp=1728983609",
-        "date": "2024/10/15 17:13",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "吳星穎",
-            "email": "carmier@gms.ndhu.edu.tw",
-            "phone": "8906252"
-        },
-        "attachmentCount": 3
     }
 ]
