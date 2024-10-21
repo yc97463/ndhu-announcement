@@ -1,5 +1,19 @@
 [
     {
+        "title": "【Get it 跨域就業系列講座】 重大刑事案件辯護",
+        "timestamp": "1729122903",
+        "url": "mail_display.php?timestamp=1729122903",
+        "date": "2024/10/17 07:55",
+        "department": "人文社會科學學院 法律學系",
+        "author": {
+            "department": "人文社會科學學院 法律學系",
+            "name": "高蘇恩",
+            "email": "galaigai@gms.ndhu.edu.tw",
+            "phone": "5663"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【幼教系演講】程式教育向下扎根STEAM幼兒AI課程-推廣與實作",
         "timestamp": "1729122902",
         "url": "mail_display.php?timestamp=1729122902",
@@ -192,20 +206,6 @@
             "name": "王怡晴",
             "email": "yicwang@gms.ndhu.edu.tw",
             "phone": "03-8903936"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "升學大補帖",
-        "timestamp": "1729036552",
-        "url": "mail_display.php?timestamp=1729036552",
-        "date": "2024/10/16 07:55",
-        "department": "理工學院 化學系",
-        "author": {
-            "department": "理工學院 化學系",
-            "name": "黃翎欣",
-            "email": "u882025@gms.ndhu.edu.tw",
-            "phone": "3574"
         },
         "attachmentCount": 0
     }

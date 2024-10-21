@@ -1,5 +1,19 @@
 [
     {
+        "title": "【海外研究計畫】教育部試辦赴國外實驗機構研究計畫，選送學生赴國外實驗機構進行研究實習",
+        "timestamp": "1729519249",
+        "url": "mail_display.php?timestamp=1729519249",
+        "date": "2024/10/21 22:00",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【健康宣導】時序進入秋冬，已到水痘好發季節，請大家做好水痘預防工作",
         "timestamp": "1729472670",
         "url": "mail_display.php?timestamp=1729472670",
@@ -194,19 +208,5 @@
             "phone": "6523"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【清真美食饗宴】花師教育學院77周年院慶活動The 77th Anniversary, Halal Food Festival in Anniversary Celebration of Hua-Shih College of Education",
-        "timestamp": "1729123596",
-        "url": "mail_display.php?timestamp=1729123596",
-        "date": "2024/10/17 08:06",
-        "department": "花師教育學院",
-        "author": {
-            "department": "花師教育學院",
-            "name": "賴小姐",
-            "email": "tll@gms.ndhu.edu.tw",
-            "phone": "3804"
-        },
-        "attachmentCount": 4
     }
 ]

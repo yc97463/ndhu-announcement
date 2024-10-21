@@ -1,5 +1,19 @@
 [
     {
+        "title": "大學門及志學門車牌辨識系統測試公告。",
+        "timestamp": "1728352842",
+        "url": "mail_display.php?timestamp=1728352842",
+        "date": "2024/10/08 10:00",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "113年10月10日(週四)垃圾車暫停服務一天。Garbage truck removal services will be suspended for one day on October 10, 2024 (Thursday).",
         "timestamp": "1728346933",
         "url": "mail_display.php?timestamp=1728346933",
@@ -194,19 +208,5 @@
             "phone": "6060"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "Hualien County will suspend work and classes tomorrow（10/02）",
-        "timestamp": "1727785994",
-        "url": "mail_display.php?timestamp=1727785994",
-        "date": "2024/10/01 20:33",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 2
     }
 ]
