@@ -1,5 +1,19 @@
 [
     {
+        "title": "車輛違規紀錄請儘速以愛校服務或繳納處理費完成銷單。(第二次公告)",
+        "timestamp": "1728957962",
+        "url": "mail_display.php?timestamp=1728957962",
+        "date": "2024/10/15 10:06",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【海外研究計畫】教育部試辦赴國外實驗機構研究計畫，選送學生赴國外實驗機構進行研究實習",
         "timestamp": "1728955348",
         "url": "mail_display.php?timestamp=1728955348",
@@ -194,19 +208,5 @@
             "phone": "8906059"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "113學年度「大專校院弱勢學生助學計畫」申請公告-(▲第二次公告)",
-        "timestamp": "1728455837",
-        "url": "mail_display.php?timestamp=1728455837",
-        "date": "2024/10/09 14:37",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "林黃漢穎",
-            "email": "henry30180@gms.ndhu.edu.tw",
-            "phone": "8906218"
-        },
-        "attachmentCount": 2
     }
 ]

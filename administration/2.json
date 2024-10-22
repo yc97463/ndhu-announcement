@@ -1,5 +1,19 @@
 [
     {
+        "title": "【ROTC招生訊息】國防部1 1 4年大學儲備軍官訓練團甄選(招生)簡章 宣導",
+        "timestamp": "1729208805",
+        "url": "mail_display.php?timestamp=1729208805",
+        "date": "2024/10/18 07:46",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "6225"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "第三次公告~10/18勞僱型教職員工一般健康檢查(最後一天到校健檢)",
         "timestamp": "1729157063",
         "url": "mail_display.php?timestamp=1729157063",
@@ -194,19 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "車輛違規紀錄請儘速以愛校服務或繳納處理費完成銷單。(第二次公告)",
-        "timestamp": "1728957962",
-        "url": "mail_display.php?timestamp=1728957962",
-        "date": "2024/10/15 10:06",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 2
     }
 ]
