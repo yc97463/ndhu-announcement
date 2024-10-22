@@ -1,5 +1,33 @@
 [
     {
+        "title": "洄瀾校廉丶活力清廉~大專院校職涯倫理廉政工作坊",
+        "timestamp": "1729588770",
+        "url": "mail_display.php?timestamp=1729588770",
+        "date": "2024/10/22 17:19",
+        "department": "華語文中心",
+        "author": {
+            "department": "華語文中心",
+            "name": "林容華",
+            "email": "kattylin@gms.ndhu.edu.tw",
+            "phone": "038905248"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "📣🔊114年史懷哲精神教育服務計畫成員招募甄選中",
+        "timestamp": "1729588073",
+        "url": "mail_display.php?timestamp=1729588073",
+        "date": "2024/10/22 17:07",
+        "department": "師資培育中心",
+        "author": {
+            "department": "師資培育中心",
+            "name": "洪偉毓",
+            "email": "bigfishhwh@gms.ndhu.edu.tw",
+            "phone": "6648"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "【講座訊息】共融與創新：混合實境技術中的設計探索 (Inclusion and Innovation: Design in Mixed Reality Technology)",
         "timestamp": "1729566830",
         "url": "mail_display.php?timestamp=1729566830",
@@ -180,33 +208,5 @@
             "phone": "5112"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【活動轉知】國立臺中科技大學辦理線上「開放教育資源專題演講」",
-        "timestamp": "1729497608",
-        "url": "mail_display.php?timestamp=1729497608",
-        "date": "2024/10/21 16:00",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "038906422"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【活動轉知】國立臺灣海洋大學辦理「ChatGPT x Excel: 解鎖 AI 數據處理新技能」線上研習活動",
-        "timestamp": "1729497103",
-        "url": "mail_display.php?timestamp=1729497103",
-        "date": "2024/10/21 15:51",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "038906422"
-        },
-        "attachmentCount": 1
     }
 ]
