@@ -1,5 +1,47 @@
 [
     {
+        "title": "【轉知】「臺北市政府促進青年國際發展補助要點」歡迎踴躍申請",
+        "timestamp": "1729560558",
+        "url": "mail_display.php?timestamp=1729560558",
+        "date": "2024/10/22 09:29",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【第二次公告】資訊資產盤點暨風險評鑑教育訓練",
+        "timestamp": "1729560431",
+        "url": "mail_display.php?timestamp=1729560431",
+        "date": "2024/10/22 09:27",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "蕭澤宇",
+            "email": "zyhsiao@gms.ndhu.edu.tw",
+            "phone": "03-8906727"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【轉知】「113年學年度第2學期本部補助大學校院學生出國參加國際性學術技藝能競賽」申請流程",
+        "timestamp": "1729559955",
+        "url": "mail_display.php?timestamp=1729559955",
+        "date": "2024/10/22 09:19",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【海外研究計畫】教育部試辦赴國外實驗機構研究計畫，選送學生赴國外實驗機構進行研究實習",
         "timestamp": "1729519249",
         "url": "mail_display.php?timestamp=1729519249",
@@ -166,47 +208,5 @@
             "phone": "8906254"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【徵才公告】國立東華大學總務處出納組徵聘校務基金助理一名",
-        "timestamp": "1729147962",
-        "url": "mail_display.php?timestamp=1729147962",
-        "date": "2024/10/17 14:52",
-        "department": "總務處",
-        "author": {
-            "department": "總務處",
-            "name": "陳宇欽",
-            "email": "yuchin@gms.ndhu.edu.tw",
-            "phone": "6307"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
-        "timestamp": "1729147722",
-        "url": "mail_display.php?timestamp=1729147722",
-        "date": "2024/10/17 14:48",
-        "department": "圖書資訊處校務系統組",
-        "author": {
-            "department": "圖書資訊處校務系統組",
-            "name": "林志軒",
-            "email": "chshlin@gms.ndhu.edu.tw",
-            "phone": "6752"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【推廣教育】即日起至10月22日止受理績效酬勞核發(第二次通知)",
-        "timestamp": "1729143247",
-        "url": "mail_display.php?timestamp=1729143247",
-        "date": "2024/10/17 13:34",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "洪乃慈",
-            "email": "naitzu@gms.ndhu.edu.tw",
-            "phone": "6523"
-        },
-        "attachmentCount": 1
     }
 ]

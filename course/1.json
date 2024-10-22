@@ -1,5 +1,19 @@
 [
     {
+        "title": "【第二次公告】資訊資產盤點暨風險評鑑教育訓練",
+        "timestamp": "1729560431",
+        "url": "mail_display.php?timestamp=1729560431",
+        "date": "2024/10/22 09:27",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "蕭澤宇",
+            "email": "zyhsiao@gms.ndhu.edu.tw",
+            "phone": "03-8906727"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【課程活動轉發】 新創大學堂11月課程歡迎報名",
         "timestamp": "1729220846",
         "url": "mail_display.php?timestamp=1729220846",
@@ -194,19 +208,5 @@
             "phone": "5603"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "國家環境研究院113年淨零大專到校推廣課程",
-        "timestamp": "1726717441",
-        "url": "mail_display.php?timestamp=1726717441",
-        "date": "2024/09/19 11:44",
-        "department": "永續發展中心",
-        "author": {
-            "department": "永續發展中心",
-            "name": "李敏賢",
-            "email": "sd@gms.ndhu.edu.tw",
-            "phone": "03-8905919"
-        },
-        "attachmentCount": 1
     }
 ]
