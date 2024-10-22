@@ -1,5 +1,33 @@
 [
     {
+        "title": "【講座訊息】共融與創新：混合實境技術中的設計探索 (Inclusion and Innovation: Design in Mixed Reality Technology)",
+        "timestamp": "1729566830",
+        "url": "mail_display.php?timestamp=1729566830",
+        "date": "2024/10/22 11:13",
+        "department": "花師教育學院",
+        "author": {
+            "department": "花師教育學院",
+            "name": "許趙瑩臻",
+            "email": "hsuchao@gms.ndhu.edu.tw",
+            "phone": "0935625369"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【講座公告】農業碳中和 11/7 陳柏青教授主講",
+        "timestamp": "1729562807",
+        "url": "mail_display.php?timestamp=1729562807",
+        "date": "2024/10/22 10:06",
+        "department": "永續發展中心",
+        "author": {
+            "department": "永續發展中心",
+            "name": "李敏賢",
+            "email": "jordanlee@gms.ndhu.edu.tw",
+            "phone": "5919"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【轉知】「臺北市政府促進青年國際發展補助要點」歡迎踴躍申請",
         "timestamp": "1729560558",
         "url": "mail_display.php?timestamp=1729560558",
@@ -180,33 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "【重要通知】113-1學期K書中心與各院自習空間期中考開放時段(第二次公告更新)",
-        "timestamp": "1729503342",
-        "url": "mail_display.php?timestamp=1729503342",
-        "date": "2024/10/21 17:35",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "林辰祐",
-            "email": "yolin@gms.ndhu.edu.tw",
-            "phone": "6577"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【活動】113-1 Lunchtime Chats! 午餐英語會話時間！！2024 Fall 󠀠",
-        "timestamp": "1729503189",
-        "url": "mail_display.php?timestamp=1729503189",
-        "date": "2024/10/21 17:33",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 1
     }
 ]
