@@ -1,5 +1,19 @@
 [
     {
+        "title": "【海外研究計畫】教育部試辦赴國外實驗機構研究計畫，選送學生赴國外實驗機構進行研究實習",
+        "timestamp": "1728955348",
+        "url": "mail_display.php?timestamp=1728955348",
+        "date": "2024/10/15 09:22",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "教職員工特殊健康檢查(從事特殊化學實驗者)",
         "timestamp": "1728889767",
         "url": "mail_display.php?timestamp=1728889767",
@@ -194,19 +208,5 @@
             "phone": "8906218"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【電腦教室公告】113年10 月10日國慶日，電腦教室不開放。The computer lab one will be closed on October 10, 2024.",
-        "timestamp": "1728454584",
-        "url": "mail_display.php?timestamp=1728454584",
-        "date": "2024/10/09 14:16",
-        "department": "圖書資訊處綜合業務組",
-        "author": {
-            "department": "圖書資訊處綜合業務組",
-            "name": "林循美",
-            "email": "cindy@gms.ndhu.edu.tw",
-            "phone": "8906774"
-        },
-        "attachmentCount": 0
     }
 ]

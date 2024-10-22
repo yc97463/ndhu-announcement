@@ -1,5 +1,47 @@
 [
     {
+        "title": "性平影展:希望-為愛重生",
+        "timestamp": "1729554901",
+        "url": "mail_display.php?timestamp=1729554901",
+        "date": "2024/10/22 07:55",
+        "department": "圖書資訊處 圖資服務組",
+        "author": {
+            "department": "圖書資訊處 圖資服務組",
+            "name": "廖銘珠",
+            "email": "min-judy@gms.ndhu.edu.tw",
+            "phone": "6855"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【海外研究計畫】教育部試辦赴國外實驗機構研究計畫，選送學生赴國外實驗機構進行研究實習",
+        "timestamp": "1729519249",
+        "url": "mail_display.php?timestamp=1729519249",
+        "date": "2024/10/21 22:00",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【轉知】正修科技大學「113年大專校院推動職涯輔導補助計畫」成果展",
+        "timestamp": "1729505441",
+        "url": "mail_display.php?timestamp=1729505441",
+        "date": "2024/10/21 18:10",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【轉知】113年度原住民取得技術士證照獎勵金計畫",
         "timestamp": "1729504789",
         "url": "mail_display.php?timestamp=1729504789",
@@ -164,48 +206,6 @@
             "name": "李淑淳",
             "email": "chun@gms.ndhu.edu.tw",
             "phone": "6522"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【訊息轉知】國立嘉義大學開設5門磨課師(MOOCs)線上課程",
-        "timestamp": "1729482612",
-        "url": "mail_display.php?timestamp=1729482612",
-        "date": "2024/10/21 11:50",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "【校園防疫宣導】登革熱、茲卡病毒感染症防護撇步",
-        "timestamp": "1729474097",
-        "url": "mail_display.php?timestamp=1729474097",
-        "date": "2024/10/21 09:28",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【健康宣導】時序進入秋冬，已到水痘好發季節，請大家做好水痘預防工作",
-        "timestamp": "1729472670",
-        "url": "mail_display.php?timestamp=1729472670",
-        "date": "2024/10/21 09:04",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
         },
         "attachmentCount": 1
     }

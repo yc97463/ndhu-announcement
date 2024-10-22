@@ -1,5 +1,47 @@
 [
     {
+        "title": "自我探索評量工作坊-發現我的職業適應力，提升我的職場存活率",
+        "timestamp": "1729223220",
+        "url": "mail_display.php?timestamp=1729223220",
+        "date": "2024/10/18 11:47",
+        "department": "心理諮商輔導中心",
+        "author": {
+            "department": "心理諮商輔導中心",
+            "name": "林賢謀",
+            "email": "lcm1460@gms.ndhu.edu.tw",
+            "phone": "6269"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "【場地變更】【恭敬邀請】10/21「永續金融之學術趨勢」專題演講－國立台北大學池祥麟永續發展副校長",
+        "timestamp": "1729222827",
+        "url": "mail_display.php?timestamp=1729222827",
+        "date": "2024/10/18 11:40",
+        "department": "永續發展中心",
+        "author": {
+            "department": "永續發展中心",
+            "name": "李敏賢",
+            "email": "sd@gms.ndhu.edu.tw",
+            "phone": "5919"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【財金系專題演講】10/25(五)14:00~16:00 The Effect of Lease accounting on Share Repurchases租賃會計對於股票買回之影響",
+        "timestamp": "1729221984",
+        "url": "mail_display.php?timestamp=1729221984",
+        "date": "2024/10/18 11:26",
+        "department": "財務金融學系",
+        "author": {
+            "department": "財務金融學系",
+            "name": "林役霜",
+            "email": "ys012@gms.ndhu.edu.tw",
+            "phone": "3133"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【課程活動轉發】 新創大學堂11月課程歡迎報名",
         "timestamp": "1729220846",
         "url": "mail_display.php?timestamp=1729220846",
@@ -166,47 +208,5 @@
             "phone": "5663"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "華人工作適應探索工作坊(B場)",
-        "timestamp": "1729209302",
-        "url": "mail_display.php?timestamp=1729209302",
-        "date": "2024/10/18 07:55",
-        "department": "人文社會科學學院 諮商與臨床心理學系",
-        "author": {
-            "department": "人文社會科學學院 諮商與臨床心理學系",
-            "name": "王沂釗",
-            "email": "career2024@gms.ndhu.edu.tw",
-            "phone": "5654"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "協助註冊組整理美崙校區學籍冊上架及其他交辦事項",
-        "timestamp": "1729209301",
-        "url": "mail_display.php?timestamp=1729209301",
-        "date": "2024/10/18 07:55",
-        "department": "教務處 註冊組",
-        "author": {
-            "department": "教務處 註冊組",
-            "name": "莊珆芸",
-            "email": "agnes@gms.ndhu.edu.tw",
-            "phone": "038906113"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【兵役資訊】內政部役政署113年度研發替代役役男報名及用人單位 甄選作業說明會，開放報名",
-        "timestamp": "1729209073",
-        "url": "mail_display.php?timestamp=1729209073",
-        "date": "2024/10/18 07:51",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "黃勇程",
-            "email": "victor0903@gms.ndhu.edu.tw",
-            "phone": "6225"
-        },
-        "attachmentCount": 1
     }
 ]
