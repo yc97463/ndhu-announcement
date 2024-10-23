@@ -1,5 +1,19 @@
 [
     {
+        "title": "管理學院國際學士班迎新活動(管財)",
+        "timestamp": "1729641306",
+        "url": "mail_display.php?timestamp=1729641306",
+        "date": "2024/10/23 07:55",
+        "department": "管理學院 管理科學與財金國際學士學位學程",
+        "author": {
+            "department": "管理學院 管理科學與財金國際學士學位學程",
+            "name": "賴玟秀",
+            "email": "angela@gms.ndhu.edu.tw",
+            "phone": "3007"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "管理學院國際學士班迎新活動(會資)",
         "timestamp": "1729641305",
         "url": "mail_display.php?timestamp=1729641305",
@@ -192,20 +206,6 @@
             "name": "呂岳芳",
             "email": "carollu@gms.ndhu.edu.tw",
             "phone": "03-8905497"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【企管系暨運籌所】113-1 Language Lounge-Experience sharing(第三場)",
-        "timestamp": "1729554902",
-        "url": "mail_display.php?timestamp=1729554902",
-        "date": "2024/10/22 07:55",
-        "department": "管理學院 企業管理學系",
-        "author": {
-            "department": "管理學院 企業管理學系",
-            "name": "陳雅芳",
-            "email": "mayachen@gms.ndhu.edu.tw",
-            "phone": "3162"
         },
         "attachmentCount": 0
     }
