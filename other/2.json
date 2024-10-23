@@ -1,5 +1,19 @@
 [
     {
+        "title": "【課程活動轉發】 新創大學堂11月課程歡迎報名",
+        "timestamp": "1729220846",
+        "url": "mail_display.php?timestamp=1729220846",
+        "date": "2024/10/18 11:07",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "翁欣儀",
+            "email": "cari20240307@gms.ndhu.edu.tw",
+            "phone": "038221316"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【兵役資訊】內政部役政署113年度研發替代役役男報名及用人單位 甄選作業說明會，開放報名",
         "timestamp": "1729209073",
         "url": "mail_display.php?timestamp=1729209073",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【徵才】高雄市政府勞工局訓練就業中心113年10月26日現場徵才活動",
-        "timestamp": "1728885894",
-        "url": "mail_display.php?timestamp=1728885894",
-        "date": "2024/10/14 14:04",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
     }
 ]
