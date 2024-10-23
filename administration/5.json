@@ -1,5 +1,19 @@
 [
     {
+        "title": "向晴莊電梯1故障維修公告",
+        "timestamp": "1728281666",
+        "url": "mail_display.php?timestamp=1728281666",
+        "date": "2024/10/07 14:14",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【東華30年】🎊🎊本校30週年校慶標誌上網，歡迎多加利用🎊🎊",
         "timestamp": "1728279425",
         "url": "mail_display.php?timestamp=1728279425",
@@ -194,19 +208,5 @@
             "phone": "6329"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "113年10月1日垃圾車停止清運Garbage trucks will cease service on October 1, 2024",
-        "timestamp": "1727713229",
-        "url": "mail_display.php?timestamp=1727713229",
-        "date": "2024/10/01 00:20",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "許智翔",
-            "email": "cocco3746@gms.ndhu.edu.tw",
-            "phone": "03-8906399"
-        },
-        "attachmentCount": 0
     }
 ]

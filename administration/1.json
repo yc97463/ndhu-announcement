@@ -1,5 +1,19 @@
 [
     {
+        "title": "【公告】行政院主計總處修正「中央政府各機關派赴國外各地區出差人員生活費日支數額表」及「中央政府各機關派赴大陸地區、香港及澳門出差人員生活費日支數額表」自114年1月1日生效",
+        "timestamp": "1729677003",
+        "url": "mail_display.php?timestamp=1729677003",
+        "date": "2024/10/23 17:50",
+        "department": "主計室",
+        "author": {
+            "department": "主計室",
+            "name": "曾俊達",
+            "email": "kleiber0576@gms.ndhu.edu.tw",
+            "phone": "(03)8906079"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "明日(10/24)上午人社一館頂樓損壞鐵皮拆除公告",
         "timestamp": "1729673536",
         "url": "mail_display.php?timestamp=1729673536",
@@ -194,19 +208,5 @@
             "phone": "(03)8906086"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "行政院修正「行政院表揚模範公務人員要點」，並自113年10月4日生效",
-        "timestamp": "1729301602",
-        "url": "mail_display.php?timestamp=1729301602",
-        "date": "2024/10/19 09:33",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "劉昱淩",
-            "email": "e56187@gms.ndhu.edu.tw",
-            "phone": "890-6056"
-        },
-        "attachmentCount": 3
     }
 ]
