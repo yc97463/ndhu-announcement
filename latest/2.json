@@ -1,5 +1,19 @@
 [
     {
+        "title": "校園健走~一起感受美麗校園!!",
+        "timestamp": "1729662017",
+        "url": "mail_display.php?timestamp=1729662017",
+        "date": "2024/10/23 13:40",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "楊曉青",
+            "email": "cindy4434@gms.ndhu.edu.tw",
+            "phone": "8906254"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【課務組通知】113-1學期加選、加簽後學分(雜)費繳費通知 Credits Fee Payment (10/25-11/8)",
         "timestamp": "1729653695",
         "url": "mail_display.php?timestamp=1729653695",
@@ -192,20 +206,6 @@
             "name": "陳雅芳",
             "email": "mayachen@gms.ndhu.edu.tw",
             "phone": "3162"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "管理學院國際學士班迎新活動(貴賓、教職員)",
-        "timestamp": "1729641308",
-        "url": "mail_display.php?timestamp=1729641308",
-        "date": "2024/10/23 07:55",
-        "department": "管理學院 管理科學與財金國際學士學位學程",
-        "author": {
-            "department": "管理學院 管理科學與財金國際學士學位學程",
-            "name": "賴玟秀",
-            "email": "angela@gms.ndhu.edu.tw",
-            "phone": "3007"
         },
         "attachmentCount": 0
     }

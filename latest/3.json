@@ -1,5 +1,19 @@
 [
     {
+        "title": "管理學院國際學士班迎新活動(貴賓、教職員)",
+        "timestamp": "1729641308",
+        "url": "mail_display.php?timestamp=1729641308",
+        "date": "2024/10/23 07:55",
+        "department": "管理學院 管理科學與財金國際學士學位學程",
+        "author": {
+            "department": "管理學院 管理科學與財金國際學士學位學程",
+            "name": "賴玟秀",
+            "email": "angela@gms.ndhu.edu.tw",
+            "phone": "3007"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "管理學院國際學士班迎新活動(數位行銷)",
         "timestamp": "1729641307",
         "url": "mail_display.php?timestamp=1729641307",
@@ -194,19 +208,5 @@
             "phone": "6057"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "原公告勞僱型教職員工一般健康檢查暨特殊健康檢查到院補檢因故取消",
-        "timestamp": "1729576909",
-        "url": "mail_display.php?timestamp=1729576909",
-        "date": "2024/10/22 14:01",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "吳星穎",
-            "email": "carmier@gms.ndhu.edu.tw",
-            "phone": "8906252"
-        },
-        "attachmentCount": 0
     }
 ]

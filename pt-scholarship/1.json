@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】本校113年度「紀念張欽松先生馬拉松獎學金」",
+        "timestamp": "1729695543",
+        "url": "mail_display.php?timestamp=1729695543",
+        "date": "2024/10/23 22:59",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】嘉義西區扶輪社教育事務基金會第20屆獎學金 (限設籍嘉義縣市)",
         "timestamp": "1729693853",
         "url": "mail_display.php?timestamp=1729693853",
@@ -192,20 +206,6 @@
             "name": "周葦綸",
             "email": "arts@gms.ndhu.edu.tw",
             "phone": "6606"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【徵才公告】 113-1 學期-指定時段大學伴招募~急招!!!",
-        "timestamp": "1728620822",
-        "url": "mail_display.php?timestamp=1728620822",
-        "date": "2024/10/11 12:27",
-        "department": "花師教育學院",
-        "author": {
-            "department": "花師教育學院",
-            "name": "李宛玲",
-            "email": "etutor_c226@gms.ndhu.edu.tw",
-            "phone": "890-3816"
         },
         "attachmentCount": 2
     }
