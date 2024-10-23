@@ -1,5 +1,19 @@
 [
     {
+        "title": "騎牛、覓牛與 見性",
+        "timestamp": "1729692686",
+        "url": "mail_display.php?timestamp=1729692686",
+        "date": "2024/10/23 22:11",
+        "department": "物理學系",
+        "author": {
+            "department": "物理學系",
+            "name": "彭文平",
+            "email": "pengw@gms.ndhu.edu.tw",
+            "phone": "8903733"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】開元宗門文教基金會「113年度獎學金」 (限家境清寒)",
         "timestamp": "1729690915",
         "url": "mail_display.php?timestamp=1729690915",
@@ -194,19 +208,5 @@
             "phone": "6122-6126"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【簡章更新】「教育部與世界百大合作設置獎學金」甄選簡章1份如附件，歡迎踴躍申請。",
-        "timestamp": "1729651196",
-        "url": "mail_display.php?timestamp=1729651196",
-        "date": "2024/10/23 10:39",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 3
     }
 ]

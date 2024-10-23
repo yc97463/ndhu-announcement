@@ -1,5 +1,19 @@
 [
     {
+        "title": "【專題演講】10/25(五)_A從使用性到人智共生：互動設計的典範轉移",
+        "timestamp": "1729554905",
+        "url": "mail_display.php?timestamp=1729554905",
+        "date": "2024/10/22 07:55",
+        "department": "理工學院 電機工程學系",
+        "author": {
+            "department": "理工學院 電機工程學系",
+            "name": "邱昭儒",
+            "email": "senorita@gms.ndhu.edu.tw",
+            "phone": "5063"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【資工系專題講座】10/25(五) 國立臺灣大學 創新領域學士學位學程 蔡文傑教授",
         "timestamp": "1729554904",
         "url": "mail_display.php?timestamp=1729554904",
@@ -192,20 +206,6 @@
             "name": "林祐瑄",
             "email": "yslin1120@gms.ndhu.edu.tw",
             "phone": "03-8905277"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【Campus Screening Project】Beyond Beauty - Taiwan from Above 小小齊柏林·看見台灣校園公播計畫-從高空看見我們的家園",
-        "timestamp": "1729395565",
-        "url": "mail_display.php?timestamp=1729395565",
-        "date": "2024/10/20 11:39",
-        "department": "永續發展中心",
-        "author": {
-            "department": "永續發展中心",
-            "name": "李莉莉 Li-Li Lee",
-            "email": "lily@gms.ndhu.edu.tw",
-            "phone": "03-890-5920"
         },
         "attachmentCount": 1
     }

@@ -1,5 +1,19 @@
 [
     {
+        "title": "管理學院國際學士班迎新活動(管財)",
+        "timestamp": "1729641306",
+        "url": "mail_display.php?timestamp=1729641306",
+        "date": "2024/10/23 07:55",
+        "department": "管理學院 管理科學與財金國際學士學位學程",
+        "author": {
+            "department": "管理學院 管理科學與財金國際學士學位學程",
+            "name": "賴玟秀",
+            "email": "angela@gms.ndhu.edu.tw",
+            "phone": "3007"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "管理學院國際學士班迎新活動(會資)",
         "timestamp": "1729641305",
         "url": "mail_display.php?timestamp=1729641305",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "沁月莊113年10月24日停電通知",
-        "timestamp": "1729574243",
-        "url": "mail_display.php?timestamp=1729574243",
-        "date": "2024/10/22 13:17",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
     }
 ]
