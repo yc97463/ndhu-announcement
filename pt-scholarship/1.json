@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】開元宗門文教基金會「113年度獎學金」 (限家境清寒)",
+        "timestamp": "1729690915",
+        "url": "mail_display.php?timestamp=1729690915",
+        "date": "2024/10/23 21:41",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】花蓮縣國際崇她花蓮社113年獎助學金 (限花蓮縣籍女性學生)",
         "timestamp": "1729672765",
         "url": "mail_display.php?timestamp=1729672765",
@@ -194,19 +208,5 @@
             "phone": "5107"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【轉知】「教育部與世界百大合作設置獎學金」甄選簡章1份如附件，歡迎踴躍申請。",
-        "timestamp": "1728462407",
-        "url": "mail_display.php?timestamp=1728462407",
-        "date": "2024/10/09 16:26",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 3
     }
 ]

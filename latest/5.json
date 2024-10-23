@@ -1,5 +1,19 @@
 [
     {
+        "title": "【重要通知】113-1學期K書中心與各院自習空間期中考開放時段(第二次公告更新)",
+        "timestamp": "1729503342",
+        "url": "mail_display.php?timestamp=1729503342",
+        "date": "2024/10/21 17:35",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "林辰祐",
+            "email": "yolin@gms.ndhu.edu.tw",
+            "phone": "6577"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【活動】113-1 Lunchtime Chats! 午餐英語會話時間！！2024 Fall 󠀠",
         "timestamp": "1729503189",
         "url": "mail_display.php?timestamp=1729503189",
@@ -194,19 +208,5 @@
             "phone": "03-8906352"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "2025第12屆「華山論見」教育學術研討會徵稿公告",
-        "timestamp": "1729471083",
-        "url": "mail_display.php?timestamp=1729471083",
-        "date": "2024/10/21 08:38",
-        "department": "教育與潛能開發學系",
-        "author": {
-            "department": "教育與潛能開發學系",
-            "name": "溫小姐",
-            "email": "yuyu@gms.ndhu.edu.tw",
-            "phone": "3823"
-        },
-        "attachmentCount": 9
     }
 ]
