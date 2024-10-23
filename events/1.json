@@ -1,5 +1,19 @@
 [
     {
+        "title": "校園健走~一起感受美麗校園!!",
+        "timestamp": "1729662017",
+        "url": "mail_display.php?timestamp=1729662017",
+        "date": "2024/10/23 13:40",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "楊曉青",
+            "email": "cindy4434@gms.ndhu.edu.tw",
+            "phone": "8906254"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "屬於你的關鍵字---從自我探索開始創造未來",
         "timestamp": "1729641319",
         "url": "mail_display.php?timestamp=1729641319",
@@ -189,20 +203,6 @@
         "department": "管理學院 管理科學與財金國際學士學位學程",
         "author": {
             "department": "管理學院 管理科學與財金國際學士學位學程",
-            "name": "賴玟秀",
-            "email": "angela@gms.ndhu.edu.tw",
-            "phone": "3007"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "管理學院國際學士班迎新活動(會資)",
-        "timestamp": "1729641305",
-        "url": "mail_display.php?timestamp=1729641305",
-        "date": "2024/10/23 07:55",
-        "department": "管理學院 會計與資訊管理國際學士班",
-        "author": {
-            "department": "管理學院 會計與資訊管理國際學士班",
             "name": "賴玟秀",
             "email": "angela@gms.ndhu.edu.tw",
             "phone": "3007"
