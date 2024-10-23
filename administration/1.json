@@ -1,5 +1,19 @@
 [
     {
+        "title": "【課務組通知】113-1學期加選、加簽後學分(雜)費繳費通知 Credits Fee Payment (10/25-11/8)",
+        "timestamp": "1729653695",
+        "url": "mail_display.php?timestamp=1729653695",
+        "date": "2024/10/23 11:21",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113-1 學期「學業期中預警系統」啟動，請授課教師於11月/4日(週一)～11月/22日(週五)完成學生學業預警登錄。",
         "timestamp": "1729584580",
         "url": "mail_display.php?timestamp=1729584580",
@@ -194,19 +208,5 @@
             "phone": "03-8906226"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【兵役資訊】內政部役政署113年度研發替代役役男報名及用人單位 甄選作業說明會，開放報名",
-        "timestamp": "1729209073",
-        "url": "mail_display.php?timestamp=1729209073",
-        "date": "2024/10/18 07:51",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "黃勇程",
-            "email": "victor0903@gms.ndhu.edu.tw",
-            "phone": "6225"
-        },
-        "attachmentCount": 1
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "【兵役資訊】內政部役政署113年度研發替代役役男報名及用人單位 甄選作業說明會，開放報名",
+        "timestamp": "1729209073",
+        "url": "mail_display.php?timestamp=1729209073",
+        "date": "2024/10/18 07:51",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "6225"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【ROTC招生訊息】國防部1 1 4年大學儲備軍官訓練團甄選(招生)簡章 宣導",
         "timestamp": "1729208805",
         "url": "mail_display.php?timestamp=1729208805",
@@ -194,19 +208,5 @@
             "phone": "03-8906727"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "為進行理工二館A403教室冷氣安裝公告",
-        "timestamp": "1728971154",
-        "url": "mail_display.php?timestamp=1728971154",
-        "date": "2024/10/15 13:45",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
     }
 ]

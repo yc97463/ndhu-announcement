@@ -1,5 +1,19 @@
 [
     {
+        "title": "為進行理工二館A403教室冷氣安裝公告",
+        "timestamp": "1728971154",
+        "url": "mail_display.php?timestamp=1728971154",
+        "date": "2024/10/15 13:45",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "車輛違規紀錄請儘速以愛校服務或繳納處理費完成銷單。(第二次公告)",
         "timestamp": "1728957962",
         "url": "mail_display.php?timestamp=1728957962",
@@ -194,19 +208,5 @@
             "phone": "8906252"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "(人事室通知)離職儲金系統正式上線，謝謝大家。",
-        "timestamp": "1728456634",
-        "url": "mail_display.php?timestamp=1728456634",
-        "date": "2024/10/09 14:50",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "林淑惠",
-            "email": "linsh@gms.ndhu.edu.tw",
-            "phone": "8906059"
-        },
-        "attachmentCount": 1
     }
 ]

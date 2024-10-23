@@ -1,5 +1,19 @@
 [
     {
+        "title": "(人事室通知)離職儲金系統正式上線，謝謝大家。",
+        "timestamp": "1728456634",
+        "url": "mail_display.php?timestamp=1728456634",
+        "date": "2024/10/09 14:50",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "林淑惠",
+            "email": "linsh@gms.ndhu.edu.tw",
+            "phone": "8906059"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "113學年度「大專校院弱勢學生助學計畫」申請公告-(▲第二次公告)",
         "timestamp": "1728455837",
         "url": "mail_display.php?timestamp=1728455837",
@@ -194,19 +208,5 @@
             "phone": "6329"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【圖書館公告】國慶日【113.10.10 (四)】休館一日！ Library will be Closed for National Day on October 10, 2024",
-        "timestamp": "1728178178",
-        "url": "mail_display.php?timestamp=1728178178",
-        "date": "2024/10/06 09:29",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "詹依萍",
-            "email": "ipchan@gms.ndhu.edu.tw",
-            "phone": "6813"
-        },
-        "attachmentCount": 0
     }
 ]
