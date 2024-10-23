@@ -1,5 +1,19 @@
 [
     {
+        "title": "【企管系校友講座】企業家講座 (全國電子、高橋動物醫院、提拉米蘇精緻蛋糕)",
+        "timestamp": "1729641310",
+        "url": "mail_display.php?timestamp=1729641310",
+        "date": "2024/10/23 07:55",
+        "department": "管理學院 企業管理學系",
+        "author": {
+            "department": "管理學院 企業管理學系",
+            "name": "陳雅芳",
+            "email": "mayachen@gms.ndhu.edu.tw",
+            "phone": "3162"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【企管系校友講座】數位時代的管理 (台大工管系 黃俊堯教授)",
         "timestamp": "1729641309",
         "url": "mail_display.php?timestamp=1729641309",
@@ -194,19 +208,5 @@
             "phone": "6115"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【發社系-113-1民族講座】工作價值的實踐與反思",
-        "timestamp": "1729580823",
-        "url": "mail_display.php?timestamp=1729580823",
-        "date": "2024/10/22 15:07",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "楊助理",
-            "email": "ringo@gms.ndhu.edu.tw",
-            "phone": "5822"
-        },
-        "attachmentCount": 1
     }
 ]
