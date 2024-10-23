@@ -1,5 +1,33 @@
 [
     {
+        "title": "屬於你的關鍵字---從自我探索開始創造未來",
+        "timestamp": "1729641313",
+        "url": "mail_display.php?timestamp=1729641313",
+        "date": "2024/10/23 07:55",
+        "department": "心理諮商輔導中心 心理諮商組",
+        "author": {
+            "department": "心理諮商輔導中心 心理諮商組",
+            "name": "王淳羽",
+            "email": "smileevelyn@gms.ndhu.edu.tw",
+            "phone": "03-8906273"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【臺灣系】系友講座－GIS應用新視野：從專案管理到高效決策(線上出席報名)",
+        "timestamp": "1729641312",
+        "url": "mail_display.php?timestamp=1729641312",
+        "date": "2024/10/23 07:55",
+        "department": "人文社會科學學院 臺灣文化學系",
+        "author": {
+            "department": "人文社會科學學院 臺灣文化學系",
+            "name": "唐家渝",
+            "email": "abby0528@gms.ndhu.edu.tw",
+            "phone": "038905213"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【Djalan】 - Rikec學生會重啟交接儀式 （*限工作人員）",
         "timestamp": "1729641311",
         "url": "mail_display.php?timestamp=1729641311",
@@ -180,33 +208,5 @@
             "phone": "038905248"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "📣🔊114年史懷哲精神教育服務計畫成員招募甄選中",
-        "timestamp": "1729588073",
-        "url": "mail_display.php?timestamp=1729588073",
-        "date": "2024/10/22 17:07",
-        "department": "師資培育中心",
-        "author": {
-            "department": "師資培育中心",
-            "name": "洪偉毓",
-            "email": "bigfishhwh@gms.ndhu.edu.tw",
-            "phone": "6648"
-        },
-        "attachmentCount": 5
-    },
-    {
-        "title": "Open admission for Winter class!!!華語文中心冬季班招生囉！！！",
-        "timestamp": "1729586886",
-        "url": "mail_display.php?timestamp=1729586886",
-        "date": "2024/10/22 16:48",
-        "department": "華語文中心",
-        "author": {
-            "department": "華語文中心",
-            "name": "林容華",
-            "email": "kattylin@gms.ndhu.edu.tw",
-            "phone": "038905248"
-        },
-        "attachmentCount": 2
     }
 ]

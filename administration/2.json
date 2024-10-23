@@ -1,5 +1,19 @@
 [
     {
+        "title": "【網路服務維運公告】TWAREN SSL-VPN維護公告",
+        "timestamp": "1729212867",
+        "url": "mail_display.php?timestamp=1729212867",
+        "date": "2024/10/18 08:54",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "李宇峰",
+            "email": "eric@mail.ndhu.edu.tw",
+            "phone": "038906721"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【交通安全宣導】行經路口時:請停 、看 、 聽 再go；可以有效降低交通事故。",
         "timestamp": "1729210537",
         "url": "mail_display.php?timestamp=1729210537",
@@ -194,19 +208,5 @@
             "phone": "8906252"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "人社一館第一講堂頂樓防水施工公告 (10/16~11/16)",
-        "timestamp": "1728980473",
-        "url": "mail_display.php?timestamp=1728980473",
-        "date": "2024/10/15 16:21",
-        "department": "人文社會科學學院",
-        "author": {
-            "department": "人文社會科學學院",
-            "name": "吳雅萍",
-            "email": "ypwu@gms.ndhu.edu.tw",
-            "phone": "03-8905253"
-        },
-        "attachmentCount": 1
     }
 ]

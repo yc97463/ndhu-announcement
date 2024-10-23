@@ -1,5 +1,19 @@
 [
     {
+        "title": "向晴莊、涵星一莊、迎曦二莊及理工二館電 梯鋼索更新停用公告",
+        "timestamp": "1729670058",
+        "url": "mail_display.php?timestamp=1729670058",
+        "date": "2024/10/23 15:54",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "114年「全球優秀青年學子來臺蹲點計畫（TEEP）」計畫申請",
         "timestamp": "1729668898",
         "url": "mail_display.php?timestamp=1729668898",
@@ -194,19 +208,5 @@
             "phone": "6021"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【網路服務維運公告】TWAREN SSL-VPN維護公告",
-        "timestamp": "1729212867",
-        "url": "mail_display.php?timestamp=1729212867",
-        "date": "2024/10/18 08:54",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "李宇峰",
-            "email": "eric@mail.ndhu.edu.tw",
-            "phone": "038906721"
-        },
-        "attachmentCount": 1
     }
 ]

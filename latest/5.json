@@ -1,5 +1,33 @@
 [
     {
+        "title": "【活動轉知】國立臺灣海洋大學辦理「ChatGPT x Excel: 解鎖 AI 數據處理新技能」線上研習活動",
+        "timestamp": "1729497103",
+        "url": "mail_display.php?timestamp=1729497103",
+        "date": "2024/10/21 15:51",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "038906422"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【訊息轉知】國立政治大學開設6門磨課師(MOOCs)線上課程",
+        "timestamp": "1729496916",
+        "url": "mail_display.php?timestamp=1729496916",
+        "date": "2024/10/21 15:48",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "活動智慧能源社區行動-成果分享市集",
         "timestamp": "1729492062",
         "url": "mail_display.php?timestamp=1729492062",
@@ -171,34 +199,6 @@
         "title": "【花師教育學院 特殊教育學系】國立東華大學特殊教育學系2024 海峽兩岸特殊教育研討會－迎接融合教育新時代的來臨（Ⅲ）",
         "timestamp": "1729382103",
         "url": "mail_display.php?timestamp=1729382103",
-        "date": "2024/10/20 07:55",
-        "department": "花師教育學院 特殊教育學系",
-        "author": {
-            "department": "花師教育學院 特殊教育學系",
-            "name": "邱靜瑩",
-            "email": "olivia@gms.ndhu.edu.tw",
-            "phone": "（03）890-3872"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【花師教育學院 特殊教育學系】國立東華大學特殊教育學系2024 海峽兩岸特殊教育研討會－迎接融合教育新時代的來臨（Ⅱ）",
-        "timestamp": "1729382102",
-        "url": "mail_display.php?timestamp=1729382102",
-        "date": "2024/10/20 07:55",
-        "department": "花師教育學院 特殊教育學系",
-        "author": {
-            "department": "花師教育學院 特殊教育學系",
-            "name": "邱靜瑩",
-            "email": "olivia@gms.ndhu.edu.tw",
-            "phone": "（03）890-3872"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【花師教育學院 特殊教育學系】國立東華大學特殊教育學系2024 海峽兩岸特殊教育研討會－迎接融合教育新時代的來臨（Ⅰ）",
-        "timestamp": "1729382101",
-        "url": "mail_display.php?timestamp=1729382101",
         "date": "2024/10/20 07:55",
         "department": "花師教育學院 特殊教育學系",
         "author": {
