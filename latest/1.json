@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】嘉義西區扶輪社教育事務基金會第20屆獎學金 (限設籍嘉義縣市)",
+        "timestamp": "1729693853",
+        "url": "mail_display.php?timestamp=1729693853",
+        "date": "2024/10/23 22:30",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "騎牛、覓牛與 見性",
         "timestamp": "1729692686",
         "url": "mail_display.php?timestamp=1729692686",
@@ -194,19 +208,5 @@
             "phone": "8906254"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【課務組通知】113-1學期加選、加簽後學分(雜)費繳費通知 Credits Fee Payment (10/25-11/8)",
-        "timestamp": "1729653695",
-        "url": "mail_display.php?timestamp=1729653695",
-        "date": "2024/10/23 11:21",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "utd1003@gms.ndhu.edu.tw",
-            "phone": "6122-6126"
-        },
-        "attachmentCount": 0
     }
 ]

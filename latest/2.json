@@ -1,5 +1,19 @@
 [
     {
+        "title": "【課務組通知】113-1學期加選、加簽後學分(雜)費繳費通知 Credits Fee Payment (10/25-11/8)",
+        "timestamp": "1729653695",
+        "url": "mail_display.php?timestamp=1729653695",
+        "date": "2024/10/23 11:21",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【簡章更新】「教育部與世界百大合作設置獎學金」甄選簡章1份如附件，歡迎踴躍申請。",
         "timestamp": "1729651196",
         "url": "mail_display.php?timestamp=1729651196",
@@ -189,20 +203,6 @@
         "department": "管理學院 管理科學與財金國際學士學位學程",
         "author": {
             "department": "管理學院 管理科學與財金國際學士學位學程",
-            "name": "賴玟秀",
-            "email": "angela@gms.ndhu.edu.tw",
-            "phone": "3007"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "管理學院國際學士班迎新活動(數位行銷)",
-        "timestamp": "1729641307",
-        "url": "mail_display.php?timestamp=1729641307",
-        "date": "2024/10/23 07:55",
-        "department": "管理學院 數位行銷與服務創新國際學士班",
-        "author": {
-            "department": "管理學院 數位行銷與服務創新國際學士班",
             "name": "賴玟秀",
             "email": "angela@gms.ndhu.edu.tw",
             "phone": "3007"
