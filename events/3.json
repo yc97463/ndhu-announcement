@@ -1,5 +1,19 @@
 [
     {
+        "title": "【資工系專題講座】10/25(五) 國立臺灣大學 創新領域學士學位學程 蔡文傑教授",
+        "timestamp": "1729554904",
+        "url": "mail_display.php?timestamp=1729554904",
+        "date": "2024/10/22 07:55",
+        "department": "理工學院 資訊工程學系",
+        "author": {
+            "department": "理工學院 資訊工程學系",
+            "name": "葉子綺",
+            "email": "kiki2002@gms.ndhu.edu.tw",
+            "phone": "5012"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【週四法語角】113-1 French Lunch Hour 法文午餐會話時間 10/31 第4場 Session 4",
         "timestamp": "1729554903",
         "url": "mail_display.php?timestamp=1729554903",
@@ -194,19 +208,5 @@
             "phone": "03-890-5920"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【花師教育學院 特殊教育學系】國立東華大學特殊教育學系2024 海峽兩岸特殊教育研討會－迎接融合教育新時代的來臨（Ⅲ）",
-        "timestamp": "1729382103",
-        "url": "mail_display.php?timestamp=1729382103",
-        "date": "2024/10/20 07:55",
-        "department": "花師教育學院 特殊教育學系",
-        "author": {
-            "department": "花師教育學院 特殊教育學系",
-            "name": "邱靜瑩",
-            "email": "olivia@gms.ndhu.edu.tw",
-            "phone": "（03）890-3872"
-        },
-        "attachmentCount": 0
     }
 ]

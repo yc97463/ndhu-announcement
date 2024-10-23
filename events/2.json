@@ -1,5 +1,19 @@
 [
     {
+        "title": "管理學院國際學士班迎新活動(貴賓、教職員)",
+        "timestamp": "1729641308",
+        "url": "mail_display.php?timestamp=1729641308",
+        "date": "2024/10/23 07:55",
+        "department": "管理學院 管理科學與財金國際學士學位學程",
+        "author": {
+            "department": "管理學院 管理科學與財金國際學士學位學程",
+            "name": "賴玟秀",
+            "email": "angela@gms.ndhu.edu.tw",
+            "phone": "3007"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "管理學院國際學士班迎新活動(數位行銷)",
         "timestamp": "1729641307",
         "url": "mail_display.php?timestamp=1729641307",
@@ -192,20 +206,6 @@
             "name": "邱昭儒",
             "email": "senorita@gms.ndhu.edu.tw",
             "phone": "5063"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【資工系專題講座】10/25(五) 國立臺灣大學 創新領域學士學位學程 蔡文傑教授",
-        "timestamp": "1729554904",
-        "url": "mail_display.php?timestamp=1729554904",
-        "date": "2024/10/22 07:55",
-        "department": "理工學院 資訊工程學系",
-        "author": {
-            "department": "理工學院 資訊工程學系",
-            "name": "葉子綺",
-            "email": "kiki2002@gms.ndhu.edu.tw",
-            "phone": "5012"
         },
         "attachmentCount": 0
     }
