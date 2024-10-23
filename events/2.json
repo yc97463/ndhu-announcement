@@ -1,5 +1,19 @@
 [
     {
+        "title": "管理學院國際學士班迎新活動(數位行銷)",
+        "timestamp": "1729641307",
+        "url": "mail_display.php?timestamp=1729641307",
+        "date": "2024/10/23 07:55",
+        "department": "管理學院 數位行銷與服務創新國際學士班",
+        "author": {
+            "department": "管理學院 數位行銷與服務創新國際學士班",
+            "name": "賴玟秀",
+            "email": "angela@gms.ndhu.edu.tw",
+            "phone": "3007"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "管理學院國際學士班迎新活動(管財)",
         "timestamp": "1729641306",
         "url": "mail_display.php?timestamp=1729641306",
@@ -192,20 +206,6 @@
             "name": "葉子綺",
             "email": "kiki2002@gms.ndhu.edu.tw",
             "phone": "5012"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【週四法語角】113-1 French Lunch Hour 法文午餐會話時間 10/31 第4場 Session 4",
-        "timestamp": "1729554903",
-        "url": "mail_display.php?timestamp=1729554903",
-        "date": "2024/10/22 07:55",
-        "department": "洄瀾學院 語言中心",
-        "author": {
-            "department": "洄瀾學院 語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
         },
         "attachmentCount": 0
     }

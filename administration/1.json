@@ -1,5 +1,19 @@
 [
     {
+        "title": "明日(10/24)上午人社一館頂樓損壞鐵皮拆除公告",
+        "timestamp": "1729673536",
+        "url": "mail_display.php?timestamp=1729673536",
+        "date": "2024/10/23 16:52",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "黃章傑",
+            "email": "cotycafe@gms.ndhu.edu.tw",
+            "phone": "038905778"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "向晴莊、涵星一莊、迎曦二莊及理工二館電 梯鋼索更新停用公告",
         "timestamp": "1729670058",
         "url": "mail_display.php?timestamp=1729670058",
@@ -194,19 +208,5 @@
             "phone": "890-6056"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "⚖️校內也有免費法律諮詢啦⚖️",
-        "timestamp": "1729242935",
-        "url": "mail_display.php?timestamp=1729242935",
-        "date": "2024/10/18 17:15",
-        "department": "秘書室法制組",
-        "author": {
-            "department": "秘書室法制組",
-            "name": "阮念慈",
-            "email": "nt0701@gms.ndhu.edu.tw",
-            "phone": "6021"
-        },
-        "attachmentCount": 0
     }
 ]

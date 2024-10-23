@@ -1,5 +1,19 @@
 [
     {
+        "title": "【課程活動轉發】 新創大學堂11月課程歡迎報名",
+        "timestamp": "1729220846",
+        "url": "mail_display.php?timestamp=1729220846",
+        "date": "2024/10/18 11:07",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "翁欣儀",
+            "email": "cari20240307@gms.ndhu.edu.tw",
+            "phone": "038221316"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【大師講座活動轉知】創意煉成術：破千萬流量的內容實戰心法",
         "timestamp": "1729218452",
         "url": "mail_display.php?timestamp=1729218452",
@@ -194,19 +208,5 @@
             "phone": "6606"
         },
         "attachmentCount": 7
-    },
-    {
-        "title": "經濟部中小及新創企業署 AI服務團：推廣志工工作坊",
-        "timestamp": "1729147420",
-        "url": "mail_display.php?timestamp=1729147420",
-        "date": "2024/10/17 14:43",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "韓榮樂",
-            "email": "joyhan@gms.ndhu.edu.tw",
-            "phone": "3789"
-        },
-        "attachmentCount": 2
     }
 ]

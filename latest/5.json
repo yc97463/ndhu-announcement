@@ -1,5 +1,47 @@
 [
     {
+        "title": "【交通安全】天雨路滑視線不佳，請開啟大燈及減速慢行",
+        "timestamp": "1729501773",
+        "url": "mail_display.php?timestamp=1729501773",
+        "date": "2024/10/21 17:09",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "林嘉瑩",
+            "email": "tea7101@gms.ndhu.edu.tw",
+            "phone": "03-8906226"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【國際處招生組】活動轉知：2024年臺菲高中交流研討會議程及報名資訊",
+        "timestamp": "1729499610",
+        "url": "mail_display.php?timestamp=1729499610",
+        "date": "2024/10/21 16:33",
+        "department": "國際事務處國際招生組",
+        "author": {
+            "department": "國際事務處國際招生組",
+            "name": "陳輝庭",
+            "email": "harryserlerces@gms.ndhu.edu.tw",
+            "phone": "5112"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【訊息轉知】國立陽明交通大學開設「Affective Neuroscience for Healthcare Practitioners and Everyone」(MOOCs)線上課程",
+        "timestamp": "1729498099",
+        "url": "mail_display.php?timestamp=1729498099",
+        "date": "2024/10/21 16:08",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "038906422"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【活動轉知】國立臺中科技大學辦理線上「開放教育資源專題演講」",
         "timestamp": "1729497608",
         "url": "mail_display.php?timestamp=1729497608",
@@ -166,47 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "(線上)【113-1活動】11/11第3場_國界外的天空：進修、旅遊、展望未來 A Sky Beyond the Border: Study, Tour, and Future",
-        "timestamp": "1729468501",
-        "url": "mail_display.php?timestamp=1729468501",
-        "date": "2024/10/21 07:55",
-        "department": "洄瀾學院 語言中心",
-        "author": {
-            "department": "洄瀾學院 語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "10/22【笠詩社六十周年系列講座】東華大學場",
-        "timestamp": "1729439084",
-        "url": "mail_display.php?timestamp=1729439084",
-        "date": "2024/10/20 23:44",
-        "department": "楊牧文學研究中心",
-        "author": {
-            "department": "楊牧文學研究中心",
-            "name": "林祐瑄",
-            "email": "yslin1120@gms.ndhu.edu.tw",
-            "phone": "03-8905277"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【Campus Screening Project】Beyond Beauty - Taiwan from Above 小小齊柏林·看見台灣校園公播計畫-從高空看見我們的家園",
-        "timestamp": "1729395565",
-        "url": "mail_display.php?timestamp=1729395565",
-        "date": "2024/10/20 11:39",
-        "department": "永續發展中心",
-        "author": {
-            "department": "永續發展中心",
-            "name": "李莉莉 Li-Li Lee",
-            "email": "lily@gms.ndhu.edu.tw",
-            "phone": "03-890-5920"
-        },
-        "attachmentCount": 1
     }
 ]

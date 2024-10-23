@@ -1,5 +1,19 @@
 [
     {
+        "title": "⚖️校內也有免費法律諮詢啦⚖️",
+        "timestamp": "1729242935",
+        "url": "mail_display.php?timestamp=1729242935",
+        "date": "2024/10/18 17:15",
+        "department": "秘書室法制組",
+        "author": {
+            "department": "秘書室法制組",
+            "name": "阮念慈",
+            "email": "nt0701@gms.ndhu.edu.tw",
+            "phone": "6021"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【網路服務維運公告】TWAREN SSL-VPN維護公告",
         "timestamp": "1729212867",
         "url": "mail_display.php?timestamp=1729212867",
@@ -194,19 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "第二次公告~教職員工特殊健康檢查(從事特殊化學實驗者)(延長健檢時間)",
-        "timestamp": "1728983930",
-        "url": "mail_display.php?timestamp=1728983930",
-        "date": "2024/10/15 17:18",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "吳星穎",
-            "email": "carmier@gms.ndhu.edu.tw",
-            "phone": "8906252"
-        },
-        "attachmentCount": 3
     }
 ]
