@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】花蓮縣國際崇她花蓮社113年獎助學金 (限花蓮縣籍女性學生)",
+        "timestamp": "1729672765",
+        "url": "mail_display.php?timestamp=1729672765",
+        "date": "2024/10/23 16:39",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【簡章更新】「教育部與世界百大合作設置獎學金」甄選簡章1份如附件，歡迎踴躍申請。",
         "timestamp": "1729651196",
         "url": "mail_display.php?timestamp=1729651196",
@@ -194,19 +208,5 @@
             "phone": "5107"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【獎助學金申請】主計協進社113年主計獎學金 (限會計、統計相關科系)",
-        "timestamp": "1728455637",
-        "url": "mail_display.php?timestamp=1728455637",
-        "date": "2024/10/09 14:33",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]

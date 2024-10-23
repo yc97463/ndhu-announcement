@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】花蓮縣國際崇她花蓮社113年獎助學金 (限花蓮縣籍女性學生)",
+        "timestamp": "1729672765",
+        "url": "mail_display.php?timestamp=1729672765",
+        "date": "2024/10/23 16:39",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【實習】衛武營國家藝術文化中心「114年第一梯次領航就業實習計畫」(113年11月17日截止)",
         "timestamp": "1729670453",
         "url": "mail_display.php?timestamp=1729670453",
@@ -192,20 +206,6 @@
             "name": "莊月玲",
             "email": "trls@gms.ndhu.edu.tw",
             "phone": "5602"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【應數系演講】113-10-25 龔一鴻教授",
-        "timestamp": "1729641314",
-        "url": "mail_display.php?timestamp=1729641314",
-        "date": "2024/10/23 07:55",
-        "department": "理工學院 應用數學系",
-        "author": {
-            "department": "理工學院 應用數學系",
-            "name": "陳素琳",
-            "email": "chsulin@gms.ndhu.edu.tw",
-            "phone": "3561"
         },
         "attachmentCount": 0
     }

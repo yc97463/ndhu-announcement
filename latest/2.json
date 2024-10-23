@@ -1,5 +1,19 @@
 [
     {
+        "title": "【應數系演講】113-10-25 龔一鴻教授",
+        "timestamp": "1729641314",
+        "url": "mail_display.php?timestamp=1729641314",
+        "date": "2024/10/23 07:55",
+        "department": "理工學院 應用數學系",
+        "author": {
+            "department": "理工學院 應用數學系",
+            "name": "陳素琳",
+            "email": "chsulin@gms.ndhu.edu.tw",
+            "phone": "3561"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "屬於你的關鍵字---從自我探索開始創造未來",
         "timestamp": "1729641313",
         "url": "mail_display.php?timestamp=1729641313",
@@ -194,19 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "洄瀾校廉丶活力清廉~大專院校職涯倫理廉政工作坊",
-        "timestamp": "1729588770",
-        "url": "mail_display.php?timestamp=1729588770",
-        "date": "2024/10/22 17:19",
-        "department": "華語文中心",
-        "author": {
-            "department": "華語文中心",
-            "name": "林容華",
-            "email": "kattylin@gms.ndhu.edu.tw",
-            "phone": "038905248"
-        },
-        "attachmentCount": 3
     }
 ]
