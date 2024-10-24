@@ -1,5 +1,19 @@
 [
     {
+        "title": "行政大樓301簡報室施工公告",
+        "timestamp": "1729753915",
+        "url": "mail_display.php?timestamp=1729753915",
+        "date": "2024/10/24 15:11",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "邱健榮",
+            "email": "janus@gms.ndhu.edu.tw",
+            "phone": "6385"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【轉知】花蓮縣政府函轉勞動部辦理「114年全國模範勞工選拔」活動",
         "timestamp": "1729750459",
         "url": "mail_display.php?timestamp=1729750459",
@@ -194,19 +208,5 @@
             "phone": "03-8906226"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【訊息轉知】國立陽明交通大學開設「Affective Neuroscience for Healthcare Practitioners and Everyone」(MOOCs)線上課程",
-        "timestamp": "1729498099",
-        "url": "mail_display.php?timestamp=1729498099",
-        "date": "2024/10/21 16:08",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "038906422"
-        },
-        "attachmentCount": 2
     }
 ]

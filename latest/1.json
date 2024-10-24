@@ -1,5 +1,19 @@
 [
     {
+        "title": "行政大樓301簡報室施工公告",
+        "timestamp": "1729753915",
+        "url": "mail_display.php?timestamp=1729753915",
+        "date": "2024/10/24 15:11",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "邱健榮",
+            "email": "janus@gms.ndhu.edu.tw",
+            "phone": "6385"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "職業能力測驗與工作坊活動",
         "timestamp": "1729752160",
         "url": "mail_display.php?timestamp=1729752160",
@@ -192,20 +206,6 @@
             "name": "何銘俊",
             "email": "robert@gms.ndhu.edu.tw",
             "phone": "0911277821"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "113年「校友卓越講座」教育的百百種可能性  透過經驗與故事分享一些與孩子相處的小撇步",
-        "timestamp": "1729727708",
-        "url": "mail_display.php?timestamp=1729727708",
-        "date": "2024/10/24 07:55",
-        "department": "花師教育學院 教育行政與管理學系",
-        "author": {
-            "department": "花師教育學院 教育行政與管理學系",
-            "name": "黃韻竹",
-            "email": "xianyu865@gms.ndhu.edu.tw",
-            "phone": "3912"
         },
         "attachmentCount": 0
     }

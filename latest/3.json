@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵聘教師】國立東華大學藝術與設計學系徵聘專任教師2",
+        "timestamp": "1729674351",
+        "url": "mail_display.php?timestamp=1729674351",
+        "date": "2024/10/23 17:05",
+        "department": "藝術與設計學系",
+        "author": {
+            "department": "藝術與設計學系",
+            "name": "邱苡芳",
+            "email": "chiu91@gms.ndhu.edu.tw",
+            "phone": "5122"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "明日(10/24)上午人社一館頂樓損壞鐵皮拆除公告",
         "timestamp": "1729673536",
         "url": "mail_display.php?timestamp=1729673536",
@@ -192,20 +206,6 @@
             "name": "楊鵑穎",
             "email": "ringo@gms.ndhu.edu.tw",
             "phone": "5822"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "Introduction to Satellite Integration Test and Launch Site Process(書報討論修課同學請勿報名)\t",
-        "timestamp": "1729641316",
-        "url": "mail_display.php?timestamp=1729641316",
-        "date": "2024/10/23 07:55",
-        "department": "理工學院 物理學系",
-        "author": {
-            "department": "理工學院 物理學系",
-            "name": "劉芝葳",
-            "email": "811314201@gms.ndhu.edu.tw",
-            "phone": "0925385308"
         },
         "attachmentCount": 0
     }
