@@ -1,5 +1,19 @@
 [
     {
+        "title": "洄瀾學院體育中心助理兼救生員徵才公告",
+        "timestamp": "1729740985",
+        "url": "mail_display.php?timestamp=1729740985",
+        "date": "2024/10/24 11:36",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "莊璦綺",
+            "email": "ichi@gms.ndhu.edu.tw",
+            "phone": "6613"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵聘教師】國立東華大學藝術與設計學系徵聘專任教師2",
         "timestamp": "1729674351",
         "url": "mail_display.php?timestamp=1729674351",
@@ -194,19 +208,5 @@
             "phone": "8905179"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "洄瀾學院體育中心身心障礙專案助理徵才公告",
-        "timestamp": "1726714949",
-        "url": "mail_display.php?timestamp=1726714949",
-        "date": "2024/09/19 11:02",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "莊璦綺",
-            "email": "ichi@gms.ndhu.edu.tw",
-            "phone": "6613"
-        },
-        "attachmentCount": 0
     }
 ]

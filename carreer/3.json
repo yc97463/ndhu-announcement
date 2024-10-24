@@ -1,5 +1,19 @@
 [
     {
+        "title": "【更正起聘日】國立東華大學英美語文學系徵聘【行政助理】一名",
+        "timestamp": "1724749166",
+        "url": "mail_display.php?timestamp=1724749166",
+        "date": "2024/08/27 16:59",
+        "department": "英美語文學系",
+        "author": {
+            "department": "英美語文學系",
+            "name": "劉珮萱",
+            "email": "peisyaun639@gms.ndhu.edu.tw",
+            "phone": "5294"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113年度自資系楊悠娟老師國科會計畫專任暨兼任助理徵才",
         "timestamp": "1724721825",
         "url": "mail_display.php?timestamp=1724721825",
@@ -194,19 +208,5 @@
             "phone": "8903688"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【徵才公告】國立東華大學總務處環保組徵聘【校務基金助理】",
-        "timestamp": "1722926030",
-        "url": "mail_display.php?timestamp=1722926030",
-        "date": "2024/08/06 14:33",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "許智翔",
-            "email": "cocco3746@gms.ndhu.edu.tw",
-            "phone": "038906399"
-        },
-        "attachmentCount": 1
     }
 ]

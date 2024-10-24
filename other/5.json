@@ -1,5 +1,19 @@
 [
     {
+        "title": "【資料庫活動】「E書E語 推薦接力」電子書推廣活動",
+        "timestamp": "1728013717",
+        "url": "mail_display.php?timestamp=1728013717",
+        "date": "2024/10/04 11:48",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "陳昱佐",
+            "email": "yutuchen@ndhu.edu.tw",
+            "phone": "038906824"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【訊息轉知】國立高雄大學開設12門磨課師(MOOCs)線上課程",
         "timestamp": "1728006543",
         "url": "mail_display.php?timestamp=1728006543",
@@ -194,19 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【轉知】中原大學113年10月23日辦理「職涯發展暨就業學程歷程分享會」",
-        "timestamp": "1727170441",
-        "url": "mail_display.php?timestamp=1727170441",
-        "date": "2024/09/24 17:34",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
     }
 ]
