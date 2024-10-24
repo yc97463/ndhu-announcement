@@ -1,5 +1,19 @@
 [
     {
+        "title": "【Djalan】 - Rikec學生會重啟交接儀式 （*限工作人員）",
+        "timestamp": "1729641311",
+        "url": "mail_display.php?timestamp=1729641311",
+        "date": "2024/10/23 07:55",
+        "department": "學務處 原住民族學生資源中心",
+        "author": {
+            "department": "學務處 原住民族學生資源中心",
+            "name": "曾暐娟",
+            "email": "41104g001@gms.ndhu.edu.tw",
+            "phone": "朱璽恩 0921689326"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【企管系校友講座】企業家講座 (全國電子、高橋動物醫院、提拉米蘇精緻蛋糕)",
         "timestamp": "1729641310",
         "url": "mail_display.php?timestamp=1729641310",
@@ -194,19 +208,5 @@
             "phone": "038905248"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "113-1 學期「學業期中預警系統」啟動，請授課教師於11月/4日(週一)～11月/22日(週五)完成學生學業預警登錄。",
-        "timestamp": "1729584580",
-        "url": "mail_display.php?timestamp=1729584580",
-        "date": "2024/10/22 16:09",
-        "department": "教務處註冊組",
-        "author": {
-            "department": "教務處註冊組",
-            "name": "羅靖雯",
-            "email": "chage2000.tw@gms.ndhu.edu.tw",
-            "phone": "6115"
-        },
-        "attachmentCount": 4
     }
 ]

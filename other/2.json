@@ -1,5 +1,19 @@
 [
     {
+        "title": "活動智慧能源社區行動-成果分享市集",
+        "timestamp": "1729492062",
+        "url": "mail_display.php?timestamp=1729492062",
+        "date": "2024/10/21 14:27",
+        "department": "管理學院",
+        "author": {
+            "department": "管理學院",
+            "name": "韓榮樂",
+            "email": "joyhan@gms.ndhu.edu.tw",
+            "phone": "3789"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【轉知】第28屆國家品質獎申請須知",
         "timestamp": "1729487530",
         "url": "mail_display.php?timestamp=1729487530",
@@ -194,19 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【敬邀填寫】國立東華大學 2024 年利害關係人問卷",
-        "timestamp": "1728984174",
-        "url": "mail_display.php?timestamp=1728984174",
-        "date": "2024/10/15 17:22",
-        "department": "永續發展中心",
-        "author": {
-            "department": "永續發展中心",
-            "name": "李莉莉 Li-Li Lee",
-            "email": "sd@gms.ndhu.edu.tw",
-            "phone": "03-890-5920"
-        },
-        "attachmentCount": 1
     }
 ]
