@@ -1,5 +1,19 @@
 [
     {
+        "title": "113學年度(第10屆)大專生金融就業公益專班報名開跑，即日起至5/31止",
+        "timestamp": "1715653739",
+        "url": "mail_display.php?timestamp=1715653739",
+        "date": "2024/05/14 10:28",
+        "department": "財務金融學系",
+        "author": {
+            "department": "財務金融學系",
+            "name": "蔡季諭",
+            "email": "jiyu@gms.ndhu.edu.tw",
+            "phone": "8903132"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "112-2財金系五年修讀學碩士學位申請即日起開始至5/17止",
         "timestamp": "1715652357",
         "url": "mail_display.php?timestamp=1715652357",
@@ -194,19 +208,5 @@
             "phone": "6652"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【線上課程報名中】112-2專案財務管理與行銷－掌握流量的影音影響力🔥",
-        "timestamp": "1714476775",
-        "url": "mail_display.php?timestamp=1714476775",
-        "date": "2024/04/30 19:32",
-        "department": "社會參與中心",
-        "author": {
-            "department": "社會參與中心",
-            "name": "葉小姐",
-            "email": "spcndhu@gms.ndhu.edu.tw",
-            "phone": "5244"
-        },
-        "attachmentCount": 3
     }
 ]

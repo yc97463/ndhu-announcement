@@ -1,5 +1,47 @@
 [
     {
+        "title": "【獎助學金申請】開元宗門文教基金會「113年度獎學金」 (限家境清寒)",
+        "timestamp": "1729690915",
+        "url": "mail_display.php?timestamp=1729690915",
+        "date": "2024/10/23 21:41",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【健康促進活動】BLS(基本救命術)證照班，取得兩年效期合格證明，還有名額，報名從速!",
+        "timestamp": "1729686631",
+        "url": "mail_display.php?timestamp=1729686631",
+        "date": "2024/10/23 20:30",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【公告】行政院主計總處修正「中央政府各機關派赴國外各地區出差人員生活費日支數額表」及「中央政府各機關派赴大陸地區、香港及澳門出差人員生活費日支數額表」自114年1月1日生效",
+        "timestamp": "1729677003",
+        "url": "mail_display.php?timestamp=1729677003",
+        "date": "2024/10/23 17:50",
+        "department": "主計室",
+        "author": {
+            "department": "主計室",
+            "name": "曾俊達",
+            "email": "kleiber0576@gms.ndhu.edu.tw",
+            "phone": "(03)8906079"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "113-1藝設系推廣課程：陶藝創作基礎班、岩彩、暗房等課程確定開課，延後報名至10月30日止~ ",
         "timestamp": "1729674934",
         "url": "mail_display.php?timestamp=1729674934",
@@ -166,47 +208,5 @@
             "phone": "5107"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【校園防疫宣導】登革熱、茲卡病毒感染症防護撇步",
-        "timestamp": "1729643827",
-        "url": "mail_display.php?timestamp=1729643827",
-        "date": "2024/10/23 08:37",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "屬於你的關鍵字---從自我探索開始創造未來",
-        "timestamp": "1729641319",
-        "url": "mail_display.php?timestamp=1729641319",
-        "date": "2024/10/23 07:55",
-        "department": "心理諮商輔導中心 心理諮商組",
-        "author": {
-            "department": "心理諮商輔導中心 心理諮商組",
-            "name": "王淳羽",
-            "email": "smileevelyn@gms.ndhu.edu.tw",
-            "phone": "03-8906273"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "南島語族樹皮布的故事-Tapa樹皮布工作營",
-        "timestamp": "1729641318",
-        "url": "mail_display.php?timestamp=1729641318",
-        "date": "2024/10/23 07:55",
-        "department": "學務處 原住民族學生資源中心",
-        "author": {
-            "department": "學務處 原住民族學生資源中心",
-            "name": "林佳儀",
-            "email": "tipus1120103@gms.ndhu.edu.tw",
-            "phone": "5718"
-        },
-        "attachmentCount": 0
     }
 ]

@@ -1,5 +1,47 @@
 [
     {
+        "title": "【交通安全宣導】違規行駛人行道之「汽、機車」可處1800元罰鍰",
+        "timestamp": "1729761046",
+        "url": "mail_display.php?timestamp=1729761046",
+        "date": "2024/10/24 17:10",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "林嘉瑩",
+            "email": "tea7101@gms.ndhu.edu.tw",
+            "phone": "03-8906226"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "2024/11/8~ 台、泰教育趨勢學術專題演講(2024 Taiwan and Thailand Education Trend Academic Lecture)",
+        "timestamp": "1729760196",
+        "url": "mail_display.php?timestamp=1729760196",
+        "date": "2024/10/24 16:56",
+        "department": "教育與潛能開發學系",
+        "author": {
+            "department": "教育與潛能開發學系",
+            "name": "溫小姐",
+            "email": "yuyu@gms.ndhu.edu.tw",
+            "phone": "3823"
+        },
+        "attachmentCount": 4
+    },
+    {
+        "title": "【課程推推✨】113-1 溝通表微課程報名開跑啦💬想拿通識一學分嗎? 火速報名詳見內文🔥",
+        "timestamp": "1729759603",
+        "url": "mail_display.php?timestamp=1729759603",
+        "date": "2024/10/24 16:46",
+        "department": "社會參與中心",
+        "author": {
+            "department": "社會參與中心",
+            "name": "黃小姐",
+            "email": "yuxuan22@gms.ndhu.edu.tw",
+            "phone": "5246"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "藝術學院塔樓施工公告",
         "timestamp": "1729757665",
         "url": "mail_display.php?timestamp=1729757665",
@@ -166,47 +208,5 @@
             "phone": "6606"
         },
         "attachmentCount": 7
-    },
-    {
-        "title": "轉知客家委員會「HAKKA客語輸入法」應用程式，歡迎多加利用。",
-        "timestamp": "1729732676",
-        "url": "mail_display.php?timestamp=1729732676",
-        "date": "2024/10/24 09:17",
-        "department": "圖書資訊處綜合業務組",
-        "author": {
-            "department": "圖書資訊處綜合業務組",
-            "name": "王奕筌",
-            "email": "w54760@gms.ndhu.edu.tw",
-            "phone": "6773"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "敬邀參加管理學院國際學士班113年度國際學士班聯合迎新",
-        "timestamp": "1729729294",
-        "url": "mail_display.php?timestamp=1729729294",
-        "date": "2024/10/24 08:21",
-        "department": "管理科學與財金國際學士學位學程",
-        "author": {
-            "department": "管理科學與財金國際學士學位學程",
-            "name": "賴玟秀",
-            "email": "angela@gms.ndhu.edu.tw",
-            "phone": "03-890-3007"
-        },
-        "attachmentCount": 5
-    },
-    {
-        "title": "四樓書庫整架 11/1 10:00~12:00",
-        "timestamp": "1729727710",
-        "url": "mail_display.php?timestamp=1729727710",
-        "date": "2024/10/24 07:55",
-        "department": "圖書資訊處 圖資服務組",
-        "author": {
-            "department": "圖書資訊處 圖資服務組",
-            "name": "何銘俊",
-            "email": "robert@gms.ndhu.edu.tw",
-            "phone": "0911277821"
-        },
-        "attachmentCount": 0
     }
 ]

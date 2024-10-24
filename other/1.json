@@ -1,5 +1,19 @@
 [
     {
+        "title": "【交通安全宣導】違規行駛人行道之「汽、機車」可處1800元罰鍰",
+        "timestamp": "1729761046",
+        "url": "mail_display.php?timestamp=1729761046",
+        "date": "2024/10/24 17:10",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "林嘉瑩",
+            "email": "tea7101@gms.ndhu.edu.tw",
+            "phone": "03-8906226"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "藝術學院塔樓施工公告",
         "timestamp": "1729757665",
         "url": "mail_display.php?timestamp=1729757665",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "【重要通知】113-1學期K書中心與各院自習空間期中考開放時段(第二次公告更新)",
-        "timestamp": "1729503342",
-        "url": "mail_display.php?timestamp=1729503342",
-        "date": "2024/10/21 17:35",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "林辰祐",
-            "email": "yolin@gms.ndhu.edu.tw",
-            "phone": "6577"
-        },
-        "attachmentCount": 2
     }
 ]

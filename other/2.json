@@ -1,5 +1,19 @@
 [
     {
+        "title": "【重要通知】113-1學期K書中心與各院自習空間期中考開放時段(第二次公告更新)",
+        "timestamp": "1729503342",
+        "url": "mail_display.php?timestamp=1729503342",
+        "date": "2024/10/21 17:35",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "林辰祐",
+            "email": "yolin@gms.ndhu.edu.tw",
+            "phone": "6577"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【交通安全】天雨路滑視線不佳，請開啟大燈及減速慢行",
         "timestamp": "1729501773",
         "url": "mail_display.php?timestamp=1729501773",
@@ -194,19 +208,5 @@
             "phone": "8906422"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【清真美食饗宴】花師教育學院77周年院慶活動The 77th Anniversary, Halal Food Festival in Anniversary Celebration of Hua-Shih College of Education",
-        "timestamp": "1729123596",
-        "url": "mail_display.php?timestamp=1729123596",
-        "date": "2024/10/17 08:06",
-        "department": "花師教育學院",
-        "author": {
-            "department": "花師教育學院",
-            "name": "賴小姐",
-            "email": "tll@gms.ndhu.edu.tw",
-            "phone": "3804"
-        },
-        "attachmentCount": 4
     }
 ]

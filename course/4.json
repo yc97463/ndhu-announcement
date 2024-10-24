@@ -1,5 +1,19 @@
 [
     {
+        "title": "【語傳系】首創「阿美族語口譯微學程」",
+        "timestamp": "1725585352",
+        "url": "mail_display.php?timestamp=1725585352",
+        "date": "2024/09/06 09:15",
+        "department": "原住民民族學院",
+        "author": {
+            "department": "原住民民族學院",
+            "name": "白靚",
+            "email": "damu@gms.ndhu.edu.tw",
+            "phone": "8905825"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "📢📢🔆113-1學期【起飛免費學習輔導課程，精彩好康不容錯過，快來把握機會！】🔆",
         "timestamp": "1725530737",
         "url": "mail_display.php?timestamp=1725530737",
@@ -194,19 +208,5 @@
             "phone": "8906607"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "113-1校核心通識課程異動(增開及停開課程)公告",
-        "timestamp": "1724735821",
-        "url": "mail_display.php?timestamp=1724735821",
-        "date": "2024/08/27 13:17",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 1
     }
 ]
