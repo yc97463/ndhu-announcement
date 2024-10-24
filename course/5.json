@@ -1,5 +1,33 @@
 [
     {
+        "title": "【教務處課務組】各學制新生(含轉學生、復學生)113-1網路選課  Freshmen Online Preliminary Course Selection ",
+        "timestamp": "1724652688",
+        "url": "mail_display.php?timestamp=1724652688",
+        "date": "2024/08/26 14:11",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "歡迎踴躍報名-半導體IC載板產業實務人才培育專班",
+        "timestamp": "1724291689",
+        "url": "mail_display.php?timestamp=1724291689",
+        "date": "2024/08/22 09:54",
+        "department": "材料科學與工程學系",
+        "author": {
+            "department": "材料科學與工程學系",
+            "name": "林淑玲",
+            "email": "shuling@gms.ndhu.edu.tw",
+            "phone": "03-8903204"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "📢【延長報名至8/23】原住民族廣播電台人才培育工作坊 Spii(夢想) 從東海岸起飛🔥🔥",
         "timestamp": "1724242622",
         "url": "mail_display.php?timestamp=1724242622",
@@ -180,33 +208,5 @@
             "phone": "6057"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "好康報報~113-1  VIP垂直整合專題(三)畜產經營探索與實作選課招募!",
-        "timestamp": "1723105883",
-        "url": "mail_display.php?timestamp=1723105883",
-        "date": "2024/08/08 16:31",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "洄瀾共好大學社會責任中心",
-            "email": "techusr@gms.ndhu.edu.tw",
-            "phone": "3770/3772"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "📢113年度【「Spii 從東海岸起飛」原住民族廣播電台人才培育工作坊】開放報名啦🔥🔥",
-        "timestamp": "1723096936",
-        "url": "mail_display.php?timestamp=1723096936",
-        "date": "2024/08/08 14:02",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "巴莉亞妲．蘇利伊",
-            "email": "damu@gms.ndhu.edu.tw",
-            "phone": "5824"
-        },
-        "attachmentCount": 4
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "🎉考選部國家考試宣導-職涯規劃-邁向公職之路",
+        "timestamp": "1729748791",
+        "url": "mail_display.php?timestamp=1729748791",
+        "date": "2024/10/24 13:46",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "溫小姐",
+            "email": "fengting0804@gms.ndhu.edu.tw",
+            "phone": "6282"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【113年「雙語浪潮」教師社群講座活動】「教育部教學實踐研究計畫申請經驗分享：以專業英語課程設計為例」",
         "timestamp": "1729590419",
         "url": "mail_display.php?timestamp=1729590419",
@@ -194,19 +208,5 @@
             "phone": "03-8905277"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "10/16【華文文學講座】勞淑珍 Sidse Laugesen老師",
-        "timestamp": "1728964174",
-        "url": "mail_display.php?timestamp=1728964174",
-        "date": "2024/10/15 11:49",
-        "department": "華文文學系",
-        "author": {
-            "department": "華文文學系",
-            "name": "伍佳雯",
-            "email": "sl@gms.ndhu.edu.tw",
-            "phone": "＃5262"
-        },
-        "attachmentCount": 2
     }
 ]

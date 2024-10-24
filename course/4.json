@@ -1,5 +1,33 @@
 [
     {
+        "title": "📢📢🔆113-1學期【起飛免費學習輔導課程，精彩好康不容錯過，快來把握機會！】🔆",
+        "timestamp": "1725530737",
+        "url": "mail_display.php?timestamp=1725530737",
+        "date": "2024/09/05 18:05",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "鄭淑亭",
+            "email": "ting@gms.ndhu.edu.tw",
+            "phone": "03-8906215"
+        },
+        "attachmentCount": 7
+    },
+    {
+        "title": "【體育中心公告】體育(一)第一週上課集合場地：體育館",
+        "timestamp": "1725527938",
+        "url": "mail_display.php?timestamp=1725527938",
+        "date": "2024/09/05 17:18",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "莊璦綺",
+            "email": "ichi@gms.ndhu.edu.tw",
+            "phone": "6613"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "公告113-1校核心通識課程-「職場倫理與工作態度」課程尚有名額，敬請踴躍加選課程",
         "timestamp": "1725523923",
         "url": "mail_display.php?timestamp=1725523923",
@@ -180,33 +208,5 @@
             "phone": "8906607"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【教務處課務組】各學制新生(含轉學生、復學生)113-1網路選課  Freshmen Online Preliminary Course Selection ",
-        "timestamp": "1724652688",
-        "url": "mail_display.php?timestamp=1724652688",
-        "date": "2024/08/26 14:11",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "utd1003@gms.ndhu.edu.tw",
-            "phone": "6122-6126"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "歡迎踴躍報名-半導體IC載板產業實務人才培育專班",
-        "timestamp": "1724291689",
-        "url": "mail_display.php?timestamp=1724291689",
-        "date": "2024/08/22 09:54",
-        "department": "材料科學與工程學系",
-        "author": {
-            "department": "材料科學與工程學系",
-            "name": "林淑玲",
-            "email": "shuling@gms.ndhu.edu.tw",
-            "phone": "03-8903204"
-        },
-        "attachmentCount": 4
     }
 ]
