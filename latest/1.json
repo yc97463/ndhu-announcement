@@ -1,5 +1,19 @@
 [
     {
+        "title": "藝術學院塔樓施工公告",
+        "timestamp": "1729757665",
+        "url": "mail_display.php?timestamp=1729757665",
+        "date": "2024/10/24 16:14",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "邱健榮",
+            "email": "janus@gms.ndhu.edu.tw",
+            "phone": "6385"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "行政大樓301簡報室施工公告",
         "timestamp": "1729753915",
         "url": "mail_display.php?timestamp=1729753915",
@@ -185,20 +199,6 @@
         "title": "四樓書庫整架 11/1 10:00~12:00",
         "timestamp": "1729727710",
         "url": "mail_display.php?timestamp=1729727710",
-        "date": "2024/10/24 07:55",
-        "department": "圖書資訊處 圖資服務組",
-        "author": {
-            "department": "圖書資訊處 圖資服務組",
-            "name": "何銘俊",
-            "email": "robert@gms.ndhu.edu.tw",
-            "phone": "0911277821"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "四樓書庫整架 10/29 10:00~12:00",
-        "timestamp": "1729727709",
-        "url": "mail_display.php?timestamp=1729727709",
         "date": "2024/10/24 07:55",
         "department": "圖書資訊處 圖資服務組",
         "author": {

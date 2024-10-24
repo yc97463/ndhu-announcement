@@ -1,5 +1,19 @@
 [
     {
+        "title": "113英美系校友系列講座(I)-從基層到主管，探討網路世界的人際素養與職業發展",
+        "timestamp": "1729641302",
+        "url": "mail_display.php?timestamp=1729641302",
+        "date": "2024/10/23 07:55",
+        "department": "人文社會科學學院 英美語文學系",
+        "author": {
+            "department": "人文社會科學學院 英美語文學系",
+            "name": "顏余珊",
+            "email": "shanshan221@gms.ndhu.edu.tw",
+            "phone": "03-8905292"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【華語博碩班】11、12月的中文角落活動 Chinese Corner activities in November and December",
         "timestamp": "1729604542",
         "url": "mail_display.php?timestamp=1729604542",
@@ -194,19 +208,5 @@
             "phone": "5107"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【第二次公告】資訊資產盤點暨風險評鑑教育訓練",
-        "timestamp": "1729560431",
-        "url": "mail_display.php?timestamp=1729560431",
-        "date": "2024/10/22 09:27",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "蕭澤宇",
-            "email": "zyhsiao@gms.ndhu.edu.tw",
-            "phone": "03-8906727"
-        },
-        "attachmentCount": 1
     }
 ]
