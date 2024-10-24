@@ -1,5 +1,19 @@
 [
     {
+        "title": "【113-1教行系研討會專題演講01】Hsien-Yuan Hsu 教授",
+        "timestamp": "1729727707",
+        "url": "mail_display.php?timestamp=1729727707",
+        "date": "2024/10/24 07:55",
+        "department": "花師教育學院 教育行政與管理學系",
+        "author": {
+            "department": "花師教育學院 教育行政與管理學系",
+            "name": "蔣慧姝",
+            "email": "huishu@gms.ndhu.edu.tw",
+            "phone": "038905556"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【材料系演講公告】10/28(一)15:10-17:00高熵合金銲接的凝固微觀結構演化行為",
         "timestamp": "1729727706",
         "url": "mail_display.php?timestamp=1729727706",
@@ -194,19 +208,5 @@
             "phone": "5122"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "明日(10/24)上午人社一館頂樓損壞鐵皮拆除公告",
-        "timestamp": "1729673536",
-        "url": "mail_display.php?timestamp=1729673536",
-        "date": "2024/10/23 16:52",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "黃章傑",
-            "email": "cotycafe@gms.ndhu.edu.tw",
-            "phone": "038905778"
-        },
-        "attachmentCount": 1
     }
 ]

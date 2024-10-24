@@ -1,5 +1,19 @@
 [
     {
+        "title": "【觀遊系觀光規劃概論專題講座】蘇秋萍兼任助理教授：一個人的華麗冒險~女性獨旅與賦權",
+        "timestamp": "1729641315",
+        "url": "mail_display.php?timestamp=1729641315",
+        "date": "2024/10/23 07:55",
+        "department": "管理學院 觀光暨休閒遊憩學系",
+        "author": {
+            "department": "管理學院 觀光暨休閒遊憩學系",
+            "name": "莊月玲",
+            "email": "trls@gms.ndhu.edu.tw",
+            "phone": "5602"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【應數系演講】113-10-25 龔一鴻教授",
         "timestamp": "1729641314",
         "url": "mail_display.php?timestamp=1729641314",
@@ -194,19 +208,5 @@
             "phone": "5402"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "【113年「雙語浪潮」教師社群講座活動】「教育部教學實踐研究計畫申請經驗分享：以專業英語課程設計為例」",
-        "timestamp": "1729590419",
-        "url": "mail_display.php?timestamp=1729590419",
-        "date": "2024/10/22 17:46",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 2
     }
 ]

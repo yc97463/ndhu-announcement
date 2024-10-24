@@ -1,5 +1,19 @@
 [
     {
+        "title": "職業能力測驗與工作坊活動",
+        "timestamp": "1729752160",
+        "url": "mail_display.php?timestamp=1729752160",
+        "date": "2024/10/24 14:42",
+        "department": "諮商與臨床心理學系",
+        "author": {
+            "department": "諮商與臨床心理學系",
+            "name": "王沂釗",
+            "email": "scholarwang@gms.ndhu.edu.tw",
+            "phone": "5654"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【轉知】花蓮縣政府函轉勞動部辦理「114年全國模範勞工選拔」活動",
         "timestamp": "1729750459",
         "url": "mail_display.php?timestamp=1729750459",
@@ -192,20 +206,6 @@
             "name": "黃韻竹",
             "email": "xianyu865@gms.ndhu.edu.tw",
             "phone": "3912"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【113-1教行系研討會專題演講01】Hsien-Yuan Hsu 教授",
-        "timestamp": "1729727707",
-        "url": "mail_display.php?timestamp=1729727707",
-        "date": "2024/10/24 07:55",
-        "department": "花師教育學院 教育行政與管理學系",
-        "author": {
-            "department": "花師教育學院 教育行政與管理學系",
-            "name": "蔣慧姝",
-            "email": "huishu@gms.ndhu.edu.tw",
-            "phone": "038905556"
         },
         "attachmentCount": 0
     }
