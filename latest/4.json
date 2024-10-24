@@ -1,5 +1,187 @@
 [
     {
+        "title": "管理學院國際學士班迎新活動(管財)",
+        "timestamp": "1729641306",
+        "url": "mail_display.php?timestamp=1729641306",
+        "date": "2024/10/23 07:55",
+        "department": "管理學院 管理科學與財金國際學士學位學程",
+        "author": {
+            "department": "管理學院 管理科學與財金國際學士學位學程",
+            "name": "賴玟秀",
+            "email": "angela@gms.ndhu.edu.tw",
+            "phone": "3007"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "管理學院國際學士班迎新活動(會資)",
+        "timestamp": "1729641305",
+        "url": "mail_display.php?timestamp=1729641305",
+        "date": "2024/10/23 07:55",
+        "department": "管理學院 會計與資訊管理國際學士班",
+        "author": {
+            "department": "管理學院 會計與資訊管理國際學士班",
+            "name": "賴玟秀",
+            "email": "angela@gms.ndhu.edu.tw",
+            "phone": "3007"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "國企系畢專成果展 工作人員（壁報展）",
+        "timestamp": "1729641304",
+        "url": "mail_display.php?timestamp=1729641304",
+        "date": "2024/10/23 07:55",
+        "department": "管理學院 國際企業學系",
+        "author": {
+            "department": "管理學院 國際企業學系",
+            "name": "蔡季芸",
+            "email": "411133010@gms.ndhu.edu.tw",
+            "phone": "0956597858"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "基本救命術訓練(CPR+AED+哈姆立克)【下午場】",
+        "timestamp": "1729641303",
+        "url": "mail_display.php?timestamp=1729641303",
+        "date": "2024/10/23 07:55",
+        "department": "師資培育中心 中等學程組",
+        "author": {
+            "department": "師資培育中心 中等學程組",
+            "name": "劉姵君",
+            "email": "amyliou@gms.ndhu.edu.tw",
+            "phone": "6632"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113英美系校友系列講座(I)-從基層到主管，探討網路世界的人際素養與職業發展",
+        "timestamp": "1729641302",
+        "url": "mail_display.php?timestamp=1729641302",
+        "date": "2024/10/23 07:55",
+        "department": "人文社會科學學院 英美語文學系",
+        "author": {
+            "department": "人文社會科學學院 英美語文學系",
+            "name": "顏余珊",
+            "email": "shanshan221@gms.ndhu.edu.tw",
+            "phone": "03-8905292"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【華語博碩班】11、12月的中文角落活動 Chinese Corner activities in November and December",
+        "timestamp": "1729604542",
+        "url": "mail_display.php?timestamp=1729604542",
+        "date": "2024/10/22 21:42",
+        "department": "華語文教學國際博士班",
+        "author": {
+            "department": "華語文教學國際博士班",
+            "name": "池助理",
+            "email": "tcsl@gms.ndhu.edu.tw",
+            "phone": "5402"
+        },
+        "attachmentCount": 6
+    },
+    {
+        "title": "【113年「雙語浪潮」教師社群講座活動】「教育部教學實踐研究計畫申請經驗分享：以專業英語課程設計為例」",
+        "timestamp": "1729590419",
+        "url": "mail_display.php?timestamp=1729590419",
+        "date": "2024/10/22 17:46",
+        "department": "語言中心",
+        "author": {
+            "department": "語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "洄瀾校廉丶活力清廉~大專院校職涯倫理廉政工作坊",
+        "timestamp": "1729588770",
+        "url": "mail_display.php?timestamp=1729588770",
+        "date": "2024/10/22 17:19",
+        "department": "華語文中心",
+        "author": {
+            "department": "華語文中心",
+            "name": "林容華",
+            "email": "kattylin@gms.ndhu.edu.tw",
+            "phone": "038905248"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "📣🔊114年史懷哲精神教育服務計畫成員招募甄選中",
+        "timestamp": "1729588073",
+        "url": "mail_display.php?timestamp=1729588073",
+        "date": "2024/10/22 17:07",
+        "department": "師資培育中心",
+        "author": {
+            "department": "師資培育中心",
+            "name": "洪偉毓",
+            "email": "bigfishhwh@gms.ndhu.edu.tw",
+            "phone": "6648"
+        },
+        "attachmentCount": 5
+    },
+    {
+        "title": "Open admission for Winter class!!!華語文中心冬季班招生囉！！！",
+        "timestamp": "1729586886",
+        "url": "mail_display.php?timestamp=1729586886",
+        "date": "2024/10/22 16:48",
+        "department": "華語文中心",
+        "author": {
+            "department": "華語文中心",
+            "name": "林容華",
+            "email": "kattylin@gms.ndhu.edu.tw",
+            "phone": "038905248"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "113-1 學期「學業期中預警系統」啟動，請授課教師於11月/4日(週一)～11月/22日(週五)完成學生學業預警登錄。",
+        "timestamp": "1729584580",
+        "url": "mail_display.php?timestamp=1729584580",
+        "date": "2024/10/22 16:09",
+        "department": "教務處註冊組",
+        "author": {
+            "department": "教務處註冊組",
+            "name": "羅靖雯",
+            "email": "chage2000.tw@gms.ndhu.edu.tw",
+            "phone": "6115"
+        },
+        "attachmentCount": 4
+    },
+    {
+        "title": "【發社系-113-1民族講座】工作價值的實踐與反思",
+        "timestamp": "1729580823",
+        "url": "mail_display.php?timestamp=1729580823",
+        "date": "2024/10/22 15:07",
+        "department": "原住民民族學院",
+        "author": {
+            "department": "原住民民族學院",
+            "name": "楊助理",
+            "email": "ringo@gms.ndhu.edu.tw",
+            "phone": "5822"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【公告】社團法人中華專業人才協會謹訂十一月份舉辦【113年冬季職場必備】課程活動，請踴躍報名參加。",
+        "timestamp": "1729577497",
+        "url": "mail_display.php?timestamp=1729577497",
+        "date": "2024/10/22 14:11",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "陳治豪",
+            "email": "jackchen168@gms.ndhu.edu.tw",
+            "phone": "6057"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "原公告勞僱型教職員工一般健康檢查暨特殊健康檢查到院補檢因故取消",
         "timestamp": "1729576909",
         "url": "mail_display.php?timestamp=1729576909",
@@ -26,187 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "沁月莊113年10月24日停電通知",
-        "timestamp": "1729574243",
-        "url": "mail_display.php?timestamp=1729574243",
-        "date": "2024/10/22 13:17",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【講座訊息】共融與創新：混合實境技術中的設計探索 (Inclusion and Innovation: Design in Mixed Reality Technology)",
-        "timestamp": "1729566830",
-        "url": "mail_display.php?timestamp=1729566830",
-        "date": "2024/10/22 11:13",
-        "department": "花師教育學院",
-        "author": {
-            "department": "花師教育學院",
-            "name": "許趙瑩臻",
-            "email": "hsuchao@gms.ndhu.edu.tw",
-            "phone": "0935625369"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【講座公告】農業碳中和 11/7 陳柏青教授主講",
-        "timestamp": "1729562807",
-        "url": "mail_display.php?timestamp=1729562807",
-        "date": "2024/10/22 10:06",
-        "department": "永續發展中心",
-        "author": {
-            "department": "永續發展中心",
-            "name": "李敏賢",
-            "email": "jordanlee@gms.ndhu.edu.tw",
-            "phone": "5919"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【轉知】「臺北市政府促進青年國際發展補助要點」歡迎踴躍申請",
-        "timestamp": "1729560558",
-        "url": "mail_display.php?timestamp=1729560558",
-        "date": "2024/10/22 09:29",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【第二次公告】資訊資產盤點暨風險評鑑教育訓練",
-        "timestamp": "1729560431",
-        "url": "mail_display.php?timestamp=1729560431",
-        "date": "2024/10/22 09:27",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "蕭澤宇",
-            "email": "zyhsiao@gms.ndhu.edu.tw",
-            "phone": "03-8906727"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【轉知】「113年學年度第2學期本部補助大學校院學生出國參加國際性學術技藝能競賽」申請流程",
-        "timestamp": "1729559955",
-        "url": "mail_display.php?timestamp=1729559955",
-        "date": "2024/10/22 09:19",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "(限本系大二(含)學生以上參加)社會學系2025年日本移地教學說明會",
-        "timestamp": "1729554907",
-        "url": "mail_display.php?timestamp=1729554907",
-        "date": "2024/10/22 07:55",
-        "department": "人文社會科學學院 社會學系",
-        "author": {
-            "department": "人文社會科學學院 社會學系",
-            "name": "葉珮芳",
-            "email": "",
-            "phone": "41114B020@gms.ndhu.edu.tw"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "淺論化學實驗室安全管理",
-        "timestamp": "1729554906",
-        "url": "mail_display.php?timestamp=1729554906",
-        "date": "2024/10/22 07:55",
-        "department": "總務處 環境保護組",
-        "author": {
-            "department": "總務處 環境保護組",
-            "name": "陳俐穎",
-            "email": "aspen@gms.ndhu.edu.tw",
-            "phone": "03-8906392"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【專題演講】10/25(五)_A從使用性到人智共生：互動設計的典範轉移",
-        "timestamp": "1729554905",
-        "url": "mail_display.php?timestamp=1729554905",
-        "date": "2024/10/22 07:55",
-        "department": "理工學院 電機工程學系",
-        "author": {
-            "department": "理工學院 電機工程學系",
-            "name": "邱昭儒",
-            "email": "senorita@gms.ndhu.edu.tw",
-            "phone": "5063"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【資工系專題講座】10/25(五) 國立臺灣大學 創新領域學士學位學程 蔡文傑教授",
-        "timestamp": "1729554904",
-        "url": "mail_display.php?timestamp=1729554904",
-        "date": "2024/10/22 07:55",
-        "department": "理工學院 資訊工程學系",
-        "author": {
-            "department": "理工學院 資訊工程學系",
-            "name": "葉子綺",
-            "email": "kiki2002@gms.ndhu.edu.tw",
-            "phone": "5012"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【週四法語角】113-1 French Lunch Hour 法文午餐會話時間 10/31 第4場 Session 4",
-        "timestamp": "1729554903",
-        "url": "mail_display.php?timestamp=1729554903",
-        "date": "2024/10/22 07:55",
-        "department": "洄瀾學院 語言中心",
-        "author": {
-            "department": "洄瀾學院 語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【企管系暨運籌所】113-1 Language Lounge-Experience sharing(第三場)",
-        "timestamp": "1729554902",
-        "url": "mail_display.php?timestamp=1729554902",
-        "date": "2024/10/22 07:55",
-        "department": "管理學院 企業管理學系",
-        "author": {
-            "department": "管理學院 企業管理學系",
-            "name": "陳雅芳",
-            "email": "mayachen@gms.ndhu.edu.tw",
-            "phone": "3162"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "性平影展:希望-為愛重生",
-        "timestamp": "1729554901",
-        "url": "mail_display.php?timestamp=1729554901",
-        "date": "2024/10/22 07:55",
-        "department": "圖書資訊處 圖資服務組",
-        "author": {
-            "department": "圖書資訊處 圖資服務組",
-            "name": "廖銘珠",
-            "email": "min-judy@gms.ndhu.edu.tw",
-            "phone": "6855"
-        },
-        "attachmentCount": 0
     }
 ]
