@@ -1,5 +1,19 @@
 [
     {
+        "title": "113-2學生就學貸款申請第2次公告Student Loan application for Spring Semester",
+        "timestamp": "1737076061",
+        "url": "mail_display.php?timestamp=1737076061",
+        "date": "2025/01/17 09:07",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "王文和",
+            "email": "rlawwh@gms.ndhu.edu.tw",
+            "phone": "分機6221"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【重要通知】113-1學期本校K書中心B館寒假休館公告 Study Center Winter Break Closure Notice",
         "timestamp": "1737020902",
         "url": "mail_display.php?timestamp=1737020902",
@@ -194,19 +208,5 @@
             "phone": "6013"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "114年度校區內客貨電梯進行月保養排程通告1月保養",
-        "timestamp": "1736567166",
-        "url": "mail_display.php?timestamp=1736567166",
-        "date": "2025/01/11 11:46",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
     }
 ]

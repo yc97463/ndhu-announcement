@@ -1,5 +1,19 @@
 [
     {
+        "title": "【出國交換】2月19日12:10-2025第二次交換甄選說明會",
+        "timestamp": "1737449691",
+        "url": "mail_display.php?timestamp=1737449691",
+        "date": "2025/01/21 16:54",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "【出國交換】2025年第二次國際交換學生甄選",
         "timestamp": "1737449608",
         "url": "mail_display.php?timestamp=1737449608",
@@ -194,19 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【訊息轉知】教育部辦理114年度第1梯次數位學習課程認證審查將於114年2月1日起受理申請",
-        "timestamp": "1737344987",
-        "url": "mail_display.php?timestamp=1737344987",
-        "date": "2025/01/20 11:49",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 1
     }
 ]

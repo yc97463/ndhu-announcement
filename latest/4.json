@@ -1,5 +1,19 @@
 [
     {
+        "title": "【公告Notice】春節期間中英文編譯服務暫停收件 Proofreading and Translation Service closed during the Lunar New Year",
+        "timestamp": "1737607124",
+        "url": "mail_display.php?timestamp=1737607124",
+        "date": "2025/01/23 12:38",
+        "department": "語言中心",
+        "author": {
+            "department": "語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【衛生宣導】安全駕駛 藥注意! ",
         "timestamp": "1737602573",
         "url": "mail_display.php?timestamp=1737602573",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【出國交換】2月19日12:10-2025第二次交換甄選說明會",
-        "timestamp": "1737449691",
-        "url": "mail_display.php?timestamp=1737449691",
-        "date": "2025/01/21 16:54",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 5
     }
 ]
