@@ -1,5 +1,19 @@
 [
     {
+        "title": "【衛生宣導】安全駕駛 藥注意! ",
+        "timestamp": "1737602573",
+        "url": "mail_display.php?timestamp=1737602573",
+        "date": "2025/01/23 11:22",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【轉知】臺灣國立大學系統「113-2學期校際選課相關資訊」與「114學年度跨校輔系/雙主修名額與條件」",
         "timestamp": "1737600076",
         "url": "mail_display.php?timestamp=1737600076",
@@ -192,20 +206,6 @@
             "name": "彭惠玉",
             "email": "emmapeng@gms.ndhu.edu.tw",
             "phone": "6512"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": " 114年寒假壽豐校區高壓設備檢測停電時程(114/01/16~114/02/07)公告(第3次公告，修正內容詳說明一)",
-        "timestamp": "1737005412",
-        "url": "mail_display.php?timestamp=1737005412",
-        "date": "2025/01/16 13:30",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉景富",
-            "email": "nickak@gms.ndhu.edu.tw",
-            "phone": "03-8906373"
         },
         "attachmentCount": 1
     }

@@ -1,5 +1,19 @@
 [
     {
+        "title": "寒假將至~提醒本校114年寒假期間學生活動安全注意事項",
+        "timestamp": "1736222283",
+        "url": "mail_display.php?timestamp=1736222283",
+        "date": "2025/01/07 11:58",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "吳昭毅",
+            "email": "wuyi12831@gms.ndhu.edu.tw",
+            "phone": "038906228"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "資通系統盤點暨安全等級評估教育訓練",
         "timestamp": "1736216485",
         "url": "mail_display.php?timestamp=1736216485",
@@ -194,19 +208,5 @@
             "phone": "6232"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【交通安全宣導】2025元旦假期，切勿疲勞駕駛，確保行車平安！",
-        "timestamp": "1735607912",
-        "url": "mail_display.php?timestamp=1735607912",
-        "date": "2024/12/31 09:18",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "林嘉瑩",
-            "email": "tea7101@gms.ndhu.edu.tw",
-            "phone": "03-8906226"
-        },
-        "attachmentCount": 0
     }
 ]

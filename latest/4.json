@@ -1,5 +1,47 @@
 [
     {
+        "title": "114年2月份全校綠地除草維護時間及施作區域公告",
+        "timestamp": "1737612173",
+        "url": "mail_display.php?timestamp=1737612173",
+        "date": "2025/01/23 14:02",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "賴宜萱",
+            "email": "lai0210@gms.ndhu.edu.tw",
+            "phone": "6393"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "國科會114年大專學生研究計畫申請案，自即日起至114年2月19日中午12：00前完成線上申請，歡迎踴躍申請。",
+        "timestamp": "1737611693",
+        "url": "mail_display.php?timestamp=1737611693",
+        "date": "2025/01/23 13:54",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "彭惠玉",
+            "email": "emmapeng@gms.ndhu.edu.tw",
+            "phone": "6512"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "【人事室公告】本校113學年度第2學期起行政及學術主管名冊",
+        "timestamp": "1737611145",
+        "url": "mail_display.php?timestamp=1737611145",
+        "date": "2025/01/23 13:45",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "楊惠雯",
+            "email": "hwyang@gms.ndhu.edu.tw",
+            "phone": "6061"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【公告Notice】春節期間中英文編譯服務暫停收件 Proofreading and Translation Service closed during the Lunar New Year",
         "timestamp": "1737607124",
         "url": "mail_display.php?timestamp=1737607124",
@@ -166,47 +208,5 @@
             "phone": "03-8906219"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【獎助學金申請】台灣兒童暨家庭扶助基金會113-2「韌世代獎助學金」",
-        "timestamp": "1737466198",
-        "url": "mail_display.php?timestamp=1737466198",
-        "date": "2025/01/21 21:29",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "主旨:有關理工二館B棟部分區域照明及插座供電異常說明",
-        "timestamp": "1737452610",
-        "url": "mail_display.php?timestamp=1737452610",
-        "date": "2025/01/21 17:43",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【徵才】國立體育大學學生事務處招募「辦事員約僱職務代理人」(114年2月5日截止)",
-        "timestamp": "1737451060",
-        "url": "mail_display.php?timestamp=1737451060",
-        "date": "2025/01/21 17:17",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
     }
 ]

@@ -1,5 +1,47 @@
 [
     {
+        "title": "【獎助學金申請】台灣兒童暨家庭扶助基金會113-2「韌世代獎助學金」",
+        "timestamp": "1737466198",
+        "url": "mail_display.php?timestamp=1737466198",
+        "date": "2025/01/21 21:29",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "主旨:有關理工二館B棟部分區域照明及插座供電異常說明",
+        "timestamp": "1737452610",
+        "url": "mail_display.php?timestamp=1737452610",
+        "date": "2025/01/21 17:43",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【徵才】國立體育大學學生事務處招募「辦事員約僱職務代理人」(114年2月5日截止)",
+        "timestamp": "1737451060",
+        "url": "mail_display.php?timestamp=1737451060",
+        "date": "2025/01/21 17:17",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【出國交換】2月19日12:10-2025第二次交換甄選說明會",
         "timestamp": "1737449691",
         "url": "mail_display.php?timestamp=1737449691",
@@ -166,47 +208,5 @@
             "phone": "6366"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "113學年度第2學期學雜費繳費單(114/01/20)可以下載囉！",
-        "timestamp": "1737423038",
-        "url": "mail_display.php?timestamp=1737423038",
-        "date": "2025/01/21 09:30",
-        "department": "總務處出納組",
-        "author": {
-            "department": "總務處出納組",
-            "name": "鄧瑞美",
-            "email": "deng@gms.ndhu.edu.tw",
-            "phone": "6366"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "113學年度第2學期學雜費繳費單(114/01/20)可以下載囉！",
-        "timestamp": "1737423037",
-        "url": "mail_display.php?timestamp=1737423037",
-        "date": "2025/01/21 09:30",
-        "department": "總務處出納組",
-        "author": {
-            "department": "總務處出納組",
-            "name": "鄧瑞美",
-            "email": "deng@gms.ndhu.edu.tw",
-            "phone": "6366"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "教育學院2號電梯故障停用",
-        "timestamp": "1737378138",
-        "url": "mail_display.php?timestamp=1737378138",
-        "date": "2025/01/20 21:02",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
     }
 ]

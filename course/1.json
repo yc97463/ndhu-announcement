@@ -1,5 +1,19 @@
 [
     {
+        "title": "【課務組】113學年度第2學期學士班課程「免修」申請（自即日起至02/19(三)午夜23:59止）",
+        "timestamp": "1738800266",
+        "url": "mail_display.php?timestamp=1738800266",
+        "date": "2025/02/06 08:04",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "course@gms.ndhu.edu.tw",
+            "phone": "6122~6126"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "資通系統盤點暨安全等級評估教育訓練",
         "timestamp": "1738733745",
         "url": "mail_display.php?timestamp=1738733745",
@@ -194,19 +208,5 @@
             "phone": "6122~6126"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【通識】12/23(一)敬邀參加-第37屆校園試映會(電影製作藝術、紀錄片製作成果發表)",
-        "timestamp": "1734686650",
-        "url": "mail_display.php?timestamp=1734686650",
-        "date": "2024/12/20 17:24",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "李睿芬",
-            "email": "fen19@gms.ndhu.edu.tw",
-            "phone": "6602"
-        },
-        "attachmentCount": 2
     }
 ]
