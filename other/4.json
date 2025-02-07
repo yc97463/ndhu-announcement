@@ -1,5 +1,19 @@
 [
     {
+        "title": "【重要通知】113-1學期本校K書中心B館寒假休館公告 Study Center Winter Break Closure Notice",
+        "timestamp": "1737020902",
+        "url": "mail_display.php?timestamp=1737020902",
+        "date": "2025/01/16 17:48",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "蕭定泓",
+            "email": "xiao@gms.ndhu.edu.tw",
+            "phone": "6585"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【轉知】國立臺北商業大學開設產業新尖兵計畫「全端工程師人才培訓班」",
         "timestamp": "1737006154",
         "url": "mail_display.php?timestamp=1737006154",
@@ -194,19 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【學生自主學習社群】113-2學期社群即日起開放徵件，歡迎有興趣的同學組團申請!!(第二次公告)",
-        "timestamp": "1736494942",
-        "url": "mail_display.php?timestamp=1736494942",
-        "date": "2025/01/10 15:42",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "李貞穎",
-            "email": "jeannie@gms.ndhu.edu.tw",
-            "phone": "8906587"
-        },
-        "attachmentCount": 3
     }
 ]
