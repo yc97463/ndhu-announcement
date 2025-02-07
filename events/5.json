@@ -1,5 +1,19 @@
 [
     {
+        "title": "1225管財班學生",
+        "timestamp": "1735084505",
+        "url": "mail_display.php?timestamp=1735084505",
+        "date": "2024/12/25 07:55",
+        "department": "管理學院 管理科學與財金國際學士學位學程",
+        "author": {
+            "department": "管理學院 管理科學與財金國際學士學位學程",
+            "name": "林逸潔",
+            "email": "jamielin0902@gms.ndhu.edu.tw",
+            "phone": "038903006"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【發社系-民族講座】從原民會組織法修正，看我國民族別自治發展",
         "timestamp": "1735084504",
         "url": "mail_display.php?timestamp=1735084504",
@@ -194,19 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【12/24寫硬筆書法活動】書書相印，~寫字•寫心•寫春天─寫硬筆書法活動開鑼了！",
-        "timestamp": "1734924184",
-        "url": "mail_display.php?timestamp=1734924184",
-        "date": "2024/12/23 11:23",
-        "department": "華語文教學國際博士班",
-        "author": {
-            "department": "華語文教學國際博士班",
-            "name": "池助理",
-            "email": "tcsl@gms.ndhu.edu.tw",
-            "phone": "5402"
-        },
-        "attachmentCount": 1
     }
 ]

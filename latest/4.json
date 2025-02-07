@@ -1,5 +1,47 @@
 [
     {
+        "title": "113-2校核心通識課程異動(增開及停開課程)公告",
+        "timestamp": "1738630658",
+        "url": "mail_display.php?timestamp=1738630658",
+        "date": "2025/02/04 08:57",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "6607"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【教務處課務組】各學制新生(含轉學生、復學生)113-2網路選課  Freshmen Online Preliminary Course Selection",
+        "timestamp": "1738630361",
+        "url": "mail_display.php?timestamp=1738630361",
+        "date": "2025/02/04 08:52",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "新科技與台灣族語振興國際工作坊x成果展",
+        "timestamp": "1738626901",
+        "url": "mail_display.php?timestamp=1738626901",
+        "date": "2025/02/04 07:55",
+        "department": "原住民民族學院 民族語言與傳播學系",
+        "author": {
+            "department": "原住民民族學院 民族語言與傳播學系",
+            "name": "璽祐.哈?咪",
+            "email": "siyu@gms.ndhu.edu.tw",
+            "phone": "038905824"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "大學門(含側門)及志學門車牌辨識系統啟用公告(第二次公告)",
         "timestamp": "1738554430",
         "url": "mail_display.php?timestamp=1738554430",
@@ -166,47 +208,5 @@
             "phone": "8906253"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【轉知】臺灣國立大學系統「113-2學期校際選課相關資訊」與「114學年度跨校輔系/雙主修名額與條件」",
-        "timestamp": "1737600076",
-        "url": "mail_display.php?timestamp=1737600076",
-        "date": "2025/01/23 10:41",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "utd1003@gms.ndhu.edu.tw",
-            "phone": "6122-6126"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【獎助學金申請】中華民國紅心字會114年「紅心向日葵獎助學金」(限受刑人子女)",
-        "timestamp": "1737595891",
-        "url": "mail_display.php?timestamp=1737595891",
-        "date": "2025/01/23 09:31",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【停車公告】志學火車站停車場停車場地有限，請勿長期占用停車格",
-        "timestamp": "1737593999",
-        "url": "mail_display.php?timestamp=1737593999",
-        "date": "2025/01/23 08:59",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "林嘉瑩",
-            "email": "tea7101@gms.ndhu.edu.tw",
-            "phone": "03-8906226"
-        },
-        "attachmentCount": 0
     }
 ]
