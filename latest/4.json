@@ -1,5 +1,19 @@
 [
     {
+        "title": "大學門(含側門)及志學門車牌辨識系統啟用公告(第二次公告)",
+        "timestamp": "1738554430",
+        "url": "mail_display.php?timestamp=1738554430",
+        "date": "2025/02/03 11:47",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "113學年度第2學期兵役緩徵、儘召網路登錄開放申請通知",
         "timestamp": "1738496650",
         "url": "mail_display.php?timestamp=1738496650",
@@ -194,19 +208,5 @@
             "phone": "03-8906226"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【第三次公告】📢📢113學年度第2學期校內行政單位【起飛見習生】開放登記申請!",
-        "timestamp": "1737533704",
-        "url": "mail_display.php?timestamp=1737533704",
-        "date": "2025/01/22 16:15",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "鄭小姐",
-            "email": "ting@gms.ndhu.edu.tw",
-            "phone": "03-8906215"
-        },
-        "attachmentCount": 1
     }
 ]

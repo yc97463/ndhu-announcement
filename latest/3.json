@@ -1,5 +1,19 @@
 [
     {
+        "title": "113-2體育館『體能訓練室』114/02/17(一)~114/06/21(六)開放申請學期會員公告",
+        "timestamp": "1738651656",
+        "url": "mail_display.php?timestamp=1738651656",
+        "date": "2025/02/04 14:47",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "沈正雄",
+            "email": "chshen@gms.ndhu.edu.tw",
+            "phone": "6618"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【訊息轉知】東吳大學開設3門磨課師(MOOCs)線上課程",
         "timestamp": "1738650478",
         "url": "mail_display.php?timestamp=1738650478",
@@ -194,19 +208,5 @@
             "phone": "038905824"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "大學門(含側門)及志學門車牌辨識系統啟用公告(第二次公告)",
-        "timestamp": "1738554430",
-        "url": "mail_display.php?timestamp=1738554430",
-        "date": "2025/02/03 11:47",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 1
     }
 ]
