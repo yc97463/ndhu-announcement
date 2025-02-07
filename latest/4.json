@@ -1,5 +1,19 @@
 [
     {
+        "title": "【通識】113-2學期通識課程活動補助申請(第二次公告)",
+        "timestamp": "1738632540",
+        "url": "mail_display.php?timestamp=1738632540",
+        "date": "2025/02/04 09:29",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "李睿芬",
+            "email": "fen19@gms.ndhu.edu.tw",
+            "phone": "6602"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "113-2校核心通識課程異動(增開及停開課程)公告",
         "timestamp": "1738630658",
         "url": "mail_display.php?timestamp=1738630658",
@@ -194,19 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【衛生宣導】安全駕駛 藥注意! ",
-        "timestamp": "1737602573",
-        "url": "mail_display.php?timestamp=1737602573",
-        "date": "2025/01/23 11:22",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 1
     }
 ]

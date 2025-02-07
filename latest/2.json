@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】台北市台灣許姓宗祠114年許姓宗親子女獎學金",
+        "timestamp": "1738745246",
+        "url": "mail_display.php?timestamp=1738745246",
+        "date": "2025/02/05 16:47",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】高雄市113-2清寒優秀學生獎學金 (限高雄市籍低或中低收)",
         "timestamp": "1738737207",
         "url": "mail_display.php?timestamp=1738737207",
@@ -194,19 +208,5 @@
             "phone": "038906586"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "行政會議 會議紀錄公告通知",
-        "timestamp": "1738660650",
-        "url": "mail_display.php?timestamp=1738660650",
-        "date": "2025/02/04 17:17",
-        "department": "秘書室議事公文組",
-        "author": {
-            "department": "秘書室議事公文組",
-            "name": "陳婉婉",
-            "email": "secretariat@gms.ndhu.edu.tw",
-            "phone": "6004"
-        },
-        "attachmentCount": 1
     }
 ]

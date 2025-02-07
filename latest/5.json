@@ -1,5 +1,19 @@
 [
     {
+        "title": "【衛生宣導】安全駕駛 藥注意! ",
+        "timestamp": "1737602573",
+        "url": "mail_display.php?timestamp=1737602573",
+        "date": "2025/01/23 11:22",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【轉知】臺灣國立大學系統「113-2學期校際選課相關資訊」與「114學年度跨校輔系/雙主修名額與條件」",
         "timestamp": "1737600076",
         "url": "mail_display.php?timestamp=1737600076",
@@ -186,20 +200,6 @@
         "timestamp": "1737449691",
         "url": "mail_display.php?timestamp=1737449691",
         "date": "2025/01/21 16:54",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 5
-    },
-    {
-        "title": "【出國交換】2025年第二次國際交換學生甄選",
-        "timestamp": "1737449608",
-        "url": "mail_display.php?timestamp=1737449608",
-        "date": "2025/01/21 16:53",
         "department": "國際事務處國際學生組",
         "author": {
             "department": "國際事務處國際學生組",
