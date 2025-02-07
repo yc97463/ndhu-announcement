@@ -1,5 +1,33 @@
 [
     {
+        "title": "113-2學期校園環境中心服務學習計畫_校園昆蟲探索",
+        "timestamp": "1738713302",
+        "url": "mail_display.php?timestamp=1738713302",
+        "date": "2025/02/05 07:55",
+        "department": "環境暨海洋學院 校園環境中心",
+        "author": {
+            "department": "環境暨海洋學院 校園環境中心",
+            "name": "程曦",
+            "email": "chengc831004@gms.ndhu.edu.tw",
+            "phone": "(03)890-3322"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【說明會】臺灣大專院校人工智慧聯盟 113-2 開課 東華線上說明會(114年02月10日)",
+        "timestamp": "1738660850",
+        "url": "mail_display.php?timestamp=1738660850",
+        "date": "2025/02/04 17:20",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳禮凡",
+            "email": "lifan.chen@gms.ndhu.edu.tw",
+            "phone": "038906586"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "行政會議 會議紀錄公告通知",
         "timestamp": "1738660650",
         "url": "mail_display.php?timestamp=1738660650",
@@ -180,33 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【徵才公告】國立東華大學國際企業學系徵校務基金行政助理一名(第二次公告",
-        "timestamp": "1738639158",
-        "url": "mail_display.php?timestamp=1738639158",
-        "date": "2025/02/04 11:19",
-        "department": "國際企業學系",
-        "author": {
-            "department": "國際企業學系",
-            "name": "國企系",
-            "email": "IB@gms.ndhu.edu.tw",
-            "phone": "3042"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【徵才】臺北市就業服務處114年2月21日辦理「開巳大吉迎薪春」聯合徵才活動",
-        "timestamp": "1738637850",
-        "url": "mail_display.php?timestamp=1738637850",
-        "date": "2025/02/04 10:57",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
     }
 ]

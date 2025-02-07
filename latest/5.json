@@ -1,5 +1,33 @@
 [
     {
+        "title": "【人事室公告】本校113學年度第2學期起行政及學術主管名冊",
+        "timestamp": "1737611145",
+        "url": "mail_display.php?timestamp=1737611145",
+        "date": "2025/01/23 13:45",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "楊惠雯",
+            "email": "hwyang@gms.ndhu.edu.tw",
+            "phone": "6061"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【公告Notice】春節期間中英文編譯服務暫停收件 Proofreading and Translation Service closed during the Lunar New Year",
+        "timestamp": "1737607124",
+        "url": "mail_display.php?timestamp=1737607124",
+        "date": "2025/01/23 12:38",
+        "department": "語言中心",
+        "author": {
+            "department": "語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【衛生宣導】安全駕駛 藥注意! ",
         "timestamp": "1737602573",
         "url": "mail_display.php?timestamp=1737602573",
@@ -180,33 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【徵才】國立體育大學學生事務處招募「辦事員約僱職務代理人」(114年2月5日截止)",
-        "timestamp": "1737451060",
-        "url": "mail_display.php?timestamp=1737451060",
-        "date": "2025/01/21 17:17",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【出國交換】2月19日12:10-2025第二次交換甄選說明會",
-        "timestamp": "1737449691",
-        "url": "mail_display.php?timestamp=1737449691",
-        "date": "2025/01/21 16:54",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 5
     }
 ]

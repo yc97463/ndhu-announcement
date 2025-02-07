@@ -1,5 +1,33 @@
 [
     {
+        "title": "【徵才公告】國立東華大學國際企業學系徵校務基金行政助理一名(第二次公告",
+        "timestamp": "1738639158",
+        "url": "mail_display.php?timestamp=1738639158",
+        "date": "2025/02/04 11:19",
+        "department": "國際企業學系",
+        "author": {
+            "department": "國際企業學系",
+            "name": "國企系",
+            "email": "IB@gms.ndhu.edu.tw",
+            "phone": "3042"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【徵才】臺北市就業服務處114年2月21日辦理「開巳大吉迎薪春」聯合徵才活動",
+        "timestamp": "1738637850",
+        "url": "mail_display.php?timestamp=1738637850",
+        "date": "2025/02/04 10:57",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【通識】113-2學期通識課程活動補助申請(第二次公告)",
         "timestamp": "1738632540",
         "url": "mail_display.php?timestamp=1738632540",
@@ -180,33 +208,5 @@
             "phone": "6512"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【人事室公告】本校113學年度第2學期起行政及學術主管名冊",
-        "timestamp": "1737611145",
-        "url": "mail_display.php?timestamp=1737611145",
-        "date": "2025/01/23 13:45",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "楊惠雯",
-            "email": "hwyang@gms.ndhu.edu.tw",
-            "phone": "6061"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【公告Notice】春節期間中英文編譯服務暫停收件 Proofreading and Translation Service closed during the Lunar New Year",
-        "timestamp": "1737607124",
-        "url": "mail_display.php?timestamp=1737607124",
-        "date": "2025/01/23 12:38",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 0
     }
 ]
