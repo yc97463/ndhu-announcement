@@ -1,5 +1,19 @@
 [
     {
+        "title": "潛能開發，開發什麼？——開發出你的蝴蝶翅膀、天使羽翼",
+        "timestamp": "1735084506",
+        "url": "mail_display.php?timestamp=1735084506",
+        "date": "2024/12/25 07:55",
+        "department": "花師教育學院 教育與潛能開發學系",
+        "author": {
+            "department": "花師教育學院 教育與潛能開發學系",
+            "name": "黃偲婷",
+            "email": "411188007@gms.ndhu.edu.tw",
+            "phone": "楊舒媛 0966681380"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "1225管財班學生",
         "timestamp": "1735084505",
         "url": "mail_display.php?timestamp=1735084505",
@@ -194,19 +208,5 @@
             "phone": "03-8905253"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【活動】倒數三天！《CLOSE CALL 誤闖歧屋》電影發佈會(抽全家霜淇淋)",
-        "timestamp": "1734929394",
-        "url": "mail_display.php?timestamp=1734929394",
-        "date": "2024/12/23 12:49",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 4
     }
 ]

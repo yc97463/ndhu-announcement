@@ -1,5 +1,19 @@
 [
     {
+        "title": "【尾牙活動通知】本校113學年度教職員工歲末聯歡活動餐會相關事宜公告，謝謝。",
+        "timestamp": "1736146741",
+        "url": "mail_display.php?timestamp=1736146741",
+        "date": "2025/01/06 14:59",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "陳治豪",
+            "email": "jackchen168@gms.ndhu.edu.tw",
+            "phone": "6057"
+        },
+        "attachmentCount": 6
+    },
+    {
         "title": "114年春節連續假期提供搭乘公路公共運輸享多項優惠，請多加利用。",
         "timestamp": "1735900531",
         "url": "mail_display.php?timestamp=1735900531",
@@ -194,19 +208,5 @@
             "phone": "8906587"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "113學年度第1學期「Sean’s War 槍聲餘響」電影首映會",
-        "timestamp": "1735343701",
-        "url": "mail_display.php?timestamp=1735343701",
-        "date": "2024/12/28 07:55",
-        "department": "洄瀾學院 語言中心",
-        "author": {
-            "department": "洄瀾學院 語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 0
     }
 ]
