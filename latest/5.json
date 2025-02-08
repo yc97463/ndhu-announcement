@@ -1,5 +1,19 @@
 [
     {
+        "title": "有關人社二1號電梯運作異常說明",
+        "timestamp": "1737645344",
+        "url": "mail_display.php?timestamp=1737645344",
+        "date": "2025/01/23 23:15",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【轉知】國立陽明交通大學辦理勞動部勞動力發展署桃竹苗分署114 年度產業人才投資方案「Python與資料視覺化應用班第01期」政府補助課程，相關報名資訊，請詳參課程簡章。",
         "timestamp": "1737624318",
         "url": "mail_display.php?timestamp=1737624318",
@@ -186,20 +200,6 @@
         "timestamp": "1737502399",
         "url": "mail_display.php?timestamp=1737502399",
         "date": "2025/01/22 07:33",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【論文獎助】新北市政府教育局114年度中小學研究發展獎勵",
-        "timestamp": "1737470046",
-        "url": "mail_display.php?timestamp=1737470046",
-        "date": "2025/01/21 22:34",
         "department": "學務處",
         "author": {
             "department": "學務處",

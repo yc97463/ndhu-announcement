@@ -1,5 +1,19 @@
 [
     {
+        "title": "【公告】國科會學術研究倫理教育訓練相關訊息",
+        "timestamp": "1737016039",
+        "url": "mail_display.php?timestamp=1737016039",
+        "date": "2025/01/16 16:27",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "彭惠玉",
+            "email": "emmapeng@gms.ndhu.edu.tw",
+            "phone": "6512"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": " 114年寒假壽豐校區高壓設備檢測停電時程(114/01/16~114/02/07)公告(第3次公告，修正內容詳說明一)",
         "timestamp": "1737005412",
         "url": "mail_display.php?timestamp=1737005412",
@@ -194,19 +208,5 @@
             "phone": "分機6307"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "租屋防詐騙宣導",
-        "timestamp": "1736482117",
-        "url": "mail_display.php?timestamp=1736482117",
-        "date": "2025/01/10 12:08",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳詩啓",
-            "email": "sam0831@gms.ndhu.edu.tw",
-            "phone": "6216"
-        },
-        "attachmentCount": 5
     }
 ]

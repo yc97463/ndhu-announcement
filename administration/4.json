@@ -1,5 +1,19 @@
 [
     {
+        "title": "租屋防詐騙宣導",
+        "timestamp": "1736482117",
+        "url": "mail_display.php?timestamp=1736482117",
+        "date": "2025/01/10 12:08",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳詩啓",
+            "email": "sam0831@gms.ndhu.edu.tw",
+            "phone": "6216"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "環境學院夜間機車停車場及學活園區機車臨時洽公停車區開放使用公告。",
         "timestamp": "1736475586",
         "url": "mail_display.php?timestamp=1736475586",
@@ -194,19 +208,5 @@
             "phone": "8906253"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "請注意~租屋詐騙",
-        "timestamp": "1736300550",
-        "url": "mail_display.php?timestamp=1736300550",
-        "date": "2025/01/08 09:42",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳詩啓",
-            "email": "sam0831@gms.ndhu.edu.tw",
-            "phone": "6216"
-        },
-        "attachmentCount": 1
     }
 ]

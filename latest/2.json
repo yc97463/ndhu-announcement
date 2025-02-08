@@ -1,5 +1,19 @@
 [
     {
+        "title": "【訊息轉知】「資產管理SMART+E課程學習網」新推出5大系列計49項免費實務課程，歡迎金融、管理、商學相關系所學生多加利用",
+        "timestamp": "1738831607",
+        "url": "mail_display.php?timestamp=1738831607",
+        "date": "2025/02/06 16:46",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【公告】114學年度附設實驗國民小學一年級新生暨附設幼兒園新生登記事宜，請本校教職員工有意願登記者，於本(114)年3月3日(星期一)前至人事室網頁附小新生登記專區填寫表單。",
         "timestamp": "1738814382",
         "url": "mail_display.php?timestamp=1738814382",
@@ -194,19 +208,5 @@
             "phone": "03-8906219"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【推廣教育填報通知】113學年第1學期課程資料填報作業暨系統改版通知",
-        "timestamp": "1738718703",
-        "url": "mail_display.php?timestamp=1738718703",
-        "date": "2025/02/05 09:25",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "洪乃慈",
-            "email": "naitzu@gms.ndhu.edu.tw",
-            "phone": "6523"
-        },
-        "attachmentCount": 2
     }
 ]
