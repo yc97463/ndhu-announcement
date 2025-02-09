@@ -1,5 +1,19 @@
 [
     {
+        "title": "賀！東華大學校園餐廳歐哈尼獲得花蓮衛生局優良餐飲店家",
+        "timestamp": "1736305480",
+        "url": "mail_display.php?timestamp=1736305480",
+        "date": "2025/01/08 11:04",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "請注意~租屋詐騙",
         "timestamp": "1736300550",
         "url": "mail_display.php?timestamp=1736300550",
@@ -194,19 +208,5 @@
             "phone": "03-8906226"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "重申禁用危害國家資通訊產品相關規定",
-        "timestamp": "1735623636",
-        "url": "mail_display.php?timestamp=1735623636",
-        "date": "2024/12/31 13:40",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "蕭澤宇",
-            "email": "zyhsiao@gms.ndhu.edu.tw",
-            "phone": "6727"
-        },
-        "attachmentCount": 1
     }
 ]
