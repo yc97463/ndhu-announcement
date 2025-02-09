@@ -1,5 +1,19 @@
 [
     {
+        "title": "114年度校區內客貨電梯進行月保養排程通告1月保養",
+        "timestamp": "1736567166",
+        "url": "mail_display.php?timestamp=1736567166",
+        "date": "2025/01/11 11:46",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "114年寒假及春節假期間總務處業務相關注意事項",
         "timestamp": "1736494685",
         "url": "mail_display.php?timestamp=1736494685",
@@ -194,19 +208,5 @@
             "phone": "6212"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "衛生保健組寒假上班時間調整Health Center Adjust working hours in winter",
-        "timestamp": "1736305745",
-        "url": "mail_display.php?timestamp=1736305745",
-        "date": "2025/01/08 11:09",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 0
     }
 ]

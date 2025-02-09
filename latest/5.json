@@ -1,5 +1,19 @@
 [
     {
+        "title": "大學門(含側門)及志學門車牌辨識系統啟用公告",
+        "timestamp": "1738311007",
+        "url": "mail_display.php?timestamp=1738311007",
+        "date": "2025/01/31 16:10",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【交通安全宣導】春節假期應遵守行車規定，避免疲勞駕駛，確保行車平安",
         "timestamp": "1737806506",
         "url": "mail_display.php?timestamp=1737806506",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【徵才】國立東華大學能源科技中心誠徵教育部計畫專任助理(第二次公告)",
-        "timestamp": "1737507289",
-        "url": "mail_display.php?timestamp=1737507289",
-        "date": "2025/01/22 08:54",
-        "department": "能源科技中心",
-        "author": {
-            "department": "能源科技中心",
-            "name": "吳慈憶",
-            "email": "algar0905@gms.ndhu.edu.tw",
-            "phone": "8903688"
-        },
-        "attachmentCount": 0
     }
 ]

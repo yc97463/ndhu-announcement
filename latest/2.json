@@ -1,5 +1,19 @@
 [
     {
+        "title": "【實習】新北市政府文化局暨所屬單位「114年度暑期大專院校學生實習計畫」(114年3月31日截止)",
+        "timestamp": "1738832997",
+        "url": "mail_display.php?timestamp=1738832997",
+        "date": "2025/02/06 17:09",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "【實習】各地方檢察署「114年大學校院在學學生實習觀護工作實施方案」(114年4月2日截止)",
         "timestamp": "1738831946",
         "url": "mail_display.php?timestamp=1738831946",
@@ -194,19 +208,5 @@
             "phone": "5107"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "(二次公告)【中等學程】114學年度中等教育學程甄選報名簡章公告",
-        "timestamp": "1738720926",
-        "url": "mail_display.php?timestamp=1738720926",
-        "date": "2025/02/05 10:02",
-        "department": "師資培育中心",
-        "author": {
-            "department": "師資培育中心",
-            "name": "劉姵君",
-            "email": "amyliou@gms.ndhu.edu.tw",
-            "phone": "6632"
-        },
-        "attachmentCount": 3
     }
 ]
