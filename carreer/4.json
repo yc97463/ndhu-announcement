@@ -1,5 +1,19 @@
 [
     {
+        "title": "【第二次公告】東華大學原民院「建構原住民族教育文化知識體系專案管理中心」 【系統開發組】誠徵專任助理",
+        "timestamp": "1732690073",
+        "url": "mail_display.php?timestamp=1732690073",
+        "date": "2024/11/27 14:47",
+        "department": "原住民民族學院",
+        "author": {
+            "department": "原住民民族學院",
+            "name": "賴小姐",
+            "email": "insay@gms.ndhu.edu.tw",
+            "phone": "03-8905141、5934"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【徵才訊息】國際事務處國際合作組徵聘校務基金學士級助理一名",
         "timestamp": "1732681188",
         "url": "mail_display.php?timestamp=1732681188",
@@ -194,19 +208,5 @@
             "phone": "6613"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【徵聘教師】國立東華大學藝術與設計學系徵聘專任教師2",
-        "timestamp": "1729674351",
-        "url": "mail_display.php?timestamp=1729674351",
-        "date": "2024/10/23 17:05",
-        "department": "藝術與設計學系",
-        "author": {
-            "department": "藝術與設計學系",
-            "name": "邱苡芳",
-            "email": "chiu91@gms.ndhu.edu.tw",
-            "phone": "5122"
-        },
-        "attachmentCount": 4
     }
 ]
