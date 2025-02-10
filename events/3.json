@@ -1,5 +1,19 @@
 [
     {
+        "title": "🎉 解謎高手集合！一起來挑戰鳳林實境解謎活動！ 🧩",
+        "timestamp": "1736265544",
+        "url": "mail_display.php?timestamp=1736265544",
+        "date": "2025/01/07 23:59",
+        "department": "管理學院",
+        "author": {
+            "department": "管理學院",
+            "name": "韓榮樂",
+            "email": "joyhan@gms.ndhu.edu.tw",
+            "phone": "3789"
+        },
+        "attachmentCount": 6
+    },
+    {
         "title": "113-2「東兔活動團隊成員招募」名額有限，快來報名!!",
         "timestamp": "1736231176",
         "url": "mail_display.php?timestamp=1736231176",
@@ -192,20 +206,6 @@
             "name": "呂岳芳",
             "email": "carollu@gms.ndhu.edu.tw",
             "phone": "03-8905497"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【線上講座】Microsoft 365 Copilot - 教學與研究上的最佳 AI 助手 (第2次公告)",
-        "timestamp": "1735526769",
-        "url": "mail_display.php?timestamp=1735526769",
-        "date": "2024/12/30 10:46",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
         },
         "attachmentCount": 2
     }
