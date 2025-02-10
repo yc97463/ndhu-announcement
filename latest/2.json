@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才訊息】國立東華大學教學卓越中心課程與科技組徵聘計畫助理3名",
+        "timestamp": "1739159999",
+        "url": "mail_display.php?timestamp=1739159999",
+        "date": "2025/02/10 11:59",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "李貞穎",
+            "email": "jeannie@gms.ndhu.edu.tw",
+            "phone": "8906587"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才】朱宗慶打擊樂教學系統音樂講師招募中🎶🎶",
         "timestamp": "1739159426",
         "url": "mail_display.php?timestamp=1739159426",
@@ -194,19 +208,5 @@
             "phone": "890-6056"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【戒菸班招募】2025年『疫』起來健康促進戒菸就贏(獎金等你來挑戰)",
-        "timestamp": "1738972501",
-        "url": "mail_display.php?timestamp=1738972501",
-        "date": "2025/02/08 07:55",
-        "department": "學務處 衛生保健組",
-        "author": {
-            "department": "學務處 衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 0
     }
 ]

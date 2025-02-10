@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】幼幼社會福利慈善基金會114年「跨縣市求學清寒學子助學」",
+        "timestamp": "1735791219",
+        "url": "mail_display.php?timestamp=1735791219",
+        "date": "2025/01/02 12:13",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】平安菁英教育基金會「113-2學期平安及菁英獎學金」",
         "timestamp": "1735788281",
         "url": "mail_display.php?timestamp=1735788281",
@@ -192,20 +206,6 @@
             "name": "陳良愛",
             "email": "issa@gms.ndhu.edu.tw",
             "phone": "5107"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【活動】2024/12/10 Trans-speakerism: Voices of Japanese University Professors",
-        "timestamp": "1733279007",
-        "url": "mail_display.php?timestamp=1733279007",
-        "date": "2024/12/04 10:23",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
         },
         "attachmentCount": 3
     }
