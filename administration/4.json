@@ -1,5 +1,19 @@
 [
     {
+        "title": "【網路維護】校園骨幹網路系統更換【第三次公告】",
+        "timestamp": "1736736704",
+        "url": "mail_display.php?timestamp=1736736704",
+        "date": "2025/01/13 10:51",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "黃金城",
+            "email": "hjc@gms.ndhu.edu.tw",
+            "phone": "6724"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
         "timestamp": "1736729717",
         "url": "mail_display.php?timestamp=1736729717",
@@ -192,20 +206,6 @@
             "name": "陳婉婉",
             "email": "secretariat@gms.ndhu.edu.tw",
             "phone": "6004"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "大學門(含側門)及志學門車牌辨識系統啟用公告(第二次公告)",
-        "timestamp": "1736318082",
-        "url": "mail_display.php?timestamp=1736318082",
-        "date": "2025/01/08 14:34",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
         },
         "attachmentCount": 1
     }

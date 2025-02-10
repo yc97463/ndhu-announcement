@@ -1,5 +1,19 @@
 [
     {
+        "title": "大學門(含側門)及志學門車牌辨識系統啟用公告(第二次公告)",
+        "timestamp": "1736318082",
+        "url": "mail_display.php?timestamp=1736318082",
+        "date": "2025/01/08 14:34",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "114年寒假壽豐校區高壓設備檢測停電時程(114/01/13~114/02/07)公告(第2次公告)",
         "timestamp": "1736314689",
         "url": "mail_display.php?timestamp=1736314689",
@@ -194,19 +208,5 @@
             "phone": "890-6378"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【公告】花蓮縣政府為鼓勵各單位員工參與客語能力認證，以提升本縣通過客語能力認證人員之比例，補助報名認證之同仁報名費及核予補休",
-        "timestamp": "1735865320",
-        "url": "mail_display.php?timestamp=1735865320",
-        "date": "2025/01/03 08:48",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "陳美杏",
-            "email": "msing@gms.ndhu.edu.tw",
-            "phone": "6059"
-        },
-        "attachmentCount": 4
     }
 ]
