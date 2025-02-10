@@ -1,5 +1,19 @@
 [
     {
+        "title": "歡迎選修「股票投資分析與程式設計」(周五早上)",
+        "timestamp": "1738902008",
+        "url": "mail_display.php?timestamp=1738902008",
+        "date": "2025/02/07 12:20",
+        "department": "資訊工程學系",
+        "author": {
+            "department": "資訊工程學系",
+            "name": "葉助理",
+            "email": "kiki2002@gms.ndhu.edu.tw",
+            "phone": "5012"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才】法務部調查局「114年度駐衛警察甄選」(114年2月14日截止)",
         "timestamp": "1738900420",
         "url": "mail_display.php?timestamp=1738900420",
@@ -192,20 +206,6 @@
             "name": "夏懿心",
             "email": "411154001@gms.ndhu.edu.tw",
             "phone": "吳盈萱0968990728"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "台越雙語實作招募說明會",
-        "timestamp": "1738799701",
-        "url": "mail_display.php?timestamp=1738799701",
-        "date": "2025/02/06 07:55",
-        "department": "花師教育學院 多元文化教育博士班",
-        "author": {
-            "department": "花師教育學院 多元文化教育博士班",
-            "name": "孫菁嬅",
-            "email": "jinghua@gms.ndhu.edu.tw",
-            "phone": "8903157"
         },
         "attachmentCount": 0
     }
