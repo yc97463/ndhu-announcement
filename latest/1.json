@@ -1,5 +1,19 @@
 [
     {
+        "title": "[停水]理工一館入水管線開關更換停水通告",
+        "timestamp": "1739197252",
+        "url": "mail_display.php?timestamp=1739197252",
+        "date": "2025/02/10 22:20",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【人事室公告】新訂本校「教師因公出國案件處理要點」，請公告並轉所屬教職員工知照。",
         "timestamp": "1739181205",
         "url": "mail_display.php?timestamp=1739181205",
@@ -185,20 +199,6 @@
         "title": "周大觀文教基金會有關推薦2026年全球熱愛生命獎章候選人授獎辦法",
         "timestamp": "1739166106",
         "url": "mail_display.php?timestamp=1739166106",
-        "date": "2025/02/10 13:41",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "劉昱淩",
-            "email": "e56187@gms.ndhu.edu.tw",
-            "phone": "890-6056"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "周大觀文教基金會有關推薦2026年全球熱愛生命獎章候選人授獎辦法",
-        "timestamp": "1739166096",
-        "url": "mail_display.php?timestamp=1739166096",
         "date": "2025/02/10 13:41",
         "department": "人事室",
         "author": {

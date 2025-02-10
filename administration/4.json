@@ -1,5 +1,19 @@
 [
     {
+        "title": "【傳染病衛生宣導】因應國內陸續出現麻疹病例，請全校師生加強防疫，以維護您的健康",
+        "timestamp": "1736750708",
+        "url": "mail_display.php?timestamp=1736750708",
+        "date": "2025/01/13 14:45",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "理工二館今(13)日上午10時35分部分區域無預警停電說明",
         "timestamp": "1736741664",
         "url": "mail_display.php?timestamp=1736741664",
@@ -194,19 +208,5 @@
             "phone": "038906824"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "為進行擷雲莊消防栓漏水維修後續復原事宜(第二階段)公告",
-        "timestamp": "1736345781",
-        "url": "mail_display.php?timestamp=1736345781",
-        "date": "2025/01/08 22:16",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
     }
 ]

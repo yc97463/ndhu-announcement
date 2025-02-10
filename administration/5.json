@@ -1,5 +1,19 @@
 [
     {
+        "title": "為進行擷雲莊消防栓漏水維修後續復原事宜(第二階段)公告",
+        "timestamp": "1736345781",
+        "url": "mail_display.php?timestamp=1736345781",
+        "date": "2025/01/08 22:16",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "行政會議 會議紀錄公告通知",
         "timestamp": "1736318691",
         "url": "mail_display.php?timestamp=1736318691",
@@ -194,19 +208,5 @@
             "phone": "6746"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "大學門(含側門)及志學門車牌辨識系統啟用公告(第一次公告)",
-        "timestamp": "1735887063",
-        "url": "mail_display.php?timestamp=1735887063",
-        "date": "2025/01/03 14:51",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 1
     }
 ]
