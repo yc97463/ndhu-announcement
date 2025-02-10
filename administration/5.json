@@ -1,5 +1,19 @@
 [
     {
+        "title": "行政會議 會議紀錄公告通知",
+        "timestamp": "1736318691",
+        "url": "mail_display.php?timestamp=1736318691",
+        "date": "2025/01/08 14:44",
+        "department": "秘書室議事公文組",
+        "author": {
+            "department": "秘書室議事公文組",
+            "name": "陳婉婉",
+            "email": "secretariat@gms.ndhu.edu.tw",
+            "phone": "6004"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "大學門(含側門)及志學門車牌辨識系統啟用公告(第二次公告)",
         "timestamp": "1736318082",
         "url": "mail_display.php?timestamp=1736318082",
@@ -192,20 +206,6 @@
             "name": "連小雅",
             "email": "lienhy@gms.ndhu.edu.tw",
             "phone": "6329"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "114年度消防設備安全檢查公告",
-        "timestamp": "1735868761",
-        "url": "mail_display.php?timestamp=1735868761",
-        "date": "2025/01/03 09:46",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "賴名塑",
-            "email": "a54604@gms.ndhu.edu.tw",
-            "phone": "890-6378"
         },
         "attachmentCount": 1
     }

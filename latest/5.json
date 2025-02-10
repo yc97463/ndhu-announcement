@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】得力教育基金會113-2清寒獎助學金",
+        "timestamp": "1738718777",
+        "url": "mail_display.php?timestamp=1738718777",
+        "date": "2025/02/05 09:26",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【推廣教育填報通知】113學年第1學期課程資料填報作業暨系統改版通知",
         "timestamp": "1738718703",
         "url": "mail_display.php?timestamp=1738718703",
@@ -194,19 +208,5 @@
             "phone": "8906422"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "【實習】114年臺北捷運公司大專院校學生實習計畫(學期間、暑假)(114年2月20日截止)",
-        "timestamp": "1738649910",
-        "url": "mail_display.php?timestamp=1738649910",
-        "date": "2025/02/04 14:18",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
     }
 ]

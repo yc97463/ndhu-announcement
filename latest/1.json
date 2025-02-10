@@ -1,5 +1,19 @@
 [
     {
+        "title": "【人事室公告】新訂本校「教師因公出國案件處理要點」，請公告並轉所屬教職員工知照。",
+        "timestamp": "1739181205",
+        "url": "mail_display.php?timestamp=1739181205",
+        "date": "2025/02/10 17:53",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "巫旻靜",
+            "email": "n0912631965@gms.ndhu.edu.tw",
+            "phone": "6055"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【教師限定】西班牙姊妹校哈恩大學 2025語言測試設計及驗證課程 “For Lecturers Only\" Course on Language Test Design and Validat",
         "timestamp": "1739178371",
         "url": "mail_display.php?timestamp=1739178371",
@@ -194,19 +208,5 @@
             "phone": "890-6056"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【徵才】臺灣桃園地方法院114年第1次儲備約僱職務代理人甄試(延長報名至114年2月26日截止)",
-        "timestamp": "1739165356",
-        "url": "mail_display.php?timestamp=1739165356",
-        "date": "2025/02/10 13:29",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 4
     }
 ]

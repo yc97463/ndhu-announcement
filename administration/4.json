@@ -1,5 +1,19 @@
 [
     {
+        "title": "理工二館今(13)日上午10時35分部分區域無預警停電說明",
+        "timestamp": "1736741664",
+        "url": "mail_display.php?timestamp=1736741664",
+        "date": "2025/01/13 12:14",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉景富",
+            "email": "nickak@gms.ndhu.edu.tw",
+            "phone": "03-8906373"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【網路維護】校園骨幹網路系統更換【第三次公告】",
         "timestamp": "1736736704",
         "url": "mail_display.php?timestamp=1736736704",
@@ -194,19 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "行政會議 會議紀錄公告通知",
-        "timestamp": "1736318691",
-        "url": "mail_display.php?timestamp=1736318691",
-        "date": "2025/01/08 14:44",
-        "department": "秘書室議事公文組",
-        "author": {
-            "department": "秘書室議事公文組",
-            "name": "陳婉婉",
-            "email": "secretariat@gms.ndhu.edu.tw",
-            "phone": "6004"
-        },
-        "attachmentCount": 1
     }
 ]
