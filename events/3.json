@@ -1,5 +1,19 @@
 [
     {
+        "title": "113-2「東兔活動團隊成員招募」名額有限，快來報名!!",
+        "timestamp": "1736231176",
+        "url": "mail_display.php?timestamp=1736231176",
+        "date": "2025/01/07 14:26",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "郭舒羽",
+            "email": "hdoion@gms.ndhu.edu.tw",
+            "phone": "03-8906233"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【尾牙活動通知】本校113學年度教職員工歲末聯歡活動餐會相關事宜公告，謝謝。",
         "timestamp": "1736146741",
         "url": "mail_display.php?timestamp=1736146741",
@@ -194,19 +208,5 @@
             "phone": "8906422"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【學生自主學習社群】113-2學期社群即日起開放徵件，歡迎有興趣的同學組團申請!!",
-        "timestamp": "1735524570",
-        "url": "mail_display.php?timestamp=1735524570",
-        "date": "2024/12/30 10:09",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "李貞穎",
-            "email": "jeannie@gms.ndhu.edu.tw",
-            "phone": "8906587"
-        },
-        "attachmentCount": 3
     }
 ]
