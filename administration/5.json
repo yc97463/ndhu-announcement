@@ -1,5 +1,19 @@
 [
     {
+        "title": "大學門(含側門)及志學門車牌辨識系統啟用公告(第三次公告)",
+        "timestamp": "1736475444",
+        "url": "mail_display.php?timestamp=1736475444",
+        "date": "2025/01/10 10:17",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【圖書館公告】114年寒假開館時間。【Library Announce】Library opening time for the coming winter vacation.",
         "timestamp": "1736467542",
         "url": "mail_display.php?timestamp=1736467542",
@@ -194,19 +208,5 @@
             "phone": "038906228"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "資通系統盤點暨安全等級評估教育訓練",
-        "timestamp": "1736216485",
-        "url": "mail_display.php?timestamp=1736216485",
-        "date": "2025/01/07 10:21",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "蕭澤宇",
-            "email": "zyhsiao@gms.ndhu.edu.tw",
-            "phone": "6727"
-        },
-        "attachmentCount": 2
     }
 ]

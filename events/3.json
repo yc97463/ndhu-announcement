@@ -1,5 +1,19 @@
 [
     {
+        "title": "【傑出校友】國立虎尾科技大學舉辦遴選傑出校友活動",
+        "timestamp": "1737333517",
+        "url": "mail_display.php?timestamp=1737333517",
+        "date": "2025/01/20 08:38",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "陳美杏",
+            "email": "msing@gms.ndhu.edu.tw",
+            "phone": "6059"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【出國交換】2月19日12:10「113-2國際交換學生甄選說明會」",
         "timestamp": "1737071701",
         "url": "mail_display.php?timestamp=1737071701",
@@ -194,19 +208,5 @@
             "phone": "03-8906226"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "🎉 解謎高手集合！一起來挑戰鳳林實境解謎活動！ 🧩",
-        "timestamp": "1735894098",
-        "url": "mail_display.php?timestamp=1735894098",
-        "date": "2025/01/03 16:48",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "韓榮樂",
-            "email": "joyhan@gms.ndhu.edu.tw",
-            "phone": "3789"
-        },
-        "attachmentCount": 4
     }
 ]

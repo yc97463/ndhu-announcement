@@ -1,5 +1,19 @@
 [
     {
+        "title": "【人事室公告】新訂本校「教師因公出國案件處理要點」，請公告並轉所屬教職員工知照。",
+        "timestamp": "1739260169",
+        "url": "mail_display.php?timestamp=1739260169",
+        "date": "2025/02/11 15:49",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "巫旻靜",
+            "email": "n0912631965@gms.ndhu.edu.tw",
+            "phone": "6055"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【資安宣導】轉知教育部來函，有關行政院來函說明112年盤點大陸廠牌資通訊產品及委外營運公眾場域契約事宜，及進行資安宣導。",
         "timestamp": "1739257773",
         "url": "mail_display.php?timestamp=1739257773",
@@ -194,19 +208,5 @@
             "phone": "6122~6126"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【社交工程提醒】近期有冒名釣魚信件，請謹慎辨識。",
-        "timestamp": "1738749414",
-        "url": "mail_display.php?timestamp=1738749414",
-        "date": "2025/02/05 17:56",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "何振揚",
-            "email": "cyang@gms.ndhu.edu.tw",
-            "phone": "6746"
-        },
-        "attachmentCount": 2
     }
 ]

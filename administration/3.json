@@ -1,5 +1,19 @@
 [
     {
+        "title": "【轉知】臺灣國立大學系統「113-2學期校際選課相關資訊」與「114學年度跨校輔系/雙主修名額與條件」",
+        "timestamp": "1737600076",
+        "url": "mail_display.php?timestamp=1737600076",
+        "date": "2025/01/23 10:41",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【停車公告】志學火車站停車場停車場地有限，請勿長期占用停車格",
         "timestamp": "1737593999",
         "url": "mail_display.php?timestamp=1737593999",
@@ -194,19 +208,5 @@
             "phone": "03-8906373"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "轉知「各機關性騷擾防治通用教材-性騷擾防治三法」",
-        "timestamp": "1736993813",
-        "url": "mail_display.php?timestamp=1736993813",
-        "date": "2025/01/16 10:16",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "王玉君",
-            "email": "hu.jean0503@gms.ndhu.edu.tw",
-            "phone": "8906220"
-        },
-        "attachmentCount": 2
     }
 ]

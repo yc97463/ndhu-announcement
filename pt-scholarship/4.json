@@ -1,5 +1,19 @@
 [
     {
+        "title": "🌟🌟113學年度第2學期【起飛見習生】召募開始囉!",
+        "timestamp": "1736233453",
+        "url": "mail_display.php?timestamp=1736233453",
+        "date": "2025/01/07 15:04",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "鄭小姐",
+            "email": "ting@gms.ndhu.edu.tw",
+            "phone": "03-8906215"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "📢📢113學年度第2學期校內行政單位【起飛見習生】開放登記申請!",
         "timestamp": "1736232280",
         "url": "mail_display.php?timestamp=1736232280",
@@ -194,19 +208,5 @@
             "phone": "03-8906219"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【重要】114年度大專校院獎助生團體保險加保事宜(第二次公告)",
-        "timestamp": "1734913340",
-        "url": "mail_display.php?timestamp=1734913340",
-        "date": "2024/12/23 08:22",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "洪乃慈",
-            "email": "naitzu@gms.ndhu.edu.tw",
-            "phone": "6523"
-        },
-        "attachmentCount": 2
     }
 ]
