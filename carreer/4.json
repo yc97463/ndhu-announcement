@@ -1,5 +1,19 @@
 [
     {
+        "title": "本校總務處(事務組) 校務基金助理 徵才公告",
+        "timestamp": "1733101850",
+        "url": "mail_display.php?timestamp=1733101850",
+        "date": "2024/12/02 09:10",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "總務處環境保護組徵聘行政助理一名",
         "timestamp": "1732873912",
         "url": "mail_display.php?timestamp=1732873912",
@@ -194,19 +208,5 @@
             "phone": "3816"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "國立東華大學圖書資訊處徵聘學士級技術師一名(預估缺，到職日為114年1月17日以後)",
-        "timestamp": "1729842453",
-        "url": "mail_display.php?timestamp=1729842453",
-        "date": "2024/10/25 15:47",
-        "department": "圖書資訊處",
-        "author": {
-            "department": "圖書資訊處",
-            "name": "周小萍",
-            "email": "hedy@gms.ndhu.edu.tw",
-            "phone": "8906852"
-        },
-        "attachmentCount": 2
     }
 ]

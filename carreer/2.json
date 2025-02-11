@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵聘教師】國立東華大學材料科學與工程學系徵聘助理教授(含)以上專任教師",
+        "timestamp": "1736752461",
+        "url": "mail_display.php?timestamp=1736752461",
+        "date": "2025/01/13 15:14",
+        "department": "材料科學與工程學系",
+        "author": {
+            "department": "材料科學與工程學系",
+            "name": "林淑玲",
+            "email": "shuling@gms.ndhu.edu.tw",
+            "phone": "8903204"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "徵人】自然資源與環境學系洪耀明老師實驗室，誠徵2位助理",
         "timestamp": "1736749923",
         "url": "mail_display.php?timestamp=1736749923",
@@ -194,19 +208,5 @@
             "phone": "03-8903006"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【徵才公告】國立東華大學會計學系誠徵身心障礙專案助理一名",
-        "timestamp": "1735109355",
-        "url": "mail_display.php?timestamp=1735109355",
-        "date": "2024/12/25 14:49",
-        "department": "會計學系",
-        "author": {
-            "department": "會計學系",
-            "name": "葉靜瑜",
-            "email": "pindopoh@gms.ndhu.edu.tw",
-            "phone": "8903072"
-        },
-        "attachmentCount": 0
     }
 ]

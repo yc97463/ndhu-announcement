@@ -1,5 +1,19 @@
 [
     {
+        "title": "國立東華大學圖書資訊處徵聘學士級技術師一名(預估缺，到職日為114年1月17日以後)",
+        "timestamp": "1729842453",
+        "url": "mail_display.php?timestamp=1729842453",
+        "date": "2024/10/25 15:47",
+        "department": "圖書資訊處",
+        "author": {
+            "department": "圖書資訊處",
+            "name": "周小萍",
+            "email": "hedy@gms.ndhu.edu.tw",
+            "phone": "8906852"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "洄瀾學院體育中心助理兼救生員徵才公告",
         "timestamp": "1729740985",
         "url": "mail_display.php?timestamp=1729740985",
@@ -194,19 +208,5 @@
             "phone": "03-8906361"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "［徵求］20241025 科普列車🚅服務學習及跨域自主志工",
-        "timestamp": "1726716616",
-        "url": "mail_display.php?timestamp=1726716616",
-        "date": "2024/09/19 11:30",
-        "department": "環境學院",
-        "author": {
-            "department": "環境學院",
-            "name": "羅郁庭",
-            "email": "erntmap@gms.ndhu.edu.tw",
-            "phone": "8905179"
-        },
-        "attachmentCount": 1
     }
 ]
