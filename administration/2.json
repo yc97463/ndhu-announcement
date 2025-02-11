@@ -1,5 +1,19 @@
 [
     {
+        "title": "行政會議 會議紀錄公告通知",
+        "timestamp": "1738660650",
+        "url": "mail_display.php?timestamp=1738660650",
+        "date": "2025/02/04 17:17",
+        "department": "秘書室議事公文組",
+        "author": {
+            "department": "秘書室議事公文組",
+            "name": "陳婉婉",
+            "email": "secretariat@gms.ndhu.edu.tw",
+            "phone": "6004"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "113-2校核心通識課程異動(增開及停開課程)公告",
         "timestamp": "1738642379",
         "url": "mail_display.php?timestamp=1738642379",
@@ -194,19 +208,5 @@
             "phone": "03-8906215"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "主旨:有關理工二館B棟部分區域照明及插座供電異常說明",
-        "timestamp": "1737452610",
-        "url": "mail_display.php?timestamp=1737452610",
-        "date": "2025/01/21 17:43",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
     }
 ]
