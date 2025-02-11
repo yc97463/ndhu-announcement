@@ -1,5 +1,19 @@
 [
     {
+        "title": "教育學院2號電梯故障停用",
+        "timestamp": "1737378138",
+        "url": "mail_display.php?timestamp=1737378138",
+        "date": "2025/01/20 21:02",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【訊息轉知】教育部辦理114年度第1梯次數位學習課程認證審查將於114年2月1日起受理申請",
         "timestamp": "1737344987",
         "url": "mail_display.php?timestamp=1737344987",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "為進行居南邨43號和素心里E棟水表箱漏水維修【停水】公告",
-        "timestamp": "1736869781",
-        "url": "mail_display.php?timestamp=1736869781",
-        "date": "2025/01/14 23:49",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
     }
 ]

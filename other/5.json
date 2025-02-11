@@ -1,5 +1,19 @@
 [
     {
+        "title": "為進行居南邨43號和素心里E棟水表箱漏水維修【停水】公告",
+        "timestamp": "1736869781",
+        "url": "mail_display.php?timestamp=1736869781",
+        "date": "2025/01/14 23:49",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "「2024臺灣科普環島列車」壽豐站、花蓮站的成果影片上線囉！",
         "timestamp": "1736832937",
         "url": "mail_display.php?timestamp=1736832937",
@@ -194,19 +208,5 @@
             "phone": "6931"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【徵才】【2025 Yourator數位職涯博覽會AI・SDGs・SLASHIE】(2025年1月11日舉辦)",
-        "timestamp": "1736411516",
-        "url": "mail_display.php?timestamp=1736411516",
-        "date": "2025/01/09 16:31",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 6
     }
 ]
