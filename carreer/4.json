@@ -1,5 +1,19 @@
 [
     {
+        "title": "總務處環境保護組徵聘行政助理一名",
+        "timestamp": "1732873912",
+        "url": "mail_display.php?timestamp=1732873912",
+        "date": "2024/11/29 17:51",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "賴宜萱",
+            "email": "lai0210@gms.ndhu.edu.tw",
+            "phone": "6393"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【第二次公告】東華大學原民院「建構原住民族教育文化知識體系專案管理中心」 【系統開發組】誠徵專任助理",
         "timestamp": "1732690073",
         "url": "mail_display.php?timestamp=1732690073",
@@ -194,19 +208,5 @@
             "phone": "8906852"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "洄瀾學院體育中心助理兼救生員徵才公告",
-        "timestamp": "1729740985",
-        "url": "mail_display.php?timestamp=1729740985",
-        "date": "2024/10/24 11:36",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "莊璦綺",
-            "email": "ichi@gms.ndhu.edu.tw",
-            "phone": "6613"
-        },
-        "attachmentCount": 0
     }
 ]

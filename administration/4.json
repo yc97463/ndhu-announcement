@@ -1,5 +1,19 @@
 [
     {
+        "title": "【人事室公告】差勤(刷卡)系統於114年1月16日(四)中午12~13時暫停服務",
+        "timestamp": "1736918101",
+        "url": "mail_display.php?timestamp=1736918101",
+        "date": "2025/01/15 13:15",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "劉依虹",
+            "email": "joyce_liu@gms.ndhu.edu.tw",
+            "phone": "6060"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "公文系統訂於114年1月16日(四)中午12~13時暫停服務公告",
         "timestamp": "1736904300",
         "url": "mail_display.php?timestamp=1736904300",
@@ -194,19 +208,5 @@
             "phone": "6329"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【圖書館公告】114年寒假開館時間。【Library Announce】Library opening time for the coming winter vacation.",
-        "timestamp": "1736467542",
-        "url": "mail_display.php?timestamp=1736467542",
-        "date": "2025/01/10 08:05",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "詹依萍",
-            "email": "ipchan@gms.ndhu.edu.tw",
-            "phone": "6813"
-        },
-        "attachmentCount": 0
     }
 ]

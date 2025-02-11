@@ -1,5 +1,19 @@
 [
     {
+        "title": "【圖書館公告】114年寒假開館時間。【Library Announce】Library opening time for the coming winter vacation.",
+        "timestamp": "1736467542",
+        "url": "mail_display.php?timestamp=1736467542",
+        "date": "2025/01/10 08:05",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "詹依萍",
+            "email": "ipchan@gms.ndhu.edu.tw",
+            "phone": "6813"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【網路維護】校園骨幹網路系統更換【第二次公告】",
         "timestamp": "1736426469",
         "url": "mail_display.php?timestamp=1736426469",
@@ -194,19 +208,5 @@
             "phone": "6727"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "防範一氧化碳中毒，再冷也要打開生命之窗",
-        "timestamp": "1736129142",
-        "url": "mail_display.php?timestamp=1736129142",
-        "date": "2025/01/06 10:05",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳詩啓",
-            "email": "sam0831@gms.ndhu.edu.tw",
-            "phone": "6216"
-        },
-        "attachmentCount": 1
     }
 ]
