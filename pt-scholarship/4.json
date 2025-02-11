@@ -1,5 +1,19 @@
 [
     {
+        "title": "📢📢113學年度第2學期校內行政單位【起飛見習生】開放登記申請!",
+        "timestamp": "1736232280",
+        "url": "mail_display.php?timestamp=1736232280",
+        "date": "2025/01/07 14:44",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "鄭淑亭",
+            "email": "ting@gms.ndhu.edu.tw",
+            "phone": "03-8906215"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": " 【徵才公告】國立東華大學原住民族語言花蓮學習中心 工讀生若干名",
         "timestamp": "1736217009",
         "url": "mail_display.php?timestamp=1736217009",
@@ -194,19 +208,5 @@
             "phone": "6523"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【論文獎助】新北市政府教育局113年「新北市技職教育研究發展支持計畫」",
-        "timestamp": "1734312684",
-        "url": "mail_display.php?timestamp=1734312684",
-        "date": "2024/12/16 09:31",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]
