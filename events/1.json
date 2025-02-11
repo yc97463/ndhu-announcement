@@ -1,5 +1,33 @@
 [
     {
+        "title": "114學年度中等教育學程甄選說明會",
+        "timestamp": "1739231702",
+        "url": "mail_display.php?timestamp=1739231702",
+        "date": "2025/02/11 07:55",
+        "department": "師資培育中心 中等學程組",
+        "author": {
+            "department": "師資培育中心 中等學程組",
+            "name": "劉姵君",
+            "email": "amyliou@gms.ndhu.edu.tw",
+            "phone": "6632"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113-2學期東華校園綬草調查",
+        "timestamp": "1739231701",
+        "url": "mail_display.php?timestamp=1739231701",
+        "date": "2025/02/11 07:55",
+        "department": "環境暨海洋學院 校園環境中心",
+        "author": {
+            "department": "環境暨海洋學院 校園環境中心",
+            "name": "程曦",
+            "email": "chengc831004@gms.ndhu.edu.tw",
+            "phone": "(03)890-3322"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【教師限定】西班牙姊妹校哈恩大學 2025語言測試設計及驗證課程 “For Lecturers Only\" Course on Language Test Design and Validat",
         "timestamp": "1739178371",
         "url": "mail_display.php?timestamp=1739178371",
@@ -180,33 +208,5 @@
             "phone": "(03)890-3322"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【說明會】臺灣大專院校人工智慧聯盟 113-2 開課 東華線上說明會(114年02月10日)",
-        "timestamp": "1738660850",
-        "url": "mail_display.php?timestamp=1738660850",
-        "date": "2025/02/04 17:20",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "陳禮凡",
-            "email": "lifan.chen@gms.ndhu.edu.tw",
-            "phone": "038906586"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "113-2體育館『體能訓練室』114/02/17(一)~114/06/21(六)開放申請學期會員公告",
-        "timestamp": "1738651656",
-        "url": "mail_display.php?timestamp=1738651656",
-        "date": "2025/02/04 14:47",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "沈正雄",
-            "email": "chshen@gms.ndhu.edu.tw",
-            "phone": "6618"
-        },
-        "attachmentCount": 3
     }
 ]

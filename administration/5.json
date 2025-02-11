@@ -1,5 +1,19 @@
 [
     {
+        "title": "請授課教師提供113學年度第2學期「教師指定參考書清單」，謝謝。",
+        "timestamp": "1736387776",
+        "url": "mail_display.php?timestamp=1736387776",
+        "date": "2025/01/09 09:56",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "陳昱佐",
+            "email": "yutuchen@gms.ndhu.edu.tw",
+            "phone": "038906824"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "為進行擷雲莊消防栓漏水維修後續復原事宜(第二階段)公告",
         "timestamp": "1736345781",
         "url": "mail_display.php?timestamp=1736345781",
@@ -192,20 +206,6 @@
             "name": "劉宏銘",
             "email": "hung.liu@gms.ndhu.edu.tw",
             "phone": "6376"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【資安提醒】本校ISMS文件與資通安全政策公告",
-        "timestamp": "1735892333",
-        "url": "mail_display.php?timestamp=1735892333",
-        "date": "2025/01/03 16:18",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "何振揚",
-            "email": "cyang@gms.ndhu.edu.tw",
-            "phone": "6746"
         },
         "attachmentCount": 0
     }

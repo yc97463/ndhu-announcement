@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才公告】誠徵大學社會責任專任執行秘書",
+        "timestamp": "1736834644",
+        "url": "mail_display.php?timestamp=1736834644",
+        "date": "2025/01/14 14:04",
+        "department": "社會參與中心",
+        "author": {
+            "department": "社會參與中心",
+            "name": "鄒小姐",
+            "email": "tsai_yen@gms.ndhu.edu.tw",
+            "phone": "5243"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【傳染病衛生宣導】因應國內陸續出現麻疹病例，請全校師生加強防疫，以維護您的健康",
         "timestamp": "1736750708",
         "url": "mail_display.php?timestamp=1736750708",
@@ -192,20 +206,6 @@
             "name": "陳治豪",
             "email": "jackchen168@gms.ndhu.edu.tw",
             "phone": "6057"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "請授課教師提供113學年度第2學期「教師指定參考書清單」，謝謝。",
-        "timestamp": "1736387776",
-        "url": "mail_display.php?timestamp=1736387776",
-        "date": "2025/01/09 09:56",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "陳昱佐",
-            "email": "yutuchen@gms.ndhu.edu.tw",
-            "phone": "038906824"
         },
         "attachmentCount": 1
     }
