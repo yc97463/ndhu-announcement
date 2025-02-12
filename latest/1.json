@@ -1,5 +1,33 @@
 [
     {
+        "title": "【個資保護】學校使用資通系統與生物特徵辨識技術個資指引",
+        "timestamp": "1739328500",
+        "url": "mail_display.php?timestamp=1739328500",
+        "date": "2025/02/12 10:48",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "何振揚",
+            "email": "cyang@gms.ndhu.edu.tw",
+            "phone": "6746"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【獎助學金申請】桃園市114年第一次原住民族學生清寒及優秀獎助學金 (限桃園市籍)",
+        "timestamp": "1739327021",
+        "url": "mail_display.php?timestamp=1739327021",
+        "date": "2025/02/12 10:23",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "辦理本校113年0403地震第2次財物災損填報作業公告",
         "timestamp": "1739321289",
         "url": "mail_display.php?timestamp=1739321289",
@@ -180,33 +208,5 @@
             "phone": "03-8906226"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【資安宣導】轉知教育部來函，有關行政院來函說明112年盤點大陸廠牌資通訊產品及委外營運公眾場域契約事宜，及進行資安宣導。",
-        "timestamp": "1739257773",
-        "url": "mail_display.php?timestamp=1739257773",
-        "date": "2025/02/11 15:09",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "蕭澤宇",
-            "email": "zyhsiao@gms.ndhu.edu.tw",
-            "phone": "6727"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "國立東華大學洄瀾共好大學社會責任中心誠徵計畫助理一名(第一次公告)",
-        "timestamp": "1739256577",
-        "url": "mail_display.php?timestamp=1739256577",
-        "date": "2025/02/11 14:49",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "洄瀾共好大學社會責任中心",
-            "email": "techusr@gms.ndhu.edu.tw",
-            "phone": "3772"
-        },
-        "attachmentCount": 0
     }
 ]
