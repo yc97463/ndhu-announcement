@@ -1,6 +1,20 @@
 [
     {
         "title": "爭取3.5萬實作金與3萬獎勵金【2024創新創意實踐提案競賽】第二期徵件最後階段，可結合專題提案！",
+        "timestamp": "1735177553",
+        "url": "mail_display.php?timestamp=1735177553",
+        "date": "2024/12/26 09:45",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "吳其璁",
+            "email": "dci93031@gms.ndhu.edu.tw",
+            "phone": "03-8903687"
+        },
+        "attachmentCount": 9
+    },
+    {
+        "title": "爭取3.5萬實作金與3萬獎勵金【2024創新創意實踐提案競賽】第二期徵件最後階段，可結合專題提案！",
         "timestamp": "1735177545",
         "url": "mail_display.php?timestamp=1735177545",
         "date": "2024/12/26 09:45",
@@ -194,19 +208,5 @@
             "phone": "6667"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【轉知】南投縣政府修訂「南投縣政府補助公私立大專院校及高級中等以下學校學生出國學習獎助學金作業要點」，歡迎符合申請資格之學生踴躍提出申請",
-        "timestamp": "1731894076",
-        "url": "mail_display.php?timestamp=1731894076",
-        "date": "2024/11/18 09:41",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 4
     }
 ]
