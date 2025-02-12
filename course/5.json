@@ -1,5 +1,19 @@
 [
     {
+        "title": "【第三次公告】資訊資產盤點暨風險評鑑教育訓練",
+        "timestamp": "1730171307",
+        "url": "mail_display.php?timestamp=1730171307",
+        "date": "2024/10/29 11:08",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "蕭澤宇",
+            "email": "zyhsiao@gms.ndhu.edu.tw",
+            "phone": "03-8906727"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【課程推推✨】113-1 溝通表微課程報名開跑啦💬想拿通識一學分嗎? 火速報名詳見內文🔥",
         "timestamp": "1729759603",
         "url": "mail_display.php?timestamp=1729759603",
@@ -194,19 +208,5 @@
             "phone": "03-8905919"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【Forward 協助轉知】113 年 ESG 永續報告書暨碳管理師證書培訓班招生簡章",
-        "timestamp": "1727142480",
-        "url": "mail_display.php?timestamp=1727142480",
-        "date": "2024/09/24 09:48",
-        "department": "永續發展中心",
-        "author": {
-            "department": "永續發展中心",
-            "name": "李莉莉 Li-Li Lee",
-            "email": "sd@gms.ndhu.edu.tw",
-            "phone": "03-890-5920"
-        },
-        "attachmentCount": 4
     }
 ]
