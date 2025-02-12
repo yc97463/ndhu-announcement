@@ -1,5 +1,19 @@
 [
     {
+        "title": "【台灣社會與政治發展講座 公告】",
+        "timestamp": "1732241718",
+        "url": "mail_display.php?timestamp=1732241718",
+        "date": "2024/11/22 10:15",
+        "department": "原住民民族學院",
+        "author": {
+            "department": "原住民民族學院",
+            "name": "曾同學",
+            "email": "611296004@gms.ndhu.edu.tw",
+            "phone": "0955204467"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "【職涯講座】讓AI當你的創意助手：生成式技術輕鬆學✌️",
         "timestamp": "1731983497",
         "url": "mail_display.php?timestamp=1731983497",
@@ -194,19 +208,5 @@
             "phone": "6122~6126"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【公告】檢送公務人力發展學院「114年度訓練計畫預開班期需求調查表」及調查報名表各1份，請於113年11月7日(星期四)下班前，調查報名表經單位主管核章後送至人事室統一彙整。 ",
-        "timestamp": "1730276647",
-        "url": "mail_display.php?timestamp=1730276647",
-        "date": "2024/10/30 16:24",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "陳美杏",
-            "email": "msing@gms.ndhu.edu.tw",
-            "phone": "6059"
-        },
-        "attachmentCount": 2
     }
 ]

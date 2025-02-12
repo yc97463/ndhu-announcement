@@ -1,5 +1,19 @@
 [
     {
+        "title": "【課務組公告】請注意113-2網路加退選時間 Please Notice the Period for Online Add/Drop Courses",
+        "timestamp": "1739341102",
+        "url": "mail_display.php?timestamp=1739341102",
+        "date": "2025/02/12 14:18",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113-2「VIP垂直整合」微學程說明會",
         "timestamp": "1739332207",
         "url": "mail_display.php?timestamp=1739332207",
@@ -192,20 +206,6 @@
             "name": "林政文",
             "email": "brucelin@gms.ndhu.edu.tw",
             "phone": "3973"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "請授課教師提供113學年度第2學期「教師指定參考書清單」，謝謝。",
-        "timestamp": "1736387776",
-        "url": "mail_display.php?timestamp=1736387776",
-        "date": "2025/01/09 09:56",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "陳昱佐",
-            "email": "yutuchen@gms.ndhu.edu.tw",
-            "phone": "038906824"
         },
         "attachmentCount": 1
     }

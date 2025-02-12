@@ -1,5 +1,19 @@
 [
     {
+        "title": "【公告】檢送公務人力發展學院「114年度訓練計畫預開班期需求調查表」及調查報名表各1份，請於113年11月7日(星期四)下班前，調查報名表經單位主管核章後送至人事室統一彙整。 ",
+        "timestamp": "1730276647",
+        "url": "mail_display.php?timestamp=1730276647",
+        "date": "2024/10/30 16:24",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "陳美杏",
+            "email": "msing@gms.ndhu.edu.tw",
+            "phone": "6059"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【第三次公告】資訊資產盤點暨風險評鑑教育訓練",
         "timestamp": "1730171307",
         "url": "mail_display.php?timestamp=1730171307",
@@ -194,19 +208,5 @@
             "phone": "03-8903850"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【第二次公告】國家環境研究院113年淨零大專到校推廣課程",
-        "timestamp": "1727664653",
-        "url": "mail_display.php?timestamp=1727664653",
-        "date": "2024/09/30 10:50",
-        "department": "永續發展中心",
-        "author": {
-            "department": "永續發展中心",
-            "name": "李敏賢",
-            "email": "sd@gms.ndhu.edu.tw",
-            "phone": "03-8905919"
-        },
-        "attachmentCount": 2
     }
 ]
