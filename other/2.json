@@ -1,5 +1,33 @@
 [
     {
+        "title": "東華電子報 | 2025年01月刊 |",
+        "timestamp": "1738907501",
+        "url": "mail_display.php?timestamp=1738907501",
+        "date": "2025/02/07 13:51",
+        "department": "秘書室公關宣傳組",
+        "author": {
+            "department": "秘書室公關宣傳組",
+            "name": "林佩瑤",
+            "email": "peiyao@gms.ndhu.edu.tw",
+            "phone": "6013"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【轉知】勞動部「第55屆全國技能競賽暨第3屆亞洲技能競賽及第48屆國際技能競賽國手選拔賽」修正公告",
+        "timestamp": "1738905733",
+        "url": "mail_display.php?timestamp=1738905733",
+        "date": "2025/02/07 13:22",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "歡迎選修「股票投資分析與程式設計」(周五早上)",
         "timestamp": "1738902008",
         "url": "mail_display.php?timestamp=1738902008",
@@ -178,34 +206,6 @@
             "name": "何振揚",
             "email": "cyang@gms.ndhu.edu.tw",
             "phone": "6746"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【轉知】勞動部勞動力發展署北基宜花金馬分署青年職涯發展中心「114年2月活動資訊」(講座及參訪)",
-        "timestamp": "1738660505",
-        "url": "mail_display.php?timestamp=1738660505",
-        "date": "2025/02/04 17:15",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 5
-    },
-    {
-        "title": "【NUST申請案】114年度「臺灣國立大學系統學生實驗室交換經費補助」申請案，本校受理期限至114年3月3日(星期一)中午12時止",
-        "timestamp": "1738653782",
-        "url": "mail_display.php?timestamp=1738653782",
-        "date": "2025/02/04 15:23",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "李凱琳",
-            "email": "rdoffice@gms.ndhu.edu.tw",
-            "phone": "6502"
         },
         "attachmentCount": 2
     }
