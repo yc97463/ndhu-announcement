@@ -1,5 +1,19 @@
 [
     {
+        "title": "因康芮颱風侵襲，本校校園環境尚待復原，11/1（五）課程，教師得採線上授課方式進行。",
+        "timestamp": "1730384982",
+        "url": "mail_display.php?timestamp=1730384982",
+        "date": "2024/10/31 22:29",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122~6126"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【公告】檢送公務人力發展學院「114年度訓練計畫預開班期需求調查表」及調查報名表各1份，請於113年11月7日(星期四)下班前，調查報名表經單位主管核章後送至人事室統一彙整。 ",
         "timestamp": "1730276647",
         "url": "mail_display.php?timestamp=1730276647",
@@ -194,19 +208,5 @@
             "phone": "6122-6126"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "花蓮縣 113下半年 文化與秋冬星空跨域教學師資培訓計畫",
-        "timestamp": "1727936740",
-        "url": "mail_display.php?timestamp=1727936740",
-        "date": "2024/10/03 14:25",
-        "department": "科學教育中心",
-        "author": {
-            "department": "科學教育中心",
-            "name": "鄭立婷",
-            "email": "liting032@gms.ndhu.edu.tw",
-            "phone": "03-8903850"
-        },
-        "attachmentCount": 1
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "勿開啟社交工程信件以免個資外洩或被詐騙",
+        "timestamp": "1739343457",
+        "url": "mail_display.php?timestamp=1739343457",
+        "date": "2025/02/12 14:57",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "葉宏達",
+            "email": "honda@gms.ndhu.edu.tw",
+            "phone": "8906747"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【個資保護】學校使用資通系統與生物特徵辨識技術個資指引",
         "timestamp": "1739341728",
         "url": "mail_display.php?timestamp=1739341728",
@@ -194,19 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "114年度校區內客貨電梯進行月保養排程通告2月保養",
-        "timestamp": "1739072867",
-        "url": "mail_display.php?timestamp=1739072867",
-        "date": "2025/02/09 11:47",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
     }
 ]
