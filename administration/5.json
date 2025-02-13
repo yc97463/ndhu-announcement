@@ -1,5 +1,19 @@
 [
     {
+        "title": "為進行居南邨43號和素心里E棟水表箱漏水維修【停水】公告",
+        "timestamp": "1736869781",
+        "url": "mail_display.php?timestamp=1736869781",
+        "date": "2025/01/14 23:49",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才公告】誠徵大學社會責任專任執行秘書",
         "timestamp": "1736834644",
         "url": "mail_display.php?timestamp=1736834644",
@@ -194,19 +208,5 @@
             "phone": "6724"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【普獎中獎通知】113學年度教職員工歲末聯歡活動500元禮券(100名)中獎人領取公告。",
-        "timestamp": "1736416390",
-        "url": "mail_display.php?timestamp=1736416390",
-        "date": "2025/01/09 17:53",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "陳治豪",
-            "email": "jackchen168@gms.ndhu.edu.tw",
-            "phone": "6057"
-        },
-        "attachmentCount": 1
     }
 ]

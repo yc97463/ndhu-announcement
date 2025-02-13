@@ -1,5 +1,19 @@
 [
     {
+        "title": "自2/4起大學門(含側門)及志學門車牌辨識系統啟用公告(第三次公告)",
+        "timestamp": "1739255139",
+        "url": "mail_display.php?timestamp=1739255139",
+        "date": "2025/02/11 14:25",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "藝術學院訂於114年2月14日更換電力保護設備停電通知",
         "timestamp": "1739238208",
         "url": "mail_display.php?timestamp=1739238208",
@@ -194,19 +208,5 @@
             "phone": "6523"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "行政會議 會議紀錄公告通知",
-        "timestamp": "1738660650",
-        "url": "mail_display.php?timestamp=1738660650",
-        "date": "2025/02/04 17:17",
-        "department": "秘書室議事公文組",
-        "author": {
-            "department": "秘書室議事公文組",
-            "name": "陳婉婉",
-            "email": "secretariat@gms.ndhu.edu.tw",
-            "phone": "6004"
-        },
-        "attachmentCount": 1
     }
 ]
