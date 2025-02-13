@@ -1,5 +1,19 @@
 [
     {
+        "title": "【行政公告】國立東華大學學生免費法律諮詢服務",
+        "timestamp": "1739237218",
+        "url": "mail_display.php?timestamp=1739237218",
+        "date": "2025/02/11 09:26",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "郭詩妘",
+            "email": "kikiguo@gms.ndhu.edu.tw",
+            "phone": "03-8906227"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "[停水]理工一館入水管線開關更換停水通告",
         "timestamp": "1739197252",
         "url": "mail_display.php?timestamp=1739197252",
@@ -186,20 +200,6 @@
         "timestamp": "1738642379",
         "url": "mail_display.php?timestamp=1738642379",
         "date": "2025/02/04 12:12",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "6607"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "113-2校核心通識課程異動(增開及停開課程)公告",
-        "timestamp": "1738630658",
-        "url": "mail_display.php?timestamp=1738630658",
-        "date": "2025/02/04 08:57",
         "department": "通識教育中心",
         "author": {
             "department": "通識教育中心",
