@@ -1,5 +1,47 @@
 [
     {
+        "title": "民族語言與傳播學系【電視企劃與製作-期末成果展】",
+        "timestamp": "1735602901",
+        "url": "mail_display.php?timestamp=1735602901",
+        "date": "2024/12/31 07:55",
+        "department": "原住民民族學院 民族語言與傳播學系",
+        "author": {
+            "department": "原住民民族學院 民族語言與傳播學系",
+            "name": "璽祐.哈?咪",
+            "email": "siyu@gms.ndhu.edu.tw",
+            "phone": "038905824"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【轉發創新競賽徵件訊息】第七屆 #高通台灣創新競賽 徵件啟動！",
+        "timestamp": "1735548653",
+        "url": "mail_display.php?timestamp=1735548653",
+        "date": "2024/12/30 16:50",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "劉美慧",
+            "email": "rita0118@gms.ndhu.edu.tw",
+            "phone": "03-8903241"
+        },
+        "attachmentCount": 6
+    },
+    {
+        "title": "【轉發訊息】2025「高通台灣創新競賽」賽制流程",
+        "timestamp": "1735548248",
+        "url": "mail_display.php?timestamp=1735548248",
+        "date": "2024/12/30 16:44",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "劉美慧",
+            "email": "rita0118@gms.ndhu.edu.tw",
+            "phone": "03-8903241"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "活動倒數4天！【113-1英語電影語言與文化AB電影首映會】－抽全家禮券",
         "timestamp": "1735529587",
         "url": "mail_display.php?timestamp=1735529587",
@@ -166,47 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "爭取3.5萬實作金與3萬獎勵金【2024創新創意實踐提案競賽】第二期徵件最後階段，可結合專題提案！",
-        "timestamp": "1735177553",
-        "url": "mail_display.php?timestamp=1735177553",
-        "date": "2024/12/26 09:45",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "吳其璁",
-            "email": "dci93031@gms.ndhu.edu.tw",
-            "phone": "03-8903687"
-        },
-        "attachmentCount": 9
-    },
-    {
-        "title": "爭取3.5萬實作金與3萬獎勵金【2024創新創意實踐提案競賽】第二期徵件最後階段，可結合專題提案！",
-        "timestamp": "1735177545",
-        "url": "mail_display.php?timestamp=1735177545",
-        "date": "2024/12/26 09:45",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "吳其璁",
-            "email": "dci93031@gms.ndhu.edu.tw",
-            "phone": "03-8903687"
-        },
-        "attachmentCount": 9
-    },
-    {
-        "title": "【藝創系】114.1.2【113-1系學會期末系大會】（認證一小時，限本系同學）",
-        "timestamp": "1735170901",
-        "url": "mail_display.php?timestamp=1735170901",
-        "date": "2024/12/26 07:55",
-        "department": "藝術學院 藝術創意產業學系",
-        "author": {
-            "department": "藝術學院 藝術創意產業學系",
-            "name": "謝明海",
-            "email": "ocean@gms.ndhu.edu.tw",
-            "phone": "8905889"
-        },
-        "attachmentCount": 0
     }
 ]

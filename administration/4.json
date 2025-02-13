@@ -1,5 +1,19 @@
 [
     {
+        "title": "113學年度第2學期學雜費繳費單(114/01/20)可以下載囉！",
+        "timestamp": "1737423037",
+        "url": "mail_display.php?timestamp=1737423037",
+        "date": "2025/01/21 09:30",
+        "department": "總務處出納組",
+        "author": {
+            "department": "總務處出納組",
+            "name": "鄧瑞美",
+            "email": "deng@gms.ndhu.edu.tw",
+            "phone": "6366"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "教育學院2號電梯故障停用",
         "timestamp": "1737378138",
         "url": "mail_display.php?timestamp=1737378138",
@@ -194,19 +208,5 @@
             "phone": "6752"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【保管組公告】本校涵星一莊報廢之宿舍傢俱提供借用通知",
-        "timestamp": "1736729560",
-        "url": "mail_display.php?timestamp=1736729560",
-        "date": "2025/01/13 08:52",
-        "department": "總務處保管組",
-        "author": {
-            "department": "總務處保管組",
-            "name": "林慧濘",
-            "email": "maya70@gms.ndhu.edu.tw",
-            "phone": "8906344"
-        },
-        "attachmentCount": 1
     }
 ]

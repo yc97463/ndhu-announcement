@@ -1,5 +1,19 @@
 [
     {
+        "title": "【課務組】113學年度第1學期期中停修 Mid-semester course withdrawal (11/11 - 11/29)",
+        "timestamp": "1730686532",
+        "url": "mail_display.php?timestamp=1730686532",
+        "date": "2024/11/04 10:15",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "因康芮颱風侵襲，本校校園環境尚待復原，11/1（五）課程，教師得採線上授課方式進行。",
         "timestamp": "1730384982",
         "url": "mail_display.php?timestamp=1730384982",
@@ -194,19 +208,5 @@
             "phone": "03-8905919"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【課務組通知】授課教師可列印113-1學期選課確認名單",
-        "timestamp": "1728444532",
-        "url": "mail_display.php?timestamp=1728444532",
-        "date": "2024/10/09 11:28",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "utd1003@gms.ndhu.edu.tw",
-            "phone": "6122-6126"
-        },
-        "attachmentCount": 0
     }
 ]
