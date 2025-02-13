@@ -1,5 +1,19 @@
 [
     {
+        "title": "公告113學年度第1學期校核心通識課程規劃重要相關注意事項Important Information about the University Core Curriculum for Autumn 2024",
+        "timestamp": "1716268666",
+        "url": "mail_display.php?timestamp=1716268666",
+        "date": "2024/05/21 13:17",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "6607"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "113學年度(第10屆)大專生金融就業公益專班第二次線上說明會",
         "timestamp": "1716254645",
         "url": "mail_display.php?timestamp=1716254645",
@@ -194,19 +208,5 @@
             "phone": "6579"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【線上課程報名中】🔥112-2專案財務管理與行銷－05/12掌握流量的影音影響力🎬",
-        "timestamp": "1714807406",
-        "url": "mail_display.php?timestamp=1714807406",
-        "date": "2024/05/04 15:23",
-        "department": "社會參與中心",
-        "author": {
-            "department": "社會參與中心",
-            "name": "童小姐",
-            "email": "tung-sin@gms.ndhu.edu.tw",
-            "phone": "5243"
-        },
-        "attachmentCount": 3
     }
 ]

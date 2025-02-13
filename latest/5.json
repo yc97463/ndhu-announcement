@@ -1,5 +1,33 @@
 [
     {
+        "title": "[停水]理工一館入水管線開關更換停水通告",
+        "timestamp": "1739197252",
+        "url": "mail_display.php?timestamp=1739197252",
+        "date": "2025/02/10 22:20",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【教師限定】西班牙姊妹校哈恩大學 2025語言測試設計及驗證課程 “For Lecturers Only\" Course on Language Test Design and Validat",
+        "timestamp": "1739178371",
+        "url": "mail_display.php?timestamp=1739178371",
+        "date": "2025/02/10 17:06",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】昌益事業群「113-2昌益慈善基金會助學獎學金」 (限低收入戶)",
         "timestamp": "1739176946",
         "url": "mail_display.php?timestamp=1739176946",
@@ -178,34 +206,6 @@
             "name": "劉昱淩",
             "email": "e56187@gms.ndhu.edu.tw",
             "phone": "890-6056"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【徵才】臺灣桃園地方法院114年第1次儲備約僱職務代理人甄試(延長報名至114年2月26日截止)",
-        "timestamp": "1739165356",
-        "url": "mail_display.php?timestamp=1739165356",
-        "date": "2025/02/10 13:29",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "【獎助學金申請】台南市113-2清寒優秀學生獎學金 (限台南市籍)",
-        "timestamp": "1739160064",
-        "url": "mail_display.php?timestamp=1739160064",
-        "date": "2025/02/10 12:01",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
         },
         "attachmentCount": 1
     }
