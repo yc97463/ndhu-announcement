@@ -1,5 +1,33 @@
 [
     {
+        "title": "主旨：理一周邊至外環道路燈線路損壞公告",
+        "timestamp": "1739106594",
+        "url": "mail_display.php?timestamp=1739106594",
+        "date": "2025/02/09 21:09",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "114年度校區內客貨電梯進行月保養排程通告2月保養",
+        "timestamp": "1739072867",
+        "url": "mail_display.php?timestamp=1739072867",
+        "date": "2025/02/09 11:47",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【NUST申請案】114年度「臺灣國立大學系統學生實驗室交換經費補助」申請案，本校受理期限延長至114年3月11日(星期二)止",
         "timestamp": "1738912837",
         "url": "mail_display.php?timestamp=1738912837",
@@ -180,33 +208,5 @@
             "phone": "8906422"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【公告】114學年度附設實驗國民小學一年級新生暨附設幼兒園新生登記事宜，請本校教職員工有意願登記者，於本(114)年3月3日(星期一)前至人事室網頁附小新生登記專區填寫表單。",
-        "timestamp": "1738814382",
-        "url": "mail_display.php?timestamp=1738814382",
-        "date": "2025/02/06 11:59",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "劉依虹",
-            "email": "joyce_liu@gms.ndhu.edu.tw",
-            "phone": "6060"
-        },
-        "attachmentCount": 5
-    },
-    {
-        "title": "114年「協作式跨國學習」（Collaborative Online International Learning，COIL）計畫補助，即日起受理申請至2月28日中午12點為止。",
-        "timestamp": "1738812550",
-        "url": "mail_display.php?timestamp=1738812550",
-        "date": "2025/02/06 11:29",
-        "department": "國際事務處國際合作組",
-        "author": {
-            "department": "國際事務處國際合作組",
-            "name": "羅靖儀",
-            "email": "ice@gms.ndhu.edu.tw",
-            "phone": "（03）8905171"
-        },
-        "attachmentCount": 3
     }
 ]
