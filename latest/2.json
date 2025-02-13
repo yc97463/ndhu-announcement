@@ -1,5 +1,19 @@
 [
     {
+        "title": "【課務組公告】請注意113-2網路加退選時間 Please Notice the Period for Online Add/Drop Courses",
+        "timestamp": "1739341102",
+        "url": "mail_display.php?timestamp=1739341102",
+        "date": "2025/02/12 14:18",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【轉知】內政部國土測繪中心委託逢甲大學辦理「114年度地籍測量人員訓練班第45期」(公費班)(114年4月18日截止)",
         "timestamp": "1739333029",
         "url": "mail_display.php?timestamp=1739333029",
@@ -192,20 +206,6 @@
             "name": "巫旻靜",
             "email": "n0912631965@gms.ndhu.edu.tw",
             "phone": "6055"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【敬邀參加】114年3月4日(星期二)「臺灣國立大學系統研發工作圈113年成果發表會」",
-        "timestamp": "1739261479",
-        "url": "mail_display.php?timestamp=1739261479",
-        "date": "2025/02/11 16:11",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "李凱琳",
-            "email": "rdoffice@gms.ndhu.edu.tw",
-            "phone": "6502"
         },
         "attachmentCount": 2
     }

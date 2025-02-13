@@ -1,5 +1,19 @@
 [
     {
+        "title": "【敬邀參加】114年3月4日(星期二)「臺灣國立大學系統研發工作圈113年成果發表會」",
+        "timestamp": "1739261479",
+        "url": "mail_display.php?timestamp=1739261479",
+        "date": "2025/02/11 16:11",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "李凱琳",
+            "email": "rdoffice@gms.ndhu.edu.tw",
+            "phone": "6502"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【獎助學金申請】平凡基金會2025獎助學金 (僑外陸生亦可申請)",
         "timestamp": "1739260667",
         "url": "mail_display.php?timestamp=1739260667",
@@ -194,19 +208,5 @@
             "phone": "03-8905824"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "藝術學院訂於114年2月14日更換電力保護設備停電通知",
-        "timestamp": "1739238208",
-        "url": "mail_display.php?timestamp=1739238208",
-        "date": "2025/02/11 09:43",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉景富",
-            "email": "nickak@gms.ndhu.edu.tw",
-            "phone": "8906373"
-        },
-        "attachmentCount": 0
     }
 ]

@@ -1,6 +1,20 @@
 [
     {
         "title": "113學年度第2學期學雜費繳費單(114/01/20)可以下載囉！",
+        "timestamp": "1737423038",
+        "url": "mail_display.php?timestamp=1737423038",
+        "date": "2025/01/21 09:30",
+        "department": "總務處出納組",
+        "author": {
+            "department": "總務處出納組",
+            "name": "鄧瑞美",
+            "email": "deng@gms.ndhu.edu.tw",
+            "phone": "6366"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "113學年度第2學期學雜費繳費單(114/01/20)可以下載囉！",
         "timestamp": "1737423037",
         "url": "mail_display.php?timestamp=1737423037",
         "date": "2025/01/21 09:30",
@@ -192,20 +206,6 @@
             "name": "黃金城",
             "email": "hjc@gms.ndhu.edu.tw",
             "phone": "6724"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
-        "timestamp": "1736729717",
-        "url": "mail_display.php?timestamp=1736729717",
-        "date": "2025/01/13 08:55",
-        "department": "圖書資訊處校務系統組",
-        "author": {
-            "department": "圖書資訊處校務系統組",
-            "name": "林志軒",
-            "email": "chshlin@gms.ndhu.edu.tw",
-            "phone": "6752"
         },
         "attachmentCount": 0
     }

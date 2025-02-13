@@ -1,5 +1,19 @@
 [
     {
+        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
+        "timestamp": "1736729717",
+        "url": "mail_display.php?timestamp=1736729717",
+        "date": "2025/01/13 08:55",
+        "department": "圖書資訊處校務系統組",
+        "author": {
+            "department": "圖書資訊處校務系統組",
+            "name": "林志軒",
+            "email": "chshlin@gms.ndhu.edu.tw",
+            "phone": "6752"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【保管組公告】本校涵星一莊報廢之宿舍傢俱提供借用通知",
         "timestamp": "1736729560",
         "url": "mail_display.php?timestamp=1736729560",
@@ -192,20 +206,6 @@
             "name": "連小雅",
             "email": "lienhy@gms.ndhu.edu.tw",
             "phone": "6329"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "114年寒假壽豐校區高壓設備檢測停電時程(114/01/13~114/02/07)公告(第2次公告)",
-        "timestamp": "1736314689",
-        "url": "mail_display.php?timestamp=1736314689",
-        "date": "2025/01/08 13:38",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉景富",
-            "email": "nickak@gms.ndhu.edu.tw",
-            "phone": "03-8906373"
         },
         "attachmentCount": 1
     }

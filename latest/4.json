@@ -1,5 +1,19 @@
 [
     {
+        "title": "藝術學院訂於114年2月14日更換電力保護設備停電通知",
+        "timestamp": "1739238208",
+        "url": "mail_display.php?timestamp=1739238208",
+        "date": "2025/02/11 09:43",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉景富",
+            "email": "nickak@gms.ndhu.edu.tw",
+            "phone": "8906373"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【轉知】美國Minnesota State University, Mankato – Summer 2025 Experience for International Students: Intensive English Program for Global Citizens",
         "timestamp": "1739237972",
         "url": "mail_display.php?timestamp=1739237972",
@@ -194,19 +208,5 @@
             "phone": "3772/3770"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "Welcome to join the 42nd International Conference of the Microscopy Society of Thailand (MST42) and apply for the Research Internship Grant 2025/26",
-        "timestamp": "1739169517",
-        "url": "mail_display.php?timestamp=1739169517",
-        "date": "2025/02/10 14:38",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 4
     }
 ]

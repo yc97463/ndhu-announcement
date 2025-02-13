@@ -1,5 +1,19 @@
 [
     {
+        "title": "【課務組】113-2學期兼任教師教學、課程停開及請假補（代）課提醒事項",
+        "timestamp": "1739410634",
+        "url": "mail_display.php?timestamp=1739410634",
+        "date": "2025/02/13 09:37",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "宋育縈",
+            "email": "suz@gms.ndhu.edu.tw",
+            "phone": "6126"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【活動轉知】國立嘉義大學辦理數位課程教師研習",
         "timestamp": "1739410248",
         "url": "mail_display.php?timestamp=1739410248",
@@ -194,19 +208,5 @@
             "phone": "6746"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【課務組公告】請注意113-2網路加退選時間 Please Notice the Period for Online Add/Drop Courses",
-        "timestamp": "1739341102",
-        "url": "mail_display.php?timestamp=1739341102",
-        "date": "2025/02/12 14:18",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "utd1003@gms.ndhu.edu.tw",
-            "phone": "6122-6126"
-        },
-        "attachmentCount": 0
     }
 ]
