@@ -1,6 +1,20 @@
 [
     {
         "title": "113-2校核心通識課程異動(增開及停開課程)公告",
+        "timestamp": "1738642379",
+        "url": "mail_display.php?timestamp=1738642379",
+        "date": "2025/02/04 12:12",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "6607"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "113-2校核心通識課程異動(增開及停開課程)公告",
         "timestamp": "1738630658",
         "url": "mail_display.php?timestamp=1738630658",
         "date": "2025/02/04 08:57",
@@ -194,19 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【出國交換】2025年第二次國際交換學生甄選",
-        "timestamp": "1737449608",
-        "url": "mail_display.php?timestamp=1737449608",
-        "date": "2025/01/21 16:53",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 5
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "【通識】113-2學期通識課程活動補助申請(第三次公告)",
+        "timestamp": "1739434780",
+        "url": "mail_display.php?timestamp=1739434780",
+        "date": "2025/02/13 16:19",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "李睿芬",
+            "email": "fen19@gms.ndhu.edu.tw",
+            "phone": "6602"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【課務組】113-2學期兼任教師教學、課程停開及請假補（代）課提醒事項",
         "timestamp": "1739410634",
         "url": "mail_display.php?timestamp=1739410634",
@@ -194,19 +208,5 @@
             "phone": "038906586"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【轉知】臺灣國立大學系統「113-2學期校際選課相關資訊」與「114學年度跨校輔系/雙主修名額與條件」",
-        "timestamp": "1737600076",
-        "url": "mail_display.php?timestamp=1737600076",
-        "date": "2025/01/23 10:41",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "utd1003@gms.ndhu.edu.tw",
-            "phone": "6122-6126"
-        },
-        "attachmentCount": 0
     }
 ]
