@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】平安菁英教育基金會「113-2學期平安及菁英獎學金」",
+        "timestamp": "1735788281",
+        "url": "mail_display.php?timestamp=1735788281",
+        "date": "2025/01/02 11:24",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】中華民國電腦技能基金會113學年度獎學金 (限大學應屆畢業生)",
         "timestamp": "1735787401",
         "url": "mail_display.php?timestamp=1735787401",
@@ -194,19 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "提案簡單、爭取實作金與獎金【2024創新創意實踐提案競賽】亦可結合專題提案！",
-        "timestamp": "1733123570",
-        "url": "mail_display.php?timestamp=1733123570",
-        "date": "2024/12/02 15:12",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "劉美慧",
-            "email": "rita0118@gms.ndhu.edu.tw",
-            "phone": "03-8903241"
-        },
-        "attachmentCount": 9
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "【NUST申請案】114年度「臺灣國立大學系統學生實驗室交換經費補助」申請案，本校受理期限延長至114年3月11日(星期二)止",
+        "timestamp": "1738912837",
+        "url": "mail_display.php?timestamp=1738912837",
+        "date": "2025/02/07 15:20",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "李凱琳",
+            "email": "rdoffice@gms.ndhu.edu.tw",
+            "phone": "6502"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "東華電子報 | 2025年01月刊 |",
         "timestamp": "1738907501",
         "url": "mail_display.php?timestamp=1738907501",
@@ -194,19 +208,5 @@
             "phone": "（03）8905171"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【社交工程提醒】近期有冒名釣魚信件，請謹慎辨識。",
-        "timestamp": "1738749414",
-        "url": "mail_display.php?timestamp=1738749414",
-        "date": "2025/02/05 17:56",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "何振揚",
-            "email": "cyang@gms.ndhu.edu.tw",
-            "phone": "6746"
-        },
-        "attachmentCount": 2
     }
 ]

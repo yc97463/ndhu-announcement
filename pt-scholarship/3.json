@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】高雄市113-2清寒優秀學生獎學金 (限高雄市籍低或中低收)",
+        "timestamp": "1738737207",
+        "url": "mail_display.php?timestamp=1738737207",
+        "date": "2025/02/05 14:33",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】台北市關渡宮114年助學金 (限北市、新北、桃園、基隆、宜蘭、新竹、苗栗、花蓮、台東等縣市之低或中低戶、特境、身心障礙者或子女)",
         "timestamp": "1738725786",
         "url": "mail_display.php?timestamp=1738725786",
@@ -192,20 +206,6 @@
             "name": "葉俊良",
             "email": "ycliang@gms.ndhu.edu.tw",
             "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "轉國立臺灣師範大學人事室現有全職工讀生職缺乙名",
-        "timestamp": "1737079011",
-        "url": "mail_display.php?timestamp=1737079011",
-        "date": "2025/01/17 09:56",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "王文和",
-            "email": "rlawwh@gms.ndhu.edu.tw",
-            "phone": "分機6221"
         },
         "attachmentCount": 1
     }
