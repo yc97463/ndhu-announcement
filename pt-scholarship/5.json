@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才公告】國立東華大學原住民族語言花蓮學習中心 工讀生若干名",
+        "timestamp": "1736134234",
+        "url": "mail_display.php?timestamp=1736134234",
+        "date": "2025/01/06 11:30",
+        "department": "原住民族語言中心",
+        "author": {
+            "department": "原住民族語言中心",
+            "name": "朱小姐",
+            "email": "ndhu_illc@gms.ndhu.edu.tw",
+            "phone": "03-8905904"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【獎助學金申請】中華民國電腦技能基金會2025中文能力測驗中心獎學金",
         "timestamp": "1735804629",
         "url": "mail_display.php?timestamp=1735804629",
@@ -194,19 +208,5 @@
             "phone": "03-8903687"
         },
         "attachmentCount": 9
-    },
-    {
-        "title": "【獎助學金申請】本校113年度「紀念張欽松先生馬拉松獎學金」(受理申請至114.01.03日截止)",
-        "timestamp": "1733659793",
-        "url": "mail_display.php?timestamp=1733659793",
-        "date": "2024/12/08 20:09",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]

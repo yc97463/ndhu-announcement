@@ -1,5 +1,19 @@
 [
     {
+        "title": "勿開啟社交工程信件以免個資外洩或被詐騙",
+        "timestamp": "1739343457",
+        "url": "mail_display.php?timestamp=1739343457",
+        "date": "2025/02/12 14:57",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "葉宏達",
+            "email": "honda@gms.ndhu.edu.tw",
+            "phone": "8906747"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【教務處】國立東華大學_學期週數問卷調查_教師版",
         "timestamp": "1739343073",
         "url": "mail_display.php?timestamp=1739343073",
@@ -194,19 +208,5 @@
             "phone": "8906253"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【安全宣導】慎防浪漫陷阱 情人節小提醒",
-        "timestamp": "1739289425",
-        "url": "mail_display.php?timestamp=1739289425",
-        "date": "2025/02/11 23:57",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "王玉君",
-            "email": "hu.jean0503@gms.ndhu.edu.tw",
-            "phone": "8906220"
-        },
-        "attachmentCount": 1
     }
 ]
