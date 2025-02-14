@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才】鼎霖醫療器材股份有限公司正職及實習生職缺招募中~~🔥🔥",
+        "timestamp": "1739506410",
+        "url": "mail_display.php?timestamp=1739506410",
+        "date": "2025/02/14 12:13",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【學生自主學習社群】113-2學期社群審查結果公告",
         "timestamp": "1739504483",
         "url": "mail_display.php?timestamp=1739504483",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【個資保護】學校使用資通系統與生物特徵辨識技術個資指引",
-        "timestamp": "1739341728",
-        "url": "mail_display.php?timestamp=1739341728",
-        "date": "2025/02/12 14:28",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "何振揚",
-            "email": "cyang@gms.ndhu.edu.tw",
-            "phone": "6746"
-        },
-        "attachmentCount": 2
     }
 ]

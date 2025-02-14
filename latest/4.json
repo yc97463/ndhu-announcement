@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】新北市113-2高級中等以上學校原住民學生獎學金 (限新北市籍碩博班一二年級)",
+        "timestamp": "1739331495",
+        "url": "mail_display.php?timestamp=1739331495",
+        "date": "2025/02/12 11:38",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】桃園市114年第一次原住民族學生清寒及優秀獎助學金 (限桃園市籍)",
         "timestamp": "1739327021",
         "url": "mail_display.php?timestamp=1739327021",
@@ -194,19 +208,5 @@
             "phone": "03-8906226"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【資安宣導】轉知教育部來函，有關行政院來函說明112年盤點大陸廠牌資通訊產品及委外營運公眾場域契約事宜，及進行資安宣導。",
-        "timestamp": "1739257773",
-        "url": "mail_display.php?timestamp=1739257773",
-        "date": "2025/02/11 15:09",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "蕭澤宇",
-            "email": "zyhsiao@gms.ndhu.edu.tw",
-            "phone": "6727"
-        },
-        "attachmentCount": 3
     }
 ]

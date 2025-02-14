@@ -1,5 +1,19 @@
 [
     {
+        "title": "【資安宣導】轉知教育部來函，有關行政院來函說明112年盤點大陸廠牌資通訊產品及委外營運公眾場域契約事宜，及進行資安宣導。",
+        "timestamp": "1739257773",
+        "url": "mail_display.php?timestamp=1739257773",
+        "date": "2025/02/11 15:09",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "蕭澤宇",
+            "email": "zyhsiao@gms.ndhu.edu.tw",
+            "phone": "6727"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "國立東華大學洄瀾共好大學社會責任中心誠徵計畫助理一名(第一次公告)",
         "timestamp": "1739256577",
         "url": "mail_display.php?timestamp=1739256577",
@@ -192,20 +206,6 @@
             "name": "郭詩妘",
             "email": "kikiguo@gms.ndhu.edu.tw",
             "phone": "03-8906227"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【獎助學金申請】山本文化教育基金會114年獎學金 (限台南市籍家境清寒大一生)",
-        "timestamp": "1739236762",
-        "url": "mail_display.php?timestamp=1739236762",
-        "date": "2025/02/11 09:19",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
         },
         "attachmentCount": 1
     }
