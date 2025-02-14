@@ -1,5 +1,19 @@
 [
     {
+        "title": "[停水]理工一館下水塔進水位閥更換停水通告",
+        "timestamp": "1739525060",
+        "url": "mail_display.php?timestamp=1739525060",
+        "date": "2025/02/14 17:24",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才】國立東華大學圖書資訊處徵聘【校務行政系統開發】碩士級技術師一名",
         "timestamp": "1739524454",
         "url": "mail_display.php?timestamp=1739524454",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【徵才】鼎霖醫療器材股份有限公司正職及實習生職缺招募中~~🔥🔥",
-        "timestamp": "1739506410",
-        "url": "mail_display.php?timestamp=1739506410",
-        "date": "2025/02/14 12:13",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 4
     }
 ]

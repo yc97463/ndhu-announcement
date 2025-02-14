@@ -1,5 +1,19 @@
 [
     {
+        "title": "【課務組】113學年度第2學期學士班課程「免修」申請（自即日起至02/19(三)午夜23:59止）",
+        "timestamp": "1738800266",
+        "url": "mail_display.php?timestamp=1738800266",
+        "date": "2025/02/06 08:04",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "course@gms.ndhu.edu.tw",
+            "phone": "6122~6126"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【社交工程提醒】近期有冒名釣魚信件，請謹慎辨識。",
         "timestamp": "1738749414",
         "url": "mail_display.php?timestamp=1738749414",
@@ -192,20 +206,6 @@
             "name": "楊惠雯",
             "email": "hwyang@gms.ndhu.edu.tw",
             "phone": "6061"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【衛生宣導】安全駕駛 藥注意! ",
-        "timestamp": "1737602573",
-        "url": "mail_display.php?timestamp=1737602573",
-        "date": "2025/01/23 11:22",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
         },
         "attachmentCount": 1
     }
