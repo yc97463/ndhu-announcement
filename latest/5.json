@@ -1,5 +1,47 @@
 [
     {
+        "title": "【人才招募】113-2 東華數位大學伴招募!!!",
+        "timestamp": "1739266168",
+        "url": "mail_display.php?timestamp=1739266168",
+        "date": "2025/02/11 17:29",
+        "department": "花師教育學院",
+        "author": {
+            "department": "花師教育學院",
+            "name": "李宛玲",
+            "email": "etutor_c226@gms.ndhu.edu.tw",
+            "phone": "3816"
+        },
+        "attachmentCount": 7
+    },
+    {
+        "title": "【人事室公告】新訂本校「教師因公出國案件處理要點」，請公告並轉所屬教職員工知照。",
+        "timestamp": "1739264665",
+        "url": "mail_display.php?timestamp=1739264665",
+        "date": "2025/02/11 17:04",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "巫旻靜",
+            "email": "n0912631965@gms.ndhu.edu.tw",
+            "phone": "6055"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【敬邀參加】114年3月4日(星期二)「臺灣國立大學系統研發工作圈113年成果發表會」",
+        "timestamp": "1739261479",
+        "url": "mail_display.php?timestamp=1739261479",
+        "date": "2025/02/11 16:11",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "李凱琳",
+            "email": "rdoffice@gms.ndhu.edu.tw",
+            "phone": "6502"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【獎助學金申請】平凡基金會2025獎助學金 (僑外陸生亦可申請)",
         "timestamp": "1739260667",
         "url": "mail_display.php?timestamp=1739260667",
@@ -166,47 +208,5 @@
             "phone": "5107"
         },
         "attachmentCount": 9
-    },
-    {
-        "title": "【獎助學金申請】勞動部113-2失業勞工子女就學補助",
-        "timestamp": "1739240064",
-        "url": "mail_display.php?timestamp=1739240064",
-        "date": "2025/02/11 10:14",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "新科技與台灣族語振興國際工作坊x成果展",
-        "timestamp": "1739239027",
-        "url": "mail_display.php?timestamp=1739239027",
-        "date": "2025/02/11 09:57",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "璽祐．哈噜咪",
-            "email": "siyu@gms.ndhu.edu.tw",
-            "phone": "03-8905824"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "藝術學院訂於114年2月14日更換電力保護設備停電通知",
-        "timestamp": "1739238208",
-        "url": "mail_display.php?timestamp=1739238208",
-        "date": "2025/02/11 09:43",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉景富",
-            "email": "nickak@gms.ndhu.edu.tw",
-            "phone": "8906373"
-        },
-        "attachmentCount": 0
     }
 ]

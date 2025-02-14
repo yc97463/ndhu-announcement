@@ -1,5 +1,19 @@
 [
     {
+        "title": "第25屆東華奇萊文學獎徵文活動~歡迎踴躍投稿~",
+        "timestamp": "1735789803",
+        "url": "mail_display.php?timestamp=1735789803",
+        "date": "2025/01/02 11:50",
+        "department": "人文社會科學學院",
+        "author": {
+            "department": "人文社會科學學院",
+            "name": "姜妃澤",
+            "email": "ftc1029@gms.ndhu.edu.tw",
+            "phone": "03-8905203"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "[Event] Winners Announcement and Postscript for the “2024 English Travel Blog Competition”",
         "timestamp": "1735782621",
         "url": "mail_display.php?timestamp=1735782621",
@@ -194,19 +208,5 @@
             "phone": "03-8905168"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "讓我們一起來推薦【113學年度優良導師】Annual Excellent Mentor Nomination",
-        "timestamp": "1735265082",
-        "url": "mail_display.php?timestamp=1735265082",
-        "date": "2024/12/27 10:04",
-        "department": "心理諮商輔導中心",
-        "author": {
-            "department": "心理諮商輔導中心",
-            "name": "陶開勤",
-            "email": "kctao@gms.ndhu.edu.tw",
-            "phone": "03-8906275"
-        },
-        "attachmentCount": 3
     }
 ]

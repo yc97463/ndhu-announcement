@@ -1,5 +1,19 @@
 [
     {
+        "title": "【東區基地】教學實踐研究計畫主題座談 ~ USR與SDG案例與實踐要訣(114.03.04.)",
+        "timestamp": "1736736726",
+        "url": "mail_display.php?timestamp=1736736726",
+        "date": "2025/01/13 10:52",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳禮凡",
+            "email": "lifan.chen@gms.ndhu.edu.tw",
+            "phone": "038906586"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "123456789",
         "timestamp": "1736726101",
         "url": "mail_display.php?timestamp=1736726101",
@@ -194,19 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "第25屆東華奇萊文學獎徵文活動~歡迎踴躍投稿~",
-        "timestamp": "1735789803",
-        "url": "mail_display.php?timestamp=1735789803",
-        "date": "2025/01/02 11:50",
-        "department": "人文社會科學學院",
-        "author": {
-            "department": "人文社會科學學院",
-            "name": "姜妃澤",
-            "email": "ftc1029@gms.ndhu.edu.tw",
-            "phone": "03-8905203"
-        },
-        "attachmentCount": 5
     }
 ]
