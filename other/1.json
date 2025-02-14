@@ -1,5 +1,19 @@
 [
     {
+        "title": "【訊息轉知】國立高雄科技大學開設6門磨課師(MOOCs)免費線上課程歡迎報名參加",
+        "timestamp": "1739498082",
+        "url": "mail_display.php?timestamp=1739498082",
+        "date": "2025/02/14 09:54",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 8
+    },
+    {
         "title": "test",
         "timestamp": "1739495996",
         "url": "mail_display.php?timestamp=1739495996",
@@ -192,20 +206,6 @@
             "name": "黃文雯",
             "email": "wenwen@gms.ndhu.edu.tw",
             "phone": "6283"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【安全宣導】慎防浪漫陷阱 情人節小提醒",
-        "timestamp": "1739289425",
-        "url": "mail_display.php?timestamp=1739289425",
-        "date": "2025/02/11 23:57",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "王玉君",
-            "email": "hu.jean0503@gms.ndhu.edu.tw",
-            "phone": "8906220"
         },
         "attachmentCount": 1
     }
