@@ -1,5 +1,33 @@
 [
     {
+        "title": "圖書館博碩士論文系統改換公告  NDHU's New website for E-theses/dissertation",
+        "timestamp": "1739503406",
+        "url": "mail_display.php?timestamp=1739503406",
+        "date": "2025/02/14 11:23",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "簡民享",
+            "email": "jms@gms.ndhu.edu.tw",
+            "phone": "6842"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113-2學期學生自主學習培力方案通過名單",
+        "timestamp": "1739502683",
+        "url": "mail_display.php?timestamp=1739502683",
+        "date": "2025/02/14 11:11",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "鄭宏昱",
+            "email": "bighead7361@gms.ndhu.edu.tw",
+            "phone": "6590"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "【訊息轉知】國立高雄科技大學開設6門磨課師(MOOCs)免費線上課程歡迎報名參加",
         "timestamp": "1739498082",
         "url": "mail_display.php?timestamp=1739498082",
@@ -12,34 +40,6 @@
             "phone": "8906422"
         },
         "attachmentCount": 8
-    },
-    {
-        "title": "test",
-        "timestamp": "1739495996",
-        "url": "mail_display.php?timestamp=1739495996",
-        "date": "2025/02/14 09:19",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "honda",
-            "email": "honda@gms.ndhu.edu.tw",
-            "phone": "6747"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "測試 test",
-        "timestamp": "1739495498",
-        "url": "mail_display.php?timestamp=1739495498",
-        "date": "2025/02/14 09:11",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "葉宏達",
-            "email": "honda@gms.ndhu.edu.tw",
-            "phone": "8906747"
-        },
-        "attachmentCount": 1
     },
     {
         "title": "有關今日理工一館地下室淹水一事說明",
