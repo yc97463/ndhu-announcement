@@ -1,5 +1,19 @@
 [
     {
+        "title": "辦理本校113年0403地震第2次財物災損填報作業公告",
+        "timestamp": "1739321289",
+        "url": "mail_display.php?timestamp=1739321289",
+        "date": "2025/02/12 08:48",
+        "department": "總務處保管組",
+        "author": {
+            "department": "總務處保管組",
+            "name": "陳楚治",
+            "email": "kolas1219@gms.ndhu.edu.tw",
+            "phone": "03-8906342"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "本校編制內教職員工113學年度第2學期子女教育補助費自即日起受理「線上」申請，檢附【子女教育補助操作手冊】1份，請於114年3月21日(星期五)完成線上申請。",
         "timestamp": "1739319831",
         "url": "mail_display.php?timestamp=1739319831",
@@ -194,19 +208,5 @@
             "phone": "3772"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "自2/4起大學門(含側門)及志學門車牌辨識系統啟用公告(第三次公告)",
-        "timestamp": "1739255139",
-        "url": "mail_display.php?timestamp=1739255139",
-        "date": "2025/02/11 14:25",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 2
     }
 ]

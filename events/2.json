@@ -1,5 +1,19 @@
 [
     {
+        "title": "初領車證交通安全宣導活動第一場次-1140217",
+        "timestamp": "1739318102",
+        "url": "mail_display.php?timestamp=1739318102",
+        "date": "2025/02/12 07:55",
+        "department": "學務處 生活輔導組",
+        "author": {
+            "department": "學務處 生活輔導組",
+            "name": "林嘉瑩",
+            "email": "tea7101@gms.ndhu.edu.tw",
+            "phone": "038906226"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【學生健康促進活動】~114年度健康體位挑戰賽即將展開，報名從速!",
         "timestamp": "1739318101",
         "url": "mail_display.php?timestamp=1739318101",
@@ -194,19 +208,5 @@
             "phone": "5107"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【戒菸班招募】2025年『疫』起來健康促進戒菸就贏(獎金等你來挑戰)",
-        "timestamp": "1738972501",
-        "url": "mail_display.php?timestamp=1738972501",
-        "date": "2025/02/08 07:55",
-        "department": "學務處 衛生保健組",
-        "author": {
-            "department": "學務處 衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 0
     }
 ]

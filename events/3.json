@@ -1,5 +1,19 @@
 [
     {
+        "title": "【戒菸班招募】2025年『疫』起來健康促進戒菸就贏(獎金等你來挑戰)",
+        "timestamp": "1738972501",
+        "url": "mail_display.php?timestamp=1738972501",
+        "date": "2025/02/08 07:55",
+        "department": "學務處 衛生保健組",
+        "author": {
+            "department": "學務處 衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【出國交換】2月19日12:10-2025第二次交換甄選說明會",
         "timestamp": "1738895448",
         "url": "mail_display.php?timestamp=1738895448",
@@ -194,19 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【出國交換】2月19日12:10-2025第二次交換甄選說明會",
-        "timestamp": "1737449691",
-        "url": "mail_display.php?timestamp=1737449691",
-        "date": "2025/01/21 16:54",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 5
     }
 ]
