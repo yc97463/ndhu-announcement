@@ -1,5 +1,33 @@
 [
     {
+        "title": "test",
+        "timestamp": "1739495996",
+        "url": "mail_display.php?timestamp=1739495996",
+        "date": "2025/02/14 09:19",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "honda",
+            "email": "honda@gms.ndhu.edu.tw",
+            "phone": "6747"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "測試 test",
+        "timestamp": "1739495498",
+        "url": "mail_display.php?timestamp=1739495498",
+        "date": "2025/02/14 09:11",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "葉宏達",
+            "email": "honda@gms.ndhu.edu.tw",
+            "phone": "8906747"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "有關今日理工一館地下室淹水一事說明",
         "timestamp": "1739447562",
         "url": "mail_display.php?timestamp=1739447562",
@@ -180,33 +208,5 @@
             "phone": "8906220"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "[停水]理工一館入水管線開關更換停水通告",
-        "timestamp": "1739197252",
-        "url": "mail_display.php?timestamp=1739197252",
-        "date": "2025/02/10 22:20",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【徵才】臺灣桃園地方法院114年第1次儲備約僱職務代理人甄試(延長報名至114年2月26日截止)",
-        "timestamp": "1739165356",
-        "url": "mail_display.php?timestamp=1739165356",
-        "date": "2025/02/10 13:29",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 4
     }
 ]

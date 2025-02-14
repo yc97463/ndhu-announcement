@@ -1,5 +1,33 @@
 [
     {
+        "title": "【訊息轉知】教育部辦理114年度第1梯次數位學習課程認證審查將於114年2月1日起受理申請",
+        "timestamp": "1737344987",
+        "url": "mail_display.php?timestamp=1737344987",
+        "date": "2025/01/20 11:49",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【轉知】「2025 INTARG第18屆波蘭國際發明創新展」",
+        "timestamp": "1737344961",
+        "url": "mail_display.php?timestamp=1737344961",
+        "date": "2025/01/20 11:49",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "李淑淳",
+            "email": "chun@gms.ndhu.edu.tw",
+            "phone": "6522"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【徵才公告】國立東華大學管理學院會計學系徵聘校務基金助理一名(第二次公告)",
         "timestamp": "1737336183",
         "url": "mail_display.php?timestamp=1737336183",
@@ -180,33 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "「2024臺灣科普環島列車」壽豐站、花蓮站的成果影片上線囉！",
-        "timestamp": "1736832937",
-        "url": "mail_display.php?timestamp=1736832937",
-        "date": "2025/01/14 13:35",
-        "department": "環境學院",
-        "author": {
-            "department": "環境學院",
-            "name": "羅郁庭",
-            "email": "erntmap@gmail.com",
-            "phone": "8905179"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【第二次公告】📢📢113學年度第2學期校內行政單位【起飛見習生】開放登記申請!",
-        "timestamp": "1736821592",
-        "url": "mail_display.php?timestamp=1736821592",
-        "date": "2025/01/14 10:26",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "鄭小姐",
-            "email": "ting@gms.ndhu.edu.tw",
-            "phone": "03-8906215"
-        },
-        "attachmentCount": 1
     }
 ]

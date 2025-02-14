@@ -1,5 +1,33 @@
 [
     {
+        "title": "【轉知】勞動部「第55屆全國技能競賽暨第3屆亞洲技能競賽及第48屆國際技能競賽國手選拔賽」",
+        "timestamp": "1738641800",
+        "url": "mail_display.php?timestamp=1738641800",
+        "date": "2025/02/04 12:03",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "本校新簽定之娜路彎大酒店股份有限公司特約商店公告。",
+        "timestamp": "1738641148",
+        "url": "mail_display.php?timestamp=1738641148",
+        "date": "2025/02/04 11:52",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "潘姵辰",
+            "email": "papec1980@gms.ndhu.edu.tw",
+            "phone": "03-8906313"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【轉知】勞動部勞動及職業安全衛生研究所「勞安加衛體驗館」歡迎各級學校參觀",
         "timestamp": "1738640160",
         "url": "mail_display.php?timestamp=1738640160",
@@ -180,33 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【訊息轉知】教育部辦理114年度第1梯次數位學習課程認證審查將於114年2月1日起受理申請",
-        "timestamp": "1737344987",
-        "url": "mail_display.php?timestamp=1737344987",
-        "date": "2025/01/20 11:49",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【轉知】「2025 INTARG第18屆波蘭國際發明創新展」",
-        "timestamp": "1737344961",
-        "url": "mail_display.php?timestamp=1737344961",
-        "date": "2025/01/20 11:49",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "李淑淳",
-            "email": "chun@gms.ndhu.edu.tw",
-            "phone": "6522"
-        },
-        "attachmentCount": 1
     }
 ]

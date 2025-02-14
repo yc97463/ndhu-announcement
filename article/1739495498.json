@@ -1,0 +1,22 @@
+{
+    "title": "測試 test",
+    "timestamp": "1739495498",
+    "url": "mail_display.php?timestamp=1739495498",
+    "date": "2025/02/14 09:11",
+    "department": "圖書資訊處圖資服務組",
+    "author": {
+        "department": "圖書資訊處圖資服務組",
+        "name": "葉宏達",
+        "email": "honda@gms.ndhu.edu.tw",
+        "phone": "8906747"
+    },
+    "content": "\u003cdiv class=\"column1-unit\"\u003e\n\n\u003c!--  信件內容   --\u003e\n\u003cpre\u003e分類： 其他公告\n來源： 圖書資訊處圖資服務組 - 葉宏達 - honda@gms.ndhu.edu.tw - 電話8906747\n對象： 全校職員\n標題： 測試 test\n日期： Fri, 14 Feb 2025 09:11:38 +0800\n附檔： \u003ca href=\"./message_7/1739495498/%E8%AB%8B%E8%B3%BC%E7%B3%BB%E7%B5%B1%E5%AF%86%E7%A2%BC%E6%9B%B4%E6%8F%9B%E5%85%AC%E5%91%8A.docx\" target=\"_blank\"\u003e請購系統密碼更換公告.docx\u003c/a\u003e (14 KB)   \u003c/pre\u003e\u003chr class=\"clear-contentunit\"/\u003e\u003cpre\u003e測試\u003c/pre\u003e\n\t\t\n\u003c/div\u003e",
+    "attachments": [
+        {
+            "fileName": "請購系統密碼更換公告.docx",
+            "fileSize": "(14 KB)",
+            "filePath": "./message_7/1739495498/%E8%AB%8B%E8%B3%BC%E7%B3%BB%E7%B5%B1%E5%AF%86%E7%A2%BC%E6%9B%B4%E6%8F%9B%E5%85%AC%E5%91%8A.docx",
+            "thumbPath": null
+        }
+    ]
+}

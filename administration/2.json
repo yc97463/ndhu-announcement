@@ -1,5 +1,19 @@
 [
     {
+        "title": "【資安宣導】轉知教育部來函，有關行政院來函說明112年盤點大陸廠牌資通訊產品及委外營運公眾場域契約事宜，及進行資安宣導。",
+        "timestamp": "1739257773",
+        "url": "mail_display.php?timestamp=1739257773",
+        "date": "2025/02/11 15:09",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "蕭澤宇",
+            "email": "zyhsiao@gms.ndhu.edu.tw",
+            "phone": "6727"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "自2/4起大學門(含側門)及志學門車牌辨識系統啟用公告(第三次公告)",
         "timestamp": "1739255139",
         "url": "mail_display.php?timestamp=1739255139",
@@ -192,20 +206,6 @@
             "name": "蕭澤宇",
             "email": "zyhsiao@gms.ndhu.edu.tw",
             "phone": "6727"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【推廣教育填報通知】113學年第1學期課程資料填報作業暨系統改版通知",
-        "timestamp": "1738718703",
-        "url": "mail_display.php?timestamp=1738718703",
-        "date": "2025/02/05 09:25",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "洪乃慈",
-            "email": "naitzu@gms.ndhu.edu.tw",
-            "phone": "6523"
         },
         "attachmentCount": 2
     }
