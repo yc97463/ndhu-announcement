@@ -1,5 +1,19 @@
 [
     {
+        "title": "【轉知】勞動部勞動及職業安全衛生研究所「勞安加衛體驗館」歡迎各級學校參觀",
+        "timestamp": "1738640160",
+        "url": "mail_display.php?timestamp=1738640160",
+        "date": "2025/02/04 11:36",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【徵才】臺北市就業服務處114年2月21日辦理「開巳大吉迎薪春」聯合徵才活動",
         "timestamp": "1738637850",
         "url": "mail_display.php?timestamp=1738637850",
@@ -194,19 +208,5 @@
             "phone": "6522"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【徵才公告】國立東華大學管理學院會計學系徵聘校務基金助理一名(第二次公告)",
-        "timestamp": "1737336183",
-        "url": "mail_display.php?timestamp=1737336183",
-        "date": "2025/01/20 09:23",
-        "department": "會計學系",
-        "author": {
-            "department": "會計學系",
-            "name": "會計學系",
-            "email": "acct041093@gms.ndhu.edu.tw",
-            "phone": "(03)890-3072"
-        },
-        "attachmentCount": 0
     }
 ]

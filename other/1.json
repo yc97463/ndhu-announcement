@@ -1,5 +1,19 @@
 [
     {
+        "title": "【公告】東南科技大學函以114年度傑出校友遴選及表揚活動，請惠予推薦參加遴選。",
+        "timestamp": "1739526088",
+        "url": "mail_display.php?timestamp=1739526088",
+        "date": "2025/02/14 17:41",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "莊博凱",
+            "email": "jonhnny77@gms.ndhu.edu.tw",
+            "phone": "6057"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "[停水]理工一館下水塔進水位閥更換停水通告",
         "timestamp": "1739525060",
         "url": "mail_display.php?timestamp=1739525060",
@@ -194,19 +208,5 @@
             "phone": "8906422"
         },
         "attachmentCount": 8
-    },
-    {
-        "title": "有關今日理工一館地下室淹水一事說明",
-        "timestamp": "1739447562",
-        "url": "mail_display.php?timestamp=1739447562",
-        "date": "2025/02/13 19:52",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
     }
 ]
