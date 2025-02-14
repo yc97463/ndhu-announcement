@@ -1,5 +1,19 @@
 [
     {
+        "title": "【交通安全】114年1月之大專校院道路交通事故情形。提醒同學行車時務必注意交通安全。",
+        "timestamp": "1739431919",
+        "url": "mail_display.php?timestamp=1739431919",
+        "date": "2025/02/13 15:31",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "林嘉瑩",
+            "email": "tea7101@gms.ndhu.edu.tw",
+            "phone": "03-8906226"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才】臺中市就業服務處114年3月7日辦理「富市台中 就業成功」大雅區聯合徵才",
         "timestamp": "1739431344",
         "url": "mail_display.php?timestamp=1739431344",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "主旨：理一周邊至外環道路燈線路損壞公告",
-        "timestamp": "1739106594",
-        "url": "mail_display.php?timestamp=1739106594",
-        "date": "2025/02/09 21:09",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 1
     }
 ]

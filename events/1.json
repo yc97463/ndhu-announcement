@@ -1,5 +1,33 @@
 [
     {
+        "title": "113-2校核心通識課程異動(增開及停開課程)公告",
+        "timestamp": "1739518668",
+        "url": "mail_display.php?timestamp=1739518668",
+        "date": "2025/02/14 15:37",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "8906607"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "113-2人社院基礎課程「縱目歐亞—空間與人文的對話」系列講座",
+        "timestamp": "1739518646",
+        "url": "mail_display.php?timestamp=1739518646",
+        "date": "2025/02/14 15:37",
+        "department": "人文社會科學學院",
+        "author": {
+            "department": "人文社會科學學院",
+            "name": "姜妃澤",
+            "email": "ftc1029@gms.ndhu.edu.tw",
+            "phone": "03-8905203"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【訊息轉知】教育部國民及學前教育署辦理「114學年度國民小學及國民中學辦理活化教學與多元學習計畫申辦說明會」",
         "timestamp": "1739513756",
         "url": "mail_display.php?timestamp=1739513756",
@@ -180,33 +208,5 @@
             "phone": "8906253"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【敬邀參加】114年3月4日(星期二)「臺灣國立大學系統研發工作圈113年成果發表會」",
-        "timestamp": "1739261479",
-        "url": "mail_display.php?timestamp=1739261479",
-        "date": "2025/02/11 16:11",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "李凱琳",
-            "email": "rdoffice@gms.ndhu.edu.tw",
-            "phone": "6502"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "113-2初領車證交通安全宣導活動第一梯次，有意申領校園車輛識別證同學，請儘速上網報名。",
-        "timestamp": "1739260178",
-        "url": "mail_display.php?timestamp=1739260178",
-        "date": "2025/02/11 15:49",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "林嘉瑩",
-            "email": "tea7101@gms.ndhu.edu.tw",
-            "phone": "03-8906226"
-        },
-        "attachmentCount": 1
     }
 ]
