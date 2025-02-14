@@ -1,5 +1,47 @@
 [
     {
+        "title": "113-2學期學生自主學習培力方案通過名單",
+        "timestamp": "1739502683",
+        "url": "mail_display.php?timestamp=1739502683",
+        "date": "2025/02/14 11:11",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "鄭宏昱",
+            "email": "bighead7361@gms.ndhu.edu.tw",
+            "phone": "6590"
+        },
+        "attachmentCount": 5
+    },
+    {
+        "title": "⭐教育大數據⭐敬邀您參加教育大數據計畫—微學程招生說明會",
+        "timestamp": "1739502126",
+        "url": "mail_display.php?timestamp=1739502126",
+        "date": "2025/02/14 11:02",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃靖樺",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【徵才訊息】國立東華大學國際事務處誠徵計畫專任助理1名",
+        "timestamp": "1739501453",
+        "url": "mail_display.php?timestamp=1739501453",
+        "date": "2025/02/14 10:50",
+        "department": "國際事務處",
+        "author": {
+            "department": "國際事務處",
+            "name": "劉力綺",
+            "email": "cheerio@gms.ndhu.edu.tw",
+            "phone": "5109"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【訊息轉知】國立高雄科技大學開設6門磨課師(MOOCs)免費線上課程歡迎報名參加",
         "timestamp": "1739498082",
         "url": "mail_display.php?timestamp=1739498082",
@@ -166,47 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "⭐教育大數據⭐敬邀您參加教育大數據計畫—微學程招生說明會",
-        "timestamp": "1739429779",
-        "url": "mail_display.php?timestamp=1739429779",
-        "date": "2025/02/13 14:56",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "黃靖樺",
-            "email": "chinghua@gms.ndhu.edu.tw",
-            "phone": "6579"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【獎助學金申請】屏東縣113-2清寒優秀學生獎學金 (限屏東縣籍)",
-        "timestamp": "1739429161",
-        "url": "mail_display.php?timestamp=1739429161",
-        "date": "2025/02/13 14:46",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【獎助學金申請】新北市三峽長福巖清水祖師公114年優秀學生獎學金 (限設籍新北巿三峽、鶯歌、柑園、山佳、中庄地區)",
-        "timestamp": "1739429029",
-        "url": "mail_display.php?timestamp=1739429029",
-        "date": "2025/02/13 14:43",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]

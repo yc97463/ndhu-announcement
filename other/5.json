@@ -1,5 +1,19 @@
 [
     {
+        "title": "113學年度第2學期兵役緩徵、儘召網路登錄開放申請通知",
+        "timestamp": "1738496650",
+        "url": "mail_display.php?timestamp=1738496650",
+        "date": "2025/02/02 19:44",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "6225"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "有關人社二1號電梯運作異常說明",
         "timestamp": "1737645344",
         "url": "mail_display.php?timestamp=1737645344",
@@ -194,19 +208,5 @@
             "phone": "6225"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【徵才】臺灣桃園地方法院114年第1次儲備約僱職務代理人甄試(114年2月12日截止)",
-        "timestamp": "1737094178",
-        "url": "mail_display.php?timestamp=1737094178",
-        "date": "2025/01/17 14:09",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 4
     }
 ]

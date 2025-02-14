@@ -1,5 +1,19 @@
 [
     {
+        "title": "【出國交換】2月19日12:10-2025第二次交換甄選說明會",
+        "timestamp": "1738895448",
+        "url": "mail_display.php?timestamp=1738895448",
+        "date": "2025/02/07 10:30",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "自然資源與環境學系 期初系員大會",
         "timestamp": "1738799702",
         "url": "mail_display.php?timestamp=1738799702",
@@ -194,19 +208,5 @@
             "phone": "5107"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【轉知】日台交流協會長期獎學金說明會",
-        "timestamp": "1737431313",
-        "url": "mail_display.php?timestamp=1737431313",
-        "date": "2025/01/21 11:48",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 2
     }
 ]

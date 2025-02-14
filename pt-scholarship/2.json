@@ -1,6 +1,20 @@
 [
     {
         "title": "【論文獎助】臺灣教育大學系統「第十一屆優良博碩士學位論文獎助」",
+        "timestamp": "1739251196",
+        "url": "mail_display.php?timestamp=1739251196",
+        "date": "2025/02/11 13:19",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【論文獎助】臺灣教育大學系統「第十一屆優良博碩士學位論文獎助」",
         "timestamp": "1739251195",
         "url": "mail_display.php?timestamp=1739251195",
         "date": "2025/02/11 13:19",
@@ -194,19 +208,5 @@
             "phone": "03-8906219"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【獎助學金申請】本校113學年度「花蓮普明寺洋霞教育獎學金」",
-        "timestamp": "1739150232",
-        "url": "mail_display.php?timestamp=1739150232",
-        "date": "2025/02/10 09:17",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 0
     }
 ]

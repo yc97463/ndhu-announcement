@@ -1,5 +1,19 @@
 [
     {
+        "title": "【學生健康促進活動】~114年度健康體位挑戰賽即將展開，報名從速!",
+        "timestamp": "1739318101",
+        "url": "mail_display.php?timestamp=1739318101",
+        "date": "2025/02/12 07:55",
+        "department": "學務處 衛生保健組",
+        "author": {
+            "department": "學務處 衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【敬邀參加】114年3月4日(星期二)「臺灣國立大學系統研發工作圈113年成果發表會」",
         "timestamp": "1739261479",
         "url": "mail_display.php?timestamp=1739261479",
@@ -194,19 +208,5 @@
             "phone": "8906253"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【出國交換】2月19日12:10-2025第二次交換甄選說明會",
-        "timestamp": "1738895448",
-        "url": "mail_display.php?timestamp=1738895448",
-        "date": "2025/02/07 10:30",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 5
     }
 ]

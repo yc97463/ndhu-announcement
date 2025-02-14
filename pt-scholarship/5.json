@@ -1,5 +1,19 @@
 [
     {
+        "title": " 【徵才公告】國立東華大學原住民族語言花蓮學習中心 工讀生若干名",
+        "timestamp": "1736217009",
+        "url": "mail_display.php?timestamp=1736217009",
+        "date": "2025/01/07 10:30",
+        "department": "原住民族語言中心",
+        "author": {
+            "department": "原住民族語言中心",
+            "name": "朱小姐",
+            "email": "ndhu_illc@gms.ndhu.edu.tw",
+            "phone": "03-8905904"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才公告】國立東華大學原住民族語言花蓮學習中心 工讀生若干名",
         "timestamp": "1736134234",
         "url": "mail_display.php?timestamp=1736134234",
@@ -194,19 +208,5 @@
             "phone": "03-8906219"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "爭取實作金與獎金【第二期徵件開始】2024創新創意實踐提案競賽，亦可結合專題提案！",
-        "timestamp": "1733980990",
-        "url": "mail_display.php?timestamp=1733980990",
-        "date": "2024/12/12 13:23",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "吳其璁",
-            "email": "dci93031@gms.ndhu.edu.tw",
-            "phone": "03-8903687"
-        },
-        "attachmentCount": 9
     }
 ]
