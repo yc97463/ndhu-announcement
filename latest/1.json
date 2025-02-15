@@ -1,5 +1,33 @@
 [
     {
+        "title": "【教卓中心】113-2教學助理培訓課程(TA training courses )開始報名囉~",
+        "timestamp": "1739607799",
+        "url": "mail_display.php?timestamp=1739607799",
+        "date": "2025/02/15 16:23",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "游家盛",
+            "email": "hyttepd@gms.ndhu.edu.tw",
+            "phone": "6589"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【人才招募】113-2學期數位大學伴招募",
+        "timestamp": "1739607489",
+        "url": "mail_display.php?timestamp=1739607489",
+        "date": "2025/02/15 16:18",
+        "department": "花師教育學院",
+        "author": {
+            "department": "花師教育學院",
+            "name": "東華學伴中心",
+            "email": "etutor_c226@gms.ndhu.edu.tw",
+            "phone": "3816"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【TA講座】BOPPPS有效教學(計2門選修)",
         "timestamp": "1739577309",
         "url": "mail_display.php?timestamp=1739577309",
@@ -178,34 +206,6 @@
             "name": "周小萍",
             "email": "hedy@gms.ndhu.edu.tw",
             "phone": "8906852"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【原資合辦講座】日本文化財：琉球喜如嘉芭蕉布工藝分享",
-        "timestamp": "1739522090",
-        "url": "mail_display.php?timestamp=1739522090",
-        "date": "2025/02/14 16:34",
-        "department": "原住民族學生資源中心",
-        "author": {
-            "department": "原住民族學生資源中心",
-            "name": "林佳儀",
-            "email": "tipus1120103@gms.ndhu.edu.tw",
-            "phone": "5718"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "🌟【訊息轉知】青年百億海外圓夢基金計畫東區說明會開放報名啦！🌟",
-        "timestamp": "1739520937",
-        "url": "mail_display.php?timestamp=1739520937",
-        "date": "2025/02/14 16:15",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "張雯婷",
-            "email": "kz02820@gms.ndhu.edu.tw",
-            "phone": "038906284"
         },
         "attachmentCount": 2
     }

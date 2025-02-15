@@ -1,5 +1,33 @@
 [
     {
+        "title": "圖書館博碩士論文系統改換公告  NDHU's New website for E-theses/dissertation",
+        "timestamp": "1739503406",
+        "url": "mail_display.php?timestamp=1739503406",
+        "date": "2025/02/14 11:23",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "簡民享",
+            "email": "jms@gms.ndhu.edu.tw",
+            "phone": "6842"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113-2學期學生自主學習培力方案通過名單",
+        "timestamp": "1739502683",
+        "url": "mail_display.php?timestamp=1739502683",
+        "date": "2025/02/14 11:11",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "鄭宏昱",
+            "email": "bighead7361@gms.ndhu.edu.tw",
+            "phone": "6590"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "⭐教育大數據⭐敬邀您參加教育大數據計畫—微學程招生說明會",
         "timestamp": "1739502126",
         "url": "mail_display.php?timestamp=1739502126",
@@ -180,33 +208,5 @@
             "phone": "03-8906226"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【徵才】臺中市就業服務處114年3月7日辦理「富市台中 就業成功」大雅區聯合徵才",
-        "timestamp": "1739431344",
-        "url": "mail_display.php?timestamp=1739431344",
-        "date": "2025/02/13 15:22",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "⭐教育大數據⭐敬邀您參加教育大數據計畫—微學程招生說明會",
-        "timestamp": "1739429779",
-        "url": "mail_display.php?timestamp=1739429779",
-        "date": "2025/02/13 14:56",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "黃靖樺",
-            "email": "chinghua@gms.ndhu.edu.tw",
-            "phone": "6579"
-        },
-        "attachmentCount": 1
     }
 ]

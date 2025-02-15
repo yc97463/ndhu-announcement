@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵聘專任教師】國立東華大學教育與潛能開發學系徵聘專任助理教授(含)以上1名",
+        "timestamp": "1733355905",
+        "url": "mail_display.php?timestamp=1733355905",
+        "date": "2024/12/05 07:45",
+        "department": "教育與潛能開發學系",
+        "author": {
+            "department": "教育與潛能開發學系",
+            "name": "溫小姐",
+            "email": "yuyu@gms.ndhu.edu.tw",
+            "phone": "3823"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "📌徵才《2025藝文中心工讀生》招募開始囉！",
         "timestamp": "1733296702",
         "url": "mail_display.php?timestamp=1733296702",
@@ -194,19 +208,5 @@
             "phone": "03-8903241"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【國立東華大學管理學院資訊管理學系系主任】 徵聘公告",
-        "timestamp": "1730251060",
-        "url": "mail_display.php?timestamp=1730251060",
-        "date": "2024/10/30 09:17",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "林香君",
-            "email": "smgt@gms.ndhu.edu.tw",
-            "phone": "3002"
-        },
-        "attachmentCount": 0
     }
 ]

@@ -1,5 +1,33 @@
 [
     {
+        "title": "【教卓中心】113-2教學助理培訓課程(TA training courses )開始報名囉~",
+        "timestamp": "1739607799",
+        "url": "mail_display.php?timestamp=1739607799",
+        "date": "2025/02/15 16:23",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "游家盛",
+            "email": "hyttepd@gms.ndhu.edu.tw",
+            "phone": "6589"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【人才招募】113-2學期數位大學伴招募",
+        "timestamp": "1739607489",
+        "url": "mail_display.php?timestamp=1739607489",
+        "date": "2025/02/15 16:18",
+        "department": "花師教育學院",
+        "author": {
+            "department": "花師教育學院",
+            "name": "東華學伴中心",
+            "email": "etutor_c226@gms.ndhu.edu.tw",
+            "phone": "3816"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【公告】東南科技大學函以114年度傑出校友遴選及表揚活動，請惠予推薦參加遴選。",
         "timestamp": "1739526088",
         "url": "mail_display.php?timestamp=1739526088",
@@ -180,33 +208,5 @@
             "phone": "6842"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "113-2學期學生自主學習培力方案通過名單",
-        "timestamp": "1739502683",
-        "url": "mail_display.php?timestamp=1739502683",
-        "date": "2025/02/14 11:11",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "鄭宏昱",
-            "email": "bighead7361@gms.ndhu.edu.tw",
-            "phone": "6590"
-        },
-        "attachmentCount": 5
-    },
-    {
-        "title": "【訊息轉知】國立高雄科技大學開設6門磨課師(MOOCs)免費線上課程歡迎報名參加",
-        "timestamp": "1739498082",
-        "url": "mail_display.php?timestamp=1739498082",
-        "date": "2025/02/14 09:54",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 8
     }
 ]

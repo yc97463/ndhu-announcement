@@ -1,5 +1,19 @@
 [
     {
+        "title": "【國立東華大學管理學院資訊管理學系系主任】 徵聘公告",
+        "timestamp": "1730251060",
+        "url": "mail_display.php?timestamp=1730251060",
+        "date": "2024/10/30 09:17",
+        "department": "管理學院",
+        "author": {
+            "department": "管理學院",
+            "name": "林香君",
+            "email": "smgt@gms.ndhu.edu.tw",
+            "phone": "3002"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "原住民民族學院原住民族研究國際博士班 徵聘專任教師一名 Assistant Professor (or above) in Indigenous Studies",
         "timestamp": "1730172000",
         "url": "mail_display.php?timestamp=1730172000",
@@ -194,19 +208,5 @@
             "phone": "8905179"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【徵才公告】國立東華大學總務處環保組徵聘【校務基金職務代理人】",
-        "timestamp": "1727156381",
-        "url": "mail_display.php?timestamp=1727156381",
-        "date": "2024/09/24 13:39",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "許智翔",
-            "email": "cocco3746@gms.ndhu.edu.tw",
-            "phone": "038906399"
-        },
-        "attachmentCount": 0
     }
 ]
