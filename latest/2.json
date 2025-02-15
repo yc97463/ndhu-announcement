@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才】國立東華大學圖書資訊處徵聘【校務行政系統開發】碩士級技術師一名",
+        "timestamp": "1739524454",
+        "url": "mail_display.php?timestamp=1739524454",
+        "date": "2025/02/14 17:14",
+        "department": "圖書資訊處",
+        "author": {
+            "department": "圖書資訊處",
+            "name": "周小萍",
+            "email": "hedy@gms.ndhu.edu.tw",
+            "phone": "8906852"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【原資合辦講座】日本文化財：琉球喜如嘉芭蕉布工藝分享",
         "timestamp": "1739522090",
         "url": "mail_display.php?timestamp=1739522090",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【學生自主學習社群】113-2學期社群審查結果公告",
-        "timestamp": "1739504483",
-        "url": "mail_display.php?timestamp=1739504483",
-        "date": "2025/02/14 11:41",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "李貞穎",
-            "email": "jeannie@gms.ndhu.edu.tw",
-            "phone": "8906587"
-        },
-        "attachmentCount": 1
     }
 ]

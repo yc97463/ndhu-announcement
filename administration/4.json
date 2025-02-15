@@ -1,5 +1,19 @@
 [
     {
+        "title": "國科會114年大專學生研究計畫申請案，自即日起至114年2月19日中午12：00前完成線上申請，歡迎踴躍申請。",
+        "timestamp": "1737611693",
+        "url": "mail_display.php?timestamp=1737611693",
+        "date": "2025/01/23 13:54",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "彭惠玉",
+            "email": "emmapeng@gms.ndhu.edu.tw",
+            "phone": "6512"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【人事室公告】本校113學年度第2學期起行政及學術主管名冊",
         "timestamp": "1737611145",
         "url": "mail_display.php?timestamp=1737611145",
@@ -194,19 +208,5 @@
             "phone": "6523"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "113學年度第2學期兵役緩徵、儘召網路登錄開放申請通知",
-        "timestamp": "1737096969",
-        "url": "mail_display.php?timestamp=1737096969",
-        "date": "2025/01/17 14:56",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "黃勇程",
-            "email": "victor0903@gms.ndhu.edu.tw",
-            "phone": "6225"
-        },
-        "attachmentCount": 1
     }
 ]
