@@ -1,5 +1,19 @@
 [
     {
+        "title": "【通識】113-2學期通識課程活動補助申請(第二次公告)",
+        "timestamp": "1738632540",
+        "url": "mail_display.php?timestamp=1738632540",
+        "date": "2025/02/04 09:29",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "李睿芬",
+            "email": "fen19@gms.ndhu.edu.tw",
+            "phone": "6602"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "113-2校核心通識課程異動(增開及停開課程)公告",
         "timestamp": "1738630658",
         "url": "mail_display.php?timestamp=1738630658",
@@ -194,19 +208,5 @@
             "phone": "6613"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【通識】114年全國夏季學院通識課程邀課及課程補助開始受理申請囉~歡迎有興趣老師申請!",
-        "timestamp": "1733984631",
-        "url": "mail_display.php?timestamp=1733984631",
-        "date": "2024/12/12 14:23",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "李睿芬",
-            "email": "fen19@gms.ndhu.edu.tw",
-            "phone": "6602"
-        },
-        "attachmentCount": 4
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】燃燈基金會2025年清寒學生助學 (限大一、二)",
+        "timestamp": "1737502399",
+        "url": "mail_display.php?timestamp=1737502399",
+        "date": "2025/01/22 07:33",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【論文獎助】新北市政府教育局114年度中小學研究發展獎勵",
         "timestamp": "1737470046",
         "url": "mail_display.php?timestamp=1737470046",
@@ -192,20 +206,6 @@
             "name": "葉俊良",
             "email": "ycliang@gms.ndhu.edu.tw",
             "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "轉勞動部製作之「工讀生勞動權益e化資料」",
-        "timestamp": "1736316066",
-        "url": "mail_display.php?timestamp=1736316066",
-        "date": "2025/01/08 14:01",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "王文和",
-            "email": "rlawwh@gms.ndhu.edu.tw",
-            "phone": "分機6221"
         },
         "attachmentCount": 1
     }

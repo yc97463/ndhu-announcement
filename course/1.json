@@ -1,5 +1,19 @@
 [
     {
+        "title": "📣📣113-2起飛學習課程、活動第一波免費報名開放啦!!",
+        "timestamp": "1739760263",
+        "url": "mail_display.php?timestamp=1739760263",
+        "date": "2025/02/17 10:44",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "鄭小姐",
+            "email": "ting@gms.ndhu.edu.tw",
+            "phone": "03-8906215"
+        },
+        "attachmentCount": 7
+    },
+    {
         "title": "✨東華大學秋野芒劇團公益巡演【2025離島專案—澎湖、小琉球巡演計畫】招生囉!!✨",
         "timestamp": "1739752107",
         "url": "mail_display.php?timestamp=1739752107",
@@ -194,19 +208,5 @@
             "phone": "6607"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【通識】113-2學期通識課程活動補助申請(第二次公告)",
-        "timestamp": "1738632540",
-        "url": "mail_display.php?timestamp=1738632540",
-        "date": "2025/02/04 09:29",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "李睿芬",
-            "email": "fen19@gms.ndhu.edu.tw",
-            "phone": "6602"
-        },
-        "attachmentCount": 4
     }
 ]
