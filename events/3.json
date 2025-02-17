@@ -1,5 +1,33 @@
 [
     {
+        "title": "【TA講座】一般教室使用說明：包含文學院、共科大樓、理學院(無資訊講桌) (必修)",
+        "timestamp": "1739577306",
+        "url": "mail_display.php?timestamp=1739577306",
+        "date": "2025/02/15 07:55",
+        "department": "教學卓越中心 教學與學習組",
+        "author": {
+            "department": "教學卓越中心 教學與學習組",
+            "name": "游家盛",
+            "email": "hyttepd@gms.ndhu.edu.tw",
+            "phone": "03-8906589"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【TA講座】優良TA分享：TA自我增能的秘訣與心法",
+        "timestamp": "1739577305",
+        "url": "mail_display.php?timestamp=1739577305",
+        "date": "2025/02/15 07:55",
+        "department": "教學卓越中心 教學與學習組",
+        "author": {
+            "department": "教學卓越中心 教學與學習組",
+            "name": "游家盛",
+            "email": "hyttepd@gms.ndhu.edu.tw",
+            "phone": "03-8906589"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【TA講座】東華e學苑使用說明(必修)",
         "timestamp": "1739577304",
         "url": "mail_display.php?timestamp=1739577304",
@@ -180,33 +208,5 @@
             "phone": "6579"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【活動轉知】國立嘉義大學辦理數位課程教師研習",
-        "timestamp": "1739410248",
-        "url": "mail_display.php?timestamp=1739410248",
-        "date": "2025/02/13 09:30",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "國立東華大學教育大數據計畫—微學程招生說明會",
-        "timestamp": "1739404502",
-        "url": "mail_display.php?timestamp=1739404502",
-        "date": "2025/02/13 07:55",
-        "department": "理工學院 ",
-        "author": {
-            "department": "理工學院",
-            "name": "黃靖樺",
-            "email": "chinghua@gms.ndhu.edu.tw",
-            "phone": "03-890-6579"
-        },
-        "attachmentCount": 0
     }
 ]

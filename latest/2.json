@@ -1,5 +1,19 @@
 [
     {
+        "title": "【海外實習計畫】114年教育部學海築夢及新南向學海築夢計畫，選送學生赴國外之企業、機構進行職場實習",
+        "timestamp": "1739760572",
+        "url": "mail_display.php?timestamp=1739760572",
+        "date": "2025/02/17 10:49",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "📣📣113-2起飛學習課程、活動第一波免費報名開放啦!!",
         "timestamp": "1739760263",
         "url": "mail_display.php?timestamp=1739760263",
@@ -194,19 +208,5 @@
             "phone": "8906253"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【新生健檢通知】歡迎113-2入學新生報名健康檢查",
-        "timestamp": "1739750817",
-        "url": "mail_display.php?timestamp=1739750817",
-        "date": "2025/02/17 08:06",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 1
     }
 ]
