@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才】臺中市就業服務處114年3月7日辦理「富市台中 就業成功」大雅區聯合徵才",
+        "timestamp": "1739431344",
+        "url": "mail_display.php?timestamp=1739431344",
+        "date": "2025/02/13 15:22",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "📢 113-2 學期 K 書中心開放時間公告與注意事項/ K-Study Center Opening Hours \u0026 Guidelines",
         "timestamp": "1739416917",
         "url": "mail_display.php?timestamp=1739416917",
@@ -194,19 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "114年度校區內客貨電梯進行月保養排程通告2月保養",
-        "timestamp": "1739072867",
-        "url": "mail_display.php?timestamp=1739072867",
-        "date": "2025/02/09 11:47",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
     }
 ]
