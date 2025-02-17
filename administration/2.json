@@ -1,5 +1,19 @@
 [
     {
+        "title": "有關今日理工一館地下室淹水一事說明",
+        "timestamp": "1739447562",
+        "url": "mail_display.php?timestamp=1739447562",
+        "date": "2025/02/13 19:52",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "自114年2月17日起調整本校垃圾車收取清運時間",
         "timestamp": "1739434248",
         "url": "mail_display.php?timestamp=1739434248",
@@ -194,19 +208,5 @@
             "phone": "6727"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "自2/4起大學門(含側門)及志學門車牌辨識系統啟用公告(第三次公告)",
-        "timestamp": "1739255139",
-        "url": "mail_display.php?timestamp=1739255139",
-        "date": "2025/02/11 14:25",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 2
     }
 ]

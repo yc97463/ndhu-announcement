@@ -1,5 +1,33 @@
 [
     {
+        "title": "【學生宿舍】113學年第二學期電費階段公告 【Student Dormitory】Electricity Charge Announcement for 2024-2025 Academic Year",
+        "timestamp": "1739765697",
+        "url": "mail_display.php?timestamp=1739765697",
+        "date": "2025/02/17 12:14",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳怡秀",
+            "email": "yishoue@gms.ndhu.edu.tw",
+            "phone": "6212"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【獎助學金申請】臺北市輔世慈善基金會113-2勵學金",
+        "timestamp": "1739765200",
+        "url": "mail_display.php?timestamp=1739765200",
+        "date": "2025/02/17 12:06",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【實習】國立屏東科技大學育類野生動物收容中心「2025年大專院校生暑期實習」🐒 🐒 (114年3月19日截止)",
         "timestamp": "1739763383",
         "url": "mail_display.php?timestamp=1739763383",
@@ -12,20 +40,6 @@
             "phone": "6283"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "test",
-        "timestamp": "1739762350",
-        "url": "mail_display.php?timestamp=1739762350",
-        "date": "2025/02/17 11:19",
-        "department": "主計室",
-        "author": {
-            "department": "主計室",
-            "name": "曾俊達",
-            "email": "kleiber0576@gms.ndhu.edu.tw",
-            "phone": "(03)8906079"
-        },
-        "attachmentCount": 0
     },
     {
         "title": "測試 test",
@@ -194,19 +208,5 @@
             "phone": "(03)890-6263"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "自2/4起大學門(含側門)及志學門車牌辨識系統啟用公告(第四次公告)",
-        "timestamp": "1739752643",
-        "url": "mail_display.php?timestamp=1739752643",
-        "date": "2025/02/17 08:37",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 2
     }
 ]
