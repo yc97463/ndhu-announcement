@@ -1,5 +1,47 @@
 [
     {
+        "title": "【TA講座】BOPPPS有效教學(計2門選修)",
+        "timestamp": "1739577309",
+        "url": "mail_display.php?timestamp=1739577309",
+        "date": "2025/02/15 07:55",
+        "department": "教學卓越中心 教學與學習組",
+        "author": {
+            "department": "教學卓越中心 教學與學習組",
+            "name": "游家盛",
+            "email": "hyttepd@gms.ndhu.edu.tw",
+            "phone": "03-8906589"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【TA講座】一般教室使用說明:資訊講桌相關操作及須知(必修)",
+        "timestamp": "1739577308",
+        "url": "mail_display.php?timestamp=1739577308",
+        "date": "2025/02/15 07:55",
+        "department": "教學卓越中心 教學與學習組",
+        "author": {
+            "department": "教學卓越中心 教學與學習組",
+            "name": "游家盛",
+            "email": "hyttepd@gms.ndhu.edu.tw",
+            "phone": "03-8906589"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【TA講座】一般教室使用說明:包含工學院、原民院、管理學院、教育學院、環境學院使用說明(無資訊講桌) (必修)",
+        "timestamp": "1739577307",
+        "url": "mail_display.php?timestamp=1739577307",
+        "date": "2025/02/15 07:55",
+        "department": "教學卓越中心 教學與學習組",
+        "author": {
+            "department": "教學卓越中心 教學與學習組",
+            "name": "游家盛",
+            "email": "hyttepd@gms.ndhu.edu.tw",
+            "phone": "03-8906589"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【TA講座】一般教室使用說明：包含文學院、共科大樓、理學院(無資訊講桌) (必修)",
         "timestamp": "1739577306",
         "url": "mail_display.php?timestamp=1739577306",
@@ -166,47 +208,5 @@
             "phone": "038906284"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【第一次公告】會計網路請購服務系統將於2月21日（五）11：30～17：00暫停服務進行系統維護",
-        "timestamp": "1739520512",
-        "url": "mail_display.php?timestamp=1739520512",
-        "date": "2025/02/14 16:08",
-        "department": "主計室",
-        "author": {
-            "department": "主計室",
-            "name": "曾俊達",
-            "email": "kleiber0576@gms.ndhu.edu.tw",
-            "phone": "(03)8906079"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【海外實習】國合會「大專青年海外技術協助服務計畫」-第七屆海外實生招募訊息",
-        "timestamp": "1739520081",
-        "url": "mail_display.php?timestamp=1739520081",
-        "date": "2025/02/14 16:01",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "洪乃慈",
-            "email": "naitzu@gms.ndhu.edu.tw",
-            "phone": "6523"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "113-2校核心通識課程異動(增開及停開課程)公告",
-        "timestamp": "1739518668",
-        "url": "mail_display.php?timestamp=1739518668",
-        "date": "2025/02/14 15:37",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 1
     }
 ]

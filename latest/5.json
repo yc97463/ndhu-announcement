@@ -1,5 +1,47 @@
 [
     {
+        "title": "【第一次公告】會計網路請購服務系統將於2月21日（五）11：30～17：00暫停服務進行系統維護",
+        "timestamp": "1739520512",
+        "url": "mail_display.php?timestamp=1739520512",
+        "date": "2025/02/14 16:08",
+        "department": "主計室",
+        "author": {
+            "department": "主計室",
+            "name": "曾俊達",
+            "email": "kleiber0576@gms.ndhu.edu.tw",
+            "phone": "(03)8906079"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【海外實習】國合會「大專青年海外技術協助服務計畫」-第七屆海外實生招募訊息",
+        "timestamp": "1739520081",
+        "url": "mail_display.php?timestamp=1739520081",
+        "date": "2025/02/14 16:01",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "洪乃慈",
+            "email": "naitzu@gms.ndhu.edu.tw",
+            "phone": "6523"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "113-2校核心通識課程異動(增開及停開課程)公告",
+        "timestamp": "1739518668",
+        "url": "mail_display.php?timestamp=1739518668",
+        "date": "2025/02/14 15:37",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "8906607"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "113-2人社院基礎課程「縱目歐亞—空間與人文的對話」系列講座",
         "timestamp": "1739518646",
         "url": "mail_display.php?timestamp=1739518646",
@@ -166,47 +208,5 @@
             "phone": "6590"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "⭐教育大數據⭐敬邀您參加教育大數據計畫—微學程招生說明會",
-        "timestamp": "1739502126",
-        "url": "mail_display.php?timestamp=1739502126",
-        "date": "2025/02/14 11:02",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "黃靖樺",
-            "email": "chinghua@gms.ndhu.edu.tw",
-            "phone": "6579"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【徵才訊息】國立東華大學國際事務處誠徵計畫專任助理1名",
-        "timestamp": "1739501453",
-        "url": "mail_display.php?timestamp=1739501453",
-        "date": "2025/02/14 10:50",
-        "department": "國際事務處",
-        "author": {
-            "department": "國際事務處",
-            "name": "劉力綺",
-            "email": "cheerio@gms.ndhu.edu.tw",
-            "phone": "5109"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【訊息轉知】國立高雄科技大學開設6門磨課師(MOOCs)免費線上課程歡迎報名參加",
-        "timestamp": "1739498082",
-        "url": "mail_display.php?timestamp=1739498082",
-        "date": "2025/02/14 09:54",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 8
     }
 ]
