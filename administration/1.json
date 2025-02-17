@@ -1,5 +1,19 @@
 [
     {
+        "title": "有關理工一館變電站預防性更換緊急電盤之電力切換設備",
+        "timestamp": "1739794238",
+        "url": "mail_display.php?timestamp=1739794238",
+        "date": "2025/02/17 20:10",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉景富",
+            "email": "nickak@gms.ndhu.edu.tw",
+            "phone": "8906373"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【第二次公告】會計網路請購服務系統將於2月21日(五)11：30～17：00暫停服務進行系統維護",
         "timestamp": "1739781495",
         "url": "mail_display.php?timestamp=1739781495",
@@ -192,20 +206,6 @@
             "name": "鄧瑞美",
             "email": "deng@gms.ndhu.edu.tw",
             "phone": "6366"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "[停水]理工一館下水塔進水位閥更換停水通告",
-        "timestamp": "1739525060",
-        "url": "mail_display.php?timestamp=1739525060",
-        "date": "2025/02/14 17:24",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
         },
         "attachmentCount": 0
     }
