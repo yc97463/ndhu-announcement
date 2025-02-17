@@ -1,19 +1,5 @@
 [
     {
-        "title": "114年度校區內客貨電梯進行月保養排程通告2月保養",
-        "timestamp": "1739072867",
-        "url": "mail_display.php?timestamp=1739072867",
-        "date": "2025/02/09 11:47",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
-    },
-    {
         "title": "【NUST申請案】114年度「臺灣國立大學系統學生實驗室交換經費補助」申請案，本校受理期限延長至114年3月11日(星期二)止",
         "timestamp": "1738912837",
         "url": "mail_display.php?timestamp=1738912837",
@@ -208,5 +194,19 @@
             "phone": "6060"
         },
         "attachmentCount": 5
+    },
+    {
+        "title": "114年「協作式跨國學習」（Collaborative Online International Learning，COIL）計畫補助，即日起受理申請至2月28日中午12點為止。",
+        "timestamp": "1738812550",
+        "url": "mail_display.php?timestamp=1738812550",
+        "date": "2025/02/06 11:29",
+        "department": "國際事務處國際合作組",
+        "author": {
+            "department": "國際事務處國際合作組",
+            "name": "羅靖儀",
+            "email": "ice@gms.ndhu.edu.tw",
+            "phone": "（03）8905171"
+        },
+        "attachmentCount": 3
     }
 ]

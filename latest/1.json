@@ -1,9 +1,23 @@
 [
     {
-        "title": "【開課訊息】歡迎全校同學加選「股票投資分析與程式設計」課程(周五早上)",
-        "timestamp": "1739781963",
-        "url": "mail_display.php?timestamp=1739781963",
-        "date": "2025/02/17 16:46",
+        "title": "【國立東華大學 2025藝術學院音樂廳工讀招募】",
+        "timestamp": "1739782491",
+        "url": "mail_display.php?timestamp=1739782491",
+        "date": "2025/02/17 16:54",
+        "department": "音樂學系",
+        "author": {
+            "department": "音樂學系",
+            "name": "張純倩",
+            "email": "asd963741@gms.ndhu.edu.tw",
+            "phone": "03-8905168"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【開課訊息】歡迎全校同學加選「初等機器人程式設計」課程(周二下午)",
+        "timestamp": "1739782048",
+        "url": "mail_display.php?timestamp=1739782048",
+        "date": "2025/02/17 16:47",
         "department": "資訊工程學系",
         "author": {
             "department": "資訊工程學系",
@@ -14,16 +28,16 @@
         "attachmentCount": 0
     },
     {
-        "title": "測試 test5",
-        "timestamp": "1739781594",
-        "url": "mail_display.php?timestamp=1739781594",
-        "date": "2025/02/17 16:39",
-        "department": "圖書資訊處圖資服務組",
+        "title": "【開課訊息】歡迎全校同學加選「股票投資分析與程式設計」課程(周五早上)",
+        "timestamp": "1739781963",
+        "url": "mail_display.php?timestamp=1739781963",
+        "date": "2025/02/17 16:46",
+        "department": "資訊工程學系",
         "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "葉宏達",
-            "email": "honda@gms.ndhu.edu.tw",
-            "phone": "8906747"
+            "department": "資訊工程學系",
+            "name": "葉助理",
+            "email": "kiki2002@gms.ndhu.edu.tw",
+            "phone": "5012"
         },
         "attachmentCount": 0
     },
@@ -52,20 +66,6 @@
             "name": "曾俊達",
             "email": "kleiber0576@gms.ndhu.edu.tw",
             "phone": "(03)8906079"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "測試 test4",
-        "timestamp": "1739780107",
-        "url": "mail_display.php?timestamp=1739780107",
-        "date": "2025/02/17 16:15",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "葉宏達",
-            "email": "honda@gms.ndhu.edu.tw",
-            "phone": "8906747"
         },
         "attachmentCount": 0
     },

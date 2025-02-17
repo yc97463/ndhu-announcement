@@ -1,19 +1,5 @@
 [
     {
-        "title": "114年「協作式跨國學習」（Collaborative Online International Learning，COIL）計畫補助，即日起受理申請至2月28日中午12點為止。",
-        "timestamp": "1738812550",
-        "url": "mail_display.php?timestamp=1738812550",
-        "date": "2025/02/06 11:29",
-        "department": "國際事務處國際合作組",
-        "author": {
-            "department": "國際事務處國際合作組",
-            "name": "羅靖儀",
-            "email": "ice@gms.ndhu.edu.tw",
-            "phone": "（03）8905171"
-        },
-        "attachmentCount": 3
-    },
-    {
         "title": "【社交工程提醒】近期有冒名釣魚信件，請謹慎辨識。",
         "timestamp": "1738749414",
         "url": "mail_display.php?timestamp=1738749414",
@@ -208,5 +194,19 @@
             "phone": "6376"
         },
         "attachmentCount": 0
+    },
+    {
+        "title": "【第三次公告】📢📢113學年度第2學期校內行政單位【起飛見習生】開放登記申請!",
+        "timestamp": "1737533704",
+        "url": "mail_display.php?timestamp=1737533704",
+        "date": "2025/01/22 16:15",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "鄭小姐",
+            "email": "ting@gms.ndhu.edu.tw",
+            "phone": "03-8906215"
+        },
+        "attachmentCount": 1
     }
 ]
