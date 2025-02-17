@@ -1,5 +1,19 @@
 [
     {
+        "title": "【TA講座】一般教室使用說明:包含工學院、原民院、管理學院、教育學院、環境學院使用說明(無資訊講桌) (必修)",
+        "timestamp": "1739577307",
+        "url": "mail_display.php?timestamp=1739577307",
+        "date": "2025/02/15 07:55",
+        "department": "教學卓越中心 教學與學習組",
+        "author": {
+            "department": "教學卓越中心 教學與學習組",
+            "name": "游家盛",
+            "email": "hyttepd@gms.ndhu.edu.tw",
+            "phone": "03-8906589"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【TA講座】一般教室使用說明：包含文學院、共科大樓、理學院(無資訊講桌) (必修)",
         "timestamp": "1739577306",
         "url": "mail_display.php?timestamp=1739577306",
@@ -192,20 +206,6 @@
             "name": "陳奕錚",
             "email": "yjchen92@gms.ndhu.edu.tw",
             "phone": "(03)890-6894"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "⭐教育大數據⭐敬邀您參加教育大數據計畫—微學程招生說明會",
-        "timestamp": "1739429779",
-        "url": "mail_display.php?timestamp=1739429779",
-        "date": "2025/02/13 14:56",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "黃靖樺",
-            "email": "chinghua@gms.ndhu.edu.tw",
-            "phone": "6579"
         },
         "attachmentCount": 1
     }

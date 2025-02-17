@@ -1,5 +1,19 @@
 [
     {
+        "title": "【招募活動】113-2學期數位大學伴招募說明會~",
+        "timestamp": "1739791069",
+        "url": "mail_display.php?timestamp=1739791069",
+        "date": "2025/02/17 19:17",
+        "department": "花師教育學院",
+        "author": {
+            "department": "花師教育學院",
+            "name": "李宛玲",
+            "email": "etutor_c226@gms.ndhu.edu.tw",
+            "phone": "890-3816"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "【國立東華大學 2025藝術學院音樂廳工讀招募】",
         "timestamp": "1739782491",
         "url": "mail_display.php?timestamp=1739782491",
@@ -194,19 +208,5 @@
             "phone": "03890-6217"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【學生宿舍】113學年第二學期電費階段公告 【Student Dormitory】Electricity Charge Announcement for 2024-2025 Academic Year",
-        "timestamp": "1739765697",
-        "url": "mail_display.php?timestamp=1739765697",
-        "date": "2025/02/17 12:14",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳怡秀",
-            "email": "yishoue@gms.ndhu.edu.tw",
-            "phone": "6212"
-        },
-        "attachmentCount": 2
     }
 ]
