@@ -1,5 +1,19 @@
 [
     {
+        "title": "【第一次公告】會計網路請購服務系統將於2月21日（五）11：30～17：00暫停服務進行系統維護",
+        "timestamp": "1739520512",
+        "url": "mail_display.php?timestamp=1739520512",
+        "date": "2025/02/14 16:08",
+        "department": "主計室",
+        "author": {
+            "department": "主計室",
+            "name": "曾俊達",
+            "email": "kleiber0576@gms.ndhu.edu.tw",
+            "phone": "(03)8906079"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "113-2校核心通識課程異動(增開及停開課程)公告",
         "timestamp": "1739518668",
         "url": "mail_display.php?timestamp=1739518668",
@@ -194,19 +208,5 @@
             "phone": "03-8906342"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "本校編制內教職員工113學年度第2學期子女教育補助費自即日起受理「線上」申請，檢附【子女教育補助操作手冊】1份，請於114年3月21日(星期五)完成線上申請。",
-        "timestamp": "1739319831",
-        "url": "mail_display.php?timestamp=1739319831",
-        "date": "2025/02/12 08:23",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "劉昱淩",
-            "email": "e56187@gms.ndhu.edu.tw",
-            "phone": "890-6056"
-        },
-        "attachmentCount": 2
     }
 ]

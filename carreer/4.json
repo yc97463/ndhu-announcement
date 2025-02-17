@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才訊息】國際事務處國際合作組徵聘校務基金學士級助理一名 (收件截止：12/12)",
+        "timestamp": "1733445872",
+        "url": "mail_display.php?timestamp=1733445872",
+        "date": "2024/12/06 08:44",
+        "department": "國際事務處",
+        "author": {
+            "department": "國際事務處",
+            "name": "劉力綺",
+            "email": "cheerio@gms.ndhu.edu.tw",
+            "phone": "5109"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵聘專任教師】國立東華大學教育與潛能開發學系徵聘專任助理教授(含)以上1名",
         "timestamp": "1733355905",
         "url": "mail_display.php?timestamp=1733355905",
@@ -194,19 +208,5 @@
             "phone": "8903072"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【合作業者徵才訊息】宜蘭縣、花蓮縣數位機會中心．誠徵攝影展「顧展兼職人員」",
-        "timestamp": "1730267653",
-        "url": "mail_display.php?timestamp=1730267653",
-        "date": "2024/10/30 13:54",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "劉美慧",
-            "email": "rita0118@gms.ndhu.edu.tw",
-            "phone": "03-8903241"
-        },
-        "attachmentCount": 2
     }
 ]
