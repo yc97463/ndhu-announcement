@@ -1,5 +1,19 @@
 [
     {
+        "title": "⭐教育大數據微學程招生說明會⭐歡迎您的參與！",
+        "timestamp": "1733392835",
+        "url": "mail_display.php?timestamp=1733392835",
+        "date": "2024/12/05 18:00",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【轉知】政治大學「圖書資訊學數位碩士在職專班」114學年度招生訊息",
         "timestamp": "1733204477",
         "url": "mail_display.php?timestamp=1733204477",
@@ -194,19 +208,5 @@
             "phone": "6612"
         },
         "attachmentCount": 11
-    },
-    {
-        "title": "公告113-1校核心資訊科技領域-「中級程式設計-虛擬實境AA」課程尚有名額，敬請踴躍加選課程",
-        "timestamp": "1726627212",
-        "url": "mail_display.php?timestamp=1726627212",
-        "date": "2024/09/18 10:40",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 0
     }
 ]

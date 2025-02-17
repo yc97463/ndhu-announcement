@@ -1,5 +1,61 @@
 [
     {
+        "title": "大學門(含側門)及志學門車牌辨識系統啟用公告",
+        "timestamp": "1738311007",
+        "url": "mail_display.php?timestamp=1738311007",
+        "date": "2025/01/31 16:10",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【交通安全宣導】春節假期應遵守行車規定，避免疲勞駕駛，確保行車平安",
+        "timestamp": "1737806506",
+        "url": "mail_display.php?timestamp=1737806506",
+        "date": "2025/01/25 20:01",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "林嘉瑩",
+            "email": "tea7101@gms.ndhu.edu.tw",
+            "phone": "03-8906226"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "有關人社二1號電梯運作異常說明",
+        "timestamp": "1737645344",
+        "url": "mail_display.php?timestamp=1737645344",
+        "date": "2025/01/23 23:15",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "114年2月份全校綠地除草維護時間及施作區域公告",
+        "timestamp": "1737612173",
+        "url": "mail_display.php?timestamp=1737612173",
+        "date": "2025/01/23 14:02",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "賴宜萱",
+            "email": "lai0210@gms.ndhu.edu.tw",
+            "phone": "6393"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "國科會114年大專學生研究計畫申請案，自即日起至114年2月19日中午12：00前完成線上申請，歡迎踴躍申請。",
         "timestamp": "1737611693",
         "url": "mail_display.php?timestamp=1737611693",
@@ -152,61 +208,5 @@
             "phone": "6366"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "113學年度第2學期學雜費繳費單(114/01/20)可以下載囉！",
-        "timestamp": "1737423038",
-        "url": "mail_display.php?timestamp=1737423038",
-        "date": "2025/01/21 09:30",
-        "department": "總務處出納組",
-        "author": {
-            "department": "總務處出納組",
-            "name": "鄧瑞美",
-            "email": "deng@gms.ndhu.edu.tw",
-            "phone": "6366"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "113學年度第2學期學雜費繳費單(114/01/20)可以下載囉！",
-        "timestamp": "1737423037",
-        "url": "mail_display.php?timestamp=1737423037",
-        "date": "2025/01/21 09:30",
-        "department": "總務處出納組",
-        "author": {
-            "department": "總務處出納組",
-            "name": "鄧瑞美",
-            "email": "deng@gms.ndhu.edu.tw",
-            "phone": "6366"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "教育學院2號電梯故障停用",
-        "timestamp": "1737378138",
-        "url": "mail_display.php?timestamp=1737378138",
-        "date": "2025/01/20 21:02",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【獎助生團保】計畫類兼任助理團保2月1日起保者，請於1月21日(二)下班前完成登錄",
-        "timestamp": "1737343384",
-        "url": "mail_display.php?timestamp=1737343384",
-        "date": "2025/01/20 11:23",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "洪乃慈",
-            "email": "naitzu@gms.ndhu.edu.tw",
-            "phone": "6523"
-        },
-        "attachmentCount": 0
     }
 ]

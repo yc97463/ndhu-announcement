@@ -1,5 +1,19 @@
 [
     {
+        "title": "⭐教育大數據產學合作與專題實作⭐113-1學程必修實務課推廣",
+        "timestamp": "1716972725",
+        "url": "mail_display.php?timestamp=1716972725",
+        "date": "2024/05/29 16:52",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【教育大數據產學合作與專題實作】113-1學程必修實務課推廣",
         "timestamp": "1716895165",
         "url": "mail_display.php?timestamp=1716895165",
@@ -194,19 +208,5 @@
             "phone": "5244"
         },
         "attachmentCount": 7
-    },
-    {
-        "title": "【微學程推廣】國立東華大學教育大數據微學程—學習如何以大數據來解讀教育的問題！",
-        "timestamp": "1714974468",
-        "url": "mail_display.php?timestamp=1714974468",
-        "date": "2024/05/06 13:47",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "黃小姐",
-            "email": "chinghua@gms.ndhu.edu.tw",
-            "phone": "6579"
-        },
-        "attachmentCount": 2
     }
 ]
