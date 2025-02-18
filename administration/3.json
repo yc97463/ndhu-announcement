@@ -1,5 +1,19 @@
 [
     {
+        "title": "【個資保護】學校使用資通系統與生物特徵辨識技術個資指引",
+        "timestamp": "1739341728",
+        "url": "mail_display.php?timestamp=1739341728",
+        "date": "2025/02/12 14:28",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "何振揚",
+            "email": "cyang@gms.ndhu.edu.tw",
+            "phone": "6746"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "辦理本校113年0403地震第2次財物災損填報作業公告",
         "timestamp": "1739321289",
         "url": "mail_display.php?timestamp=1739321289",
@@ -194,19 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "社團法人中國工程師學會114年度「傑出工程教授獎」候選人自即日起公開徵求推薦。",
-        "timestamp": "1738992843",
-        "url": "mail_display.php?timestamp=1738992843",
-        "date": "2025/02/08 13:34",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "劉昱淩",
-            "email": "e56187@gms.ndhu.edu.tw",
-            "phone": "890-6056"
-        },
-        "attachmentCount": 1
     }
 ]

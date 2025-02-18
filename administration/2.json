@@ -1,5 +1,19 @@
 [
     {
+        "title": "代轉台灣中小企業銀行校園ATM暫停服務訊息",
+        "timestamp": "1739526128",
+        "url": "mail_display.php?timestamp=1739526128",
+        "date": "2025/02/14 17:42",
+        "department": "總務處出納組",
+        "author": {
+            "department": "總務處出納組",
+            "name": "鄧瑞美",
+            "email": "deng@gms.ndhu.edu.tw",
+            "phone": "6366"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "[停水]理工一館下水塔進水位閥更換停水通告",
         "timestamp": "1739525060",
         "url": "mail_display.php?timestamp=1739525060",
@@ -194,19 +208,5 @@
             "phone": "8906747"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【個資保護】學校使用資通系統與生物特徵辨識技術個資指引",
-        "timestamp": "1739341728",
-        "url": "mail_display.php?timestamp=1739341728",
-        "date": "2025/02/12 14:28",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "何振揚",
-            "email": "cyang@gms.ndhu.edu.tw",
-            "phone": "6746"
-        },
-        "attachmentCount": 2
     }
 ]

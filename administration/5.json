@@ -1,5 +1,19 @@
 [
     {
+        "title": "【人事室公告】本校113學年度第2學期起行政及學術主管名冊",
+        "timestamp": "1737611145",
+        "url": "mail_display.php?timestamp=1737611145",
+        "date": "2025/01/23 13:45",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "楊惠雯",
+            "email": "hwyang@gms.ndhu.edu.tw",
+            "phone": "6061"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【衛生宣導】安全駕駛 藥注意! ",
         "timestamp": "1737602573",
         "url": "mail_display.php?timestamp=1737602573",
@@ -192,20 +206,6 @@
             "name": "黃勇程",
             "email": "victor0903@gms.ndhu.edu.tw",
             "phone": "6225"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【公告】國科會學術研究倫理教育訓練相關訊息",
-        "timestamp": "1737016039",
-        "url": "mail_display.php?timestamp=1737016039",
-        "date": "2025/01/16 16:27",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "彭惠玉",
-            "email": "emmapeng@gms.ndhu.edu.tw",
-            "phone": "6512"
         },
         "attachmentCount": 1
     }
