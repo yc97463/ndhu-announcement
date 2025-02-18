@@ -1,5 +1,19 @@
 [
     {
+        "title": "113-2學期學生自主學習培力方案通過名單",
+        "timestamp": "1739502683",
+        "url": "mail_display.php?timestamp=1739502683",
+        "date": "2025/02/14 11:11",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "鄭宏昱",
+            "email": "bighead7361@gms.ndhu.edu.tw",
+            "phone": "6590"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "【訊息轉知】國立高雄科技大學開設6門磨課師(MOOCs)免費線上課程歡迎報名參加",
         "timestamp": "1739498082",
         "url": "mail_display.php?timestamp=1739498082",
@@ -194,19 +208,5 @@
             "phone": "8906220"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "[停水]理工一館入水管線開關更換停水通告",
-        "timestamp": "1739197252",
-        "url": "mail_display.php?timestamp=1739197252",
-        "date": "2025/02/10 22:20",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
     }
 ]
