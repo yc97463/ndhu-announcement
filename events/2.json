@@ -1,5 +1,47 @@
 [
     {
+        "title": "113-2 勵學測驗解題工作坊",
+        "timestamp": "1739836506",
+        "url": "mail_display.php?timestamp=1739836506",
+        "date": "2025/02/18 07:55",
+        "department": "人文社會科學學院 法律學系",
+        "author": {
+            "department": "人文社會科學學院 法律學系",
+            "name": "高蘇恩",
+            "email": "galaigai@gms.ndhu.edu.tw",
+            "phone": "5663"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【職涯講座】成為有影響力的面試達人",
+        "timestamp": "1739836505",
+        "url": "mail_display.php?timestamp=1739836505",
+        "date": "2025/02/18 07:55",
+        "department": "學務處 畢業生及校友服務組",
+        "author": {
+            "department": "學務處 畢業生及校友服務組",
+            "name": "張雯婷",
+            "email": "kz02820@gms.ndhu.edu.tw",
+            "phone": "038906284"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【經濟系專題演講】114.03.07（五）黃敬峰老師（交點文化股份有公司負責人）：迎接AI世代：AI工具及ChatGPT實戰教學",
+        "timestamp": "1739836504",
+        "url": "mail_display.php?timestamp=1739836504",
+        "date": "2025/02/18 07:55",
+        "department": "人文社會科學學院 經濟學系",
+        "author": {
+            "department": "人文社會科學學院 經濟學系",
+            "name": "張筱茵",
+            "email": "ying@gms.ndhu.edu.tw",
+            "phone": "(03)890-5533"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【民族講座】台芬連線2-北漂冰芬樂-夢想路上的理性感性",
         "timestamp": "1739836503",
         "url": "mail_display.php?timestamp=1739836503",
@@ -166,47 +208,5 @@
             "phone": "03-8905203"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【Student Dormitory】Mandatory Participation in Disaster Prevention Drills for Spring Semester, Academic Year 2024-2025",
-        "timestamp": "1739757542",
-        "url": "mail_display.php?timestamp=1739757542",
-        "date": "2025/02/17 09:59",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "鍾佩玲",
-            "email": "free22011@gms.ndhu.edu.tw",
-            "phone": "03890-6217"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【學生宿舍】113學年度第二學期學生宿舍複合式災害疏散演練",
-        "timestamp": "1739757425",
-        "url": "mail_display.php?timestamp=1739757425",
-        "date": "2025/02/17 09:57",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "鍾佩玲",
-            "email": "free22011@gms.ndhu.edu.tw",
-            "phone": "03890-6217"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "113-2諮商中心伴侶諮商服務開放申請",
-        "timestamp": "1739757265",
-        "url": "mail_display.php?timestamp=1739757265",
-        "date": "2025/02/17 09:54",
-        "department": "心理諮商輔導中心",
-        "author": {
-            "department": "心理諮商輔導中心",
-            "name": "魏凡涓",
-            "email": "juliawei@gms.ndhu.edu.tw",
-            "phone": "03-8906892"
-        },
-        "attachmentCount": 1
     }
 ]

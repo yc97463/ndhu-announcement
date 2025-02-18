@@ -1,5 +1,47 @@
 [
     {
+        "title": "【開課訊息】歡迎全校同學加選「股票投資分析與程式設計」課程(周五早上)",
+        "timestamp": "1739781963",
+        "url": "mail_display.php?timestamp=1739781963",
+        "date": "2025/02/17 16:46",
+        "department": "資訊工程學系",
+        "author": {
+            "department": "資訊工程學系",
+            "name": "葉助理",
+            "email": "kiki2002@gms.ndhu.edu.tw",
+            "phone": "5012"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【人才招募】113-2學期數位大學伴~熱烈招募中!!!",
+        "timestamp": "1739781543",
+        "url": "mail_display.php?timestamp=1739781543",
+        "date": "2025/02/17 16:39",
+        "department": "花師教育學院",
+        "author": {
+            "department": "花師教育學院",
+            "name": "李宛玲",
+            "email": "etutor_c226@gms.ndhu.edu.tw",
+            "phone": "890-3816"
+        },
+        "attachmentCount": 8
+    },
+    {
+        "title": "【第二次公告】會計網路請購服務系統將於2月21日(五)11：30～17：00暫停服務進行系統維護",
+        "timestamp": "1739781495",
+        "url": "mail_display.php?timestamp=1739781495",
+        "date": "2025/02/17 16:38",
+        "department": "主計室",
+        "author": {
+            "department": "主計室",
+            "name": "曾俊達",
+            "email": "kleiber0576@gms.ndhu.edu.tw",
+            "phone": "(03)8906079"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【獎助學金申請】大和建設機構113-2「大和何溪明優秀清寒獎學金 (限諮臨系)",
         "timestamp": "1739779336",
         "url": "mail_display.php?timestamp=1739779336",
@@ -158,48 +200,6 @@
         "timestamp": "1739763383",
         "url": "mail_display.php?timestamp=1739763383",
         "date": "2025/02/17 11:36",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 5
-    },
-    {
-        "title": "測試 test",
-        "timestamp": "1739761643",
-        "url": "mail_display.php?timestamp=1739761643",
-        "date": "2025/02/17 11:07",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "葉宏達",
-            "email": "honda@gms.ndhu.edu.tw",
-            "phone": "8906747"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【獎助學金申請】感恩聖仁社會福利慈善基金會113-2「關懷大學院校經濟弱勢學生助學金」",
-        "timestamp": "1739761330",
-        "url": "mail_display.php?timestamp=1739761330",
-        "date": "2025/02/17 11:02",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【徵才】台灣人材ネット_第十七屆日本企業就職博覽會線上徵才活動(114年5月9日截止)",
-        "timestamp": "1739760726",
-        "url": "mail_display.php?timestamp=1739760726",
-        "date": "2025/02/17 10:52",
         "department": "學務處畢業生及校友服務組",
         "author": {
             "department": "學務處畢業生及校友服務組",
