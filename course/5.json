@@ -1,5 +1,19 @@
 [
     {
+        "title": "📢【活動推推】移居與安居：家庭看護移工和她們的工會",
+        "timestamp": "1731572526",
+        "url": "mail_display.php?timestamp=1731572526",
+        "date": "2024/11/14 16:22",
+        "department": "社會參與中心",
+        "author": {
+            "department": "社會參與中心",
+            "name": "鄒小姐",
+            "email": "tsai_yen@gms.ndhu.edu.tw",
+            "phone": "5243"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "[國語文教學]「有生命的漢字」識字(補救)教學法_114年寒假二階教師研習報名中",
         "timestamp": "1731402863",
         "url": "mail_display.php?timestamp=1731402863",
@@ -194,19 +208,5 @@
             "phone": "6057"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "🎉考選部國家考試宣導-職涯規劃-邁向公職之路",
-        "timestamp": "1729748791",
-        "url": "mail_display.php?timestamp=1729748791",
-        "date": "2024/10/24 13:46",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "溫小姐",
-            "email": "fengting0804@gms.ndhu.edu.tw",
-            "phone": "6282"
-        },
-        "attachmentCount": 1
     }
 ]

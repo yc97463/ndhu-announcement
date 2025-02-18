@@ -1,5 +1,33 @@
 [
     {
+        "title": "113-2法學讀書會-刑法（一）",
+        "timestamp": "1739836507",
+        "url": "mail_display.php?timestamp=1739836507",
+        "date": "2025/02/18 07:55",
+        "department": "人文社會科學學院 法律學系",
+        "author": {
+            "department": "人文社會科學學院 法律學系",
+            "name": "高蘇恩",
+            "email": "galaigai@gms.ndhu.edu.tw",
+            "phone": "5663"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113-2 勵學測驗解題工作坊",
+        "timestamp": "1739836506",
+        "url": "mail_display.php?timestamp=1739836506",
+        "date": "2025/02/18 07:55",
+        "department": "人文社會科學學院 法律學系",
+        "author": {
+            "department": "人文社會科學學院 法律學系",
+            "name": "高蘇恩",
+            "email": "galaigai@gms.ndhu.edu.tw",
+            "phone": "5663"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【職涯講座】成為有影響力的面試達人",
         "timestamp": "1739836505",
         "url": "mail_display.php?timestamp=1739836505",
@@ -180,33 +208,5 @@
             "phone": "03-8906219"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "親善大使團第十七屆新生二招開跑！",
-        "timestamp": "1739777950",
-        "url": "mail_display.php?timestamp=1739777950",
-        "date": "2025/02/17 15:39",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "游雅筑",
-            "email": "pink389124@gms.ndhu.edu.tw",
-            "phone": "8906236"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "【代轉學生會公告】國立東華大學學期16週調整意向調查 National Dong Hwa University Semester Adjustment Survey: 16-Week Semester",
-        "timestamp": "1739776967",
-        "url": "mail_display.php?timestamp=1739776967",
-        "date": "2025/02/17 15:22",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "姜紫淇",
-            "email": "yaya@gms.ndhu.edu.tw",
-            "phone": "03-8906235"
-        },
-        "attachmentCount": 2
     }
 ]
