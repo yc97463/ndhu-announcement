@@ -1,5 +1,33 @@
 [
     {
+        "title": "【TA Course】Time management (English taught course)",
+        "timestamp": "1739663707",
+        "url": "mail_display.php?timestamp=1739663707",
+        "date": "2025/02/16 07:55",
+        "department": "教學卓越中心 教學與學習組",
+        "author": {
+            "department": "教學卓越中心 教學與學習組",
+            "name": "游家盛",
+            "email": "hyttepd@gms.ndhu.edu.tw",
+            "phone": "03-8906589"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【TA Course】Guidelines to Using NDHU teaching facilities (CC) (English taught course)",
+        "timestamp": "1739663706",
+        "url": "mail_display.php?timestamp=1739663706",
+        "date": "2025/02/16 07:55",
+        "department": "教學卓越中心 教學與學習組",
+        "author": {
+            "department": "教學卓越中心 教學與學習組",
+            "name": "游家盛",
+            "email": "hyttepd@gms.ndhu.edu.tw",
+            "phone": "03-8906589"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【TA講座】生成式AI 助力教學：從基礎概念到實例應用",
         "timestamp": "1739663705",
         "url": "mail_display.php?timestamp=1739663705",
@@ -180,33 +208,5 @@
             "phone": "楊子毅0938713232"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "生醫系2/21(週五)【視訊】專題講座公告，歡迎踴躍參加~~",
-        "timestamp": "1739577301",
-        "url": "mail_display.php?timestamp=1739577301",
-        "date": "2025/02/15 07:55",
-        "department": "理工學院 生化暨分子醫學科學系",
-        "author": {
-            "department": "理工學院 生化暨分子醫學科學系",
-            "name": "元淑英",
-            "email": "syyuan@gms.ndhu.edu.tw",
-            "phone": "3632"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【原資合辦講座】日本文化財：琉球喜如嘉芭蕉布工藝分享",
-        "timestamp": "1739522090",
-        "url": "mail_display.php?timestamp=1739522090",
-        "date": "2025/02/14 16:34",
-        "department": "原住民族學生資源中心",
-        "author": {
-            "department": "原住民族學生資源中心",
-            "name": "林佳儀",
-            "email": "tipus1120103@gms.ndhu.edu.tw",
-            "phone": "5718"
-        },
-        "attachmentCount": 1
     }
 ]
