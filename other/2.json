@@ -1,19 +1,5 @@
 [
     {
-        "title": "第25屆東華奇萊文學獎徵文活動~歡迎踴躍投稿~",
-        "timestamp": "1739760007",
-        "url": "mail_display.php?timestamp=1739760007",
-        "date": "2025/02/17 10:40",
-        "department": "人文社會科學學院",
-        "author": {
-            "department": "人文社會科學學院",
-            "name": "姜妃澤",
-            "email": "ftc1029@gms.ndhu.edu.tw",
-            "phone": "03-8905203"
-        },
-        "attachmentCount": 5
-    },
-    {
         "title": "防範一氧化碳中毒，再冷也要打開生命之窗",
         "timestamp": "1739759910",
         "url": "mail_display.php?timestamp=1739759910",
@@ -208,5 +194,19 @@
             "phone": "6283"
         },
         "attachmentCount": 4
+    },
+    {
+        "title": "【學生自主學習社群】113-2學期社群審查結果公告",
+        "timestamp": "1739504483",
+        "url": "mail_display.php?timestamp=1739504483",
+        "date": "2025/02/14 11:41",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "李貞穎",
+            "email": "jeannie@gms.ndhu.edu.tw",
+            "phone": "8906587"
+        },
+        "attachmentCount": 1
     }
 ]

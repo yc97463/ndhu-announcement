@@ -1,5 +1,19 @@
 [
     {
+        "title": "【台灣社會與政治發展講座 公告】",
+        "timestamp": "1732172692",
+        "url": "mail_display.php?timestamp=1732172692",
+        "date": "2024/11/21 15:04",
+        "department": "原住民民族學院",
+        "author": {
+            "department": "原住民民族學院",
+            "name": "曾同學",
+            "email": "611296004@gms.ndhu.edu.tw",
+            "phone": "0955204467"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "「想想花蓮．韌性原鄉」【最終場】災後重建與防救災論壇",
         "timestamp": "1732159997",
         "url": "mail_display.php?timestamp=1732159997",
@@ -194,19 +208,5 @@
             "phone": "3157"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【特聘教授演講】12/3(二)王鴻濬特聘教授：永續發展與聯合國永續發展目標SDGs",
-        "timestamp": "1731333080",
-        "url": "mail_display.php?timestamp=1731333080",
-        "date": "2024/11/11 21:51",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "楊惠雯",
-            "email": "hwyang@gms.ndhu.edu.tw",
-            "phone": "6061"
-        },
-        "attachmentCount": 2
     }
 ]

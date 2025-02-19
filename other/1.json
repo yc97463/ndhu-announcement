@@ -1,20 +1,6 @@
 [
     {
         "title": "【課程活動轉發】 新創大學堂課程~歡迎報名~",
-        "timestamp": "1739947574",
-        "url": "mail_display.php?timestamp=1739947574",
-        "date": "2025/02/19 14:46",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "翁欣儀",
-            "email": "cari20240307@gms.ndhu.edu.tw",
-            "phone": "038221316"
-        },
-        "attachmentCount": 9
-    },
-    {
-        "title": "【課程活動轉發】 新創大學堂課程~歡迎報名~",
         "timestamp": "1739947570",
         "url": "mail_display.php?timestamp=1739947570",
         "date": "2025/02/19 14:46",
@@ -206,6 +192,20 @@
             "name": "黃文雯",
             "email": "wenwen@gms.ndhu.edu.tw",
             "phone": "6283"
+        },
+        "attachmentCount": 5
+    },
+    {
+        "title": "第25屆東華奇萊文學獎徵文活動~歡迎踴躍投稿~",
+        "timestamp": "1739760007",
+        "url": "mail_display.php?timestamp=1739760007",
+        "date": "2025/02/17 10:40",
+        "department": "人文社會科學學院",
+        "author": {
+            "department": "人文社會科學學院",
+            "name": "姜妃澤",
+            "email": "ftc1029@gms.ndhu.edu.tw",
+            "phone": "03-8905203"
         },
         "attachmentCount": 5
     }
