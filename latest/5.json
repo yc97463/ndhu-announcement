@@ -1,5 +1,19 @@
 [
     {
+        "title": "【代轉學生會公告】國立東華大學學期16週調整意向調查 National Dong Hwa University Semester Adjustment Survey: 16-Week Semester",
+        "timestamp": "1739776967",
+        "url": "mail_display.php?timestamp=1739776967",
+        "date": "2025/02/17 15:22",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "姜紫淇",
+            "email": "yaya@gms.ndhu.edu.tw",
+            "phone": "03-8906235"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【獎助學金申請】宜蘭縣113-2優秀學生獎學金 (限宜蘭縣籍)",
         "timestamp": "1739772775",
         "url": "mail_display.php?timestamp=1739772775",
@@ -194,19 +208,5 @@
             "phone": "5107"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "📣📣113-2起飛學習課程、活動第一波免費報名開放啦!!",
-        "timestamp": "1739760263",
-        "url": "mail_display.php?timestamp=1739760263",
-        "date": "2025/02/17 10:44",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "鄭小姐",
-            "email": "ting@gms.ndhu.edu.tw",
-            "phone": "03-8906215"
-        },
-        "attachmentCount": 7
     }
 ]
