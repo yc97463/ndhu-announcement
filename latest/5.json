@@ -1,5 +1,19 @@
 [
     {
+        "title": "【國立東華大學 2025藝術學院音樂廳工讀招募】",
+        "timestamp": "1739782491",
+        "url": "mail_display.php?timestamp=1739782491",
+        "date": "2025/02/17 16:54",
+        "department": "音樂學系",
+        "author": {
+            "department": "音樂學系",
+            "name": "張純倩",
+            "email": "asd963741@gms.ndhu.edu.tw",
+            "phone": "03-8905168"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【開課訊息】歡迎全校同學加選「初等機器人程式設計」課程(周二下午)",
         "timestamp": "1739782048",
         "url": "mail_display.php?timestamp=1739782048",
@@ -194,19 +208,5 @@
             "phone": "6212"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【獎助學金申請】臺北市輔世慈善基金會113-2勵學金",
-        "timestamp": "1739765200",
-        "url": "mail_display.php?timestamp=1739765200",
-        "date": "2025/02/17 12:06",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]

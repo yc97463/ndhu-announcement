@@ -1,5 +1,19 @@
 [
     {
+        "title": "🎓✨ 114學年師資培育中心「中等/國小教育學程甄選」開跑啦！ ✨🎓",
+        "timestamp": "1739954468",
+        "url": "mail_display.php?timestamp=1739954468",
+        "date": "2025/02/19 16:41",
+        "department": "師資培育中心",
+        "author": {
+            "department": "師資培育中心",
+            "name": "劉姵君",
+            "email": "amyliou@gms.ndhu.edu.tw",
+            "phone": "03-8906632"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "「VIP垂直整合」微學程課程招生",
         "timestamp": "1739868923",
         "url": "mail_display.php?timestamp=1739868923",
@@ -194,19 +208,5 @@
             "phone": "6579"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "⭐教育大數據計畫—微學程招生說明會⭐ (管理學院與教育學院專場)  ",
-        "timestamp": "1733723891",
-        "url": "mail_display.php?timestamp=1733723891",
-        "date": "2024/12/09 13:58",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "黃小姐",
-            "email": "chinghua@gms.ndhu.edu.tw",
-            "phone": "6579"
-        },
-        "attachmentCount": 2
     }
 ]
