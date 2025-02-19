@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才公告】國立東華大學會計學系誠徵助理職務代理人一名",
+        "timestamp": "1730856126",
+        "url": "mail_display.php?timestamp=1730856126",
+        "date": "2024/11/06 09:22",
+        "department": "會計學系",
+        "author": {
+            "department": "會計學系",
+            "name": "葉靜瑜",
+            "email": "pindopoh@gms.ndhu.edu.tw",
+            "phone": "8903072"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【合作業者徵才訊息】宜蘭縣、花蓮縣數位機會中心．誠徵攝影展「顧展兼職人員」",
         "timestamp": "1730267653",
         "url": "mail_display.php?timestamp=1730267653",
@@ -194,19 +208,5 @@
             "phone": "03-8906399"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【徵聘公告】國立東華大學英美語文學系徵聘專任教師二名",
-        "timestamp": "1727334371",
-        "url": "mail_display.php?timestamp=1727334371",
-        "date": "2024/09/26 15:06",
-        "department": "英美語文學系",
-        "author": {
-            "department": "英美語文學系",
-            "name": "顏余珊",
-            "email": "shanshan221@gms.ndhu.edu.tw",
-            "phone": "03-8905292"
-        },
-        "attachmentCount": 1
     }
 ]
