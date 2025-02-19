@@ -1,5 +1,19 @@
 [
     {
+        "title": "113-2法學讀書會-刑法備課",
+        "timestamp": "1739836512",
+        "url": "mail_display.php?timestamp=1739836512",
+        "date": "2025/02/18 07:55",
+        "department": "人文社會科學學院 法律學系",
+        "author": {
+            "department": "人文社會科學學院 法律學系",
+            "name": "高蘇恩",
+            "email": "galaigai@gms.ndhu.edu.tw",
+            "phone": "5663"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113-2法學讀書會-刑法",
         "timestamp": "1739836511",
         "url": "mail_display.php?timestamp=1739836511",
@@ -194,19 +208,5 @@
             "phone": "03-8905168"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【開課訊息】歡迎全校同學加選「初等機器人程式設計」課程(周二下午)",
-        "timestamp": "1739782048",
-        "url": "mail_display.php?timestamp=1739782048",
-        "date": "2025/02/17 16:47",
-        "department": "資訊工程學系",
-        "author": {
-            "department": "資訊工程學系",
-            "name": "葉助理",
-            "email": "kiki2002@gms.ndhu.edu.tw",
-            "phone": "5012"
-        },
-        "attachmentCount": 0
     }
 ]
