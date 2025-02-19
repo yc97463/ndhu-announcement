@@ -1,5 +1,19 @@
 [
     {
+        "title": "有關人社二1號電梯運作異常說明",
+        "timestamp": "1737645344",
+        "url": "mail_display.php?timestamp=1737645344",
+        "date": "2025/01/23 23:15",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "114年2月份全校綠地除草維護時間及施作區域公告",
         "timestamp": "1737612173",
         "url": "mail_display.php?timestamp=1737612173",
@@ -194,19 +208,5 @@
             "phone": "6366"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "教育學院2號電梯故障停用",
-        "timestamp": "1737378138",
-        "url": "mail_display.php?timestamp=1737378138",
-        "date": "2025/01/20 21:02",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才公告】國立東華大學總務處環保組誠徵清運班助理一名",
+        "timestamp": "1730952008",
+        "url": "mail_display.php?timestamp=1730952008",
+        "date": "2024/11/07 12:00",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "許智翔",
+            "email": "cocco3746@gms.ndhu.edu.tw",
+            "phone": "03-8906399"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才公告】國立東華大學會計學系誠徵助理職務代理人一名",
         "timestamp": "1730856126",
         "url": "mail_display.php?timestamp=1730856126",
@@ -194,19 +208,5 @@
             "phone": "6061"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【徵才公告】國立東華大學總務處環保組徵聘【校務基金助理 】",
-        "timestamp": "1728032400",
-        "url": "mail_display.php?timestamp=1728032400",
-        "date": "2024/10/04 17:00",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "許智翔",
-            "email": "cocco3746@gms.ndhu.edu.tw",
-            "phone": "03-8906399"
-        },
-        "attachmentCount": 0
     }
 ]
