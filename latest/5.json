@@ -1,5 +1,19 @@
 [
     {
+        "title": "【學習與創意講座】用MBTI解碼你的潛能優勢",
+        "timestamp": "1739836515",
+        "url": "mail_display.php?timestamp=1739836515",
+        "date": "2025/02/18 07:55",
+        "department": "教學卓越中心 教學與學習組",
+        "author": {
+            "department": "教學卓越中心 教學與學習組",
+            "name": "方紀蘋",
+            "email": "",
+            "phone": "6593"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【113-2學期-演講公告】Multi-Objective Optimization-Based Adversarial Attack Generation: A Case Study on Fingerprint Systems基於多目標最佳化的對抗性攻擊生成：指紋系統案例研究",
         "timestamp": "1739836514",
         "url": "mail_display.php?timestamp=1739836514",
@@ -192,20 +206,6 @@
             "name": "張雯婷",
             "email": "kz02820@gms.ndhu.edu.tw",
             "phone": "038906284"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "有關理工一館變電站預防性更換緊急電盤之電力切換設備",
-        "timestamp": "1739794238",
-        "url": "mail_display.php?timestamp=1739794238",
-        "date": "2025/02/17 20:10",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉景富",
-            "email": "nickak@gms.ndhu.edu.tw",
-            "phone": "8906373"
         },
         "attachmentCount": 0
     }

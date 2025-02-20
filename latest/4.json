@@ -1,5 +1,19 @@
 [
     {
+        "title": "體育中心新學期的推廣課程開始報名",
+        "timestamp": "1739866707",
+        "url": "mail_display.php?timestamp=1739866707",
+        "date": "2025/02/18 16:18",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "楊",
+            "email": "yyy@gms.ndhu.edu.tw",
+            "phone": "038906612"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "📢⪦ 2025東華春藝季~爵士四重奏：謝明諺與Suga Dairo new little one 2025 台灣巡演",
         "timestamp": "1739866298",
         "url": "mail_display.php?timestamp=1739866298",
@@ -194,19 +208,5 @@
             "phone": "5107"
         },
         "attachmentCount": 9
-    },
-    {
-        "title": "【學習與創意講座】用MBTI解碼你的潛能優勢",
-        "timestamp": "1739836515",
-        "url": "mail_display.php?timestamp=1739836515",
-        "date": "2025/02/18 07:55",
-        "department": "教學卓越中心 教學與學習組",
-        "author": {
-            "department": "教學卓越中心 教學與學習組",
-            "name": "方紀蘋",
-            "email": "",
-            "phone": "6593"
-        },
-        "attachmentCount": 0
     }
 ]
