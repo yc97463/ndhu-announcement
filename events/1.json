@@ -1,5 +1,19 @@
 [
     {
+        "title": "🎉 2025 東華春藝季 熱鬧開跑！🏃‍♀️🏃‍♂️",
+        "timestamp": "1740040391",
+        "url": "mail_display.php?timestamp=1740040391",
+        "date": "2025/02/20 16:33",
+        "department": "藝術中心",
+        "author": {
+            "department": "藝術中心",
+            "name": "周葦綸",
+            "email": "arts@gms.ndhu.edu.tw",
+            "phone": "6606"
+        },
+        "attachmentCount": 9
+    },
+    {
         "title": "【健康促進營養講座】營在己力，食在平衡，歡迎踴躍參加!",
         "timestamp": "1740021395",
         "url": "mail_display.php?timestamp=1740021395",
@@ -192,20 +206,6 @@
             "name": "伍佳雯",
             "email": "sl@gms.ndhu.edu.tw",
             "phone": "＃5262"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "出國唸書適合我嗎? 生涯講座",
-        "timestamp": "1739922902",
-        "url": "mail_display.php?timestamp=1739922902",
-        "date": "2025/02/19 07:55",
-        "department": "心理諮商輔導中心 預防推廣組",
-        "author": {
-            "department": "心理諮商輔導中心 預防推廣組",
-            "name": "李玟蒨",
-            "email": "phee1801@gms.ndhu.edu.tw",
-            "phone": "(03)890-6263"
         },
         "attachmentCount": 0
     }

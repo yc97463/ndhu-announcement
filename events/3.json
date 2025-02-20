@@ -1,5 +1,19 @@
 [
     {
+        "title": "113-2法學讀書會-刑法備課",
+        "timestamp": "1739836512",
+        "url": "mail_display.php?timestamp=1739836512",
+        "date": "2025/02/18 07:55",
+        "department": "人文社會科學學院 法律學系",
+        "author": {
+            "department": "人文社會科學學院 法律學系",
+            "name": "高蘇恩",
+            "email": "galaigai@gms.ndhu.edu.tw",
+            "phone": "5663"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113-2法學讀書會-刑法",
         "timestamp": "1739836511",
         "url": "mail_display.php?timestamp=1739836511",
@@ -194,19 +208,5 @@
             "phone": "03-8906235"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【Student Dormitory】Online Application to Join The Student Dormitory Committee of Academic Year 2025-2026",
-        "timestamp": "1739772426",
-        "url": "mail_display.php?timestamp=1739772426",
-        "date": "2025/02/17 14:07",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "鍾佩玲",
-            "email": "free22011@gms.ndhu.edu.tw",
-            "phone": "03890-6217"
-        },
-        "attachmentCount": 1
     }
 ]
