@@ -1,5 +1,33 @@
 [
     {
+        "title": "113-2法學讀書會-刑法（三 ）",
+        "timestamp": "1739836509",
+        "url": "mail_display.php?timestamp=1739836509",
+        "date": "2025/02/18 07:55",
+        "department": "人文社會科學學院 法律學系",
+        "author": {
+            "department": "人文社會科學學院 法律學系",
+            "name": "高蘇恩",
+            "email": "galaigai@gms.ndhu.edu.tw",
+            "phone": "5663"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113-2法學讀書會-刑法（二）",
+        "timestamp": "1739836508",
+        "url": "mail_display.php?timestamp=1739836508",
+        "date": "2025/02/18 07:55",
+        "department": "人文社會科學學院 法律學系",
+        "author": {
+            "department": "人文社會科學學院 法律學系",
+            "name": "高蘇恩",
+            "email": "galaigai@gms.ndhu.edu.tw",
+            "phone": "5663"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113-2法學讀書會-刑法（一）",
         "timestamp": "1739836507",
         "url": "mail_display.php?timestamp=1739836507",
@@ -180,33 +208,5 @@
             "phone": "890-3816"
         },
         "attachmentCount": 8
-    },
-    {
-        "title": "【第二次公告】會計網路請購服務系統將於2月21日(五)11：30～17：00暫停服務進行系統維護",
-        "timestamp": "1739781495",
-        "url": "mail_display.php?timestamp=1739781495",
-        "date": "2025/02/17 16:38",
-        "department": "主計室",
-        "author": {
-            "department": "主計室",
-            "name": "曾俊達",
-            "email": "kleiber0576@gms.ndhu.edu.tw",
-            "phone": "(03)8906079"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【獎助學金申請】大和建設機構113-2「大和何溪明優秀清寒獎學金 (限諮臨系)",
-        "timestamp": "1739779336",
-        "url": "mail_display.php?timestamp=1739779336",
-        "date": "2025/02/17 16:02",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]
