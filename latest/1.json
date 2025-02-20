@@ -1,5 +1,19 @@
 [
     {
+        "title": "[課程宣傳]113-2 學齡前與低年級學童早期識字（請出席第一堂課以確認選課）[融合教育][通用設計][識字教學]",
+        "timestamp": "1740049710",
+        "url": "mail_display.php?timestamp=1740049710",
+        "date": "2025/02/20 19:08",
+        "department": "偏鄉閱讀與行動中心",
+        "author": {
+            "department": "偏鄉閱讀與行動中心",
+            "name": "盧助理",
+            "email": "lesa@gms.ndhu.edu.tw",
+            "phone": "03-890-3813"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】本校113-2傳志基金獎助學金 (受理至114年3月12日，請把握時限申請)",
         "timestamp": "1740045321",
         "url": "mail_display.php?timestamp=1740045321",
@@ -194,19 +208,5 @@
             "phone": "6282"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "體育中心新學期的推廣課程開始報名",
-        "timestamp": "1740014665",
-        "url": "mail_display.php?timestamp=1740014665",
-        "date": "2025/02/20 09:24",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "楊永義",
-            "email": "yyy@gms.ndhu.edu.tw",
-            "phone": "038906612"
-        },
-        "attachmentCount": 1
     }
 ]

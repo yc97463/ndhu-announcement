@@ -1,5 +1,19 @@
 [
     {
+        "title": "初領車證交通安全宣導活動第二梯次-1140226",
+        "timestamp": "1739922910",
+        "url": "mail_display.php?timestamp=1739922910",
+        "date": "2025/02/19 07:55",
+        "department": "學務處 生活輔導組",
+        "author": {
+            "department": "學務處 生活輔導組",
+            "name": "林嘉瑩",
+            "email": "tea7101@gms.ndhu.edu.tw",
+            "phone": "03-8906226"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "寓學於樂--旅遊與科學教育",
         "timestamp": "1739922909",
         "url": "mail_display.php?timestamp=1739922909",
@@ -194,19 +208,5 @@
             "phone": "03-8906226"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "東華夜市開始校內招商囉！",
-        "timestamp": "1739867033",
-        "url": "mail_display.php?timestamp=1739867033",
-        "date": "2025/02/18 16:23",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "姜紫淇",
-            "email": "yaya@gms.ndhu.edu.tw",
-            "phone": "03-8906235"
-        },
-        "attachmentCount": 4
     }
 ]
