@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才公告】國立東華大學管理學院會計學系誠徵身心障礙專案助理一名(第三次公告)",
+        "timestamp": "1740017831",
+        "url": "mail_display.php?timestamp=1740017831",
+        "date": "2025/02/20 10:17",
+        "department": "會計學系",
+        "author": {
+            "department": "會計學系",
+            "name": "dacct@gms.ndhu.edu.tw",
+            "email": "dacct@gms.ndhu.edu.tw",
+            "phone": "8903072"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【課程活動轉發】 新創大學堂課程~歡迎報名~",
         "timestamp": "1739947570",
         "url": "mail_display.php?timestamp=1739947570",
@@ -192,20 +206,6 @@
             "name": "黃文雯",
             "email": "wenwen@gms.ndhu.edu.tw",
             "phone": "6283"
-        },
-        "attachmentCount": 5
-    },
-    {
-        "title": "第25屆東華奇萊文學獎徵文活動~歡迎踴躍投稿~",
-        "timestamp": "1739760007",
-        "url": "mail_display.php?timestamp=1739760007",
-        "date": "2025/02/17 10:40",
-        "department": "人文社會科學學院",
-        "author": {
-            "department": "人文社會科學學院",
-            "name": "姜妃澤",
-            "email": "ftc1029@gms.ndhu.edu.tw",
-            "phone": "03-8905203"
         },
         "attachmentCount": 5
     }

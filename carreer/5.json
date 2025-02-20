@@ -1,5 +1,19 @@
 [
     {
+        "title": " 【國立東華大學管理學院財務金融學系系主任】 徵聘公告",
+        "timestamp": "1730970874",
+        "url": "mail_display.php?timestamp=1730970874",
+        "date": "2024/11/07 17:14",
+        "department": "管理學院",
+        "author": {
+            "department": "管理學院",
+            "name": "林香君",
+            "email": "smgt@gms.ndhu.edu.tw",
+            "phone": "3002"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才公告】國立東華大學總務處環保組誠徵清運班助理一名",
         "timestamp": "1730952008",
         "url": "mail_display.php?timestamp=1730952008",
@@ -194,19 +208,5 @@
             "phone": "890-3816"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【徵才】本校徵求人文社會科學學院院長候選人",
-        "timestamp": "1728612196",
-        "url": "mail_display.php?timestamp=1728612196",
-        "date": "2024/10/11 10:03",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "楊惠雯",
-            "email": "hwyang@gms.ndhu.edu.tw",
-            "phone": "6061"
-        },
-        "attachmentCount": 1
     }
 ]

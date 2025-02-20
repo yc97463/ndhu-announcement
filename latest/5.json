@@ -1,5 +1,33 @@
 [
     {
+        "title": "【民族講座】台芬連線2-北漂冰芬樂-夢想路上的理性感性",
+        "timestamp": "1739836503",
+        "url": "mail_display.php?timestamp=1739836503",
+        "date": "2025/02/18 07:55",
+        "department": "原住民民族學院 民族發展與社會工作學系",
+        "author": {
+            "department": "原住民民族學院 民族發展與社會工作學系",
+            "name": "郭雅婷",
+            "email": "tefi@gms.ndhu.edu.tw",
+            "phone": "5788"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "校園回收站體驗",
+        "timestamp": "1739836502",
+        "url": "mail_display.php?timestamp=1739836502",
+        "date": "2025/02/18 07:55",
+        "department": "環境暨海洋學院 自然資源與環境學系",
+        "author": {
+            "department": "環境暨海洋學院 自然資源與環境學系",
+            "name": "夏懿心",
+            "email": "411154001@gms.ndhu.edu.tw",
+            "phone": "吳盈萱0968990728"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "青年百億海外圓夢基金計畫────夢，你來做   台，國家來搭(東區說明會)",
         "timestamp": "1739836501",
         "url": "mail_display.php?timestamp=1739836501",
@@ -180,33 +208,5 @@
             "phone": "03890-6217"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【學生宿舍】114學年度學生宿舍【宿委】開始網路報名囉～",
-        "timestamp": "1739772299",
-        "url": "mail_display.php?timestamp=1739772299",
-        "date": "2025/02/17 14:04",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "鍾佩玲",
-            "email": "free22011@gms.ndhu.edu.tw",
-            "phone": "03890-6217"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【公告】114年補助本校師生赴海外移地教學，即日起受理申請至4月7日截止。",
-        "timestamp": "1739772242",
-        "url": "mail_display.php?timestamp=1739772242",
-        "date": "2025/02/17 14:04",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 5
     }
 ]
