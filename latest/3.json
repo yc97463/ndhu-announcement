@@ -1,5 +1,47 @@
 [
     {
+        "title": "理工一館Ｄ棟禁止進入",
+        "timestamp": "1739921862",
+        "url": "mail_display.php?timestamp=1739921862",
+        "date": "2025/02/19 07:37",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "黃章傑",
+            "email": "cotycafe@gms.ndhu.edu.tw",
+            "phone": "5778"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "人社二館1號電梯故障停用",
+        "timestamp": "1739879769",
+        "url": "mail_display.php?timestamp=1739879769",
+        "date": "2025/02/18 19:56",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "「VIP垂直整合」微學程課程招生",
+        "timestamp": "1739868923",
+        "url": "mail_display.php?timestamp=1739868923",
+        "date": "2025/02/18 16:55",
+        "department": "管理學院",
+        "author": {
+            "department": "管理學院",
+            "name": "洄瀾共好大學社會責任中心",
+            "email": "techusr@gms.ndhu.edu.tw",
+            "phone": "3772/3770"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "113-2初領車證交通安全宣導活動第二梯次，有意申領校園車輛識別證同學，請儘速上網報名。",
         "timestamp": "1739867225",
         "url": "mail_display.php?timestamp=1739867225",
@@ -166,47 +208,5 @@
             "phone": "6593"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【開課通知】113-2 TAICA  人工智慧倫理  簡介",
-        "timestamp": "1739848074",
-        "url": "mail_display.php?timestamp=1739848074",
-        "date": "2025/02/18 11:07",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "陳禮凡",
-            "email": "lifan.chen@gms.ndhu.edu.tw",
-            "phone": "038906586"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "114年7～12月份「推動國際學術合作交流補助」計畫，即日起受理申請至4月30日為止。",
-        "timestamp": "1739846390",
-        "url": "mail_display.php?timestamp=1739846390",
-        "date": "2025/02/18 10:39",
-        "department": "國際事務處國際合作組",
-        "author": {
-            "department": "國際事務處國際合作組",
-            "name": "羅靖儀",
-            "email": "ice@gms.ndhu.edu.tw",
-            "phone": "（03）8905171"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【訊息轉知】真理大學開設「運動科技概論」磨課師(MOOCs)免費線上課程",
-        "timestamp": "1739845938",
-        "url": "mail_display.php?timestamp=1739845938",
-        "date": "2025/02/18 10:32",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 2
     }
 ]

@@ -1,5 +1,33 @@
 [
     {
+        "title": "113-2法學讀書會-刑法",
+        "timestamp": "1739836511",
+        "url": "mail_display.php?timestamp=1739836511",
+        "date": "2025/02/18 07:55",
+        "department": "人文社會科學學院 法律學系",
+        "author": {
+            "department": "人文社會科學學院 法律學系",
+            "name": "高蘇恩",
+            "email": "galaigai@gms.ndhu.edu.tw",
+            "phone": "5663"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113-2法學讀書會-刑法（四）",
+        "timestamp": "1739836510",
+        "url": "mail_display.php?timestamp=1739836510",
+        "date": "2025/02/18 07:55",
+        "department": "人文社會科學學院 法律學系",
+        "author": {
+            "department": "人文社會科學學院 法律學系",
+            "name": "高蘇恩",
+            "email": "galaigai@gms.ndhu.edu.tw",
+            "phone": "5663"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113-2法學讀書會-刑法（三 ）",
         "timestamp": "1739836509",
         "url": "mail_display.php?timestamp=1739836509",
@@ -180,33 +208,5 @@
             "phone": "03890-6217"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【學生宿舍】114學年度學生宿舍【宿委】開始網路報名囉～",
-        "timestamp": "1739772299",
-        "url": "mail_display.php?timestamp=1739772299",
-        "date": "2025/02/17 14:04",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "鍾佩玲",
-            "email": "free22011@gms.ndhu.edu.tw",
-            "phone": "03890-6217"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【Student Dormitory】– Illustration Meetings of the Student Dormitory Committee Election for Academic Year 2025-2026",
-        "timestamp": "1739769649",
-        "url": "mail_display.php?timestamp=1739769649",
-        "date": "2025/02/17 13:20",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "鍾佩玲",
-            "email": "free22011@gms.ndhu.edu.tw",
-            "phone": "03890-6217"
-        },
-        "attachmentCount": 0
     }
 ]
