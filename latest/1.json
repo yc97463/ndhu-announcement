@@ -1,5 +1,47 @@
 [
     {
+        "title": "體育中心新學期的推廣課程開始報名",
+        "timestamp": "1740014665",
+        "url": "mail_display.php?timestamp=1740014665",
+        "date": "2025/02/20 09:24",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "楊永義",
+            "email": "yyy@gms.ndhu.edu.tw",
+            "phone": "038906612"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【第三次公告】網路請購服務系統將於2月21日(五)11：30～17：00暫停服務進行系統維護",
+        "timestamp": "1740010249",
+        "url": "mail_display.php?timestamp=1740010249",
+        "date": "2025/02/20 08:10",
+        "department": "主計室",
+        "author": {
+            "department": "主計室",
+            "name": "曾俊達",
+            "email": "kleiber0576@gms.ndhu.edu.tw",
+            "phone": "(03)8906079"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【臺灣系學生會】師培大小事 學長姐給你問",
+        "timestamp": "1740009301",
+        "url": "mail_display.php?timestamp=1740009301",
+        "date": "2025/02/20 07:55",
+        "department": "人文社會科學學院 臺灣文化學系",
+        "author": {
+            "department": "人文社會科學學院 臺灣文化學系",
+            "name": "唐家渝",
+            "email": "abby0528@gms.ndhu.edu.tw",
+            "phone": "038905213"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "🎓✨ 114學年師資培育中心「中等/國小教育學程甄選」開跑啦！ ✨🎓",
         "timestamp": "1739954468",
         "url": "mail_display.php?timestamp=1739954468",
@@ -164,48 +206,6 @@
             "name": "黃偲婷",
             "email": "411288004@gms.ndhu.edu.tw",
             "phone": "蔡同學 0981-106528"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "初領車證交通安全宣導活動第二梯次-1140226",
-        "timestamp": "1739922910",
-        "url": "mail_display.php?timestamp=1739922910",
-        "date": "2025/02/19 07:55",
-        "department": "學務處 生活輔導組",
-        "author": {
-            "department": "學務處 生活輔導組",
-            "name": "林嘉瑩",
-            "email": "tea7101@gms.ndhu.edu.tw",
-            "phone": "03-8906226"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "寓學於樂--旅遊與科學教育",
-        "timestamp": "1739922909",
-        "url": "mail_display.php?timestamp=1739922909",
-        "date": "2025/02/19 07:55",
-        "department": "花師教育學院 教育與潛能開發學系",
-        "author": {
-            "department": "花師教育學院 教育與潛能開發學系",
-            "name": "黃偲婷",
-            "email": "cls39white@gms.ndhu.edu.tw",
-            "phone": "038903822"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "113-2Rikec法律系原住民專班期初導生聚",
-        "timestamp": "1739922908",
-        "url": "mail_display.php?timestamp=1739922908",
-        "date": "2025/02/19 07:55",
-        "department": "人文社會科學學院 法律學系",
-        "author": {
-            "department": "人文社會科學學院 法律學系",
-            "name": "高蘇恩",
-            "email": "galaigai@gms.ndhu.edu.tw",
-            "phone": "5663"
         },
         "attachmentCount": 0
     }

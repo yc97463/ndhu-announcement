@@ -1,5 +1,47 @@
 [
     {
+        "title": "【轉知】韓國2025 Chonnam National University International Summer Session",
+        "timestamp": "1739839681",
+        "url": "mail_display.php?timestamp=1739839681",
+        "date": "2025/02/18 08:48",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 9
+    },
+    {
+        "title": "【學習與創意講座】用MBTI解碼你的潛能優勢",
+        "timestamp": "1739836515",
+        "url": "mail_display.php?timestamp=1739836515",
+        "date": "2025/02/18 07:55",
+        "department": "教學卓越中心 教學與學習組",
+        "author": {
+            "department": "教學卓越中心 教學與學習組",
+            "name": "方紀蘋",
+            "email": "",
+            "phone": "6593"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【113-2學期-演講公告】Multi-Objective Optimization-Based Adversarial Attack Generation: A Case Study on Fingerprint Systems基於多目標最佳化的對抗性攻擊生成：指紋系統案例研究",
+        "timestamp": "1739836514",
+        "url": "mail_display.php?timestamp=1739836514",
+        "date": "2025/02/18 07:55",
+        "department": "管理學院 資訊管理學系",
+        "author": {
+            "department": "管理學院 資訊管理學系",
+            "name": "吳佳芬",
+            "email": "fen@gms.ndhu.edu.tw",
+            "phone": "3102"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "東魯凱族小米播種教學",
         "timestamp": "1739836513",
         "url": "mail_display.php?timestamp=1739836513",
@@ -166,47 +208,5 @@
             "phone": "吳盈萱0968990728"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "青年百億海外圓夢基金計畫────夢，你來做   台，國家來搭(東區說明會)",
-        "timestamp": "1739836501",
-        "url": "mail_display.php?timestamp=1739836501",
-        "date": "2025/02/18 07:55",
-        "department": "學務處 畢業生及校友服務組",
-        "author": {
-            "department": "學務處 畢業生及校友服務組",
-            "name": "張雯婷",
-            "email": "kz02820@gms.ndhu.edu.tw",
-            "phone": "038906284"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "有關理工一館變電站預防性更換緊急電盤之電力切換設備",
-        "timestamp": "1739794238",
-        "url": "mail_display.php?timestamp=1739794238",
-        "date": "2025/02/17 20:10",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉景富",
-            "email": "nickak@gms.ndhu.edu.tw",
-            "phone": "8906373"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【招募活動】113-2學期數位大學伴招募說明會~",
-        "timestamp": "1739791069",
-        "url": "mail_display.php?timestamp=1739791069",
-        "date": "2025/02/17 19:17",
-        "department": "花師教育學院",
-        "author": {
-            "department": "花師教育學院",
-            "name": "李宛玲",
-            "email": "etutor_c226@gms.ndhu.edu.tw",
-            "phone": "890-3816"
-        },
-        "attachmentCount": 5
     }
 ]

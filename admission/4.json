@@ -1,5 +1,19 @@
 [
     {
+        "title": "🌟【VIP課程智慧能源社區行動 課程說明會】🌟",
+        "timestamp": "1725608115",
+        "url": "mail_display.php?timestamp=1725608115",
+        "date": "2024/09/06 15:35",
+        "department": "管理學院",
+        "author": {
+            "department": "管理學院",
+            "name": "高云偈",
+            "email": "jerrygao@gms.ndhu.edu.tw",
+            "phone": "03-890-3789"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "113-1校核心通識課程尚有選課人數統計資料公告",
         "timestamp": "1725599877",
         "url": "mail_display.php?timestamp=1725599877",
@@ -194,19 +208,5 @@
             "phone": "6225"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "2024暑假最終版-VIP課程移地學習 VIP(三)智慧能源社區行動選課招募說明會",
-        "timestamp": "1718352635",
-        "url": "mail_display.php?timestamp=1718352635",
-        "date": "2024/06/14 16:10",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "高云偈",
-            "email": "tis@gms.ndhu.edu.tw",
-            "phone": "3789"
-        },
-        "attachmentCount": 3
     }
 ]
