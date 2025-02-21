@@ -1,5 +1,19 @@
 [
     {
+        "title": "【轉知】臺灣國立大學系統「113-2學期校際選課相關資訊」與「114學年度跨校輔系/雙主修名額與條件」",
+        "timestamp": "1737600076",
+        "url": "mail_display.php?timestamp=1737600076",
+        "date": "2025/01/23 10:41",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【通識】113-2學期通識課程活動補助申請",
         "timestamp": "1736925497",
         "url": "mail_display.php?timestamp=1736925497",
@@ -194,19 +208,5 @@
             "phone": "03-8903513"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": " 【敬邀參加】113.12.6（五）高教深耕計畫-在地社會實踐課程「在地療癒」成果發表",
-        "timestamp": "1733206469",
-        "url": "mail_display.php?timestamp=1733206469",
-        "date": "2024/12/03 14:14",
-        "department": "人文社會科學學院",
-        "author": {
-            "department": "人文社會科學學院",
-            "name": "姜妃澤",
-            "email": "ftc1029@gms.ndhu.edu.tw",
-            "phone": "03-8905203"
-        },
-        "attachmentCount": 1
     }
 ]
