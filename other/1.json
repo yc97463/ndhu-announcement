@@ -1,5 +1,33 @@
 [
     {
+        "title": "本校新簽定之理想大地股份有限公司特約商店公告",
+        "timestamp": "1740101419",
+        "url": "mail_display.php?timestamp=1740101419",
+        "date": "2025/02/21 09:30",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "潘姵辰",
+            "email": "papec1980@gms.ndhu.edu.tw",
+            "phone": "03-8906313"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "3/25免費胸部x光篩檢活動報名名額已額滿",
+        "timestamp": "1740100783",
+        "url": "mail_display.php?timestamp=1740100783",
+        "date": "2025/02/21 09:19",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【公告】國立聯合大學函以114年度傑出校友遴選及表揚活動，請同仁踴躍參加。",
         "timestamp": "1740042866",
         "url": "mail_display.php?timestamp=1740042866",
@@ -180,33 +208,5 @@
             "phone": "8906422"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【招募活動】113-2學期數位大學伴招募說明會~",
-        "timestamp": "1739791069",
-        "url": "mail_display.php?timestamp=1739791069",
-        "date": "2025/02/17 19:17",
-        "department": "花師教育學院",
-        "author": {
-            "department": "花師教育學院",
-            "name": "李宛玲",
-            "email": "etutor_c226@gms.ndhu.edu.tw",
-            "phone": "890-3816"
-        },
-        "attachmentCount": 5
-    },
-    {
-        "title": "【開課訊息】歡迎全校同學加選「初等機器人程式設計」課程(周二下午)",
-        "timestamp": "1739782048",
-        "url": "mail_display.php?timestamp=1739782048",
-        "date": "2025/02/17 16:47",
-        "department": "資訊工程學系",
-        "author": {
-            "department": "資訊工程學系",
-            "name": "葉助理",
-            "email": "kiki2002@gms.ndhu.edu.tw",
-            "phone": "5012"
-        },
-        "attachmentCount": 0
     }
 ]
