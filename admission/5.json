@@ -1,5 +1,19 @@
 [
     {
+        "title": "​113年第2回「日本留學試驗（EJU）」報名至7/26~",
+        "timestamp": "1719797589",
+        "url": "mail_display.php?timestamp=1719797589",
+        "date": "2024/07/01 09:33",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 6
+    },
+    {
         "title": "【兵役訊息】國防部「113年志願役預備軍官班考選簡章」公告",
         "timestamp": "1718670734",
         "url": "mail_display.php?timestamp=1718670734",
@@ -194,19 +208,5 @@
             "phone": "分機6122~6126"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "113學年度(第10屆)大專生金融就業公益專班報名開跑，即日起至5/31止",
-        "timestamp": "1715653739",
-        "url": "mail_display.php?timestamp=1715653739",
-        "date": "2024/05/14 10:28",
-        "department": "財務金融學系",
-        "author": {
-            "department": "財務金融學系",
-            "name": "蔡季諭",
-            "email": "jiyu@gms.ndhu.edu.tw",
-            "phone": "8903132"
-        },
-        "attachmentCount": 2
     }
 ]
