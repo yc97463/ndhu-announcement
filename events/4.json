@@ -1,5 +1,47 @@
 [
     {
+        "title": "113-2法學讀書會-刑法（三 ）",
+        "timestamp": "1739836509",
+        "url": "mail_display.php?timestamp=1739836509",
+        "date": "2025/02/18 07:55",
+        "department": "人文社會科學學院 法律學系",
+        "author": {
+            "department": "人文社會科學學院 法律學系",
+            "name": "高蘇恩",
+            "email": "galaigai@gms.ndhu.edu.tw",
+            "phone": "5663"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113-2法學讀書會-刑法（二）",
+        "timestamp": "1739836508",
+        "url": "mail_display.php?timestamp=1739836508",
+        "date": "2025/02/18 07:55",
+        "department": "人文社會科學學院 法律學系",
+        "author": {
+            "department": "人文社會科學學院 法律學系",
+            "name": "高蘇恩",
+            "email": "galaigai@gms.ndhu.edu.tw",
+            "phone": "5663"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113-2法學讀書會-刑法（一）",
+        "timestamp": "1739836507",
+        "url": "mail_display.php?timestamp=1739836507",
+        "date": "2025/02/18 07:55",
+        "department": "人文社會科學學院 法律學系",
+        "author": {
+            "department": "人文社會科學學院 法律學系",
+            "name": "高蘇恩",
+            "email": "galaigai@gms.ndhu.edu.tw",
+            "phone": "5663"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113-2 勵學測驗解題工作坊",
         "timestamp": "1739836506",
         "url": "mail_display.php?timestamp=1739836506",
@@ -166,47 +208,5 @@
             "phone": "03890-6217"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【學生宿舍】本校114學年度「學生宿舍自治服務委員改選暨徵選辦法」說明會，歡迎同學前來參與～",
-        "timestamp": "1739769582",
-        "url": "mail_display.php?timestamp=1739769582",
-        "date": "2025/02/17 13:19",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "鍾佩玲",
-            "email": "free22011@gms.ndhu.edu.tw",
-            "phone": "03890-6217"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "📣📣113-2起飛學習課程、活動第一波免費報名開放啦!!",
-        "timestamp": "1739760263",
-        "url": "mail_display.php?timestamp=1739760263",
-        "date": "2025/02/17 10:44",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "鄭小姐",
-            "email": "ting@gms.ndhu.edu.tw",
-            "phone": "03-8906215"
-        },
-        "attachmentCount": 7
-    },
-    {
-        "title": "第25屆東華奇萊文學獎徵文活動~歡迎踴躍投稿~",
-        "timestamp": "1739760007",
-        "url": "mail_display.php?timestamp=1739760007",
-        "date": "2025/02/17 10:40",
-        "department": "人文社會科學學院",
-        "author": {
-            "department": "人文社會科學學院",
-            "name": "姜妃澤",
-            "email": "ftc1029@gms.ndhu.edu.tw",
-            "phone": "03-8905203"
-        },
-        "attachmentCount": 5
     }
 ]
