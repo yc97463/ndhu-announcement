@@ -1,5 +1,75 @@
 [
     {
+        "title": "【訊息轉知】經濟部產業發展署「製造業 AI 升級引擎」網站線上課程",
+        "timestamp": "1740119170",
+        "url": "mail_display.php?timestamp=1740119170",
+        "date": "2025/02/21 14:26",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【訊息轉知】國立臺灣海洋大學開設3門磨課師(MOOCs)免費線上課程",
+        "timestamp": "1740118640",
+        "url": "mail_display.php?timestamp=1740118640",
+        "date": "2025/02/21 14:17",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "【實習】衛生福利部疾病管制署「114年大專院校學生暑期實習」(校內收件至114年3月24日止)",
+        "timestamp": "1740118539",
+        "url": "mail_display.php?timestamp=1740118539",
+        "date": "2025/02/21 14:15",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "2/24(一)多容館2樓護欄施工公告",
+        "timestamp": "1740117478",
+        "url": "mail_display.php?timestamp=1740117478",
+        "date": "2025/02/21 13:57",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "黃章傑",
+            "email": "cotycafe@gms.ndhu.edu.tw",
+            "phone": "8905778"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "「探究實作及行動實踐」課程,歡迎同學選修",
+        "timestamp": "1740117225",
+        "url": "mail_display.php?timestamp=1740117225",
+        "date": "2025/02/21 13:53",
+        "department": "自然資源與環境學系",
+        "author": {
+            "department": "自然資源與環境學系",
+            "name": "夏懿心",
+            "email": "heart630@gms.ndhu.edu.tw",
+            "phone": "8903277"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【徵才】臺灣原住民族社會福利工作發展協會社工員招募",
         "timestamp": "1740111193",
         "url": "mail_display.php?timestamp=1740111193",
@@ -138,75 +208,5 @@
             "phone": "8903277"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "澳洲留學資訊分享會--雪梨科技大學雙聯學位推廣",
-        "timestamp": "1740095701",
-        "url": "mail_display.php?timestamp=1740095701",
-        "date": "2025/02/21 07:55",
-        "department": "國際事務處 國際學生組",
-        "author": {
-            "department": "國際事務處 國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "[課程宣傳]113-2 學齡前與低年級學童早期識字（請出席第一堂課以確認選課）[融合教育][通用設計][識字教學]",
-        "timestamp": "1740049710",
-        "url": "mail_display.php?timestamp=1740049710",
-        "date": "2025/02/20 19:08",
-        "department": "偏鄉閱讀與行動中心",
-        "author": {
-            "department": "偏鄉閱讀與行動中心",
-            "name": "盧助理",
-            "email": "lesa@gms.ndhu.edu.tw",
-            "phone": "03-890-3813"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【獎助學金申請】本校113-2傳志基金獎助學金 (受理至114年3月12日，請把握時限申請)",
-        "timestamp": "1740045321",
-        "url": "mail_display.php?timestamp=1740045321",
-        "date": "2025/02/20 17:55",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "王玉君",
-            "email": "hu.jean0503@gms.ndhu.edu.tw",
-            "phone": "8906220"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【公告】國立聯合大學函以114年度傑出校友遴選及表揚活動，請同仁踴躍參加。",
-        "timestamp": "1740042866",
-        "url": "mail_display.php?timestamp=1740042866",
-        "date": "2025/02/20 17:14",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "莊博凱",
-            "email": "jonhnny77@gms.ndhu.edu.tw",
-            "phone": "6057"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【人才招募】113-2學期數位大學伴~熱烈招募中!!!",
-        "timestamp": "1740041504",
-        "url": "mail_display.php?timestamp=1740041504",
-        "date": "2025/02/20 16:51",
-        "department": "花師教育學院",
-        "author": {
-            "department": "花師教育學院",
-            "name": "李宛玲",
-            "email": "etutor_c226@gms.ndhu.edu.tw",
-            "phone": "890-3816"
-        },
-        "attachmentCount": 7
     }
 ]
