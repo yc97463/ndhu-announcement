@@ -1,19 +1,5 @@
 [
     {
-        "title": "113學年度第2學期-學產基金低收入戶學生助學金申請",
-        "timestamp": "1740041124",
-        "url": "mail_display.php?timestamp=1740041124",
-        "date": "2025/02/20 16:45",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "林黃漢穎",
-            "email": "henry30180@gms.ndhu.edu.tw",
-            "phone": "038906218"
-        },
-        "attachmentCount": 2
-    },
-    {
         "title": "🎉 2025 東華春藝季 熱鬧開跑！🏃‍♀️🏃‍♂️",
         "timestamp": "1740040391",
         "url": "mail_display.php?timestamp=1740040391",
@@ -208,5 +194,19 @@
             "phone": "03-8906219"
         },
         "attachmentCount": 1
+    },
+    {
+        "title": "[科教專題演講]李暉教授主講：寓學於樂--旅遊與科學教育",
+        "timestamp": "1739947926",
+        "url": "mail_display.php?timestamp=1739947926",
+        "date": "2025/02/19 14:52",
+        "department": "教育與潛能開發學系",
+        "author": {
+            "department": "教育與潛能開發學系",
+            "name": "科學教育碩博班",
+            "email": "esontsai@gms.ndhu.edu.tw",
+            "phone": "3824"
+        },
+        "attachmentCount": 0
     }
 ]

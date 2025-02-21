@@ -1,19 +1,5 @@
 [
     {
-        "title": "📢⪦ 2025東華春藝季~爵士四重奏：謝明諺與 Suga Dairo new little one 2025 台灣巡演",
-        "timestamp": "1739922905",
-        "url": "mail_display.php?timestamp=1739922905",
-        "date": "2025/02/19 07:55",
-        "department": "洄瀾學院 藝文中心",
-        "author": {
-            "department": "洄瀾學院 藝文中心",
-            "name": "周葦綸",
-            "email": "valen0810@gms.ndhu.edu.tw",
-            "phone": "6606"
-        },
-        "attachmentCount": 0
-    },
-    {
         "title": "113-2數位學伴招募說明會",
         "timestamp": "1739922904",
         "url": "mail_display.php?timestamp=1739922904",
@@ -208,5 +194,19 @@
             "phone": "03-890-5920"
         },
         "attachmentCount": 3
+    },
+    {
+        "title": "【招募活動】113-2學期數位大學伴招募說明會~",
+        "timestamp": "1739856519",
+        "url": "mail_display.php?timestamp=1739856519",
+        "date": "2025/02/18 13:28",
+        "department": "花師教育學院",
+        "author": {
+            "department": "花師教育學院",
+            "name": "李宛玲",
+            "email": "etutor_c226@gms.ndhu.edu.tw",
+            "phone": "890-3816"
+        },
+        "attachmentCount": 8
     }
 ]
