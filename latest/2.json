@@ -1,5 +1,33 @@
 [
     {
+        "title": "113-2幼兒教育學系期初系員大會",
+        "timestamp": "1740095703",
+        "url": "mail_display.php?timestamp=1740095703",
+        "date": "2025/02/21 07:55",
+        "department": "花師教育學院 幼兒教育學系",
+        "author": {
+            "department": "花師教育學院 幼兒教育學系",
+            "name": "蕭羽芩",
+            "email": "kay200128@gms.ndhu.edu.tw",
+            "phone": "5266"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "自資系專題演講-What Triggered the Antarctic Glaciation? Insights from Research Cruises to the Scotia Sea\u0026國家災害防救科技中心介紹及災害情資網目前推動情形",
+        "timestamp": "1740095702",
+        "url": "mail_display.php?timestamp=1740095702",
+        "date": "2025/02/21 07:55",
+        "department": "環境暨海洋學院 自然資源與環境學系",
+        "author": {
+            "department": "環境暨海洋學院 自然資源與環境學系",
+            "name": "夏懿心",
+            "email": "heart630@gms.ndhu.edu.tw",
+            "phone": "8903277"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "澳洲留學資訊分享會--雪梨科技大學雙聯學位推廣",
         "timestamp": "1740095701",
         "url": "mail_display.php?timestamp=1740095701",
@@ -180,33 +208,5 @@
             "phone": "8906253"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【健康促進活動】杜絕校園傳染病~免費胸部x光篩檢活動",
-        "timestamp": "1740020418",
-        "url": "mail_display.php?timestamp=1740020418",
-        "date": "2025/02/20 11:00",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【徵才公告】國立東華大學管理學院會計學系誠徵身心障礙專案助理一名(第三次公告)",
-        "timestamp": "1740017831",
-        "url": "mail_display.php?timestamp=1740017831",
-        "date": "2025/02/20 10:17",
-        "department": "會計學系",
-        "author": {
-            "department": "會計學系",
-            "name": "dacct@gms.ndhu.edu.tw",
-            "email": "dacct@gms.ndhu.edu.tw",
-            "phone": "8903072"
-        },
-        "attachmentCount": 0
     }
 ]
