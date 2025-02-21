@@ -1,5 +1,19 @@
 [
     {
+        "title": "🎉 2025 東華春藝季 熱鬧開跑！🏃‍♀️🏃‍♂️",
+        "timestamp": "1740040391",
+        "url": "mail_display.php?timestamp=1740040391",
+        "date": "2025/02/20 16:33",
+        "department": "藝術中心",
+        "author": {
+            "department": "藝術中心",
+            "name": "周葦綸",
+            "email": "arts@gms.ndhu.edu.tw",
+            "phone": "6606"
+        },
+        "attachmentCount": 9
+    },
+    {
         "title": "【課程公告】114年第一梯次《環境教育人員認證課程100小時訓練及評量班暨30小時學歷核心科目研習班》",
         "timestamp": "1740039933",
         "url": "mail_display.php?timestamp=1740039933",
@@ -194,19 +208,5 @@
             "phone": "3824"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【課程活動轉發】 新創大學堂課程~歡迎報名~",
-        "timestamp": "1739947570",
-        "url": "mail_display.php?timestamp=1739947570",
-        "date": "2025/02/19 14:46",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "翁欣儀",
-            "email": "cari20240307@gms.ndhu.edu.tw",
-            "phone": "038221316"
-        },
-        "attachmentCount": 9
     }
 ]
