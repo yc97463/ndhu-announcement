@@ -1,5 +1,33 @@
 [
     {
+        "title": "理工一館Ｄ棟禁止進入",
+        "timestamp": "1739921862",
+        "url": "mail_display.php?timestamp=1739921862",
+        "date": "2025/02/19 07:37",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "黃章傑",
+            "email": "cotycafe@gms.ndhu.edu.tw",
+            "phone": "5778"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "人社二館1號電梯故障停用",
+        "timestamp": "1739879769",
+        "url": "mail_display.php?timestamp=1739879769",
+        "date": "2025/02/18 19:56",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "「VIP垂直整合」微學程課程招生",
         "timestamp": "1739868923",
         "url": "mail_display.php?timestamp=1739868923",
@@ -178,34 +206,6 @@
             "name": "方紀蘋",
             "email": "viya@gms.ndhu.edu.tw",
             "phone": "6593"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【開課通知】113-2 TAICA  人工智慧倫理  簡介",
-        "timestamp": "1739848074",
-        "url": "mail_display.php?timestamp=1739848074",
-        "date": "2025/02/18 11:07",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "陳禮凡",
-            "email": "lifan.chen@gms.ndhu.edu.tw",
-            "phone": "038906586"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "114年7～12月份「推動國際學術合作交流補助」計畫，即日起受理申請至4月30日為止。",
-        "timestamp": "1739846390",
-        "url": "mail_display.php?timestamp=1739846390",
-        "date": "2025/02/18 10:39",
-        "department": "國際事務處國際合作組",
-        "author": {
-            "department": "國際事務處國際合作組",
-            "name": "羅靖儀",
-            "email": "ice@gms.ndhu.edu.tw",
-            "phone": "（03）8905171"
         },
         "attachmentCount": 1
     }
