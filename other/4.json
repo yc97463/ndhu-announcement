@@ -1,5 +1,19 @@
 [
     {
+        "title": "【訊息轉知】國立高雄科技大學開設6門磨課師(MOOCs)免費線上課程歡迎報名參加",
+        "timestamp": "1739498082",
+        "url": "mail_display.php?timestamp=1739498082",
+        "date": "2025/02/14 09:54",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 8
+    },
+    {
         "title": "有關今日理工一館地下室淹水一事說明",
         "timestamp": "1739447562",
         "url": "mail_display.php?timestamp=1739447562",
@@ -194,19 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【徵才】臺灣桃園地方法院114年第1次儲備約僱職務代理人甄試(延長報名至114年2月26日截止)",
-        "timestamp": "1739165356",
-        "url": "mail_display.php?timestamp=1739165356",
-        "date": "2025/02/10 13:29",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 4
     }
 ]
