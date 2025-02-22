@@ -1,5 +1,19 @@
 [
     {
+        "title": "113-2幼兒教育學系期初系員大會",
+        "timestamp": "1740095703",
+        "url": "mail_display.php?timestamp=1740095703",
+        "date": "2025/02/21 07:55",
+        "department": "花師教育學院 幼兒教育學系",
+        "author": {
+            "department": "花師教育學院 幼兒教育學系",
+            "name": "蕭羽芩",
+            "email": "kay200128@gms.ndhu.edu.tw",
+            "phone": "5266"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "自資系專題演講-What Triggered the Antarctic Glaciation? Insights from Research Cruises to the Scotia Sea\u0026國家災害防救科技中心介紹及災害情資網目前推動情形",
         "timestamp": "1740095702",
         "url": "mail_display.php?timestamp=1740095702",
@@ -194,19 +208,5 @@
             "phone": "8906253"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【健康促進活動】杜絕校園傳染病~免費胸部x光篩檢活動",
-        "timestamp": "1740020418",
-        "url": "mail_display.php?timestamp=1740020418",
-        "date": "2025/02/20 11:00",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 2
     }
 ]
