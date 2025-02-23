@@ -1,5 +1,33 @@
 [
     {
+        "title": "法律系113-2期初系員大會",
+        "timestamp": "1740268502",
+        "url": "mail_display.php?timestamp=1740268502",
+        "date": "2025/02/23 07:55",
+        "department": "人文社會科學學院 法律學系",
+        "author": {
+            "department": "人文社會科學學院 法律學系",
+            "name": "陳雅慧",
+            "email": "meditator@gms.ndhu.edu.tw",
+            "phone": "5662"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "電影欣賞:56種喝采",
+        "timestamp": "1740268501",
+        "url": "mail_display.php?timestamp=1740268501",
+        "date": "2025/02/23 07:55",
+        "department": "圖書資訊處 圖資服務組",
+        "author": {
+            "department": "圖書資訊處 圖資服務組",
+            "name": "廖銘珠",
+            "email": "min-judy@gms.ndhu.edu.tw",
+            "phone": "6855"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【財金工作坊】系列一 Python在金融數據的處理與應用",
         "timestamp": "1740182105",
         "url": "mail_display.php?timestamp=1740182105",
@@ -178,34 +206,6 @@
             "name": "王惠貞",
             "email": "labi@gms.ndhu.edu.tw",
             "phone": "8906253"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "113-2幼兒教育學系期初系員大會",
-        "timestamp": "1740095703",
-        "url": "mail_display.php?timestamp=1740095703",
-        "date": "2025/02/21 07:55",
-        "department": "花師教育學院 幼兒教育學系",
-        "author": {
-            "department": "花師教育學院 幼兒教育學系",
-            "name": "蕭羽芩",
-            "email": "kay200128@gms.ndhu.edu.tw",
-            "phone": "5266"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "自資系專題演講-What Triggered the Antarctic Glaciation? Insights from Research Cruises to the Scotia Sea\u0026國家災害防救科技中心介紹及災害情資網目前推動情形",
-        "timestamp": "1740095702",
-        "url": "mail_display.php?timestamp=1740095702",
-        "date": "2025/02/21 07:55",
-        "department": "環境暨海洋學院 自然資源與環境學系",
-        "author": {
-            "department": "環境暨海洋學院 自然資源與環境學系",
-            "name": "夏懿心",
-            "email": "heart630@gms.ndhu.edu.tw",
-            "phone": "8903277"
         },
         "attachmentCount": 0
     }
