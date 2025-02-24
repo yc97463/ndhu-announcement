@@ -1,5 +1,19 @@
 [
     {
+        "title": "228和平紀念日垃圾車暫停清運公告Notice of Garbage Collection Suspension for the 228 Peace Memorial Day",
+        "timestamp": "1740356444",
+        "url": "mail_display.php?timestamp=1740356444",
+        "date": "2025/02/24 08:20",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "許智翔",
+            "email": "cocco3746@gms.ndhu.edu.tw",
+            "phone": "03-8906399"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "法律系113-2期初系員大會",
         "timestamp": "1740268502",
         "url": "mail_display.php?timestamp=1740268502",
@@ -194,19 +208,5 @@
             "phone": "6613"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【下週一！】📢⪦ 2025東華春藝季~爵士四重奏：謝明諺與 Suga Dairo new little one 2025 台灣巡演",
-        "timestamp": "1740125068",
-        "url": "mail_display.php?timestamp=1740125068",
-        "date": "2025/02/21 16:04",
-        "department": "藝術中心",
-        "author": {
-            "department": "藝術中心",
-            "name": "周葦綸",
-            "email": "arts@gms.ndhu.edu.tw",
-            "phone": "6606"
-        },
-        "attachmentCount": 7
     }
 ]
