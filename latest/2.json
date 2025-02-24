@@ -1,5 +1,19 @@
 [
     {
+        "title": "衛生保健組轉知衛生局 打工訊息(歡迎報名說明會)",
+        "timestamp": "1740358463",
+        "url": "mail_display.php?timestamp=1740358463",
+        "date": "2025/02/24 08:54",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "228和平紀念日垃圾車暫停清運公告Notice of Garbage Collection Suspension for the 228 Peace Memorial Day",
         "timestamp": "1740356444",
         "url": "mail_display.php?timestamp=1740356444",
@@ -194,19 +208,5 @@
             "phone": "5107"
         },
         "attachmentCount": 11
-    },
-    {
-        "title": "113-2學期體育(四)_籃球AA及體育(四)_籃球AB上課場地調整",
-        "timestamp": "1740125630",
-        "url": "mail_display.php?timestamp=1740125630",
-        "date": "2025/02/21 16:13",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "莊璦綺",
-            "email": "ichi@gms.ndhu.edu.tw",
-            "phone": "6613"
-        },
-        "attachmentCount": 0
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "澳洲留學資訊分享會--雪梨科技大學雙聯學位推廣Study Abroad Information Session - Welcome to University of Technology Sydney. Shaping your future",
+        "timestamp": "1740391323",
+        "url": "mail_display.php?timestamp=1740391323",
+        "date": "2025/02/24 18:02",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【獎助學金申請】金門縣政府113-2獎學金 (限金門縣籍)",
         "timestamp": "1740386260",
         "url": "mail_display.php?timestamp=1740386260",
@@ -194,19 +208,5 @@
             "phone": "6813"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "衛生保健組轉知衛生局 打工訊息(歡迎報名說明會)",
-        "timestamp": "1740358463",
-        "url": "mail_display.php?timestamp=1740358463",
-        "date": "2025/02/24 08:54",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 1
     }
 ]
