@@ -1,5 +1,19 @@
 [
     {
+        "title": "寓學於樂--旅遊與科學教育",
+        "timestamp": "1739922909",
+        "url": "mail_display.php?timestamp=1739922909",
+        "date": "2025/02/19 07:55",
+        "department": "花師教育學院 教育與潛能開發學系",
+        "author": {
+            "department": "花師教育學院 教育與潛能開發學系",
+            "name": "黃偲婷",
+            "email": "cls39white@gms.ndhu.edu.tw",
+            "phone": "038903822"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113-2Rikec法律系原住民專班期初導生聚",
         "timestamp": "1739922908",
         "url": "mail_display.php?timestamp=1739922908",
@@ -194,19 +208,5 @@
             "phone": "890-3816"
         },
         "attachmentCount": 8
-    },
-    {
-        "title": "親善大使團第十七屆新生二招開跑！",
-        "timestamp": "1739855382",
-        "url": "mail_display.php?timestamp=1739855382",
-        "date": "2025/02/18 13:09",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "游雅筑",
-            "email": "pink389124@gms.ndhu.edu.tw",
-            "phone": "8906236"
-        },
-        "attachmentCount": 4
     }
 ]

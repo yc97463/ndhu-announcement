@@ -1,5 +1,19 @@
 [
     {
+        "title": "【AI工具應用】影像創意革新：使用 Photoshop AI 生成技術展現你的影像風格",
+        "timestamp": "1740379629",
+        "url": "mail_display.php?timestamp=1740379629",
+        "date": "2025/02/24 14:47",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "東華大學秋野芒劇團公益巡演【2025離島專案—澎湖、小琉球巡演計畫】熱情招生中!!",
         "timestamp": "1740376264",
         "url": "mail_display.php?timestamp=1740376264",
@@ -194,19 +208,5 @@
             "phone": "5247"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【財金工作坊】系列一 Python在金融數據的處理與應用",
-        "timestamp": "1740182105",
-        "url": "mail_display.php?timestamp=1740182105",
-        "date": "2025/02/22 07:55",
-        "department": "管理學院 財務金融學系",
-        "author": {
-            "department": "管理學院 財務金融學系",
-            "name": "呂羅晟峰",
-            "email": "luluo@gms.ndhu.edu.tw",
-            "phone": "8903132"
-        },
-        "attachmentCount": 0
     }
 ]
