@@ -1,5 +1,33 @@
 [
     {
+        "title": "【第二次公告】會計網路請購服務系統將於2月21日(五)11：30～17：00暫停服務進行系統維護",
+        "timestamp": "1739781495",
+        "url": "mail_display.php?timestamp=1739781495",
+        "date": "2025/02/17 16:38",
+        "department": "主計室",
+        "author": {
+            "department": "主計室",
+            "name": "曾俊達",
+            "email": "kleiber0576@gms.ndhu.edu.tw",
+            "phone": "(03)8906079"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【代轉學生會公告】國立東華大學學期16週調整意向調查 National Dong Hwa University Semester Adjustment Survey: 16-Week Semester",
+        "timestamp": "1739776967",
+        "url": "mail_display.php?timestamp=1739776967",
+        "date": "2025/02/17 15:22",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "姜紫淇",
+            "email": "yaya@gms.ndhu.edu.tw",
+            "phone": "03-8906235"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【公告】114年補助本校師生赴海外移地教學，即日起受理申請至4月7日截止。",
         "timestamp": "1739772242",
         "url": "mail_display.php?timestamp=1739772242",
@@ -180,33 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【第一次公告】會計網路請購服務系統將於2月21日（五）11：30～17：00暫停服務進行系統維護",
-        "timestamp": "1739520512",
-        "url": "mail_display.php?timestamp=1739520512",
-        "date": "2025/02/14 16:08",
-        "department": "主計室",
-        "author": {
-            "department": "主計室",
-            "name": "曾俊達",
-            "email": "kleiber0576@gms.ndhu.edu.tw",
-            "phone": "(03)8906079"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "113-2校核心通識課程異動(增開及停開課程)公告",
-        "timestamp": "1739518668",
-        "url": "mail_display.php?timestamp=1739518668",
-        "date": "2025/02/14 15:37",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 1
     }
 ]
