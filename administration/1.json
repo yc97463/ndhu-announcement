@@ -1,5 +1,19 @@
 [
     {
+        "title": "228和平紀念日垃圾車暫停清運公告Notice of Garbage Collection Suspension for the 228 Peace Memorial Day",
+        "timestamp": "1740356444",
+        "url": "mail_display.php?timestamp=1740356444",
+        "date": "2025/02/24 08:20",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "許智翔",
+            "email": "cocco3746@gms.ndhu.edu.tw",
+            "phone": "03-8906399"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "為進行學活園區機車停車場路燈維修公告(2/22)",
         "timestamp": "1740137037",
         "url": "mail_display.php?timestamp=1740137037",
@@ -194,19 +208,5 @@
             "phone": "03-8906235"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【公告】114年補助本校師生赴海外移地教學，即日起受理申請至4月7日截止。",
-        "timestamp": "1739772242",
-        "url": "mail_display.php?timestamp=1739772242",
-        "date": "2025/02/17 14:04",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 5
     }
 ]
