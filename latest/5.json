@@ -1,5 +1,19 @@
 [
     {
+        "title": "📣【徵才公告】 國立東華大學學務處畢業生及校友服務組徵聘校務基金助理一名",
+        "timestamp": "1740016244",
+        "url": "mail_display.php?timestamp=1740016244",
+        "date": "2025/02/20 09:50",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "溫小姐",
+            "email": "fengting0804@gms.ndhu.edu.tw",
+            "phone": "6282"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "體育中心新學期的推廣課程開始報名",
         "timestamp": "1740014665",
         "url": "mail_display.php?timestamp=1740014665",
@@ -194,19 +208,5 @@
             "phone": "(03)890-6894"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "113-2教育系系學會系員大會",
-        "timestamp": "1739922911",
-        "url": "mail_display.php?timestamp=1739922911",
-        "date": "2025/02/19 07:55",
-        "department": "花師教育學院 教育與潛能開發學系",
-        "author": {
-            "department": "花師教育學院 教育與潛能開發學系",
-            "name": "黃偲婷",
-            "email": "411288004@gms.ndhu.edu.tw",
-            "phone": "蔡同學 0981-106528"
-        },
-        "attachmentCount": 0
     }
 ]
