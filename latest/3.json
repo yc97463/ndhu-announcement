@@ -1,5 +1,19 @@
 [
     {
+        "title": "【訊息轉知】國立臺灣海洋大學開設3門磨課師(MOOCs)免費線上課程",
+        "timestamp": "1740118640",
+        "url": "mail_display.php?timestamp=1740118640",
+        "date": "2025/02/21 14:17",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【實習】衛生福利部疾病管制署「114年大專院校學生暑期實習」(校內收件至114年3月24日止)",
         "timestamp": "1740118539",
         "url": "mail_display.php?timestamp=1740118539",
@@ -194,19 +208,5 @@
             "phone": "5107"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "[課程宣傳]113-2 學齡前與低年級學童早期識字（請出席第一堂課以確認選課）[融合教育][通用設計][識字教學]",
-        "timestamp": "1740049710",
-        "url": "mail_display.php?timestamp=1740049710",
-        "date": "2025/02/20 19:08",
-        "department": "偏鄉閱讀與行動中心",
-        "author": {
-            "department": "偏鄉閱讀與行動中心",
-            "name": "盧助理",
-            "email": "lesa@gms.ndhu.edu.tw",
-            "phone": "03-890-3813"
-        },
-        "attachmentCount": 1
     }
 ]
