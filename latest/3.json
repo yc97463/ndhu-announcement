@@ -1,5 +1,75 @@
 [
     {
+        "title": "Singularity paramagnetic susceptibility peaks at zero magnetic fields(書報討論修課同學請勿報名)",
+        "timestamp": "1740441312",
+        "url": "mail_display.php?timestamp=1740441312",
+        "date": "2025/02/25 07:55",
+        "department": "理工學院 物理學系",
+        "author": {
+            "department": "理工學院 物理學系",
+            "name": "劉芝葳",
+            "email": "",
+            "phone": "0925385308"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "搶救安妮大作戰 第一場",
+        "timestamp": "1740441311",
+        "url": "mail_display.php?timestamp=1740441311",
+        "date": "2025/02/25 07:55",
+        "department": "學務處 衛生保健組",
+        "author": {
+            "department": "學務處 衛生保健組",
+            "name": "吳星穎",
+            "email": "carmier@gms.ndhu.edu.tw",
+            "phone": "8906252"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "急救訓練課程 CPR+AED證照班 ",
+        "timestamp": "1740441310",
+        "url": "mail_display.php?timestamp=1740441310",
+        "date": "2025/02/25 07:55",
+        "department": "學務處 衛生保健組",
+        "author": {
+            "department": "學務處 衛生保健組",
+            "name": "吳星穎",
+            "email": "carmier@gms.ndhu.edu.tw",
+            "phone": "8906252"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "性平講座-我們與性別暴力的距離",
+        "timestamp": "1740441309",
+        "url": "mail_display.php?timestamp=1740441309",
+        "date": "2025/02/25 07:55",
+        "department": "心理諮商輔導中心 預防推廣組",
+        "author": {
+            "department": "心理諮商輔導中心 預防推廣組",
+            "name": "魏凡涓",
+            "email": "juliawei@gms.ndhu.edu.tw",
+            "phone": "03-8906892"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【malitemoh 映照的瞬間】當代靈藝策展",
+        "timestamp": "1740441308",
+        "url": "mail_display.php?timestamp=1740441308",
+        "date": "2025/02/25 07:55",
+        "department": "原住民民族學院 原住民族樂舞與藝術學士學位學程",
+        "author": {
+            "department": "原住民民族學院 原住民族樂舞與藝術學士學位學程",
+            "name": "王韻蘋",
+            "email": "41109a001@gms.ndhu.edu.tw",
+            "phone": "0906314331"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【健康促進活動】響應0403世界肥胖日，體驗無糖飲料",
         "timestamp": "1740441307",
         "url": "mail_display.php?timestamp=1740441307",
@@ -138,75 +208,5 @@
             "phone": "8906269"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【論文獎助】國立臺灣圖書館2025身心障礙研究優良論文獎助",
-        "timestamp": "1740384733",
-        "url": "mail_display.php?timestamp=1740384733",
-        "date": "2025/02/24 16:12",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【考試】BESTEP 培力英檢測驗報名表-5/24花蓮場",
-        "timestamp": "1740381387",
-        "url": "mail_display.php?timestamp=1740381387",
-        "date": "2025/02/24 15:16",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "林瑜珊",
-            "email": "lc@gms.ndhu.edu.tw",
-            "phone": "03-895492"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【AI工具應用】影像創意革新：使用 Photoshop AI 生成技術展現你的影像風格",
-        "timestamp": "1740379629",
-        "url": "mail_display.php?timestamp=1740379629",
-        "date": "2025/02/24 14:47",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "東華大學秋野芒劇團公益巡演【2025離島專案—澎湖、小琉球巡演計畫】熱情招生中!!",
-        "timestamp": "1740376264",
-        "url": "mail_display.php?timestamp=1740376264",
-        "date": "2025/02/24 13:51",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
-        "timestamp": "1740375326",
-        "url": "mail_display.php?timestamp=1740375326",
-        "date": "2025/02/24 13:35",
-        "department": "圖書資訊處校務系統組",
-        "author": {
-            "department": "圖書資訊處校務系統組",
-            "name": "林志軒",
-            "email": "chshlin@gms.ndhu.edu.tw",
-            "phone": "6752"
-        },
-        "attachmentCount": 0
     }
 ]

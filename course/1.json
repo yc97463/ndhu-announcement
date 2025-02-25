@@ -1,5 +1,19 @@
 [
     {
+        "title": "【課務組通知】113-2加退選後課程確認及加簽作業(2/27-3/7) Course Confirm Online and Add Course Requests (Feb. 27-Mar. 7)",
+        "timestamp": "1740469830",
+        "url": "mail_display.php?timestamp=1740469830",
+        "date": "2025/02/25 15:50",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": " 📢生命造舟課程說明會📢",
         "timestamp": "1740458893",
         "url": "mail_display.php?timestamp=1740458893",
@@ -194,19 +208,5 @@
             "phone": "03-8906215"
         },
         "attachmentCount": 7
-    },
-    {
-        "title": "✨東華大學秋野芒劇團公益巡演【2025離島專案—澎湖、小琉球巡演計畫】招生囉!!✨",
-        "timestamp": "1739752107",
-        "url": "mail_display.php?timestamp=1739752107",
-        "date": "2025/02/17 08:28",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 3
     }
 ]
