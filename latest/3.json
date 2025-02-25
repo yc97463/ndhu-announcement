@@ -1,5 +1,19 @@
 [
     {
+        "title": "【健康促進活動】0328響應淨社區活動，為永續自然盡一份心力！",
+        "timestamp": "1740441302",
+        "url": "mail_display.php?timestamp=1740441302",
+        "date": "2025/02/25 07:55",
+        "department": "學務處 衛生保健組",
+        "author": {
+            "department": "學務處 衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "重要!!重要!! 衛生保健組轉知衛生局 打工訊息(歡迎報名說明會)",
         "timestamp": "1740441301",
         "url": "mail_display.php?timestamp=1740441301",
@@ -194,19 +208,5 @@
             "phone": "038905778"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【徵才公告】國立東華大學管理學院會計與資訊管理國際學士班徵聘專任教師",
-        "timestamp": "1740362077",
-        "url": "mail_display.php?timestamp=1740362077",
-        "date": "2025/02/24 09:54",
-        "department": "會計與資訊管理國際學士班",
-        "author": {
-            "department": "會計與資訊管理國際學士班",
-            "name": "郭娜",
-            "email": "inagn@gms.ndhu.edu.tw",
-            "phone": "03-8903007"
-        },
-        "attachmentCount": 1
     }
 ]

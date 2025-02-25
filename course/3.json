@@ -1,5 +1,19 @@
 [
     {
+        "title": "【教務處課務組】各學制新生(含轉學生、復學生)113-2網路選課  Freshmen Online Preliminary Course Selection",
+        "timestamp": "1738630361",
+        "url": "mail_display.php?timestamp=1738630361",
+        "date": "2025/02/04 08:52",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【轉知】國立陽明交通大學辦理勞動部勞動力發展署桃竹苗分署114 年度產業人才投資方案「Python與資料視覺化應用班第01期」政府補助課程，相關報名資訊，請詳參課程簡章。",
         "timestamp": "1737624318",
         "url": "mail_display.php?timestamp=1737624318",
@@ -194,19 +208,5 @@
             "phone": "6602"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "「教學意見調查表」系統將自12月8日(日)起開放學生填寫 NDHU Teaching Feedback System will open on December 8.",
-        "timestamp": "1733378241",
-        "url": "mail_display.php?timestamp=1733378241",
-        "date": "2024/12/05 13:57",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "utd1003@gms.ndhu.edu.tw",
-            "phone": "6122-6126"
-        },
-        "attachmentCount": 0
     }
 ]
