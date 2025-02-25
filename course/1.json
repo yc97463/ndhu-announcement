@@ -28,20 +28,6 @@
         "attachmentCount": 0
     },
     {
-        "title": " 📢生命造舟課程說明會📢",
-        "timestamp": "1740458893",
-        "url": "mail_display.php?timestamp=1740458893",
-        "date": "2025/02/25 12:48",
-        "department": "社會參與中心",
-        "author": {
-            "department": "社會參與中心",
-            "name": "徐小姐",
-            "email": "hsu-pangju@gms.ndhu.edu.tw",
-            "phone": "5247/0917-878505"
-        },
-        "attachmentCount": 5
-    },
-    {
         "title": "東華大學秋野芒劇團公益巡演【2025離島專案—澎湖、小琉球巡演計畫】熱情招生中!!",
         "timestamp": "1740376264",
         "url": "mail_display.php?timestamp=1740376264",
@@ -208,5 +194,19 @@
             "phone": "5012"
         },
         "attachmentCount": 0
+    },
+    {
+        "title": "📣📣113-2起飛學習課程、活動第一波免費報名開放啦!!",
+        "timestamp": "1739760263",
+        "url": "mail_display.php?timestamp=1739760263",
+        "date": "2025/02/17 10:44",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "鄭小姐",
+            "email": "ting@gms.ndhu.edu.tw",
+            "phone": "03-8906215"
+        },
+        "attachmentCount": 7
     }
 ]
