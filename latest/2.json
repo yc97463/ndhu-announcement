@@ -1,5 +1,19 @@
 [
     {
+        "title": "公文系統訂於114年2月26日(三)中午12~13時暫停服務公告。",
+        "timestamp": "1740442549",
+        "url": "mail_display.php?timestamp=1740442549",
+        "date": "2025/02/25 08:15",
+        "department": "總務處文書組",
+        "author": {
+            "department": "總務處文書組",
+            "name": "張先生",
+            "email": "eric.chang@gms.ndhu.edu.tw",
+            "phone": "03-8906352"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113-2初領車證交通安全宣導活動第三、四梯次，有意申領校園車輛識別證同學，請儘速上網報名。",
         "timestamp": "1740442297",
         "url": "mail_display.php?timestamp=1740442297",
@@ -192,20 +206,6 @@
             "name": "王韻蘋",
             "email": "41109a001@gms.ndhu.edu.tw",
             "phone": "0906314331"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【健康促進活動】響應0403世界肥胖日，體驗無糖飲料",
-        "timestamp": "1740441307",
-        "url": "mail_display.php?timestamp=1740441307",
-        "date": "2025/02/25 07:55",
-        "department": "學務處 衛生保健組",
-        "author": {
-            "department": "學務處 衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
         },
         "attachmentCount": 0
     }
