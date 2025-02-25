@@ -1,5 +1,19 @@
 [
     {
+        "title": "重要!!重要!! 衛生保健組轉知衛生局 打工訊息(歡迎報名說明會)",
+        "timestamp": "1740441301",
+        "url": "mail_display.php?timestamp=1740441301",
+        "date": "2025/02/25 07:55",
+        "department": "學務處 衛生保健組",
+        "author": {
+            "department": "學務處 衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "澳洲留學資訊分享會--雪梨科技大學雙聯學位推廣Study Abroad Information Session - Welcome to University of Technology Sydney. Shaping your future",
         "timestamp": "1740391323",
         "url": "mail_display.php?timestamp=1740391323",
@@ -194,19 +208,5 @@
             "phone": "03-8903007"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【圖書館公告】和平紀念日【114.02.28 (五)】休館一日！Library will be closed for Peace Memorial Day on February 28, 2025.",
-        "timestamp": "1740361523",
-        "url": "mail_display.php?timestamp=1740361523",
-        "date": "2025/02/24 09:45",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "詹依萍",
-            "email": "ipchan@gms.ndhu.edu.tw",
-            "phone": "6813"
-        },
-        "attachmentCount": 0
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "【實習】臺北市立聯合醫院「114年醫事類別以外學生實習招募」(校內收件至114年3月25日止)",
+        "timestamp": "1740456437",
+        "url": "mail_display.php?timestamp=1740456437",
+        "date": "2025/02/25 12:07",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【實習】財團法人俊逸文教基金會「2025年大專院校學生暑期實習」(114年4月20日截止)",
         "timestamp": "1740452927",
         "url": "mail_display.php?timestamp=1740452927",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "本校新簽定之理想大地股份有限公司特約商店公告",
-        "timestamp": "1740101419",
-        "url": "mail_display.php?timestamp=1740101419",
-        "date": "2025/02/21 09:30",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "潘姵辰",
-            "email": "papec1980@gms.ndhu.edu.tw",
-            "phone": "03-8906313"
-        },
-        "attachmentCount": 2
     }
 ]
