@@ -1,5 +1,19 @@
 [
     {
+        "title": "【ROTC招生訊息】國防部1 1 4年大學儲備軍官訓練團第2梯次甄選作業(招生)宣導",
+        "timestamp": "1739351145",
+        "url": "mail_display.php?timestamp=1739351145",
+        "date": "2025/02/12 17:05",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "6225"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【全民國防訊息】文化部辦理114年文化獎項及電子競技專長類別替代役評選作業規定、報名表、切結書公告",
         "timestamp": "1739350968",
         "url": "mail_display.php?timestamp=1739350968",
@@ -194,19 +208,5 @@
             "phone": "6502"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "東華電子報 | 2025年01月刊 |",
-        "timestamp": "1738907501",
-        "url": "mail_display.php?timestamp=1738907501",
-        "date": "2025/02/07 13:51",
-        "department": "秘書室公關宣傳組",
-        "author": {
-            "department": "秘書室公關宣傳組",
-            "name": "林佩瑤",
-            "email": "peiyao@gms.ndhu.edu.tw",
-            "phone": "6013"
-        },
-        "attachmentCount": 0
     }
 ]
