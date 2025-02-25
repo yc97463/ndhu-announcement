@@ -1,5 +1,19 @@
 [
     {
+        "title": "理工二館今(2/24)日上午8時35分部分區域無預警停電說明",
+        "timestamp": "1740363030",
+        "url": "mail_display.php?timestamp=1740363030",
+        "date": "2025/02/24 10:10",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "黃章傑",
+            "email": "cotycafe@gms.ndhu.edu.tw",
+            "phone": "038905778"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才公告】國立東華大學管理學院會計與資訊管理國際學士班徵聘專任教師",
         "timestamp": "1740362077",
         "url": "mail_display.php?timestamp=1740362077",
@@ -194,19 +208,5 @@
             "phone": "890-3816"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "為進行學活園區機車停車場路燈維修公告(2/22)",
-        "timestamp": "1740137037",
-        "url": "mail_display.php?timestamp=1740137037",
-        "date": "2025/02/21 19:23",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 1
     }
 ]
