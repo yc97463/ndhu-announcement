@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才公告】國立東華大學管理學院會計與資訊管理國際學士班徵聘專任教師",
+        "timestamp": "1740362077",
+        "url": "mail_display.php?timestamp=1740362077",
+        "date": "2025/02/24 09:54",
+        "department": "會計與資訊管理國際學士班",
+        "author": {
+            "department": "會計與資訊管理國際學士班",
+            "name": "郭娜",
+            "email": "inagn@gms.ndhu.edu.tw",
+            "phone": "03-8903007"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【圖書館公告】和平紀念日【114.02.28 (五)】休館一日！Library will be closed for Peace Memorial Day on February 28, 2025.",
         "timestamp": "1740361523",
         "url": "mail_display.php?timestamp=1740361523",
@@ -194,19 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "心理諮商輔導中心期初關懷信",
-        "timestamp": "1740129306",
-        "url": "mail_display.php?timestamp=1740129306",
-        "date": "2025/02/21 17:15",
-        "department": "心理諮商輔導中心",
-        "author": {
-            "department": "心理諮商輔導中心",
-            "name": "陳淑惠",
-            "email": "csh12967@gms.ndhu.edu.tw",
-            "phone": "8906276"
-        },
-        "attachmentCount": 2
     }
 ]
