@@ -1,5 +1,33 @@
 [
     {
+        "title": "【新生健檢通知】歡迎113-2入學新生報名健康檢查",
+        "timestamp": "1739750817",
+        "url": "mail_display.php?timestamp=1739750817",
+        "date": "2025/02/17 08:06",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "113學年第2學期開學總務處業務相關注意事項",
+        "timestamp": "1739630047",
+        "url": "mail_display.php?timestamp=1739630047",
+        "date": "2025/02/15 22:34",
+        "department": "總務處",
+        "author": {
+            "department": "總務處",
+            "name": "陳宇欽",
+            "email": "yuchin@gms.ndhu.edu.tw",
+            "phone": "分機6307"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "代轉台灣中小企業銀行校園ATM暫停服務訊息",
         "timestamp": "1739526128",
         "url": "mail_display.php?timestamp=1739526128",
@@ -180,33 +208,5 @@
             "phone": "6225"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【全民國防訊息】文化部辦理114年文化獎項及電子競技專長類別替代役評選作業規定、報名表、切結書公告",
-        "timestamp": "1739350968",
-        "url": "mail_display.php?timestamp=1739350968",
-        "date": "2025/02/12 17:02",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "黃勇程",
-            "email": "victor0903@gms.ndhu.edu.tw",
-            "phone": "6225"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "勿開啟社交工程信件以免個資外洩或被詐騙",
-        "timestamp": "1739343457",
-        "url": "mail_display.php?timestamp=1739343457",
-        "date": "2025/02/12 14:57",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "葉宏達",
-            "email": "honda@gms.ndhu.edu.tw",
-            "phone": "8906747"
-        },
-        "attachmentCount": 1
     }
 ]

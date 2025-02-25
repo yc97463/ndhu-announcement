@@ -1,9 +1,23 @@
 [
     {
-        "title": "📢⪦ 2025東華春藝季~爵士四重奏：謝明諺與Suga Dairo new little one 2025 台灣巡演",
-        "timestamp": "1739866298",
-        "url": "mail_display.php?timestamp=1739866298",
-        "date": "2025/02/18 16:11",
+        "title": "澳洲留學資訊分享會--雪梨科技大學雙聯學位推廣",
+        "timestamp": "1740095701",
+        "url": "mail_display.php?timestamp=1740095701",
+        "date": "2025/02/21 07:55",
+        "department": "國際事務處 國際學生組",
+        "author": {
+            "department": "國際事務處 國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "🎉 2025 東華春藝季 熱鬧開跑！🏃‍♀️🏃‍♂️",
+        "timestamp": "1740040391",
+        "url": "mail_display.php?timestamp=1740040391",
+        "date": "2025/02/20 16:33",
         "department": "藝術中心",
         "author": {
             "department": "藝術中心",
@@ -11,139 +25,125 @@
             "email": "arts@gms.ndhu.edu.tw",
             "phone": "6606"
         },
-        "attachmentCount": 7
+        "attachmentCount": 9
     },
     {
-        "title": "【招募活動】113-2學期數位大學伴招募說明會~",
-        "timestamp": "1739856519",
-        "url": "mail_display.php?timestamp=1739856519",
-        "date": "2025/02/18 13:28",
-        "department": "花師教育學院",
+        "title": "【健康促進營養講座】營在己力，食在平衡，歡迎踴躍參加!",
+        "timestamp": "1740021395",
+        "url": "mail_display.php?timestamp=1740021395",
+        "date": "2025/02/20 11:16",
+        "department": "學務處衛生保健組",
         "author": {
-            "department": "花師教育學院",
-            "name": "李宛玲",
-            "email": "etutor_c226@gms.ndhu.edu.tw",
-            "phone": "890-3816"
-        },
-        "attachmentCount": 8
-    },
-    {
-        "title": "【招募活動】113-2學期數位大學伴招募說明會~",
-        "timestamp": "1739855974",
-        "url": "mail_display.php?timestamp=1739855974",
-        "date": "2025/02/18 13:19",
-        "department": "花師教育學院",
-        "author": {
-            "department": "花師教育學院",
-            "name": "李宛玲",
-            "email": "etutor_c226@gms.ndhu.edu.tw",
-            "phone": "890-3816"
-        },
-        "attachmentCount": 8
-    },
-    {
-        "title": "親善大使團第十七屆新生二招開跑！",
-        "timestamp": "1739855382",
-        "url": "mail_display.php?timestamp=1739855382",
-        "date": "2025/02/18 13:09",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "游雅筑",
-            "email": "pink389124@gms.ndhu.edu.tw",
-            "phone": "8906236"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "【學習與創意講座】用MBTI解碼你的潛能優勢(3/10)",
-        "timestamp": "1739848530",
-        "url": "mail_display.php?timestamp=1739848530",
-        "date": "2025/02/18 11:15",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "方紀蘋",
-            "email": "viya@gms.ndhu.edu.tw",
-            "phone": "6593"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【轉知】教育部辦理114年波蘭政府獎學金甄選簡章",
-        "timestamp": "1739840832",
-        "url": "mail_display.php?timestamp=1739840832",
-        "date": "2025/02/18 09:07",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
         },
         "attachmentCount": 3
     },
     {
-        "title": "【轉知】韓國2025 Chonnam National University International Summer Session",
-        "timestamp": "1739839681",
-        "url": "mail_display.php?timestamp=1739839681",
-        "date": "2025/02/18 08:48",
-        "department": "國際事務處國際學生組",
+        "title": "【健康促進活動】杜絕校園傳染病~免費胸部x光篩檢活動",
+        "timestamp": "1740020418",
+        "url": "mail_display.php?timestamp=1740020418",
+        "date": "2025/02/20 11:00",
+        "department": "學務處衛生保健組",
         "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【臺灣系學生會】師培大小事 學長姐給你問",
+        "timestamp": "1740009301",
+        "url": "mail_display.php?timestamp=1740009301",
+        "date": "2025/02/20 07:55",
+        "department": "人文社會科學學院 臺灣文化學系",
+        "author": {
+            "department": "人文社會科學學院 臺灣文化學系",
+            "name": "唐家渝",
+            "email": "abby0528@gms.ndhu.edu.tw",
+            "phone": "038905213"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【課程活動轉發】 新創大學堂課程~歡迎報名~",
+        "timestamp": "1739947570",
+        "url": "mail_display.php?timestamp=1739947570",
+        "date": "2025/02/19 14:46",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "翁欣儀",
+            "email": "cari20240307@gms.ndhu.edu.tw",
+            "phone": "038221316"
         },
         "attachmentCount": 9
     },
     {
-        "title": "【學習與創意講座】用MBTI解碼你的潛能優勢",
-        "timestamp": "1739836515",
-        "url": "mail_display.php?timestamp=1739836515",
-        "date": "2025/02/18 07:55",
-        "department": "教學卓越中心 教學與學習組",
+        "title": "諮商中心-《此刻腦筋急轉彎》－情緒探索與經驗團體招募公告",
+        "timestamp": "1739928186",
+        "url": "mail_display.php?timestamp=1739928186",
+        "date": "2025/02/19 09:23",
+        "department": "心理諮商輔導中心",
         "author": {
-            "department": "教學卓越中心 教學與學習組",
-            "name": "方紀蘋",
-            "email": "",
-            "phone": "6593"
+            "department": "心理諮商輔導中心",
+            "name": "陳奕錚",
+            "email": "yjchen92@gms.ndhu.edu.tw",
+            "phone": "(03)890-6894"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "113-2教育系系學會系員大會",
+        "timestamp": "1739922911",
+        "url": "mail_display.php?timestamp=1739922911",
+        "date": "2025/02/19 07:55",
+        "department": "花師教育學院 教育與潛能開發學系",
+        "author": {
+            "department": "花師教育學院 教育與潛能開發學系",
+            "name": "黃偲婷",
+            "email": "411288004@gms.ndhu.edu.tw",
+            "phone": "蔡同學 0981-106528"
         },
         "attachmentCount": 0
     },
     {
-        "title": "【113-2學期-演講公告】Multi-Objective Optimization-Based Adversarial Attack Generation: A Case Study on Fingerprint Systems基於多目標最佳化的對抗性攻擊生成：指紋系統案例研究",
-        "timestamp": "1739836514",
-        "url": "mail_display.php?timestamp=1739836514",
-        "date": "2025/02/18 07:55",
-        "department": "管理學院 資訊管理學系",
+        "title": "初領車證交通安全宣導活動第二梯次-1140226",
+        "timestamp": "1739922910",
+        "url": "mail_display.php?timestamp=1739922910",
+        "date": "2025/02/19 07:55",
+        "department": "學務處 生活輔導組",
         "author": {
-            "department": "管理學院 資訊管理學系",
-            "name": "吳佳芬",
-            "email": "fen@gms.ndhu.edu.tw",
-            "phone": "3102"
+            "department": "學務處 生活輔導組",
+            "name": "林嘉瑩",
+            "email": "tea7101@gms.ndhu.edu.tw",
+            "phone": "03-8906226"
         },
         "attachmentCount": 0
     },
     {
-        "title": "東魯凱族小米播種教學",
-        "timestamp": "1739836513",
-        "url": "mail_display.php?timestamp=1739836513",
-        "date": "2025/02/18 07:55",
-        "department": "學務處 原住民族學生資源中心",
+        "title": "寓學於樂--旅遊與科學教育",
+        "timestamp": "1739922909",
+        "url": "mail_display.php?timestamp=1739922909",
+        "date": "2025/02/19 07:55",
+        "department": "花師教育學院 教育與潛能開發學系",
         "author": {
-            "department": "學務處 原住民族學生資源中心",
-            "name": "曾暐娟",
-            "email": "411196073@gms.ndhu.edu.tw",
-            "phone": "周毅 0907-379575"
+            "department": "花師教育學院 教育與潛能開發學系",
+            "name": "黃偲婷",
+            "email": "cls39white@gms.ndhu.edu.tw",
+            "phone": "038903822"
         },
         "attachmentCount": 0
     },
     {
-        "title": "113-2法學讀書會-刑法備課",
-        "timestamp": "1739836512",
-        "url": "mail_display.php?timestamp=1739836512",
-        "date": "2025/02/18 07:55",
+        "title": "113-2Rikec法律系原住民專班期初導生聚",
+        "timestamp": "1739922908",
+        "url": "mail_display.php?timestamp=1739922908",
+        "date": "2025/02/19 07:55",
         "department": "人文社會科學學院 法律學系",
         "author": {
             "department": "人文社會科學學院 法律學系",
@@ -154,58 +154,58 @@
         "attachmentCount": 0
     },
     {
-        "title": "113-2法學讀書會-刑法",
-        "timestamp": "1739836511",
-        "url": "mail_display.php?timestamp=1739836511",
-        "date": "2025/02/18 07:55",
-        "department": "人文社會科學學院 法律學系",
+        "title": "「縱目歐亞-空間與人文的對話」課程系列講座_03/05（三）石亞當Adam 教授（捷克查理大學民族學、中歐與巴爾幹半島研究中心主任）_高山、登山運動與認同的建構",
+        "timestamp": "1739922907",
+        "url": "mail_display.php?timestamp=1739922907",
+        "date": "2025/02/19 07:55",
+        "department": "人文社會科學學院 ",
         "author": {
-            "department": "人文社會科學學院 法律學系",
-            "name": "高蘇恩",
-            "email": "galaigai@gms.ndhu.edu.tw",
-            "phone": "5663"
+            "department": "人文社會科學學院",
+            "name": "姜妃澤",
+            "email": "ftc1029@gms.ndhu.edu.tw",
+            "phone": "03-8905203"
         },
         "attachmentCount": 0
     },
     {
-        "title": "113-2法學讀書會-刑法（四）",
-        "timestamp": "1739836510",
-        "url": "mail_display.php?timestamp=1739836510",
-        "date": "2025/02/18 07:55",
-        "department": "人文社會科學學院 法律學系",
+        "title": "「縱目歐亞-空間與人文的對話」課程系列講座_2/26（三）簡錦松教授（中山大學中文系特聘研究員）_看山不是山，到看山是山—以歐洲、日本、越南、從唐到清的行紀為例",
+        "timestamp": "1739922906",
+        "url": "mail_display.php?timestamp=1739922906",
+        "date": "2025/02/19 07:55",
+        "department": "人文社會科學學院 ",
         "author": {
-            "department": "人文社會科學學院 法律學系",
-            "name": "高蘇恩",
-            "email": "galaigai@gms.ndhu.edu.tw",
-            "phone": "5663"
+            "department": "人文社會科學學院",
+            "name": "姜妃澤",
+            "email": "ftc1029@gms.ndhu.edu.tw",
+            "phone": "03-8905203"
         },
         "attachmentCount": 0
     },
     {
-        "title": "113-2法學讀書會-刑法（三 ）",
-        "timestamp": "1739836509",
-        "url": "mail_display.php?timestamp=1739836509",
-        "date": "2025/02/18 07:55",
-        "department": "人文社會科學學院 法律學系",
+        "title": "📢⪦ 2025東華春藝季~爵士四重奏：謝明諺與 Suga Dairo new little one 2025 台灣巡演",
+        "timestamp": "1739922905",
+        "url": "mail_display.php?timestamp=1739922905",
+        "date": "2025/02/19 07:55",
+        "department": "洄瀾學院 藝文中心",
         "author": {
-            "department": "人文社會科學學院 法律學系",
-            "name": "高蘇恩",
-            "email": "galaigai@gms.ndhu.edu.tw",
-            "phone": "5663"
+            "department": "洄瀾學院 藝文中心",
+            "name": "周葦綸",
+            "email": "valen0810@gms.ndhu.edu.tw",
+            "phone": "6606"
         },
         "attachmentCount": 0
     },
     {
-        "title": "113-2法學讀書會-刑法（二）",
-        "timestamp": "1739836508",
-        "url": "mail_display.php?timestamp=1739836508",
-        "date": "2025/02/18 07:55",
-        "department": "人文社會科學學院 法律學系",
+        "title": "113-2數位學伴招募說明會",
+        "timestamp": "1739922904",
+        "url": "mail_display.php?timestamp=1739922904",
+        "date": "2025/02/19 07:55",
+        "department": "花師教育學院 ",
         "author": {
-            "department": "人文社會科學學院 法律學系",
-            "name": "高蘇恩",
-            "email": "galaigai@gms.ndhu.edu.tw",
-            "phone": "5663"
+            "department": "花師教育學院",
+            "name": "李宛玲",
+            "email": "v80326@gms.ndhu.edu.tw",
+            "phone": "3816"
         },
         "attachmentCount": 0
     }

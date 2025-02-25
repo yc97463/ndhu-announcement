@@ -1,5 +1,33 @@
 [
     {
+        "title": "【電腦教室公告】114年2 月28日-3月2日為和平紀念日連續假期，電腦教室不開放。The computer lab one will be closed on February 28-March 2, 2025.",
+        "timestamp": "1740445940",
+        "url": "mail_display.php?timestamp=1740445940",
+        "date": "2025/02/25 09:12",
+        "department": "圖書資訊處綜合業務組",
+        "author": {
+            "department": "圖書資訊處綜合業務組",
+            "name": "林循美",
+            "email": "cindy@gms.ndhu.edu.tw",
+            "phone": "8906774"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "公文系統訂於114年2月26日(三)中午12~13時暫停服務公告。",
+        "timestamp": "1740442549",
+        "url": "mail_display.php?timestamp=1740442549",
+        "date": "2025/02/25 08:15",
+        "department": "總務處文書組",
+        "author": {
+            "department": "總務處文書組",
+            "name": "張先生",
+            "email": "eric.chang@gms.ndhu.edu.tw",
+            "phone": "03-8906352"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "東華大學秋野芒劇團公益巡演【2025離島專案—澎湖、小琉球巡演計畫】熱情招生中!!",
         "timestamp": "1740376264",
         "url": "mail_display.php?timestamp=1740376264",
@@ -180,33 +208,5 @@
             "phone": "8906774"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "理工一館Ｄ棟禁止進入",
-        "timestamp": "1739921862",
-        "url": "mail_display.php?timestamp=1739921862",
-        "date": "2025/02/19 07:37",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "黃章傑",
-            "email": "cotycafe@gms.ndhu.edu.tw",
-            "phone": "5778"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "人社二館1號電梯故障停用",
-        "timestamp": "1739879769",
-        "url": "mail_display.php?timestamp=1739879769",
-        "date": "2025/02/18 19:56",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
     }
 ]
