@@ -1,5 +1,19 @@
 [
     {
+        "title": "[停水]理工一館下水塔進水位閥更換停水通告",
+        "timestamp": "1739525060",
+        "url": "mail_display.php?timestamp=1739525060",
+        "date": "2025/02/14 17:24",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【海外實習】國合會「大專青年海外技術協助服務計畫」-第七屆海外實生招募訊息",
         "timestamp": "1739520081",
         "url": "mail_display.php?timestamp=1739520081",
@@ -194,19 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【徵才】帝寶工業股份有限公司(DEPO)招募儲備國外業務人員🚗 🚗",
-        "timestamp": "1739437879",
-        "url": "mail_display.php?timestamp=1739437879",
-        "date": "2025/02/13 17:11",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 4
     }
 ]
