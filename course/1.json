@@ -1,5 +1,19 @@
 [
     {
+        "title": "【重要訊息】公告113-2校核心通識課程停開資訊",
+        "timestamp": "1740532298",
+        "url": "mail_display.php?timestamp=1740532298",
+        "date": "2025/02/26 09:11",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "8906607"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【課務組】114-1數位課程、跨領域共授實體課程及114-2跨域共授磨課師課程已開始申請，請轉知有意申請教師逕洽各開課單位！",
         "timestamp": "1740488265",
         "url": "mail_display.php?timestamp=1740488265",
@@ -194,19 +208,5 @@
             "phone": "5012"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "📣📣113-2起飛學習課程、活動第一波免費報名開放啦!!",
-        "timestamp": "1739760263",
-        "url": "mail_display.php?timestamp=1739760263",
-        "date": "2025/02/17 10:44",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "鄭小姐",
-            "email": "ting@gms.ndhu.edu.tw",
-            "phone": "03-8906215"
-        },
-        "attachmentCount": 7
     }
 ]

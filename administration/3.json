@@ -1,5 +1,47 @@
 [
     {
+        "title": "【公告】114年補助本校師生赴海外移地教學，即日起受理申請至4月7日截止。",
+        "timestamp": "1739772242",
+        "url": "mail_display.php?timestamp=1739772242",
+        "date": "2025/02/17 14:04",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 5
+    },
+    {
+        "title": "【學生宿舍】113學年第二學期電費階段公告 【Student Dormitory】Electricity Charge Announcement for 2024-2025 Academic Year",
+        "timestamp": "1739765697",
+        "url": "mail_display.php?timestamp=1739765697",
+        "date": "2025/02/17 12:14",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳怡秀",
+            "email": "yishoue@gms.ndhu.edu.tw",
+            "phone": "6212"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【海外實習計畫】114年教育部學海築夢及新南向學海築夢計畫，選送學生赴國外之企業、機構進行職場實習",
+        "timestamp": "1739760572",
+        "url": "mail_display.php?timestamp=1739760572",
+        "date": "2025/02/17 10:49",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "第25屆東華奇萊文學獎徵文活動~歡迎踴躍投稿~",
         "timestamp": "1739760007",
         "url": "mail_display.php?timestamp=1739760007",
@@ -166,47 +208,5 @@
             "phone": "8906607"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "國立東華大學113學年第2學期友善校園週宣導重點",
-        "timestamp": "1739492606",
-        "url": "mail_display.php?timestamp=1739492606",
-        "date": "2025/02/14 08:23",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "吳昭毅",
-            "email": "wuyi12831@gms.ndhu.edu.tw",
-            "phone": "038906228"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "有關今日理工一館地下室淹水一事說明",
-        "timestamp": "1739447562",
-        "url": "mail_display.php?timestamp=1739447562",
-        "date": "2025/02/13 19:52",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "自114年2月17日起調整本校垃圾車收取清運時間",
-        "timestamp": "1739434248",
-        "url": "mail_display.php?timestamp=1739434248",
-        "date": "2025/02/13 16:10",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "許智翔",
-            "email": "cocco3746@gms.ndhu.edu.tw",
-            "phone": "890-6399"
-        },
-        "attachmentCount": 0
     }
 ]

@@ -1,5 +1,47 @@
 [
     {
+        "title": "國立東華大學113學年第2學期友善校園週宣導重點",
+        "timestamp": "1739492606",
+        "url": "mail_display.php?timestamp=1739492606",
+        "date": "2025/02/14 08:23",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "吳昭毅",
+            "email": "wuyi12831@gms.ndhu.edu.tw",
+            "phone": "038906228"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "有關今日理工一館地下室淹水一事說明",
+        "timestamp": "1739447562",
+        "url": "mail_display.php?timestamp=1739447562",
+        "date": "2025/02/13 19:52",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "自114年2月17日起調整本校垃圾車收取清運時間",
+        "timestamp": "1739434248",
+        "url": "mail_display.php?timestamp=1739434248",
+        "date": "2025/02/13 16:10",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "許智翔",
+            "email": "cocco3746@gms.ndhu.edu.tw",
+            "phone": "890-6399"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "轉知【勞動部青年職涯發展中心】四月免費入校職涯活動開放申請報名!(2/27截止)",
         "timestamp": "1739427421",
         "url": "mail_display.php?timestamp=1739427421",
@@ -166,47 +208,5 @@
             "phone": "6055"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【資安宣導】轉知教育部來函，有關行政院來函說明112年盤點大陸廠牌資通訊產品及委外營運公眾場域契約事宜，及進行資安宣導。",
-        "timestamp": "1739257773",
-        "url": "mail_display.php?timestamp=1739257773",
-        "date": "2025/02/11 15:09",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "蕭澤宇",
-            "email": "zyhsiao@gms.ndhu.edu.tw",
-            "phone": "6727"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "自2/4起大學門(含側門)及志學門車牌辨識系統啟用公告(第三次公告)",
-        "timestamp": "1739255139",
-        "url": "mail_display.php?timestamp=1739255139",
-        "date": "2025/02/11 14:25",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "藝術學院訂於114年2月14日更換電力保護設備停電通知",
-        "timestamp": "1739238208",
-        "url": "mail_display.php?timestamp=1739238208",
-        "date": "2025/02/11 09:43",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉景富",
-            "email": "nickak@gms.ndhu.edu.tw",
-            "phone": "8906373"
-        },
-        "attachmentCount": 0
     }
 ]
