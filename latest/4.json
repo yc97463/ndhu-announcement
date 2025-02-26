@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】正德社會福利慈善基金會113年春季清寒獎助學金",
+        "timestamp": "1740447228",
+        "url": "mail_display.php?timestamp=1740447228",
+        "date": "2025/02/25 09:33",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【電腦教室公告】114年2 月28日-3月2日為和平紀念日連續假期，電腦教室不開放。The computer lab one will be closed on February 28-March 2, 2025.",
         "timestamp": "1740445940",
         "url": "mail_display.php?timestamp=1740445940",
@@ -192,20 +206,6 @@
             "name": "吳星穎",
             "email": "carmier@gms.ndhu.edu.tw",
             "phone": "8906252"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "性平講座-我們與性別暴力的距離",
-        "timestamp": "1740441309",
-        "url": "mail_display.php?timestamp=1740441309",
-        "date": "2025/02/25 07:55",
-        "department": "心理諮商輔導中心 預防推廣組",
-        "author": {
-            "department": "心理諮商輔導中心 預防推廣組",
-            "name": "魏凡涓",
-            "email": "juliawei@gms.ndhu.edu.tw",
-            "phone": "03-8906892"
         },
         "attachmentCount": 0
     }
