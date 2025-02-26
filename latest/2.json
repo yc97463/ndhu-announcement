@@ -168,20 +168,6 @@
         "attachmentCount": 0
     },
     {
-        "title": "【課務組】114-1數位課程、跨領域共授實體課程及114-2跨域共授磨課師課程已開始申請，請轉知有意申請教師逕洽各開課單位！",
-        "timestamp": "1740488265",
-        "url": "mail_display.php?timestamp=1740488265",
-        "date": "2025/02/25 20:57",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "sychen@gms.ndhu.edu.tw",
-            "phone": "6122～6126"
-        },
-        "attachmentCount": 0
-    },
-    {
         "title": "花蓮縣中南區國小英語營夥伴招募公告Hualien Central-Southern Region Children’s English Camp Local and Foreign Camp Team Members Recruitment ",
         "timestamp": "1740475275",
         "url": "mail_display.php?timestamp=1740475275",
@@ -208,5 +194,19 @@
             "phone": "8906220"
         },
         "attachmentCount": 1
+    },
+    {
+        "title": "教育部函轉行政院國家搜救指揮中心函以，有關114年搜救有功人員甄選計畫一案，請本校推薦人選函報教育部",
+        "timestamp": "1740473063",
+        "url": "mail_display.php?timestamp=1740473063",
+        "date": "2025/02/25 16:44",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "莊博凱",
+            "email": "jonhnny77@gms.ndhu.edu.tw",
+            "phone": "6057"
+        },
+        "attachmentCount": 2
     }
 ]
