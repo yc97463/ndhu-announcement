@@ -1,5 +1,19 @@
 [
     {
+        "title": "【訊息轉知】經濟部產業發展署「製造業 AI 升級引擎」網站線上課程",
+        "timestamp": "1740119170",
+        "url": "mail_display.php?timestamp=1740119170",
+        "date": "2025/02/21 14:26",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【訊息轉知】國立臺灣海洋大學開設3門磨課師(MOOCs)免費線上課程",
         "timestamp": "1740118640",
         "url": "mail_display.php?timestamp=1740118640",
@@ -194,19 +208,5 @@
             "phone": "8903072"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【課程活動轉發】 新創大學堂課程~歡迎報名~",
-        "timestamp": "1739947570",
-        "url": "mail_display.php?timestamp=1739947570",
-        "date": "2025/02/19 14:46",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "翁欣儀",
-            "email": "cari20240307@gms.ndhu.edu.tw",
-            "phone": "038221316"
-        },
-        "attachmentCount": 9
     }
 ]
