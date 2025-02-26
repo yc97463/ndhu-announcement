@@ -1,5 +1,19 @@
 [
     {
+        "title": " 【K書中心公告】K書中心A館於2/28(五)~3/2(日) 休館三日",
+        "timestamp": "1740551559",
+        "url": "mail_display.php?timestamp=1740551559",
+        "date": "2025/02/26 14:32",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "游家盛",
+            "email": "hyttepd@gms.ndhu.edu.tw",
+            "phone": "6589"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【實習】2025陽獅集團實習LION CAMPUS獅塾計畫",
         "timestamp": "1740548288",
         "url": "mail_display.php?timestamp=1740548288",
@@ -192,20 +206,6 @@
             "name": "王惠貞",
             "email": "labi@gms.ndhu.edu.tw",
             "phone": "8906253"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "諮商中心電影賞析-《解憂雜貨店》",
-        "timestamp": "1740527710",
-        "url": "mail_display.php?timestamp=1740527710",
-        "date": "2025/02/26 07:55",
-        "department": "心理諮商輔導中心 預防推廣組",
-        "author": {
-            "department": "心理諮商輔導中心 預防推廣組",
-            "name": "陳奕錚",
-            "email": "temp1076@gms.ndhu.edu.tw",
-            "phone": "(03)890-6279"
         },
         "attachmentCount": 0
     }
