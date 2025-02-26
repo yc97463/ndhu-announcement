@@ -1,5 +1,47 @@
 [
     {
+        "title": "【電腦教室公告】114年2 月28日-3月2日為和平紀念日連續假期，電腦教室不開放。The computer lab one will be closed on February 28-March 2, 2025.",
+        "timestamp": "1740445940",
+        "url": "mail_display.php?timestamp=1740445940",
+        "date": "2025/02/25 09:12",
+        "department": "圖書資訊處綜合業務組",
+        "author": {
+            "department": "圖書資訊處綜合業務組",
+            "name": "林循美",
+            "email": "cindy@gms.ndhu.edu.tw",
+            "phone": "8906774"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "公文系統訂於114年2月26日(三)中午12~13時暫停服務公告。",
+        "timestamp": "1740442549",
+        "url": "mail_display.php?timestamp=1740442549",
+        "date": "2025/02/25 08:15",
+        "department": "總務處文書組",
+        "author": {
+            "department": "總務處文書組",
+            "name": "張先生",
+            "email": "eric.chang@gms.ndhu.edu.tw",
+            "phone": "03-8906352"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113-2初領車證交通安全宣導活動第三、四梯次，有意申領校園車輛識別證同學，請儘速上網報名。",
+        "timestamp": "1740442297",
+        "url": "mail_display.php?timestamp=1740442297",
+        "date": "2025/02/25 08:11",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "林嘉瑩",
+            "email": "tea7101@gms.ndhu.edu.tw",
+            "phone": "03-8906226"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "道路實作與安全駕駛 機車安駕活動-第九場1140308",
         "timestamp": "1740441320",
         "url": "mail_display.php?timestamp=1740441320",
@@ -164,48 +206,6 @@
             "name": "魏凡涓",
             "email": "juliawei@gms.ndhu.edu.tw",
             "phone": "03-8906892"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【malitemoh 映照的瞬間】當代靈藝策展",
-        "timestamp": "1740441308",
-        "url": "mail_display.php?timestamp=1740441308",
-        "date": "2025/02/25 07:55",
-        "department": "原住民民族學院 原住民族樂舞與藝術學士學位學程",
-        "author": {
-            "department": "原住民民族學院 原住民族樂舞與藝術學士學位學程",
-            "name": "王韻蘋",
-            "email": "41109a001@gms.ndhu.edu.tw",
-            "phone": "0906314331"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【健康促進活動】響應0403世界肥胖日，體驗無糖飲料",
-        "timestamp": "1740441307",
-        "url": "mail_display.php?timestamp=1740441307",
-        "date": "2025/02/25 07:55",
-        "department": "學務處 衛生保健組",
-        "author": {
-            "department": "學務處 衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【113-2 性別視界從心啟航】校園性別事件的辨識通報與專業倫理、及案例分析（二）",
-        "timestamp": "1740441306",
-        "url": "mail_display.php?timestamp=1740441306",
-        "date": "2025/02/25 07:55",
-        "department": "花師教育學院 教育與潛能開發學系",
-        "author": {
-            "department": "花師教育學院 教育與潛能開發學系",
-            "name": "王敬堯",
-            "email": "410683047@gms.ndhu.edu.tw",
-            "phone": "0971-217-585"
         },
         "attachmentCount": 0
     }

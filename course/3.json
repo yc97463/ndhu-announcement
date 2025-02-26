@@ -1,5 +1,19 @@
 [
     {
+        "title": "113-2校核心通識課程異動(增開及停開課程)公告",
+        "timestamp": "1738642379",
+        "url": "mail_display.php?timestamp=1738642379",
+        "date": "2025/02/04 12:12",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "6607"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【通識】113-2學期通識課程活動補助申請(第二次公告)",
         "timestamp": "1738632540",
         "url": "mail_display.php?timestamp=1738632540",
@@ -194,19 +208,5 @@
             "phone": "03-890-3813"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "\u003c第二次通知\u003e體育中心113-1學期「體適能檢測」時間公告",
-        "timestamp": "1734313775",
-        "url": "mail_display.php?timestamp=1734313775",
-        "date": "2024/12/16 09:49",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "莊璦綺",
-            "email": "ichi@gms.ndhu.edu.tw",
-            "phone": "6613"
-        },
-        "attachmentCount": 1
     }
 ]
