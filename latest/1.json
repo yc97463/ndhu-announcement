@@ -1,5 +1,47 @@
 [
     {
+        "title": "【獎助學金申請】新竹市113-2清寒優秀學生獎學金 (限新竹市)",
+        "timestamp": "1740561716",
+        "url": "mail_display.php?timestamp=1740561716",
+        "date": "2025/02/26 17:21",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【課務組】114-1數位課程、跨領域共授實體課程及114-2跨域共授磨課師課程已開始申請，請轉知有意申請教師逕洽各開課單位！",
+        "timestamp": "1740559812",
+        "url": "mail_display.php?timestamp=1740559812",
+        "date": "2025/02/26 16:50",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "sychen@gms.ndhu.edu.tw",
+            "phone": "6122～6126"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "[演講公告]歐洲議會資訊處處長Aleliunaite女士蒞校分享：歐盟的歷史與組織",
+        "timestamp": "1740559716",
+        "url": "mail_display.php?timestamp=1740559716",
+        "date": "2025/02/26 16:48",
+        "department": "朱副校長室",
+        "author": {
+            "department": "朱副校長室",
+            "name": "謝育筌 先生",
+            "email": "ycshie@gms.ndhu.edu.tw",
+            "phone": "(03)890-6032"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【論文獎助】鴻海教育基金會「2025鴻海科技獎」",
         "timestamp": "1740557210",
         "url": "mail_display.php?timestamp=1740557210",
@@ -166,47 +208,5 @@
             "phone": "8906276"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【人事室公告】差勤(刷卡)系統於114年2月26日(三)中午12~13時暫停服務",
-        "timestamp": "1740530614",
-        "url": "mail_display.php?timestamp=1740530614",
-        "date": "2025/02/26 08:43",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "劉依虹",
-            "email": "joyce_liu@gms.ndhu.edu.tw",
-            "phone": "6060"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "[專題演講]歐盟的歷史與組織/Ausra ALELIUNAITE 歐洲議會資訊處處長",
-        "timestamp": "1740527714",
-        "url": "mail_display.php?timestamp=1740527714",
-        "date": "2025/02/26 07:55",
-        "department": "朱副校長室 ",
-        "author": {
-            "department": "朱副校長室",
-            "name": "謝育筌",
-            "email": "ycshie@gms.ndhu.edu.tw",
-            "phone": "03-890-6032"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【健康促進活動】3/29號召在校生校園健走，報名從速!",
-        "timestamp": "1740527713",
-        "url": "mail_display.php?timestamp=1740527713",
-        "date": "2025/02/26 07:55",
-        "department": "學務處 衛生保健組",
-        "author": {
-            "department": "學務處 衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 0
     }
 ]

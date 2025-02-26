@@ -1,5 +1,19 @@
 [
     {
+        "title": "【活動推推】移居與安居：刻板印象與身份汙名--婚姻移民的挑戰與應對",
+        "timestamp": "1732849181",
+        "url": "mail_display.php?timestamp=1732849181",
+        "date": "2024/11/29 10:59",
+        "department": "社會參與中心",
+        "author": {
+            "department": "社會參與中心",
+            "name": "鄒小姐",
+            "email": "tsai_yen@gms.ndhu.edu.tw",
+            "phone": "5243"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【多元文化教育講座】Matengil ko sowal no niyah: 原住民家庭語言的去殖民化",
         "timestamp": "1732780762",
         "url": "mail_display.php?timestamp=1732780762",
@@ -194,19 +208,5 @@
             "phone": "0955204467"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "113-1【RIKEC法學系列講座】台灣人民歷史經驗中的死刑及其憲法意義",
-        "timestamp": "1732177113",
-        "url": "mail_display.php?timestamp=1732177113",
-        "date": "2024/11/21 16:18",
-        "department": "法律學系",
-        "author": {
-            "department": "法律學系",
-            "name": "Galaigai Cavalje 高蘇恩",
-            "email": "galaigai@gms.ndhu.edu.tw",
-            "phone": "5663"
-        },
-        "attachmentCount": 2
     }
 ]
