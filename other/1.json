@@ -1,5 +1,19 @@
 [
     {
+        "title": "【人才招募】113-2數位大學伴招募~",
+        "timestamp": "1740569604",
+        "url": "mail_display.php?timestamp=1740569604",
+        "date": "2025/02/26 19:33",
+        "department": "花師教育學院",
+        "author": {
+            "department": "花師教育學院",
+            "name": "東華學伴中心",
+            "email": "etutor_c226@gms.ndhu.edu.tw",
+            "phone": "3816"
+        },
+        "attachmentCount": 6
+    },
+    {
         "title": "【實習】114年度元大證券校園深耕計畫(2025元大證券實習計畫)",
         "timestamp": "1740563372",
         "url": "mail_display.php?timestamp=1740563372",
@@ -194,19 +208,5 @@
             "phone": "6057"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "為進行學活園區機車停車場路燈維修公告(2/22)",
-        "timestamp": "1740137037",
-        "url": "mail_display.php?timestamp=1740137037",
-        "date": "2025/02/21 19:23",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 1
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "【健康促進營養講座】營在己力，食在平衡，歡迎踴躍參加!",
+        "timestamp": "1740021395",
+        "url": "mail_display.php?timestamp=1740021395",
+        "date": "2025/02/20 11:16",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【健康促進活動】杜絕校園傳染病~免費胸部x光篩檢活動",
         "timestamp": "1740020418",
         "url": "mail_display.php?timestamp=1740020418",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "測試 test",
-        "timestamp": "1739761643",
-        "url": "mail_display.php?timestamp=1739761643",
-        "date": "2025/02/17 11:07",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "葉宏達",
-            "email": "honda@gms.ndhu.edu.tw",
-            "phone": "8906747"
-        },
-        "attachmentCount": 0
     }
 ]
