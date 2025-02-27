@@ -1,5 +1,19 @@
 [
     {
+        "title": "📌徵才《2025藝文中心工讀生》招募開始囉！",
+        "timestamp": "1733296702",
+        "url": "mail_display.php?timestamp=1733296702",
+        "date": "2024/12/04 15:18",
+        "department": "藝術中心",
+        "author": {
+            "department": "藝術中心",
+            "name": "周葦綸",
+            "email": "arts@gms.ndhu.edu.tw",
+            "phone": "6606"
+        },
+        "attachmentCount": 10
+    },
+    {
         "title": "【全民國防訊息】114年上半年役男申請服一般替代役甄選作業訊息公告",
         "timestamp": "1733273643",
         "url": "mail_display.php?timestamp=1733273643",
@@ -194,19 +208,5 @@
             "phone": "3002"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "原住民民族學院原住民族研究國際博士班 徵聘專任教師一名 Assistant Professor (or above) in Indigenous Studies",
-        "timestamp": "1730172000",
-        "url": "mail_display.php?timestamp=1730172000",
-        "date": "2024/10/29 11:20",
-        "department": "原住民族研究國際博士班",
-        "author": {
-            "department": "原住民族研究國際博士班",
-            "name": "黃怡瑄",
-            "email": "is.phd@gms.ndhu.edu.tw",
-            "phone": "038905760"
-        },
-        "attachmentCount": 1
     }
 ]
