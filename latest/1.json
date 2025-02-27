@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】嘉義市114年度千盞燈就學助學金 (限嘉義市籍)",
+        "timestamp": "1740636028",
+        "url": "mail_display.php?timestamp=1740636028",
+        "date": "2025/02/27 14:00",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【國立東華大學 2025藝術學院音樂廳工讀招募】(2次公告)",
         "timestamp": "1740634685",
         "url": "mail_display.php?timestamp=1740634685",
@@ -192,20 +206,6 @@
             "name": "劉姵君",
             "email": "amyliou@gms.ndhu.edu.tw",
             "phone": "6632"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【健康促進營養講座】營在己力，食在平衡，歡迎踴躍參加!",
-        "timestamp": "1740614101",
-        "url": "mail_display.php?timestamp=1740614101",
-        "date": "2025/02/27 07:55",
-        "department": "學務處 衛生保健組",
-        "author": {
-            "department": "學務處 衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
         },
         "attachmentCount": 0
     }
