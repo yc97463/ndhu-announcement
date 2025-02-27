@@ -1,5 +1,19 @@
 [
     {
+        "title": "【開課訊息】歡迎全校同學加選「初等機器人程式設計」課程(周二下午)",
+        "timestamp": "1739782048",
+        "url": "mail_display.php?timestamp=1739782048",
+        "date": "2025/02/17 16:47",
+        "department": "資訊工程學系",
+        "author": {
+            "department": "資訊工程學系",
+            "name": "葉助理",
+            "email": "kiki2002@gms.ndhu.edu.tw",
+            "phone": "5012"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【開課訊息】歡迎全校同學加選「股票投資分析與程式設計」課程(周五早上)",
         "timestamp": "1739781963",
         "url": "mail_display.php?timestamp=1739781963",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【訊息轉知】教育部國民及學前教育署辦理「114學年度國民小學及國民中學辦理活化教學與多元學習計畫申辦說明會」",
-        "timestamp": "1739513756",
-        "url": "mail_display.php?timestamp=1739513756",
-        "date": "2025/02/14 14:15",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "李貞穎",
-            "email": "jeannie@gms.ndhu.edu.tw",
-            "phone": "8906587"
-        },
-        "attachmentCount": 0
     }
 ]
