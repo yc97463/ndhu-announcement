@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才訊息】國立東華大學圖書資訊處徵聘【校務行政系統開發】碩士級技術師一名",
+        "timestamp": "1735192959",
+        "url": "mail_display.php?timestamp=1735192959",
+        "date": "2024/12/26 14:02",
+        "department": "圖書資訊處",
+        "author": {
+            "department": "圖書資訊處",
+            "name": "周小萍",
+            "email": "hedy@gms.ndhu.edu.tw",
+            "phone": "8906852"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "中國鋼鐵股份有限公司刻正辦理114年度研發替代役徵選招募通知",
         "timestamp": "1735127706",
         "url": "mail_display.php?timestamp=1735127706",
@@ -194,19 +208,5 @@
             "phone": "5109"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【徵聘專任教師】國立東華大學教育與潛能開發學系徵聘專任助理教授(含)以上1名",
-        "timestamp": "1733355905",
-        "url": "mail_display.php?timestamp=1733355905",
-        "date": "2024/12/05 07:45",
-        "department": "教育與潛能開發學系",
-        "author": {
-            "department": "教育與潛能開發學系",
-            "name": "溫小姐",
-            "email": "yuyu@gms.ndhu.edu.tw",
-            "phone": "3823"
-        },
-        "attachmentCount": 1
     }
 ]
