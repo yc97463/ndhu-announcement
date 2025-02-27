@@ -1,5 +1,19 @@
 [
     {
+        "title": "【無菸校園宣導】無菸校園相關規定",
+        "timestamp": "1739751036",
+        "url": "mail_display.php?timestamp=1739751036",
+        "date": "2025/02/17 08:10",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【新生健檢通知】歡迎113-2入學新生報名健康檢查",
         "timestamp": "1739750817",
         "url": "mail_display.php?timestamp=1739750817",
@@ -192,20 +206,6 @@
             "name": "曾俊達",
             "email": "kleiber0576@gms.ndhu.edu.tw",
             "phone": "(03)8906079"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【ROTC招生訊息】國防部1 1 4年大學儲備軍官訓練團第2梯次甄選作業(招生)宣導",
-        "timestamp": "1739351145",
-        "url": "mail_display.php?timestamp=1739351145",
-        "date": "2025/02/12 17:05",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "黃勇程",
-            "email": "victor0903@gms.ndhu.edu.tw",
-            "phone": "6225"
         },
         "attachmentCount": 0
     }
