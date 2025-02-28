@@ -1,5 +1,19 @@
 [
     {
+        "title": "【國軍招生訊息】 轉國防部「民國114年國軍志願役專業預備軍官預備士官班考選簡章」公告",
+        "timestamp": "1740699866",
+        "url": "mail_display.php?timestamp=1740699866",
+        "date": "2025/02/28 07:44",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "6225"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "114學年國小教育學程甄選說明會",
         "timestamp": "1740622702",
         "url": "mail_display.php?timestamp=1740622702",
@@ -194,19 +208,5 @@
             "phone": "6632"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "113-2校核心通識課程異動(增開及停開課程)公告",
-        "timestamp": "1738642379",
-        "url": "mail_display.php?timestamp=1738642379",
-        "date": "2025/02/04 12:12",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "6607"
-        },
-        "attachmentCount": 1
     }
 ]
