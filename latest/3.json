@@ -1,5 +1,19 @@
 [
     {
+        "title": "113-2師培研習「戶外環境安全與風險管理」",
+        "timestamp": "1740614103",
+        "url": "mail_display.php?timestamp=1740614103",
+        "date": "2025/02/27 07:55",
+        "department": "師資培育中心 中等學程組",
+        "author": {
+            "department": "師資培育中心 中等學程組",
+            "name": "劉姵君",
+            "email": "amyliou@gms.ndhu.edu.tw",
+            "phone": "6632"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113-2師培研習「好好陪你走一段：認識情緒困擾與陪伴技巧」",
         "timestamp": "1740614102",
         "url": "mail_display.php?timestamp=1740614102",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【訊息轉知】靜宜大學開設4門磨課師(MOOCs)免費線上課程",
-        "timestamp": "1740539718",
-        "url": "mail_display.php?timestamp=1740539718",
-        "date": "2025/02/26 11:15",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 1
     }
 ]
