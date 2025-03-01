@@ -1,5 +1,33 @@
 [
     {
+        "title": "【專題演講】3/7(五)_Advancement of 6G Radio Access Network: from Massive to Resilient",
+        "timestamp": "1740527709",
+        "url": "mail_display.php?timestamp=1740527709",
+        "date": "2025/02/26 07:55",
+        "department": "理工學院 電機工程學系",
+        "author": {
+            "department": "理工學院 電機工程學系",
+            "name": "邱昭儒",
+            "email": "senorita@gms.ndhu.edu.tw",
+            "phone": "5063"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "職涯講座：部落經濟與民族產業",
+        "timestamp": "1740527708",
+        "url": "mail_display.php?timestamp=1740527708",
+        "date": "2025/02/26 07:55",
+        "department": "學務處 原住民族學生資源中心",
+        "author": {
+            "department": "學務處 原住民族學生資源中心",
+            "name": "林詠靖",
+            "email": "tipus@gms.ndhu.edu.tw",
+            "phone": "03-890-5707"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "搶救安妮大作戰 第二場",
         "timestamp": "1740527707",
         "url": "mail_display.php?timestamp=1740527707",
@@ -180,33 +208,5 @@
             "phone": "6212"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【獎助學金申請】花蓮縣113學年度清寒優秀學生獎學金 (限花蓮縣籍，低收或中低收)",
-        "timestamp": "1740470163",
-        "url": "mail_display.php?timestamp=1740470163",
-        "date": "2025/02/25 15:56",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【課務組通知】113-2加退選後課程確認及加簽作業(2/27-3/7) Course Confirm Online and Add Course Requests (Feb. 27-Mar. 7)",
-        "timestamp": "1740469830",
-        "url": "mail_display.php?timestamp=1740469830",
-        "date": "2025/02/25 15:50",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "utd1003@gms.ndhu.edu.tw",
-            "phone": "6122-6126"
-        },
-        "attachmentCount": 0
     }
 ]
