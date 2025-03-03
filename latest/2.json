@@ -1,5 +1,47 @@
 [
     {
+        "title": "【Student Dormitory】– Illustration Meetings of the Student Dormitory Committee Election for Academic Year 2025-2026",
+        "timestamp": "1740962799",
+        "url": "mail_display.php?timestamp=1740962799",
+        "date": "2025/03/03 08:46",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "鍾佩玲",
+            "email": "free22011@gms.ndhu.edu.tw",
+            "phone": "03890-6217"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【學生宿舍】本校114學年度「學生宿舍自治服務委員改選暨徵選辦法」說明會，歡迎同學前來參與～",
+        "timestamp": "1740962711",
+        "url": "mail_display.php?timestamp=1740962711",
+        "date": "2025/03/03 08:45",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "鍾佩玲",
+            "email": "free22011@gms.ndhu.edu.tw",
+            "phone": "03890-6217"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【論文獎助】國立臺灣圖書館「114年度臺灣學博碩士論文研究獎助」",
+        "timestamp": "1740962555",
+        "url": "mail_display.php?timestamp=1740962555",
+        "date": "2025/03/03 08:42",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "靈界、獵境與療癒：太魯閣族的巫醫、獵人與醫療植物",
         "timestamp": "1740959701",
         "url": "mail_display.php?timestamp=1740959701",
@@ -166,47 +208,5 @@
             "phone": "6225"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【役男訊息】中華電信「114年研發替代役人員遴選」簡章公告",
-        "timestamp": "1740699524",
-        "url": "mail_display.php?timestamp=1740699524",
-        "date": "2025/02/28 07:38",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "黃勇程",
-            "email": "victor0903@gms.ndhu.edu.tw",
-            "phone": "6225"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "瑜珈 ＆ 禪坐 ",
-        "timestamp": "1740669057",
-        "url": "mail_display.php?timestamp=1740669057",
-        "date": "2025/02/27 23:10",
-        "department": "物理學系",
-        "author": {
-            "department": "物理學系",
-            "name": "彭文平",
-            "email": "pengw@gms.ndhu.edu.tw",
-            "phone": "8903733"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【徵才公告】國立東華大學總務處出納組校務基金短(定)期助理一名",
-        "timestamp": "1740661004",
-        "url": "mail_display.php?timestamp=1740661004",
-        "date": "2025/02/27 20:56",
-        "department": "總務處",
-        "author": {
-            "department": "總務處",
-            "name": "姜雅敏",
-            "email": "yummy@gms.ndhu.edu.tw",
-            "phone": "6306"
-        },
-        "attachmentCount": 0
     }
 ]

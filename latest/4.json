@@ -1,5 +1,47 @@
 [
     {
+        "title": "社會學系期初系員大會",
+        "timestamp": "1740614109",
+        "url": "mail_display.php?timestamp=1740614109",
+        "date": "2025/02/27 07:55",
+        "department": "人文社會科學學院 社會學系",
+        "author": {
+            "department": "人文社會科學學院 社會學系",
+            "name": "葉珮芳",
+            "email": "",
+            "phone": "謝明臻 (email: 41124B007@gms.ndhu.edu.tw)"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113-2「文化創意產業學程」暨「暑期實習單位簡介」線上說明會（114.03.26）",
+        "timestamp": "1740614108",
+        "url": "mail_display.php?timestamp=1740614108",
+        "date": "2025/02/27 07:55",
+        "department": "人文社會科學學院 華文文學系",
+        "author": {
+            "department": "人文社會科學學院 華文文學系",
+            "name": "林迦音",
+            "email": "chiaowo@gms.ndhu.edu.tw",
+            "phone": "5263"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【健康促進活動】0422響應淨社區活動，為永續自然盡一份心力！",
+        "timestamp": "1740614107",
+        "url": "mail_display.php?timestamp=1740614107",
+        "date": "2025/02/27 07:55",
+        "department": "學務處 衛生保健組",
+        "author": {
+            "department": "學務處 衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "What do you know about Self-harm and Suicide? How to help others?  (This activity will be conducted in English)",
         "timestamp": "1740614106",
         "url": "mail_display.php?timestamp=1740614106",
@@ -166,47 +208,5 @@
             "phone": "6122～6126"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "[演講公告]歐洲議會資訊處處長Aleliunaite女士蒞校分享：歐盟的歷史與組織",
-        "timestamp": "1740559716",
-        "url": "mail_display.php?timestamp=1740559716",
-        "date": "2025/02/26 16:48",
-        "department": "朱副校長室",
-        "author": {
-            "department": "朱副校長室",
-            "name": "謝育筌 先生",
-            "email": "ycshie@gms.ndhu.edu.tw",
-            "phone": "(03)890-6032"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【論文獎助】鴻海教育基金會「2025鴻海科技獎」",
-        "timestamp": "1740557210",
-        "url": "mail_display.php?timestamp=1740557210",
-        "date": "2025/02/26 16:06",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "2/28/(五)~3/2(日)行政大樓一樓左右兩側防墜安全網施工公告",
-        "timestamp": "1740556709",
-        "url": "mail_display.php?timestamp=1740556709",
-        "date": "2025/02/26 15:58",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "黃章傑",
-            "email": "cotycafe@gms.ndhu.edu.tw",
-            "phone": "038905778"
-        },
-        "attachmentCount": 1
     }
 ]
