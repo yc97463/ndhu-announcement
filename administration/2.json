@@ -1,5 +1,19 @@
 [
     {
+        "title": "【人事室公告】差勤(刷卡)系統於114年2月26日(三)中午12~13時暫停服務",
+        "timestamp": "1740530614",
+        "url": "mail_display.php?timestamp=1740530614",
+        "date": "2025/02/26 08:43",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "劉依虹",
+            "email": "joyce_liu@gms.ndhu.edu.tw",
+            "phone": "6060"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【113-2友善校園週宣導】我和你最好的距離-尊重不越界",
         "timestamp": "1740473167",
         "url": "mail_display.php?timestamp=1740473167",
@@ -194,19 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "心理諮商輔導中心期初關懷信",
-        "timestamp": "1740129306",
-        "url": "mail_display.php?timestamp=1740129306",
-        "date": "2025/02/21 17:15",
-        "department": "心理諮商輔導中心",
-        "author": {
-            "department": "心理諮商輔導中心",
-            "name": "陳淑惠",
-            "email": "csh12967@gms.ndhu.edu.tw",
-            "phone": "8906276"
-        },
-        "attachmentCount": 2
     }
 ]
