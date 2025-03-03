@@ -1,5 +1,19 @@
 [
     {
+        "title": "113-1校核心通識課程異動(停開課程)公告",
+        "timestamp": "1725241598",
+        "url": "mail_display.php?timestamp=1725241598",
+        "date": "2024/09/02 09:46",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "8906607"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "公告113-1校核心資訊科技領域-「無人機操作與飛行創作」(初級程式設計)課程尚有名額，敬請踴躍加選課程",
         "timestamp": "1724736053",
         "url": "mail_display.php?timestamp=1724736053",
@@ -194,19 +208,5 @@
             "phone": "6607"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "113學年度(第10屆)大專生金融就業公益專班第二次線上說明會",
-        "timestamp": "1716254645",
-        "url": "mail_display.php?timestamp=1716254645",
-        "date": "2024/05/21 09:24",
-        "department": "財務金融學系",
-        "author": {
-            "department": "財務金融學系",
-            "name": "蔡季諭",
-            "email": "jiyu@gms.ndhu.edu.tw",
-            "phone": "8903132"
-        },
-        "attachmentCount": 4
     }
 ]
