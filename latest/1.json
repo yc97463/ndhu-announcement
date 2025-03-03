@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才】靜宜大學114年3月18日辦理「2025校園徵才博覽會」",
+        "timestamp": "1740991502",
+        "url": "mail_display.php?timestamp=1740991502",
+        "date": "2025/03/03 16:45",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【實習】國光生物科技股份有限公司114年暑期實習申請⚗️ 💉 (校內收件至114年3月24日止)",
         "timestamp": "1740990555",
         "url": "mail_display.php?timestamp=1740990555",
@@ -194,19 +208,5 @@
             "phone": "03-8906235"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【獎助學金申請】本校113學年度「LGBT研究暨社團服務獎助學金」",
-        "timestamp": "1740967064",
-        "url": "mail_display.php?timestamp=1740967064",
-        "date": "2025/03/03 09:57",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]
