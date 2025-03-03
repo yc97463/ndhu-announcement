@@ -1,5 +1,19 @@
 [
     {
+        "title": "【健康促進營養講座】營在己力，食在平衡，歡迎踴躍參加!",
+        "timestamp": "1740614101",
+        "url": "mail_display.php?timestamp=1740614101",
+        "date": "2025/02/27 07:55",
+        "department": "學務處 衛生保健組",
+        "author": {
+            "department": "學務處 衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【人才招募】113-2數位大學伴招募~",
         "timestamp": "1740569604",
         "url": "mail_display.php?timestamp=1740569604",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "第三次通知_【教務處】國立東華大學_學期週數問卷調查_教師版(至2/27下午5時止)",
-        "timestamp": "1740538576",
-        "url": "mail_display.php?timestamp=1740538576",
-        "date": "2025/02/26 10:56",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "陳君如",
-            "email": "ju@gms.ndhu.edu.tw",
-            "phone": "6124"
-        },
-        "attachmentCount": 0
     }
 ]

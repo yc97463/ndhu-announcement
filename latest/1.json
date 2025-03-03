@@ -1,5 +1,19 @@
 [
     {
+        "title": "【重要提醒】國科會計畫衍生之研發成果，務必登錄於STRIKE系統。",
+        "timestamp": "1740986649",
+        "url": "mail_display.php?timestamp=1740986649",
+        "date": "2025/03/03 15:24",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "李淑淳",
+            "email": "chun@gms.ndhu.edu.tw",
+            "phone": "6522"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【代轉學生會公告】東華學生會春季招募",
         "timestamp": "1740986218",
         "url": "mail_display.php?timestamp=1740986218",
@@ -194,19 +208,5 @@
             "phone": "分機6221"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "📢 114學年度中等教育學程甄選報名中！ 🎓✨",
-        "timestamp": "1740965120",
-        "url": "mail_display.php?timestamp=1740965120",
-        "date": "2025/03/03 09:25",
-        "department": "師資培育中心",
-        "author": {
-            "department": "師資培育中心",
-            "name": "劉姵君",
-            "email": "amyliou@gms.ndhu.edu.tw",
-            "phone": "6632"
-        },
-        "attachmentCount": 6
     }
 ]
