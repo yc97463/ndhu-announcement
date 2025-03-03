@@ -1,5 +1,19 @@
 [
     {
+        "title": "⭐教育大數據⭐敬邀您參加教育大數據計畫—微學程招生說明會",
+        "timestamp": "1739429779",
+        "url": "mail_display.php?timestamp=1739429779",
+        "date": "2025/02/13 14:56",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃靖樺",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "(二次公告)【中等學程】114學年度中等教育學程甄選報名簡章公告",
         "timestamp": "1738720926",
         "url": "mail_display.php?timestamp=1738720926",
@@ -194,19 +208,5 @@
             "phone": "5246"
         },
         "attachmentCount": 8
-    },
-    {
-        "title": "📢【活動推推】移居與安居：家庭看護移工和她們的工會",
-        "timestamp": "1731572526",
-        "url": "mail_display.php?timestamp=1731572526",
-        "date": "2024/11/14 16:22",
-        "department": "社會參與中心",
-        "author": {
-            "department": "社會參與中心",
-            "name": "鄒小姐",
-            "email": "tsai_yen@gms.ndhu.edu.tw",
-            "phone": "5243"
-        },
-        "attachmentCount": 2
     }
 ]

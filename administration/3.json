@@ -182,20 +182,6 @@
         "attachmentCount": 1
     },
     {
-        "title": "[諮商中心] 113-2學期 入班活動申請",
-        "timestamp": "1739756713",
-        "url": "mail_display.php?timestamp=1739756713",
-        "date": "2025/02/17 09:45",
-        "department": "心理諮商輔導中心",
-        "author": {
-            "department": "心理諮商輔導中心",
-            "name": "李玟蒨",
-            "email": "phee1801@gms.ndhu.edu.tw",
-            "phone": "(03)890-6263"
-        },
-        "attachmentCount": 1
-    },
-    {
         "title": "自2/4起大學門(含側門)及志學門車牌辨識系統啟用公告(第四次公告)",
         "timestamp": "1739752643",
         "url": "mail_display.php?timestamp=1739752643",
@@ -208,5 +194,19 @@
             "phone": "6329"
         },
         "attachmentCount": 2
+    },
+    {
+        "title": "✨東華大學秋野芒劇團公益巡演【2025離島專案—澎湖、小琉球巡演計畫】招生囉!!✨",
+        "timestamp": "1739752107",
+        "url": "mail_display.php?timestamp=1739752107",
+        "date": "2025/02/17 08:28",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "8906607"
+        },
+        "attachmentCount": 3
     }
 ]
