@@ -1,5 +1,61 @@
 [
     {
+        "title": "【實習】高雄市政府「114年度暑期市政學習」",
+        "timestamp": "1740993987",
+        "url": "mail_display.php?timestamp=1740993987",
+        "date": "2025/03/03 17:26",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 6
+    },
+    {
+        "title": "113學年度第2學期-學產基金低收入戶學生助學金申請",
+        "timestamp": "1740993000",
+        "url": "mail_display.php?timestamp=1740993000",
+        "date": "2025/03/03 17:10",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "林黃漢穎",
+            "email": "henry30180@gms.ndhu.edu.tw",
+            "phone": "038906218"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【獎助學金申請】高雄市模範父親協會114年度獎學金 (限高雄市籍失怙者)",
+        "timestamp": "1740992061",
+        "url": "mail_display.php?timestamp=1740992061",
+        "date": "2025/03/03 16:54",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "體育中心新學期的推廣課程開始報名",
+        "timestamp": "1740992021",
+        "url": "mail_display.php?timestamp=1740992021",
+        "date": "2025/03/03 16:53",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "楊永義",
+            "email": "yyy@gms.ndhu.edu.tw",
+            "phone": "038906612"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【徵才】靜宜大學114年3月18日辦理「2025校園徵才博覽會」",
         "timestamp": "1740991502",
         "url": "mail_display.php?timestamp=1740991502",
@@ -152,61 +208,5 @@
             "phone": "8906774"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": " 【海外獎學金】台達荷蘭環境獎學金 受理至4/30止",
-        "timestamp": "1740982002",
-        "url": "mail_display.php?timestamp=1740982002",
-        "date": "2025/03/03 14:06",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【轉知】西班牙姊妹校ESIC教育者工作坊Reignite Your Spark: A Journey to Rediscover Your Power to Teach",
-        "timestamp": "1740980956",
-        "url": "mail_display.php?timestamp=1740980956",
-        "date": "2025/03/03 13:49",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【電腦教室公告】114年3月8-9日因舉辦臺灣台語語言能力檢定考試，「例行性開放電腦教室」暫停開放，立式列印區持續提供使用 The computer lab one will be closed on March 8-9, 2025.",
-        "timestamp": "1740974325",
-        "url": "mail_display.php?timestamp=1740974325",
-        "date": "2025/03/03 11:58",
-        "department": "圖書資訊處綜合業務組",
-        "author": {
-            "department": "圖書資訊處綜合業務組",
-            "name": "林循美",
-            "email": "cindy@gms.ndhu.edu.tw",
-            "phone": "8906774"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "東華夜市第一場-就在明天！！！",
-        "timestamp": "1740971048",
-        "url": "mail_display.php?timestamp=1740971048",
-        "date": "2025/03/03 11:04",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "姜紫淇",
-            "email": "yaya@gms.ndhu.edu.tw",
-            "phone": "03-8906235"
-        },
-        "attachmentCount": 5
     }
 ]

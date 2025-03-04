@@ -1,5 +1,19 @@
 [
     {
+        "title": "【演講訊息】12/06(五)14:10-16:00 Using Artificial Intelligence to Better Understand the Brain and Behavior",
+        "timestamp": "1733111146",
+        "url": "mail_display.php?timestamp=1733111146",
+        "date": "2024/12/02 11:45",
+        "department": "花師教育學院",
+        "author": {
+            "department": "花師教育學院",
+            "name": "許趙瑩臻",
+            "email": "hsuchao@gms.ndhu.edu.tw",
+            "phone": "3803"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【就在明天】台灣原住民族知識體系課程系列講座：從當代原住民音樂談解殖實踐",
         "timestamp": "1733105239",
         "url": "mail_display.php?timestamp=1733105239",
@@ -192,20 +206,6 @@
             "name": "李佳津",
             "email": "iia@gms.ndhu.edu.tw",
             "phone": "0935-212455"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "2024原住民族知識系列講座➤2024 Indigenous Knowledge Public Lecture Series ",
-        "timestamp": "1732284589",
-        "url": "mail_display.php?timestamp=1732284589",
-        "date": "2024/11/22 22:09",
-        "department": "原住民族國際事務中心",
-        "author": {
-            "department": "原住民族國際事務中心",
-            "name": "李佳津",
-            "email": "iia@gms.ndhu.edu.tw",
-            "phone": "0935-212-455"
         },
         "attachmentCount": 4
     }

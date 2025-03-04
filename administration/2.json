@@ -1,5 +1,47 @@
 [
     {
+        "title": "【轉知公告】為完善聽覺、語言功能障礙者資訊近用權益，請依說明參採衛生福利部有關宣導事項辦理",
+        "timestamp": "1740622201",
+        "url": "mail_display.php?timestamp=1740622201",
+        "date": "2025/02/27 10:10",
+        "department": "心理諮商輔導中心資源開發組",
+        "author": {
+            "department": "心理諮商輔導中心資源開發組",
+            "name": "王祥瑋",
+            "email": "nineveh@gms.ndhu.edu.tw",
+            "phone": "038906266"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "2/28/(五)~3/2(日)行政大樓一樓左右兩側防墜安全網施工公告",
+        "timestamp": "1740556709",
+        "url": "mail_display.php?timestamp=1740556709",
+        "date": "2025/02/26 15:58",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "黃章傑",
+            "email": "cotycafe@gms.ndhu.edu.tw",
+            "phone": "038905778"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【轉知】東海大學學海築夢計畫「第十四屆台灣-義大利國際職場專業實習計畫」擴大招募至3/10",
+        "timestamp": "1740536073",
+        "url": "mail_display.php?timestamp=1740536073",
+        "date": "2025/02/26 10:14",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【重要訊息】公告113-2校核心通識課程停開資訊",
         "timestamp": "1740532298",
         "url": "mail_display.php?timestamp=1740532298",
@@ -166,47 +208,5 @@
             "phone": "8906607"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
-        "timestamp": "1740375326",
-        "url": "mail_display.php?timestamp=1740375326",
-        "date": "2025/02/24 13:35",
-        "department": "圖書資訊處校務系統組",
-        "author": {
-            "department": "圖書資訊處校務系統組",
-            "name": "林志軒",
-            "email": "chshlin@gms.ndhu.edu.tw",
-            "phone": "6752"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "理工二館今(2/24)日上午8時35分部分區域無預警停電說明",
-        "timestamp": "1740363030",
-        "url": "mail_display.php?timestamp=1740363030",
-        "date": "2025/02/24 10:10",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "黃章傑",
-            "email": "cotycafe@gms.ndhu.edu.tw",
-            "phone": "038905778"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【圖書館公告】和平紀念日【114.02.28 (五)】休館一日！Library will be closed for Peace Memorial Day on February 28, 2025.",
-        "timestamp": "1740361523",
-        "url": "mail_display.php?timestamp=1740361523",
-        "date": "2025/02/24 09:45",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "詹依萍",
-            "email": "ipchan@gms.ndhu.edu.tw",
-            "phone": "6813"
-        },
-        "attachmentCount": 0
     }
 ]
