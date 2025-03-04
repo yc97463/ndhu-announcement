@@ -1,5 +1,19 @@
 [
     {
+        "title": "【財金工作坊】系列三 ：Python、AI 與財金應用",
+        "timestamp": "1741046107",
+        "url": "mail_display.php?timestamp=1741046107",
+        "date": "2025/03/04 07:55",
+        "department": "管理學院 財務金融學系",
+        "author": {
+            "department": "管理學院 財務金融學系",
+            "name": "呂羅晟峰",
+            "email": "luluo@gms.ndhu.edu.tw",
+            "phone": "8903132"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【財金工作坊】系列二：Financial Data Analysis with R: From Fundamentals to Advanced Techniques",
         "timestamp": "1741046106",
         "url": "mail_display.php?timestamp=1741046106",
@@ -194,19 +208,5 @@
             "phone": "03890-6217"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "3/25日免費胸部x光篩檢活動錄取通知",
-        "timestamp": "1740962992",
-        "url": "mail_display.php?timestamp=1740962992",
-        "date": "2025/03/03 08:49",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 0
     }
 ]

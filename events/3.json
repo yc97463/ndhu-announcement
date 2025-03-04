@@ -1,5 +1,19 @@
 [
     {
+        "title": "3/25日免費胸部x光篩檢活動錄取通知",
+        "timestamp": "1740962992",
+        "url": "mail_display.php?timestamp=1740962992",
+        "date": "2025/03/03 08:49",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【學生宿舍】114學年度學生宿舍【宿委】開始網路報名囉～",
         "timestamp": "1740962924",
         "url": "mail_display.php?timestamp=1740962924",
@@ -194,19 +208,5 @@
             "phone": "8903733"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "114學年國小教育學程甄選說明會",
-        "timestamp": "1740622702",
-        "url": "mail_display.php?timestamp=1740622702",
-        "date": "2025/02/27 10:18",
-        "department": "師資培育中心",
-        "author": {
-            "department": "師資培育中心",
-            "name": "陳淑貞",
-            "email": "sjchen@gms.ndhu.edu.tw",
-            "phone": "(03)8906636"
-        },
-        "attachmentCount": 4
     }
 ]

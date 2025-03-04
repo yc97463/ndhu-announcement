@@ -1,5 +1,19 @@
 [
     {
+        "title": "【Invited 敬邀參加】永續報告書的入門課程 Introductory Course on Sustainability Report",
+        "timestamp": "1732924582",
+        "url": "mail_display.php?timestamp=1732924582",
+        "date": "2024/11/30 07:56",
+        "department": "永續發展中心",
+        "author": {
+            "department": "永續發展中心",
+            "name": "李莉莉 Li-Li Lee",
+            "email": "sd@gms.ndhu.edu.tw",
+            "phone": "03-890-5920"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "體育中心113-1學期「體適能檢測」時間公告",
         "timestamp": "1732761436",
         "url": "mail_display.php?timestamp=1732761436",
@@ -194,19 +208,5 @@
             "phone": "5243"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "[國語文教學]「有生命的漢字」識字(補救)教學法_114年寒假二階教師研習報名中",
-        "timestamp": "1731402863",
-        "url": "mail_display.php?timestamp=1731402863",
-        "date": "2024/11/12 17:14",
-        "department": "偏鄉閱讀與行動中心",
-        "author": {
-            "department": "偏鄉閱讀與行動中心",
-            "name": "盧助理",
-            "email": "lesa@gms.ndhu.edu.tw",
-            "phone": "03-890-3813"
-        },
-        "attachmentCount": 4
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "114學年國小教育學程甄選說明會",
+        "timestamp": "1740622702",
+        "url": "mail_display.php?timestamp=1740622702",
+        "date": "2025/02/27 10:18",
+        "department": "師資培育中心",
+        "author": {
+            "department": "師資培育中心",
+            "name": "陳淑貞",
+            "email": "sjchen@gms.ndhu.edu.tw",
+            "phone": "(03)8906636"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "技術服務中心舉辦「食在放心永續農業聯盟合作備忘錄簽署記者會」",
         "timestamp": "1740614110",
         "url": "mail_display.php?timestamp=1740614110",
@@ -194,19 +208,5 @@
             "phone": "5707"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "[專題演講]歐盟的歷史與組織/Ausra ALELIUNAITE 歐洲議會資訊處處長",
-        "timestamp": "1740527714",
-        "url": "mail_display.php?timestamp=1740527714",
-        "date": "2025/02/26 07:55",
-        "department": "朱副校長室 ",
-        "author": {
-            "department": "朱副校長室",
-            "name": "謝育筌",
-            "email": "ycshie@gms.ndhu.edu.tw",
-            "phone": "03-890-6032"
-        },
-        "attachmentCount": 0
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "[專題演講]歐盟的歷史與組織/Ausra ALELIUNAITE 歐洲議會資訊處處長",
+        "timestamp": "1740527714",
+        "url": "mail_display.php?timestamp=1740527714",
+        "date": "2025/02/26 07:55",
+        "department": "朱副校長室 ",
+        "author": {
+            "department": "朱副校長室",
+            "name": "謝育筌",
+            "email": "ycshie@gms.ndhu.edu.tw",
+            "phone": "03-890-6032"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【健康促進活動】3/29號召在校生校園健走，報名從速!",
         "timestamp": "1740527713",
         "url": "mail_display.php?timestamp=1740527713",
@@ -194,19 +208,5 @@
             "phone": "03-895492"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "📢⪦ 2025東華春藝季~【電影放映暨映後座談】愛子歸來",
-        "timestamp": "1740467740",
-        "url": "mail_display.php?timestamp=1740467740",
-        "date": "2025/02/25 15:15",
-        "department": "藝術中心",
-        "author": {
-            "department": "藝術中心",
-            "name": "周葦綸",
-            "email": "arts@gms.ndhu.edu.tw",
-            "phone": "6606"
-        },
-        "attachmentCount": 7
     }
 ]
