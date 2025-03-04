@@ -1,5 +1,19 @@
 [
     {
+        "title": "【代轉學生會公告】東華學生會春季招募",
+        "timestamp": "1740986218",
+        "url": "mail_display.php?timestamp=1740986218",
+        "date": "2025/03/03 15:16",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "姜紫淇",
+            "email": "yaya@gms.ndhu.edu.tw",
+            "phone": "03-8906235"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "2025 第二屆AI歌神爭霸戰。",
         "timestamp": "1740985600",
         "url": "mail_display.php?timestamp=1740985600",
@@ -194,19 +208,5 @@
             "phone": "6632"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "【獎助學金申請】本校113學年度「張阿尾女士孝親獎助學金」(含僑、外、陸生).",
-        "timestamp": "1740964837",
-        "url": "mail_display.php?timestamp=1740964837",
-        "date": "2025/03/03 09:20",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]

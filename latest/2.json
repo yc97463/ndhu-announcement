@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才訊息】國立東華大學教學卓越中心課程與科技組徵聘計畫助理2名",
+        "timestamp": "1741055452",
+        "url": "mail_display.php?timestamp=1741055452",
+        "date": "2025/03/04 10:30",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "李貞穎",
+            "email": "jeannie@gms.ndhu.edu.tw",
+            "phone": "8906587"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "東華電子報 | 2025年02月刊 |",
         "timestamp": "1741054195",
         "url": "mail_display.php?timestamp=1741054195",
@@ -185,20 +199,6 @@
         "title": "【財金工作坊】系列三 ：Python、AI 與財金應用",
         "timestamp": "1741046107",
         "url": "mail_display.php?timestamp=1741046107",
-        "date": "2025/03/04 07:55",
-        "department": "管理學院 財務金融學系",
-        "author": {
-            "department": "管理學院 財務金融學系",
-            "name": "呂羅晟峰",
-            "email": "luluo@gms.ndhu.edu.tw",
-            "phone": "8903132"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【財金工作坊】系列二：Financial Data Analysis with R: From Fundamentals to Advanced Techniques",
-        "timestamp": "1741046106",
-        "url": "mail_display.php?timestamp=1741046106",
         "date": "2025/03/04 07:55",
         "department": "管理學院 財務金融學系",
         "author": {

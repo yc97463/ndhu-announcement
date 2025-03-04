@@ -1,5 +1,19 @@
 [
     {
+        "title": "【財金工作坊】系列二：Financial Data Analysis with R: From Fundamentals to Advanced Techniques",
+        "timestamp": "1741046106",
+        "url": "mail_display.php?timestamp=1741046106",
+        "date": "2025/03/04 07:55",
+        "department": "管理學院 財務金融學系",
+        "author": {
+            "department": "管理學院 財務金融學系",
+            "name": "呂羅晟峰",
+            "email": "luluo@gms.ndhu.edu.tw",
+            "phone": "8903132"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【週四法語角】113-2 French Lunch Hour 法文午餐會話時間 3/13 第2場 Session 2",
         "timestamp": "1741046105",
         "url": "mail_display.php?timestamp=1741046105",
@@ -192,20 +206,6 @@
             "name": "李淑淳",
             "email": "chun@gms.ndhu.edu.tw",
             "phone": "6522"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【代轉學生會公告】東華學生會春季招募",
-        "timestamp": "1740986218",
-        "url": "mail_display.php?timestamp=1740986218",
-        "date": "2025/03/03 15:16",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "姜紫淇",
-            "email": "yaya@gms.ndhu.edu.tw",
-            "phone": "03-8906235"
         },
         "attachmentCount": 1
     }
