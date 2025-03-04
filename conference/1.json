@@ -1,5 +1,19 @@
 [
     {
+        "title": "【創業基礎班】2025創業基礎系列課程",
+        "timestamp": "1741053190",
+        "url": "mail_display.php?timestamp=1741053190",
+        "date": "2025/03/04 09:53",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "吳其璁",
+            "email": "dci93031@gms.ndhu.edu.tw",
+            "phone": "03-8903687"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【財金系專題演講】 3/7(五) 14:00 ~ 16:00 中國文化大學會計學系 廖羽惠 助理教授",
         "timestamp": "1740983491",
         "url": "mail_display.php?timestamp=1740983491",
@@ -194,19 +208,5 @@
             "phone": "6533"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【財金系專題演講】12/27(五) 14:00 ~ 16:00若水資本評價股份有限公司 ",
-        "timestamp": "1734924228",
-        "url": "mail_display.php?timestamp=1734924228",
-        "date": "2024/12/23 11:23",
-        "department": "財務金融學系",
-        "author": {
-            "department": "財務金融學系",
-            "name": "林役霜",
-            "email": "ys012@gms.ndhu.edu.tw",
-            "phone": "3133"
-        },
-        "attachmentCount": 1
     }
 ]
