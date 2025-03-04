@@ -1,5 +1,19 @@
 [
     {
+        "title": "Rpage資料還原至3月2日，3月3日新增及編輯資料未能保存，請各單位檢查及更新，造成不便，敬請見諒！",
+        "timestamp": "1741061265",
+        "url": "mail_display.php?timestamp=1741061265",
+        "date": "2025/03/04 12:07",
+        "department": "圖書資訊處綜合業務組",
+        "author": {
+            "department": "圖書資訊處綜合業務組",
+            "name": "陳偉",
+            "email": "ichirowei@gms.ndhu.edu.tw",
+            "phone": "6743"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】中華佛教善緣慈善會113-2清寒學生【誌善】進步獎學金",
         "timestamp": "1741059088",
         "url": "mail_display.php?timestamp=1741059088",
@@ -192,20 +206,6 @@
             "name": "溫鳳婷",
             "email": "fengting0804@gms.ndhu.edu.tw",
             "phone": "6282"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "法律學系專題講座-從臺灣舊慣調査想到後藤新平與岡松參太郎的法思想",
-        "timestamp": "1741046110",
-        "url": "mail_display.php?timestamp=1741046110",
-        "date": "2025/03/04 07:55",
-        "department": "人文社會科學學院 法律學系",
-        "author": {
-            "department": "人文社會科學學院 法律學系",
-            "name": "陳雅慧",
-            "email": "meditator@gms.ndhu.edu.tw",
-            "phone": "5662"
         },
         "attachmentCount": 0
     }
