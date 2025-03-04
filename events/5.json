@@ -1,5 +1,19 @@
 [
     {
+        "title": "📣講座資訊📣 【職涯講座：月桃莖編織杯墊手作】",
+        "timestamp": "1740531988",
+        "url": "mail_display.php?timestamp=1740531988",
+        "date": "2025/02/26 09:06",
+        "department": "原住民族學生資源中心",
+        "author": {
+            "department": "原住民族學生資源中心",
+            "name": "林詠靖",
+            "email": "tipus@gms.ndhu.edu.tw",
+            "phone": "5707"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "[專題演講]歐盟的歷史與組織/Ausra ALELIUNAITE 歐洲議會資訊處處長",
         "timestamp": "1740527714",
         "url": "mail_display.php?timestamp=1740527714",
@@ -194,19 +208,5 @@
             "phone": "8906253"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "花蓮縣中南區國小英語營夥伴招募公告Hualien Central-Southern Region Children’s English Camp Local and Foreign Camp Team Members Recruitment ",
-        "timestamp": "1740475275",
-        "url": "mail_display.php?timestamp=1740475275",
-        "date": "2025/02/25 17:21",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "林瑜珊",
-            "email": "lc@gms.ndhu.edu.tw",
-            "phone": "03-895492"
-        },
-        "attachmentCount": 2
     }
 ]

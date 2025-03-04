@@ -1,5 +1,19 @@
 [
     {
+        "title": "【財金工作坊】系列四：Programming with MATLAB for financial engineering",
+        "timestamp": "1741046108",
+        "url": "mail_display.php?timestamp=1741046108",
+        "date": "2025/03/04 07:55",
+        "department": "管理學院 財務金融學系",
+        "author": {
+            "department": "管理學院 財務金融學系",
+            "name": "呂羅晟峰",
+            "email": "luluo@gms.ndhu.edu.tw",
+            "phone": "8903132"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【財金工作坊】系列三 ：Python、AI 與財金應用",
         "timestamp": "1741046107",
         "url": "mail_display.php?timestamp=1741046107",
@@ -192,20 +206,6 @@
             "name": "王惠貞",
             "email": "labi@gms.ndhu.edu.tw",
             "phone": "8906253"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【Student Dormitory】Online Application to Join The Student Dormitory Committee of Academic Year 2025-2026",
-        "timestamp": "1740963013",
-        "url": "mail_display.php?timestamp=1740963013",
-        "date": "2025/03/03 08:50",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "鍾佩玲",
-            "email": "free22011@gms.ndhu.edu.tw",
-            "phone": "03890-6217"
         },
         "attachmentCount": 1
     }

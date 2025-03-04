@@ -1,5 +1,19 @@
 [
     {
+        "title": "瑜珈 ＆ 禪坐 ",
+        "timestamp": "1740669057",
+        "url": "mail_display.php?timestamp=1740669057",
+        "date": "2025/02/27 23:10",
+        "department": "物理學系",
+        "author": {
+            "department": "物理學系",
+            "name": "彭文平",
+            "email": "pengw@gms.ndhu.edu.tw",
+            "phone": "8903733"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "114學年國小教育學程甄選說明會",
         "timestamp": "1740622702",
         "url": "mail_display.php?timestamp=1740622702",
@@ -192,20 +206,6 @@
             "name": "陳美娥",
             "email": "mayer@gms.ndhu.edu.tw",
             "phone": "8906607"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "📣講座資訊📣 【職涯講座：月桃莖編織杯墊手作】",
-        "timestamp": "1740531988",
-        "url": "mail_display.php?timestamp=1740531988",
-        "date": "2025/02/26 09:06",
-        "department": "原住民族學生資源中心",
-        "author": {
-            "department": "原住民族學生資源中心",
-            "name": "林詠靖",
-            "email": "tipus@gms.ndhu.edu.tw",
-            "phone": "5707"
         },
         "attachmentCount": 1
     }

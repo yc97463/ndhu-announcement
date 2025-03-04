@@ -1,5 +1,19 @@
 [
     {
+        "title": "【財金工作坊】系列三 ：Python、AI 與財金應用",
+        "timestamp": "1741046107",
+        "url": "mail_display.php?timestamp=1741046107",
+        "date": "2025/03/04 07:55",
+        "department": "管理學院 財務金融學系",
+        "author": {
+            "department": "管理學院 財務金融學系",
+            "name": "呂羅晟峰",
+            "email": "luluo@gms.ndhu.edu.tw",
+            "phone": "8903132"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【財金工作坊】系列二：Financial Data Analysis with R: From Fundamentals to Advanced Techniques",
         "timestamp": "1741046106",
         "url": "mail_display.php?timestamp=1741046106",
@@ -192,20 +206,6 @@
             "name": "姜紫淇",
             "email": "yaya@gms.ndhu.edu.tw",
             "phone": "03-8906235"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【重要提醒】國科會計畫衍生之研發成果，務必登錄於STRIKE系統。",
-        "timestamp": "1740986649",
-        "url": "mail_display.php?timestamp=1740986649",
-        "date": "2025/03/03 15:24",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "李淑淳",
-            "email": "chun@gms.ndhu.edu.tw",
-            "phone": "6522"
         },
         "attachmentCount": 1
     }
