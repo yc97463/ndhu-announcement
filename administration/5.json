@@ -1,5 +1,47 @@
 [
     {
+        "title": "113學年第2學期開學總務處業務相關注意事項",
+        "timestamp": "1739630047",
+        "url": "mail_display.php?timestamp=1739630047",
+        "date": "2025/02/15 22:34",
+        "department": "總務處",
+        "author": {
+            "department": "總務處",
+            "name": "陳宇欽",
+            "email": "yuchin@gms.ndhu.edu.tw",
+            "phone": "分機6307"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "代轉台灣中小企業銀行校園ATM暫停服務訊息",
+        "timestamp": "1739526128",
+        "url": "mail_display.php?timestamp=1739526128",
+        "date": "2025/02/14 17:42",
+        "department": "總務處出納組",
+        "author": {
+            "department": "總務處出納組",
+            "name": "鄧瑞美",
+            "email": "deng@gms.ndhu.edu.tw",
+            "phone": "6366"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "[停水]理工一館下水塔進水位閥更換停水通告",
+        "timestamp": "1739525060",
+        "url": "mail_display.php?timestamp=1739525060",
+        "date": "2025/02/14 17:24",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【第一次公告】會計網路請購服務系統將於2月21日（五）11：30～17：00暫停服務進行系統維護",
         "timestamp": "1739520512",
         "url": "mail_display.php?timestamp=1739520512",
@@ -166,47 +208,5 @@
             "phone": "6225"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "勿開啟社交工程信件以免個資外洩或被詐騙",
-        "timestamp": "1739343457",
-        "url": "mail_display.php?timestamp=1739343457",
-        "date": "2025/02/12 14:57",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "葉宏達",
-            "email": "honda@gms.ndhu.edu.tw",
-            "phone": "8906747"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【個資保護】學校使用資通系統與生物特徵辨識技術個資指引",
-        "timestamp": "1739341728",
-        "url": "mail_display.php?timestamp=1739341728",
-        "date": "2025/02/12 14:28",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "何振揚",
-            "email": "cyang@gms.ndhu.edu.tw",
-            "phone": "6746"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "辦理本校113年0403地震第2次財物災損填報作業公告",
-        "timestamp": "1739321289",
-        "url": "mail_display.php?timestamp=1739321289",
-        "date": "2025/02/12 08:48",
-        "department": "總務處保管組",
-        "author": {
-            "department": "總務處保管組",
-            "name": "陳楚治",
-            "email": "kolas1219@gms.ndhu.edu.tw",
-            "phone": "03-8906342"
-        },
-        "attachmentCount": 1
     }
 ]
