@@ -1,5 +1,19 @@
 [
     {
+        "title": "📣【徵才公告】 國立東華大學學務處畢業生及校友服務組徵聘校務基金助理一名",
+        "timestamp": "1740016244",
+        "url": "mail_display.php?timestamp=1740016244",
+        "date": "2025/02/20 09:50",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "溫小姐",
+            "email": "fengting0804@gms.ndhu.edu.tw",
+            "phone": "6282"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才資訊】國立東華大學BYOD\u0026THSD營運中心計畫徵聘專任助理一名",
         "timestamp": "1739944124",
         "url": "mail_display.php?timestamp=1739944124",
@@ -194,19 +208,5 @@
             "phone": "5288"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【徵才訊息】國立東華大學教育部BYOD\u0026THSD營運中心計畫、數位學習輔導計畫 徵聘專任助理「各一名」，共計二名",
-        "timestamp": "1737110884",
-        "url": "mail_display.php?timestamp=1737110884",
-        "date": "2025/01/17 18:48",
-        "department": "花師教育學院",
-        "author": {
-            "department": "花師教育學院",
-            "name": "許小姐",
-            "email": "ling30@gms.ndhu.edu.tw",
-            "phone": "3777"
-        },
-        "attachmentCount": 0
     }
 ]

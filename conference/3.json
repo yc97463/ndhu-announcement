@@ -1,5 +1,19 @@
 [
     {
+        "title": "【演講訊息】12/19 (四) 10:10-12:00 Innovating Mental Healthcare with Human-AI Synergy for Positive Impact",
+        "timestamp": "1733808527",
+        "url": "mail_display.php?timestamp=1733808527",
+        "date": "2024/12/10 13:28",
+        "department": "花師教育學院",
+        "author": {
+            "department": "花師教育學院",
+            "name": "許趙瑩臻",
+            "email": "hsuchao@gms.ndhu.edu.tw",
+            "phone": "3803"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "法律學系專題講座-蘭嶼土地利用的傳統、現在與未來",
         "timestamp": "1733797452",
         "url": "mail_display.php?timestamp=1733797452",
@@ -192,20 +206,6 @@
             "name": "孫菁嬅",
             "email": "jinghua@gms.ndhu.edu.tw",
             "phone": "3157"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": " [鴻海講座]走進地方創生，圓一個沒有偏鄉的夢/前國發會主委陳美伶分享台灣的地方創生",
-        "timestamp": "1733128915",
-        "url": "mail_display.php?timestamp=1733128915",
-        "date": "2024/12/02 16:41",
-        "department": "朱副校長室",
-        "author": {
-            "department": "朱副校長室",
-            "name": "謝育筌 先生",
-            "email": "ycshie@gms.ndhu.edu.tw",
-            "phone": "(03)890-6032"
         },
         "attachmentCount": 1
     }
