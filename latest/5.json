@@ -1,5 +1,19 @@
 [
     {
+        "title": "電影欣賞:怪胎女孩",
+        "timestamp": "1741046101",
+        "url": "mail_display.php?timestamp=1741046101",
+        "date": "2025/03/04 07:55",
+        "department": "圖書資訊處 圖資服務組",
+        "author": {
+            "department": "圖書資訊處 圖資服務組",
+            "name": "廖銘珠",
+            "email": "min-judy@gms.ndhu.edu.tw",
+            "phone": "6855"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【公告】國立中興大學辦理第29屆傑出校友遴選，請惠予推薦人選。",
         "timestamp": "1740998324",
         "url": "mail_display.php?timestamp=1740998324",
@@ -194,19 +208,5 @@
             "phone": "5107"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【財金系專題演講】 3/7(五) 14:00 ~ 16:00 中國文化大學會計學系 廖羽惠 助理教授",
-        "timestamp": "1740983491",
-        "url": "mail_display.php?timestamp=1740983491",
-        "date": "2025/03/03 14:31",
-        "department": "財務金融學系",
-        "author": {
-            "department": "財務金融學系",
-            "name": "林役霜",
-            "email": "ys012@gms.ndhu.edu.tw",
-            "phone": "3133"
-        },
-        "attachmentCount": 1
     }
 ]

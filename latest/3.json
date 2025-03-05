@@ -1,5 +1,19 @@
 [
     {
+        "title": "【更正】-【學生宿舍】114學年度學生宿舍申請暨宿舍候補Ⅰ作業",
+        "timestamp": "1741071530",
+        "url": "mail_display.php?timestamp=1741071530",
+        "date": "2025/03/04 14:58",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳怡秀",
+            "email": "yishoue@gms.ndhu.edu.tw",
+            "phone": "6232"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【重要通知】3月29日（週六）新生健檢補檢，停辦!!",
         "timestamp": "1741071067",
         "url": "mail_display.php?timestamp=1741071067",
@@ -192,20 +206,6 @@
             "name": "莊璦綺",
             "email": "ichi@gms.ndhu.edu.tw",
             "phone": "6613"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "體育園區運動場管場地、器材整理",
-        "timestamp": "1741046116",
-        "url": "mail_display.php?timestamp=1741046116",
-        "date": "2025/03/04 07:55",
-        "department": "洄瀾學院 體育中心",
-        "author": {
-            "department": "洄瀾學院 體育中心",
-            "name": "沈正雄",
-            "email": "chshen@gms.ndhu.edu.tw",
-            "phone": "038906618"
         },
         "attachmentCount": 0
     }
