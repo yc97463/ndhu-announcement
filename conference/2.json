@@ -1,5 +1,19 @@
 [
     {
+        "title": "AI科技應用課程【認識X使用X操作】用創意行動讓夢想實踐【年度最後一堂】",
+        "timestamp": "1735179482",
+        "url": "mail_display.php?timestamp=1735179482",
+        "date": "2024/12/26 10:18",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "吳其璁",
+            "email": "dci93031@gms.ndhu.edu.tw",
+            "phone": "03-8903687"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "【邀請參加】大型語言模型（LLM）技術與 GPT 教育中應用之探討與應用線上研討會",
         "timestamp": "1735113078",
         "url": "mail_display.php?timestamp=1735113078",
@@ -194,19 +208,5 @@
             "phone": "3803"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "法律學系專題講座-蘭嶼土地利用的傳統、現在與未來",
-        "timestamp": "1733797452",
-        "url": "mail_display.php?timestamp=1733797452",
-        "date": "2024/12/10 10:24",
-        "department": "法律學系",
-        "author": {
-            "department": "法律學系",
-            "name": "陳助教",
-            "email": "meditator@gms.ndhu.edu.tw",
-            "phone": "5662"
-        },
-        "attachmentCount": 2
     }
 ]
