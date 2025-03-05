@@ -1,5 +1,19 @@
 [
     {
+        "title": "⭐教育大數據計畫—微學程招生說明會⭐ (管理學院與教育學院專場)  ",
+        "timestamp": "1733393461",
+        "url": "mail_display.php?timestamp=1733393461",
+        "date": "2024/12/05 18:11",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "6579"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "⭐教育大數據微學程招生說明會⭐歡迎您的參與！",
         "timestamp": "1733392835",
         "url": "mail_display.php?timestamp=1733392835",
@@ -194,19 +208,5 @@
             "phone": "5822"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "體育中心 113-1 推廣教育課程招生中",
-        "timestamp": "1726763118",
-        "url": "mail_display.php?timestamp=1726763118",
-        "date": "2024/09/20 00:25",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "楊永義",
-            "email": "yyy@gms.ndhu.edu.tw",
-            "phone": "6612"
-        },
-        "attachmentCount": 11
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "參與教育大數據微學程 開啟你的數據分析之旅—立即報名說明會！",
+        "timestamp": "1725528898",
+        "url": "mail_display.php?timestamp=1725528898",
+        "date": "2024/09/05 17:34",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "黃小姐",
+            "email": "chinghua@gms.ndhu.edu.tw",
+            "phone": "03-890-6579"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "公告113-1校核心通識課程-「職場倫理與工作態度」課程尚有名額，敬請踴躍加選課程",
         "timestamp": "1725523923",
         "url": "mail_display.php?timestamp=1725523923",
@@ -194,19 +208,5 @@
             "phone": "03-8906955"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【東華大學教育大數據微學程】113-1 學程必修實務課推廣",
-        "timestamp": "1717060265",
-        "url": "mail_display.php?timestamp=1717060265",
-        "date": "2024/05/30 17:11",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "黃小姐",
-            "email": "chinghua@gms.ndhu.edu.tw",
-            "phone": "6579"
-        },
-        "attachmentCount": 4
     }
 ]
