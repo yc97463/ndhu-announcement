@@ -1,5 +1,19 @@
 [
     {
+        "title": "【Student Dormitory】– Illustration Meetings of the Student Dormitory Committee Election for Academic Year 2025-2026",
+        "timestamp": "1740962799",
+        "url": "mail_display.php?timestamp=1740962799",
+        "date": "2025/03/03 08:46",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "鍾佩玲",
+            "email": "free22011@gms.ndhu.edu.tw",
+            "phone": "03890-6217"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【學生宿舍】本校114學年度「學生宿舍自治服務委員改選暨徵選辦法」說明會，歡迎同學前來參與～",
         "timestamp": "1740962711",
         "url": "mail_display.php?timestamp=1740962711",
@@ -192,20 +206,6 @@
             "name": "汪曉玲",
             "email": "tsc3507@gms.ndhu.edu.tw",
             "phone": "8903507"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "社會學系期初系員大會",
-        "timestamp": "1740614109",
-        "url": "mail_display.php?timestamp=1740614109",
-        "date": "2025/02/27 07:55",
-        "department": "人文社會科學學院 社會學系",
-        "author": {
-            "department": "人文社會科學學院 社會學系",
-            "name": "葉珮芳",
-            "email": "",
-            "phone": "謝明臻 (email: 41124B007@gms.ndhu.edu.tw)"
         },
         "attachmentCount": 0
     }
