@@ -1,5 +1,19 @@
 [
     {
+        "title": "113學年第2學期第1次學術與實務演講-廖羽惠 助理教授",
+        "timestamp": "1741046109",
+        "url": "mail_display.php?timestamp=1741046109",
+        "date": "2025/03/04 07:55",
+        "department": "管理學院 財務金融學系",
+        "author": {
+            "department": "管理學院 財務金融學系",
+            "name": "呂羅晟峰",
+            "email": "luluo@gms.ndhu.edu.tw",
+            "phone": "8903132"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【財金工作坊】系列四：Programming with MATLAB for financial engineering",
         "timestamp": "1741046108",
         "url": "mail_display.php?timestamp=1741046108",
@@ -194,19 +208,5 @@
             "phone": "8906253"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【健康促進活動】3/29號召在校生校園健走，報名從速!",
-        "timestamp": "1740963336",
-        "url": "mail_display.php?timestamp=1740963336",
-        "date": "2025/03/03 08:55",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 1
     }
 ]
