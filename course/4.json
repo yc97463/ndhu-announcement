@@ -1,5 +1,19 @@
 [
     {
+        "title": "【活動推推】113-1「性別與社會」成果展：被保溫的日常—看見社會中的性／別",
+        "timestamp": "1735196087",
+        "url": "mail_display.php?timestamp=1735196087",
+        "date": "2024/12/26 14:54",
+        "department": "社會參與中心",
+        "author": {
+            "department": "社會參與中心",
+            "name": "鄒小姐",
+            "email": "tsai_yen@gms.ndhu.edu.tw",
+            "phone": "5243"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【課務組】113學年度第2學期學士班課程「免修」注意事項",
         "timestamp": "1734938937",
         "url": "mail_display.php?timestamp=1734938937",
@@ -194,19 +208,5 @@
             "phone": "038905710"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【就在明天】台灣原住民族知識體系課程系列講座：從當代原住民音樂談解殖實踐",
-        "timestamp": "1733105239",
-        "url": "mail_display.php?timestamp=1733105239",
-        "date": "2024/12/02 10:07",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "柯同學",
-            "email": "411196018@gms.ndhu.edu.tw",
-            "phone": "0988479360"
-        },
-        "attachmentCount": 2
     }
 ]
