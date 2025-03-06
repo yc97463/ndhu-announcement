@@ -1,5 +1,19 @@
 [
     {
+        "title": "【教育訓練】掌握Rpage！輕鬆打造單位網頁",
+        "timestamp": "1741246898",
+        "url": "mail_display.php?timestamp=1741246898",
+        "date": "2025/03/06 15:41",
+        "department": "圖書資訊處綜合業務組",
+        "author": {
+            "department": "圖書資訊處綜合業務組",
+            "name": "何振揚",
+            "email": "cyang@gms.ndhu.edu.tw",
+            "phone": "6746"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【健康促進活動】3/29號校園健走，還有名額，報名從速!",
         "timestamp": "1741246574",
         "url": "mail_display.php?timestamp=1741246574",
@@ -194,19 +208,5 @@
             "phone": "03-895492"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【就在今天】《我的名字》談繪本創作的文化美學與自我追尋",
-        "timestamp": "1741144019",
-        "url": "mail_display.php?timestamp=1741144019",
-        "date": "2025/03/05 11:06",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "葉秀燕主任",
-            "email": "sumay@gms.ndhu.edu.tw",
-            "phone": "8905792"
-        },
-        "attachmentCount": 1
     }
 ]
