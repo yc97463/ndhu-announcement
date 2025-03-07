@@ -1,5 +1,19 @@
 [
     {
+        "title": "【公告】114年補助本校師生赴海外移地教學，即日起受理申請至4月7日截止。",
+        "timestamp": "1739772242",
+        "url": "mail_display.php?timestamp=1739772242",
+        "date": "2025/02/17 14:04",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "【學生宿舍】113學年第二學期電費階段公告 【Student Dormitory】Electricity Charge Announcement for 2024-2025 Academic Year",
         "timestamp": "1739765697",
         "url": "mail_display.php?timestamp=1739765697",
@@ -194,19 +208,5 @@
             "phone": "038906228"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "有關今日理工一館地下室淹水一事說明",
-        "timestamp": "1739447562",
-        "url": "mail_display.php?timestamp=1739447562",
-        "date": "2025/02/13 19:52",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
     }
 ]
