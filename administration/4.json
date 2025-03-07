@@ -1,5 +1,19 @@
 [
     {
+        "title": "為進行學活園區機車停車場路燈維修公告(2/22)",
+        "timestamp": "1740137037",
+        "url": "mail_display.php?timestamp=1740137037",
+        "date": "2025/02/21 19:23",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "心理諮商輔導中心期初關懷信",
         "timestamp": "1740129306",
         "url": "mail_display.php?timestamp=1740129306",
@@ -194,19 +208,5 @@
             "phone": "5107"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【學生宿舍】113學年第二學期電費階段公告 【Student Dormitory】Electricity Charge Announcement for 2024-2025 Academic Year",
-        "timestamp": "1739765697",
-        "url": "mail_display.php?timestamp=1739765697",
-        "date": "2025/02/17 12:14",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳怡秀",
-            "email": "yishoue@gms.ndhu.edu.tw",
-            "phone": "6212"
-        },
-        "attachmentCount": 2
     }
 ]
