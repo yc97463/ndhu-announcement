@@ -1,5 +1,19 @@
 [
     {
+        "title": "【重要通知】3月29日（週六）新生健檢補檢，停辦!!",
+        "timestamp": "1741071067",
+        "url": "mail_display.php?timestamp=1741071067",
+        "date": "2025/03/04 14:51",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【學生宿舍】114學年度學生宿舍申請暨宿舍候補Ⅰ作業",
         "timestamp": "1741067657",
         "url": "mail_display.php?timestamp=1741067657",
@@ -194,19 +208,5 @@
             "phone": "6057"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "114學年國小教育學程甄選說明會",
-        "timestamp": "1740622702",
-        "url": "mail_display.php?timestamp=1740622702",
-        "date": "2025/02/27 10:18",
-        "department": "師資培育中心",
-        "author": {
-            "department": "師資培育中心",
-            "name": "陳淑貞",
-            "email": "sjchen@gms.ndhu.edu.tw",
-            "phone": "(03)8906636"
-        },
-        "attachmentCount": 4
     }
 ]
