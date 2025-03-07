@@ -1,5 +1,19 @@
 [
     {
+        "title": "體育中心新學期的推廣課程開始報名",
+        "timestamp": "1740014665",
+        "url": "mail_display.php?timestamp=1740014665",
+        "date": "2025/02/20 09:24",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "楊永義",
+            "email": "yyy@gms.ndhu.edu.tw",
+            "phone": "038906612"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【113-2 TAICA課程】免費旁聽線上直播課程",
         "timestamp": "1739936417",
         "url": "mail_display.php?timestamp=1739936417",
@@ -194,19 +208,5 @@
             "phone": "6122-6126"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "113-2「VIP垂直整合」微學程說明會",
-        "timestamp": "1739332207",
-        "url": "mail_display.php?timestamp=1739332207",
-        "date": "2025/02/12 11:50",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "洄瀾共好大學社會責任中心",
-            "email": "techusr@gms.ndhu.edu.tw",
-            "phone": "3772/3770"
-        },
-        "attachmentCount": 2
     }
 ]

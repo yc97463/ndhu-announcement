@@ -1,5 +1,19 @@
 [
     {
+        "title": "【吳念真導演演講_我只是一個說故事的人】_台灣社會與政治發展課程講座",
+        "timestamp": "1732680810",
+        "url": "mail_display.php?timestamp=1732680810",
+        "date": "2024/11/27 12:13",
+        "department": "原住民民族學院",
+        "author": {
+            "department": "原住民民族學院",
+            "name": "曾同學",
+            "email": "611296004@gms.ndhu.edu.tw",
+            "phone": "0955204467"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【RIKEC法學系列講座】死刑憲法判決之後：法實證研究與刑罰理論交錯視角下的台灣死刑論辯",
         "timestamp": "1732603193",
         "url": "mail_display.php?timestamp=1732603193",
@@ -194,19 +208,5 @@
             "phone": "038905213"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【轉知】資策會辦理113年「DIGI+Talent全球數位新星大賞」期末成果發表",
-        "timestamp": "1732090030",
-        "url": "mail_display.php?timestamp=1732090030",
-        "date": "2024/11/20 16:07",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "洪乃慈",
-            "email": "naitzu@gms.ndhu.edu.tw",
-            "phone": "6523"
-        },
-        "attachmentCount": 2
     }
 ]

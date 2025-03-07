@@ -1,6 +1,20 @@
 [
     {
         "title": "113-2「VIP垂直整合」微學程說明會",
+        "timestamp": "1739332207",
+        "url": "mail_display.php?timestamp=1739332207",
+        "date": "2025/02/12 11:50",
+        "department": "管理學院",
+        "author": {
+            "department": "管理學院",
+            "name": "洄瀾共好大學社會責任中心",
+            "email": "techusr@gms.ndhu.edu.tw",
+            "phone": "3772/3770"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "113-2「VIP垂直整合」微學程說明會",
         "timestamp": "1739170091",
         "url": "mail_display.php?timestamp=1739170091",
         "date": "2025/02/10 14:48",
@@ -194,19 +208,5 @@
             "phone": "038906824"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "資通系統盤點暨安全等級評估教育訓練",
-        "timestamp": "1736216485",
-        "url": "mail_display.php?timestamp=1736216485",
-        "date": "2025/01/07 10:21",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "蕭澤宇",
-            "email": "zyhsiao@gms.ndhu.edu.tw",
-            "phone": "6727"
-        },
-        "attachmentCount": 2
     }
 ]
