@@ -1,5 +1,33 @@
 [
     {
+        "title": "【徵才公告】國立東華大學國際企業學系徵校務基金行政助理一名",
+        "timestamp": "1736134390",
+        "url": "mail_display.php?timestamp=1736134390",
+        "date": "2025/01/06 11:33",
+        "department": "國際企業學系",
+        "author": {
+            "department": "國際企業學系",
+            "name": "廖敏妏",
+            "email": "mliao@gms.ndhu.edu.tw",
+            "phone": "3042"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【徵才公告】國立東華大學原住民族語言花蓮學習中心 工讀生若干名",
+        "timestamp": "1736134234",
+        "url": "mail_display.php?timestamp=1736134234",
+        "date": "2025/01/06 11:30",
+        "department": "原住民族語言中心",
+        "author": {
+            "department": "原住民族語言中心",
+            "name": "朱小姐",
+            "email": "ndhu_illc@gms.ndhu.edu.tw",
+            "phone": "03-8905904"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "國立東華大學教育部BYOD\u0026THSD營運中心計畫、數位學習輔導計畫 徵聘專任助理「各一名」，共計二名(第二次公告)",
         "timestamp": "1736130261",
         "url": "mail_display.php?timestamp=1736130261",
@@ -178,34 +206,6 @@
             "name": "許小姐",
             "email": "ling30@gms.ndhu.edu.tw",
             "phone": "03-8903777"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【徵才訊息】國立東華大學東台灣農藥殘留與毒物檢驗中心誠徵專案技術師一名",
-        "timestamp": "1734493228",
-        "url": "mail_display.php?timestamp=1734493228",
-        "date": "2024/12/18 11:40",
-        "department": "技術服務中心東台灣農藥殘留與毒物檢驗中心",
-        "author": {
-            "department": "技術服務中心東台灣農藥殘留與毒物檢驗中心",
-            "name": "蔡美芳",
-            "email": "tmf0114@gms.ndhu.edu.tw",
-            "phone": "03-8905288"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【徵才訊息】國際事務處國際合作組徵聘校務基金學士級助理一名 (收件截止：12/16) ",
-        "timestamp": "1734077829",
-        "url": "mail_display.php?timestamp=1734077829",
-        "date": "2024/12/13 16:17",
-        "department": "國際事務處",
-        "author": {
-            "department": "國際事務處",
-            "name": "劉力綺",
-            "email": "cheerio@gms.ndhu.edu.tw",
-            "phone": "5109"
         },
         "attachmentCount": 0
     }

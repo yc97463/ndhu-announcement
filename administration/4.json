@@ -1,5 +1,33 @@
 [
     {
+        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
+        "timestamp": "1740375326",
+        "url": "mail_display.php?timestamp=1740375326",
+        "date": "2025/02/24 13:35",
+        "department": "圖書資訊處校務系統組",
+        "author": {
+            "department": "圖書資訊處校務系統組",
+            "name": "林志軒",
+            "email": "chshlin@gms.ndhu.edu.tw",
+            "phone": "6752"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "理工二館今(2/24)日上午8時35分部分區域無預警停電說明",
+        "timestamp": "1740363030",
+        "url": "mail_display.php?timestamp=1740363030",
+        "date": "2025/02/24 10:10",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "黃章傑",
+            "email": "cotycafe@gms.ndhu.edu.tw",
+            "phone": "038905778"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【圖書館公告】和平紀念日【114.02.28 (五)】休館一日！Library will be closed for Peace Memorial Day on February 28, 2025.",
         "timestamp": "1740361523",
         "url": "mail_display.php?timestamp=1740361523",
@@ -180,33 +208,5 @@
             "phone": "03-890-5920"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "有關理工一館變電站預防性更換緊急電盤之電力切換設備",
-        "timestamp": "1739794238",
-        "url": "mail_display.php?timestamp=1739794238",
-        "date": "2025/02/17 20:10",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉景富",
-            "email": "nickak@gms.ndhu.edu.tw",
-            "phone": "8906373"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【第二次公告】會計網路請購服務系統將於2月21日(五)11：30～17：00暫停服務進行系統維護",
-        "timestamp": "1739781495",
-        "url": "mail_display.php?timestamp=1739781495",
-        "date": "2025/02/17 16:38",
-        "department": "主計室",
-        "author": {
-            "department": "主計室",
-            "name": "曾俊達",
-            "email": "kleiber0576@gms.ndhu.edu.tw",
-            "phone": "(03)8906079"
-        },
-        "attachmentCount": 0
     }
 ]

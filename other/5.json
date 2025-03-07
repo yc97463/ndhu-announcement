@@ -1,5 +1,47 @@
 [
     {
+        "title": "【訊息轉知】國立臺灣海洋大學開設「高齡食品」磨課師(MOOCs)免費線上課程，有機會獲本課程設計的矽膠餐墊",
+        "timestamp": "1740119673",
+        "url": "mail_display.php?timestamp=1740119673",
+        "date": "2025/02/21 14:34",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【訊息轉知】經濟部產業發展署「製造業 AI 升級引擎」網站線上課程",
+        "timestamp": "1740119170",
+        "url": "mail_display.php?timestamp=1740119170",
+        "date": "2025/02/21 14:26",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【訊息轉知】國立臺灣海洋大學開設3門磨課師(MOOCs)免費線上課程",
+        "timestamp": "1740118640",
+        "url": "mail_display.php?timestamp=1740118640",
+        "date": "2025/02/21 14:17",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【實習】衛生福利部疾病管制署「114年大專院校學生暑期實習」(校內收件至114年3月24日止)",
         "timestamp": "1740118539",
         "url": "mail_display.php?timestamp=1740118539",
@@ -166,47 +208,5 @@
             "phone": "8906253"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【徵才公告】國立東華大學管理學院會計學系誠徵身心障礙專案助理一名(第三次公告)",
-        "timestamp": "1740017831",
-        "url": "mail_display.php?timestamp=1740017831",
-        "date": "2025/02/20 10:17",
-        "department": "會計學系",
-        "author": {
-            "department": "會計學系",
-            "name": "dacct@gms.ndhu.edu.tw",
-            "email": "dacct@gms.ndhu.edu.tw",
-            "phone": "8903072"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【課程活動轉發】 新創大學堂課程~歡迎報名~",
-        "timestamp": "1739947570",
-        "url": "mail_display.php?timestamp=1739947570",
-        "date": "2025/02/19 14:46",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "翁欣儀",
-            "email": "cari20240307@gms.ndhu.edu.tw",
-            "phone": "038221316"
-        },
-        "attachmentCount": 9
-    },
-    {
-        "title": "人社二館1號電梯故障停用",
-        "timestamp": "1739879769",
-        "url": "mail_display.php?timestamp=1739879769",
-        "date": "2025/02/18 19:56",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
     }
 ]

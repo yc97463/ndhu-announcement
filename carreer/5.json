@@ -1,5 +1,33 @@
 [
     {
+        "title": "【徵才訊息】國立東華大學東台灣農藥殘留與毒物檢驗中心誠徵專案技術師一名",
+        "timestamp": "1734493228",
+        "url": "mail_display.php?timestamp=1734493228",
+        "date": "2024/12/18 11:40",
+        "department": "技術服務中心東台灣農藥殘留與毒物檢驗中心",
+        "author": {
+            "department": "技術服務中心東台灣農藥殘留與毒物檢驗中心",
+            "name": "蔡美芳",
+            "email": "tmf0114@gms.ndhu.edu.tw",
+            "phone": "03-8905288"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【徵才訊息】國際事務處國際合作組徵聘校務基金學士級助理一名 (收件截止：12/16) ",
+        "timestamp": "1734077829",
+        "url": "mail_display.php?timestamp=1734077829",
+        "date": "2024/12/13 16:17",
+        "department": "國際事務處",
+        "author": {
+            "department": "國際事務處",
+            "name": "劉力綺",
+            "email": "cheerio@gms.ndhu.edu.tw",
+            "phone": "5109"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【第三次公告】本校徵求人文社會科學學院院長候選人",
         "timestamp": "1733996381",
         "url": "mail_display.php?timestamp=1733996381",
@@ -180,33 +208,5 @@
             "phone": "5141"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【第二次公告】本校徵求人文社會科學學院院長候選人",
-        "timestamp": "1731639407",
-        "url": "mail_display.php?timestamp=1731639407",
-        "date": "2024/11/15 10:56",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "楊惠雯",
-            "email": "hwyang@gms.ndhu.edu.tw",
-            "phone": "6061"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "國立東華大學理工學院徵聘校務基金助理一名",
-        "timestamp": "1731460512",
-        "url": "mail_display.php?timestamp=1731460512",
-        "date": "2024/11/13 09:15",
-        "department": "理工學院",
-        "author": {
-            "department": "理工學院",
-            "name": "潘小姐",
-            "email": "tzuyu@gms.ndhu.edu.tw",
-            "phone": "3502"
-        },
-        "attachmentCount": 0
     }
 ]
