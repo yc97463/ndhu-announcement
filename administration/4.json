@@ -1,5 +1,19 @@
 [
     {
+        "title": "公文系統訂於114年2月26日(三)中午12~13時暫停服務公告。",
+        "timestamp": "1740442549",
+        "url": "mail_display.php?timestamp=1740442549",
+        "date": "2025/02/25 08:15",
+        "department": "總務處文書組",
+        "author": {
+            "department": "總務處文書組",
+            "name": "張先生",
+            "email": "eric.chang@gms.ndhu.edu.tw",
+            "phone": "03-8906352"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "東華大學秋野芒劇團公益巡演【2025離島專案—澎湖、小琉球巡演計畫】熱情招生中!!",
         "timestamp": "1740376264",
         "url": "mail_display.php?timestamp=1740376264",
@@ -192,20 +206,6 @@
             "name": "黃章傑",
             "email": "cotycafe@gms.ndhu.edu.tw",
             "phone": "5778"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "人社二館1號電梯故障停用",
-        "timestamp": "1739879769",
-        "url": "mail_display.php?timestamp=1739879769",
-        "date": "2025/02/18 19:56",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
         },
         "attachmentCount": 0
     }
