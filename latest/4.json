@@ -1,5 +1,19 @@
 [
     {
+        "title": "【健康促進活動】3/29號校園健走，還有名額，報名從速!",
+        "timestamp": "1741246574",
+        "url": "mail_display.php?timestamp=1741246574",
+        "date": "2025/03/06 15:36",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【轉知】嶺東科技大學辦理114年「兒童及少年福利機構主管人員訓練課程」",
         "timestamp": "1741246321",
         "url": "mail_display.php?timestamp=1741246321",
@@ -194,19 +208,5 @@
             "phone": "6393"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "📌2025語言學沙龍第1場（國立政治大學）「語出驚人：語言學的多重宇宙」📌",
-        "timestamp": "1741222950",
-        "url": "mail_display.php?timestamp=1741222950",
-        "date": "2025/03/06 09:02",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "璽祐．哈噜咪",
-            "email": "siyu@gms.ndhu.edu.tw",
-            "phone": "5824"
-        },
-        "attachmentCount": 3
     }
 ]

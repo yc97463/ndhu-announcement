@@ -1,5 +1,19 @@
 [
     {
+        "title": " 【徵才公告】國立東華大學原住民族語言花蓮學習中心 工讀生若干名",
+        "timestamp": "1736217009",
+        "url": "mail_display.php?timestamp=1736217009",
+        "date": "2025/01/07 10:30",
+        "department": "原住民族語言中心",
+        "author": {
+            "department": "原住民族語言中心",
+            "name": "朱小姐",
+            "email": "ndhu_illc@gms.ndhu.edu.tw",
+            "phone": "03-8905904"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才公告】國立東華大學國際企業學系徵校務基金行政助理一名",
         "timestamp": "1736134390",
         "url": "mail_display.php?timestamp=1736134390",
@@ -194,19 +208,5 @@
             "phone": "03-8903013"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【徵才訊息】國立東華大學教育部BYOD\u0026THSD營運中心計畫、數位學習輔導計畫 徵聘專任助理「各一名」，共計二名",
-        "timestamp": "1734679758",
-        "url": "mail_display.php?timestamp=1734679758",
-        "date": "2024/12/20 15:29",
-        "department": "花師教育學院",
-        "author": {
-            "department": "花師教育學院",
-            "name": "許小姐",
-            "email": "ling30@gms.ndhu.edu.tw",
-            "phone": "03-8903777"
-        },
-        "attachmentCount": 0
     }
 ]
