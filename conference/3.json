@@ -1,5 +1,33 @@
 [
     {
+        "title": "【轉知】財團法人工業技術研究院產業人才能力鑑定(iPAS)AI應用規劃師推廣說明會",
+        "timestamp": "1734329327",
+        "url": "mail_display.php?timestamp=1734329327",
+        "date": "2024/12/16 14:08",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "洪乃慈",
+            "email": "naitzu@gms.ndhu.edu.tw",
+            "phone": "6523"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【演講訊息】12/19 (四) 10:10-12:00 Innovating Mental Healthcare with Human-AI Synergy for Positive Impact",
+        "timestamp": "1734313591",
+        "url": "mail_display.php?timestamp=1734313591",
+        "date": "2024/12/16 09:46",
+        "department": "花師教育學院",
+        "author": {
+            "department": "花師教育學院",
+            "name": "許趙瑩臻",
+            "email": "hsuchao@gms.ndhu.edu.tw",
+            "phone": "3802"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "金典講座「找到你的天命，讓罪變成幸運 ──隱匿談《幸運的罪》」x楊牧書房結盟文學館家族儀式",
         "timestamp": "1734242340",
         "url": "mail_display.php?timestamp=1734242340",
@@ -180,33 +208,5 @@
             "phone": "5632"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【活動】2024/12/10 Trans-speakerism: Voices of Japanese University Professors",
-        "timestamp": "1733279007",
-        "url": "mail_display.php?timestamp=1733279007",
-        "date": "2024/12/04 10:23",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【活動】2024/12/9 Transpeakerism: Narrative Inquiry into Language Teachers’ Identity",
-        "timestamp": "1733278898",
-        "url": "mail_display.php?timestamp=1733278898",
-        "date": "2024/12/04 10:21",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 3
     }
 ]
