@@ -1,5 +1,33 @@
 [
     {
+        "title": "【訊息轉知】長榮大學開設「失智也有好人生」磨課師(MOOCs)免費線上課程",
+        "timestamp": "1741224820",
+        "url": "mail_display.php?timestamp=1741224820",
+        "date": "2025/03/06 09:33",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 4
+    },
+    {
+        "title": "【訊息轉知】長榮大學開設4門磨課師(MOOCs)免費線上課程",
+        "timestamp": "1741224550",
+        "url": "mail_display.php?timestamp=1741224550",
+        "date": "2025/03/06 09:29",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【獎助學金申請】白曉燕文教基金會113(一)警察子女獎助學金",
         "timestamp": "1741224545",
         "url": "mail_display.php?timestamp=1741224545",
@@ -180,33 +208,5 @@
             "phone": "5718"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【活動推推📣】藝術學院專題講座-萬物議會·星球美學：人類世中的藝術與自然🌱",
-        "timestamp": "1741161699",
-        "url": "mail_display.php?timestamp=1741161699",
-        "date": "2025/03/05 16:01",
-        "department": "社會參與中心",
-        "author": {
-            "department": "社會參與中心",
-            "name": "黃小姐",
-            "email": "yuxuan22@gms.ndhu.edu.tw",
-            "phone": "5246"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "113-2學期自資系生職涯講座：在花蓮我們種的是生活 / 林佩蓉（阿寶），敬請同學踴躍報名參加。",
-        "timestamp": "1741157573",
-        "url": "mail_display.php?timestamp=1741157573",
-        "date": "2025/03/05 14:52",
-        "department": "自然資源與環境學系",
-        "author": {
-            "department": "自然資源與環境學系",
-            "name": "謝家榛助理",
-            "email": "stoven@gms.ndhu.edu.tw",
-            "phone": "03-8903267"
-        },
-        "attachmentCount": 3
     }
 ]
