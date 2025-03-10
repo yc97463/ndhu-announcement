@@ -1,5 +1,19 @@
 [
     {
+        "title": "【教育訓練】掌握Rpage！輕鬆打造單位網頁",
+        "timestamp": "1741246898",
+        "url": "mail_display.php?timestamp=1741246898",
+        "date": "2025/03/06 15:41",
+        "department": "圖書資訊處綜合業務組",
+        "author": {
+            "department": "圖書資訊處綜合業務組",
+            "name": "何振揚",
+            "email": "cyang@gms.ndhu.edu.tw",
+            "phone": "6746"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【健康促進活動】3/29號校園健走，還有名額，報名從速!",
         "timestamp": "1741246574",
         "url": "mail_display.php?timestamp=1741246574",
@@ -194,19 +208,5 @@
             "phone": "8906422"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "114年3月份全校綠地除草維護時間及施作區域公告",
-        "timestamp": "1741223210",
-        "url": "mail_display.php?timestamp=1741223210",
-        "date": "2025/03/06 09:06",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "賴宜萱",
-            "email": "lai0210@gms.ndhu.edu.tw",
-            "phone": "6393"
-        },
-        "attachmentCount": 1
     }
 ]

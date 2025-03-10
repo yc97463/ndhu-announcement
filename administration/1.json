@@ -1,5 +1,19 @@
 [
     {
+        "title": "113學年第2學期友善校園週宣導重點-校園霸凌",
+        "timestamp": "1741565858",
+        "url": "mail_display.php?timestamp=1741565858",
+        "date": "2025/03/10 08:17",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "郭詩妘",
+            "email": "kikiguo@gms.ndhu.edu.tw",
+            "phone": "03-8906227"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "[停電]壽豐校區體育館 114年3月10日停電公告",
         "timestamp": "1741519059",
         "url": "mail_display.php?timestamp=1741519059",
@@ -194,19 +208,5 @@
             "phone": "03-8906352"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【Corrected version】-【Student Dormitory】2025-2026 Academic Year Dormitory Individual Application(Waiting list)",
-        "timestamp": "1741071728",
-        "url": "mail_display.php?timestamp=1741071728",
-        "date": "2025/03/04 15:02",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳怡秀",
-            "email": "yishoue@gms.ndhu.edu.tw",
-            "phone": "6212"
-        },
-        "attachmentCount": 4
     }
 ]

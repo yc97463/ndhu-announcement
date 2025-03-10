@@ -1,5 +1,19 @@
 [
     {
+        "title": "理工一館Ｄ棟禁止進入",
+        "timestamp": "1739921862",
+        "url": "mail_display.php?timestamp=1739921862",
+        "date": "2025/02/19 07:37",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "黃章傑",
+            "email": "cotycafe@gms.ndhu.edu.tw",
+            "phone": "5778"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "人社二館1號電梯故障停用",
         "timestamp": "1739879769",
         "url": "mail_display.php?timestamp=1739879769",
@@ -192,20 +206,6 @@
             "name": "王惠貞",
             "email": "labi@gms.ndhu.edu.tw",
             "phone": "8906253"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "113學年第2學期開學總務處業務相關注意事項",
-        "timestamp": "1739630047",
-        "url": "mail_display.php?timestamp=1739630047",
-        "date": "2025/02/15 22:34",
-        "department": "總務處",
-        "author": {
-            "department": "總務處",
-            "name": "陳宇欽",
-            "email": "yuchin@gms.ndhu.edu.tw",
-            "phone": "分機6307"
         },
         "attachmentCount": 1
     }
