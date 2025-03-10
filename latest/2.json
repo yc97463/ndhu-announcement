@@ -1,5 +1,19 @@
 [
     {
+        "title": "114級大四畢業總審展顧展",
+        "timestamp": "1741391703",
+        "url": "mail_display.php?timestamp=1741391703",
+        "date": "2025/03/08 07:55",
+        "department": "藝術學院 藝術與設計學系",
+        "author": {
+            "department": "藝術學院 藝術與設計學系",
+            "name": "陳紘崧",
+            "email": "keter426@gms.ndhu.edu.tw",
+            "phone": "038905123"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "生醫系3/14(週五)專題講座公告，歡迎踴躍參加~~",
         "timestamp": "1741391702",
         "url": "mail_display.php?timestamp=1741391702",
@@ -194,19 +208,5 @@
             "phone": "6225"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【健康動不停】113-2教職員運動增能班",
-        "timestamp": "1741320309",
-        "url": "mail_display.php?timestamp=1741320309",
-        "date": "2025/03/07 12:05",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "莊璦綺",
-            "email": "ichi@gms.ndhu.edu.tw",
-            "phone": "6613"
-        },
-        "attachmentCount": 2
     }
 ]
