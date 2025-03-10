@@ -1,5 +1,19 @@
 [
     {
+        "title": "【第十一屆原住民族傳統習慣與國家法制研討會】",
+        "timestamp": "1734491738",
+        "url": "mail_display.php?timestamp=1734491738",
+        "date": "2024/12/18 11:15",
+        "department": "法律學系",
+        "author": {
+            "department": "法律學系",
+            "name": "Galaigai Cavalje 高蘇恩",
+            "email": "galaigai@gms.ndhu.edu.tw",
+            "phone": "5663"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【轉知】財團法人工業技術研究院產業人才能力鑑定(iPAS)AI應用規劃師推廣說明會",
         "timestamp": "1734329327",
         "url": "mail_display.php?timestamp=1734329327",
@@ -194,19 +208,5 @@
             "phone": "03-8905277"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【諮臨系專題演講】跨文化探索與適應之旅：心理學家和研究者的個人和專業成長A journey of cross-cultural exploration and adaptation: Personal and professional growth as a psychologist and researcher",
-        "timestamp": "1733292640",
-        "url": "mail_display.php?timestamp=1733292640",
-        "date": "2024/12/04 14:10",
-        "department": "諮商與臨床心理學系",
-        "author": {
-            "department": "諮商與臨床心理學系",
-            "name": "諮商與臨床心理學系",
-            "email": "cp@gms.ndhu.edu.tw",
-            "phone": "5632"
-        },
-        "attachmentCount": 1
     }
 ]
