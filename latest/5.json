@@ -1,5 +1,19 @@
 [
     {
+        "title": "【訊息轉知】國立政治大學開設5門磨課師(MOOCs)免費線上課程",
+        "timestamp": "1741224335",
+        "url": "mail_display.php?timestamp=1741224335",
+        "date": "2025/03/06 09:25",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "114年3月份全校綠地除草維護時間及施作區域公告",
         "timestamp": "1741223210",
         "url": "mail_display.php?timestamp=1741223210",
@@ -194,19 +208,5 @@
             "phone": "03-895492"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【就在今天】《我的名字》談繪本創作的文化美學與自我追尋",
-        "timestamp": "1741144019",
-        "url": "mail_display.php?timestamp=1741144019",
-        "date": "2025/03/05 11:06",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "葉秀燕主任",
-            "email": "sumay@gms.ndhu.edu.tw",
-            "phone": "8905792"
-        },
-        "attachmentCount": 1
     }
 ]
