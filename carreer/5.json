@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵聘教師公告】國立東華大學企業管理學系暨運籌管理研究所徵聘專任教師2名",
+        "timestamp": "1734923365",
+        "url": "mail_display.php?timestamp=1734923365",
+        "date": "2024/12/23 11:09",
+        "department": "企業管理學系",
+        "author": {
+            "department": "企業管理學系",
+            "name": "莊巧萍",
+            "email": "cpjuang@gms.ndhu.edu.tw",
+            "phone": "03-8903013"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【徵才訊息】國立東華大學教育部BYOD\u0026THSD營運中心計畫、數位學習輔導計畫 徵聘專任助理「各一名」，共計二名",
         "timestamp": "1734679758",
         "url": "mail_display.php?timestamp=1734679758",
@@ -194,19 +208,5 @@
             "phone": "5109"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【徵才公告】國立東華大學管理學院國際事務中心徵聘\"代理行政助理\"一名",
-        "timestamp": "1732092173",
-        "url": "mail_display.php?timestamp=1732092173",
-        "date": "2024/11/20 16:42",
-        "department": "會計與資訊管理國際學士班",
-        "author": {
-            "department": "會計與資訊管理國際學士班",
-            "name": "林逸潔",
-            "email": "jamielin0902@gms.ndhu.edu.tw",
-            "phone": "03-8903006"
-        },
-        "attachmentCount": 1
     }
 ]

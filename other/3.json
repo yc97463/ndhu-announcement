@@ -1,5 +1,19 @@
 [
     {
+        "title": "【訊息轉知】長榮大學開設4門磨課師(MOOCs)免費線上課程",
+        "timestamp": "1741224550",
+        "url": "mail_display.php?timestamp=1741224550",
+        "date": "2025/03/06 09:29",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【訊息轉知】國立政治大學開設5門磨課師(MOOCs)免費線上課程",
         "timestamp": "1741224335",
         "url": "mail_display.php?timestamp=1741224335",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "【徵才】靜宜大學114年3月18日辦理「2025校園徵才博覽會」",
-        "timestamp": "1740991502",
-        "url": "mail_display.php?timestamp=1740991502",
-        "date": "2025/03/03 16:45",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 2
     }
 ]
