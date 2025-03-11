@@ -1,5 +1,33 @@
 [
     {
+        "title": "【徵才訊息】國立東華大學國際事務處誠徵計畫專任助理2名",
+        "timestamp": "1741664431",
+        "url": "mail_display.php?timestamp=1741664431",
+        "date": "2025/03/11 11:40",
+        "department": "國際事務處",
+        "author": {
+            "department": "國際事務處",
+            "name": "劉力綺",
+            "email": "cheerio@gms.ndhu.edu.tw",
+            "phone": "5109"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【論文獎助】傳染病防治研究及教育中心114年度大專生及研究生傳染病防治研究優秀著作獎",
+        "timestamp": "1741664255",
+        "url": "mail_display.php?timestamp=1741664255",
+        "date": "2025/03/11 11:37",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【AI工具應用】影像創意革新：使用 Photoshop AI 生成技術展現你的影像風格 (第2次公告)",
         "timestamp": "1741661363",
         "url": "mail_display.php?timestamp=1741661363",
@@ -180,33 +208,5 @@
             "phone": "8906422"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "[轉知]ISAC協會主辦「同學！你Pay了嗎?」活動，歡迎同學踴躍使用行動支付申請校務行政類的文件(如在學證明、成績單等)有機會抽中iPad Air13或air pods3等大獎",
-        "timestamp": "1741585316",
-        "url": "mail_display.php?timestamp=1741585316",
-        "date": "2025/03/10 13:41",
-        "department": "圖書資訊處綜合業務組",
-        "author": {
-            "department": "圖書資訊處綜合業務組",
-            "name": "林循美",
-            "email": "cindy@gms.ndhu.edu.tw",
-            "phone": "8906774"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【徵才】臺東縣學生輔導諮商中心專業輔導人員(心理師、社工師)甄選(114年3月20日截止)",
-        "timestamp": "1741579711",
-        "url": "mail_display.php?timestamp=1741579711",
-        "date": "2025/03/10 12:08",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 6
     }
 ]
