@@ -1,5 +1,19 @@
 [
     {
+        "title": "公文系統訂於114年3月4日(二)晚上18~22時進行版本更新暫停服務公告",
+        "timestamp": "1741075239",
+        "url": "mail_display.php?timestamp=1741075239",
+        "date": "2025/03/04 16:00",
+        "department": "總務處文書組",
+        "author": {
+            "department": "總務處文書組",
+            "name": "張先生",
+            "email": "eric.chang@gms.ndhu.edu.tw",
+            "phone": "03-8906352"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【Corrected version】-【Student Dormitory】2025-2026 Academic Year Dormitory Individual Application(Waiting list)",
         "timestamp": "1741071728",
         "url": "mail_display.php?timestamp=1741071728",
@@ -186,20 +200,6 @@
         "timestamp": "1740699866",
         "url": "mail_display.php?timestamp=1740699866",
         "date": "2025/02/28 07:44",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "黃勇程",
-            "email": "victor0903@gms.ndhu.edu.tw",
-            "phone": "6225"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【役男訊息】中華電信「114年研發替代役人員遴選」簡章公告",
-        "timestamp": "1740699524",
-        "url": "mail_display.php?timestamp=1740699524",
-        "date": "2025/02/28 07:38",
         "department": "學務處生活輔導組",
         "author": {
             "department": "學務處生活輔導組",
