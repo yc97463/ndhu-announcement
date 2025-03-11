@@ -1,5 +1,19 @@
 [
     {
+        "title": "【通識】113-2學期通識課程活動補助申請",
+        "timestamp": "1736925497",
+        "url": "mail_display.php?timestamp=1736925497",
+        "date": "2025/01/15 15:18",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "李睿芬",
+            "email": "fen19@gms.ndhu.edu.tw",
+            "phone": "6602"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "貴重儀器中心FE-SEM操作訓練課程",
         "timestamp": "1736498601",
         "url": "mail_display.php?timestamp=1736498601",
@@ -194,19 +208,5 @@
             "phone": "03-8905203"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "113-2人社院在地社會實踐課程-「神人交流：花蓮廟宇暨神明傳說的探訪」選課說明會 （113.12.11中午12:10）",
-        "timestamp": "1733203626",
-        "url": "mail_display.php?timestamp=1733203626",
-        "date": "2024/12/03 13:27",
-        "department": "人文社會科學學院",
-        "author": {
-            "department": "人文社會科學學院",
-            "name": "姜妃澤",
-            "email": "ftc1029@gms.ndhu.edu.tw",
-            "phone": "03-8905203"
-        },
-        "attachmentCount": 2
     }
 ]
