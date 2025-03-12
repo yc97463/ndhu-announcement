@@ -1,5 +1,33 @@
 [
     {
+        "title": "2025AI歌神爭霸戰 歡迎來挑戰",
+        "timestamp": "1741596256",
+        "url": "mail_display.php?timestamp=1741596256",
+        "date": "2025/03/10 16:44",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "吳星穎",
+            "email": "carmier@gms.ndhu.edu.tw",
+            "phone": "8906252"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "113-2歷史學系歷史週系列講座(二)：棒球路上的每一顆球：周思齊的球場哲學",
+        "timestamp": "1741588338",
+        "url": "mail_display.php?timestamp=1741588338",
+        "date": "2025/03/10 14:32",
+        "department": "歷史學系",
+        "author": {
+            "department": "歷史學系",
+            "name": "吳助理",
+            "email": "suju1106@gms.ndhu.edu.tw",
+            "phone": "5323"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【訊息轉知】高雄醫學大學開設6門磨課師(MOOCs)免費線上課程",
         "timestamp": "1741587017",
         "url": "mail_display.php?timestamp=1741587017",
@@ -180,33 +208,5 @@
             "phone": "6855"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【獎助學金申請】陳忠陳葉蕊文教基金會114年度清寒學生獎學金 (限大一至大三，低或中低收、 父或母身心障礙 、家庭遭遇變故)",
-        "timestamp": "1741416345",
-        "url": "mail_display.php?timestamp=1741416345",
-        "date": "2025/03/08 14:45",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【獎助學金申請】澎湖縣113-2清寒優秀學生獎學金 (限澎湖縣籍)",
-        "timestamp": "1741413810",
-        "url": "mail_display.php?timestamp=1741413810",
-        "date": "2025/03/08 14:03",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]
