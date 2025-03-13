@@ -1,6 +1,20 @@
 [
     {
         "title": "【創業基礎班】2025創業基礎系列課程",
+        "timestamp": "1741521125",
+        "url": "mail_display.php?timestamp=1741521125",
+        "date": "2025/03/09 19:52",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "吳其璁",
+            "email": "dci93031@gms.ndhu.edu.tw",
+            "phone": "03-8903687"
+        },
+        "attachmentCount": 4
+    },
+    {
+        "title": "【創業基礎班】2025創業基礎系列課程",
         "timestamp": "1741521124",
         "url": "mail_display.php?timestamp=1741521124",
         "date": "2025/03/09 19:52",
@@ -194,19 +208,5 @@
             "phone": "8903733"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": " 【公告】聖約翰科技大學114年度傑出校友遴選辦法暨推薦表，請推薦該校畢(結)業之校友參加遴選。",
-        "timestamp": "1741341196",
-        "url": "mail_display.php?timestamp=1741341196",
-        "date": "2025/03/07 17:53",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "莊博凱",
-            "email": "jonhnny77@gms.ndhu.edu.tw",
-            "phone": "6057"
-        },
-        "attachmentCount": 3
     }
 ]
