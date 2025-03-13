@@ -1,5 +1,19 @@
 [
     {
+        "title": "【公告】第13屆「總統文化獎」徵件起跑至5月5日止。",
+        "timestamp": "1741742008",
+        "url": "mail_display.php?timestamp=1741742008",
+        "date": "2025/03/12 09:13",
+        "department": "秘書室公關宣傳組",
+        "author": {
+            "department": "秘書室公關宣傳組",
+            "name": "林佩瑤",
+            "email": "peiyao@gms.ndhu.edu.tw",
+            "phone": "6013"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "鋼琴大師班(嚴俊傑)",
         "timestamp": "1741737304",
         "url": "mail_display.php?timestamp=1741737304",
@@ -194,19 +208,5 @@
             "phone": "5109"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【論文獎助】傳染病防治研究及教育中心114年度大專生及研究生傳染病防治研究優秀著作獎",
-        "timestamp": "1741664255",
-        "url": "mail_display.php?timestamp=1741664255",
-        "date": "2025/03/11 11:37",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]
