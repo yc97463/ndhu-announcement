@@ -1,5 +1,19 @@
 [
     {
+        "title": "2025期初系員大",
+        "timestamp": "1741391705",
+        "url": "mail_display.php?timestamp=1741391705",
+        "date": "2025/03/08 07:55",
+        "department": "藝術學院 藝術與設計學系",
+        "author": {
+            "department": "藝術學院 藝術與設計學系",
+            "name": "陳紘崧",
+            "email": "keter426@gms.ndhu.edu.tw",
+            "phone": "038905123"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "2025期初系員大會-幹部",
         "timestamp": "1741391704",
         "url": "mail_display.php?timestamp=1741391704",
@@ -194,19 +208,5 @@
             "phone": "8906254"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【健康促進活動】3/29校園健走，師生一起健康GO!",
-        "timestamp": "1741239192",
-        "url": "mail_display.php?timestamp=1741239192",
-        "date": "2025/03/06 13:33",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "楊曉青",
-            "email": "cindy4434@gms.ndhu.edu.tw",
-            "phone": "8906254"
-        },
-        "attachmentCount": 1
     }
 ]

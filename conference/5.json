@@ -1,5 +1,19 @@
 [
     {
+        "title": "【★就是明天！吳念真導演演講_我只是一個說故事的人★】_台灣社會與政治發展課程講座",
+        "timestamp": "1733064238",
+        "url": "mail_display.php?timestamp=1733064238",
+        "date": "2024/12/01 22:43",
+        "department": "原住民民族學院",
+        "author": {
+            "department": "原住民民族學院",
+            "name": "曾同學",
+            "email": "611296004@gms.ndhu.edu.tw",
+            "phone": "0955204467"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【活動推推】移居與安居：刻板印象與身份汙名--婚姻移民的挑戰與應對",
         "timestamp": "1732849181",
         "url": "mail_display.php?timestamp=1732849181",
@@ -194,19 +208,5 @@
             "phone": "3157"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【台灣社會與政治發展講座 公告】",
-        "timestamp": "1732241718",
-        "url": "mail_display.php?timestamp=1732241718",
-        "date": "2024/11/22 10:15",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "曾同學",
-            "email": "611296004@gms.ndhu.edu.tw",
-            "phone": "0955204467"
-        },
-        "attachmentCount": 5
     }
 ]
