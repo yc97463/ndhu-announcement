@@ -1,5 +1,33 @@
 [
     {
+        "title": "【AI工具應用】影像創意革新：使用 Photoshop AI 生成技術展現你的影像風格 (第2次公告)",
+        "timestamp": "1741661363",
+        "url": "mail_display.php?timestamp=1741661363",
+        "date": "2025/03/11 10:49",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【藝創展廳】114/3/18~21「東華藝創系115級畢業製作《作東⦿東作》第三次評圖展覽",
+        "timestamp": "1741657316",
+        "url": "mail_display.php?timestamp=1741657316",
+        "date": "2025/03/11 09:41",
+        "department": "藝術創意產業學系",
+        "author": {
+            "department": "藝術創意產業學系",
+            "name": "謝明海",
+            "email": "ocean@gms.ndhu.edu.tw",
+            "phone": "890-5889"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【論文獎助】國立政治大學2025年羅家倫國際漢學講座研究獎助學金",
         "timestamp": "1741654840",
         "url": "mail_display.php?timestamp=1741654840",
@@ -180,33 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "🍡🍡113-2第二波免費起飛學習課程、活動開放報名囉!!",
-        "timestamp": "1741578758",
-        "url": "mail_display.php?timestamp=1741578758",
-        "date": "2025/03/10 11:52",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "鄭小姐",
-            "email": "ting@gms.ndhu.edu.tw",
-            "phone": "03-8906215"
-        },
-        "attachmentCount": 6
-    },
-    {
-        "title": "【徵才】臺中市就業服務處114年3月12日辦理「富市台中 就業成功」山線地區聯合徵才",
-        "timestamp": "1741576880",
-        "url": "mail_display.php?timestamp=1741576880",
-        "date": "2025/03/10 11:21",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 2
     }
 ]
