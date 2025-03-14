@@ -1,5 +1,33 @@
 [
     {
+        "title": "體育中心113-2學期「體適能檢測」時間公告",
+        "timestamp": "1741673411",
+        "url": "mail_display.php?timestamp=1741673411",
+        "date": "2025/03/11 14:10",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "莊璦綺",
+            "email": "ichi@gms.ndhu.edu.tw",
+            "phone": "6613"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【論文獎助】法務部司法官學院第12屆傑出碩博士犯罪防治研究論文獎勵",
+        "timestamp": "1741670500",
+        "url": "mail_display.php?timestamp=1741670500",
+        "date": "2025/03/11 13:21",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【徵才訊息】國立東華大學國際事務處誠徵計畫專任助理2名",
         "timestamp": "1741664431",
         "url": "mail_display.php?timestamp=1741664431",
@@ -178,34 +206,6 @@
             "name": "吳星穎",
             "email": "carmier@gms.ndhu.edu.tw",
             "phone": "8906252"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "113-2歷史學系歷史週系列講座(二)：棒球路上的每一顆球：周思齊的球場哲學",
-        "timestamp": "1741588338",
-        "url": "mail_display.php?timestamp=1741588338",
-        "date": "2025/03/10 14:32",
-        "department": "歷史學系",
-        "author": {
-            "department": "歷史學系",
-            "name": "吳助理",
-            "email": "suju1106@gms.ndhu.edu.tw",
-            "phone": "5323"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【訊息轉知】高雄醫學大學開設6門磨課師(MOOCs)免費線上課程",
-        "timestamp": "1741587017",
-        "url": "mail_display.php?timestamp=1741587017",
-        "date": "2025/03/10 14:10",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
         },
         "attachmentCount": 2
     }
