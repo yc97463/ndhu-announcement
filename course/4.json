@@ -1,5 +1,19 @@
 [
     {
+        "title": "【轉知】國立陽明交通大學辦理勞動部勞動力發展署桃竹苗分署114 年度產業人才投資方案「Python與資料視覺化應用班第01期」政府補助課程，相關報名資訊，請詳參課程簡章。",
+        "timestamp": "1737624318",
+        "url": "mail_display.php?timestamp=1737624318",
+        "date": "2025/01/23 17:25",
+        "department": "圖書資訊處綜合業務組",
+        "author": {
+            "department": "圖書資訊處綜合業務組",
+            "name": "陳玫榕",
+            "email": "jung315@gms.ndhu.edu.tw",
+            "phone": "6775"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【公告】臺灣大專院校人工智慧聯盟 113-2 開課通知",
         "timestamp": "1737619405",
         "url": "mail_display.php?timestamp=1737619405",
@@ -194,19 +208,5 @@
             "phone": "6122-6126"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【課務組通知】各學制學生113-2課程初選事宜  Preliminary Course Selection for Next Semester",
-        "timestamp": "1733363115",
-        "url": "mail_display.php?timestamp=1733363115",
-        "date": "2024/12/05 09:45",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "utd1003@gms.ndhu.edu.tw",
-            "phone": "6122-6126"
-        },
-        "attachmentCount": 1
     }
 ]
