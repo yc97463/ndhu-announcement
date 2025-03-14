@@ -1,5 +1,19 @@
 [
     {
+        "title": "擴大行政會議 會議紀錄公告通知",
+        "timestamp": "1741338442",
+        "url": "mail_display.php?timestamp=1741338442",
+        "date": "2025/03/07 17:07",
+        "department": "秘書室議事公文組",
+        "author": {
+            "department": "秘書室議事公文組",
+            "name": "陳婉婉",
+            "email": "secretariat@gms.ndhu.edu.tw",
+            "phone": "6004"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "114年度國防部專業預備軍官、預備士官說明會說明會",
         "timestamp": "1741326922",
         "url": "mail_display.php?timestamp=1741326922",
@@ -194,19 +208,5 @@
             "phone": "6232"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【重要通知】3月29日（週六）新生健檢補檢，停辦!!",
-        "timestamp": "1741071067",
-        "url": "mail_display.php?timestamp=1741071067",
-        "date": "2025/03/04 14:51",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 0
     }
 ]
