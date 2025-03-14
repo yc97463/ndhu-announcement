@@ -1,5 +1,33 @@
 [
     {
+        "title": "【圖書館公告】和平紀念日【114.02.28 (五)】休館一日！Library will be closed for Peace Memorial Day on February 28, 2025.",
+        "timestamp": "1740361523",
+        "url": "mail_display.php?timestamp=1740361523",
+        "date": "2025/02/24 09:45",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "詹依萍",
+            "email": "ipchan@gms.ndhu.edu.tw",
+            "phone": "6813"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "228和平紀念日垃圾車暫停清運公告Notice of Garbage Collection Suspension for the 228 Peace Memorial Day",
+        "timestamp": "1740356444",
+        "url": "mail_display.php?timestamp=1740356444",
+        "date": "2025/02/24 08:20",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "許智翔",
+            "email": "cocco3746@gms.ndhu.edu.tw",
+            "phone": "03-8906399"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "為進行學活園區機車停車場路燈維修公告(2/22)",
         "timestamp": "1740137037",
         "url": "mail_display.php?timestamp=1740137037",
@@ -180,33 +208,5 @@
             "phone": "(03)8906079"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【代轉學生會公告】國立東華大學學期16週調整意向調查 National Dong Hwa University Semester Adjustment Survey: 16-Week Semester",
-        "timestamp": "1739776967",
-        "url": "mail_display.php?timestamp=1739776967",
-        "date": "2025/02/17 15:22",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "姜紫淇",
-            "email": "yaya@gms.ndhu.edu.tw",
-            "phone": "03-8906235"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【公告】114年補助本校師生赴海外移地教學，即日起受理申請至4月7日截止。",
-        "timestamp": "1739772242",
-        "url": "mail_display.php?timestamp=1739772242",
-        "date": "2025/02/17 14:04",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 5
     }
 ]
