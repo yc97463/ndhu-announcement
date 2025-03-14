@@ -1,5 +1,19 @@
 [
     {
+        "title": "【學生兵役】「就讀大學校院役齡男子申請休學服役專案」應尊重就學役男意願",
+        "timestamp": "1741949428",
+        "url": "mail_display.php?timestamp=1741949428",
+        "date": "2025/03/14 18:50",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "6225"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【訊息轉知】國立臺北大學開設5門磨課師(MOOCs)線上課程",
         "timestamp": "1741943661",
         "url": "mail_display.php?timestamp=1741943661",
@@ -194,19 +208,5 @@
             "phone": "6523"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【課務組】 114年度暑期課程調查通知",
-        "timestamp": "1741930302",
-        "url": "mail_display.php?timestamp=1741930302",
-        "date": "2025/03/14 13:31",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "宋育縈",
-            "email": "suz@gms.ndhu.edu.tw",
-            "phone": "分機6126"
-        },
-        "attachmentCount": 4
     }
 ]

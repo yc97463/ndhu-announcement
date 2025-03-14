@@ -1,5 +1,19 @@
 [
     {
+        "title": "【課務組】 114年度暑期課程調查通知",
+        "timestamp": "1741930302",
+        "url": "mail_display.php?timestamp=1741930302",
+        "date": "2025/03/14 13:31",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "宋育縈",
+            "email": "suz@gms.ndhu.edu.tw",
+            "phone": "分機6126"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【徵才公告】國立東華大學資訊管理學系誠徵【行政助理】一名",
         "timestamp": "1741928465",
         "url": "mail_display.php?timestamp=1741928465",
@@ -194,19 +208,5 @@
             "phone": "5107"
         },
         "attachmentCount": 11
-    },
-    {
-        "title": "【通識】3/14(五)12：20性平影展活動 | 《女性日常》（Force of Habit）(追加名額10名)",
-        "timestamp": "1741855401",
-        "url": "mail_display.php?timestamp=1741855401",
-        "date": "2025/03/13 16:43",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "李睿芬",
-            "email": "fen19@gms.ndhu.edu.tw",
-            "phone": "6602"
-        },
-        "attachmentCount": 2
     }
 ]
