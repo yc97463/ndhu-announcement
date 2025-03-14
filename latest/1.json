@@ -1,5 +1,47 @@
 [
     {
+        "title": "【獎助學金申請】新北市113學年度就讀高級中等以上學校學生獎學金 (限新北市籍)",
+        "timestamp": "1741925561",
+        "url": "mail_display.php?timestamp=1741925561",
+        "date": "2025/03/14 12:12",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【獎助學金申請】華儒青年關懷基金會113-2獎學金 (限低或中低、身心障礙、家逢變故、軍公教遺眷或子女)",
+        "timestamp": "1741925256",
+        "url": "mail_display.php?timestamp=1741925256",
+        "date": "2025/03/14 12:07",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【獎助學金申請】漢儒文教基金會113-2獎學金 (限低或中低、身心障礙、家逢變故、軍公教遺眷或子女)",
+        "timestamp": "1741925022",
+        "url": "mail_display.php?timestamp=1741925022",
+        "date": "2025/03/14 12:03",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "113學年第2學期防制校園詐騙宣導",
         "timestamp": "1741922407",
         "url": "mail_display.php?timestamp=1741922407",
@@ -166,47 +208,5 @@
             "phone": "8906378"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "校外賃居住宿安全公告",
-        "timestamp": "1741846651",
-        "url": "mail_display.php?timestamp=1741846651",
-        "date": "2025/03/13 14:17",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳詩啓",
-            "email": "sam0831@gms.ndhu.edu.tw",
-            "phone": "6216"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【徵才】明志科技大學114年4月30日辦理「2025校園徵才博覽會」",
-        "timestamp": "1741842941",
-        "url": "mail_display.php?timestamp=1741842941",
-        "date": "2025/03/13 13:15",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "3/15(六)~3/16(日)人社一館Ｃ區外走廊地板磁磚施工公告",
-        "timestamp": "1741836658",
-        "url": "mail_display.php?timestamp=1741836658",
-        "date": "2025/03/13 11:30",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "黃章傑",
-            "email": "cotycafe@gms.ndhu.edu.tw",
-            "phone": "038905778"
-        },
-        "attachmentCount": 2
     }
 ]
