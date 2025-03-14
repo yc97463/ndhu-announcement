@@ -1,5 +1,19 @@
 [
     {
+        "title": "[停電]壽豐校區體育館 114年3月10日停電公告",
+        "timestamp": "1741519059",
+        "url": "mail_display.php?timestamp=1741519059",
+        "date": "2025/03/09 19:17",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉景富",
+            "email": "nickak@gms.ndhu.edu.tw",
+            "phone": "8906373"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "擴大行政會議 會議紀錄公告通知",
         "timestamp": "1741338442",
         "url": "mail_display.php?timestamp=1741338442",
@@ -194,19 +208,5 @@
             "phone": "6212"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【更正】-【學生宿舍】114學年度學生宿舍申請暨宿舍候補Ⅰ作業",
-        "timestamp": "1741071530",
-        "url": "mail_display.php?timestamp=1741071530",
-        "date": "2025/03/04 14:58",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳怡秀",
-            "email": "yishoue@gms.ndhu.edu.tw",
-            "phone": "6232"
-        },
-        "attachmentCount": 1
     }
 ]

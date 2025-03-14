@@ -1,5 +1,19 @@
 [
     {
+        "title": "東華電子報 | 2025年02月刊 |",
+        "timestamp": "1741054195",
+        "url": "mail_display.php?timestamp=1741054195",
+        "date": "2025/03/04 10:09",
+        "department": "秘書室公關宣傳組",
+        "author": {
+            "department": "秘書室公關宣傳組",
+            "name": "林佩瑤",
+            "email": "peiyao@gms.ndhu.edu.tw",
+            "phone": "6013"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【創業基礎班】2025創業基礎系列課程",
         "timestamp": "1741053190",
         "url": "mail_display.php?timestamp=1741053190",
@@ -194,19 +208,5 @@
             "phone": "03-8906226"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "🎉 畢業舞會籌辦調查問卷 🎉",
-        "timestamp": "1740616783",
-        "url": "mail_display.php?timestamp=1740616783",
-        "date": "2025/02/27 08:39",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "溫小姐",
-            "email": "fengting0804@gms.ndhu.edu.tw",
-            "phone": "6282"
-        },
-        "attachmentCount": 1
     }
 ]
