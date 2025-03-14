@@ -1,5 +1,19 @@
 [
     {
+        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
+        "timestamp": "1740375326",
+        "url": "mail_display.php?timestamp=1740375326",
+        "date": "2025/02/24 13:35",
+        "department": "圖書資訊處校務系統組",
+        "author": {
+            "department": "圖書資訊處校務系統組",
+            "name": "林志軒",
+            "email": "chshlin@gms.ndhu.edu.tw",
+            "phone": "6752"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "理工二館今(2/24)日上午8時35分部分區域無預警停電說明",
         "timestamp": "1740363030",
         "url": "mail_display.php?timestamp=1740363030",
@@ -194,19 +208,5 @@
             "phone": "03-890-5920"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "有關理工一館變電站預防性更換緊急電盤之電力切換設備",
-        "timestamp": "1739794238",
-        "url": "mail_display.php?timestamp=1739794238",
-        "date": "2025/02/17 20:10",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉景富",
-            "email": "nickak@gms.ndhu.edu.tw",
-            "phone": "8906373"
-        },
-        "attachmentCount": 0
     }
 ]
