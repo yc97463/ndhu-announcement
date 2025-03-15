@@ -1,5 +1,47 @@
 [
     {
+        "title": "鋼琴大師班(嚴俊傑)",
+        "timestamp": "1741737304",
+        "url": "mail_display.php?timestamp=1741737304",
+        "date": "2025/03/12 07:55",
+        "department": "藝術學院 音樂學系",
+        "author": {
+            "department": "藝術學院 音樂學系",
+            "name": "張純倩",
+            "email": "asd963741@gms.ndhu.edu.tw",
+            "phone": "038905168"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "拉丁擊樂講座(吳政君)",
+        "timestamp": "1741737303",
+        "url": "mail_display.php?timestamp=1741737303",
+        "date": "2025/03/12 07:55",
+        "department": "藝術學院 音樂學系",
+        "author": {
+            "department": "藝術學院 音樂學系",
+            "name": "張純倩",
+            "email": "asd963741@gms.ndhu.edu.tw",
+            "phone": "038905168"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "88鍵的奇想IX聯合鋼琴音樂會",
+        "timestamp": "1741737302",
+        "url": "mail_display.php?timestamp=1741737302",
+        "date": "2025/03/12 07:55",
+        "department": "藝術學院 音樂學系",
+        "author": {
+            "department": "藝術學院 音樂學系",
+            "name": "張純倩",
+            "email": "asd963741@gms.ndhu.edu.tw",
+            "phone": "038905168"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "「縱目歐亞-空間與人文的對話」課程系列講座_03/26（三）張蜀蕙副教授（東華中文系）_城池與營壘—兩宋時期邊城的經營與文人議邊策略",
         "timestamp": "1741737301",
         "url": "mail_display.php?timestamp=1741737301",
@@ -158,48 +200,6 @@
         "timestamp": "1741664255",
         "url": "mail_display.php?timestamp=1741664255",
         "date": "2025/03/11 11:37",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【AI工具應用】影像創意革新：使用 Photoshop AI 生成技術展現你的影像風格 (第2次公告)",
-        "timestamp": "1741661363",
-        "url": "mail_display.php?timestamp=1741661363",
-        "date": "2025/03/11 10:49",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【藝創展廳】114/3/18~21「東華藝創系115級畢業製作《作東⦿東作》第三次評圖展覽",
-        "timestamp": "1741657316",
-        "url": "mail_display.php?timestamp=1741657316",
-        "date": "2025/03/11 09:41",
-        "department": "藝術創意產業學系",
-        "author": {
-            "department": "藝術創意產業學系",
-            "name": "謝明海",
-            "email": "ocean@gms.ndhu.edu.tw",
-            "phone": "890-5889"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【論文獎助】國立政治大學2025年羅家倫國際漢學講座研究獎助學金",
-        "timestamp": "1741654840",
-        "url": "mail_display.php?timestamp=1741654840",
-        "date": "2025/03/11 09:00",
         "department": "學務處",
         "author": {
             "department": "學務處",
