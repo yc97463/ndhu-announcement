@@ -1,5 +1,19 @@
 [
     {
+        "title": "【活動資訊】2025搭公車拿獎金 搭乘公車到東華，安全又方便請踴躍參加。【Activity information】Win bonus by taking a shuttle.Take a shuttle is the most Convenient and Safest way to NDHU.",
+        "timestamp": "1742003071",
+        "url": "mail_display.php?timestamp=1742003071",
+        "date": "2025/03/15 09:44",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "林嘉瑩",
+            "email": "tea7101@gms.ndhu.edu.tw",
+            "phone": "03-8906226"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "【資工系專題講座】114/03/21(五) 南台科技大學 黃能富校長",
         "timestamp": "1741996502",
         "url": "mail_display.php?timestamp=1741996502",
@@ -194,19 +208,5 @@
             "phone": "6632"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【公告】第13屆「總統文化獎」徵件起跑至5月5日止。",
-        "timestamp": "1741742008",
-        "url": "mail_display.php?timestamp=1741742008",
-        "date": "2025/03/12 09:13",
-        "department": "秘書室公關宣傳組",
-        "author": {
-            "department": "秘書室公關宣傳組",
-            "name": "林佩瑤",
-            "email": "peiyao@gms.ndhu.edu.tw",
-            "phone": "6013"
-        },
-        "attachmentCount": 3
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "【公告】第13屆「總統文化獎」徵件起跑至5月5日止。",
+        "timestamp": "1741742008",
+        "url": "mail_display.php?timestamp=1741742008",
+        "date": "2025/03/12 09:13",
+        "department": "秘書室公關宣傳組",
+        "author": {
+            "department": "秘書室公關宣傳組",
+            "name": "林佩瑤",
+            "email": "peiyao@gms.ndhu.edu.tw",
+            "phone": "6013"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "鋼琴大師班(嚴俊傑)",
         "timestamp": "1741737304",
         "url": "mail_display.php?timestamp=1741737304",
@@ -194,19 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【報名延長公告】花蓮縣中南區國小英語營夥伴招募公告Hualien Central-Southern Region Children’s English Camp Local and Foreign Camp Team Members Recruitment ",
-        "timestamp": "1741596376",
-        "url": "mail_display.php?timestamp=1741596376",
-        "date": "2025/03/10 16:46",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "林瑜珊",
-            "email": "lc@gms.ndhu.edu.tw",
-            "phone": "03-895492"
-        },
-        "attachmentCount": 2
     }
 ]
