@@ -1,5 +1,19 @@
 [
     {
+        "title": "📣請注意~租屋詐騙",
+        "timestamp": "1742102911",
+        "url": "mail_display.php?timestamp=1742102911",
+        "date": "2025/03/16 13:28",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳詩啓",
+            "email": "sam0831@gms.ndhu.edu.tw",
+            "phone": "6216"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【開幕敬邀】三月東華，春季綻放，「2025縱目東台灣—人文史地聯合書展」四系聯合書展來了！",
         "timestamp": "1742092261",
         "url": "mail_display.php?timestamp=1742092261",
@@ -194,19 +208,5 @@
             "phone": "8903733"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【轉知】逢甲大學辦理「創新時代的教育：2025創新教育與教學實踐研究論壇」並進行論文徵稿",
-        "timestamp": "1741935517",
-        "url": "mail_display.php?timestamp=1741935517",
-        "date": "2025/03/14 14:58",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "李貞穎",
-            "email": "jeannie@gms.ndhu.edu.tw",
-            "phone": "8906587"
-        },
-        "attachmentCount": 0
     }
 ]
