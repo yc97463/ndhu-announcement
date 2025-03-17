@@ -1,5 +1,19 @@
 [
     {
+        "title": "【訊息轉知】輔仁大學開設「生命電影院─電影中的疾病與人生」磨課師(MOOCs)線上課程",
+        "timestamp": "1741943578",
+        "url": "mail_display.php?timestamp=1741943578",
+        "date": "2025/03/14 17:12",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【公告】國立東華大學113學年度第二學期師資培育公費生（乙案）甄選簡章",
         "timestamp": "1741943210",
         "url": "mail_display.php?timestamp=1741943210",
@@ -194,19 +208,5 @@
             "phone": "8903103"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【獎助學金申請】新北市113學年度就讀高級中等以上學校學生獎學金 (限新北市籍)",
-        "timestamp": "1741925561",
-        "url": "mail_display.php?timestamp=1741925561",
-        "date": "2025/03/14 12:12",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]
