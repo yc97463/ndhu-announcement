@@ -1,5 +1,19 @@
 [
     {
+        "title": "中國語文學系【中國文學講座】03/25‧林建德教授演講",
+        "timestamp": "1742169305",
+        "url": "mail_display.php?timestamp=1742169305",
+        "date": "2025/03/17 07:55",
+        "department": "人文社會科學學院 中國語文學系",
+        "author": {
+            "department": "人文社會科學學院 中國語文學系",
+            "name": "駱星羽",
+            "email": "syluo@gms.ndhu.edu.tw",
+            "phone": "5673"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "中國語文學系【中國文學講座】03/20‧余風教授演講",
         "timestamp": "1742169304",
         "url": "mail_display.php?timestamp=1742169304",
@@ -194,19 +208,5 @@
             "phone": "6648"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "114年度校區內客貨電梯進行月保養排程通告(三月保養)",
-        "timestamp": "1741943034",
-        "url": "mail_display.php?timestamp=1741943034",
-        "date": "2025/03/14 17:03",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
     }
 ]
