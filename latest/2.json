@@ -1,5 +1,47 @@
 [
     {
+        "title": "📣【職涯講座】文化照顧與實踐",
+        "timestamp": "1742169340",
+        "url": "mail_display.php?timestamp=1742169340",
+        "date": "2025/03/17 07:55",
+        "department": "學務處 原住民族學生資源中心",
+        "author": {
+            "department": "學務處 原住民族學生資源中心",
+            "name": "林詠靖",
+            "email": "tipus@gms.ndhu.edu.tw",
+            "phone": "5707"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "政治學導論專題演講",
+        "timestamp": "1742169339",
+        "url": "mail_display.php?timestamp=1742169339",
+        "date": "2025/03/17 07:55",
+        "department": "洄瀾學院 縱谷跨域書院學士學位學程",
+        "author": {
+            "department": "洄瀾學院 縱谷跨域書院學士學位學程",
+            "name": "蔡怡臻",
+            "email": "eng720@gms.ndhu.edu.tw",
+            "phone": "6023"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "政治學導論專題演講",
+        "timestamp": "1742169338",
+        "url": "mail_display.php?timestamp=1742169338",
+        "date": "2025/03/17 07:55",
+        "department": "洄瀾學院 縱谷跨域書院學士學位學程",
+        "author": {
+            "department": "洄瀾學院 縱谷跨域書院學士學位學程",
+            "name": "蔡怡臻",
+            "email": "eng720@gms.ndhu.edu.tw",
+            "phone": "6023"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【發社系-民族講座】社會企業的經驗與反思：從陽光基金會的經驗談起",
         "timestamp": "1742169337",
         "url": "mail_display.php?timestamp=1742169337",
@@ -164,48 +206,6 @@
             "name": "蔡怡臻",
             "email": "",
             "phone": "03-8906023"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "「期貨業未來發展與就機會校園巡迴講座」－講者：元富期貨 李勁霖協理",
-        "timestamp": "1742169325",
-        "url": "mail_display.php?timestamp=1742169325",
-        "date": "2025/03/17 07:55",
-        "department": "管理學院 財務金融學系",
-        "author": {
-            "department": "管理學院 財務金融學系",
-            "name": "呂羅晟峰",
-            "email": "luluo@gms.ndhu.edu.tw",
-            "phone": "8903132"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【113-2師培研習】「花東地區生態環境教育推廣」野望國際自然影展--東華大學場",
-        "timestamp": "1742169324",
-        "url": "mail_display.php?timestamp=1742169324",
-        "date": "2025/03/17 07:55",
-        "department": "師資培育中心 中等學程組",
-        "author": {
-            "department": "師資培育中心 中等學程組",
-            "name": "劉姵君",
-            "email": "amyliou@gms.ndhu.edu.tw",
-            "phone": "6632"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "國立東華大學中國語文學系2025暑期實習說明會",
-        "timestamp": "1742169323",
-        "url": "mail_display.php?timestamp=1742169323",
-        "date": "2025/03/17 07:55",
-        "department": "人文社會科學學院 中國語文學系",
-        "author": {
-            "department": "人文社會科學學院 中國語文學系",
-            "name": "駱星羽",
-            "email": "syluo@gms.ndhu.edu.tw",
-            "phone": "5673"
         },
         "attachmentCount": 0
     }
