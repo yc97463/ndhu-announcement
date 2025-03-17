@@ -1,5 +1,19 @@
 [
     {
+        "title": "113-2校核心通識課程異動(增開及停開課程)公告",
+        "timestamp": "1739518668",
+        "url": "mail_display.php?timestamp=1739518668",
+        "date": "2025/02/14 15:37",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "8906607"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "113-2人社院基礎課程「縱目歐亞—空間與人文的對話」系列講座",
         "timestamp": "1739518646",
         "url": "mail_display.php?timestamp=1739518646",
@@ -194,19 +208,5 @@
             "phone": "6607"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【教務處課務組】各學制新生(含轉學生、復學生)113-2網路選課  Freshmen Online Preliminary Course Selection",
-        "timestamp": "1738630361",
-        "url": "mail_display.php?timestamp=1738630361",
-        "date": "2025/02/04 08:52",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "utd1003@gms.ndhu.edu.tw",
-            "phone": "6122-6126"
-        },
-        "attachmentCount": 0
     }
 ]
