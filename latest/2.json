@@ -1,5 +1,19 @@
 [
     {
+        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
+        "timestamp": "1742266914",
+        "url": "mail_display.php?timestamp=1742266914",
+        "date": "2025/03/18 11:01",
+        "department": "圖書資訊處校務系統組",
+        "author": {
+            "department": "圖書資訊處校務系統組",
+            "name": "林志軒",
+            "email": "chshlin@gms.ndhu.edu.tw",
+            "phone": "6752"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才】臺北市政府衛生局約聘僱人員職缺甄選(心理師、訪視員等) (114年3月24日截止)",
         "timestamp": "1742265360",
         "url": "mail_display.php?timestamp=1742265360",
@@ -194,19 +208,5 @@
             "phone": "03-8906235"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【人才急徵!!!】113-2學期數位大學伴招募~急徵!!!",
-        "timestamp": "1742190794",
-        "url": "mail_display.php?timestamp=1742190794",
-        "date": "2025/03/17 13:53",
-        "department": "花師教育學院",
-        "author": {
-            "department": "花師教育學院",
-            "name": "李宛玲",
-            "email": "etutor_c226@gms.ndhu.edu.tw",
-            "phone": "890-3816"
-        },
-        "attachmentCount": 1
     }
 ]
