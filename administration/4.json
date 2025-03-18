@@ -1,5 +1,47 @@
 [
     {
+        "title": "【重要通知】3月29日（週六）新生健檢補檢，停辦!!",
+        "timestamp": "1741071067",
+        "url": "mail_display.php?timestamp=1741071067",
+        "date": "2025/03/04 14:51",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【學生宿舍】114學年度學生宿舍申請暨宿舍候補Ⅰ作業",
+        "timestamp": "1741067657",
+        "url": "mail_display.php?timestamp=1741067657",
+        "date": "2025/03/04 13:54",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳怡秀",
+            "email": "yishoue@gms.ndhu.edu.tw",
+            "phone": "6212"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【Student Dormitory】2025-2026 Academic Year Dormitory Individual Application(Waiting list)",
+        "timestamp": "1741067498",
+        "url": "mail_display.php?timestamp=1741067498",
+        "date": "2025/03/04 13:51",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳怡秀",
+            "email": "yishoue@gms.ndhu.edu.tw",
+            "phone": "6212"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【學生宿舍】114學年度學生宿舍申請暨宿舍候補Ⅰ作業",
         "timestamp": "1741067367",
         "url": "mail_display.php?timestamp=1741067367",
@@ -164,48 +206,6 @@
             "name": "莊博凱",
             "email": "jonhnny77@gms.ndhu.edu.tw",
             "phone": "6057"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "114學年國小教育學程甄選說明會",
-        "timestamp": "1740622702",
-        "url": "mail_display.php?timestamp=1740622702",
-        "date": "2025/02/27 10:18",
-        "department": "師資培育中心",
-        "author": {
-            "department": "師資培育中心",
-            "name": "陳淑貞",
-            "email": "sjchen@gms.ndhu.edu.tw",
-            "phone": "(03)8906636"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "【轉知公告】為完善聽覺、語言功能障礙者資訊近用權益，請依說明參採衛生福利部有關宣導事項辦理",
-        "timestamp": "1740622201",
-        "url": "mail_display.php?timestamp=1740622201",
-        "date": "2025/02/27 10:10",
-        "department": "心理諮商輔導中心資源開發組",
-        "author": {
-            "department": "心理諮商輔導中心資源開發組",
-            "name": "王祥瑋",
-            "email": "nineveh@gms.ndhu.edu.tw",
-            "phone": "038906266"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "2/28/(五)~3/2(日)行政大樓一樓左右兩側防墜安全網施工公告",
-        "timestamp": "1740556709",
-        "url": "mail_display.php?timestamp=1740556709",
-        "date": "2025/02/26 15:58",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "黃章傑",
-            "email": "cotycafe@gms.ndhu.edu.tw",
-            "phone": "038905778"
         },
         "attachmentCount": 1
     }

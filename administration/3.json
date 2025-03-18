@@ -1,5 +1,47 @@
 [
     {
+        "title": "擴大行政會議 會議紀錄公告通知",
+        "timestamp": "1741338442",
+        "url": "mail_display.php?timestamp=1741338442",
+        "date": "2025/03/07 17:07",
+        "department": "秘書室議事公文組",
+        "author": {
+            "department": "秘書室議事公文組",
+            "name": "陳婉婉",
+            "email": "secretariat@gms.ndhu.edu.tw",
+            "phone": "6004"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "114年度國防部專業預備軍官、預備士官說明會說明會",
+        "timestamp": "1741326922",
+        "url": "mail_display.php?timestamp=1741326922",
+        "date": "2025/03/07 13:55",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "6225"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "114年度國防部專業預備軍官、預備士官說明會說明會",
+        "timestamp": "1741326686",
+        "url": "mail_display.php?timestamp=1741326686",
+        "date": "2025/03/07 13:51",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "6225"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "為宣導現職軍公教人員不得赴陸設籍、領用中國大陸護照、申領陸方身分證、定居證及居住證，請本校公務人員、教師、技工、工友、駕駛、駐衛警及校務基金之契約人員等同仁填寫具結書1份，並於114年3月14日送交人事室。",
         "timestamp": "1741319671",
         "url": "mail_display.php?timestamp=1741319671",
@@ -166,47 +208,5 @@
             "phone": "6232"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【重要通知】3月29日（週六）新生健檢補檢，停辦!!",
-        "timestamp": "1741071067",
-        "url": "mail_display.php?timestamp=1741071067",
-        "date": "2025/03/04 14:51",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【學生宿舍】114學年度學生宿舍申請暨宿舍候補Ⅰ作業",
-        "timestamp": "1741067657",
-        "url": "mail_display.php?timestamp=1741067657",
-        "date": "2025/03/04 13:54",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳怡秀",
-            "email": "yishoue@gms.ndhu.edu.tw",
-            "phone": "6212"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【Student Dormitory】2025-2026 Academic Year Dormitory Individual Application(Waiting list)",
-        "timestamp": "1741067498",
-        "url": "mail_display.php?timestamp=1741067498",
-        "date": "2025/03/04 13:51",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳怡秀",
-            "email": "yishoue@gms.ndhu.edu.tw",
-            "phone": "6212"
-        },
-        "attachmentCount": 4
     }
 ]
