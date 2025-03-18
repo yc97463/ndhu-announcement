@@ -1,5 +1,19 @@
 [
     {
+        "title": "📣【職涯講座】文化照顧與實踐",
+        "timestamp": "1742169340",
+        "url": "mail_display.php?timestamp=1742169340",
+        "date": "2025/03/17 07:55",
+        "department": "學務處 原住民族學生資源中心",
+        "author": {
+            "department": "學務處 原住民族學生資源中心",
+            "name": "林詠靖",
+            "email": "tipus@gms.ndhu.edu.tw",
+            "phone": "5707"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "政治學導論專題演講",
         "timestamp": "1742169339",
         "url": "mail_display.php?timestamp=1742169339",
@@ -192,20 +206,6 @@
             "name": "蔡怡臻",
             "email": "",
             "phone": "03-8906023"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "「期貨業未來發展與就機會校園巡迴講座」－講者：元富期貨 李勁霖協理",
-        "timestamp": "1742169325",
-        "url": "mail_display.php?timestamp=1742169325",
-        "date": "2025/03/17 07:55",
-        "department": "管理學院 財務金融學系",
-        "author": {
-            "department": "管理學院 財務金融學系",
-            "name": "呂羅晟峰",
-            "email": "luluo@gms.ndhu.edu.tw",
-            "phone": "8903132"
         },
         "attachmentCount": 0
     }
