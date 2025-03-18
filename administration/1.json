@@ -1,5 +1,19 @@
 [
     {
+        "title": "【教務處通知】113-2學期「期中教學意見回饋」系統自3月31日(一)起開放學生填寫",
+        "timestamp": "1742284270",
+        "url": "mail_display.php?timestamp=1742284270",
+        "date": "2025/03/18 15:51",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "《第十三班新航之舟-領航員招募》",
         "timestamp": "1742282942",
         "url": "mail_display.php?timestamp=1742282942",
@@ -194,19 +208,5 @@
             "phone": "038906228"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "教育部自本（114）年4 月至12 月辦理2 次電子郵件社交工程演練",
-        "timestamp": "1741914365",
-        "url": "mail_display.php?timestamp=1741914365",
-        "date": "2025/03/14 09:06",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "葉宏達",
-            "email": "honda@gms.ndhu.edu.tw",
-            "phone": "8906747"
-        },
-        "attachmentCount": 0
     }
 ]
