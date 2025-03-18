@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵聘公告】國立東華大學管理學院數位行銷與服務創新國際學士班徵聘專任(案)教師二名",
+        "timestamp": "1742287519",
+        "url": "mail_display.php?timestamp=1742287519",
+        "date": "2025/03/18 16:45",
+        "department": "數位行銷與服務創新國際學士班",
+        "author": {
+            "department": "數位行銷與服務創新國際學士班",
+            "name": "郭娜",
+            "email": "inagn@gms.ndhu.edu.tw",
+            "phone": "3007"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "全民國防訊息】114年下半年役男申請服一般替代役甄選作業訊息公告",
         "timestamp": "1742282664",
         "url": "mail_display.php?timestamp=1742282664",
@@ -194,19 +208,5 @@
             "phone": "6225"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【徵才公告】國立東華大學總務處出納組校務基金短(定)期助理一名",
-        "timestamp": "1740661004",
-        "url": "mail_display.php?timestamp=1740661004",
-        "date": "2025/02/27 20:56",
-        "department": "總務處",
-        "author": {
-            "department": "總務處",
-            "name": "姜雅敏",
-            "email": "yummy@gms.ndhu.edu.tw",
-            "phone": "6306"
-        },
-        "attachmentCount": 0
     }
 ]

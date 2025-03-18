@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才公告】國立東華大學總務處出納組校務基金短(定)期助理一名",
+        "timestamp": "1740661004",
+        "url": "mail_display.php?timestamp=1740661004",
+        "date": "2025/02/27 20:56",
+        "department": "總務處",
+        "author": {
+            "department": "總務處",
+            "name": "姜雅敏",
+            "email": "yummy@gms.ndhu.edu.tw",
+            "phone": "6306"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才訊息】國立東華大學東台灣農藥殘留與毒物檢驗中心誠徵技術師一名",
         "timestamp": "1740645921",
         "url": "mail_display.php?timestamp=1740645921",
@@ -194,19 +208,5 @@
             "phone": "890-3816"
         },
         "attachmentCount": 8
-    },
-    {
-        "title": "【人才招募】113-2學期數位大學伴招募",
-        "timestamp": "1739607858",
-        "url": "mail_display.php?timestamp=1739607858",
-        "date": "2025/02/15 16:24",
-        "department": "花師教育學院",
-        "author": {
-            "department": "花師教育學院",
-            "name": "東華學伴中心",
-            "email": "etutor_c226@gms.ndhu.edu.tw",
-            "phone": "3816"
-        },
-        "attachmentCount": 7
     }
 ]
