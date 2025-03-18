@@ -1,5 +1,19 @@
 [
     {
+        "title": "【代轉學生會公告】東華學生會春季招募",
+        "timestamp": "1740986218",
+        "url": "mail_display.php?timestamp=1740986218",
+        "date": "2025/03/03 15:16",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "姜紫淇",
+            "email": "yaya@gms.ndhu.edu.tw",
+            "phone": "03-8906235"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【重要】本校編制內教職員工請於114年3月21日(星期五)，完成「線上」申請113學年度第2學期子女教育補助費，檢附【子女教育補助操作手冊】1份。",
         "timestamp": "1740985492",
         "url": "mail_display.php?timestamp=1740985492",
@@ -194,19 +208,5 @@
             "phone": "6060"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【113-2友善校園週宣導】我和你最好的距離-尊重不越界",
-        "timestamp": "1740473167",
-        "url": "mail_display.php?timestamp=1740473167",
-        "date": "2025/02/25 16:46",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "王玉君",
-            "email": "hu.jean0503@gms.ndhu.edu.tw",
-            "phone": "8906220"
-        },
-        "attachmentCount": 1
     }
 ]
