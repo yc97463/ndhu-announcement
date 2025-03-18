@@ -1,5 +1,19 @@
 [
     {
+        "title": "中國語文學系【民間文學講座】04/01‧柯榮三教授演講",
+        "timestamp": "1742169306",
+        "url": "mail_display.php?timestamp=1742169306",
+        "date": "2025/03/17 07:55",
+        "department": "人文社會科學學院 中國語文學系",
+        "author": {
+            "department": "人文社會科學學院 中國語文學系",
+            "name": "駱星羽",
+            "email": "syluo@gms.ndhu.edu.tw",
+            "phone": "5673"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "中國語文學系【中國文學講座】03/25‧林建德教授演講",
         "timestamp": "1742169305",
         "url": "mail_display.php?timestamp=1742169305",
@@ -194,19 +208,5 @@
             "phone": "8906422"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【公告】國立東華大學113學年度第二學期師資培育公費生（乙案）甄選簡章",
-        "timestamp": "1741943210",
-        "url": "mail_display.php?timestamp=1741943210",
-        "date": "2025/03/14 17:06",
-        "department": "師資培育中心",
-        "author": {
-            "department": "師資培育中心",
-            "name": "洪偉毓",
-            "email": "bigfishhwh@gms.ndhu.edu.tw",
-            "phone": "6648"
-        },
-        "attachmentCount": 3
     }
 ]

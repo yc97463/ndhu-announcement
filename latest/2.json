@@ -1,5 +1,19 @@
 [
     {
+        "title": "【課務組通知】授課教師可列印113-2學期選課確認名單",
+        "timestamp": "1742181445",
+        "url": "mail_display.php?timestamp=1742181445",
+        "date": "2025/03/17 11:17",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113-2「Dongto東兔系列活動-嗨心桌遊同樂會」吃喝玩樂一次滿足，趕快來報名!!",
         "timestamp": "1742177072",
         "url": "mail_display.php?timestamp=1742177072",
@@ -192,20 +206,6 @@
             "name": "郭雅婷",
             "email": "lingya@gms.ndhu.edu.tw",
             "phone": "03-8905708 鐘助理"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "📢⪦2025東華春藝季 《舌燦蓮花》 漢霖民俗說唱藝術",
-        "timestamp": "1742169336",
-        "url": "mail_display.php?timestamp=1742169336",
-        "date": "2025/03/17 07:55",
-        "department": "洄瀾學院 藝文中心",
-        "author": {
-            "department": "洄瀾學院 藝文中心",
-            "name": "周葦綸",
-            "email": "valen0810@gms.ndhu.edu.tw",
-            "phone": "6606"
         },
         "attachmentCount": 0
     }
