@@ -1,5 +1,19 @@
 [
     {
+        "title": "管理學院2號電梯(左)故障停用。",
+        "timestamp": "1742392423",
+        "url": "mail_display.php?timestamp=1742392423",
+        "date": "2025/03/19 21:53",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "檢送修正後「客家委員會補助全國公務人員、教育人員及軍警人員參加114年度客語能力認證報名費實施計畫」1份",
         "timestamp": "1742378931",
         "url": "mail_display.php?timestamp=1742378931",
@@ -194,19 +208,5 @@
             "phone": "03-8906219"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "自資系專題演講-森人-太魯閣藝術計畫 Taroko Arts Residency Project",
-        "timestamp": "1742342112",
-        "url": "mail_display.php?timestamp=1742342112",
-        "date": "2025/03/19 07:55",
-        "department": "環境暨海洋學院 自然資源與環境學系",
-        "author": {
-            "department": "環境暨海洋學院 自然資源與環境學系",
-            "name": "夏懿心",
-            "email": "heart630@gms.ndhu.edu.tw",
-            "phone": "8903277"
-        },
-        "attachmentCount": 0
     }
 ]
