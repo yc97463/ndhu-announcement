@@ -1,5 +1,19 @@
 [
     {
+        "title": "114年度校區內客貨電梯進行月保養排程通告(三月保養)",
+        "timestamp": "1741943034",
+        "url": "mail_display.php?timestamp=1741943034",
+        "date": "2025/03/14 17:03",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【公告】資安時數提醒",
         "timestamp": "1741939457",
         "url": "mail_display.php?timestamp=1741939457",
@@ -194,19 +208,5 @@
             "phone": "6057"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "113學年第2學期友善校園週宣導重點-校園霸凌",
-        "timestamp": "1741565858",
-        "url": "mail_display.php?timestamp=1741565858",
-        "date": "2025/03/10 08:17",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "郭詩妘",
-            "email": "kikiguo@gms.ndhu.edu.tw",
-            "phone": "03-8906227"
-        },
-        "attachmentCount": 2
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "【Corrected version】-【Student Dormitory】2025-2026 Academic Year Dormitory Individual Application(Waiting list)",
+        "timestamp": "1741071728",
+        "url": "mail_display.php?timestamp=1741071728",
+        "date": "2025/03/04 15:02",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳怡秀",
+            "email": "yishoue@gms.ndhu.edu.tw",
+            "phone": "6212"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【更正】-【學生宿舍】114學年度學生宿舍申請暨宿舍候補Ⅰ作業",
         "timestamp": "1741071530",
         "url": "mail_display.php?timestamp=1741071530",
@@ -194,19 +208,5 @@
             "phone": "6225"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "[公告] 請有意願參與衛生福利部「第29屆身心障礙楷模金鷹獎」選拔者，於114年3月24日(星期一)前，依「中華民國第29屆身心障礙楷模『金鷹獎』選拔要點」檢附相關文件，送人事室彙辦。",
-        "timestamp": "1740651920",
-        "url": "mail_display.php?timestamp=1740651920",
-        "date": "2025/02/27 18:25",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "莊博凱",
-            "email": "jonhnny77@gms.ndhu.edu.tw",
-            "phone": "6057"
-        },
-        "attachmentCount": 2
     }
 ]
