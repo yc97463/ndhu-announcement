@@ -1,5 +1,19 @@
 [
     {
+        "title": "[鴻海講座]就在星期四(12/12)，陳美伶董事長蒞校分享台灣的地方創生",
+        "timestamp": "1733712507",
+        "url": "mail_display.php?timestamp=1733712507",
+        "date": "2024/12/09 10:48",
+        "department": "朱副校長室",
+        "author": {
+            "department": "朱副校長室",
+            "name": "謝育筌 先生",
+            "email": "ycshie@gms.ndhu.edu.tw",
+            "phone": "(03)890-6032"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "金典講座「找到你的天命，讓罪變成幸運 ──隱匿談《幸運的罪》」x楊牧書房結盟文學館家族儀式",
         "timestamp": "1733410654",
         "url": "mail_display.php?timestamp=1733410654",
@@ -194,19 +208,5 @@
             "phone": "03-8905277"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【演講訊息】12/06(五)14:10-16:00 Using Artificial Intelligence to Better Understand the Brain and Behavior",
-        "timestamp": "1733111146",
-        "url": "mail_display.php?timestamp=1733111146",
-        "date": "2024/12/02 11:45",
-        "department": "花師教育學院",
-        "author": {
-            "department": "花師教育學院",
-            "name": "許趙瑩臻",
-            "email": "hsuchao@gms.ndhu.edu.tw",
-            "phone": "3803"
-        },
-        "attachmentCount": 1
     }
 ]
