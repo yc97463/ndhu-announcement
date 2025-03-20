@@ -1,5 +1,19 @@
 [
     {
+        "title": "【花師教育學院 特殊教育學系】特教講座：在東華的日子，更認識自己",
+        "timestamp": "1742342104",
+        "url": "mail_display.php?timestamp=1742342104",
+        "date": "2025/03/19 07:55",
+        "department": "花師教育學院 特殊教育學系",
+        "author": {
+            "department": "花師教育學院 特殊教育學系",
+            "name": "宋玟諭",
+            "email": "411286027@gms.ndhu.edu.tw（蔡同學）",
+            "phone": "（03）890-3250"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "💥打造優質互動的職場溝通術",
         "timestamp": "1742342103",
         "url": "mail_display.php?timestamp=1742342103",
@@ -194,19 +208,5 @@
             "phone": "6225"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "人社一館Ｃ區外走廊地板磁磚施工公告",
-        "timestamp": "1742280825",
-        "url": "mail_display.php?timestamp=1742280825",
-        "date": "2025/03/18 14:53",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "黃章傑",
-            "email": "cotycafe@gms.ndhu.edu.tw",
-            "phone": "038905778"
-        },
-        "attachmentCount": 1
     }
 ]
