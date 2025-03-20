@@ -1,5 +1,33 @@
 [
     {
+        "title": "歡迎參加114學年國小教育學程甄選說明會（就在今天喔！）",
+        "timestamp": "1741176241",
+        "url": "mail_display.php?timestamp=1741176241",
+        "date": "2025/03/05 20:04",
+        "department": "師資培育中心",
+        "author": {
+            "department": "師資培育中心",
+            "name": "陳淑貞",
+            "email": "sjchen@gms.ndhu.edu.tw",
+            "phone": "6636"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【推廣教育填報通知】113學年第1學期課程資料填報作業暨系統改版(二次通知)",
+        "timestamp": "1741139361",
+        "url": "mail_display.php?timestamp=1741139361",
+        "date": "2025/03/05 09:49",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "洪乃慈",
+            "email": "naitzu@gms.ndhu.edu.tw",
+            "phone": "6523"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "公文系統訂於114年3月4日(二)晚上18~22時進行版本更新暫停服務公告",
         "timestamp": "1741075239",
         "url": "mail_display.php?timestamp=1741075239",
@@ -180,33 +208,5 @@
             "phone": "8906774"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【電腦教室公告】114年3月8-9日因舉辦臺灣台語語言能力檢定考試，「例行性開放電腦教室」暫停開放，立式列印區持續提供使用 The computer lab one will be closed on March 8-9, 2025.",
-        "timestamp": "1740974325",
-        "url": "mail_display.php?timestamp=1740974325",
-        "date": "2025/03/03 11:58",
-        "department": "圖書資訊處綜合業務組",
-        "author": {
-            "department": "圖書資訊處綜合業務組",
-            "name": "林循美",
-            "email": "cindy@gms.ndhu.edu.tw",
-            "phone": "8906774"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【國軍招生訊息】 轉國防部「民國114年國軍志願役專業預備軍官預備士官班考選簡章」公告",
-        "timestamp": "1740699866",
-        "url": "mail_display.php?timestamp=1740699866",
-        "date": "2025/02/28 07:44",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "黃勇程",
-            "email": "victor0903@gms.ndhu.edu.tw",
-            "phone": "6225"
-        },
-        "attachmentCount": 3
     }
 ]
