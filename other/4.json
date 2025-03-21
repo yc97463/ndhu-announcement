@@ -1,5 +1,19 @@
 [
     {
+        "title": "【畢業生請注意】提醒學位服借還期限及注意事項-Reminder of the loan and return period and points to note for degree uniforms。",
+        "timestamp": "1741597277",
+        "url": "mail_display.php?timestamp=1741597277",
+        "date": "2025/03/10 17:01",
+        "department": "總務處保管組",
+        "author": {
+            "department": "總務處保管組",
+            "name": "陳鵬安",
+            "email": "led973@gms.ndhu.edu.tw",
+            "phone": "6343"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【訊息轉知】高雄醫學大學開設6門磨課師(MOOCs)免費線上課程",
         "timestamp": "1741587017",
         "url": "mail_display.php?timestamp=1741587017",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "114年度國防部專業預備軍官、預備士官說明會說明會",
-        "timestamp": "1741326922",
-        "url": "mail_display.php?timestamp=1741326922",
-        "date": "2025/03/07 13:55",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "黃勇程",
-            "email": "victor0903@gms.ndhu.edu.tw",
-            "phone": "6225"
-        },
-        "attachmentCount": 1
     }
 ]
