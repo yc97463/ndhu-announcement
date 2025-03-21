@@ -1,5 +1,19 @@
 [
     {
+        "title": "志學門左側探照燈線路修復作業(第2次公告施工時間延長)",
+        "timestamp": "1742559562",
+        "url": "mail_display.php?timestamp=1742559562",
+        "date": "2025/03/21 20:19",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【華語碩博班-演講教室及時間異動公告】 孟柱億教授「大師開講——針對跨文化交際的文化對比」系列講座——第三場次0325",
         "timestamp": "1742550778",
         "url": "mail_display.php?timestamp=1742550778",
@@ -194,19 +208,5 @@
             "phone": "3770/3789"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "114年大專生洄游農村競賽說明會",
-        "timestamp": "1742520549",
-        "url": "mail_display.php?timestamp=1742520549",
-        "date": "2025/03/21 09:29",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "洄瀾共好大學社會責任中心",
-            "email": "techusr@gms.ndhu.edu.tw",
-            "phone": "3772/3770"
-        },
-        "attachmentCount": 2
     }
 ]
