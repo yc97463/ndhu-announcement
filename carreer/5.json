@@ -1,5 +1,19 @@
 [
     {
+        "title": "國立東華大學理工學院國際學士班徵聘計畫助理一名",
+        "timestamp": "1735804876",
+        "url": "mail_display.php?timestamp=1735804876",
+        "date": "2025/01/02 16:01",
+        "department": "理工學院",
+        "author": {
+            "department": "理工學院",
+            "name": "黃先生",
+            "email": "vict0913@gms.ndhu.edu.tw",
+            "phone": "038903504"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才訊息】國立東華大學圖書資訊處徵聘【校務行政系統開發】碩士級技術師一名",
         "timestamp": "1735192959",
         "url": "mail_display.php?timestamp=1735192959",
@@ -192,20 +206,6 @@
             "name": "林佳儀",
             "email": "tipus1120103@gms.ndhu.edu.tw",
             "phone": "5718"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【徵才訊息】國際事務處國際合作組徵聘校務基金學士級助理一名 (收件截止：12/12)",
-        "timestamp": "1733445872",
-        "url": "mail_display.php?timestamp=1733445872",
-        "date": "2024/12/06 08:44",
-        "department": "國際事務處",
-        "author": {
-            "department": "國際事務處",
-            "name": "劉力綺",
-            "email": "cheerio@gms.ndhu.edu.tw",
-            "phone": "5109"
         },
         "attachmentCount": 0
     }
