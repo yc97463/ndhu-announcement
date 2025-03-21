@@ -1,5 +1,19 @@
 [
     {
+        "title": "【訊息轉知】國立高雄餐旅大學開設2門磨課師(MOOCs)線上課程",
+        "timestamp": "1742527624",
+        "url": "mail_display.php?timestamp=1742527624",
+        "date": "2025/03/21 11:27",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "因應環境消毐，3月23日部份校內商店暫停營業通知公告",
         "timestamp": "1742525351",
         "url": "mail_display.php?timestamp=1742525351",
@@ -194,19 +208,5 @@
             "phone": "5107"
         },
         "attachmentCount": 10
-    },
-    {
-        "title": "💥【職涯講座】打造優質互動的職場溝通術—限時報名中！",
-        "timestamp": "1742448675",
-        "url": "mail_display.php?timestamp=1742448675",
-        "date": "2025/03/20 13:31",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "溫小姐",
-            "email": "fengting0804@gms.ndhu.edu.tw",
-            "phone": "6282"
-        },
-        "attachmentCount": 1
     }
 ]

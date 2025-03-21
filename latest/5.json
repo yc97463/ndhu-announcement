@@ -1,5 +1,19 @@
 [
     {
+        "title": "什麼是自己（佛）？",
+        "timestamp": "1742308691",
+        "url": "mail_display.php?timestamp=1742308691",
+        "date": "2025/03/18 22:38",
+        "department": "物理學系",
+        "author": {
+            "department": "物理學系",
+            "name": "彭文平",
+            "email": "pengw@gms.ndhu.edu.tw",
+            "phone": "8903733"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "施工公告-多容館2樓護欄(欄杆)更新施工",
         "timestamp": "1742302909",
         "url": "mail_display.php?timestamp=1742302909",
@@ -194,19 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
-        "timestamp": "1742266914",
-        "url": "mail_display.php?timestamp=1742266914",
-        "date": "2025/03/18 11:01",
-        "department": "圖書資訊處校務系統組",
-        "author": {
-            "department": "圖書資訊處校務系統組",
-            "name": "林志軒",
-            "email": "chshlin@gms.ndhu.edu.tw",
-            "phone": "6752"
-        },
-        "attachmentCount": 0
     }
 ]
