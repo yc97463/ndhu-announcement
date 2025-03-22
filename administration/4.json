@@ -1,6 +1,20 @@
 [
     {
         "title": "114年度國防部專業預備軍官、預備士官說明會說明會",
+        "timestamp": "1741326922",
+        "url": "mail_display.php?timestamp=1741326922",
+        "date": "2025/03/07 13:55",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "6225"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "114年度國防部專業預備軍官、預備士官說明會說明會",
         "timestamp": "1741326686",
         "url": "mail_display.php?timestamp=1741326686",
         "date": "2025/03/07 13:51",
@@ -194,19 +208,5 @@
             "phone": "8906253"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【學生宿舍】114學年度學生宿舍申請暨宿舍候補Ⅰ作業",
-        "timestamp": "1741067657",
-        "url": "mail_display.php?timestamp=1741067657",
-        "date": "2025/03/04 13:54",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳怡秀",
-            "email": "yishoue@gms.ndhu.edu.tw",
-            "phone": "6212"
-        },
-        "attachmentCount": 1
     }
 ]
