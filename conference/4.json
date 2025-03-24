@@ -1,5 +1,19 @@
 [
     {
+        "title": "法律學系專題講座-蘭嶼土地利用的傳統、現在與未來",
+        "timestamp": "1733797452",
+        "url": "mail_display.php?timestamp=1733797452",
+        "date": "2024/12/10 10:24",
+        "department": "法律學系",
+        "author": {
+            "department": "法律學系",
+            "name": "陳助教",
+            "email": "meditator@gms.ndhu.edu.tw",
+            "phone": "5662"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【Forward 協助轉知】2024 大學社會影響力躍升研習會第21場次",
         "timestamp": "1733797372",
         "url": "mail_display.php?timestamp=1733797372",
@@ -192,20 +206,6 @@
             "name": "謝育筌 先生",
             "email": "ycshie@gms.ndhu.edu.tw",
             "phone": "(03)890-6032"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【永續講座】\"The adaptive sanitation program in Komodo district, Indonesia\" 12/4 Dr. I Wayan Koko Suryawan 主講",
-        "timestamp": "1733124469",
-        "url": "mail_display.php?timestamp=1733124469",
-        "date": "2024/12/02 15:27",
-        "department": "永續發展中心",
-        "author": {
-            "department": "永續發展中心",
-            "name": "李敏賢",
-            "email": "jordanlee@gms.ndhu.edu.tw",
-            "phone": "5919"
         },
         "attachmentCount": 1
     }

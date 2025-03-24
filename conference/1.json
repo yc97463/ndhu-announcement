@@ -1,5 +1,19 @@
 [
     {
+        "title": "【財金系專題演講】3/28(五) 14:00 ~ 16:00 生涯規劃與創業評估",
+        "timestamp": "1742798543",
+        "url": "mail_display.php?timestamp=1742798543",
+        "date": "2025/03/24 14:42",
+        "department": "財務金融學系",
+        "author": {
+            "department": "財務金融學系",
+            "name": "林役霜",
+            "email": "ys012@gms.ndhu.edu.tw",
+            "phone": "3133"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【華語碩博班-演講教室及時間異動公告】 孟柱億教授「大師開講——針對跨文化交際的文化對比」系列講座——第三場次0325",
         "timestamp": "1742550778",
         "url": "mail_display.php?timestamp=1742550778",
@@ -194,19 +208,5 @@
             "phone": "8905792"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "113-2歷史學系歷史週系列講座(一)：島嶼文化超展開：文總從扎根台灣到走向國際",
-        "timestamp": "1741141772",
-        "url": "mail_display.php?timestamp=1741141772",
-        "date": "2025/03/05 10:29",
-        "department": "歷史學系",
-        "author": {
-            "department": "歷史學系",
-            "name": "吳助理",
-            "email": "suju1106@gms.ndhu.edu.tw",
-            "phone": "5323"
-        },
-        "attachmentCount": 2
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "【永續講座】\"The adaptive sanitation program in Komodo district, Indonesia\" 12/4 Dr. I Wayan Koko Suryawan 主講",
+        "timestamp": "1733124469",
+        "url": "mail_display.php?timestamp=1733124469",
+        "date": "2024/12/02 15:27",
+        "department": "永續發展中心",
+        "author": {
+            "department": "永續發展中心",
+            "name": "李敏賢",
+            "email": "jordanlee@gms.ndhu.edu.tw",
+            "phone": "5919"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "金典本事系列講座「找到你的天命，讓罪變成幸運 ──隱匿談《幸運的罪》」x楊牧書房結盟文學館家族儀式",
         "timestamp": "1733117786",
         "url": "mail_display.php?timestamp=1733117786",
@@ -194,19 +208,5 @@
             "phone": "0955204467"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "➥2024原住民族知識系列講座Indigenous Knowledge – 2024 Public Lecture Series  2024.11.26-2024.12.03",
-        "timestamp": "1732343280",
-        "url": "mail_display.php?timestamp=1732343280",
-        "date": "2024/11/23 14:28",
-        "department": "原住民族國際事務中心",
-        "author": {
-            "department": "原住民族國際事務中心",
-            "name": "李佳津",
-            "email": "iia@gms.ndhu.edu.tw",
-            "phone": "0935-212455"
-        },
-        "attachmentCount": 4
     }
 ]
