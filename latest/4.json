@@ -1,5 +1,19 @@
 [
     {
+        "title": "2025【校園徵才月】企業說明會：臺灣港務股份有限公司花蓮港務分公司",
+        "timestamp": "1742428507",
+        "url": "mail_display.php?timestamp=1742428507",
+        "date": "2025/03/20 07:55",
+        "department": "學務處 畢業生及校友服務組",
+        "author": {
+            "department": "學務處 畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "2025【校園徵才月】企業說明會：煙波大飯店股份有限公司",
         "timestamp": "1742428506",
         "url": "mail_display.php?timestamp=1742428506",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【訊息轉知】輔仁大學開設4門磨課師(MOOCs)免費線上課程",
-        "timestamp": "1742371843",
-        "url": "mail_display.php?timestamp=1742371843",
-        "date": "2025/03/19 16:10",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 6
     }
 ]
