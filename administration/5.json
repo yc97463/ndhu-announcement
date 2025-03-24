@@ -1,5 +1,19 @@
 [
     {
+        "title": "【推廣教育填報通知】113學年第1學期課程資料填報作業暨系統改版(二次通知)",
+        "timestamp": "1741139361",
+        "url": "mail_display.php?timestamp=1741139361",
+        "date": "2025/03/05 09:49",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "洪乃慈",
+            "email": "naitzu@gms.ndhu.edu.tw",
+            "phone": "6523"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "公文系統訂於114年3月4日(二)晚上18~22時進行版本更新暫停服務公告",
         "timestamp": "1741075239",
         "url": "mail_display.php?timestamp=1741075239",
@@ -194,19 +208,5 @@
             "phone": "8906774"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【國軍招生訊息】 轉國防部「民國114年國軍志願役專業預備軍官預備士官班考選簡章」公告",
-        "timestamp": "1740699866",
-        "url": "mail_display.php?timestamp=1740699866",
-        "date": "2025/02/28 07:44",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "黃勇程",
-            "email": "victor0903@gms.ndhu.edu.tw",
-            "phone": "6225"
-        },
-        "attachmentCount": 3
     }
 ]
