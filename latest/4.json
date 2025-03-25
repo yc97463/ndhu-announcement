@@ -1,5 +1,19 @@
 [
     {
+        "title": "因應環境消毐，3月23日部份校內商店暫停營業通知公告",
+        "timestamp": "1742525351",
+        "url": "mail_display.php?timestamp=1742525351",
+        "date": "2025/03/21 10:49",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "潘姵辰",
+            "email": "papec1980@gms.ndhu.edu.tw",
+            "phone": "03-8906313"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "校園禁止商業宣傳及推銷等行為",
         "timestamp": "1742524491",
         "url": "mail_display.php?timestamp=1742524491",
@@ -194,19 +208,5 @@
             "phone": "6282"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【實習】國立海洋生物博物館114年度暑假實習開始申請囉~ 🐠 🐠 (校內收件至114年4月10日止)",
-        "timestamp": "1742448513",
-        "url": "mail_display.php?timestamp=1742448513",
-        "date": "2025/03/20 13:28",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 5
     }
 ]
