@@ -1,6 +1,20 @@
 [
     {
         "title": "體育園區運動場管場地、器材整理",
+        "timestamp": "1742342108",
+        "url": "mail_display.php?timestamp=1742342108",
+        "date": "2025/03/19 07:55",
+        "department": "洄瀾學院 體育中心",
+        "author": {
+            "department": "洄瀾學院 體育中心",
+            "name": "沈正雄",
+            "email": "chshen@gms.ndhu.edu.tw",
+            "phone": "038906618"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "體育園區運動場管場地、器材整理",
         "timestamp": "1742342107",
         "url": "mail_display.php?timestamp=1742342107",
         "date": "2025/03/19 07:55",
@@ -192,20 +206,6 @@
             "name": "王玉君",
             "email": "hu.jean0503@gms.ndhu.edu.tw",
             "phone": "8906220"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "卑南族小花環吊飾",
-        "timestamp": "1742255704",
-        "url": "mail_display.php?timestamp=1742255704",
-        "date": "2025/03/18 07:55",
-        "department": "學務處 原住民族學生資源中心",
-        "author": {
-            "department": "學務處 原住民族學生資源中心",
-            "name": "潘麗娟",
-            "email": "Email：41109a002@gms.ndhu.edu.tw",
-            "phone": "林子瑞/0930002488"
         },
         "attachmentCount": 0
     }
