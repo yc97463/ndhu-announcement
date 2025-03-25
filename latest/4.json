@@ -1,5 +1,19 @@
 [
     {
+        "title": "Let’s go Chill \u0026 Chat!",
+        "timestamp": "1742520873",
+        "url": "mail_display.php?timestamp=1742520873",
+        "date": "2025/03/21 09:34",
+        "department": "管理學院",
+        "author": {
+            "department": "管理學院",
+            "name": "洄瀾共好大學社會責任中心",
+            "email": "techusr@gms.ndhu.edu.tw",
+            "phone": "3770/3789"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "114年大專生洄游農村競賽說明會",
         "timestamp": "1742520549",
         "url": "mail_display.php?timestamp=1742520549",
@@ -192,20 +206,6 @@
             "name": "黃文雯",
             "email": "wenwen@gms.ndhu.edu.tw",
             "phone": "6283"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "2025.3.27(四)嚴俊傑鋼琴大師班",
-        "timestamp": "1742442317",
-        "url": "mail_display.php?timestamp=1742442317",
-        "date": "2025/03/20 11:45",
-        "department": "音樂學系",
-        "author": {
-            "department": "音樂學系",
-            "name": "張純倩",
-            "email": "asd963741@gms.ndhu.edu.tw",
-            "phone": "03-8905168"
         },
         "attachmentCount": 3
     }
