@@ -1,5 +1,19 @@
 [
     {
+        "title": "資通系統盤點暨安全等級評估教育訓練",
+        "timestamp": "1738733745",
+        "url": "mail_display.php?timestamp=1738733745",
+        "date": "2025/02/05 13:35",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "蕭澤宇",
+            "email": "zyhsiao@gms.ndhu.edu.tw",
+            "phone": "6727"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "113-2校核心通識課程異動(增開及停開課程)公告",
         "timestamp": "1738642379",
         "url": "mail_display.php?timestamp=1738642379",
@@ -192,20 +206,6 @@
             "name": "李睿芬",
             "email": "fen19@gms.ndhu.edu.tw",
             "phone": "6602"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "113-2 閱讀培力計畫-教育系招募(有志報名者務必填寫表單，經面試通知錄取後才會選課成功！)",
-        "timestamp": "1734590927",
-        "url": "mail_display.php?timestamp=1734590927",
-        "date": "2024/12/19 14:48",
-        "department": "偏鄉閱讀與行動中心",
-        "author": {
-            "department": "偏鄉閱讀與行動中心",
-            "name": "盧助理",
-            "email": "lesa@gms.ndhu.edu.tw",
-            "phone": "03-890-3813"
         },
         "attachmentCount": 2
     }

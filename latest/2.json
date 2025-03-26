@@ -1,5 +1,19 @@
 [
     {
+        "title": "【宣導公告】加強入校車輛違規取締作業",
+        "timestamp": "1742868918",
+        "url": "mail_display.php?timestamp=1742868918",
+        "date": "2025/03/25 10:15",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "許紹峯",
+            "email": "hsf113@gms.ndhu.edu.tw",
+            "phone": "03-8906314"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【活動】Let's Talk About March Schedule 三月場次",
         "timestamp": "1742868250",
         "url": "mail_display.php?timestamp=1742868250",
@@ -194,19 +208,5 @@
             "phone": "6329"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【財金系專題演講】3/28(五) 14:00 ~ 16:00 生涯規劃與創業評估",
-        "timestamp": "1742798543",
-        "url": "mail_display.php?timestamp=1742798543",
-        "date": "2025/03/24 14:42",
-        "department": "財務金融學系",
-        "author": {
-            "department": "財務金融學系",
-            "name": "林役霜",
-            "email": "ys012@gms.ndhu.edu.tw",
-            "phone": "3133"
-        },
-        "attachmentCount": 1
     }
 ]
