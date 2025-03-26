@@ -1,5 +1,19 @@
 [
     {
+        "title": "歷史系專題演講：從家國到日常：中國青銅器的發展與變化",
+        "timestamp": "1733195084",
+        "url": "mail_display.php?timestamp=1733195084",
+        "date": "2024/12/03 11:04",
+        "department": "歷史學系",
+        "author": {
+            "department": "歷史學系",
+            "name": "吳助理",
+            "email": "suju1106@gms.ndhu.edu.tw",
+            "phone": "5323"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【多元文化教育講座】穿克與我相似之人：主體/依賴性實踐的概念、經驗與理論的辯證",
         "timestamp": "1733187743",
         "url": "mail_display.php?timestamp=1733187743",
@@ -194,19 +208,5 @@
             "phone": "03-8903687"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【第二次公告】 【特聘教授演講】12/3(二)王鴻濬特聘教授：永續發展與聯合國永續發展目標SDGs",
-        "timestamp": "1732592484",
-        "url": "mail_display.php?timestamp=1732592484",
-        "date": "2024/11/26 11:41",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "楊惠雯",
-            "email": "hwyang@gms.ndhu.edu.tw",
-            "phone": "6061"
-        },
-        "attachmentCount": 2
     }
 ]
