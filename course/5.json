@@ -1,5 +1,19 @@
 [
     {
+        "title": "\u003c第二次通知\u003e體育中心113-1學期「體適能檢測」時間公告",
+        "timestamp": "1734313775",
+        "url": "mail_display.php?timestamp=1734313775",
+        "date": "2024/12/16 09:49",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "莊璦綺",
+            "email": "ichi@gms.ndhu.edu.tw",
+            "phone": "6613"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【通識】114年全國夏季學院通識課程邀課及課程補助開始受理申請囉~歡迎有興趣老師申請!",
         "timestamp": "1733984631",
         "url": "mail_display.php?timestamp=1733984631",
@@ -194,19 +208,5 @@
             "phone": "03-890-5920"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "體育中心113-1學期「體適能檢測」時間公告",
-        "timestamp": "1732761436",
-        "url": "mail_display.php?timestamp=1732761436",
-        "date": "2024/11/28 10:37",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "莊璦綺",
-            "email": "ichi@gms.ndhu.edu.tw",
-            "phone": "6613"
-        },
-        "attachmentCount": 1
     }
 ]
