@@ -1,5 +1,19 @@
 [
     {
+        "title": "(第二次通知)體育中心113-2學期「體適能檢測」時間公告",
+        "timestamp": "1742797254",
+        "url": "mail_display.php?timestamp=1742797254",
+        "date": "2025/03/24 14:20",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "莊璦綺",
+            "email": "ichi@gms.ndhu.edu.tw",
+            "phone": "6613"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【徵才】明新科技大學114年3月25日辦理2025校園徵才博覽會",
         "timestamp": "1742783793",
         "url": "mail_display.php?timestamp=1742783793",
@@ -194,19 +208,5 @@
             "phone": "0909039764"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "公文系統訂於114年3月24日(一)中午12~13時暫停服務公告",
-        "timestamp": "1742543675",
-        "url": "mail_display.php?timestamp=1742543675",
-        "date": "2025/03/21 15:54",
-        "department": "總務處文書組",
-        "author": {
-            "department": "總務處文書組",
-            "name": "張先生",
-            "email": "eric.chang@gms.ndhu.edu.tw",
-            "phone": "03-8906352"
-        },
-        "attachmentCount": 0
     }
 ]
