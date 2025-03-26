@@ -1,5 +1,19 @@
 [
     {
+        "title": "【課務組通知】113-2學期加選、加簽後學分(雜)費繳費通知 Credits Fee Payment  (3/28-4/16)",
+        "timestamp": "1742886963",
+        "url": "mail_display.php?timestamp=1742886963",
+        "date": "2025/03/25 15:16",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "管理學院會計學系身心障礙專案助理徵才公告(第五次公告)",
         "timestamp": "1742885708",
         "url": "mail_display.php?timestamp=1742885708",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "3/25(二)~4/2(三)湖畔餐廳護欄(欄杆)施工公告",
-        "timestamp": "1742804701",
-        "url": "mail_display.php?timestamp=1742804701",
-        "date": "2025/03/24 16:25",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "黃章傑",
-            "email": "cotycafe@gms.ndhu.edu.tw",
-            "phone": "038905778"
-        },
-        "attachmentCount": 1
     }
 ]

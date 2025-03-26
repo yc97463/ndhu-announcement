@@ -1,5 +1,19 @@
 [
     {
+        "title": "校園禁止商業宣傳及推銷等行為",
+        "timestamp": "1742524491",
+        "url": "mail_display.php?timestamp=1742524491",
+        "date": "2025/03/21 10:34",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "范家榮",
+            "email": "jung@gms.ndhu.edu.tw",
+            "phone": "8906237"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "📣3月23日(日) K書中心B館執行消毒作業公告 / Notice of Disinfection at K-Study Center B Building on March 23",
         "timestamp": "1742522337",
         "url": "mail_display.php?timestamp=1742522337",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "更正📢畢業舞會IG宣傳與工作人員招募📢",
-        "timestamp": "1742447118",
-        "url": "mail_display.php?timestamp=1742447118",
-        "date": "2025/03/20 13:05",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "溫小姐",
-            "email": "fengting0804@gms.ndhu.edu.tw",
-            "phone": "6282"
-        },
-        "attachmentCount": 2
     }
 ]
