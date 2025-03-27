@@ -1,5 +1,19 @@
 [
     {
+        "title": "【畢典事宜】第二次公告-徵選113學年度畢業典禮畢業生致詞代表 【COMMENCEMENT CEREMONY】SELECTION FOR THE GRADUATION CEREMONY VALEDICTORIAN OF ACADEMIC YEAR 2025.",
+        "timestamp": "1742373752",
+        "url": "mail_display.php?timestamp=1742373752",
+        "date": "2025/03/19 16:42",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "游雅筑",
+            "email": "pink389124@gms.ndhu.edu.tw",
+            "phone": "8906236"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【徵才】中原大學114年3月26日辦理2025校園徵才博覽會",
         "timestamp": "1742373080",
         "url": "mail_display.php?timestamp=1742373080",
@@ -194,19 +208,5 @@
             "phone": "8906422"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【訊息轉知】輔仁大學開設「生命電影院─電影中的疾病與人生」磨課師(MOOCs)線上課程",
-        "timestamp": "1741943578",
-        "url": "mail_display.php?timestamp=1741943578",
-        "date": "2025/03/14 17:12",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 2
     }
 ]
