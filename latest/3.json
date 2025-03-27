@@ -1,5 +1,19 @@
 [
     {
+        "title": "【113-2推廣教育招生】「人物肖像似顏繪創作坊」",
+        "timestamp": "1742862315",
+        "url": "mail_display.php?timestamp=1742862315",
+        "date": "2025/03/25 08:25",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "8906607"
+        },
+        "attachmentCount": 6
+    },
+    {
         "title": "【保管組】1140325報廢傢俱現場喊價標售(一物一拍)公告(第二次公告)",
         "timestamp": "1742858021",
         "url": "mail_display.php?timestamp=1742858021",
@@ -194,19 +208,5 @@
             "phone": "分機6221"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【徵才】本校徵求環境暨海洋學院院長人選",
-        "timestamp": "1742776623",
-        "url": "mail_display.php?timestamp=1742776623",
-        "date": "2025/03/24 08:37",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "楊惠雯",
-            "email": "hwyang@gms.ndhu.edu.tw",
-            "phone": "6061"
-        },
-        "attachmentCount": 1
     }
 ]
