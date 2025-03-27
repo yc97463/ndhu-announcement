@@ -1,5 +1,75 @@
 [
     {
+        "title": "【資工系專題講座】114/03/28(五) 國立陽明交通大學電機系 吳添立教授",
+        "timestamp": "1742601301",
+        "url": "mail_display.php?timestamp=1742601301",
+        "date": "2025/03/22 07:55",
+        "department": "理工學院 資訊工程學系",
+        "author": {
+            "department": "理工學院 資訊工程學系",
+            "name": "葉子綺",
+            "email": "kiki2002@gms.ndhu.edu.tw",
+            "phone": "5012"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "志學門左側探照燈線路修復作業(第2次公告施工時間延長)",
+        "timestamp": "1742559562",
+        "url": "mail_display.php?timestamp=1742559562",
+        "date": "2025/03/21 20:19",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【華語碩博班-演講教室及時間異動公告】 孟柱億教授「大師開講——針對跨文化交際的文化對比」系列講座——第三場次0325",
+        "timestamp": "1742550778",
+        "url": "mail_display.php?timestamp=1742550778",
+        "date": "2025/03/21 17:52",
+        "department": "國際紅學研究中心",
+        "author": {
+            "department": "國際紅學研究中心",
+            "name": "阮氏玉映",
+            "email": "rdrc@gms.ndhu.edu.tw",
+            "phone": "0909039764"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "公文系統訂於114年3月24日(一)中午12~13時暫停服務公告",
+        "timestamp": "1742543675",
+        "url": "mail_display.php?timestamp=1742543675",
+        "date": "2025/03/21 15:54",
+        "department": "總務處文書組",
+        "author": {
+            "department": "總務處文書組",
+            "name": "張先生",
+            "email": "eric.chang@gms.ndhu.edu.tw",
+            "phone": "03-8906352"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "原住民民族學院A311廁所施工公告",
+        "timestamp": "1742543499",
+        "url": "mail_display.php?timestamp=1742543499",
+        "date": "2025/03/21 15:51",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "許仁泉",
+            "email": "600130@gms.ndhu.edu.tw",
+            "phone": "8906375"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【實習】彰化基督教青年會(彰化YMCA)2025暑期實習計畫(114年5月29日截止)",
         "timestamp": "1742540952",
         "url": "mail_display.php?timestamp=1742540952",
@@ -138,75 +208,5 @@
             "phone": "6589"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "Let’s go Chill \u0026 Chat!",
-        "timestamp": "1742520873",
-        "url": "mail_display.php?timestamp=1742520873",
-        "date": "2025/03/21 09:34",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "洄瀾共好大學社會責任中心",
-            "email": "techusr@gms.ndhu.edu.tw",
-            "phone": "3770/3789"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "114年大專生洄游農村競賽說明會",
-        "timestamp": "1742520549",
-        "url": "mail_display.php?timestamp=1742520549",
-        "date": "2025/03/21 09:29",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "洄瀾共好大學社會責任中心",
-            "email": "techusr@gms.ndhu.edu.tw",
-            "phone": "3772/3770"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【Encouraged to participate 鼓勵參加】2025淨零排放科技國際競賽 2025 Net Zero Tech International Contest @ Taiwan ",
-        "timestamp": "1742517053",
-        "url": "mail_display.php?timestamp=1742517053",
-        "date": "2025/03/21 08:30",
-        "department": "永續發展中心",
-        "author": {
-            "department": "永續發展中心",
-            "name": "李莉莉 Li-Li Lee",
-            "email": "sd@gms.ndhu.edu.tw",
-            "phone": "03-890-5920"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "東華大學圖書館資源與檢索技巧講座 ",
-        "timestamp": "1742514901",
-        "url": "mail_display.php?timestamp=1742514901",
-        "date": "2025/03/21 07:55",
-        "department": "理工學院 應用數學系",
-        "author": {
-            "department": "理工學院 應用數學系",
-            "name": "陳素琳",
-            "email": "chsulin@gms.ndhu.edu.tw",
-            "phone": "3561"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "為進行志學門左側探照燈線路修復作業",
-        "timestamp": "1742474072",
-        "url": "mail_display.php?timestamp=1742474072",
-        "date": "2025/03/20 20:34",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 1
     }
 ]
