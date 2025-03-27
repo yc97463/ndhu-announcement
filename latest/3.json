@@ -1,5 +1,19 @@
 [
     {
+        "title": "【課務組】113-2「期中教學意見回饋」系統將自3月31日(一)起開放學生填寫 NDHU Mid-term Teaching Feedback System will open from March 31 \t",
+        "timestamp": "1742889556",
+        "url": "mail_display.php?timestamp=1742889556",
+        "date": "2025/03/25 15:59",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【課務組通知】113-2學期加選、加簽後學分(雜)費繳費通知 Credits Fee Payment  (3/28-4/16)",
         "timestamp": "1742886963",
         "url": "mail_display.php?timestamp=1742886963",
@@ -194,19 +208,5 @@
             "phone": "038906361"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【徵才】高雄市政府勞工局114年度約聘勞動條件檢查員甄選(114年4月7日截止)",
-        "timestamp": "1742804955",
-        "url": "mail_display.php?timestamp=1742804955",
-        "date": "2025/03/24 16:29",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
     }
 ]
