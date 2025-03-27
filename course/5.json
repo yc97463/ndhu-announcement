@@ -1,5 +1,19 @@
 [
     {
+        "title": "【課務組】113學年度第2學期學士班課程「免修」注意事項",
+        "timestamp": "1734938937",
+        "url": "mail_display.php?timestamp=1734938937",
+        "date": "2024/12/23 15:28",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "course@gms.ndhu.edu.tw",
+            "phone": "6122~6126"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【通識】12/23(一)敬邀參加-第37屆校園試映會(電影製作藝術、紀錄片製作成果發表)",
         "timestamp": "1734686650",
         "url": "mail_display.php?timestamp=1734686650",
@@ -194,19 +208,5 @@
             "phone": "0988479360"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "113-1「二手物文化與空間」成果展-「再生」",
-        "timestamp": "1733103091",
-        "url": "mail_display.php?timestamp=1733103091",
-        "date": "2024/12/02 09:31",
-        "department": "臺灣文化學系",
-        "author": {
-            "department": "臺灣文化學系",
-            "name": "唐家渝",
-            "email": "abby0528@gms.ndhu.edu.tw",
-            "phone": "038905213"
-        },
-        "attachmentCount": 1
     }
 ]
