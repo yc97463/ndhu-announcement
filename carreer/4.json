@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才公告】國立東華大學國際企業學系徵校務基金行政助理一名(第二次公告",
+        "timestamp": "1738639158",
+        "url": "mail_display.php?timestamp=1738639158",
+        "date": "2025/02/04 11:19",
+        "department": "國際企業學系",
+        "author": {
+            "department": "國際企業學系",
+            "name": "國企系",
+            "email": "IB@gms.ndhu.edu.tw",
+            "phone": "3042"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才】國立東華大學能源科技中心誠徵教育部計畫專任助理(第二次公告)",
         "timestamp": "1737507289",
         "url": "mail_display.php?timestamp=1737507289",
@@ -192,20 +206,6 @@
             "name": "吳慈憶",
             "email": "algar0905@gms.ndhu.edu.tw",
             "phone": "8903688"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "洄瀾共好大學社會責任中心徵聘助理一名(第一次公告)",
-        "timestamp": "1736222051",
-        "url": "mail_display.php?timestamp=1736222051",
-        "date": "2025/01/07 11:54",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "江東隆",
-            "email": "techusr@gms.ndhu.edu.tw",
-            "phone": "3772"
         },
         "attachmentCount": 0
     }
