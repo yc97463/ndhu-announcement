@@ -1,5 +1,19 @@
 [
     {
+        "title": "3月29日(六)-4月10日(日)(含假日)理工一館CD側樓梯走道、牆面粉刷及天花板拆除及施工公告",
+        "timestamp": "1743142591",
+        "url": "mail_display.php?timestamp=1743142591",
+        "date": "2025/03/28 14:16",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "邱健榮",
+            "email": "janus@gms.ndhu.edu.tw",
+            "phone": "6385"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "outlook 無法收發學校信件問題",
         "timestamp": "1743141042",
         "url": "mail_display.php?timestamp=1743141042",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【教務處通知】114學年度行事曆 2025-2026 Academic Calendar",
-        "timestamp": "1743059144",
-        "url": "mail_display.php?timestamp=1743059144",
-        "date": "2025/03/27 15:05",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "陳君如",
-            "email": "ju@gms.ndhu.edu.tw",
-            "phone": "6124"
-        },
-        "attachmentCount": 3
     }
 ]
