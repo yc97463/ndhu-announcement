@@ -1,5 +1,19 @@
 [
     {
+        "title": "校園車輛管理規定及措施宣導",
+        "timestamp": "1742801326",
+        "url": "mail_display.php?timestamp=1742801326",
+        "date": "2025/03/24 15:28",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【財金系專題演講】3/28(五) 14:00 ~ 16:00 生涯規劃與創業評估",
         "timestamp": "1742798543",
         "url": "mail_display.php?timestamp=1742798543",
@@ -194,19 +208,5 @@
             "phone": "5012"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "志學門左側探照燈線路修復作業(第2次公告施工時間延長)",
-        "timestamp": "1742559562",
-        "url": "mail_display.php?timestamp=1742559562",
-        "date": "2025/03/21 20:19",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 1
     }
 ]

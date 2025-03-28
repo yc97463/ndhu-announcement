@@ -1,5 +1,19 @@
 [
     {
+        "title": "【英美系、師培中心演講 】Master Lecture大師講座，中英雙語素養增能系列活動(四場)，歡迎全校師生、英語師培生踴躍參加",
+        "timestamp": "1742890264",
+        "url": "mail_display.php?timestamp=1742890264",
+        "date": "2025/03/25 16:11",
+        "department": "英美語文學系",
+        "author": {
+            "department": "英美語文學系",
+            "name": "英美系",
+            "email": "dengl@gms.ndhu.edu.tw",
+            "phone": "5295"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【代轉學生會公告】第一屆東華音樂祭｜洄潮計畫市集攤位招募",
         "timestamp": "1742873746",
         "url": "mail_display.php?timestamp=1742873746",
@@ -194,19 +208,5 @@
             "phone": "5012"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【華語碩博班-演講教室及時間異動公告】 孟柱億教授「大師開講——針對跨文化交際的文化對比」系列講座——第三場次0325",
-        "timestamp": "1742550778",
-        "url": "mail_display.php?timestamp=1742550778",
-        "date": "2025/03/21 17:52",
-        "department": "國際紅學研究中心",
-        "author": {
-            "department": "國際紅學研究中心",
-            "name": "阮氏玉映",
-            "email": "rdrc@gms.ndhu.edu.tw",
-            "phone": "0909039764"
-        },
-        "attachmentCount": 1
     }
 ]
