@@ -1,5 +1,19 @@
 [
     {
+        "title": "【圖書館公告】兒童節暨民族掃墓節【114.04.03~04(四至五)】休館二日。114.04.07(一)調整開館時間：09:00-17:00。Library will be Closed on April 03-04, 2025.",
+        "timestamp": "1743138930",
+        "url": "mail_display.php?timestamp=1743138930",
+        "date": "2025/03/28 13:15",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "詹依萍",
+            "email": "ipchan@gms.ndhu.edu.tw",
+            "phone": "6813"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "📢📢🔆113-2學期Dongto東兔系列活動二-「快樂能量補給站-歐趴糖打氣紓壓站」🔆",
         "timestamp": "1743136325",
         "url": "mail_display.php?timestamp=1743136325",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【獎助學金申請】嘉新兆福文化基金會114年永續力獎學金",
-        "timestamp": "1743056880",
-        "url": "mail_display.php?timestamp=1743056880",
-        "date": "2025/03/27 14:28",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]
