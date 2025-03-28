@@ -1,5 +1,19 @@
 [
     {
+        "title": "能源科技中心誠徵教育部計畫專任助理數名",
+        "timestamp": "1736298797",
+        "url": "mail_display.php?timestamp=1736298797",
+        "date": "2025/01/08 09:13",
+        "department": "能源科技中心",
+        "author": {
+            "department": "能源科技中心",
+            "name": "吳慈憶",
+            "email": "algar0905@gms.ndhu.edu.tw",
+            "phone": "8903688"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "洄瀾共好大學社會責任中心徵聘助理一名(第一次公告)",
         "timestamp": "1736222051",
         "url": "mail_display.php?timestamp=1736222051",
@@ -194,19 +208,5 @@
             "phone": "6329"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【徵才公告】國立東華大學原住民族課程發展協作中心誠徵專任助理一名（收件至114/1/17）",
-        "timestamp": "1735029255",
-        "url": "mail_display.php?timestamp=1735029255",
-        "date": "2024/12/24 16:34",
-        "department": "原住民族課程發展協作中心",
-        "author": {
-            "department": "原住民族課程發展協作中心",
-            "name": "Peydang Siyu朱豪傑",
-            "email": "cis-icdc@gms.ndhu.edu.tw",
-            "phone": "03-8905137"
-        },
-        "attachmentCount": 4
     }
 ]
