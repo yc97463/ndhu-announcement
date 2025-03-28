@@ -1,5 +1,19 @@
 [
     {
+        "title": "【海外實習線上宣傳】3/21國合會舉辦「大專青年海外技術協助服務計畫」線上宣傳會",
+        "timestamp": "1741249418",
+        "url": "mail_display.php?timestamp=1741249418",
+        "date": "2025/03/06 16:23",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "洪乃慈",
+            "email": "naitzu@gms.ndhu.edu.tw",
+            "phone": "6523"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "📌2025語言學沙龍第1場（國立政治大學）「語出驚人：語言學的多重宇宙」📌",
         "timestamp": "1741222950",
         "url": "mail_display.php?timestamp=1741222950",
@@ -194,19 +208,5 @@
             "phone": "03-8905824"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【影片和投影片的索取須知】大型語言模型（LLM）技術與 GPT 教育中應用之探討與應用線上研討會(第二次公告)",
-        "timestamp": "1736815274",
-        "url": "mail_display.php?timestamp=1736815274",
-        "date": "2025/01/14 08:41",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "趙心榆",
-            "email": "vsychao@gms.ndhu.edu.tw",
-            "phone": "6722"
-        },
-        "attachmentCount": 0
     }
 ]

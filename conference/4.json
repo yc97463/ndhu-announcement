@@ -1,5 +1,19 @@
 [
     {
+        "title": "【閱讀科技學程講座】",
+        "timestamp": "1733983514",
+        "url": "mail_display.php?timestamp=1733983514",
+        "date": "2024/12/12 14:05",
+        "department": "教育與潛能開發學系",
+        "author": {
+            "department": "教育與潛能開發學系",
+            "name": "王凰貞",
+            "email": "411188037@gms.ndhu.edu.tw",
+            "phone": "038903822"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【活動推推】移居與安居：刻板印象與身份汙名--婚姻移民的挑戰與應對(第二次公告)",
         "timestamp": "1733881990",
         "url": "mail_display.php?timestamp=1733881990",
@@ -192,20 +206,6 @@
             "name": "林祐瑄",
             "email": "yslin1120@gms.ndhu.edu.tw",
             "phone": "03-8905277"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "𖦥 113-1駐校作家活動𖦥 騷夏作家",
-        "timestamp": "1733207006",
-        "url": "mail_display.php?timestamp=1733207006",
-        "date": "2024/12/03 14:23",
-        "department": "華文文學系",
-        "author": {
-            "department": "華文文學系",
-            "name": "伍佳雯",
-            "email": "sl@gms.ndhu.edu.tw",
-            "phone": "＃5262"
         },
         "attachmentCount": 2
     }
