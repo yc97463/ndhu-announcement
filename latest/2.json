@@ -1,5 +1,19 @@
 [
     {
+        "title": "【推廣教育通知】即日起至4月15日止受理推廣教育工作人員績效酬勞核發(第二次通知)",
+        "timestamp": "1743147261",
+        "url": "mail_display.php?timestamp=1743147261",
+        "date": "2025/03/28 15:34",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "洪乃慈",
+            "email": "naitzu@gms.ndhu.edu.tw",
+            "phone": "6523"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【海外獎助金】傅爾布萊特赴美獎助計畫暨留學美國說明會",
         "timestamp": "1743145291",
         "url": "mail_display.php?timestamp=1743145291",
@@ -194,19 +208,5 @@
             "phone": "890-6056"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "本校委外廠商(真食鍋物)提供書劵獎得獎學生優惠券公告 ",
-        "timestamp": "1743064804",
-        "url": "mail_display.php?timestamp=1743064804",
-        "date": "2025/03/27 16:40",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "潘姵辰",
-            "email": "papec1980@gms.ndhu.edu.tw",
-            "phone": "03-8906313"
-        },
-        "attachmentCount": 3
     }
 ]
