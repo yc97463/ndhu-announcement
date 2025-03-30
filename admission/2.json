@@ -1,5 +1,19 @@
 [
     {
+        "title": "📢生命造舟課程說明會📢 ",
+        "timestamp": "1740219967",
+        "url": "mail_display.php?timestamp=1740219967",
+        "date": "2025/02/22 18:26",
+        "department": "社會參與中心",
+        "author": {
+            "department": "社會參與中心",
+            "name": "徐小姐",
+            "email": "hsu-pangju@gms.ndhu.edu.tw",
+            "phone": "5247"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【課程公告】114年第一梯次《環境教育人員認證課程100小時訓練及評量班暨30小時學歷核心科目研習班》",
         "timestamp": "1740039933",
         "url": "mail_display.php?timestamp=1740039933",
@@ -194,19 +208,5 @@
             "phone": "8906253"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "\u003c歡迎報考\u003e114學年度國立東華大學企管系暨運籌所碩士班 (113/12/18-114/1/8招生中)",
-        "timestamp": "1733988982",
-        "url": "mail_display.php?timestamp=1733988982",
-        "date": "2024/12/12 15:36",
-        "department": "企業管理學系",
-        "author": {
-            "department": "企業管理學系",
-            "name": "莊巧萍",
-            "email": "cpjuang@gms.ndhu.edu.tw",
-            "phone": "03-8903013"
-        },
-        "attachmentCount": 5
     }
 ]
