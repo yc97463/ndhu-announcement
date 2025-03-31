@@ -1,5 +1,61 @@
 [
     {
+        "title": "【交通安全】清明連續假期，請注意志學火車站及志學派出所停車規定，並小心行車安全。",
+        "timestamp": "1743241133",
+        "url": "mail_display.php?timestamp=1743241133",
+        "date": "2025/03/29 17:38",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "林嘉瑩",
+            "email": "tea7101@gms.ndhu.edu.tw",
+            "phone": "03-8906226"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "第25屆東華奇萊文學獎徵文活動~歡迎踴躍投稿~【4月8日下午5時截止收件】",
+        "timestamp": "1743219397",
+        "url": "mail_display.php?timestamp=1743219397",
+        "date": "2025/03/29 11:36",
+        "department": "人文社會科學學院",
+        "author": {
+            "department": "人文社會科學學院",
+            "name": "姜妃澤",
+            "email": "ftc1029@gms.ndhu.edu.tw",
+            "phone": "03-8905203"
+        },
+        "attachmentCount": 5
+    },
+    {
+        "title": "(線上)【113-2活動】4/22第4場_國界外的天空：進修、旅遊、展望未來 A Sky Beyond the Border: Study, Tour, and Future\t",
+        "timestamp": "1743206103",
+        "url": "mail_display.php?timestamp=1743206103",
+        "date": "2025/03/29 07:55",
+        "department": "洄瀾學院 語言中心",
+        "author": {
+            "department": "洄瀾學院 語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "(線上)【113-2活動】4/21第3場_國界外的天空：進修、旅遊、展望未來 A Sky Beyond the Border: Study, Tour, and Future\t",
+        "timestamp": "1743206102",
+        "url": "mail_display.php?timestamp=1743206102",
+        "date": "2025/03/29 07:55",
+        "department": "洄瀾學院 語言中心",
+        "author": {
+            "department": "洄瀾學院 語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【轉知】國立陽明交通大學辦理114年「陽光戀愛Bar」單身聯誼活動，請本校所屬符合資格之單身同仁踴躍報名參加。",
         "timestamp": "1743160704",
         "url": "mail_display.php?timestamp=1743160704",
@@ -152,61 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【推廣教育通知】即日起至4月15日止受理推廣教育工作人員績效酬勞核發(第二次通知)",
-        "timestamp": "1743147261",
-        "url": "mail_display.php?timestamp=1743147261",
-        "date": "2025/03/28 15:34",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "洪乃慈",
-            "email": "naitzu@gms.ndhu.edu.tw",
-            "phone": "6523"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【海外獎助金】傅爾布萊特赴美獎助計畫暨留學美國說明會",
-        "timestamp": "1743145291",
-        "url": "mail_display.php?timestamp=1743145291",
-        "date": "2025/03/28 15:01",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 5
-    },
-    {
-        "title": "【徵才】臺灣銀行「114年新進人員甄試」4月10日起開始報名~📣  (114年4月23日截止)",
-        "timestamp": "1743144389",
-        "url": "mail_display.php?timestamp=1743144389",
-        "date": "2025/03/28 14:46",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "【徵才】臺灣桃園地方檢察署招募觀護心理師及觀護社工師(114年4月25日截止)",
-        "timestamp": "1743142659",
-        "url": "mail_display.php?timestamp=1743142659",
-        "date": "2025/03/28 14:17",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 4
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "【活動公告】性別平等教育書展開跑囉!",
+        "timestamp": "1743404320",
+        "url": "mail_display.php?timestamp=1743404320",
+        "date": "2025/03/31 14:58",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "廖銘珠",
+            "email": "min-judy@gms.ndhu.edu.tw",
+            "phone": "6855"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "山林中的耳祭─ 布農族射耳祭歲時祭儀走讀與文化體驗",
         "timestamp": "1743398782",
         "url": "mail_display.php?timestamp=1743398782",
@@ -194,19 +208,5 @@
             "phone": "5323"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "📢⪦ 2025東華春藝季： Tapa Awaking 震能量．〈地景創作藝術品〉點燈儀式",
-        "timestamp": "1743062928",
-        "url": "mail_display.php?timestamp=1743062928",
-        "date": "2025/03/27 16:08",
-        "department": "藝術中心",
-        "author": {
-            "department": "藝術中心",
-            "name": "周葦綸",
-            "email": "arts@gms.ndhu.edu.tw",
-            "phone": "6606"
-        },
-        "attachmentCount": 7
     }
 ]
