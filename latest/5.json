@@ -1,5 +1,33 @@
 [
     {
+        "title": "🌷🌷113-2「起飛計畫」免費課程最後回合開跑，快來報名參加！👈",
+        "timestamp": "1742976670",
+        "url": "mail_display.php?timestamp=1742976670",
+        "date": "2025/03/26 16:11",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "鄭小姐",
+            "email": "ting@gms.ndhu.edu.tw",
+            "phone": "03-8906215"
+        },
+        "attachmentCount": 9
+    },
+    {
+        "title": "【通識】113-2學期填寫「通識課程學習成效」問卷，抽200元超商禮券!!(限大四同學)",
+        "timestamp": "1742974296",
+        "url": "mail_display.php?timestamp=1742974296",
+        "date": "2025/03/26 15:31",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "李小姐",
+            "email": "fen19@gms.ndhu.edu.tw",
+            "phone": "6602"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【徵才】本校人事室徵重度身心障礙臨時人員1名",
         "timestamp": "1742958595",
         "url": "mail_display.php?timestamp=1742958595",
@@ -180,33 +208,5 @@
             "phone": "6523"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【代轉學生會公告】第一屆東華音樂祭｜洄潮計畫市集攤位招募",
-        "timestamp": "1742873746",
-        "url": "mail_display.php?timestamp=1742873746",
-        "date": "2025/03/25 11:35",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "姜紫淇",
-            "email": "yaya@gms.ndhu.edu.tw",
-            "phone": "03-8906235"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【宣導公告】加強入校車輛違規取締作業",
-        "timestamp": "1742868918",
-        "url": "mail_display.php?timestamp=1742868918",
-        "date": "2025/03/25 10:15",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "許紹峯",
-            "email": "hsf113@gms.ndhu.edu.tw",
-            "phone": "03-8906314"
-        },
-        "attachmentCount": 0
     }
 ]
