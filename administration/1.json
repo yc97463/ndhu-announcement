@@ -1,5 +1,19 @@
 [
     {
+        "title": "【電腦教室公告】「兒童節及民族掃墓節」114.04.03-114.04.07連續假期，電腦教室不開放。The computer lab one will be closed on April 3-7, 2025.",
+        "timestamp": "1743400918",
+        "url": "mail_display.php?timestamp=1743400918",
+        "date": "2025/03/31 14:01",
+        "department": "圖書資訊處綜合業務組",
+        "author": {
+            "department": "圖書資訊處綜合業務組",
+            "name": "林循美",
+            "email": "cindy@gms.ndhu.edu.tw",
+            "phone": "8906774"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【交通安全】清明連續假期，請注意志學火車站及志學派出所停車規定，並小心行車安全。",
         "timestamp": "1743241133",
         "url": "mail_display.php?timestamp=1743241133",
@@ -186,20 +200,6 @@
         "timestamp": "1742889556",
         "url": "mail_display.php?timestamp=1742889556",
         "date": "2025/03/25 15:59",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "utd1003@gms.ndhu.edu.tw",
-            "phone": "6122-6126"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【課務組通知】113-2學期加選、加簽後學分(雜)費繳費通知 Credits Fee Payment  (3/28-4/16)",
-        "timestamp": "1742886963",
-        "url": "mail_display.php?timestamp=1742886963",
-        "date": "2025/03/25 15:16",
         "department": "教務處課務組",
         "author": {
             "department": "教務處課務組",

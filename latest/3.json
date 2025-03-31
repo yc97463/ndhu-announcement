@@ -1,5 +1,47 @@
 [
     {
+        "title": "3月29日(六)-4月10日(日)(含假日)理工一館CD側樓梯走道、牆面粉刷及天花板拆除及施工公告",
+        "timestamp": "1743142591",
+        "url": "mail_display.php?timestamp=1743142591",
+        "date": "2025/03/28 14:16",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "邱健榮",
+            "email": "janus@gms.ndhu.edu.tw",
+            "phone": "6385"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "outlook 無法收發學校信件問題",
+        "timestamp": "1743141042",
+        "url": "mail_display.php?timestamp=1743141042",
+        "date": "2025/03/28 13:50",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "葉宏達",
+            "email": "honda@gms.ndhu.edu.tw",
+            "phone": "8906747"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "【圖書館公告】兒童節暨民族掃墓節【114.04.03~04(四至五)】休館二日。114.04.07(一)調整開館時間：09:00-17:00。Library will be Closed on April 03-04, 2025.",
+        "timestamp": "1743138930",
+        "url": "mail_display.php?timestamp=1743138930",
+        "date": "2025/03/28 13:15",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "詹依萍",
+            "email": "ipchan@gms.ndhu.edu.tw",
+            "phone": "6813"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "📢📢🔆113-2學期Dongto東兔系列活動二-「快樂能量補給站-歐趴糖打氣紓壓站」🔆",
         "timestamp": "1743136325",
         "url": "mail_display.php?timestamp=1743136325",
@@ -166,47 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【教務處通知】114學年度行事曆 2025-2026 Academic Calendar",
-        "timestamp": "1743059144",
-        "url": "mail_display.php?timestamp=1743059144",
-        "date": "2025/03/27 15:05",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "陳君如",
-            "email": "ju@gms.ndhu.edu.tw",
-            "phone": "6124"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【徵才】高雄市政府勞工局訓練就業中心114年4月12日辦理徵才活動",
-        "timestamp": "1743058606",
-        "url": "mail_display.php?timestamp=1743058606",
-        "date": "2025/03/27 14:56",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【獎助學金申請】嘉新兆福文化基金會114年永續力獎學金",
-        "timestamp": "1743056880",
-        "url": "mail_display.php?timestamp=1743056880",
-        "date": "2025/03/27 14:28",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]
