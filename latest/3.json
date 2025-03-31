@@ -1,5 +1,33 @@
 [
     {
+        "title": "113-2歷史學系歷史週系列講座(三)：運動比賽節奏控制者-你不知道的體育主播",
+        "timestamp": "1743131703",
+        "url": "mail_display.php?timestamp=1743131703",
+        "date": "2025/03/28 11:15",
+        "department": "歷史學系",
+        "author": {
+            "department": "歷史學系",
+            "name": "吳助理",
+            "email": "suju1106@gms.ndhu.edu.tw",
+            "phone": "5323"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "114年4月份全校綠地除草維護時間及施作區域公告",
+        "timestamp": "1743128141",
+        "url": "mail_display.php?timestamp=1743128141",
+        "date": "2025/03/28 10:15",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "賴宜萱",
+            "email": "lai0210@gms.ndhu.edu.tw",
+            "phone": "6393"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "歷史系專題演講：1945年秋毛澤東的重慶行—兼論國共重慶會談",
         "timestamp": "1743128047",
         "url": "mail_display.php?timestamp=1743128047",
@@ -180,33 +208,5 @@
             "phone": "5788"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "「花東地區生態環境教育推廣」野望國際自然影展--東華大學場",
-        "timestamp": "1743055512",
-        "url": "mail_display.php?timestamp=1743055512",
-        "date": "2025/03/27 14:05",
-        "department": "師資培育中心",
-        "author": {
-            "department": "師資培育中心",
-            "name": "劉姵君",
-            "email": "amyliou@gms.ndhu.edu.tw",
-            "phone": "6632"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "「花東地區生態環境教育推廣」野望國際自然影展--東華大學場",
-        "timestamp": "1743054885",
-        "url": "mail_display.php?timestamp=1743054885",
-        "date": "2025/03/27 13:54",
-        "department": "師資培育中心",
-        "author": {
-            "department": "師資培育中心",
-            "name": "劉姵君",
-            "email": "amyliou@gms.ndhu.edu.tw",
-            "phone": "6632"
-        },
-        "attachmentCount": 3
     }
 ]

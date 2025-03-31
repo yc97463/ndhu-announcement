@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才】國立東華大學教學卓越中心課程與科技組徵聘計畫助理2名(第二次公告)",
+        "timestamp": "1741831156",
+        "url": "mail_display.php?timestamp=1741831156",
+        "date": "2025/03/13 09:59",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "李貞穎",
+            "email": "jeannie@gms.ndhu.edu.tw",
+            "phone": "8906587"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才公告】113-2數位大學伴~急徵!!!",
         "timestamp": "1741756172",
         "url": "mail_display.php?timestamp=1741756172",
@@ -194,19 +208,5 @@
             "phone": "890-3816"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "【徵才公告】國立東華大學管理學院會計與資訊管理國際學士班徵聘專任教師",
-        "timestamp": "1740362077",
-        "url": "mail_display.php?timestamp=1740362077",
-        "date": "2025/02/24 09:54",
-        "department": "會計與資訊管理國際學士班",
-        "author": {
-            "department": "會計與資訊管理國際學士班",
-            "name": "郭娜",
-            "email": "inagn@gms.ndhu.edu.tw",
-            "phone": "03-8903007"
-        },
-        "attachmentCount": 1
     }
 ]
