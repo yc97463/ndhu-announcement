@@ -1,9 +1,9 @@
 [
     {
         "title": "114學年度國立東華大學附設花蓮縣私立實驗幼兒園(準公幼)招生訊息(第一次公告)",
-        "timestamp": "1743483582",
-        "url": "mail_display.php?timestamp=1743483582",
-        "date": "2025/04/01 12:59",
+        "timestamp": "1743488501",
+        "url": "mail_display.php?timestamp=1743488501",
+        "date": "2025/04/01 14:21",
         "department": "附設實驗幼兒園",
         "author": {
             "department": "附設實驗幼兒園",
@@ -11,7 +11,49 @@
             "email": "uniquejoannewei@gms.ndhu.edu.tw",
             "phone": "6652"
         },
-        "attachmentCount": 3
+        "attachmentCount": 6
+    },
+    {
+        "title": "【徵才】中央銀行招募金融法務專業人員(114年5月2日截止)",
+        "timestamp": "1743486910",
+        "url": "mail_display.php?timestamp=1743486910",
+        "date": "2025/04/01 13:55",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 4
+    },
+    {
+        "title": "114年4月3~7日春假前注意及配合事項公告",
+        "timestamp": "1743486875",
+        "url": "mail_display.php?timestamp=1743486875",
+        "date": "2025/04/01 13:54",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "本校新簽定之雲品國際酒店股份有限公司米崙營業所 (米崙丼飯屋)特約商店公告。",
+        "timestamp": "1743486562",
+        "url": "mail_display.php?timestamp=1743486562",
+        "date": "2025/04/01 13:49",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "潘姵辰",
+            "email": "papec1980@gms.ndhu.edu.tw",
+            "phone": "03-8906313"
+        },
+        "attachmentCount": 2
     },
     {
         "title": "【轉知】教育部青年發展署「113年大專校院職涯輔導種子教師培訓」(北、中、南區)",
@@ -166,47 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【經濟系專題演講/Speech】2025.04.02(Wed)Prof. Dr. Gerd Muehlheusser（University of Hamburg, Germany, Managing Editor of Journal of Institutional and Theoretical Economics (JITE))",
-        "timestamp": "1743403198",
-        "url": "mail_display.php?timestamp=1743403198",
-        "date": "2025/03/31 14:39",
-        "department": "經濟學系",
-        "author": {
-            "department": "經濟學系",
-            "name": "李姸如",
-            "email": "yrlee@gms.ndhu.edu.tw",
-            "phone": "038905532"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【K書中心公告】K書中心A館於4/3(四)~4/7(一)休館五日 / K Study Center  A Closed from April 3 to April 7",
-        "timestamp": "1743402635",
-        "url": "mail_display.php?timestamp=1743402635",
-        "date": "2025/03/31 14:30",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "游家盛",
-            "email": "hyttepd@gms.ndhu.edu.tw",
-            "phone": "6589"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【電腦教室公告】「兒童節及民族掃墓節」114.04.03-114.04.07連續假期，電腦教室不開放。The computer lab one will be closed on April 3-7, 2025.",
-        "timestamp": "1743400918",
-        "url": "mail_display.php?timestamp=1743400918",
-        "date": "2025/03/31 14:01",
-        "department": "圖書資訊處綜合業務組",
-        "author": {
-            "department": "圖書資訊處綜合業務組",
-            "name": "林循美",
-            "email": "cindy@gms.ndhu.edu.tw",
-            "phone": "8906774"
-        },
-        "attachmentCount": 0
     }
 ]

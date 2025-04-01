@@ -1,5 +1,19 @@
 [
     {
+        "title": "公文系統訂於114年3月24日(一)中午12~13時暫停服務公告",
+        "timestamp": "1742543675",
+        "url": "mail_display.php?timestamp=1742543675",
+        "date": "2025/03/21 15:54",
+        "department": "總務處文書組",
+        "author": {
+            "department": "總務處文書組",
+            "name": "張先生",
+            "email": "eric.chang@gms.ndhu.edu.tw",
+            "phone": "03-8906352"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "原住民民族學院A311廁所施工公告",
         "timestamp": "1742543499",
         "url": "mail_display.php?timestamp=1742543499",
@@ -194,19 +208,5 @@
             "phone": "8906252"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【教務處通知】113-2學期「期中教學意見回饋」系統自3月31日(一)起開放學生填寫",
-        "timestamp": "1742284270",
-        "url": "mail_display.php?timestamp=1742284270",
-        "date": "2025/03/18 15:51",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "utd1003@gms.ndhu.edu.tw",
-            "phone": "6122-6126"
-        },
-        "attachmentCount": 4
     }
 ]
