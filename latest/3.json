@@ -1,5 +1,19 @@
 [
     {
+        "title": "【活動公告】性別平等教育書展開跑囉!",
+        "timestamp": "1743404320",
+        "url": "mail_display.php?timestamp=1743404320",
+        "date": "2025/03/31 14:58",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "廖銘珠",
+            "email": "min-judy@gms.ndhu.edu.tw",
+            "phone": "6855"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【實習】財團法人資訊工業策進會辦理「2025 FinTech校園接班人」暑期聯合實習招募活動(114年5月5日截止)",
         "timestamp": "1743403945",
         "url": "mail_display.php?timestamp=1743403945",
@@ -194,19 +208,5 @@
             "phone": "03-8906226"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "第25屆東華奇萊文學獎徵文活動~歡迎踴躍投稿~【4月8日下午5時截止收件】",
-        "timestamp": "1743219397",
-        "url": "mail_display.php?timestamp=1743219397",
-        "date": "2025/03/29 11:36",
-        "department": "人文社會科學學院",
-        "author": {
-            "department": "人文社會科學學院",
-            "name": "姜妃澤",
-            "email": "ftc1029@gms.ndhu.edu.tw",
-            "phone": "03-8905203"
-        },
-        "attachmentCount": 5
     }
 ]
