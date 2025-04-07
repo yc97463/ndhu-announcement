@@ -1,5 +1,19 @@
 [
     {
+        "title": "113-2人社院基礎課程「縱目歐亞—空間與人文的對話」系列講座",
+        "timestamp": "1739518646",
+        "url": "mail_display.php?timestamp=1739518646",
+        "date": "2025/02/14 15:37",
+        "department": "人文社會科學學院",
+        "author": {
+            "department": "人文社會科學學院",
+            "name": "姜妃澤",
+            "email": "ftc1029@gms.ndhu.edu.tw",
+            "phone": "03-8905203"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "新科技與台灣族語振興國際工作坊x成果展",
         "timestamp": "1739239027",
         "url": "mail_display.php?timestamp=1739239027",
@@ -194,19 +208,5 @@
             "phone": "6523"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【演講訊息】12/19 (四) 10:10-12:00 Innovating Mental Healthcare with Human-AI Synergy for Positive Impact",
-        "timestamp": "1734313591",
-        "url": "mail_display.php?timestamp=1734313591",
-        "date": "2024/12/16 09:46",
-        "department": "花師教育學院",
-        "author": {
-            "department": "花師教育學院",
-            "name": "許趙瑩臻",
-            "email": "hsuchao@gms.ndhu.edu.tw",
-            "phone": "3802"
-        },
-        "attachmentCount": 2
     }
 ]
