@@ -1,5 +1,19 @@
 [
     {
+        "title": "114學年度國立東華大學附設花蓮縣私立實驗幼兒園(準公幼)招生訊息(第一次公告)",
+        "timestamp": "1743488501",
+        "url": "mail_display.php?timestamp=1743488501",
+        "date": "2025/04/01 14:21",
+        "department": "附設實驗幼兒園",
+        "author": {
+            "department": "附設實驗幼兒園",
+            "name": "魏家薰",
+            "email": "uniquejoannewei@gms.ndhu.edu.tw",
+            "phone": "6652"
+        },
+        "attachmentCount": 6
+    },
+    {
         "title": "【徵才】中央銀行招募金融法務專業人員(114年5月2日截止)",
         "timestamp": "1743486910",
         "url": "mail_display.php?timestamp=1743486910",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【經濟系專題演講/Speech】2025.04.02(Wed)Prof. Dr. Gerd Muehlheusser（University of Hamburg, Germany, Managing Editor of Journal of Institutional and Theoretical Economics (JITE))",
-        "timestamp": "1743403198",
-        "url": "mail_display.php?timestamp=1743403198",
-        "date": "2025/03/31 14:39",
-        "department": "經濟學系",
-        "author": {
-            "department": "經濟學系",
-            "name": "李姸如",
-            "email": "yrlee@gms.ndhu.edu.tw",
-            "phone": "038905532"
-        },
-        "attachmentCount": 1
     }
 ]

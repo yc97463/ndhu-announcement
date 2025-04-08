@@ -1,5 +1,19 @@
 [
     {
+        "title": "【教務處】國立東華大學_學期週數問卷調查_教師版",
+        "timestamp": "1739343073",
+        "url": "mail_display.php?timestamp=1739343073",
+        "date": "2025/02/12 14:51",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "陳君如",
+            "email": "ju@gms.ndhu.edu.tw",
+            "phone": "6124"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【課務組公告】請注意113-2網路加退選時間 Please Notice the Period for Online Add/Drop Courses",
         "timestamp": "1739341102",
         "url": "mail_display.php?timestamp=1739341102",
@@ -194,19 +208,5 @@
             "phone": "6602"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "貴重儀器中心FE-SEM操作訓練課程",
-        "timestamp": "1736498601",
-        "url": "mail_display.php?timestamp=1736498601",
-        "date": "2025/01/10 16:43",
-        "department": "技術服務中心貴重儀器使用中心",
-        "author": {
-            "department": "技術服務中心貴重儀器使用中心",
-            "name": "林政文",
-            "email": "brucelin@gms.ndhu.edu.tw",
-            "phone": "3973"
-        },
-        "attachmentCount": 1
     }
 ]

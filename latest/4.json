@@ -1,5 +1,19 @@
 [
     {
+        "title": "委外管理程序教育訓練",
+        "timestamp": "1743577315",
+        "url": "mail_display.php?timestamp=1743577315",
+        "date": "2025/04/02 15:01",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "趙心榆",
+            "email": "vsychao@gms.ndhu.edu.tw",
+            "phone": "6722"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "有關臺灣人民領有中共居民身分證或定居證，均屬違反臺灣地區與大陸地區人民關係條例第9 條之1規定一案，請查照。",
         "timestamp": "1743577244",
         "url": "mail_display.php?timestamp=1743577244",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "114學年度國立東華大學附設花蓮縣私立實驗幼兒園(準公幼)招生訊息(第一次公告)",
-        "timestamp": "1743488501",
-        "url": "mail_display.php?timestamp=1743488501",
-        "date": "2025/04/01 14:21",
-        "department": "附設實驗幼兒園",
-        "author": {
-            "department": "附設實驗幼兒園",
-            "name": "魏家薰",
-            "email": "uniquejoannewei@gms.ndhu.edu.tw",
-            "phone": "6652"
-        },
-        "attachmentCount": 6
     }
 ]
