@@ -1,5 +1,33 @@
 [
     {
+        "title": "【轉知】國立宜蘭大學114/4/30「生成式 AI 實務應用：概念、工具、案例及操作技巧」",
+        "timestamp": "1744076770",
+        "url": "mail_display.php?timestamp=1744076770",
+        "date": "2025/04/08 09:46",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳禮凡",
+            "email": "lifan.chen@gms.ndhu.edu.tw",
+            "phone": "038906586"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "📣職涯講座 【履歷撰寫及面試技巧】📣",
+        "timestamp": "1744076122",
+        "url": "mail_display.php?timestamp=1744076122",
+        "date": "2025/04/08 09:35",
+        "department": "原住民族學生資源中心",
+        "author": {
+            "department": "原住民族學生資源中心",
+            "name": "林詠靖",
+            "email": "tipus@gms.ndhu.edu.tw",
+            "phone": "5707"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "2025花蓮 HSH 黑客松｜東華校園培力課程即將在4/14舉辦！",
         "timestamp": "1744004140",
         "url": "mail_display.php?timestamp=1744004140",
@@ -180,33 +208,5 @@
             "phone": "03-8906058"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "東華電子報 | 2025年03月刊 |",
-        "timestamp": "1743577159",
-        "url": "mail_display.php?timestamp=1743577159",
-        "date": "2025/04/02 14:59",
-        "department": "秘書室公關宣傳組",
-        "author": {
-            "department": "秘書室公關宣傳組",
-            "name": "林佩瑤",
-            "email": "peiyao@gms.ndhu.edu.tw",
-            "phone": "6013"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【辦理活動重要提醒】重申辦理學校活動應遵循教育及行政中立",
-        "timestamp": "1743577028",
-        "url": "mail_display.php?timestamp=1743577028",
-        "date": "2025/04/02 14:57",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "余惠真",
-            "email": "nacy4631@gms.ndhu.edu.tw",
-            "phone": "6232"
-        },
-        "attachmentCount": 1
     }
 ]
