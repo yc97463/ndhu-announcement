@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才公告】國立東華大學資訊管理學系誠徵【行政助理】一名",
+        "timestamp": "1741928465",
+        "url": "mail_display.php?timestamp=1741928465",
+        "date": "2025/03/14 13:01",
+        "department": "資訊管理學系",
+        "author": {
+            "department": "資訊管理學系",
+            "name": "王先生",
+            "email": "wenyi@gms.ndhu.edu.tw",
+            "phone": "8903103"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才】國立東華大學教學卓越中心課程與科技組徵聘計畫助理2名(第二次公告)",
         "timestamp": "1741831156",
         "url": "mail_display.php?timestamp=1741831156",
@@ -192,20 +206,6 @@
             "name": "東華學伴中心",
             "email": "etutor_c226@gms.ndhu.edu.tw",
             "phone": "3816"
-        },
-        "attachmentCount": 6
-    },
-    {
-        "title": "【熱烈招募】113-2數位大學伴招募~招募期限延長~2/28(五)",
-        "timestamp": "1740363832",
-        "url": "mail_display.php?timestamp=1740363832",
-        "date": "2025/02/24 10:23",
-        "department": "花師教育學院",
-        "author": {
-            "department": "花師教育學院",
-            "name": "李宛玲",
-            "email": "etutor_c226@gms.ndhu.edu.tw",
-            "phone": "890-3816"
         },
         "attachmentCount": 6
     }
