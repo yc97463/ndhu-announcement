@@ -1,5 +1,19 @@
 [
     {
+        "title": "【訊息轉知】臺北市立大學開設3門磨課師(MOOCs)免費線上課程",
+        "timestamp": "1744101552",
+        "url": "mail_display.php?timestamp=1744101552",
+        "date": "2025/04/08 16:39",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【實習】財團法人伊甸社會福利基金會114年實習(期中及暑期)",
         "timestamp": "1744100982",
         "url": "mail_display.php?timestamp=1744100982",
@@ -194,19 +208,5 @@
             "phone": "038903771"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "轉知外交部領事事務局出版新編113年度「為民服務白皮書」（第25期）之電子檔已置於該局全球資訊網（網址：https://www.boca.gov.tw；首頁/為民服務專區/為民服務白皮書）",
-        "timestamp": "1744092300",
-        "url": "mail_display.php?timestamp=1744092300",
-        "date": "2025/04/08 14:05",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "陳旺志",
-            "email": "dchen829@gms.ndhu.edu.tw",
-            "phone": "03-8906058"
-        },
-        "attachmentCount": 0
     }
 ]
