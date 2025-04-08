@@ -1,5 +1,33 @@
 [
     {
+        "title": "[演講公告]歐洲議會資訊處處長Aleliunaite女士蒞校分享：歐盟的歷史與組織",
+        "timestamp": "1740559716",
+        "url": "mail_display.php?timestamp=1740559716",
+        "date": "2025/02/26 16:48",
+        "department": "朱副校長室",
+        "author": {
+            "department": "朱副校長室",
+            "name": "謝育筌 先生",
+            "email": "ycshie@gms.ndhu.edu.tw",
+            "phone": "(03)890-6032"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "[科教專題演講]李暉教授主講：寓學於樂--旅遊與科學教育",
+        "timestamp": "1739947926",
+        "url": "mail_display.php?timestamp=1739947926",
+        "date": "2025/02/19 14:52",
+        "department": "教育與潛能開發學系",
+        "author": {
+            "department": "教育與潛能開發學系",
+            "name": "科學教育碩博班",
+            "email": "esontsai@gms.ndhu.edu.tw",
+            "phone": "3824"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【課程活動轉發】 新創大學堂課程~歡迎報名~",
         "timestamp": "1739947570",
         "url": "mail_display.php?timestamp=1739947570",
@@ -180,33 +208,5 @@
             "phone": "03-8903823"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "12/24（二）13：00 【師培永續講座】永續時代的師資培育，地點:學活A101",
-        "timestamp": "1734574362",
-        "url": "mail_display.php?timestamp=1734574362",
-        "date": "2024/12/19 10:12",
-        "department": "師資培育中心",
-        "author": {
-            "department": "師資培育中心",
-            "name": "趙又瑩",
-            "email": "unchao@gms.ndhu.edu.tw",
-            "phone": "6643"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【第十一屆原住民族傳統習慣與國家法制研討會】",
-        "timestamp": "1734491738",
-        "url": "mail_display.php?timestamp=1734491738",
-        "date": "2024/12/18 11:15",
-        "department": "法律學系",
-        "author": {
-            "department": "法律學系",
-            "name": "Galaigai Cavalje 高蘇恩",
-            "email": "galaigai@gms.ndhu.edu.tw",
-            "phone": "5663"
-        },
-        "attachmentCount": 2
     }
 ]

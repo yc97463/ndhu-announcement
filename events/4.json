@@ -1,5 +1,33 @@
 [
     {
+        "title": "歷史系專題演講：1945年秋毛澤東的重慶行—兼論國共重慶會談",
+        "timestamp": "1743128047",
+        "url": "mail_display.php?timestamp=1743128047",
+        "date": "2025/03/28 10:14",
+        "department": "歷史學系",
+        "author": {
+            "department": "歷史學系",
+            "name": "吳助理",
+            "email": "suju1106@gms.ndhu.edu.tw",
+            "phone": "5323"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "📢⪦ 2025東華春藝季： Tapa Awaking 震能量．〈地景創作藝術品〉點燈儀式",
+        "timestamp": "1743062928",
+        "url": "mail_display.php?timestamp=1743062928",
+        "date": "2025/03/27 16:08",
+        "department": "藝術中心",
+        "author": {
+            "department": "藝術中心",
+            "name": "周葦綸",
+            "email": "arts@gms.ndhu.edu.tw",
+            "phone": "6606"
+        },
+        "attachmentCount": 7
+    },
+    {
         "title": "【發社系-民族講座】從見山不是山，到見山還是山：由台灣登山史，世界七頂峰，到手作自然步道師",
         "timestamp": "1743055588",
         "url": "mail_display.php?timestamp=1743055588",
@@ -180,33 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【113-2推廣教育招生】「人物肖像似顏繪創作坊」",
-        "timestamp": "1742862315",
-        "url": "mail_display.php?timestamp=1742862315",
-        "date": "2025/03/25 08:25",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 6
-    },
-    {
-        "title": "【轉知】韓國建國大學–International Summer School (ISS)(New!)",
-        "timestamp": "1742810506",
-        "url": "mail_display.php?timestamp=1742810506",
-        "date": "2025/03/24 18:01",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 17
     }
 ]
