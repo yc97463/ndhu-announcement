@@ -1,5 +1,19 @@
 [
     {
+        "title": "請授課教師提供113學年度第2學期「教師指定參考書清單」，謝謝。",
+        "timestamp": "1736387776",
+        "url": "mail_display.php?timestamp=1736387776",
+        "date": "2025/01/09 09:56",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "陳昱佐",
+            "email": "yutuchen@gms.ndhu.edu.tw",
+            "phone": "038906824"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "資通系統盤點暨安全等級評估教育訓練",
         "timestamp": "1736216485",
         "url": "mail_display.php?timestamp=1736216485",
@@ -194,19 +208,5 @@
             "phone": "038905213"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【2024 Indigenous Knowledge Public Lecture Series】pinhkngyan: Paths taken to recognising , doing and developing Indigenous methodologies ",
-        "timestamp": "1733147744",
-        "url": "mail_display.php?timestamp=1733147744",
-        "date": "2024/12/02 21:55",
-        "department": "原住民族國際事務中心",
-        "author": {
-            "department": "原住民族國際事務中心",
-            "name": "李佳津",
-            "email": "iia@gms.ndhu.edu.tw",
-            "phone": "038905710"
-        },
-        "attachmentCount": 3
     }
 ]

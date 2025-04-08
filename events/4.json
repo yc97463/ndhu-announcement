@@ -1,6 +1,20 @@
 [
     {
         "title": "「花東地區生態環境教育推廣」野望國際自然影展--東華大學場",
+        "timestamp": "1743055512",
+        "url": "mail_display.php?timestamp=1743055512",
+        "date": "2025/03/27 14:05",
+        "department": "師資培育中心",
+        "author": {
+            "department": "師資培育中心",
+            "name": "劉姵君",
+            "email": "amyliou@gms.ndhu.edu.tw",
+            "phone": "6632"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "「花東地區生態環境教育推廣」野望國際自然影展--東華大學場",
         "timestamp": "1743054885",
         "url": "mail_display.php?timestamp=1743054885",
         "date": "2025/03/27 13:54",
@@ -194,19 +208,5 @@
             "phone": "6282"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【發社系】malahok~海是要聊聊天吧！--場次3.陳張培倫老師、Kui Kasirsir許俊才老師",
-        "timestamp": "1742687702",
-        "url": "mail_display.php?timestamp=1742687702",
-        "date": "2025/03/23 07:55",
-        "department": "原住民民族學院 民族發展與社會工作學系",
-        "author": {
-            "department": "原住民民族學院 民族發展與社會工作學系",
-            "name": "郭雅婷",
-            "email": "tefi@gms.ndhu.edu.tw",
-            "phone": "5788"
-        },
-        "attachmentCount": 0
     }
 ]
