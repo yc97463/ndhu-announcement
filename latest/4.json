@@ -1,5 +1,19 @@
 [
     {
+        "title": "東華電子報 | 2025年03月刊 |",
+        "timestamp": "1743577159",
+        "url": "mail_display.php?timestamp=1743577159",
+        "date": "2025/04/02 14:59",
+        "department": "秘書室公關宣傳組",
+        "author": {
+            "department": "秘書室公關宣傳組",
+            "name": "林佩瑤",
+            "email": "peiyao@gms.ndhu.edu.tw",
+            "phone": "6013"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【辦理活動重要提醒】重申辦理學校活動應遵循教育及行政中立",
         "timestamp": "1743577028",
         "url": "mail_display.php?timestamp=1743577028",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "114年4月3~7日春假前注意及配合事項公告",
-        "timestamp": "1743486875",
-        "url": "mail_display.php?timestamp=1743486875",
-        "date": "2025/04/01 13:54",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 2
     }
 ]
