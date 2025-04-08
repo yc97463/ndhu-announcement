@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才訊息】國立東華大學國際事務處誠徵計畫專任助理1名",
+        "timestamp": "1739501453",
+        "url": "mail_display.php?timestamp=1739501453",
+        "date": "2025/02/14 10:50",
+        "department": "國際事務處",
+        "author": {
+            "department": "國際事務處",
+            "name": "劉力綺",
+            "email": "cheerio@gms.ndhu.edu.tw",
+            "phone": "5109"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【人才招募】113-2 東華數位大學伴招募!!!",
         "timestamp": "1739266168",
         "url": "mail_display.php?timestamp=1739266168",
@@ -194,19 +208,5 @@
             "phone": "5718"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【徵才公告】誠徵大學社會責任專任執行秘書",
-        "timestamp": "1736834644",
-        "url": "mail_display.php?timestamp=1736834644",
-        "date": "2025/01/14 14:04",
-        "department": "社會參與中心",
-        "author": {
-            "department": "社會參與中心",
-            "name": "鄒小姐",
-            "email": "tsai_yen@gms.ndhu.edu.tw",
-            "phone": "5243"
-        },
-        "attachmentCount": 2
     }
 ]
