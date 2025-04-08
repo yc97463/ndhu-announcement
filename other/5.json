@@ -1,5 +1,19 @@
 [
     {
+        "title": "志學門左側探照燈線路修復作業(第2次公告施工時間延長)",
+        "timestamp": "1742559562",
+        "url": "mail_display.php?timestamp=1742559562",
+        "date": "2025/03/21 20:19",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【實習】彰化基督教青年會(彰化YMCA)2025暑期實習計畫(114年5月29日截止)",
         "timestamp": "1742540952",
         "url": "mail_display.php?timestamp=1742540952",
@@ -194,19 +208,5 @@
             "phone": "8906236"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【徵才】中原大學114年3月26日辦理2025校園徵才博覽會",
-        "timestamp": "1742373080",
-        "url": "mail_display.php?timestamp=1742373080",
-        "date": "2025/03/19 16:31",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 2
     }
 ]
