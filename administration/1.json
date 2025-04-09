@@ -1,5 +1,33 @@
 [
     {
+        "title": "擴大行政會議 會議紀錄公告通知",
+        "timestamp": "1744171048",
+        "url": "mail_display.php?timestamp=1744171048",
+        "date": "2025/04/09 11:57",
+        "department": "秘書室議事公文組",
+        "author": {
+            "department": "秘書室議事公文組",
+            "name": "陳婉婉",
+            "email": "secretariat@gms.ndhu.edu.tw",
+            "phone": "6004"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【宣導公告】加強入校車輛違規取締作業(第二次公告)",
+        "timestamp": "1744170721",
+        "url": "mail_display.php?timestamp=1744170721",
+        "date": "2025/04/09 11:52",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "許紹峯",
+            "email": "hsf113@gms.ndhu.edu.tw",
+            "phone": "03-8906314"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "轉教育部「112-114年大專校院校園行動支付推動計畫」調查公告",
         "timestamp": "1744167512",
         "url": "mail_display.php?timestamp=1744167512",
@@ -180,33 +208,5 @@
             "phone": "03-8905203"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【推廣教育通知】即日起至4月15日止受理推廣教育工作人員績效酬勞核發(第二次通知)",
-        "timestamp": "1743147261",
-        "url": "mail_display.php?timestamp=1743147261",
-        "date": "2025/03/28 15:34",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "洪乃慈",
-            "email": "naitzu@gms.ndhu.edu.tw",
-            "phone": "6523"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "3月29日(六)-4月10日(日)(含假日)理工一館CD側樓梯走道、牆面粉刷及天花板拆除及施工公告",
-        "timestamp": "1743142591",
-        "url": "mail_display.php?timestamp=1743142591",
-        "date": "2025/03/28 14:16",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "邱健榮",
-            "email": "janus@gms.ndhu.edu.tw",
-            "phone": "6385"
-        },
-        "attachmentCount": 1
     }
 ]
