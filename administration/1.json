@@ -1,5 +1,19 @@
 [
     {
+        "title": "轉教育部「112-114年大專校院校園行動支付推動計畫」調查公告",
+        "timestamp": "1744167512",
+        "url": "mail_display.php?timestamp=1744167512",
+        "date": "2025/04/09 10:58",
+        "department": "總務處出納組",
+        "author": {
+            "department": "總務處出納組",
+            "name": "余小姐",
+            "email": "bady421@gms.ndhu.edu.tw",
+            "phone": "6367"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【圖書館公告】113-2期中考延長開館時間。[Library NOTICE] Library Extended Opening Hours for Study and Exam Periods.",
         "timestamp": "1744159977",
         "url": "mail_display.php?timestamp=1744159977",
@@ -194,19 +208,5 @@
             "phone": "6385"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【圖書館公告】兒童節暨民族掃墓節【114.04.03~04(四至五)】休館二日。114.04.07(一)調整開館時間：09:00-17:00。Library will be Closed on April 03-04, 2025.",
-        "timestamp": "1743138930",
-        "url": "mail_display.php?timestamp=1743138930",
-        "date": "2025/03/28 13:15",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "詹依萍",
-            "email": "ipchan@gms.ndhu.edu.tw",
-            "phone": "6813"
-        },
-        "attachmentCount": 0
     }
 ]
