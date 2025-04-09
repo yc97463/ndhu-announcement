@@ -1,5 +1,19 @@
 [
     {
+        "title": "【停水】素心里停水公告。",
+        "timestamp": "1744177148",
+        "url": "mail_display.php?timestamp=1744177148",
+        "date": "2025/04/09 13:39",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才】陽明海運2025年度岸勤人員招募中🛳️⚓️(114年4月30日截止)",
         "timestamp": "1744170129",
         "url": "mail_display.php?timestamp=1744170129",
@@ -194,19 +208,5 @@
             "phone": "03-8903687"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "2025花蓮 HSH 黑客松｜校園說明會熱血開跑！",
-        "timestamp": "1744003929",
-        "url": "mail_display.php?timestamp=1744003929",
-        "date": "2025/04/07 13:32",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "吳其璁",
-            "email": "dci93031@gms.ndhu.edu.tw",
-            "phone": "03-8903687"
-        },
-        "attachmentCount": 6
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
+        "timestamp": "1742266914",
+        "url": "mail_display.php?timestamp=1742266914",
+        "date": "2025/03/18 11:01",
+        "department": "圖書資訊處校務系統組",
+        "author": {
+            "department": "圖書資訊處校務系統組",
+            "name": "林志軒",
+            "email": "chshlin@gms.ndhu.edu.tw",
+            "phone": "6752"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【教育優先區】114年暑假教育優先區中小學營隊活動校內申請即日起至114年4月18日(五)下午17:00收件截止!!! Application for the K-12 School Camp Activities during summer break of academic year 2025",
         "timestamp": "1742196759",
         "url": "mail_display.php?timestamp=1742196759",
@@ -194,19 +208,5 @@
             "phone": "038905778"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "2025 臺國大系統 \\ 國合會 人道援助處 實習志工 招募中 // ",
-        "timestamp": "1741770462",
-        "url": "mail_display.php?timestamp=1741770462",
-        "date": "2025/03/12 17:07",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 5
     }
 ]
