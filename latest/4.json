@@ -1,5 +1,47 @@
 [
     {
+        "title": "📣職涯講座 【履歷撰寫及面試技巧】📣",
+        "timestamp": "1744076122",
+        "url": "mail_display.php?timestamp=1744076122",
+        "date": "2025/04/08 09:35",
+        "department": "原住民族學生資源中心",
+        "author": {
+            "department": "原住民族學生資源中心",
+            "name": "林詠靖",
+            "email": "tipus@gms.ndhu.edu.tw",
+            "phone": "5707"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "2025花蓮 HSH 黑客松｜東華校園培力課程即將在4/14舉辦！",
+        "timestamp": "1744004140",
+        "url": "mail_display.php?timestamp=1744004140",
+        "date": "2025/04/07 13:35",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "吳其璁",
+            "email": "dci93031@gms.ndhu.edu.tw",
+            "phone": "03-8903687"
+        },
+        "attachmentCount": 4
+    },
+    {
+        "title": "2025花蓮 HSH 黑客松｜校園說明會熱血開跑！",
+        "timestamp": "1744003929",
+        "url": "mail_display.php?timestamp=1744003929",
+        "date": "2025/04/07 13:32",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "吳其璁",
+            "email": "dci93031@gms.ndhu.edu.tw",
+            "phone": "03-8903687"
+        },
+        "attachmentCount": 6
+    },
+    {
         "title": "【藝創工作坊】114/4/26「2025 Open Day 藝創美器 ◆ 金工體驗」，歡迎報名！",
         "timestamp": "1743994485",
         "url": "mail_display.php?timestamp=1743994485",
@@ -166,47 +208,5 @@
             "phone": "6013"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【辦理活動重要提醒】重申辦理學校活動應遵循教育及行政中立",
-        "timestamp": "1743577028",
-        "url": "mail_display.php?timestamp=1743577028",
-        "date": "2025/04/02 14:57",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "余惠真",
-            "email": "nacy4631@gms.ndhu.edu.tw",
-            "phone": "6232"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【徵才】輔英科技大學114年3月23日辦理2025校園徵才博覽會",
-        "timestamp": "1743566612",
-        "url": "mail_display.php?timestamp=1743566612",
-        "date": "2025/04/02 12:03",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "新墨西哥大學沉浸式學習計畫分享會--開啟你的美國學習之旅 University of New Mexico Summer English Immersion Program Sharing Session",
-        "timestamp": "1743564833",
-        "url": "mail_display.php?timestamp=1743564833",
-        "date": "2025/04/02 11:33",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 4
     }
 ]
