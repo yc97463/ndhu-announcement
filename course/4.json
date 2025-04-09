@@ -1,5 +1,19 @@
 [
     {
+        "title": "【課務組】113-2學期兼任教師教學、課程停開及請假補（代）課提醒事項",
+        "timestamp": "1739410634",
+        "url": "mail_display.php?timestamp=1739410634",
+        "date": "2025/02/13 09:37",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "宋育縈",
+            "email": "suz@gms.ndhu.edu.tw",
+            "phone": "6126"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【教務處】國立東華大學_學期週數問卷調查_教師版",
         "timestamp": "1739343073",
         "url": "mail_display.php?timestamp=1739343073",
@@ -194,19 +208,5 @@
             "phone": "6122-6126"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【通識】113-2學期通識課程活動補助申請",
-        "timestamp": "1736925497",
-        "url": "mail_display.php?timestamp=1736925497",
-        "date": "2025/01/15 15:18",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "李睿芬",
-            "email": "fen19@gms.ndhu.edu.tw",
-            "phone": "6602"
-        },
-        "attachmentCount": 4
     }
 ]
