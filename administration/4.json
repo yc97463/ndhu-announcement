@@ -1,5 +1,19 @@
 [
     {
+        "title": "《第十三班新航之舟-領航員招募》即日起至 3/31（一）報名囉!!!",
+        "timestamp": "1742431966",
+        "url": "mail_display.php?timestamp=1742431966",
+        "date": "2025/03/20 08:52",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "余惠真",
+            "email": "nacy4631@gms.ndhu.edu.tw",
+            "phone": "03-8906232"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "管理學院2號電梯(左)故障停用。",
         "timestamp": "1742392423",
         "url": "mail_display.php?timestamp=1742392423",
@@ -194,19 +208,5 @@
             "phone": "03-8906235"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【課務組通知】授課教師可列印113-2學期選課確認名單",
-        "timestamp": "1742181445",
-        "url": "mail_display.php?timestamp=1742181445",
-        "date": "2025/03/17 11:17",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "utd1003@gms.ndhu.edu.tw",
-            "phone": "6122-6126"
-        },
-        "attachmentCount": 0
     }
 ]

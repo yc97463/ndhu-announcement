@@ -1,5 +1,19 @@
 [
     {
+        "title": "【圖書館公告】113-2期中考延長開館時間。[Library NOTICE] Library Extended Opening Hours for Study and Exam Periods.",
+        "timestamp": "1744159977",
+        "url": "mail_display.php?timestamp=1744159977",
+        "date": "2025/04/09 08:52",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "詹依萍",
+            "email": "ipchan@gms.ndhu.edu.tw",
+            "phone": "6813"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【辦理活動重要提醒】重申辦理學校活動應遵循教育及行政中立",
         "timestamp": "1744105542",
         "url": "mail_display.php?timestamp=1744105542",
@@ -194,19 +208,5 @@
             "phone": "6813"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "114年4月份全校綠地除草維護時間及施作區域公告",
-        "timestamp": "1743128141",
-        "url": "mail_display.php?timestamp=1743128141",
-        "date": "2025/03/28 10:15",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "賴宜萱",
-            "email": "lai0210@gms.ndhu.edu.tw",
-            "phone": "6393"
-        },
-        "attachmentCount": 1
     }
 ]
