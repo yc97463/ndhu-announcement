@@ -1,5 +1,33 @@
 [
     {
+        "title": " (第三次通知)體育中心113-2學期「體適能檢測」時間公告",
+        "timestamp": "1744273133",
+        "url": "mail_display.php?timestamp=1744273133",
+        "date": "2025/04/10 16:18",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "莊璦綺",
+            "email": "ichi@gms.ndhu.edu.tw",
+            "phone": "6613"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【通識性平講座】4/24(四)沒有女權的世界真的很美好嗎？談談建中菜單、麥當勞事件怎麼了",
+        "timestamp": "1744271118",
+        "url": "mail_display.php?timestamp=1744271118",
+        "date": "2025/04/10 15:45",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "李助理",
+            "email": "fen19@gms.ndhu.edu.tw",
+            "phone": "6602"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【人事室宣導】不論因公或因私赴陸港澳請至大陸委員會「國人赴陸港澳動態登錄系統」登陸",
         "timestamp": "1744268461",
         "url": "mail_display.php?timestamp=1744268461",
@@ -180,33 +208,5 @@
             "phone": "03-8906215"
         },
         "attachmentCount": 9
-    },
-    {
-        "title": "自資系113-2【航向世界紀錄片放映暨生職涯講座】Sailing Beyond Borders | Documentary Screening \u0026 Career Talk",
-        "timestamp": "1744187486",
-        "url": "mail_display.php?timestamp=1744187486",
-        "date": "2025/04/09 16:31",
-        "department": "自然資源與環境學系",
-        "author": {
-            "department": "自然資源與環境學系",
-            "name": "謝家榛助理",
-            "email": "stoven@gms.ndhu.edu.tw",
-            "phone": "03-8903267"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【代轉】人社期刊申請加入國際引文資料庫（Web of Science與Scopus）推廣說明會",
-        "timestamp": "1744184777",
-        "url": "mail_display.php?timestamp=1744184777",
-        "date": "2025/04/09 15:46",
-        "department": "圖書資訊處",
-        "author": {
-            "department": "圖書資訊處",
-            "name": "周小萍",
-            "email": "hedy@gms.ndhu.edu.tw",
-            "phone": "6852"
-        },
-        "attachmentCount": 2
     }
 ]
