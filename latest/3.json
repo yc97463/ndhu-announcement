@@ -1,5 +1,19 @@
 [
     {
+        "title": "📣【職涯講座】履歷撰寫及面試技巧",
+        "timestamp": "1744156502",
+        "url": "mail_display.php?timestamp=1744156502",
+        "date": "2025/04/09 07:55",
+        "department": "學務處 原住民族學生資源中心",
+        "author": {
+            "department": "學務處 原住民族學生資源中心",
+            "name": "林詠靖",
+            "email": "tipus@gms.ndhu.edu.tw",
+            "phone": "03-890-5707"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "「縱目歐亞-空間與人文的對話」課程系列講座_04/23（三）劉慧助理教授（東華大學歷史系）_香料的旅行：丁香與肉荳蔻的歐亞移動",
         "timestamp": "1744156501",
         "url": "mail_display.php?timestamp=1744156501",
@@ -194,19 +208,5 @@
             "phone": "6401"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【徵才】國立東華大學國際事務處誠徵計畫專任助理1名",
-        "timestamp": "1744096582",
-        "url": "mail_display.php?timestamp=1744096582",
-        "date": "2025/04/08 15:16",
-        "department": "國際事務處",
-        "author": {
-            "department": "國際事務處",
-            "name": "劉力綺",
-            "email": "cheerio@gms.ndhu.edu.tw",
-            "phone": "5109"
-        },
-        "attachmentCount": 0
     }
 ]
