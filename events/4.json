@@ -1,5 +1,19 @@
 [
     {
+        "title": "【交安活動】交通安全宣導與肇事預防-機車安全駕駛活動，歡迎同學踴躍報名。",
+        "timestamp": "1743583056",
+        "url": "mail_display.php?timestamp=1743583056",
+        "date": "2025/04/02 16:37",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "林嘉瑩",
+            "email": "tea7101@gms.ndhu.edu.tw",
+            "phone": "03-8906226"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "新墨西哥大學沉浸式學習計畫分享會--開啟你的美國學習之旅 University of New Mexico Summer English Immersion Program Sharing Session",
         "timestamp": "1743564833",
         "url": "mail_display.php?timestamp=1743564833",
@@ -194,19 +208,5 @@
             "phone": "8905703"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "東華夜市第三場來啦！！！就在4月1日(第二次公告)",
-        "timestamp": "1743393027",
-        "url": "mail_display.php?timestamp=1743393027",
-        "date": "2025/03/31 11:50",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "游雅筑",
-            "email": "pink389124@gms.ndhu.edu.tw",
-            "phone": "6236"
-        },
-        "attachmentCount": 6
     }
 ]
