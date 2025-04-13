@@ -1,5 +1,33 @@
 [
     {
+        "title": "113-2 學期「學業期中預警系統」正式啟動，請授課老師於期限內上網填寫預警資料!",
+        "timestamp": "1744337074",
+        "url": "mail_display.php?timestamp=1744337074",
+        "date": "2025/04/11 10:04",
+        "department": "教務處註冊組",
+        "author": {
+            "department": "教務處註冊組",
+            "name": "羅靖雯",
+            "email": "chage2000.tw@gms.ndhu.edu.tw",
+            "phone": "6115"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "📣職涯講座 【履歷撰寫及面試技巧】📣",
+        "timestamp": "1744336580",
+        "url": "mail_display.php?timestamp=1744336580",
+        "date": "2025/04/11 09:56",
+        "department": "原住民族學生資源中心",
+        "author": {
+            "department": "原住民族學生資源中心",
+            "name": "林詠靖",
+            "email": "tipus@gms.ndhu.edu.tw",
+            "phone": "5707"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "本校新簽定之聯登物業有限公司(停車場)特約商店公告。",
         "timestamp": "1744333478",
         "url": "mail_display.php?timestamp=1744333478",
@@ -180,33 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【教育優先區】114年暑假教育優先區中小學營隊活動校內申請即日起至114年4月18日(五)下午17:00收件截止!!! Application for the K-12 School Camp Activities during summer break of academic year 2025",
-        "timestamp": "1744255721",
-        "url": "mail_display.php?timestamp=1744255721",
-        "date": "2025/04/10 11:28",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "余惠真",
-            "email": "nacy4631@gms.ndhu.edu.tw",
-            "phone": "6232"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【徵才】勞動部勞動力發展署桃竹苗分署綜合機械職類聘用助理訓練師(114年4月28日截止)",
-        "timestamp": "1744254362",
-        "url": "mail_display.php?timestamp=1744254362",
-        "date": "2025/04/10 11:06",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 5
     }
 ]
