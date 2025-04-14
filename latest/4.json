@@ -1,5 +1,47 @@
 [
     {
+        "title": "📣職涯講座 【履歷撰寫及面試技巧】📣",
+        "timestamp": "1744336580",
+        "url": "mail_display.php?timestamp=1744336580",
+        "date": "2025/04/11 09:56",
+        "department": "原住民族學生資源中心",
+        "author": {
+            "department": "原住民族學生資源中心",
+            "name": "林詠靖",
+            "email": "tipus@gms.ndhu.edu.tw",
+            "phone": "5707"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "本校新簽定之聯登物業有限公司(停車場)特約商店公告。",
+        "timestamp": "1744333478",
+        "url": "mail_display.php?timestamp=1744333478",
+        "date": "2025/04/11 09:04",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "潘姵辰",
+            "email": "papec1980@gms.ndhu.edu.tw",
+            "phone": "03-8906313"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "本校委外廠商(真食鍋物)提供書劵獎得獎學生優惠券第2次公告",
+        "timestamp": "1744332429",
+        "url": "mail_display.php?timestamp=1744332429",
+        "date": "2025/04/11 08:47",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "潘姵辰",
+            "email": "papec1980@gms.ndhu.edu.tw",
+            "phone": "03-8906313"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "匠心獨運：拉威爾誕生150年專場音樂會",
         "timestamp": "1744329302",
         "url": "mail_display.php?timestamp=1744329302",
@@ -166,47 +208,5 @@
             "phone": "6232"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【徵才】勞動部勞動力發展署桃竹苗分署綜合機械職類聘用助理訓練師(114年4月28日截止)",
-        "timestamp": "1744254362",
-        "url": "mail_display.php?timestamp=1744254362",
-        "date": "2025/04/10 11:06",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 5
-    },
-    {
-        "title": "【徵才】建國科技大學114年4月24日辦理2025校園徵才博覽會",
-        "timestamp": "1744252991",
-        "url": "mail_display.php?timestamp=1744252991",
-        "date": "2025/04/10 10:43",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【徵才】台灣世界展望會招募兼職社工助理(北、中、南、東各區) ✨",
-        "timestamp": "1744250700",
-        "url": "mail_display.php?timestamp=1744250700",
-        "date": "2025/04/10 10:05",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 2
     }
 ]

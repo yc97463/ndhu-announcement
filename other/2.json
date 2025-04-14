@@ -1,5 +1,33 @@
 [
     {
+        "title": "【徵才】健行科技大學114年5月8日辦理2025校園徵才博覽會",
+        "timestamp": "1744354116",
+        "url": "mail_display.php?timestamp=1744354116",
+        "date": "2025/04/11 14:48",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "本校新簽定之聯登物業有限公司(停車場)特約商店公告。",
+        "timestamp": "1744333478",
+        "url": "mail_display.php?timestamp=1744333478",
+        "date": "2025/04/11 09:04",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "潘姵辰",
+            "email": "papec1980@gms.ndhu.edu.tw",
+            "phone": "03-8906313"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【徵才】德育護理健康學院114年4月23日辦理2025校園徵才博覽會",
         "timestamp": "1744278404",
         "url": "mail_display.php?timestamp=1744278404",
@@ -180,33 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【停水】素心里停水公告。",
-        "timestamp": "1744177148",
-        "url": "mail_display.php?timestamp=1744177148",
-        "date": "2025/04/09 13:39",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【徵才】陽明海運2025年度岸勤人員招募中🛳️⚓️(114年4月30日截止)",
-        "timestamp": "1744170129",
-        "url": "mail_display.php?timestamp=1744170129",
-        "date": "2025/04/09 11:42",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
     }
 ]
