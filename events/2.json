@@ -1,5 +1,33 @@
 [
     {
+        "title": "音樂學系大四班級音樂會",
+        "timestamp": "1744329301",
+        "url": "mail_display.php?timestamp=1744329301",
+        "date": "2025/04/11 07:55",
+        "department": "藝術學院 音樂學系",
+        "author": {
+            "department": "藝術學院 音樂學系",
+            "name": "張純倩",
+            "email": "asd963741@gms.ndhu.edu.tw",
+            "phone": "03-8905168"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "📢⪦ 2025東華春藝季：《一起搖擺吧！》Swing Dance 體驗舞會",
+        "timestamp": "1744285354",
+        "url": "mail_display.php?timestamp=1744285354",
+        "date": "2025/04/10 19:42",
+        "department": "藝術中心",
+        "author": {
+            "department": "藝術中心",
+            "name": "周葦綸",
+            "email": "arts@gms.ndhu.edu.tw",
+            "phone": "6606"
+        },
+        "attachmentCount": 9
+    },
+    {
         "title": "【轉知】臺北教育大學辦理第30屆傑出校友選拔暨表揚事宜，檢送選拔暨表揚辦法及推薦表1份，開放推薦自即日起至114年9月30日(星期二)止。",
         "timestamp": "1744276504",
         "url": "mail_display.php?timestamp=1744276504",
@@ -178,34 +206,6 @@
             "name": "沈正雄",
             "email": "chshen@gms.ndhu.edu.tw",
             "phone": "038906618"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "📣【職涯講座】履歷撰寫及面試技巧",
-        "timestamp": "1744156502",
-        "url": "mail_display.php?timestamp=1744156502",
-        "date": "2025/04/09 07:55",
-        "department": "學務處 原住民族學生資源中心",
-        "author": {
-            "department": "學務處 原住民族學生資源中心",
-            "name": "林詠靖",
-            "email": "tipus@gms.ndhu.edu.tw",
-            "phone": "03-890-5707"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "「縱目歐亞-空間與人文的對話」課程系列講座_04/23（三）劉慧助理教授（東華大學歷史系）_香料的旅行：丁香與肉荳蔻的歐亞移動",
-        "timestamp": "1744156501",
-        "url": "mail_display.php?timestamp=1744156501",
-        "date": "2025/04/09 07:55",
-        "department": "人文社會科學學院 ",
-        "author": {
-            "department": "人文社會科學學院",
-            "name": "姜妃澤",
-            "email": "ftc1029@gms.ndhu.edu.tw",
-            "phone": "03-8905203"
         },
         "attachmentCount": 0
     }
