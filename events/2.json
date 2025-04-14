@@ -1,5 +1,19 @@
 [
     {
+        "title": "【4/16開幕式】國立東華大學亮點計畫成果暨執行海報展",
+        "timestamp": "1744342414",
+        "url": "mail_display.php?timestamp=1744342414",
+        "date": "2025/04/11 11:33",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "綜合企劃組",
+            "email": "rd505@gms.ndhu.edu.tw",
+            "phone": "038906510"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "📣職涯講座 【履歷撰寫及面試技巧】📣",
         "timestamp": "1744336580",
         "url": "mail_display.php?timestamp=1744336580",
@@ -194,19 +208,5 @@
             "phone": "5107"
         },
         "attachmentCount": 14
-    },
-    {
-        "title": "【展覽】國立東華大學亮點計畫成果暨執行海報展",
-        "timestamp": "1744164582",
-        "url": "mail_display.php?timestamp=1744164582",
-        "date": "2025/04/09 10:09",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "綜合企劃組",
-            "email": "rd505@gms.ndhu.edu.tw",
-            "phone": "6510"
-        },
-        "attachmentCount": 0
     }
 ]
