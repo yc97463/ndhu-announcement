@@ -1,5 +1,19 @@
 [
     {
+        "title": "【資安宣導】為因應新型態數位服務延伸之新興資安風險，請各機關遵循「危害國家資通安全產品限制使用原則」，並依規定辦理，請查照。",
+        "timestamp": "1744613978",
+        "url": "mail_display.php?timestamp=1744613978",
+        "date": "2025/04/14 14:59",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "蕭澤宇",
+            "email": "zyhsiao@gms.ndhu.edu.tw",
+            "phone": "6727"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【課務組】113學年度第2學期期中停修Mid-semester Course Withdrawal",
         "timestamp": "1744612129",
         "url": "mail_display.php?timestamp=1744612129",
@@ -194,19 +208,5 @@
             "phone": "6367"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【圖書館公告】113-2期中考延長開館時間。[Library NOTICE] Library Extended Opening Hours for Study and Exam Periods.",
-        "timestamp": "1744159977",
-        "url": "mail_display.php?timestamp=1744159977",
-        "date": "2025/04/09 08:52",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "詹依萍",
-            "email": "ipchan@gms.ndhu.edu.tw",
-            "phone": "6813"
-        },
-        "attachmentCount": 0
     }
 ]
