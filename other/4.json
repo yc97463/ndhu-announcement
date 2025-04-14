@@ -1,5 +1,19 @@
 [
     {
+        "title": "東華電子報 | 2025年03月刊 |",
+        "timestamp": "1743577159",
+        "url": "mail_display.php?timestamp=1743577159",
+        "date": "2025/04/02 14:59",
+        "department": "秘書室公關宣傳組",
+        "author": {
+            "department": "秘書室公關宣傳組",
+            "name": "林佩瑤",
+            "email": "peiyao@gms.ndhu.edu.tw",
+            "phone": "6013"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才】輔英科技大學114年3月23日辦理2025校園徵才博覽會",
         "timestamp": "1743566612",
         "url": "mail_display.php?timestamp=1743566612",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "第25屆東華奇萊文學獎徵文活動~歡迎踴躍投稿~【4月8日下午5時截止收件】",
-        "timestamp": "1743219397",
-        "url": "mail_display.php?timestamp=1743219397",
-        "date": "2025/03/29 11:36",
-        "department": "人文社會科學學院",
-        "author": {
-            "department": "人文社會科學學院",
-            "name": "姜妃澤",
-            "email": "ftc1029@gms.ndhu.edu.tw",
-            "phone": "03-8905203"
-        },
-        "attachmentCount": 5
     }
 ]
