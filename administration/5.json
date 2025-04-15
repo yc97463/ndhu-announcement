@@ -1,5 +1,19 @@
 [
     {
+        "title": "因應環境消毐，3月23日部份校內商店暫停營業通知公告",
+        "timestamp": "1742525351",
+        "url": "mail_display.php?timestamp=1742525351",
+        "date": "2025/03/21 10:49",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "潘姵辰",
+            "email": "papec1980@gms.ndhu.edu.tw",
+            "phone": "03-8906313"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "校園禁止商業宣傳及推銷等行為",
         "timestamp": "1742524491",
         "url": "mail_display.php?timestamp=1742524491",
@@ -194,19 +208,5 @@
             "phone": "6225"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "人社一館Ｃ區外走廊地板磁磚施工公告",
-        "timestamp": "1742280825",
-        "url": "mail_display.php?timestamp=1742280825",
-        "date": "2025/03/18 14:53",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "黃章傑",
-            "email": "cotycafe@gms.ndhu.edu.tw",
-            "phone": "038905778"
-        },
-        "attachmentCount": 1
     }
 ]

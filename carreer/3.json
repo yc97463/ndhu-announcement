@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才訊息】國立東華大學教學卓越中心課程與科技組徵聘計畫助理2名",
+        "timestamp": "1741055452",
+        "url": "mail_display.php?timestamp=1741055452",
+        "date": "2025/03/04 10:30",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "李貞穎",
+            "email": "jeannie@gms.ndhu.edu.tw",
+            "phone": "8906587"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【役男訊息】中華電信「114年研發替代役人員遴選」簡章公告",
         "timestamp": "1740699524",
         "url": "mail_display.php?timestamp=1740699524",
@@ -192,20 +206,6 @@
             "name": "歐典灝",
             "email": "marcoq52014@gms.ndhu.edu.tw",
             "phone": "03-890-3778"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【徵才訊息】國立東華大學教學卓越中心課程與科技組徵聘計畫助理3名(第二次公告)",
-        "timestamp": "1739934506",
-        "url": "mail_display.php?timestamp=1739934506",
-        "date": "2025/02/19 11:08",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "李貞穎",
-            "email": "jeannie@gms.ndhu.edu.tw",
-            "phone": "8906587"
         },
         "attachmentCount": 0
     }
