@@ -1,5 +1,19 @@
 [
     {
+        "title": "【課務組通知】113-2學期加選、加簽後學分(雜)費繳費通知 Credits Fee Payment  (3/28-4/16)",
+        "timestamp": "1742886963",
+        "url": "mail_display.php?timestamp=1742886963",
+        "date": "2025/03/25 15:16",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【宣導公告】加強入校車輛違規取締作業",
         "timestamp": "1742868918",
         "url": "mail_display.php?timestamp=1742868918",
@@ -194,19 +208,5 @@
             "phone": "8906375"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "吳全道人行道部分區域進行高壓電纜地下管線施工公告",
-        "timestamp": "1742535830",
-        "url": "mail_display.php?timestamp=1742535830",
-        "date": "2025/03/21 13:43",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉景富",
-            "email": "nickak@gms.ndhu.edu.tw",
-            "phone": "8906373"
-        },
-        "attachmentCount": 1
     }
 ]
