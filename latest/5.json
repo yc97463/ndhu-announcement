@@ -1,5 +1,19 @@
 [
     {
+        "title": "本校新簽定之聯登物業有限公司(停車場)特約商店公告。",
+        "timestamp": "1744333478",
+        "url": "mail_display.php?timestamp=1744333478",
+        "date": "2025/04/11 09:04",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "潘姵辰",
+            "email": "papec1980@gms.ndhu.edu.tw",
+            "phone": "03-8906313"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "本校委外廠商(真食鍋物)提供書劵獎得獎學生優惠券第2次公告",
         "timestamp": "1744332429",
         "url": "mail_display.php?timestamp=1744332429",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【徵才】建國科技大學114年4月24日辦理2025校園徵才博覽會",
-        "timestamp": "1744252991",
-        "url": "mail_display.php?timestamp=1744252991",
-        "date": "2025/04/10 10:43",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 2
     }
 ]

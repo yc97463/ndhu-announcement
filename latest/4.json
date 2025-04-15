@@ -1,5 +1,19 @@
 [
     {
+        "title": "【藝創展廳】114/4/14-18「山頂的髮捲 」李玥瑢陶塑創作個展",
+        "timestamp": "1744420261",
+        "url": "mail_display.php?timestamp=1744420261",
+        "date": "2025/04/12 09:11",
+        "department": "藝術創意產業學系",
+        "author": {
+            "department": "藝術創意產業學系",
+            "name": "謝明海",
+            "email": "ocean@gms.ndhu.edu.tw",
+            "phone": "890-5889"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【藝創展廳】114/4/14-18「折光  _  謝旻芸插畫創作個展」",
         "timestamp": "1744420088",
         "url": "mail_display.php?timestamp=1744420088",
@@ -194,19 +208,5 @@
             "phone": "5707"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "本校新簽定之聯登物業有限公司(停車場)特約商店公告。",
-        "timestamp": "1744333478",
-        "url": "mail_display.php?timestamp=1744333478",
-        "date": "2025/04/11 09:04",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "潘姵辰",
-            "email": "papec1980@gms.ndhu.edu.tw",
-            "phone": "03-8906313"
-        },
-        "attachmentCount": 3
     }
 ]
