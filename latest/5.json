@@ -1,5 +1,19 @@
 [
     {
+        "title": "📣職涯講座 【履歷撰寫及面試技巧】📣",
+        "timestamp": "1744336580",
+        "url": "mail_display.php?timestamp=1744336580",
+        "date": "2025/04/11 09:56",
+        "department": "原住民族學生資源中心",
+        "author": {
+            "department": "原住民族學生資源中心",
+            "name": "林詠靖",
+            "email": "tipus@gms.ndhu.edu.tw",
+            "phone": "5707"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "本校新簽定之聯登物業有限公司(停車場)特約商店公告。",
         "timestamp": "1744333478",
         "url": "mail_display.php?timestamp=1744333478",
@@ -194,19 +208,5 @@
             "phone": "6232"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【徵才】勞動部勞動力發展署桃竹苗分署綜合機械職類聘用助理訓練師(114年4月28日截止)",
-        "timestamp": "1744254362",
-        "url": "mail_display.php?timestamp=1744254362",
-        "date": "2025/04/10 11:06",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 5
     }
 ]

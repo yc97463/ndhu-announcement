@@ -1,5 +1,19 @@
 [
     {
+        "title": "【轉知】文化部第49屆金鼎獎報名事宜",
+        "timestamp": "1744549727",
+        "url": "mail_display.php?timestamp=1744549727",
+        "date": "2025/04/13 21:08",
+        "department": "圖書資訊處採訪編目組",
+        "author": {
+            "department": "圖書資訊處採訪編目組",
+            "name": "蔡欣婷",
+            "email": "city90204051@gms.ndhu.edu.tw",
+            "phone": "6834"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【藝創展廳】114/4/14-18「山頂的髮捲 」李玥瑢陶塑創作個展",
         "timestamp": "1744420261",
         "url": "mail_display.php?timestamp=1744420261",
@@ -194,19 +208,5 @@
             "phone": "6115"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "📣職涯講座 【履歷撰寫及面試技巧】📣",
-        "timestamp": "1744336580",
-        "url": "mail_display.php?timestamp=1744336580",
-        "date": "2025/04/11 09:56",
-        "department": "原住民族學生資源中心",
-        "author": {
-            "department": "原住民族學生資源中心",
-            "name": "林詠靖",
-            "email": "tipus@gms.ndhu.edu.tw",
-            "phone": "5707"
-        },
-        "attachmentCount": 2
     }
 ]
