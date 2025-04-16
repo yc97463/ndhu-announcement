@@ -1,5 +1,19 @@
 [
     {
+        "title": "【防範校外租屋詐騙公告】",
+        "timestamp": "1744608370",
+        "url": "mail_display.php?timestamp=1744608370",
+        "date": "2025/04/14 13:26",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳詩啓",
+            "email": "sam0831@gms.ndhu.edu.tw",
+            "phone": "6216"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "歷史系專題演講：延長的戰場：1949年後流離於東亞間的中華民國國軍",
         "timestamp": "1744601801",
         "url": "mail_display.php?timestamp=1744601801",
@@ -194,19 +208,5 @@
             "phone": "890-5889"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【發社系】malahok~海是要聊聊天吧！--場次4.高怡安Wasiq Silan老師、楊政賢老師",
-        "timestamp": "1744415702",
-        "url": "mail_display.php?timestamp=1744415702",
-        "date": "2025/04/12 07:55",
-        "department": "原住民民族學院 民族發展與社會工作學系",
-        "author": {
-            "department": "原住民民族學院 民族發展與社會工作學系",
-            "name": "郭雅婷",
-            "email": "tefi@gms.ndhu.edu.tw",
-            "phone": "5788"
-        },
-        "attachmentCount": 0
     }
 ]
