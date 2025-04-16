@@ -1,5 +1,61 @@
 [
     {
+        "title": "【資安宣導】為因應新型態數位服務延伸之新興資安風險，請各機關遵循「危害國家資通安全產品限制使用原則」，並依規定辦理，請查照。",
+        "timestamp": "1744613978",
+        "url": "mail_display.php?timestamp=1744613978",
+        "date": "2025/04/14 14:59",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "蕭澤宇",
+            "email": "zyhsiao@gms.ndhu.edu.tw",
+            "phone": "6727"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【轉知】韓國中央大學2025 CAU International Summer Program",
+        "timestamp": "1744613788",
+        "url": "mail_display.php?timestamp=1744613788",
+        "date": "2025/04/14 14:56",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 11
+    },
+    {
+        "title": "觀遊系-畢業專題See’xer觀查家團隊【親子共遊．農場探險小旅行】",
+        "timestamp": "1744613049",
+        "url": "mail_display.php?timestamp=1744613049",
+        "date": "2025/04/14 14:44",
+        "department": "觀光暨休閒遊憩學系",
+        "author": {
+            "department": "觀光暨休閒遊憩學系",
+            "name": "黃顗龍",
+            "email": "41103a007@gms.ndhu.edu.tw",
+            "phone": "0983989624"
+        },
+        "attachmentCount": 5
+    },
+    {
+        "title": "【課務組】113學年度第2學期期中停修Mid-semester Course Withdrawal",
+        "timestamp": "1744612129",
+        "url": "mail_display.php?timestamp=1744612129",
+        "date": "2025/04/14 14:28",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵聘教師】國立東華大學材料科學與工程學系徵聘助理教授(含)以上專任教師1名",
         "timestamp": "1744610003",
         "url": "mail_display.php?timestamp=1744610003",
@@ -152,61 +208,5 @@
             "phone": "03-8906284"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【第二次公告】委外管理程序教育訓練",
-        "timestamp": "1744594518",
-        "url": "mail_display.php?timestamp=1744594518",
-        "date": "2025/04/14 09:35",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "趙心榆",
-            "email": "vsychao@gms.ndhu.edu.tw",
-            "phone": "6722"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【學生宿舍】114學年學生宿舍候補一作業相關事項 【Student Dormitory】114th Academic Year Dormitory Application (Waiting List Ⅰ)",
-        "timestamp": "1744591555",
-        "url": "mail_display.php?timestamp=1744591555",
-        "date": "2025/04/14 08:45",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳怡秀",
-            "email": "yishoue@gms.ndhu.edu.tw",
-            "phone": "6212"
-        },
-        "attachmentCount": 6
-    },
-    {
-        "title": "【週四法語角】113-2 French Lunch Hour 法文午餐會話時間 4/24 第5場 Session 5",
-        "timestamp": "1744588501",
-        "url": "mail_display.php?timestamp=1744588501",
-        "date": "2025/04/14 07:55",
-        "department": "洄瀾學院 語言中心",
-        "author": {
-            "department": "洄瀾學院 語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【轉知】基隆市文化觀光局辦理「114年文學創作出版補助徵選」事宜",
-        "timestamp": "1744550007",
-        "url": "mail_display.php?timestamp=1744550007",
-        "date": "2025/04/13 21:13",
-        "department": "圖書資訊處採訪編目組",
-        "author": {
-            "department": "圖書資訊處採訪編目組",
-            "name": "蔡欣婷",
-            "email": "city90204051@gms.ndhu.edu.tw",
-            "phone": "6834"
-        },
-        "attachmentCount": 3
     }
 ]
