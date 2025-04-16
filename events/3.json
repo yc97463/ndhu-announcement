@@ -1,5 +1,33 @@
 [
     {
+        "title": "【4/16開幕式】國立東華大學亮點計畫成果暨執行海報展",
+        "timestamp": "1744342414",
+        "url": "mail_display.php?timestamp=1744342414",
+        "date": "2025/04/11 11:33",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "綜合企劃組",
+            "email": "rd505@gms.ndhu.edu.tw",
+            "phone": "038906510"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "📣職涯講座 【履歷撰寫及面試技巧】📣",
+        "timestamp": "1744336580",
+        "url": "mail_display.php?timestamp=1744336580",
+        "date": "2025/04/11 09:56",
+        "department": "原住民族學生資源中心",
+        "author": {
+            "department": "原住民族學生資源中心",
+            "name": "林詠靖",
+            "email": "tipus@gms.ndhu.edu.tw",
+            "phone": "5707"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "匠心獨運：拉威爾誕生150年專場音樂會",
         "timestamp": "1744329302",
         "url": "mail_display.php?timestamp=1744329302",
@@ -180,33 +208,5 @@
             "phone": "5107"
         },
         "attachmentCount": 14
-    },
-    {
-        "title": "【展覽】國立東華大學亮點計畫成果暨執行海報展",
-        "timestamp": "1744164582",
-        "url": "mail_display.php?timestamp=1744164582",
-        "date": "2025/04/09 10:09",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "綜合企劃組",
-            "email": "rd505@gms.ndhu.edu.tw",
-            "phone": "6510"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【Forward 協助轉知】國立臺灣科技大學「碳盤查平台捐贈儀式暨淨零論壇」",
-        "timestamp": "1744161366",
-        "url": "mail_display.php?timestamp=1744161366",
-        "date": "2025/04/09 09:16",
-        "department": "永續發展中心",
-        "author": {
-            "department": "永續發展中心",
-            "name": "李莉莉 Li-Li Lee",
-            "email": "sd@gms.ndhu.edu.tw",
-            "phone": "03-890-5920"
-        },
-        "attachmentCount": 3
     }
 ]
