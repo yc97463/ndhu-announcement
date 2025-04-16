@@ -1,5 +1,19 @@
 [
     {
+        "title": "【教務處通知】114學年度行事曆 2025-2026 Academic Calendar",
+        "timestamp": "1743059144",
+        "url": "mail_display.php?timestamp=1743059144",
+        "date": "2025/03/27 15:05",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "陳君如",
+            "email": "ju@gms.ndhu.edu.tw",
+            "phone": "6124"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "🔥🔥🔥《第十三班新航之舟-領航員招募》熱情招募中",
         "timestamp": "1742952014",
         "url": "mail_display.php?timestamp=1742952014",
@@ -192,20 +206,6 @@
             "name": "莊璦綺",
             "email": "ichi@gms.ndhu.edu.tw",
             "phone": "6613"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【徵才】本校徵求環境暨海洋學院院長人選",
-        "timestamp": "1742776623",
-        "url": "mail_display.php?timestamp=1742776623",
-        "date": "2025/03/24 08:37",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "楊惠雯",
-            "email": "hwyang@gms.ndhu.edu.tw",
-            "phone": "6061"
         },
         "attachmentCount": 1
     }
