@@ -1,5 +1,33 @@
 [
     {
+        "title": "本校「新宿舍運動」-西區學生宿舍整建說明會",
+        "timestamp": "1744701970",
+        "url": "mail_display.php?timestamp=1744701970",
+        "date": "2025/04/15 15:26",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳芳甫",
+            "email": "a779563@gms.ndhu.edu.tw",
+            "phone": "6224"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【活動】Let's Talk About April Schedule 四月場次",
+        "timestamp": "1744700113",
+        "url": "mail_display.php?timestamp=1744700113",
+        "date": "2025/04/15 14:55",
+        "department": "語言中心",
+        "author": {
+            "department": "語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 7
+    },
+    {
         "title": "【教務處通知】113全學年專任教師授課時數確認通知（請於5月23日前完成）",
         "timestamp": "1744696890",
         "url": "mail_display.php?timestamp=1744696890",
@@ -180,33 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【徵才】國立嘉義大學114年5月7日辦理2025校園徵才博覽會",
-        "timestamp": "1744621594",
-        "url": "mail_display.php?timestamp=1744621594",
-        "date": "2025/04/14 17:06",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【114年「雙語浪潮」教師社群講座活動】4/23「教學實踐研究之【教學研究設計與成效評估】」",
-        "timestamp": "1744621031",
-        "url": "mail_display.php?timestamp=1744621031",
-        "date": "2025/04/14 16:57",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 2
     }
 ]
