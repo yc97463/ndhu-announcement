@@ -1,5 +1,19 @@
 [
     {
+        "title": "諮商中心資源教室：【身心障礙者就業資源盤點與就業成功經驗分享講座】",
+        "timestamp": "1744679630",
+        "url": "mail_display.php?timestamp=1744679630",
+        "date": "2025/04/15 09:13",
+        "department": "心理諮商輔導中心資源開發組",
+        "author": {
+            "department": "心理諮商輔導中心資源開發組",
+            "name": "鍾雅琳",
+            "email": "lin.chung@gms.ndhu.edu.tw",
+            "phone": "03-8903155"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【113-2推廣教育招生】「人物肖像似顏繪創作坊」",
         "timestamp": "1744678998",
         "url": "mail_display.php?timestamp=1744678998",
@@ -194,19 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "師資培育中心徵聘地方教育輔導組職務代理人",
-        "timestamp": "1744617950",
-        "url": "mail_display.php?timestamp=1744617950",
-        "date": "2025/04/14 16:05",
-        "department": "師資培育中心",
-        "author": {
-            "department": "師資培育中心",
-            "name": "陳淑貞",
-            "email": "sjchen@gms.ndhu.edu.tw",
-            "phone": "(03)8906636"
-        },
-        "attachmentCount": 0
     }
 ]

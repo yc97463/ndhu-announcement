@@ -1,5 +1,19 @@
 [
     {
+        "title": "國際事務處國際人才留台就業系列講座-職涯牌卡探索工作坊",
+        "timestamp": "1744784591",
+        "url": "mail_display.php?timestamp=1744784591",
+        "date": "2025/04/16 14:23",
+        "department": "國際事務處國際合作組",
+        "author": {
+            "department": "國際事務處國際合作組",
+            "name": "魏綺瑩",
+            "email": "ice2@gms.ndhu.edu.tw",
+            "phone": "5171"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "企業參訪-亞洲水泥 (職缺媒合正職、實習、工讀等機會)",
         "timestamp": "1744775362",
         "url": "mail_display.php?timestamp=1744775362",
@@ -194,19 +208,5 @@
             "phone": "8906607"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "電影欣賞:東春與神奇啵啵",
-        "timestamp": "1744674901",
-        "url": "mail_display.php?timestamp=1744674901",
-        "date": "2025/04/15 07:55",
-        "department": "圖書資訊處 圖資服務組",
-        "author": {
-            "department": "圖書資訊處 圖資服務組",
-            "name": "廖銘珠",
-            "email": "min-judy@gms.ndhu.edu.tw",
-            "phone": "6855"
-        },
-        "attachmentCount": 0
     }
 ]
