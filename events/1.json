@@ -1,5 +1,19 @@
 [
     {
+        "title": "【自資教師系列活動】一起走進老師的實驗室與人生故事！",
+        "timestamp": "1744868032",
+        "url": "mail_display.php?timestamp=1744868032",
+        "date": "2025/04/17 13:33",
+        "department": "自然資源與環境學系",
+        "author": {
+            "department": "自然資源與環境學系",
+            "name": "謝家榛助理",
+            "email": "stoven@gms.ndhu.edu.tw",
+            "phone": "8903267"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【東華永續國際研討會】2025 適應力、復原力和永續性國際研討會",
         "timestamp": "1744863150",
         "url": "mail_display.php?timestamp=1744863150",
@@ -194,19 +208,5 @@
             "phone": "(03)890-3789"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【展覽開展中｜卑南族 Pinaski 靜態成果展】",
-        "timestamp": "1744771647",
-        "url": "mail_display.php?timestamp=1744771647",
-        "date": "2025/04/16 10:47",
-        "department": "原住民族學生資源中心",
-        "author": {
-            "department": "原住民族學生資源中心",
-            "name": "林詠靖",
-            "email": "tipus@gms.ndhu.edu.tw",
-            "phone": "5707"
-        },
-        "attachmentCount": 5
     }
 ]
