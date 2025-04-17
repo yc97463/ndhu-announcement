@@ -1,19 +1,5 @@
 [
     {
-        "title": "【第一次公告】簡捷校內報支程序，取消劃帳清冊等事宜，敬請配合辦理",
-        "timestamp": "1744873034",
-        "url": "mail_display.php?timestamp=1744873034",
-        "date": "2025/04/17 14:57",
-        "department": "主計室",
-        "author": {
-            "department": "主計室",
-            "name": "曾俊達",
-            "email": "kleiber0576@gms.ndhu.edu.tw",
-            "phone": "(03)8906079"
-        },
-        "attachmentCount": 0
-    },
-    {
         "title": "【代轉學生選舉委員會公告】 第十五屆學生自治會選舉，候選人登記進行中!! ",
         "timestamp": "1744792546",
         "url": "mail_display.php?timestamp=1744792546",
@@ -208,5 +194,19 @@
             "phone": "6122-6126"
         },
         "attachmentCount": 0
+    },
+    {
+        "title": "【Student Dormitory】2025 Summer Dormitory Application ",
+        "timestamp": "1744598505",
+        "url": "mail_display.php?timestamp=1744598505",
+        "date": "2025/04/14 10:41",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳怡秀",
+            "email": "yishoue@gms.ndhu.edu.tw",
+            "phone": "6212"
+        },
+        "attachmentCount": 5
     }
 ]
