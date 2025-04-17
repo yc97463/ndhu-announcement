@@ -1,5 +1,33 @@
 [
     {
+        "title": "【教育訓練】Microsoft 365從課程設計到團隊執行的數位工作流程實戰",
+        "timestamp": "1744787581",
+        "url": "mail_display.php?timestamp=1744787581",
+        "date": "2025/04/16 15:13",
+        "department": "圖書資訊處綜合業務組",
+        "author": {
+            "department": "圖書資訊處綜合業務組",
+            "name": "何振揚",
+            "email": "cyang@gms.ndhu.edu.tw",
+            "phone": "6746"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "2025七系聯合春季暨畢業舞會---春∙漾young .ᐟ‪‪.ᐟ   ",
+        "timestamp": "1744786710",
+        "url": "mail_display.php?timestamp=1744786710",
+        "date": "2025/04/16 14:58",
+        "department": "教育與潛能開發學系",
+        "author": {
+            "department": "教育與潛能開發學系",
+            "name": "謝亭誼",
+            "email": "411288021@gms.ndhu.edu.tw",
+            "phone": "038903822"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "國際事務處國際人才留台就業系列講座-職涯牌卡探索工作坊",
         "timestamp": "1744784591",
         "url": "mail_display.php?timestamp=1744784591",
@@ -180,33 +208,5 @@
             "phone": "03-8906235"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "《離開東華就沒有的免費舞會體驗！💃》📢⪦ 2025東華春藝季：《一起搖擺吧！》Swing Dance 體驗舞會",
-        "timestamp": "1744706668",
-        "url": "mail_display.php?timestamp=1744706668",
-        "date": "2025/04/15 16:44",
-        "department": "藝術中心",
-        "author": {
-            "department": "藝術中心",
-            "name": "周葦綸",
-            "email": "arts@gms.ndhu.edu.tw",
-            "phone": "6606"
-        },
-        "attachmentCount": 8
-    },
-    {
-        "title": "【113-2東華師培研習】因材網融入英文課程設計:超實用線上教學平台與工具+四學模式",
-        "timestamp": "1744705185",
-        "url": "mail_display.php?timestamp=1744705185",
-        "date": "2025/04/15 16:19",
-        "department": "師資培育中心",
-        "author": {
-            "department": "師資培育中心",
-            "name": "劉姵君",
-            "email": "amyliou@gms.ndhu.edu.tw",
-            "phone": "6632"
-        },
-        "attachmentCount": 3
     }
 ]

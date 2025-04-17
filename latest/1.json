@@ -1,5 +1,33 @@
 [
     {
+        "title": "【第一次公告】簡捷校內報支程序，取消劃帳清冊等事宜",
+        "timestamp": "1744876675",
+        "url": "mail_display.php?timestamp=1744876675",
+        "date": "2025/04/17 15:57",
+        "department": "主計室",
+        "author": {
+            "department": "主計室",
+            "name": "曾俊達",
+            "email": "kleiber0576@gms.ndhu.edu.tw",
+            "phone": "(03)8906079"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【發社系-民族講座】從狩獵文化看原住民族知識的實踐─困境與機會",
+        "timestamp": "1744875969",
+        "url": "mail_display.php?timestamp=1744875969",
+        "date": "2025/04/17 15:46",
+        "department": "原住民民族學院",
+        "author": {
+            "department": "原住民民族學院",
+            "name": "發社系",
+            "email": "tefi@gms.ndhu.edu.tw",
+            "phone": "5788"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【徵才】新竹縣政府社會處招募聘（約）用社會工作督導及社會工作員",
         "timestamp": "1744871901",
         "url": "mail_display.php?timestamp=1744871901",
@@ -180,33 +208,5 @@
             "phone": "038905778"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【徵選】第一屆「東華 Design+ 設計競賽」熱烈徵件中！",
-        "timestamp": "1744852047",
-        "url": "mail_display.php?timestamp=1744852047",
-        "date": "2025/04/17 09:07",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "洄瀾共好大學社會責任中心",
-            "email": "techusr@gms.ndhu.edu.tw",
-            "phone": "3772"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【協助轉知】長庚大學「永續發展與大學社會責任 SIG 交流論壇」",
-        "timestamp": "1744847849",
-        "url": "mail_display.php?timestamp=1744847849",
-        "date": "2025/04/17 07:57",
-        "department": "永續發展中心",
-        "author": {
-            "department": "永續發展中心",
-            "name": "李莉莉 Li-Li Lee",
-            "email": "sd@gms.ndhu.edu.tw",
-            "phone": "03-890-5920"
-        },
-        "attachmentCount": 4
     }
 ]
