@@ -1,5 +1,19 @@
 [
     {
+        "title": "師資培育中心徵聘地方教育輔導組職務代理人",
+        "timestamp": "1744617950",
+        "url": "mail_display.php?timestamp=1744617950",
+        "date": "2025/04/14 16:05",
+        "department": "師資培育中心",
+        "author": {
+            "department": "師資培育中心",
+            "name": "陳淑貞",
+            "email": "sjchen@gms.ndhu.edu.tw",
+            "phone": "(03)8906636"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【轉知】上海東華大學 2025滬台青年菁英領袖營活動",
         "timestamp": "1744617601",
         "url": "mail_display.php?timestamp=1744617601",
@@ -194,19 +208,5 @@
             "phone": "6212"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【轉知】中華民國資訊軟體協會邀請提報國際資通訊獎項「2025年WITSA Global Award」活動相關資訊。",
-        "timestamp": "1744596205",
-        "url": "mail_display.php?timestamp=1744596205",
-        "date": "2025/04/14 10:03",
-        "department": "圖書資訊處綜合業務組",
-        "author": {
-            "department": "圖書資訊處綜合業務組",
-            "name": "陳玫榕",
-            "email": "jung315@gms.ndhu.edu.tw",
-            "phone": "6775"
-        },
-        "attachmentCount": 3
     }
 ]
