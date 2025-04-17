@@ -1,5 +1,33 @@
 [
     {
+        "title": "【影片和投影片的索取須知】大型語言模型（LLM）技術與 GPT 教育中應用之探討與應用線上研討會",
+        "timestamp": "1735884578",
+        "url": "mail_display.php?timestamp=1735884578",
+        "date": "2025/01/03 14:09",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "趙心榆",
+            "email": "vsychao@gms.ndhu.edu.tw",
+            "phone": "6722"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【邀請參加】大型語言模型（LLM）技術與 GPT 教育中應用之探討與應用線上研討會",
+        "timestamp": "1735781736",
+        "url": "mail_display.php?timestamp=1735781736",
+        "date": "2025/01/02 09:35",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "趙心榆",
+            "email": "vsychao@gms.ndhu.edu.tw",
+            "phone": "6722"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【活動推推】113-1「性別與社會」成果展：被保溫的日常—看見社會中的性／別",
         "timestamp": "1735196087",
         "url": "mail_display.php?timestamp=1735196087",
@@ -178,34 +206,6 @@
             "name": "鄒小姐",
             "email": "tsai_yen@gms.ndhu.edu.tw",
             "phone": "5243"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "金典講座「找到你的天命，讓罪變成幸運 ──隱匿談《幸運的罪》」x楊牧書房結盟文學館家族儀式",
-        "timestamp": "1733844995",
-        "url": "mail_display.php?timestamp=1733844995",
-        "date": "2024/12/10 23:36",
-        "department": "楊牧文學研究中心",
-        "author": {
-            "department": "楊牧文學研究中心",
-            "name": "林祐瑄",
-            "email": "yslin1120@gms.ndhu.edu.tw",
-            "phone": "03-8905277"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "113-1【Follow 當代原住民族部落議題系列講座】轉型正義的實踐：平埔族的修法訴求與未來路徑",
-        "timestamp": "1733817858",
-        "url": "mail_display.php?timestamp=1733817858",
-        "date": "2024/12/10 16:04",
-        "department": "法律學系",
-        "author": {
-            "department": "法律學系",
-            "name": "Galaigai Cavalje 高蘇恩",
-            "email": "galaigai@gms.ndhu.edu.tw",
-            "phone": "5663"
         },
         "attachmentCount": 2
     }

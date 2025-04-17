@@ -1,5 +1,47 @@
 [
     {
+        "title": " 國立東華大學洄瀾共好大學社會責任中心誠徵計畫助理一名",
+        "timestamp": "1744793302",
+        "url": "mail_display.php?timestamp=1744793302",
+        "date": "2025/04/16 16:48",
+        "department": "管理學院",
+        "author": {
+            "department": "管理學院",
+            "name": "洄瀾共好大學社會責任中心",
+            "email": "techusr@gms.ndhu.edu.tw",
+            "phone": "3772/3770"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【徵才】高雄市政府勞工局訓練就業中心114年5月3日辦理徵才活動",
+        "timestamp": "1744792978",
+        "url": "mail_display.php?timestamp=1744792978",
+        "date": "2025/04/16 16:42",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 4
+    },
+    {
+        "title": "【代轉學生選舉委員會公告】 第十五屆學生自治會選舉，候選人登記進行中!! ",
+        "timestamp": "1744792546",
+        "url": "mail_display.php?timestamp=1744792546",
+        "date": "2025/04/16 16:35",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "姜紫淇",
+            "email": "yaya@gms.ndhu.edu.tw",
+            "phone": "03-8906235"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【徵才】大葉大學114年5月7日辦理2025校園徵才博覽會",
         "timestamp": "1744791833",
         "url": "mail_display.php?timestamp=1744791833",
@@ -166,47 +208,5 @@
             "phone": "5707"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【徵選】2026.08.01-08.06 國際少年運動會 (ICG) 及 2026.09.05-09.10 世界俱樂部龍舟錦標賽 (CCWC) 英語服務人員儲訓報名 English Helper Recruitment and Phase 1 Training Registration for 2026.08.01–08.06 International Children's Games and 2026.09.05–09.10 Club Crew World Championships",
-        "timestamp": "1744771192",
-        "url": "mail_display.php?timestamp=1744771192",
-        "date": "2025/04/16 10:39",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "4月14日有冒名釣魚信件暨教育部社交工程演練提醒",
-        "timestamp": "1744769195",
-        "url": "mail_display.php?timestamp=1744769195",
-        "date": "2025/04/16 10:06",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "葉宏達",
-            "email": "honda@gms.ndhu.edu.tw",
-            "phone": "8906747"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "教育部邀請擔任「青年百億海外圓夢基金計畫」─邦交國青年來臺圓夢接待機構，4/20前回覆",
-        "timestamp": "1744769010",
-        "url": "mail_display.php?timestamp=1744769010",
-        "date": "2025/04/16 10:03",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 4
     }
 ]
