@@ -1,5 +1,47 @@
 [
     {
+        "title": "🧐觀遊系-畢業專題See’xer觀查家團隊【親子共遊．農場探險小旅行】🌱",
+        "timestamp": "1744853521",
+        "url": "mail_display.php?timestamp=1744853521",
+        "date": "2025/04/17 09:32",
+        "department": "觀光暨休閒遊憩學系",
+        "author": {
+            "department": "觀光暨休閒遊憩學系",
+            "name": "黃顗龍",
+            "email": "41103a007@gms.ndhu.edu.tw",
+            "phone": "0983989624"
+        },
+        "attachmentCount": 5
+    },
+    {
+        "title": "2025 國立東華大學畢業典禮報名開跑！🎓 Registration for the 2025 NDHU Commencement Ceremony is Now Open! 🎉",
+        "timestamp": "1744853511",
+        "url": "mail_display.php?timestamp=1744853511",
+        "date": "2025/04/17 09:31",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳詩啓",
+            "email": "sam0831@gms.ndhu.edu.tw",
+            "phone": "6216"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【徵才公告】國立東華大學總務處營繕組徵聘【校務基金短(定)期助理】",
+        "timestamp": "1744853011",
+        "url": "mail_display.php?timestamp=1744853011",
+        "date": "2025/04/17 09:23",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "黃章傑",
+            "email": "cotycafe@gms.ndhu.edu.tw",
+            "phone": "038905778"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵選】第一屆「東華 Design+ 設計競賽」熱烈徵件中！",
         "timestamp": "1744852047",
         "url": "mail_display.php?timestamp=1744852047",
@@ -166,47 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【徵才】佛光大學114年4月23日辦理2025校園徵才博覽會",
-        "timestamp": "1744791313",
-        "url": "mail_display.php?timestamp=1744791313",
-        "date": "2025/04/16 16:15",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "🎉🎉🎉【蔡晧怡音樂講座 x東華烏克幫大型成果發表會】_跨域活動",
-        "timestamp": "1744790205",
-        "url": "mail_display.php?timestamp=1744790205",
-        "date": "2025/04/16 15:56",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "余惠真",
-            "email": "nacy4631@gms.ndhu.edu.tw",
-            "phone": "6232"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "[公告] 有關本(114)年4月18日及4月29日辦理二場次之本校行政人員政策性訓練團體之數位學習課程，研習場次時間說明如下。",
-        "timestamp": "1744790054",
-        "url": "mail_display.php?timestamp=1744790054",
-        "date": "2025/04/16 15:54",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "莊博凱",
-            "email": "jonhnny77@gms.ndhu.edu.tw",
-            "phone": "6057"
-        },
-        "attachmentCount": 1
     }
 ]

@@ -1,5 +1,47 @@
 [
     {
+        "title": "National Dong Hwa University Online Survey on Gender-Inclusive Campus Spaces",
+        "timestamp": "1744881789",
+        "url": "mail_display.php?timestamp=1744881789",
+        "date": "2025/04/17 17:23",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "王玉君",
+            "email": "hu.jean0503@gms.ndhu.edu.tw",
+            "phone": "8906220"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "國立東華大學11302校園性別友善空間線上問卷調查",
+        "timestamp": "1744881273",
+        "url": "mail_display.php?timestamp=1744881273",
+        "date": "2025/04/17 17:14",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "王玉君",
+            "email": "hu.jean0503@gms.ndhu.edu.tw",
+            "phone": "8906220"
+        },
+        "attachmentCount": 4
+    },
+    {
+        "title": "【徵人公告】國立東華大學社會參與中心誠徵大學社會責任專任計畫助理",
+        "timestamp": "1744880476",
+        "url": "mail_display.php?timestamp=1744880476",
+        "date": "2025/04/17 17:01",
+        "department": "社會參與中心",
+        "author": {
+            "department": "社會參與中心",
+            "name": "徐小姐",
+            "email": "hsu-pangju@gms.ndhu.edu.tw",
+            "phone": "03-8905247"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【第一次公告】簡捷校內報支程序，取消劃帳清冊等事宜",
         "timestamp": "1744876675",
         "url": "mail_display.php?timestamp=1744876675",
@@ -166,47 +208,5 @@
             "phone": "6523"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "🧐觀遊系-畢業專題See’xer觀查家團隊【親子共遊．農場探險小旅行】🌱",
-        "timestamp": "1744853521",
-        "url": "mail_display.php?timestamp=1744853521",
-        "date": "2025/04/17 09:32",
-        "department": "觀光暨休閒遊憩學系",
-        "author": {
-            "department": "觀光暨休閒遊憩學系",
-            "name": "黃顗龍",
-            "email": "41103a007@gms.ndhu.edu.tw",
-            "phone": "0983989624"
-        },
-        "attachmentCount": 5
-    },
-    {
-        "title": "2025 國立東華大學畢業典禮報名開跑！🎓 Registration for the 2025 NDHU Commencement Ceremony is Now Open! 🎉",
-        "timestamp": "1744853511",
-        "url": "mail_display.php?timestamp=1744853511",
-        "date": "2025/04/17 09:31",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳詩啓",
-            "email": "sam0831@gms.ndhu.edu.tw",
-            "phone": "6216"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【徵才公告】國立東華大學總務處營繕組徵聘【校務基金短(定)期助理】",
-        "timestamp": "1744853011",
-        "url": "mail_display.php?timestamp=1744853011",
-        "date": "2025/04/17 09:23",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "黃章傑",
-            "email": "cotycafe@gms.ndhu.edu.tw",
-            "phone": "038905778"
-        },
-        "attachmentCount": 0
     }
 ]
