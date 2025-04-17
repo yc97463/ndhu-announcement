@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才公告】圖書資訊處徵聘【校務行政系統開發】碩士級技術師一名",
+        "timestamp": "1744859209",
+        "url": "mail_display.php?timestamp=1744859209",
+        "date": "2025/04/17 11:06",
+        "department": "圖書資訊處",
+        "author": {
+            "department": "圖書資訊處",
+            "name": "周小萍",
+            "email": "hedy@gms.ndhu.edu.tw",
+            "phone": "8906852"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【徵才公告】國立東華大學總務處營繕組徵聘【校務基金短(定)期助理】",
         "timestamp": "1744853011",
         "url": "mail_display.php?timestamp=1744853011",
@@ -194,19 +208,5 @@
             "phone": "8906059"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【徵才】本校徵求人文社會科學學院院長人選",
-        "timestamp": "1742947104",
-        "url": "mail_display.php?timestamp=1742947104",
-        "date": "2025/03/26 07:58",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "楊惠雯",
-            "email": "hwyang@gms.ndhu.edu.tw",
-            "phone": "6061"
-        },
-        "attachmentCount": 1
     }
 ]
