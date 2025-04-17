@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才公告】國立東華大學總務處營繕組徵聘【校務基金短(定)期助理】",
+        "timestamp": "1744853011",
+        "url": "mail_display.php?timestamp=1744853011",
+        "date": "2025/04/17 09:23",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "黃章傑",
+            "email": "cotycafe@gms.ndhu.edu.tw",
+            "phone": "038905778"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": " 國立東華大學洄瀾共好大學社會責任中心誠徵計畫助理一名",
         "timestamp": "1744793302",
         "url": "mail_display.php?timestamp=1744793302",
@@ -194,19 +208,5 @@
             "phone": "6061"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "管理學院會計學系身心障礙專案助理徵才公告(第五次公告)",
-        "timestamp": "1742885708",
-        "url": "mail_display.php?timestamp=1742885708",
-        "date": "2025/03/25 14:55",
-        "department": "會計學系",
-        "author": {
-            "department": "會計學系",
-            "name": "陳助理",
-            "email": "chrischen@gms.ndhu.edu.tw",
-            "phone": "8903072"
-        },
-        "attachmentCount": 0
     }
 ]
