@@ -1,5 +1,33 @@
 [
     {
+        "title": "【徵才】國立臺中教育大學114年4月24日辦理2025校園徵才博覽會",
+        "timestamp": "1744622851",
+        "url": "mail_display.php?timestamp=1744622851",
+        "date": "2025/04/14 17:27",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "【徵才】國立嘉義大學114年5月7日辦理2025校園徵才博覽會",
+        "timestamp": "1744621594",
+        "url": "mail_display.php?timestamp=1744621594",
+        "date": "2025/04/14 17:06",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【114年「雙語浪潮」教師社群講座活動】4/23「教學實踐研究之【教學研究設計與成效評估】」",
         "timestamp": "1744621031",
         "url": "mail_display.php?timestamp=1744621031",
@@ -180,33 +208,5 @@
             "phone": "0983989624"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【課務組】113學年度第2學期期中停修Mid-semester Course Withdrawal",
-        "timestamp": "1744612129",
-        "url": "mail_display.php?timestamp=1744612129",
-        "date": "2025/04/14 14:28",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "utd1003@gms.ndhu.edu.tw",
-            "phone": "6122-6126"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【徵聘教師】國立東華大學材料科學與工程學系徵聘助理教授(含)以上專任教師1名",
-        "timestamp": "1744610003",
-        "url": "mail_display.php?timestamp=1744610003",
-        "date": "2025/04/14 13:53",
-        "department": "材料科學與工程學系",
-        "author": {
-            "department": "材料科學與工程學系",
-            "name": "林淑玲",
-            "email": "shuling@gms.ndhu.edu.tw",
-            "phone": "8903204"
-        },
-        "attachmentCount": 1
     }
 ]
