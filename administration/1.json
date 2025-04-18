@@ -1,5 +1,33 @@
 [
     {
+        "title": "【Student Dormitory】114th Academic Year Dormitory Application (Waiting List Ⅰ)",
+        "timestamp": "1744958125",
+        "url": "mail_display.php?timestamp=1744958125",
+        "date": "2025/04/18 14:35",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳怡秀",
+            "email": "yishoue@gms.ndhu.edu.tw",
+            "phone": "6212"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "【學生宿舍】114學年學生宿舍候補一作業相關事項",
+        "timestamp": "1744958063",
+        "url": "mail_display.php?timestamp=1744958063",
+        "date": "2025/04/18 14:34",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳怡秀",
+            "email": "yishoue@gms.ndhu.edu.tw",
+            "phone": "6212"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【第一次公告】簡捷校內報支程序，取消劃帳清冊等事宜",
         "timestamp": "1744876675",
         "url": "mail_display.php?timestamp=1744876675",
@@ -178,34 +206,6 @@
             "name": "陳淑貞",
             "email": "sjchen@gms.ndhu.edu.tw",
             "phone": "(03)8906636"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【資安宣導】為因應新型態數位服務延伸之新興資安風險，請各機關遵循「危害國家資通安全產品限制使用原則」，並依規定辦理，請查照。",
-        "timestamp": "1744613978",
-        "url": "mail_display.php?timestamp=1744613978",
-        "date": "2025/04/14 14:59",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "蕭澤宇",
-            "email": "zyhsiao@gms.ndhu.edu.tw",
-            "phone": "6727"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【課務組】113學年度第2學期期中停修Mid-semester Course Withdrawal",
-        "timestamp": "1744612129",
-        "url": "mail_display.php?timestamp=1744612129",
-        "date": "2025/04/14 14:28",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "utd1003@gms.ndhu.edu.tw",
-            "phone": "6122-6126"
         },
         "attachmentCount": 0
     }
