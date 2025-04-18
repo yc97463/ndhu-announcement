@@ -1,5 +1,33 @@
 [
     {
+        "title": "【華文系友講座】鄭琬融小姐、葉相君小姐",
+        "timestamp": "1744934125",
+        "url": "mail_display.php?timestamp=1744934125",
+        "date": "2025/04/18 07:55",
+        "department": "人文社會科學學院 華文文學系",
+        "author": {
+            "department": "人文社會科學學院 華文文學系",
+            "name": "伍佳雯",
+            "email": "sl@gms.ndhu.edu.tw",
+            "phone": "＃5262"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【教育系五年修讀學、碩士學位說明會】（前25位報名者提供麵包餐盒）",
+        "timestamp": "1744934124",
+        "url": "mail_display.php?timestamp=1744934124",
+        "date": "2025/04/18 07:55",
+        "department": "花師教育學院 教育與潛能開發學系",
+        "author": {
+            "department": "花師教育學院 教育與潛能開發學系",
+            "name": "蔡明堅",
+            "email": "esontsai@gms.ndhu.edu.tw",
+            "phone": "038903824"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "諮商中心資源教室：【身心障礙者就業資源盤點與就業成功經驗分享講座】",
         "timestamp": "1744934123",
         "url": "mail_display.php?timestamp=1744934123",
@@ -178,34 +206,6 @@
             "name": "葉珮芳",
             "email": "",
             "phone": "蘇珮儀 (email: 41104b021@gms.ndhu.edu.tw)"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【學者/學生海外獎助金】Fulbright傅爾布萊特赴美獎助計畫暨留學美國說明會",
-        "timestamp": "1744934110",
-        "url": "mail_display.php?timestamp=1744934110",
-        "date": "2025/04/18 07:55",
-        "department": "國際事務處 國際學生組",
-        "author": {
-            "department": "國際事務處 國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "青年職涯發展中心【職擊校園】東華應數系專案活動",
-        "timestamp": "1744934109",
-        "url": "mail_display.php?timestamp=1744934109",
-        "date": "2025/04/18 07:55",
-        "department": "理工學院 應用數學系",
-        "author": {
-            "department": "理工學院 應用數學系",
-            "name": "陳素琳",
-            "email": "chsulin@gms.ndhu.edu.tw",
-            "phone": "3561"
         },
         "attachmentCount": 0
     }
