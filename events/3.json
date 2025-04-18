@@ -1,5 +1,19 @@
 [
     {
+        "title": "校務研究焦點報表工作坊",
+        "timestamp": "1744934144",
+        "url": "mail_display.php?timestamp=1744934144",
+        "date": "2025/04/18 07:55",
+        "department": "校務研究辦公室",
+        "author": {
+            "department": "校務研究辦公室",
+            "name": "謝坤霖",
+            "email": "emc2@gms.ndhu.edu.tw",
+            "phone": "03-8906945"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "交換經驗分享會【立陶宛、德國、西班牙、加拿大】",
         "timestamp": "1744934143",
         "url": "mail_display.php?timestamp=1744934143",
@@ -192,20 +206,6 @@
             "name": "沈正雄",
             "email": "61134c007@gms.ndhu.edu.tw",
             "phone": "0971833931"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【活動推推】移居到安居—情緒急轉彎：在台外籍生適應問題及情緒調節（講者：黃愉凱）",
-        "timestamp": "1744934129",
-        "url": "mail_display.php?timestamp=1744934129",
-        "date": "2025/04/18 07:55",
-        "department": "社會參與中心 ",
-        "author": {
-            "department": "社會參與中心",
-            "name": "鄒采晏",
-            "email": "tsai_yen@gms.ndhu.edu.tw",
-            "phone": "5243"
         },
         "attachmentCount": 0
     }
