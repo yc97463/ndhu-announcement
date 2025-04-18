@@ -1,5 +1,19 @@
 [
     {
+        "title": "【影片和投影片的索取須知】大型語言模型（LLM）技術與 GPT 教育中應用之探討與應用線上研討會(第二次公告)",
+        "timestamp": "1736815274",
+        "url": "mail_display.php?timestamp=1736815274",
+        "date": "2025/01/14 08:41",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "趙心榆",
+            "email": "vsychao@gms.ndhu.edu.tw",
+            "phone": "6722"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "2025第12屆「華山論見」教育學術研討會徵稿展延公告",
         "timestamp": "1736147563",
         "url": "mail_display.php?timestamp=1736147563",
@@ -194,19 +208,5 @@
             "phone": "03-8905277"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【閱讀科技學程講座】",
-        "timestamp": "1733983514",
-        "url": "mail_display.php?timestamp=1733983514",
-        "date": "2024/12/12 14:05",
-        "department": "教育與潛能開發學系",
-        "author": {
-            "department": "教育與潛能開發學系",
-            "name": "王凰貞",
-            "email": "411188037@gms.ndhu.edu.tw",
-            "phone": "038903822"
-        },
-        "attachmentCount": 1
     }
 ]
