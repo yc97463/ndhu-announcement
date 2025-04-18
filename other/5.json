@@ -1,5 +1,19 @@
 [
     {
+        "title": "國立東華大學114年標售無主自行車程序公告",
+        "timestamp": "1744096896",
+        "url": "mail_display.php?timestamp=1744096896",
+        "date": "2025/04/08 15:21",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "洪國華",
+            "email": "eejj@gms.ndhu.edu.tw",
+            "phone": "6401"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "(問卷調查)「政府機關資訊人員職能與工作分類調查問卷」至114年4月9日止，請踴躍參與。",
         "timestamp": "1744094282",
         "url": "mail_display.php?timestamp=1744094282",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【徵才】中央銀行招募金融法務專業人員(114年5月2日截止)",
-        "timestamp": "1743486910",
-        "url": "mail_display.php?timestamp=1743486910",
-        "date": "2025/04/01 13:55",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 4
     }
 ]
