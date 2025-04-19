@@ -1,6 +1,20 @@
 [
     {
         "title": "《第十三屆新航之舟-行政團隊熱情招募中》",
+        "timestamp": "1730697725",
+        "url": "mail_display.php?timestamp=1730697725",
+        "date": "2024/11/04 13:22",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "余惠真",
+            "email": "nacy4631@gms.ndhu.edu.tw",
+            "phone": "6232"
+        },
+        "attachmentCount": 4
+    },
+    {
+        "title": "《第十三屆新航之舟-行政團隊熱情招募中》",
         "timestamp": "1730697700",
         "url": "mail_display.php?timestamp=1730697700",
         "date": "2024/11/04 13:21",
@@ -194,19 +208,5 @@
             "phone": "03-890-6579"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "公告113-1校核心通識課程-「成功幸福的職涯」課程尚有名額，敬請踴躍加選課程",
-        "timestamp": "1725952315",
-        "url": "mail_display.php?timestamp=1725952315",
-        "date": "2024/09/10 15:11",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 0
     }
 ]
