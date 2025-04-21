@@ -1,5 +1,19 @@
 [
     {
+        "title": "湖畔電梯故障維修停用公告",
+        "timestamp": "1744987408",
+        "url": "mail_display.php?timestamp=1744987408",
+        "date": "2025/04/18 22:43",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【轉知】國家文官學院為推廣公務人員專書閱讀，業於「e等公務園+學習平臺」及「文官愛讀冊」Podcast頻道上架114年度「每月一書」及「延伸閱讀」導讀課程，請同仁多加運用。",
         "timestamp": "1744975732",
         "url": "mail_display.php?timestamp=1744975732",
@@ -192,20 +206,6 @@
             "name": "吳芷萱",
             "email": "suju1106@gms.ndhu.edu.tw",
             "phone": "5323"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【發社系-民族講座】香港社會企業與社會經濟觀察與反思",
-        "timestamp": "1744934167",
-        "url": "mail_display.php?timestamp=1744934167",
-        "date": "2025/04/18 07:56",
-        "department": "原住民民族學院 民族發展與社會工作學系",
-        "author": {
-            "department": "原住民民族學院 民族發展與社會工作學系",
-            "name": "郭雅婷",
-            "email": "lingya@gms.ndhu.edu.tw",
-            "phone": "03-8905708 鐘助理"
         },
         "attachmentCount": 0
     }

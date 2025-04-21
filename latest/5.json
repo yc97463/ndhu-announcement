@@ -1,5 +1,19 @@
 [
     {
+        "title": "Rikec法學衝刺班-行政法",
+        "timestamp": "1744934152",
+        "url": "mail_display.php?timestamp=1744934152",
+        "date": "2025/04/18 07:55",
+        "department": "人文社會科學學院 法律學系",
+        "author": {
+            "department": "人文社會科學學院 法律學系",
+            "name": "高蘇恩",
+            "email": "galaigai@gms.ndhu.edu.tw",
+            "phone": "5663"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "Rikec法學衝刺班-刑事訴訟法",
         "timestamp": "1744934151",
         "url": "mail_display.php?timestamp=1744934151",
@@ -192,20 +206,6 @@
             "name": "周葦綸",
             "email": "valen0810@gms.ndhu.edu.tw",
             "phone": "6606"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "觀遊系畢業專題[Circu循光團隊]－循環工作坊 x 無包裝理念分享會",
-        "timestamp": "1744934137",
-        "url": "mail_display.php?timestamp=1744934137",
-        "date": "2025/04/18 07:55",
-        "department": "管理學院 觀光暨休閒遊憩學系",
-        "author": {
-            "department": "管理學院 觀光暨休閒遊憩學系",
-            "name": "汪欣新",
-            "email": "41113A022@gms.ndhu.edu.tw",
-            "phone": "0987628727"
         },
         "attachmentCount": 0
     }
