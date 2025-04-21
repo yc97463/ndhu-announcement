@@ -1,5 +1,19 @@
 [
     {
+        "title": "📢【活動推推】移居與安居：家庭看護移工和她們的工會",
+        "timestamp": "1731572526",
+        "url": "mail_display.php?timestamp=1731572526",
+        "date": "2024/11/14 16:22",
+        "department": "社會參與中心",
+        "author": {
+            "department": "社會參與中心",
+            "name": "鄒小姐",
+            "email": "tsai_yen@gms.ndhu.edu.tw",
+            "phone": "5243"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "《第十三屆新航之舟-行政團隊熱情招募中》報名至11/15（五）23：59",
         "timestamp": "1731545990",
         "url": "mail_display.php?timestamp=1731545990",
@@ -194,19 +208,5 @@
             "phone": "6579"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "公告113-1校核心通識課程-「傳播學導論」課程尚有名額，敬請踴躍加選課程",
-        "timestamp": "1726016606",
-        "url": "mail_display.php?timestamp=1726016606",
-        "date": "2024/09/11 09:03",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 0
     }
 ]
