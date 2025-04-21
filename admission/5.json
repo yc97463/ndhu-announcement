@@ -1,5 +1,19 @@
 [
     {
+        "title": "體育中心-推廣教育課程通知",
+        "timestamp": "1725964880",
+        "url": "mail_display.php?timestamp=1725964880",
+        "date": "2024/09/10 18:41",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "楊",
+            "email": "yyy@gms.ndhu.edu.tw",
+            "phone": "038906612"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【教育大數據產學合作與專題實作】113-1 微學程實務課推廣",
         "timestamp": "1725960540",
         "url": "mail_display.php?timestamp=1725960540",
@@ -194,19 +208,5 @@
             "phone": "03-8903204"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "113-1校核心通識課程異動(停開課程)公告",
-        "timestamp": "1725241598",
-        "url": "mail_display.php?timestamp=1725241598",
-        "date": "2024/09/02 09:46",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 1
     }
 ]

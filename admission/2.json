@@ -1,5 +1,19 @@
 [
     {
+        "title": "📢 114學年度中等教育學程甄選報名中！ 🎓✨",
+        "timestamp": "1740965120",
+        "url": "mail_display.php?timestamp=1740965120",
+        "date": "2025/03/03 09:25",
+        "department": "師資培育中心",
+        "author": {
+            "department": "師資培育中心",
+            "name": "劉姵君",
+            "email": "amyliou@gms.ndhu.edu.tw",
+            "phone": "6632"
+        },
+        "attachmentCount": 6
+    },
+    {
         "title": "【國軍招生訊息】 轉國防部「民國114年國軍志願役專業預備軍官預備士官班考選簡章」公告",
         "timestamp": "1740699866",
         "url": "mail_display.php?timestamp=1740699866",
@@ -194,19 +208,5 @@
             "phone": "6579"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "(二次公告)【中等學程】114學年度中等教育學程甄選報名簡章公告",
-        "timestamp": "1738720926",
-        "url": "mail_display.php?timestamp=1738720926",
-        "date": "2025/02/05 10:02",
-        "department": "師資培育中心",
-        "author": {
-            "department": "師資培育中心",
-            "name": "劉姵君",
-            "email": "amyliou@gms.ndhu.edu.tw",
-            "phone": "6632"
-        },
-        "attachmentCount": 3
     }
 ]
