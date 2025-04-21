@@ -1,5 +1,33 @@
 [
     {
+        "title": "【藝創培訓】2025陶作金銀釀生活—工藝漫活．工藝游於藝，茶藝生活手作課程，即日起開始報名至5月18日為止！",
+        "timestamp": "1745040588",
+        "url": "mail_display.php?timestamp=1745040588",
+        "date": "2025/04/19 13:29",
+        "department": "藝術創意產業學系",
+        "author": {
+            "department": "藝術創意產業學系",
+            "name": "謝明海",
+            "email": "ocean@gms.ndhu.edu.tw",
+            "phone": "890-5889"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "【臺灣系】實習講座－地方參與Youth Power！先行動，再思考！(線上出席報名)",
+        "timestamp": "1745020504",
+        "url": "mail_display.php?timestamp=1745020504",
+        "date": "2025/04/19 07:55",
+        "department": "人文社會科學學院 臺灣文化學系",
+        "author": {
+            "department": "人文社會科學學院 臺灣文化學系",
+            "name": "唐家渝",
+            "email": "abby0528@gms.ndhu.edu.tw",
+            "phone": "038905213"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【臺灣系】實習講座－地方參與Youth Power！先行動，再思考！(實體出席報名)",
         "timestamp": "1745020503",
         "url": "mail_display.php?timestamp=1745020503",
@@ -180,33 +208,5 @@
             "phone": "6212"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【永續講座】〈自然到資本：發覺永續潮的下一戰場〉4/21 戴慶華執行長",
-        "timestamp": "1744957619",
-        "url": "mail_display.php?timestamp=1744957619",
-        "date": "2025/04/18 14:26",
-        "department": "永續發展中心",
-        "author": {
-            "department": "永續發展中心",
-            "name": "李敏賢",
-            "email": "sd@gms.ndhu.edu.tw",
-            "phone": "03-8905919"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【活動公告】113學年度第2學期『與校長有約』座談會【Event Announcement】Welcome to join “Meeting with the President”",
-        "timestamp": "1744956528",
-        "url": "mail_display.php?timestamp=1744956528",
-        "date": "2025/04/18 14:08",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "王文和",
-            "email": "rlawwh@gms.ndhu.edu.tw",
-            "phone": "分機6221"
-        },
-        "attachmentCount": 3
     }
 ]
