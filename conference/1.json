@@ -1,5 +1,19 @@
 [
     {
+        "title": "財金系專題演講】4/25 (五)14:00 ~ 16:00 金融證券業生存法則",
+        "timestamp": "1745214325",
+        "url": "mail_display.php?timestamp=1745214325",
+        "date": "2025/04/21 13:45",
+        "department": "財務金融學系",
+        "author": {
+            "department": "財務金融學系",
+            "name": "林役霜",
+            "email": "ys012@gms.ndhu.edu.tw",
+            "phone": "3133"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【永續講座】〈自然到資本：發覺永續潮的下一戰場〉4/21 戴慶華執行長",
         "timestamp": "1744957619",
         "url": "mail_display.php?timestamp=1744957619",
@@ -194,19 +208,5 @@
             "phone": "3133"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "2025花蓮 HSH 黑客松｜東華校園培力課程即將在4/14舉辦！",
-        "timestamp": "1744004140",
-        "url": "mail_display.php?timestamp=1744004140",
-        "date": "2025/04/07 13:35",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "吳其璁",
-            "email": "dci93031@gms.ndhu.edu.tw",
-            "phone": "03-8903687"
-        },
-        "attachmentCount": 4
     }
 ]
