@@ -1,5 +1,19 @@
 [
     {
+        "title": "[消防演練]114年03月26日(三)更改時間為下午16-17時花師教育學院消防搶救演練公告",
+        "timestamp": "1742951495",
+        "url": "mail_display.php?timestamp=1742951495",
+        "date": "2025/03/26 09:11",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "賴名塑",
+            "email": "a54604@gms.ndhu.edu.tw",
+            "phone": "8906378"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才】本校徵求人文社會科學學院院長人選",
         "timestamp": "1742947104",
         "url": "mail_display.php?timestamp=1742947104",
@@ -194,19 +208,5 @@
             "phone": "6060"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "志學門左側探照燈線路修復作業(第2次公告施工時間延長)",
-        "timestamp": "1742559562",
-        "url": "mail_display.php?timestamp=1742559562",
-        "date": "2025/03/21 20:19",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 1
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵聘公告】國立東華大學資訊工程學系徵聘專任教師一名 (第1次公告)",
+        "timestamp": "1745309569",
+        "url": "mail_display.php?timestamp=1745309569",
+        "date": "2025/04/22 16:12",
+        "department": "資訊工程學系",
+        "author": {
+            "department": "資訊工程學系",
+            "name": "葉助理",
+            "email": "kiki2002@gms.ndhu.edu.tw",
+            "phone": "03-8905012"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才公告】本校總務處(事務組) 校務基金助理徵才公告",
         "timestamp": "1744937087",
         "url": "mail_display.php?timestamp=1744937087",
@@ -194,19 +208,5 @@
             "phone": "890-3816"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【國立東華大學管理學院財務金融學系系主任】 徵聘公告",
-        "timestamp": "1743127338",
-        "url": "mail_display.php?timestamp=1743127338",
-        "date": "2025/03/28 10:02",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "林香君",
-            "email": "smgt@gms.ndhu.edu.tw",
-            "phone": "8903002"
-        },
-        "attachmentCount": 1
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "【辦理活動重要提醒】重申辦理學校活動應遵循教育及行政中立",
+        "timestamp": "1743577028",
+        "url": "mail_display.php?timestamp=1743577028",
+        "date": "2025/04/02 14:57",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "余惠真",
+            "email": "nacy4631@gms.ndhu.edu.tw",
+            "phone": "6232"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "114年4月3~7日春假前注意及配合事項公告",
         "timestamp": "1743486875",
         "url": "mail_display.php?timestamp=1743486875",
@@ -194,19 +208,5 @@
             "phone": "6232"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "[消防演練]114年03月26日(三)更改時間為下午16-17時花師教育學院消防搶救演練公告",
-        "timestamp": "1742951495",
-        "url": "mail_display.php?timestamp=1742951495",
-        "date": "2025/03/26 09:11",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "賴名塑",
-            "email": "a54604@gms.ndhu.edu.tw",
-            "phone": "8906378"
-        },
-        "attachmentCount": 0
     }
 ]
