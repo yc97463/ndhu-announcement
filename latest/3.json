@@ -1,6 +1,20 @@
 [
     {
         "title": "東華夜市第四場來囉～就在4月22日！",
+        "timestamp": "1745219067",
+        "url": "mail_display.php?timestamp=1745219067",
+        "date": "2025/04/21 15:04",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "姜紫淇",
+            "email": "yaya@gms.ndhu.edu.tw",
+            "phone": "03-8906235"
+        },
+        "attachmentCount": 6
+    },
+    {
+        "title": "東華夜市第四場來囉～就在4月22日！",
         "timestamp": "1745218773",
         "url": "mail_display.php?timestamp=1745218773",
         "date": "2025/04/21 14:59",
@@ -194,19 +208,5 @@
             "phone": "分機6221"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【訊息轉知】輔仁大學開設「時尚產業的永續循環(Circular Economy and Sustainability in Fashion Industry」全英磨課師(MOOCs)線上課程",
-        "timestamp": "1745197081",
-        "url": "mail_display.php?timestamp=1745197081",
-        "date": "2025/04/21 08:58",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 2
     }
 ]
