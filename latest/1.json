@@ -1,5 +1,33 @@
 [
     {
+        "title": "【徵才】世新大學114年4月30日辦理2025校園徵才博覽會",
+        "timestamp": "1745289732",
+        "url": "mail_display.php?timestamp=1745289732",
+        "date": "2025/04/22 10:42",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【獎助學金申請】屏山文教基金會113-2殘障清寒獎助學金 (限本人或直系父母為身障人士，且家庭為低或中低收入戶)",
+        "timestamp": "1745287595",
+        "url": "mail_display.php?timestamp=1745287595",
+        "date": "2025/04/22 10:06",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "請於本(114)年4月25日(星期五)下班前，將113學年度人事甄審暨考績委員會「票選委員」登記(推薦)表送人事室登記。",
         "timestamp": "1745286412",
         "url": "mail_display.php?timestamp=1745286412",
@@ -180,33 +208,5 @@
             "phone": "03-8903013"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "企業管理學系「五年(3+2)修讀學碩士學位」招生說明會(114.4.29中午12:10)",
-        "timestamp": "1745225226",
-        "url": "mail_display.php?timestamp=1745225226",
-        "date": "2025/04/21 16:47",
-        "department": "企業管理學系",
-        "author": {
-            "department": "企業管理學系",
-            "name": "莊巧萍",
-            "email": "cpjuang@gms.ndhu.edu.tw",
-            "phone": "03-8903013"
-        },
-        "attachmentCount": 5
-    },
-    {
-        "title": "【2025校園徵才博覽月】4月22日(二)企業說明會，人才對接新契機，歡迎大家一起來聽聽企業怎麼說🎤",
-        "timestamp": "1745223093",
-        "url": "mail_display.php?timestamp=1745223093",
-        "date": "2025/04/21 16:11",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 8
     }
 ]
