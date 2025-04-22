@@ -1,5 +1,33 @@
 [
     {
+        "title": "[科教專題演講]李暉教授主講：寓學於樂--旅遊與科學教育",
+        "timestamp": "1739947926",
+        "url": "mail_display.php?timestamp=1739947926",
+        "date": "2025/02/19 14:52",
+        "department": "教育與潛能開發學系",
+        "author": {
+            "department": "教育與潛能開發學系",
+            "name": "科學教育碩博班",
+            "email": "esontsai@gms.ndhu.edu.tw",
+            "phone": "3824"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【課程活動轉發】 新創大學堂課程~歡迎報名~",
+        "timestamp": "1739947570",
+        "url": "mail_display.php?timestamp=1739947570",
+        "date": "2025/02/19 14:46",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "翁欣儀",
+            "email": "cari20240307@gms.ndhu.edu.tw",
+            "phone": "038221316"
+        },
+        "attachmentCount": 9
+    },
+    {
         "title": "113-2人社院基礎課程「縱目歐亞—空間與人文的對話」系列講座",
         "timestamp": "1739518646",
         "url": "mail_display.php?timestamp=1739518646",
@@ -180,33 +208,5 @@
             "phone": "6643"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【第十一屆原住民族傳統習慣與國家法制研討會】",
-        "timestamp": "1734491738",
-        "url": "mail_display.php?timestamp=1734491738",
-        "date": "2024/12/18 11:15",
-        "department": "法律學系",
-        "author": {
-            "department": "法律學系",
-            "name": "Galaigai Cavalje 高蘇恩",
-            "email": "galaigai@gms.ndhu.edu.tw",
-            "phone": "5663"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【轉知】財團法人工業技術研究院產業人才能力鑑定(iPAS)AI應用規劃師推廣說明會",
-        "timestamp": "1734329327",
-        "url": "mail_display.php?timestamp=1734329327",
-        "date": "2024/12/16 14:08",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "洪乃慈",
-            "email": "naitzu@gms.ndhu.edu.tw",
-            "phone": "6523"
-        },
-        "attachmentCount": 1
     }
 ]

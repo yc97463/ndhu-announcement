@@ -1,5 +1,47 @@
 [
     {
+        "title": "【113學年度就學貸款宣導】申請就學貸款之學生畢業離校前權利與義務宣導(非就貸生請略過此通知)",
+        "timestamp": "1745283234",
+        "url": "mail_display.php?timestamp=1745283234",
+        "date": "2025/04/22 08:53",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "王文和",
+            "email": "rlawwh@gms.ndhu.edu.tw",
+            "phone": "分機6221"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "向晴莊機踏車棚(A01區)拆除公告",
+        "timestamp": "1745282474",
+        "url": "mail_display.php?timestamp=1745282474",
+        "date": "2025/04/22 08:41",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉景富",
+            "email": "nickak@gms.ndhu.edu.tw",
+            "phone": "03-8906373"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【第二次公告】簡捷校內報支程序，取消劃帳清冊等事宜，敬請配合辦理",
+        "timestamp": "1745280653",
+        "url": "mail_display.php?timestamp=1745280653",
+        "date": "2025/04/22 08:10",
+        "department": "主計室",
+        "author": {
+            "department": "主計室",
+            "name": "英俊達",
+            "email": "kleiber0576@gms.ndhu.edu.tw",
+            "phone": "(03)8906079"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【週四法語角】113-2 French Lunch Hour 法文午餐會話時間 5/01 第6場 Session 6\t",
         "timestamp": "1745279701",
         "url": "mail_display.php?timestamp=1745279701",
@@ -166,47 +208,5 @@
             "phone": "03-8906235"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "東華夜市第四場來囉～就在4月22日！",
-        "timestamp": "1745218773",
-        "url": "mail_display.php?timestamp=1745218773",
-        "date": "2025/04/21 14:59",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "姜紫淇",
-            "email": "yaya@gms.ndhu.edu.tw",
-            "phone": "03-8906235"
-        },
-        "attachmentCount": 6
-    },
-    {
-        "title": "東華夜市第四場來囉～就在4月22日！",
-        "timestamp": "1745218425",
-        "url": "mail_display.php?timestamp=1745218425",
-        "date": "2025/04/21 14:53",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "姜紫淇",
-            "email": "yaya@gms.ndhu.edu.tw",
-            "phone": "03-8906235"
-        },
-        "attachmentCount": 5
-    },
-    {
-        "title": "【中文系】2025年東華大學硬筆書法比賽-歡迎踴躍報名~",
-        "timestamp": "1745217510",
-        "url": "mail_display.php?timestamp=1745217510",
-        "date": "2025/04/21 14:38",
-        "department": "中國語文學系",
-        "author": {
-            "department": "中國語文學系",
-            "name": "賴助理",
-            "email": "yiju1006@gms.ndhu.edu.tw",
-            "phone": "03-8905672"
-        },
-        "attachmentCount": 1
     }
 ]
