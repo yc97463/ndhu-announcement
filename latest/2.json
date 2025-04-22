@@ -1,5 +1,33 @@
 [
     {
+        "title": "【轉知】國立宜蘭大學辦理114年「宜愛之名 蘭情有約」單身聯誼活動",
+        "timestamp": "1745228579",
+        "url": "mail_display.php?timestamp=1745228579",
+        "date": "2025/04/21 17:42",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "莊博凱",
+            "email": "jonhnny77@gms.ndhu.edu.tw",
+            "phone": "6057"
+        },
+        "attachmentCount": 5
+    },
+    {
+        "title": "運籌管理研究所「五年(3+2)修讀學碩士學位」招生說明會(114.5.7中午12:10)",
+        "timestamp": "1745225613",
+        "url": "mail_display.php?timestamp=1745225613",
+        "date": "2025/04/21 16:53",
+        "department": "企業管理學系",
+        "author": {
+            "department": "企業管理學系",
+            "name": "莊巧萍",
+            "email": "cpjuang@gms.ndhu.edu.tw",
+            "phone": "03-8903013"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "企業管理學系「五年(3+2)修讀學碩士學位」招生說明會(114.4.29中午12:10)",
         "timestamp": "1745225226",
         "url": "mail_display.php?timestamp=1745225226",
@@ -180,33 +208,5 @@
             "phone": "038903771"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "[工作坊]校務研究焦點報表工作坊",
-        "timestamp": "1745202931",
-        "url": "mail_display.php?timestamp=1745202931",
-        "date": "2025/04/21 10:35",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "謝坤霖",
-            "email": "emc2@gms.ndhu.edu.tw",
-            "phone": "6945"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "第二次公告【2025校園徵才】4/25校園徵才博覽會，道路管制說明",
-        "timestamp": "1745202854",
-        "url": "mail_display.php?timestamp=1745202854",
-        "date": "2025/04/21 10:34",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "郭舒羽",
-            "email": "hdoion@gms.ndhu.edu.tw",
-            "phone": "038-906284"
-        },
-        "attachmentCount": 1
     }
 ]
