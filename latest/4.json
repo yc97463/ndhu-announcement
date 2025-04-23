@@ -1,5 +1,19 @@
 [
     {
+        "title": "向晴莊機踏車棚(A01區)拆除公告",
+        "timestamp": "1745282474",
+        "url": "mail_display.php?timestamp=1745282474",
+        "date": "2025/04/22 08:41",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉景富",
+            "email": "nickak@gms.ndhu.edu.tw",
+            "phone": "03-8906373"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【第二次公告】簡捷校內報支程序，取消劃帳清冊等事宜，敬請配合辦理",
         "timestamp": "1745280653",
         "url": "mail_display.php?timestamp=1745280653",
@@ -194,19 +208,5 @@
             "phone": "03-8906235"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "東華夜市第四場來囉～就在4月22日！",
-        "timestamp": "1745218425",
-        "url": "mail_display.php?timestamp=1745218425",
-        "date": "2025/04/21 14:53",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "姜紫淇",
-            "email": "yaya@gms.ndhu.edu.tw",
-            "phone": "03-8906235"
-        },
-        "attachmentCount": 5
     }
 ]
