@@ -1,5 +1,19 @@
 [
     {
+        "title": "  歡迎參加國語文教學「「從備課到上台——準教師的養成之道」",
+        "timestamp": "1745401775",
+        "url": "mail_display.php?timestamp=1745401775",
+        "date": "2025/04/23 17:49",
+        "department": "師資培育中心",
+        "author": {
+            "department": "師資培育中心",
+            "name": "陳淑貞",
+            "email": "sjchen@gms.ndhu.edu.tw",
+            "phone": "(03)8906636"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "🔆跨域時數🔆與你同行-情緒轉化與同理心桌遊工作坊\u0026聰明用網工作坊",
         "timestamp": "1745303681",
         "url": "mail_display.php?timestamp=1745303681",
@@ -194,19 +208,5 @@
             "phone": "03-8903687"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "⟪ Perubahan Emosional Drastis: Tantangan Adaptasi dan Mengatur Emosi Mahasiswa Asing di Taiwan ⟫",
-        "timestamp": "1744097146",
-        "url": "mail_display.php?timestamp=1744097146",
-        "date": "2025/04/08 15:25",
-        "department": "社會參與中心",
-        "author": {
-            "department": "社會參與中心",
-            "name": "鄒小姐",
-            "email": "tsai_yen@gms.ndhu.edu.tw",
-            "phone": "5243"
-        },
-        "attachmentCount": 2
     }
 ]

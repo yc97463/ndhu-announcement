@@ -1,5 +1,19 @@
 [
     {
+        "title": "【演講公告】2025.03.14 孟柱億教授「大師開講——針對跨文化交際的文化對比」系列講座",
+        "timestamp": "1741705755",
+        "url": "mail_display.php?timestamp=1741705755",
+        "date": "2025/03/11 23:09",
+        "department": "國際紅學研究中心",
+        "author": {
+            "department": "國際紅學研究中心",
+            "name": "阮氏玉映",
+            "email": "rdrc@gms.ndhu.edu.tw",
+            "phone": "38905403"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "113-2歷史學系歷史週系列講座(二)：棒球路上的每一顆球：周思齊的球場哲學",
         "timestamp": "1741588338",
         "url": "mail_display.php?timestamp=1741588338",
@@ -194,19 +208,5 @@
             "phone": "3133"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "[演講公告]歐洲議會資訊處處長Aleliunaite女士蒞校分享：歐盟的歷史與組織",
-        "timestamp": "1740559716",
-        "url": "mail_display.php?timestamp=1740559716",
-        "date": "2025/02/26 16:48",
-        "department": "朱副校長室",
-        "author": {
-            "department": "朱副校長室",
-            "name": "謝育筌 先生",
-            "email": "ycshie@gms.ndhu.edu.tw",
-            "phone": "(03)890-6032"
-        },
-        "attachmentCount": 3
     }
 ]

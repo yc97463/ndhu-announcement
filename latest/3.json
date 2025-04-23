@@ -1,5 +1,33 @@
 [
     {
+        "title": "【轉知】勞動部近期將針對願意接受勞動部就業服務之應屆畢業生按月(5至8月)發送就業服務電子報",
+        "timestamp": "1745307448",
+        "url": "mail_display.php?timestamp=1745307448",
+        "date": "2025/04/22 15:37",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【實習】高雄市政府青年局辦理「114年度大港青年實習媒合計畫」",
+        "timestamp": "1745303823",
+        "url": "mail_display.php?timestamp=1745303823",
+        "date": "2025/04/22 14:37",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "🔆跨域時數🔆與你同行-情緒轉化與同理心桌遊工作坊\u0026聰明用網工作坊",
         "timestamp": "1745303681",
         "url": "mail_display.php?timestamp=1745303681",
@@ -180,33 +208,5 @@
             "phone": "6613"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "本校管理學院施工公告 ",
-        "timestamp": "1745283969",
-        "url": "mail_display.php?timestamp=1745283969",
-        "date": "2025/04/22 09:06",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "許仁泉",
-            "email": "600130@gms.ndhu.edu.tw",
-            "phone": "6375"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【113學年度就學貸款宣導】申請就學貸款之學生畢業離校前權利與義務宣導(非就貸生請略過此通知)",
-        "timestamp": "1745283234",
-        "url": "mail_display.php?timestamp=1745283234",
-        "date": "2025/04/22 08:53",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "王文和",
-            "email": "rlawwh@gms.ndhu.edu.tw",
-            "phone": "分機6221"
-        },
-        "attachmentCount": 0
     }
 ]

@@ -1,5 +1,33 @@
 [
     {
+        "title": "「探究實作及行動實踐」課程,歡迎同學選修",
+        "timestamp": "1740117225",
+        "url": "mail_display.php?timestamp=1740117225",
+        "date": "2025/02/21 13:53",
+        "department": "自然資源與環境學系",
+        "author": {
+            "department": "自然資源與環境學系",
+            "name": "夏懿心",
+            "email": "heart630@gms.ndhu.edu.tw",
+            "phone": "8903277"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "[課程宣傳]113-2 學齡前與低年級學童早期識字（請出席第一堂課以確認選課）[融合教育][通用設計][識字教學]",
+        "timestamp": "1740049710",
+        "url": "mail_display.php?timestamp=1740049710",
+        "date": "2025/02/20 19:08",
+        "department": "偏鄉閱讀與行動中心",
+        "author": {
+            "department": "偏鄉閱讀與行動中心",
+            "name": "盧助理",
+            "email": "lesa@gms.ndhu.edu.tw",
+            "phone": "03-890-3813"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【課程公告】114年第一梯次《環境教育人員認證課程100小時訓練及評量班暨30小時學歷核心科目研習班》",
         "timestamp": "1740039933",
         "url": "mail_display.php?timestamp=1740039933",
@@ -180,33 +208,5 @@
             "phone": "6602"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【課務組】113-2學期兼任教師教學、課程停開及請假補（代）課提醒事項",
-        "timestamp": "1739410634",
-        "url": "mail_display.php?timestamp=1739410634",
-        "date": "2025/02/13 09:37",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "宋育縈",
-            "email": "suz@gms.ndhu.edu.tw",
-            "phone": "6126"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【教務處】國立東華大學_學期週數問卷調查_教師版",
-        "timestamp": "1739343073",
-        "url": "mail_display.php?timestamp=1739343073",
-        "date": "2025/02/12 14:51",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "陳君如",
-            "email": "ju@gms.ndhu.edu.tw",
-            "phone": "6124"
-        },
-        "attachmentCount": 0
     }
 ]
