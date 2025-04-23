@@ -1,5 +1,19 @@
 [
     {
+        "title": "委外管理程序教育訓練",
+        "timestamp": "1743577315",
+        "url": "mail_display.php?timestamp=1743577315",
+        "date": "2025/04/02 15:01",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "趙心榆",
+            "email": "vsychao@gms.ndhu.edu.tw",
+            "phone": "6722"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "有關臺灣人民領有中共居民身分證或定居證，均屬違反臺灣地區與大陸地區人民關係條例第9 條之1規定一案，請查照。",
         "timestamp": "1743577244",
         "url": "mail_display.php?timestamp=1743577244",
@@ -192,20 +206,6 @@
             "name": "潘姵辰",
             "email": "papec1980@gms.ndhu.edu.tw",
             "phone": "03-8906313"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【教務處通知】114學年度行事曆 2025-2026 Academic Calendar",
-        "timestamp": "1743059144",
-        "url": "mail_display.php?timestamp=1743059144",
-        "date": "2025/03/27 15:05",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "陳君如",
-            "email": "ju@gms.ndhu.edu.tw",
-            "phone": "6124"
         },
         "attachmentCount": 3
     }

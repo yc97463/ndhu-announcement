@@ -1,5 +1,19 @@
 [
     {
+        "title": "[停電]114年8月22日(五)壽豐校區停電一天",
+        "timestamp": "1745384857",
+        "url": "mail_display.php?timestamp=1745384857",
+        "date": "2025/04/23 13:07",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉景富",
+            "email": "nickak@gms.ndhu.edu.tw",
+            "phone": "8906373"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "檢送本校校長及教師兼任主管職務加給表，並自114年8月1日起實施",
         "timestamp": "1745376091",
         "url": "mail_display.php?timestamp=1745376091",
@@ -194,19 +208,5 @@
             "phone": "03-8906235"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "[公告] 有關本(114)年4月18日及4月29日辦理二場次之本校行政人員政策性訓練團體之數位學習課程，研習場次時間說明如下。",
-        "timestamp": "1744790054",
-        "url": "mail_display.php?timestamp=1744790054",
-        "date": "2025/04/16 15:54",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "莊博凱",
-            "email": "jonhnny77@gms.ndhu.edu.tw",
-            "phone": "6057"
-        },
-        "attachmentCount": 1
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "【學生兵役訊息】114年應接受常備兵役軍事訓練役男（83年次至93年次)，申請優先入營或延緩入營案公告",
+        "timestamp": "1745202384",
+        "url": "mail_display.php?timestamp=1745202384",
+        "date": "2025/04/21 10:26",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "6225"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【學習與創意講座】從平凡到亮眼：新鮮人履歷必學技巧！(5/12)",
         "timestamp": "1745202197",
         "url": "mail_display.php?timestamp=1745202197",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【2025校園徵才博覽月】RSM Technology 4/22(二)企業說明會，邀請您一起加入外商行列!🌍",
-        "timestamp": "1744991674",
-        "url": "mail_display.php?timestamp=1744991674",
-        "date": "2025/04/18 23:54",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
     }
 ]
