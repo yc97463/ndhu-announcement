@@ -1,5 +1,33 @@
 [
     {
+        "title": "【課務組公告】請注意113-2網路加退選時間 Please Notice the Period for Online Add/Drop Courses",
+        "timestamp": "1739341102",
+        "url": "mail_display.php?timestamp=1739341102",
+        "date": "2025/02/12 14:18",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113-2「VIP垂直整合」微學程說明會",
+        "timestamp": "1739332207",
+        "url": "mail_display.php?timestamp=1739332207",
+        "date": "2025/02/12 11:50",
+        "department": "管理學院",
+        "author": {
+            "department": "管理學院",
+            "name": "洄瀾共好大學社會責任中心",
+            "email": "techusr@gms.ndhu.edu.tw",
+            "phone": "3772/3770"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "113-2「VIP垂直整合」微學程說明會",
         "timestamp": "1739170091",
         "url": "mail_display.php?timestamp=1739170091",
@@ -180,33 +208,5 @@
             "phone": "3973"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "請授課教師提供113學年度第2學期「教師指定參考書清單」，謝謝。",
-        "timestamp": "1736387776",
-        "url": "mail_display.php?timestamp=1736387776",
-        "date": "2025/01/09 09:56",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "陳昱佐",
-            "email": "yutuchen@gms.ndhu.edu.tw",
-            "phone": "038906824"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "資通系統盤點暨安全等級評估教育訓練",
-        "timestamp": "1736216485",
-        "url": "mail_display.php?timestamp=1736216485",
-        "date": "2025/01/07 10:21",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "蕭澤宇",
-            "email": "zyhsiao@gms.ndhu.edu.tw",
-            "phone": "6727"
-        },
-        "attachmentCount": 2
     }
 ]
