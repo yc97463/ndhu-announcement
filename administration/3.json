@@ -1,5 +1,19 @@
 [
     {
+        "title": "【課務組】113學年度第2學期期中停修Mid-semester Course Withdrawal",
+        "timestamp": "1744612129",
+        "url": "mail_display.php?timestamp=1744612129",
+        "date": "2025/04/14 14:28",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【Student Dormitory】2025 Summer Dormitory Application ",
         "timestamp": "1744598505",
         "url": "mail_display.php?timestamp=1744598505",
@@ -194,19 +208,5 @@
             "phone": "6813"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【辦理活動重要提醒】重申辦理學校活動應遵循教育及行政中立",
-        "timestamp": "1744105542",
-        "url": "mail_display.php?timestamp=1744105542",
-        "date": "2025/04/08 17:45",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "游雅筑",
-            "email": "pink389124@gms.ndhu.edu.tw",
-            "phone": "6236"
-        },
-        "attachmentCount": 1
     }
 ]

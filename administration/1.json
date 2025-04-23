@@ -1,5 +1,19 @@
 [
     {
+        "title": "【停水】114年4月26日上午居南邨(含幼稚園)停水公告",
+        "timestamp": "1745407626",
+        "url": "mail_display.php?timestamp=1745407626",
+        "date": "2025/04/23 19:27",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
         "timestamp": "1745394418",
         "url": "mail_display.php?timestamp=1745394418",
@@ -194,19 +208,5 @@
             "phone": "6212"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【學生宿舍】114學年學生宿舍候補一作業相關事項",
-        "timestamp": "1744958063",
-        "url": "mail_display.php?timestamp=1744958063",
-        "date": "2025/04/18 14:34",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳怡秀",
-            "email": "yishoue@gms.ndhu.edu.tw",
-            "phone": "6212"
-        },
-        "attachmentCount": 2
     }
 ]

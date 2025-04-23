@@ -1,5 +1,33 @@
 [
     {
+        "title": "【徵才公告】國立東華大學總務處出納組徵聘【校務基金短期助理】",
+        "timestamp": "1745375797",
+        "url": "mail_display.php?timestamp=1745375797",
+        "date": "2025/04/23 10:36",
+        "department": "總務處出納組",
+        "author": {
+            "department": "總務處出納組",
+            "name": "鄧瑞美",
+            "email": "deng@gms.ndhu.edu.tw",
+            "phone": "03-8906361"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "📢第三次公告📢【2025校園徵才】4/25校園徵才博覽會，道路管制說明(自4/23起)",
+        "timestamp": "1745373494",
+        "url": "mail_display.php?timestamp=1745373494",
+        "date": "2025/04/23 09:58",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "郭舒羽",
+            "email": "hdoion@gms.ndhu.edu.tw",
+            "phone": "038-906284"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "🏃🏃113-2「Dongto東兔系列活動-夏日電影狂想曲」揪你一起吃餅乾看電影，趕快來報名!!(第2次公告)",
         "timestamp": "1745372584",
         "url": "mail_display.php?timestamp=1745372584",
@@ -180,33 +208,5 @@
             "phone": "03-8905012"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "2025七系聯合春季暨畢業舞會---春∙漾young .ᐟ‪‪.ᐟ   ",
-        "timestamp": "1745309454",
-        "url": "mail_display.php?timestamp=1745309454",
-        "date": "2025/04/22 16:10",
-        "department": "教育與潛能開發學系",
-        "author": {
-            "department": "教育與潛能開發學系",
-            "name": "謝亭誼",
-            "email": "411288021@gms.ndhu.edu.tw",
-            "phone": "038903822"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "📢⪦ 2025東華春藝季．謝哲青名人講座 《旅行的藝術 藝術的旅行》",
-        "timestamp": "1745308182",
-        "url": "mail_display.php?timestamp=1745308182",
-        "date": "2025/04/22 15:49",
-        "department": "藝術中心",
-        "author": {
-            "department": "藝術中心",
-            "name": "周葦綸",
-            "email": "arts@gms.ndhu.edu.tw",
-            "phone": "6606"
-        },
-        "attachmentCount": 7
     }
 ]
