@@ -1,5 +1,19 @@
 [
     {
+        "title": "【學生宿舍】國立東華大學114年度學生宿舍「暑假」住宿申請公告",
+        "timestamp": "1744598259",
+        "url": "mail_display.php?timestamp=1744598259",
+        "date": "2025/04/14 10:37",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳怡秀",
+            "email": "yishoue@gms.ndhu.edu.tw",
+            "phone": "6212"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "【第二次公告】委外管理程序教育訓練",
         "timestamp": "1744594518",
         "url": "mail_display.php?timestamp=1744594518",
@@ -194,19 +208,5 @@
             "phone": "03-8906058"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "吳全道人行道部分區域進行高壓電纜地下管線施工公告",
-        "timestamp": "1743579417",
-        "url": "mail_display.php?timestamp=1743579417",
-        "date": "2025/04/02 15:36",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉景富",
-            "email": "nickak@gms.ndhu.edu.tw",
-            "phone": "(03)8906373"
-        },
-        "attachmentCount": 2
     }
 ]

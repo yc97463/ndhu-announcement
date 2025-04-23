@@ -1,5 +1,19 @@
 [
     {
+        "title": "【緊急通知！】會計請購系統暫停使用",
+        "timestamp": "1745387432",
+        "url": "mail_display.php?timestamp=1745387432",
+        "date": "2025/04/23 13:50",
+        "department": "主計室",
+        "author": {
+            "department": "主計室",
+            "name": "曾俊達",
+            "email": "kleiber0576@gms.ndhu.edu.tw",
+            "phone": "(03)8906079"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "[停電]114年8月22日(五)壽豐校區停電一天",
         "timestamp": "1745384857",
         "url": "mail_display.php?timestamp=1745384857",
@@ -194,19 +208,5 @@
             "phone": "分機6221"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【2025校園徵才博覽月】🥝4月24日(四)企業說明會，站上職涯起跑線，歡迎大家一起來聽聽企業怎麼說🎤",
-        "timestamp": "1745310651",
-        "url": "mail_display.php?timestamp=1745310651",
-        "date": "2025/04/22 16:30",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 10
     }
 ]
