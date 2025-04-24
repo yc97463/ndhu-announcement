@@ -1,5 +1,19 @@
 [
     {
+        "title": "第25屆東華奇萊文學獎決審入圍名單公告",
+        "timestamp": "1745479749",
+        "url": "mail_display.php?timestamp=1745479749",
+        "date": "2025/04/24 15:29",
+        "department": "人文社會科學學院",
+        "author": {
+            "department": "人文社會科學學院",
+            "name": "姜妃澤",
+            "email": "ftc1029@gms.ndhu.edu.tw",
+            "phone": "03-8905203"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【停水】114年4月26日上午居南邨(含幼稚園)停水公告",
         "timestamp": "1745407626",
         "url": "mail_display.php?timestamp=1745407626",
@@ -194,19 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【Student Dormitory】114th Academic Year Dormitory Application (Waiting List Ⅰ)",
-        "timestamp": "1744958125",
-        "url": "mail_display.php?timestamp=1744958125",
-        "date": "2025/04/18 14:35",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳怡秀",
-            "email": "yishoue@gms.ndhu.edu.tw",
-            "phone": "6212"
-        },
-        "attachmentCount": 3
     }
 ]
