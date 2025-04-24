@@ -1,5 +1,19 @@
 [
     {
+        "title": "本校管理學院施工公告 ",
+        "timestamp": "1745283969",
+        "url": "mail_display.php?timestamp=1745283969",
+        "date": "2025/04/22 09:06",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "許仁泉",
+            "email": "600130@gms.ndhu.edu.tw",
+            "phone": "6375"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【113學年度就學貸款宣導】申請就學貸款之學生畢業離校前權利與義務宣導(非就貸生請略過此通知)",
         "timestamp": "1745283234",
         "url": "mail_display.php?timestamp=1745283234",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "東華夜市第四場來囉～就在4月22日！",
-        "timestamp": "1745219067",
-        "url": "mail_display.php?timestamp=1745219067",
-        "date": "2025/04/21 15:04",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "姜紫淇",
-            "email": "yaya@gms.ndhu.edu.tw",
-            "phone": "03-8906235"
-        },
-        "attachmentCount": 6
     }
 ]
