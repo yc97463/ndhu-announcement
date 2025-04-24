@@ -1,5 +1,19 @@
 [
     {
+        "title": "【2025校園徵才博覽月】🍎4月23日(三)企業說明會，探索職涯新方向，歡迎大家一起來聽聽企業怎麼說🎤",
+        "timestamp": "1745309793",
+        "url": "mail_display.php?timestamp=1745309793",
+        "date": "2025/04/22 16:16",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 7
+    },
+    {
         "title": "【徵聘公告】國立東華大學資訊工程學系徵聘專任教師一名 (第1次公告)",
         "timestamp": "1745309569",
         "url": "mail_display.php?timestamp=1745309569",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【獎助學金申請】屏山文教基金會113-2殘障清寒獎助學金 (限本人或直系父母為身障人士，且家庭為低或中低收入戶)",
-        "timestamp": "1745287595",
-        "url": "mail_display.php?timestamp=1745287595",
-        "date": "2025/04/22 10:06",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]

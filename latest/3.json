@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】中華傳統文化儒釋道教育學會114學年度「和諧安定獎學金」",
+        "timestamp": "1745381659",
+        "url": "mail_display.php?timestamp=1745381659",
+        "date": "2025/04/23 12:14",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "檢送本校校長及教師兼任主管職務加給表，並自114年8月1日起實施",
         "timestamp": "1745376091",
         "url": "mail_display.php?timestamp=1745376091",
@@ -194,19 +208,5 @@
             "phone": "3912"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【2025校園徵才博覽月】🍎4月23日(三)企業說明會，探索職涯新方向，歡迎大家一起來聽聽企業怎麼說🎤",
-        "timestamp": "1745309793",
-        "url": "mail_display.php?timestamp=1745309793",
-        "date": "2025/04/22 16:16",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 7
     }
 ]
