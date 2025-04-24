@@ -1,5 +1,19 @@
 [
     {
+        "title": "第二次公告【2025校園徵才】4/25校園徵才博覽會，道路管制說明",
+        "timestamp": "1745202854",
+        "url": "mail_display.php?timestamp=1745202854",
+        "date": "2025/04/21 10:34",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "郭舒羽",
+            "email": "hdoion@gms.ndhu.edu.tw",
+            "phone": "038-906284"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【學生兵役訊息】114年應接受常備兵役軍事訓練役男（83年次至93年次)，申請優先入營或延緩入營案公告",
         "timestamp": "1745202384",
         "url": "mail_display.php?timestamp=1745202384",
@@ -194,19 +208,5 @@
             "phone": "8906220"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "國立東華大學11302校園性別友善空間線上問卷調查",
-        "timestamp": "1744881273",
-        "url": "mail_display.php?timestamp=1744881273",
-        "date": "2025/04/17 17:14",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "王玉君",
-            "email": "hu.jean0503@gms.ndhu.edu.tw",
-            "phone": "8906220"
-        },
-        "attachmentCount": 4
     }
 ]
