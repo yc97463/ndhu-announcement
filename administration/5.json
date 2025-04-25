@@ -1,5 +1,19 @@
 [
     {
+        "title": "教育部電子郵件社交工程演練即日起開始，請各位同仁配合實施切勿點選不明之電子郵件。",
+        "timestamp": "1743475738",
+        "url": "mail_display.php?timestamp=1743475738",
+        "date": "2025/04/01 10:48",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "葉宏達",
+            "email": "honda@gms.ndhu.edu.tw",
+            "phone": "8906747"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【電腦教室公告】「兒童節及民族掃墓節」114.04.03-114.04.07連續假期，電腦教室不開放。The computer lab one will be closed on April 3-7, 2025.",
         "timestamp": "1743400918",
         "url": "mail_display.php?timestamp=1743400918",
@@ -194,19 +208,5 @@
             "phone": "6061"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【課務組】113-2「期中教學意見回饋」系統將自3月31日(一)起開放學生填寫 NDHU Mid-term Teaching Feedback System will open from March 31 \t",
-        "timestamp": "1742889556",
-        "url": "mail_display.php?timestamp=1742889556",
-        "date": "2025/03/25 15:59",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "utd1003@gms.ndhu.edu.tw",
-            "phone": "6122-6126"
-        },
-        "attachmentCount": 0
     }
 ]

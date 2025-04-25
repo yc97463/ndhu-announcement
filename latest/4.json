@@ -1,5 +1,19 @@
 [
     {
+        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
+        "timestamp": "1745394418",
+        "url": "mail_display.php?timestamp=1745394418",
+        "date": "2025/04/23 15:46",
+        "department": "圖書資訊處校務系統組",
+        "author": {
+            "department": "圖書資訊處校務系統組",
+            "name": "林志軒",
+            "email": "chshlin@gms.ndhu.edu.tw",
+            "phone": "6752"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【緊急通知！】會計請購系統暫停使用",
         "timestamp": "1745387432",
         "url": "mail_display.php?timestamp=1745387432",
@@ -194,19 +208,5 @@
             "phone": "6057"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "轉屏東縣政府辦理114年度大專青年學生公部門暑期工讀計畫海報及簡章",
-        "timestamp": "1745311219",
-        "url": "mail_display.php?timestamp=1745311219",
-        "date": "2025/04/22 16:40",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "王文和",
-            "email": "rlawwh@gms.ndhu.edu.tw",
-            "phone": "分機6221"
-        },
-        "attachmentCount": 2
     }
 ]

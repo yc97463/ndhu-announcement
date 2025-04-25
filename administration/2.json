@@ -1,5 +1,19 @@
 [
     {
+        "title": "【消防演練】原訂114年04月22日(二)上午10-12時體育館消防搶救演練，延後至下午16-18時進行。",
+        "timestamp": "1745284054",
+        "url": "mail_display.php?timestamp=1745284054",
+        "date": "2025/04/22 09:07",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "賴名塑",
+            "email": "a54604@gms.ndhu.edu.tw",
+            "phone": "8906378"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "本校管理學院施工公告 ",
         "timestamp": "1745283969",
         "url": "mail_display.php?timestamp=1745283969",
@@ -194,19 +208,5 @@
             "phone": "5107"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "本校「新宿舍運動」-西區學生宿舍整建說明會",
-        "timestamp": "1744701970",
-        "url": "mail_display.php?timestamp=1744701970",
-        "date": "2025/04/15 15:26",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳芳甫",
-            "email": "a779563@gms.ndhu.edu.tw",
-            "phone": "6224"
-        },
-        "attachmentCount": 0
     }
 ]
