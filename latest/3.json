@@ -1,5 +1,19 @@
 [
     {
+        "title": "【停水】114年4月26日上午居南邨(含幼稚園)停水公告",
+        "timestamp": "1745407626",
+        "url": "mail_display.php?timestamp=1745407626",
+        "date": "2025/04/23 19:27",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【2025校園徵才博覽月】✨跨出校園第一步！4月25日(五)東華大學校園徵才博覽會盛大登場！",
         "timestamp": "1745407341",
         "url": "mail_display.php?timestamp=1745407341",
@@ -194,19 +208,5 @@
             "phone": "890-6056"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【徵才公告】國立東華大學總務處出納組徵聘【校務基金短期助理】",
-        "timestamp": "1745375797",
-        "url": "mail_display.php?timestamp=1745375797",
-        "date": "2025/04/23 10:36",
-        "department": "總務處出納組",
-        "author": {
-            "department": "總務處出納組",
-            "name": "鄧瑞美",
-            "email": "deng@gms.ndhu.edu.tw",
-            "phone": "03-8906361"
-        },
-        "attachmentCount": 0
     }
 ]
