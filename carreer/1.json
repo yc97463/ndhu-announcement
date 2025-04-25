@@ -1,5 +1,19 @@
 [
     {
+        "title": "國立東華大學師資培育中心徵聘地方教育輔導組職務代理人",
+        "timestamp": "1745564608",
+        "url": "mail_display.php?timestamp=1745564608",
+        "date": "2025/04/25 15:03",
+        "department": "師資培育中心",
+        "author": {
+            "department": "師資培育中心",
+            "name": "陳淑貞",
+            "email": "sjchen@gms.ndhu.edu.tw",
+            "phone": "(03)8906636"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵人公告】國立東華大學社會參與中心誠徵大學社會責任專任計畫助理(修正應徵資格)",
         "timestamp": "1745400555",
         "url": "mail_display.php?timestamp=1745400555",
@@ -194,19 +208,5 @@
             "phone": "5109"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【徵才公告】113-2數位大學伴~急徵!!!",
-        "timestamp": "1743391617",
-        "url": "mail_display.php?timestamp=1743391617",
-        "date": "2025/03/31 11:26",
-        "department": "花師教育學院",
-        "author": {
-            "department": "花師教育學院",
-            "name": "李宛玲",
-            "email": "etutor_c226@gms.ndhu.edu.tw",
-            "phone": "890-3816"
-        },
-        "attachmentCount": 3
     }
 ]
