@@ -1,5 +1,47 @@
 [
     {
+        "title": "新型專班線上說明會",
+        "timestamp": "1744620266",
+        "url": "mail_display.php?timestamp=1744620266",
+        "date": "2025/04/14 16:44",
+        "department": "國際事務處國際招生組",
+        "author": {
+            "department": "國際事務處國際招生組",
+            "name": "賴幸絹",
+            "email": "admission@gms.ndhu.edu.tw",
+            "phone": "038905174"
+        },
+        "attachmentCount": 4
+    },
+    {
+        "title": "114年度校區內客貨電梯進行月保養排程通告 ( 四月保養 )",
+        "timestamp": "1744620072",
+        "url": "mail_display.php?timestamp=1744620072",
+        "date": "2025/04/14 16:41",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "藝術工坊汙水管線開挖作業",
+        "timestamp": "1744619088",
+        "url": "mail_display.php?timestamp=1744619088",
+        "date": "2025/04/14 16:24",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "師資培育中心徵聘地方教育輔導組職務代理人",
         "timestamp": "1744617950",
         "url": "mail_display.php?timestamp=1744617950",
@@ -166,47 +208,5 @@
             "phone": "6232"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【停水】素心里停水公告。",
-        "timestamp": "1744177148",
-        "url": "mail_display.php?timestamp=1744177148",
-        "date": "2025/04/09 13:39",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "擴大行政會議 會議紀錄公告通知",
-        "timestamp": "1744171048",
-        "url": "mail_display.php?timestamp=1744171048",
-        "date": "2025/04/09 11:57",
-        "department": "秘書室議事公文組",
-        "author": {
-            "department": "秘書室議事公文組",
-            "name": "陳婉婉",
-            "email": "secretariat@gms.ndhu.edu.tw",
-            "phone": "6004"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【宣導公告】加強入校車輛違規取締作業(第二次公告)",
-        "timestamp": "1744170721",
-        "url": "mail_display.php?timestamp=1744170721",
-        "date": "2025/04/09 11:52",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "許紹峯",
-            "email": "hsf113@gms.ndhu.edu.tw",
-            "phone": "03-8906314"
-        },
-        "attachmentCount": 0
     }
 ]
