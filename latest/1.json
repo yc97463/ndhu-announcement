@@ -1,5 +1,47 @@
 [
     {
+        "title": "【2025校園徵才博覽月】🎉🎉🎉就在今天❗️",
+        "timestamp": "1745548625",
+        "url": "mail_display.php?timestamp=1745548625",
+        "date": "2025/04/25 10:37",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "溫鳳婷",
+            "email": "fengting0804@gms.ndhu.edu.tw",
+            "phone": "6282"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "113學年度擬畢業生之車輛違規紀錄，請儘速以愛校服務或繳納處理費完成銷單(第二次公告)",
+        "timestamp": "1745548399",
+        "url": "mail_display.php?timestamp=1745548399",
+        "date": "2025/04/25 10:33",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "許紹峯",
+            "email": "hsf113@gms.ndhu.edu.tw",
+            "phone": "03-8906314"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "5月1日勞動節本校垃圾車暫停清運。Garbage collection service on campus will be suspended for Labor Day on May 1st.",
+        "timestamp": "1745546190",
+        "url": "mail_display.php?timestamp=1745546190",
+        "date": "2025/04/25 09:56",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "許智翔",
+            "email": "cocco3746@gms.ndhu.edu.tw",
+            "phone": "038906399"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "4/27(日)管理學院樓梯防墜安全網施工公告",
         "timestamp": "1745543329",
         "url": "mail_display.php?timestamp=1745543329",
@@ -166,47 +208,5 @@
             "phone": "8906237"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "第25屆東華奇萊文學獎決審入圍名單公告",
-        "timestamp": "1745479749",
-        "url": "mail_display.php?timestamp=1745479749",
-        "date": "2025/04/24 15:29",
-        "department": "人文社會科學學院",
-        "author": {
-            "department": "人文社會科學學院",
-            "name": "姜妃澤",
-            "email": "ftc1029@gms.ndhu.edu.tw",
-            "phone": "03-8905203"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "轉財團法人慶寶勤勞社會福利慈善事業基金會2025 年暑期工讀計畫資料(申請注意事項)",
-        "timestamp": "1745479200",
-        "url": "mail_display.php?timestamp=1745479200",
-        "date": "2025/04/24 15:20",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "王文和",
-            "email": "rlawwh@gms.ndhu.edu.tw",
-            "phone": "分機6221"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "114學年度國立東華大學附設花蓮縣私立實驗幼兒園(準公幼)招生訊息(第二次公告)",
-        "timestamp": "1745457334",
-        "url": "mail_display.php?timestamp=1745457334",
-        "date": "2025/04/24 09:15",
-        "department": "附設實驗幼兒園",
-        "author": {
-            "department": "附設實驗幼兒園",
-            "name": "魏家薰",
-            "email": "uniquejoannewei@gms.ndhu.edu.tw",
-            "phone": "6652"
-        },
-        "attachmentCount": 6
     }
 ]
