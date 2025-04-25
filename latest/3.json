@@ -1,5 +1,19 @@
 [
     {
+        "title": "求職防騙暨勞動權益宣導講座",
+        "timestamp": "1745452506",
+        "url": "mail_display.php?timestamp=1745452506",
+        "date": "2025/04/24 07:55",
+        "department": "學務處 畢業生及校友服務組",
+        "author": {
+            "department": "學務處 畢業生及校友服務組",
+            "name": "郭舒羽",
+            "email": "hdoion@gms.ndhu.edu.tw",
+            "phone": "03-8906284"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "親密關係講座-明明不快樂，卻離不開？破解PUA迷思，找到愛的出口",
         "timestamp": "1745452505",
         "url": "mail_display.php?timestamp=1745452505",
@@ -194,19 +208,5 @@
             "phone": "6667"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【徵才】嘉南藥理大學114年5月13日辦理2025校園徵才博覽會",
-        "timestamp": "1745396681",
-        "url": "mail_display.php?timestamp=1745396681",
-        "date": "2025/04/23 16:24",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
     }
 ]
