@@ -1,5 +1,33 @@
 [
     {
+        "title": "5月1日勞動節本校垃圾車暫停清運。Garbage collection service on campus will be suspended for Labor Day on May 1st.",
+        "timestamp": "1745546190",
+        "url": "mail_display.php?timestamp=1745546190",
+        "date": "2025/04/25 09:56",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "許智翔",
+            "email": "cocco3746@gms.ndhu.edu.tw",
+            "phone": "038906399"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "4/27(日)管理學院樓梯防墜安全網施工公告",
+        "timestamp": "1745543329",
+        "url": "mail_display.php?timestamp=1745543329",
+        "date": "2025/04/25 09:08",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "黃章傑",
+            "email": "cotycafe@gms.ndhu.edu.tw",
+            "phone": "038905778"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "[最後通知]請向晴莊(A01區)車棚機踏車於本(25)日下午6時前務必遷移",
         "timestamp": "1745542336",
         "url": "mail_display.php?timestamp=1745542336",
@@ -180,33 +208,5 @@
             "phone": "分機6221"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "114學年度國立東華大學附設花蓮縣私立實驗幼兒園(準公幼)招生訊息(第二次公告)",
-        "timestamp": "1745457334",
-        "url": "mail_display.php?timestamp=1745457334",
-        "date": "2025/04/24 09:15",
-        "department": "附設實驗幼兒園",
-        "author": {
-            "department": "附設實驗幼兒園",
-            "name": "魏家薰",
-            "email": "uniquejoannewei@gms.ndhu.edu.tw",
-            "phone": "6652"
-        },
-        "attachmentCount": 6
-    },
-    {
-        "title": "【花師】教育學院書卷奬、教檢模擬考頒奬典禮暨母親節青銀共學節能低碳烹烘培活動114/05/08(四)【僅提供受奬同學報名】",
-        "timestamp": "1745452510",
-        "url": "mail_display.php?timestamp=1745452510",
-        "date": "2025/04/24 07:55",
-        "department": "花師教育學院 ",
-        "author": {
-            "department": "花師教育學院",
-            "name": "賴姿伶",
-            "email": "tll@gms.ndhu.edu.tw",
-            "phone": "3804"
-        },
-        "attachmentCount": 0
     }
 ]

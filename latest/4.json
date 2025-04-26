@@ -1,5 +1,33 @@
 [
     {
+        "title": "  歡迎參加國語文教學「「從備課到上台——準教師的養成之道」",
+        "timestamp": "1745401775",
+        "url": "mail_display.php?timestamp=1745401775",
+        "date": "2025/04/23 17:49",
+        "department": "師資培育中心",
+        "author": {
+            "department": "師資培育中心",
+            "name": "陳淑貞",
+            "email": "sjchen@gms.ndhu.edu.tw",
+            "phone": "(03)8906636"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【徵人公告】國立東華大學社會參與中心誠徵大學社會責任專任計畫助理(修正應徵資格)",
+        "timestamp": "1745400555",
+        "url": "mail_display.php?timestamp=1745400555",
+        "date": "2025/04/23 17:29",
+        "department": "社會參與中心",
+        "author": {
+            "department": "社會參與中心",
+            "name": "徐小姐",
+            "email": "hsu-pangju@gms.ndhu.edu.tw",
+            "phone": "03-8905247"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【2025校園徵才博覽月】💖 4月24日(四)企業說明會，最後一天壓軸登場，不容錯過🎤",
         "timestamp": "1745400276",
         "url": "mail_display.php?timestamp=1745400276",
@@ -180,33 +208,5 @@
             "phone": "8906215"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【通識】轉知~114年度全國夏季學院開課囉!今年暑假一起來上跨校通識抵學分！(4/23(三)開始報名)",
-        "timestamp": "1745369320",
-        "url": "mail_display.php?timestamp=1745369320",
-        "date": "2025/04/23 08:48",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "李助理",
-            "email": "fen19@gms.ndhu.edu.tw",
-            "phone": "6602"
-        },
-        "attachmentCount": 9
-    },
-    {
-        "title": "第三次公告【2025校園徵才】4/25校園徵才博覽會，道路管制說明(自4/23起)",
-        "timestamp": "1745368777",
-        "url": "mail_display.php?timestamp=1745368777",
-        "date": "2025/04/23 08:39",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "郭舒羽",
-            "email": "hdoion@gms.ndhu.edu.tw",
-            "phone": "038-906284"
-        },
-        "attachmentCount": 1
     }
 ]
