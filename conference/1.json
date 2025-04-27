@@ -1,5 +1,19 @@
 [
     {
+        "title": "【活動】114年度高等教育深耕計畫素養導向教學增能系列講座：第1場5/14",
+        "timestamp": "1745744190",
+        "url": "mail_display.php?timestamp=1745744190",
+        "date": "2025/04/27 16:56",
+        "department": "語言中心",
+        "author": {
+            "department": "語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "  歡迎參加國語文教學「「從備課到上台——準教師的養成之道」",
         "timestamp": "1745401775",
         "url": "mail_display.php?timestamp=1745401775",
@@ -194,19 +208,5 @@
             "phone": "6852"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "2025【用全景視角看更大世界】系列課程",
-        "timestamp": "1744114018",
-        "url": "mail_display.php?timestamp=1744114018",
-        "date": "2025/04/08 20:06",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "吳其璁",
-            "email": "dci93031@gms.ndhu.edu.tw",
-            "phone": "03-8903687"
-        },
-        "attachmentCount": 4
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "【財金系專題演講】 3/7(五) 14:00 ~ 16:00 中國文化大學會計學系 廖羽惠 助理教授",
+        "timestamp": "1740983491",
+        "url": "mail_display.php?timestamp=1740983491",
+        "date": "2025/03/03 14:31",
+        "department": "財務金融學系",
+        "author": {
+            "department": "財務金融學系",
+            "name": "林役霜",
+            "email": "ys012@gms.ndhu.edu.tw",
+            "phone": "3133"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "[演講公告]歐洲議會資訊處處長Aleliunaite女士蒞校分享：歐盟的歷史與組織",
         "timestamp": "1740559716",
         "url": "mail_display.php?timestamp=1740559716",
@@ -194,19 +208,5 @@
             "phone": "3133"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "2025第12屆「華山論見」教育學術研討會徵稿展延公告",
-        "timestamp": "1734685664",
-        "url": "mail_display.php?timestamp=1734685664",
-        "date": "2024/12/20 17:07",
-        "department": "教育與潛能開發學系",
-        "author": {
-            "department": "教育與潛能開發學系",
-            "name": "溫小姐",
-            "email": "yuyu@gms.ndhu.edu.tw",
-            "phone": "03-8903823"
-        },
-        "attachmentCount": 6
     }
 ]

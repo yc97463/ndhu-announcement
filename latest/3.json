@@ -1,5 +1,19 @@
 [
     {
+        "title": "【代轉學生選舉委員會公告】第十五屆學生自治會選舉-候選人登記延長＜最後倒數＞",
+        "timestamp": "1745481967",
+        "url": "mail_display.php?timestamp=1745481967",
+        "date": "2025/04/24 16:06",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "姜紫淇",
+            "email": "yaya@gms.ndhu.edu.tw",
+            "phone": "03-8906235"
+        },
+        "attachmentCount": 8
+    },
+    {
         "title": "數位電話緊急事故通報快速鍵撥打方式",
         "timestamp": "1745481752",
         "url": "mail_display.php?timestamp=1745481752",
@@ -194,19 +208,5 @@
             "phone": "038905213"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "交換經驗分享會【中國、日本】",
-        "timestamp": "1745421667",
-        "url": "mail_display.php?timestamp=1745421667",
-        "date": "2025/04/23 23:21",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 1
     }
 ]
