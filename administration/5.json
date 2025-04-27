@@ -1,5 +1,19 @@
 [
     {
+        "title": "114年4月3~7日春假前注意及配合事項公告",
+        "timestamp": "1743486875",
+        "url": "mail_display.php?timestamp=1743486875",
+        "date": "2025/04/01 13:54",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "教育部電子郵件社交工程演練即日起開始，請各位同仁配合實施切勿點選不明之電子郵件。",
         "timestamp": "1743475738",
         "url": "mail_display.php?timestamp=1743475738",
@@ -194,19 +208,5 @@
             "phone": "8906378"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【徵才】本校徵求人文社會科學學院院長人選",
-        "timestamp": "1742947104",
-        "url": "mail_display.php?timestamp=1742947104",
-        "date": "2025/03/26 07:58",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "楊惠雯",
-            "email": "hwyang@gms.ndhu.edu.tw",
-            "phone": "6061"
-        },
-        "attachmentCount": 1
     }
 ]
