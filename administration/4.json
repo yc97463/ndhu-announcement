@@ -1,5 +1,33 @@
 [
     {
+        "title": "【學生宿舍】114學年學生宿舍候補一作業相關事項 【Student Dormitory】114th Academic Year Dormitory Application (Waiting List Ⅰ)",
+        "timestamp": "1744591555",
+        "url": "mail_display.php?timestamp=1744591555",
+        "date": "2025/04/14 08:45",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳怡秀",
+            "email": "yishoue@gms.ndhu.edu.tw",
+            "phone": "6212"
+        },
+        "attachmentCount": 6
+    },
+    {
+        "title": "113學年度擬畢業生之車輛違規紀錄，請儘速以愛校服務或繳納處理費完成銷單。",
+        "timestamp": "1744338152",
+        "url": "mail_display.php?timestamp=1744338152",
+        "date": "2025/04/11 10:22",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "許紹峯",
+            "email": "hsf113@gms.ndhu.edu.tw",
+            "phone": "03-8906314"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "113-2 學期「學業期中預警系統」正式啟動，請授課老師於期限內上網填寫預警資料!",
         "timestamp": "1744337074",
         "url": "mail_display.php?timestamp=1744337074",
@@ -180,33 +208,5 @@
             "phone": "6722"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "有關臺灣人民領有中共居民身分證或定居證，均屬違反臺灣地區與大陸地區人民關係條例第9 條之1規定一案，請查照。",
-        "timestamp": "1743577244",
-        "url": "mail_display.php?timestamp=1743577244",
-        "date": "2025/04/02 15:00",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "陳旺志",
-            "email": "dchen829@gms.ndhu.edu.tw",
-            "phone": "03-8906058"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【辦理活動重要提醒】重申辦理學校活動應遵循教育及行政中立",
-        "timestamp": "1743577028",
-        "url": "mail_display.php?timestamp=1743577028",
-        "date": "2025/04/02 14:57",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "余惠真",
-            "email": "nacy4631@gms.ndhu.edu.tw",
-            "phone": "6232"
-        },
-        "attachmentCount": 1
     }
 ]
