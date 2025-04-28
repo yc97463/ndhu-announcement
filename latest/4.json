@@ -1,5 +1,19 @@
 [
     {
+        "title": "113學年度擬畢業生之車輛違規紀錄，請儘速以愛校服務或繳納處理費完成銷單(第二次公告)",
+        "timestamp": "1745548399",
+        "url": "mail_display.php?timestamp=1745548399",
+        "date": "2025/04/25 10:33",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "許紹峯",
+            "email": "hsf113@gms.ndhu.edu.tw",
+            "phone": "03-8906314"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "5月1日勞動節本校垃圾車暫停清運。Garbage collection service on campus will be suspended for Labor Day on May 1st.",
         "timestamp": "1745546190",
         "url": "mail_display.php?timestamp=1745546190",
@@ -194,19 +208,5 @@
             "phone": "03-8905203"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "轉財團法人慶寶勤勞社會福利慈善事業基金會2025 年暑期工讀計畫資料(申請注意事項)",
-        "timestamp": "1745479200",
-        "url": "mail_display.php?timestamp=1745479200",
-        "date": "2025/04/24 15:20",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "王文和",
-            "email": "rlawwh@gms.ndhu.edu.tw",
-            "phone": "分機6221"
-        },
-        "attachmentCount": 1
     }
 ]
