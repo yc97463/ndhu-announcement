@@ -1,5 +1,33 @@
 [
     {
+        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
+        "timestamp": "1745394418",
+        "url": "mail_display.php?timestamp=1745394418",
+        "date": "2025/04/23 15:46",
+        "department": "圖書資訊處校務系統組",
+        "author": {
+            "department": "圖書資訊處校務系統組",
+            "name": "林志軒",
+            "email": "chshlin@gms.ndhu.edu.tw",
+            "phone": "6752"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【緊急通知！】會計請購系統暫停使用",
+        "timestamp": "1745387432",
+        "url": "mail_display.php?timestamp=1745387432",
+        "date": "2025/04/23 13:50",
+        "department": "主計室",
+        "author": {
+            "department": "主計室",
+            "name": "曾俊達",
+            "email": "kleiber0576@gms.ndhu.edu.tw",
+            "phone": "(03)8906079"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "[停電]114年8月22日(五)壽豐校區停電一天",
         "timestamp": "1745384857",
         "url": "mail_display.php?timestamp=1745384857",
@@ -180,33 +208,5 @@
             "phone": "6212"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【第一次公告】簡捷校內報支程序，取消劃帳清冊等事宜",
-        "timestamp": "1744876675",
-        "url": "mail_display.php?timestamp=1744876675",
-        "date": "2025/04/17 15:57",
-        "department": "主計室",
-        "author": {
-            "department": "主計室",
-            "name": "曾俊達",
-            "email": "kleiber0576@gms.ndhu.edu.tw",
-            "phone": "(03)8906079"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【代轉學生選舉委員會公告】 第十五屆學生自治會選舉，候選人登記進行中!! ",
-        "timestamp": "1744792546",
-        "url": "mail_display.php?timestamp=1744792546",
-        "date": "2025/04/16 16:35",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "姜紫淇",
-            "email": "yaya@gms.ndhu.edu.tw",
-            "phone": "03-8906235"
-        },
-        "attachmentCount": 4
     }
 ]
