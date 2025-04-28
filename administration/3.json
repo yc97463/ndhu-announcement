@@ -1,5 +1,19 @@
 [
     {
+        "title": "[公告] 有關本(114)年4月18日及4月29日辦理二場次之本校行政人員政策性訓練團體之數位學習課程，研習場次時間說明如下。",
+        "timestamp": "1744790054",
+        "url": "mail_display.php?timestamp=1744790054",
+        "date": "2025/04/16 15:54",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "莊博凱",
+            "email": "jonhnny77@gms.ndhu.edu.tw",
+            "phone": "6057"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "行政會議 會議紀錄公告通知",
         "timestamp": "1744782293",
         "url": "mail_display.php?timestamp=1744782293",
@@ -194,19 +208,5 @@
             "phone": "6212"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【第二次公告】委外管理程序教育訓練",
-        "timestamp": "1744594518",
-        "url": "mail_display.php?timestamp=1744594518",
-        "date": "2025/04/14 09:35",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "趙心榆",
-            "email": "vsychao@gms.ndhu.edu.tw",
-            "phone": "6722"
-        },
-        "attachmentCount": 2
     }
 ]
