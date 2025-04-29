@@ -1,5 +1,19 @@
 [
     {
+        "title": "【第二次公告】簡捷校內報支程序，取消劃帳清冊等事宜，敬請配合辦理",
+        "timestamp": "1745280653",
+        "url": "mail_display.php?timestamp=1745280653",
+        "date": "2025/04/22 08:10",
+        "department": "主計室",
+        "author": {
+            "department": "主計室",
+            "name": "英俊達",
+            "email": "kleiber0576@gms.ndhu.edu.tw",
+            "phone": "(03)8906079"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "為辦理本校113學年度人事甄審暨考績委員會「票選委員」補選，請於本(114)年4月25日(星期五)下班前，將登記(推薦)表送人事室登記",
         "timestamp": "1745221372",
         "url": "mail_display.php?timestamp=1745221372",
@@ -194,19 +208,5 @@
             "phone": "8906607"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "新型專班線上說明會",
-        "timestamp": "1744620266",
-        "url": "mail_display.php?timestamp=1744620266",
-        "date": "2025/04/14 16:44",
-        "department": "國際事務處國際招生組",
-        "author": {
-            "department": "國際事務處國際招生組",
-            "name": "賴幸絹",
-            "email": "admission@gms.ndhu.edu.tw",
-            "phone": "038905174"
-        },
-        "attachmentCount": 4
     }
 ]
