@@ -1,5 +1,19 @@
 [
     {
+        "title": "轉臺中市政府勞工局提供設籍臺中市大專青年學生公部門暑期工讀機會訊息",
+        "timestamp": "1742782772",
+        "url": "mail_display.php?timestamp=1742782772",
+        "date": "2025/03/24 10:19",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "王文和",
+            "email": "rlawwh@gms.ndhu.edu.tw",
+            "phone": "分機6221"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【急徵】113-2學期數位大學伴招募-急徵1名國中數學大學伴!!!",
         "timestamp": "1742531960",
         "url": "mail_display.php?timestamp=1742531960",
@@ -194,19 +208,5 @@
             "phone": "5107"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【獎助學金申請】113-2學期 原住民族委員會原住民學生獎助學金【第四次公告、無繼續申請可領回印章】",
-        "timestamp": "1741832270",
-        "url": "mail_display.php?timestamp=1741832270",
-        "date": "2025/03/13 10:17",
-        "department": "原住民族學生資源中心",
-        "author": {
-            "department": "原住民族學生資源中心",
-            "name": "林佳儀",
-            "email": "tipus1120103@gms.ndhu.edu.tw",
-            "phone": "5718"
-        },
-        "attachmentCount": 5
     }
 ]
