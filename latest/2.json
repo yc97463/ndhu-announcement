@@ -1,5 +1,61 @@
 [
     {
+        "title": "【轉知】經濟部智慧財產局114年7月16日舉辦「教育人員遠距教學著作權」宣導說明會",
+        "timestamp": "1745888582",
+        "url": "mail_display.php?timestamp=1745888582",
+        "date": "2025/04/29 09:03",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【Student Dormitory】Dormitory Application for Future NDHU Graduate Students(114th Academic Year)",
+        "timestamp": "1745888019",
+        "url": "mail_display.php?timestamp=1745888019",
+        "date": "2025/04/29 08:53",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳怡秀",
+            "email": "yishoue@gms.ndhu.edu.tw",
+            "phone": "6212"
+        },
+        "attachmentCount": 4
+    },
+    {
+        "title": "【學生宿舍】留校就讀本校研究所新生或五年連續修讀學、碩士學位（3+2）同學申請114學年住宿事宜",
+        "timestamp": "1745887940",
+        "url": "mail_display.php?timestamp=1745887940",
+        "date": "2025/04/29 08:52",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳怡秀",
+            "email": "yishoue@gms.ndhu.edu.tw",
+            "phone": "6212"
+        },
+        "attachmentCount": 4
+    },
+    {
+        "title": "🎓 畢典住宿快訊！東華美崙斯中樓開放預訂住宿啦！ 🏠✨",
+        "timestamp": "1745887821",
+        "url": "mail_display.php?timestamp=1745887821",
+        "date": "2025/04/29 08:50",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "溫小姐",
+            "email": "fengting0804@gms.ndhu.edu.tw",
+            "phone": "6282"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【轉知】台灣展翅協會辦理之【面對數位性暴力，發揮你的影響力】短片徵稿活動",
         "timestamp": "1745887358",
         "url": "mail_display.php?timestamp=1745887358",
@@ -152,61 +208,5 @@
             "phone": "6282"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "【轉知】國立宜蘭大學114/5/28「性別平等教育的教學實踐－審議式教學與地方本位教育的交會」",
-        "timestamp": "1745823534",
-        "url": "mail_display.php?timestamp=1745823534",
-        "date": "2025/04/28 14:58",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "陳禮凡",
-            "email": "lifan.chen@gms.ndhu.edu.tw",
-            "phone": "038906586"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【校園傳染病衛教宣導】肺之防護及居家照護",
-        "timestamp": "1745822572",
-        "url": "mail_display.php?timestamp=1745822572",
-        "date": "2025/04/28 14:42",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "請勿於校園內違規吸菸及亂丟菸蒂，以免造成環境汙染與危害公共安全!! Smoking or tossing cigarette butts is prohibited on campus to avoid environmental pollution and ensure public safety!!",
-        "timestamp": "1745822177",
-        "url": "mail_display.php?timestamp=1745822177",
-        "date": "2025/04/28 14:36",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "《十三班新航之舟-領航員招募再啟》",
-        "timestamp": "1745821647",
-        "url": "mail_display.php?timestamp=1745821647",
-        "date": "2025/04/28 14:27",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "余惠真",
-            "email": "nacy4631@gms.ndhu.edu.tw",
-            "phone": "6232"
-        },
-        "attachmentCount": 3
     }
 ]
