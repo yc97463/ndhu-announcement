@@ -1,5 +1,47 @@
 [
     {
+        "title": "【轉知】東海大學舉辦之「2025智財x產學小聚」系列講座活動",
+        "timestamp": "1745818509",
+        "url": "mail_display.php?timestamp=1745818509",
+        "date": "2025/04/28 13:35",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "李淑淳",
+            "email": "chun@gms.ndhu.edu.tw",
+            "phone": "6522"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【活動】114年度高等教育深耕計畫素養導向教學增能系列講座：第1場5/14",
+        "timestamp": "1745814218",
+        "url": "mail_display.php?timestamp=1745814218",
+        "date": "2025/04/28 12:23",
+        "department": "語言中心",
+        "author": {
+            "department": "語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 4
+    },
+    {
+        "title": "【轉知】國立公共資訊圖書館辦理「S級職夢者養成學院-2025技職群科工作坊系列活動」",
+        "timestamp": "1745810685",
+        "url": "mail_display.php?timestamp=1745810685",
+        "date": "2025/04/28 11:24",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【轉知】花蓮縣政府「求職防騙、薪資揭示及就業隱私」宣導單張",
         "timestamp": "1745809352",
         "url": "mail_display.php?timestamp=1745809352",
@@ -166,47 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【保管組公告】廢品清運作業",
-        "timestamp": "1745741891",
-        "url": "mail_display.php?timestamp=1745741891",
-        "date": "2025/04/27 16:18",
-        "department": "總務處保管組",
-        "author": {
-            "department": "總務處保管組",
-            "name": "林慧濘",
-            "email": "maya70@gms.ndhu.edu.tw",
-            "phone": "8906344"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "[職涯工作坊] 行銷人生模擬器：我適合哪個角色？",
-        "timestamp": "1745711701",
-        "url": "mail_display.php?timestamp=1745711701",
-        "date": "2025/04/27 07:55",
-        "department": "心理諮商輔導中心 預防推廣組",
-        "author": {
-            "department": "心理諮商輔導中心 預防推廣組",
-            "name": "李玟蒨",
-            "email": "phee1801@gms.ndhu.edu.tw",
-            "phone": "(03)890-6263"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【即將額滿】114/5/20、5/24「藝藝有吾藝友-藝創市集」攤商招募！",
-        "timestamp": "1745636841",
-        "url": "mail_display.php?timestamp=1745636841",
-        "date": "2025/04/26 11:07",
-        "department": "藝術創意產業學系",
-        "author": {
-            "department": "藝術創意產業學系",
-            "name": "謝明海",
-            "email": "ocean@gms.ndhu.edu.tw",
-            "phone": "890-5889"
-        },
-        "attachmentCount": 2
     }
 ]
