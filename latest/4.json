@@ -1,5 +1,47 @@
 [
     {
+        "title": "【學生兵役訊息】114年應接受常備兵役軍事訓練役男（83年次至93年次)，申請優先入營或延緩入營案公告",
+        "timestamp": "1745897717",
+        "url": "mail_display.php?timestamp=1745897717",
+        "date": "2025/04/29 11:35",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "6225"
+        },
+        "attachmentCount": 4
+    },
+    {
+        "title": "📢⪦ 2025東華春藝季．攝影展《結束前的開始》",
+        "timestamp": "1745896898",
+        "url": "mail_display.php?timestamp=1745896898",
+        "date": "2025/04/29 11:21",
+        "department": "藝術中心",
+        "author": {
+            "department": "藝術中心",
+            "name": "周葦綸",
+            "email": "arts@gms.ndhu.edu.tw",
+            "phone": "6606"
+        },
+        "attachmentCount": 7
+    },
+    {
+        "title": "📣 【熱門報名中!! 05/21履歷撰寫及面試技巧】 📣",
+        "timestamp": "1745895779",
+        "url": "mail_display.php?timestamp=1745895779",
+        "date": "2025/04/29 11:02",
+        "department": "原住民族學生資源中心",
+        "author": {
+            "department": "原住民族學生資源中心",
+            "name": "林詠靖",
+            "email": "tipus@gms.ndhu.edu.tw",
+            "phone": "5707"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "📣【🔥熱門報名中🔥｜05/23 原青族群自我認同文化講座 ✨× Malemeday 馬樂專輯發表】📣",
         "timestamp": "1745895627",
         "url": "mail_display.php?timestamp=1745895627",
@@ -166,47 +208,5 @@
             "phone": "8906220"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【發社系-民族講座】當社會工作師身處公部門：方法與心法；階層與能動",
-        "timestamp": "1745884503",
-        "url": "mail_display.php?timestamp=1745884503",
-        "date": "2025/04/29 07:55",
-        "department": "原住民民族學院 民族發展與社會工作學系",
-        "author": {
-            "department": "原住民民族學院 民族發展與社會工作學系",
-            "name": "郭雅婷",
-            "email": "tefi@gms.ndhu.edu.tw",
-            "phone": "5788"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "電影欣賞:金髮毒藥",
-        "timestamp": "1745884502",
-        "url": "mail_display.php?timestamp=1745884502",
-        "date": "2025/04/29 07:55",
-        "department": "圖書資訊處 圖資服務組",
-        "author": {
-            "department": "圖書資訊處 圖資服務組",
-            "name": "廖銘珠",
-            "email": "min-judy@gms.ndhu.edu.tw",
-            "phone": "6855"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【週四法語角】113-2 French Lunch Hour 法文午餐會話時間 5/08 第7場 Session 7\t",
-        "timestamp": "1745884501",
-        "url": "mail_display.php?timestamp=1745884501",
-        "date": "2025/04/29 07:55",
-        "department": "洄瀾學院 語言中心",
-        "author": {
-            "department": "洄瀾學院 語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 0
     }
 ]
