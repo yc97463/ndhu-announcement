@@ -1,5 +1,19 @@
 [
     {
+        "title": "【Rikec法學衝刺班】 報名進行中！",
+        "timestamp": "1746004235",
+        "url": "mail_display.php?timestamp=1746004235",
+        "date": "2025/04/30 17:10",
+        "department": "法律學系",
+        "author": {
+            "department": "法律學系",
+            "name": "Galaigai Cavalje 高蘇恩",
+            "email": "galaigai@gms.ndhu.edu.tw",
+            "phone": "890-5663"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "青年百億海外圓夢基金計畫中區說明會開放報名啦！",
         "timestamp": "1745906634",
         "url": "mail_display.php?timestamp=1745906634",
@@ -194,19 +208,5 @@
             "phone": "5922"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【代轉學生會公告】公共月系列講座隆重登場！",
-        "timestamp": "1744707917",
-        "url": "mail_display.php?timestamp=1744707917",
-        "date": "2025/04/15 17:05",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "姜紫淇",
-            "email": "yaya@gms.ndhu.edu.tw",
-            "phone": "03-8906235"
-        },
-        "attachmentCount": 2
     }
 ]
