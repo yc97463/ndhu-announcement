@@ -1,5 +1,33 @@
 [
     {
+        "title": "更正【學生宿舍】本校五年修讀學碩士學位（3+2）之研究所新生申請114學年住宿事宜",
+        "timestamp": "1746001693",
+        "url": "mail_display.php?timestamp=1746001693",
+        "date": "2025/04/30 16:28",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳怡秀",
+            "email": "yishoue@gms.ndhu.edu.tw",
+            "phone": "6212"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【資安宣導】請定期變更您的密碼",
+        "timestamp": "1746000938",
+        "url": "mail_display.php?timestamp=1746000938",
+        "date": "2025/04/30 16:15",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "趙心榆",
+            "email": "vsychao@gms.ndhu.edu.tw",
+            "phone": "6722"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【資安提醒】本校資通安全政策暨人員資通安全管理守則公告",
         "timestamp": "1745998119",
         "url": "mail_display.php?timestamp=1745998119",
@@ -178,34 +206,6 @@
             "name": "林志軒",
             "email": "chshlin@gms.ndhu.edu.tw",
             "phone": "6752"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【第三次公告】簡捷校內報支程序，取消劃帳清冊等事宜",
-        "timestamp": "1745798955",
-        "url": "mail_display.php?timestamp=1745798955",
-        "date": "2025/04/28 08:09",
-        "department": "主計室",
-        "author": {
-            "department": "主計室",
-            "name": "曾俊達",
-            "email": "kleiber0576@gms.ndhu.edu.tw",
-            "phone": "(03)8906079"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【保管組公告】廢品清運作業",
-        "timestamp": "1745741891",
-        "url": "mail_display.php?timestamp=1745741891",
-        "date": "2025/04/27 16:18",
-        "department": "總務處保管組",
-        "author": {
-            "department": "總務處保管組",
-            "name": "林慧濘",
-            "email": "maya70@gms.ndhu.edu.tw",
-            "phone": "8906344"
         },
         "attachmentCount": 0
     }
