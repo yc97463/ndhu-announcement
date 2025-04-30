@@ -1,5 +1,19 @@
 [
     {
+        "title": "行政會議 會議紀錄公告通知",
+        "timestamp": "1744782293",
+        "url": "mail_display.php?timestamp=1744782293",
+        "date": "2025/04/16 13:44",
+        "department": "秘書室議事公文組",
+        "author": {
+            "department": "秘書室議事公文組",
+            "name": "陳婉婉",
+            "email": "secretariat@gms.ndhu.edu.tw",
+            "phone": "6004"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "4月14日有冒名釣魚信件暨教育部社交工程演練提醒",
         "timestamp": "1744769195",
         "url": "mail_display.php?timestamp=1744769195",
@@ -194,19 +208,5 @@
             "phone": "6722"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【學生宿舍】114學年學生宿舍候補一作業相關事項 【Student Dormitory】114th Academic Year Dormitory Application (Waiting List Ⅰ)",
-        "timestamp": "1744591555",
-        "url": "mail_display.php?timestamp=1744591555",
-        "date": "2025/04/14 08:45",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳怡秀",
-            "email": "yishoue@gms.ndhu.edu.tw",
-            "phone": "6212"
-        },
-        "attachmentCount": 6
     }
 ]
