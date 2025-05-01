@@ -1,5 +1,19 @@
 [
     {
+        "title": "google 已停止低安全性應用程式連線、outlook 應對方法",
+        "timestamp": "1745808579",
+        "url": "mail_display.php?timestamp=1745808579",
+        "date": "2025/04/28 10:49",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "葉宏達",
+            "email": "honda@gms.ndhu.edu.tw",
+            "phone": "8906747"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "原訂校務行政系統主機更新與維護行程取消 (Cancellation of Scheduled School Administrative-affair System Upgrade and Maintenance)",
         "timestamp": "1745801390",
         "url": "mail_display.php?timestamp=1745801390",
@@ -192,20 +206,6 @@
             "name": "曾俊達",
             "email": "kleiber0576@gms.ndhu.edu.tw",
             "phone": "(03)8906079"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "[停電]114年8月22日(五)壽豐校區停電一天",
-        "timestamp": "1745384857",
-        "url": "mail_display.php?timestamp=1745384857",
-        "date": "2025/04/23 13:07",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉景富",
-            "email": "nickak@gms.ndhu.edu.tw",
-            "phone": "8906373"
         },
         "attachmentCount": 0
     }

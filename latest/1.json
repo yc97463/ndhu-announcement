@@ -1,5 +1,75 @@
 [
     {
+        "title": "(重要提醒)投票-114年5月1日(星期四)上午9時至下午2時，補選113學年度人事甄審暨考績委員會「票選委員」。",
+        "timestamp": "1746062327",
+        "url": "mail_display.php?timestamp=1746062327",
+        "date": "2025/05/01 09:18",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "林淑惠",
+            "email": "linsh@gms.ndhu.edu.tw",
+            "phone": "038906059"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "【多元文化教育系列講座】Spring 2025 Series Speech",
+        "timestamp": "1746061929",
+        "url": "mail_display.php?timestamp=1746061929",
+        "date": "2025/05/01 09:12",
+        "department": "多元文化教育碩博班",
+        "author": {
+            "department": "多元文化教育碩博班",
+            "name": "孫菁嬅",
+            "email": "jinghua@gms.ndhu.edu.tw",
+            "phone": "3157"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【藝創系】2025花蓮青年夢想家＆產業專題補助計畫說明會(專業1小時認證)",
+        "timestamp": "1746060701",
+        "url": "mail_display.php?timestamp=1746060701",
+        "date": "2025/05/01 08:51",
+        "department": "藝術創意產業學系",
+        "author": {
+            "department": "藝術創意產業學系",
+            "name": "謝明海",
+            "email": "ocean@gms.ndhu.edu.tw",
+            "phone": "890-5889"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【交通安全】志學中正路5月1日換邊停車，尚未移動車輛的同學，請盡快移動您的車輛。",
+        "timestamp": "1746060417",
+        "url": "mail_display.php?timestamp=1746060417",
+        "date": "2025/05/01 08:46",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "林嘉瑩",
+            "email": "tea7101@gms.ndhu.edu.tw",
+            "phone": "03-8906226"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【觀遊系休閒社會心理學體驗講座】林曉蘋 藝術治療師：藝術治療的多元樣貌",
+        "timestamp": "1746057301",
+        "url": "mail_display.php?timestamp=1746057301",
+        "date": "2025/05/01 07:55",
+        "department": "管理學院 觀光暨休閒遊憩學系",
+        "author": {
+            "department": "管理學院 觀光暨休閒遊憩學系",
+            "name": "陳麗如",
+            "email": "trls@gms.ndhu.edu.tw",
+            "phone": "5602"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【論文獎助】臺南市政府文化局「2025臺南研究博碩士論文研究獎學金」",
         "timestamp": "1746016117",
         "url": "mail_display.php?timestamp=1746016117",
@@ -136,76 +206,6 @@
             "name": "Galaigai Cavalje 高蘇恩",
             "email": "galaigai@gms.ndhu.edu.tw",
             "phone": "890-5663"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【實習】臺南市政府文化局「114年博物館與地方文化館暑期實習計畫」💕(114年5月16日截止)",
-        "timestamp": "1746003620",
-        "url": "mail_display.php?timestamp=1746003620",
-        "date": "2025/04/30 17:00",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 5
-    },
-    {
-        "title": "更正【學生宿舍】本校五年修讀學碩士學位（3+2）之研究所新生申請114學年住宿事宜",
-        "timestamp": "1746001693",
-        "url": "mail_display.php?timestamp=1746001693",
-        "date": "2025/04/30 16:28",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳怡秀",
-            "email": "yishoue@gms.ndhu.edu.tw",
-            "phone": "6212"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【資安宣導】請定期變更您的密碼",
-        "timestamp": "1746000938",
-        "url": "mail_display.php?timestamp=1746000938",
-        "date": "2025/04/30 16:15",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "趙心榆",
-            "email": "vsychao@gms.ndhu.edu.tw",
-            "phone": "6722"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【健康促進活動】響應2025年世界無菸日，衛保組邀您填問卷拿小禮",
-        "timestamp": "1745999817",
-        "url": "mail_display.php?timestamp=1745999817",
-        "date": "2025/04/30 15:56",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "【語傳月 Samaanen a somowal?(阿美語：怎麼說？)｜在語言中學習】系列活動開跑啦！",
-        "timestamp": "1745999251",
-        "url": "mail_display.php?timestamp=1745999251",
-        "date": "2025/04/30 15:47",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "璽祐．哈噜咪",
-            "email": "siyu@gms.ndhu.edu.tw",
-            "phone": "5824"
         },
         "attachmentCount": 2
     }

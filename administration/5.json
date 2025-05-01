@@ -1,5 +1,19 @@
 [
     {
+        "title": "【第二次公告】委外管理程序教育訓練",
+        "timestamp": "1744594518",
+        "url": "mail_display.php?timestamp=1744594518",
+        "date": "2025/04/14 09:35",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "趙心榆",
+            "email": "vsychao@gms.ndhu.edu.tw",
+            "phone": "6722"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【學生宿舍】114學年學生宿舍候補一作業相關事項 【Student Dormitory】114th Academic Year Dormitory Application (Waiting List Ⅰ)",
         "timestamp": "1744591555",
         "url": "mail_display.php?timestamp=1744591555",
@@ -192,20 +206,6 @@
             "name": "劉景富",
             "email": "nickak@gms.ndhu.edu.tw",
             "phone": "(03)8906373"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "委外管理程序教育訓練",
-        "timestamp": "1743577315",
-        "url": "mail_display.php?timestamp=1743577315",
-        "date": "2025/04/02 15:01",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "趙心榆",
-            "email": "vsychao@gms.ndhu.edu.tw",
-            "phone": "6722"
         },
         "attachmentCount": 2
     }
