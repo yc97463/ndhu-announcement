@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才】國立東華大學國際事務處徵聘助理2名",
+        "timestamp": "1746088059",
+        "url": "mail_display.php?timestamp=1746088059",
+        "date": "2025/05/01 16:27",
+        "department": "國際事務處",
+        "author": {
+            "department": "國際事務處",
+            "name": "劉力綺",
+            "email": "cheerio@gms.ndhu.edu.tw",
+            "phone": "5109"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【📣原資中心活動📣】5/6(二)全民原教以～烈市集",
         "timestamp": "1746078477",
         "url": "mail_display.php?timestamp=1746078477",
@@ -194,19 +208,5 @@
             "phone": "03-8906219"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "11 4 年度校區內客貨電梯進行月保養排程通告(五月保養)",
-        "timestamp": "1746013507",
-        "url": "mail_display.php?timestamp=1746013507",
-        "date": "2025/04/30 19:45",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
     }
 ]
