@@ -1,5 +1,19 @@
 [
     {
+        "title": "🎉親愛的準畢業生，邀請您參加113學年度畢業典禮，迎接屬於您的榮耀時刻！",
+        "timestamp": "1746093459",
+        "url": "mail_display.php?timestamp=1746093459",
+        "date": "2025/05/01 17:57",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "溫小姐",
+            "email": "fengting0804@gms.ndhu.edu.tw",
+            "phone": "6282"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "擴大行政會議 會議紀錄公告通知",
         "timestamp": "1746092185",
         "url": "mail_display.php?timestamp=1746092185",
@@ -192,20 +206,6 @@
             "name": "林嘉瑩",
             "email": "tea7101@gms.ndhu.edu.tw",
             "phone": "03-8906226"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【觀遊系休閒社會心理學體驗講座】林曉蘋 藝術治療師：藝術治療的多元樣貌",
-        "timestamp": "1746057301",
-        "url": "mail_display.php?timestamp=1746057301",
-        "date": "2025/05/01 07:55",
-        "department": "管理學院 觀光暨休閒遊憩學系",
-        "author": {
-            "department": "管理學院 觀光暨休閒遊憩學系",
-            "name": "陳麗如",
-            "email": "trls@gms.ndhu.edu.tw",
-            "phone": "5602"
         },
         "attachmentCount": 0
     }
