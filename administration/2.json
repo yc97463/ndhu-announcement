@@ -1,5 +1,19 @@
 [
     {
+        "title": "【學生宿舍】114學年學生宿舍候補二作業相關事項",
+        "timestamp": "1745888835",
+        "url": "mail_display.php?timestamp=1745888835",
+        "date": "2025/04/29 09:07",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳怡秀",
+            "email": "yishoue@gms.ndhu.edu.tw",
+            "phone": "6212"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【Student Dormitory】Dormitory Application for Future NDHU Graduate Students(114th Academic Year)",
         "timestamp": "1745888019",
         "url": "mail_display.php?timestamp=1745888019",
@@ -194,19 +208,5 @@
             "phone": "8906373"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "人社一館 全棟消毒作業公告",
-        "timestamp": "1745541740",
-        "url": "mail_display.php?timestamp=1745541740",
-        "date": "2025/04/25 08:42",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "許智翔",
-            "email": "cocco3746@gms.ndhu.edu.tw",
-            "phone": "038906399"
-        },
-        "attachmentCount": 0
     }
 ]
