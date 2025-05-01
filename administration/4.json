@@ -1,5 +1,61 @@
 [
     {
+        "title": "【Student Dormitory】114th Academic Year Dormitory Application (Waiting List Ⅰ)",
+        "timestamp": "1744958125",
+        "url": "mail_display.php?timestamp=1744958125",
+        "date": "2025/04/18 14:35",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳怡秀",
+            "email": "yishoue@gms.ndhu.edu.tw",
+            "phone": "6212"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "【學生宿舍】114學年學生宿舍候補一作業相關事項",
+        "timestamp": "1744958063",
+        "url": "mail_display.php?timestamp=1744958063",
+        "date": "2025/04/18 14:34",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳怡秀",
+            "email": "yishoue@gms.ndhu.edu.tw",
+            "phone": "6212"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【第一次公告】簡捷校內報支程序，取消劃帳清冊等事宜",
+        "timestamp": "1744876675",
+        "url": "mail_display.php?timestamp=1744876675",
+        "date": "2025/04/17 15:57",
+        "department": "主計室",
+        "author": {
+            "department": "主計室",
+            "name": "曾俊達",
+            "email": "kleiber0576@gms.ndhu.edu.tw",
+            "phone": "(03)8906079"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【代轉學生選舉委員會公告】 第十五屆學生自治會選舉，候選人登記進行中!! ",
+        "timestamp": "1744792546",
+        "url": "mail_display.php?timestamp=1744792546",
+        "date": "2025/04/16 16:35",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "姜紫淇",
+            "email": "yaya@gms.ndhu.edu.tw",
+            "phone": "03-8906235"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "[公告] 有關本(114)年4月18日及4月29日辦理二場次之本校行政人員政策性訓練團體之數位學習課程，研習場次時間說明如下。",
         "timestamp": "1744790054",
         "url": "mail_display.php?timestamp=1744790054",
@@ -152,61 +208,5 @@
             "phone": "(03)8906636"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【資安宣導】為因應新型態數位服務延伸之新興資安風險，請各機關遵循「危害國家資通安全產品限制使用原則」，並依規定辦理，請查照。",
-        "timestamp": "1744613978",
-        "url": "mail_display.php?timestamp=1744613978",
-        "date": "2025/04/14 14:59",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "蕭澤宇",
-            "email": "zyhsiao@gms.ndhu.edu.tw",
-            "phone": "6727"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【課務組】113學年度第2學期期中停修Mid-semester Course Withdrawal",
-        "timestamp": "1744612129",
-        "url": "mail_display.php?timestamp=1744612129",
-        "date": "2025/04/14 14:28",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "utd1003@gms.ndhu.edu.tw",
-            "phone": "6122-6126"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【Student Dormitory】2025 Summer Dormitory Application ",
-        "timestamp": "1744598505",
-        "url": "mail_display.php?timestamp=1744598505",
-        "date": "2025/04/14 10:41",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳怡秀",
-            "email": "yishoue@gms.ndhu.edu.tw",
-            "phone": "6212"
-        },
-        "attachmentCount": 5
-    },
-    {
-        "title": "【學生宿舍】國立東華大學114年度學生宿舍「暑假」住宿申請公告",
-        "timestamp": "1744598259",
-        "url": "mail_display.php?timestamp=1744598259",
-        "date": "2025/04/14 10:37",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳怡秀",
-            "email": "yishoue@gms.ndhu.edu.tw",
-            "phone": "6212"
-        },
-        "attachmentCount": 5
     }
 ]
