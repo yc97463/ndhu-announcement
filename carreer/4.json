@@ -1,19 +1,5 @@
 [
     {
-        "title": "【役男訊息】中華電信「114年研發替代役人員遴選」簡章公告",
-        "timestamp": "1740699524",
-        "url": "mail_display.php?timestamp=1740699524",
-        "date": "2025/02/28 07:38",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "黃勇程",
-            "email": "victor0903@gms.ndhu.edu.tw",
-            "phone": "6225"
-        },
-        "attachmentCount": 3
-    },
-    {
         "title": "【徵才公告】國立東華大學總務處出納組校務基金短(定)期助理一名",
         "timestamp": "1740661004",
         "url": "mail_display.php?timestamp=1740661004",
@@ -208,5 +194,19 @@
             "phone": "8906587"
         },
         "attachmentCount": 0
+    },
+    {
+        "title": "【人才招募】113-2學期數位大學伴~熱烈招募中!!!",
+        "timestamp": "1739781543",
+        "url": "mail_display.php?timestamp=1739781543",
+        "date": "2025/02/17 16:39",
+        "department": "花師教育學院",
+        "author": {
+            "department": "花師教育學院",
+            "name": "李宛玲",
+            "email": "etutor_c226@gms.ndhu.edu.tw",
+            "phone": "890-3816"
+        },
+        "attachmentCount": 8
     }
 ]

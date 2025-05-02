@@ -1,19 +1,5 @@
 [
     {
-        "title": "【人才招募】113-2學期數位大學伴~熱烈招募中!!!",
-        "timestamp": "1739781543",
-        "url": "mail_display.php?timestamp=1739781543",
-        "date": "2025/02/17 16:39",
-        "department": "花師教育學院",
-        "author": {
-            "department": "花師教育學院",
-            "name": "李宛玲",
-            "email": "etutor_c226@gms.ndhu.edu.tw",
-            "phone": "890-3816"
-        },
-        "attachmentCount": 8
-    },
-    {
         "title": "【人才招募】113-2學期數位大學伴招募",
         "timestamp": "1739607858",
         "url": "mail_display.php?timestamp=1739607858",
@@ -208,5 +194,19 @@
             "phone": "03-8905063"
         },
         "attachmentCount": 1
+    },
+    {
+        "title": "國立東華大學原住民民族學院原住民族國際研究博士班誠徵校務基金助理一名",
+        "timestamp": "1736906179",
+        "url": "mail_display.php?timestamp=1736906179",
+        "date": "2025/01/15 09:56",
+        "department": "原住民族研究國際博士班",
+        "author": {
+            "department": "原住民族研究國際博士班",
+            "name": "黃怡瑄",
+            "email": "dungi@gms.ndhu.edu.tw",
+            "phone": "038905760"
+        },
+        "attachmentCount": 0
     }
 ]

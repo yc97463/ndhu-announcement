@@ -1,5 +1,19 @@
 [
     {
+        "title": "【國立東華大學族群關係與文化學系-系主任】徵聘公告",
+        "timestamp": "1746211390",
+        "url": "mail_display.php?timestamp=1746211390",
+        "date": "2025/05/03 02:43",
+        "department": "原住民民族學院",
+        "author": {
+            "department": "原住民民族學院",
+            "name": "安梓濱 Pasuya e Yasiungu",
+            "email": "pasuya@gms.ndhu.edu.tw",
+            "phone": "03-8905752"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "涵星二莊、擷雲莊5月2日晚間因馬達故障暫無法持續補水至水塔，請節約用水。",
         "timestamp": "1746206698",
         "url": "mail_display.php?timestamp=1746206698",
@@ -26,20 +40,6 @@
             "phone": "8906218"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【國立東華大族群關係與文化學系-系主任】徵聘公告",
-        "timestamp": "1746176839",
-        "url": "mail_display.php?timestamp=1746176839",
-        "date": "2025/05/02 17:07",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "安梓濱Pasuya e Yasiungu",
-            "email": "pasuya@gms.ndhu.edu.tw",
-            "phone": "03-8905752"
-        },
-        "attachmentCount": 1
     },
     {
         "title": "114學年登場‼️5/6【性別微學程】說明會邀請您來參與(第二次公告)",
@@ -96,20 +96,6 @@
             "phone": "6283"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【國立東華大學族群關係與文化學系-系主任】徵聘公告",
-        "timestamp": "1746169168",
-        "url": "mail_display.php?timestamp=1746169168",
-        "date": "2025/05/02 14:59",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "安梓濱 Pasuya e Yasiungu",
-            "email": "pasuya@gms.ndhu.edu.tw",
-            "phone": "03-89057852"
-        },
-        "attachmentCount": 1
     },
     {
         "title": "教務處公告--請大三同學於114/5/9-6/4在「學士班學程選課輔助及畢業初審系統」上傳課規年   Announcement of the Academic Affairs Office - Students who are Juniors please upload the course planning on the \"Undergraduate Course Selection Assistance and Graduation Preliminary Examination System\" before June 4th,2025.",
@@ -208,5 +194,19 @@
             "phone": "03-8906235"
         },
         "attachmentCount": 1
+    },
+    {
+        "title": "東華電子報 | 2025年04月刊 |",
+        "timestamp": "1746148798",
+        "url": "mail_display.php?timestamp=1746148798",
+        "date": "2025/05/02 09:19",
+        "department": "秘書室公關宣傳組",
+        "author": {
+            "department": "秘書室公關宣傳組",
+            "name": "林佩瑤",
+            "email": "peiyao@gms.ndhu.edu.tw",
+            "phone": "6013"
+        },
+        "attachmentCount": 0
     }
 ]
