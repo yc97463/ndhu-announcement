@@ -1,5 +1,19 @@
 [
     {
+        "title": "【發社系-民族講座】PisLatuk撥動心弦",
+        "timestamp": "1746143708",
+        "url": "mail_display.php?timestamp=1746143708",
+        "date": "2025/05/02 07:55",
+        "department": "原住民民族學院 民族發展與社會工作學系",
+        "author": {
+            "department": "原住民民族學院 民族發展與社會工作學系",
+            "name": "郭雅婷",
+            "email": "tefi@gms.ndhu.edu.tw",
+            "phone": "5788"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【企管系暨運籌所】113-2 Language Lounge-Group Discussion / Debate(第五場)",
         "timestamp": "1746143707",
         "url": "mail_display.php?timestamp=1746143707",
@@ -194,19 +208,5 @@
             "phone": "(03)8905173"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【公告】行政院修正「公立大專校院兼任教師鐘點費支給基準表」，自114年2月1日起生效",
-        "timestamp": "1746067391",
-        "url": "mail_display.php?timestamp=1746067391",
-        "date": "2025/05/01 10:43",
-        "department": "主計室",
-        "author": {
-            "department": "主計室",
-            "name": "曾俊達",
-            "email": "kleiber0576@gms.ndhu.edu.tw",
-            "phone": "(03)8906079"
-        },
-        "attachmentCount": 3
     }
 ]

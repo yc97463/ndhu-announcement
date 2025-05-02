@@ -1,5 +1,19 @@
 [
     {
+        "title": "【公告】行政院修正「公立大專校院兼任教師鐘點費支給基準表」，自114年2月1日起生效",
+        "timestamp": "1746067391",
+        "url": "mail_display.php?timestamp=1746067391",
+        "date": "2025/05/01 10:43",
+        "department": "主計室",
+        "author": {
+            "department": "主計室",
+            "name": "曾俊達",
+            "email": "kleiber0576@gms.ndhu.edu.tw",
+            "phone": "(03)8906079"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【閉館通知】5/10-11 (週六、日)兩天，圖書館閉館",
         "timestamp": "1746066307",
         "url": "mail_display.php?timestamp=1746066307",
@@ -194,19 +208,5 @@
             "phone": "6057"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【徵才】教育部體育署「114年度運動人才就業媒合會」 填履歷 送小禮🎁",
-        "timestamp": "1746005976",
-        "url": "mail_display.php?timestamp=1746005976",
-        "date": "2025/04/30 17:39",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
     }
 ]

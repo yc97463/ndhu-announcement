@@ -1,5 +1,19 @@
 [
     {
+        "title": "新型專班線上說明會",
+        "timestamp": "1744620266",
+        "url": "mail_display.php?timestamp=1744620266",
+        "date": "2025/04/14 16:44",
+        "department": "國際事務處國際招生組",
+        "author": {
+            "department": "國際事務處國際招生組",
+            "name": "賴幸絹",
+            "email": "admission@gms.ndhu.edu.tw",
+            "phone": "038905174"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "114年度校區內客貨電梯進行月保養排程通告 ( 四月保養 )",
         "timestamp": "1744620072",
         "url": "mail_display.php?timestamp=1744620072",
@@ -194,19 +208,5 @@
             "phone": "6232"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【停水】素心里停水公告。",
-        "timestamp": "1744177148",
-        "url": "mail_display.php?timestamp=1744177148",
-        "date": "2025/04/09 13:39",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "【▲重要通知】114學年度第1學期「學生就學優待減免學雜費」申請公告",
+        "timestamp": "1746187301",
+        "url": "mail_display.php?timestamp=1746187301",
+        "date": "2025/05/02 20:01",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "林黃漢穎",
+            "email": "henry30180@gms.ndhu.edu.tw",
+            "phone": "8906218"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "教務處公告--請大三同學於114/5/9-6/4在「學士班學程選課輔助及畢業初審系統」上傳課規年   Announcement of the Academic Affairs Office - Students who are Juniors please upload the course planning on the \"Undergraduate Course Selection Assistance and Graduation Preliminary Examination System\" before June 4th,2025.",
         "timestamp": "1746166989",
         "url": "mail_display.php?timestamp=1746166989",
@@ -194,19 +208,5 @@
             "phone": "6393"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【學生兵役訊息】114年應接受常備兵役軍事訓練役男（83年次至93年次)，申請優先入營或延緩入營案公告",
-        "timestamp": "1745897717",
-        "url": "mail_display.php?timestamp=1745897717",
-        "date": "2025/04/29 11:35",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "黃勇程",
-            "email": "victor0903@gms.ndhu.edu.tw",
-            "phone": "6225"
-        },
-        "attachmentCount": 4
     }
 ]
