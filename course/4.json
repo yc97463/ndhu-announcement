@@ -1,5 +1,19 @@
 [
     {
+        "title": "第三次通知_【教務處】國立東華大學_學期週數問卷調查_教師版(至2/27下午5時止)",
+        "timestamp": "1740538576",
+        "url": "mail_display.php?timestamp=1740538576",
+        "date": "2025/02/26 10:56",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "陳君如",
+            "email": "ju@gms.ndhu.edu.tw",
+            "phone": "6124"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【重要訊息】公告113-2校核心通識課程停開資訊",
         "timestamp": "1740532298",
         "url": "mail_display.php?timestamp=1740532298",
@@ -194,19 +208,5 @@
             "phone": "5012"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "📣📣113-2起飛學習課程、活動第一波免費報名開放啦!!",
-        "timestamp": "1739760263",
-        "url": "mail_display.php?timestamp=1739760263",
-        "date": "2025/02/17 10:44",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "鄭小姐",
-            "email": "ting@gms.ndhu.edu.tw",
-            "phone": "03-8906215"
-        },
-        "attachmentCount": 7
     }
 ]
