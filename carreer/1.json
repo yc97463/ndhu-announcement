@@ -1,5 +1,19 @@
 [
     {
+        "title": "【國立東華大學族群關係與文化學系-系主任】徵聘公告",
+        "timestamp": "1746169168",
+        "url": "mail_display.php?timestamp=1746169168",
+        "date": "2025/05/02 14:59",
+        "department": "原住民民族學院",
+        "author": {
+            "department": "原住民民族學院",
+            "name": "安梓濱 Pasuya e Yasiungu",
+            "email": "pasuya@gms.ndhu.edu.tw",
+            "phone": "03-89057852"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【徵才】國立東華大學國際事務處徵聘助理2名",
         "timestamp": "1746088059",
         "url": "mail_display.php?timestamp=1746088059",
@@ -194,19 +208,5 @@
             "phone": "8903204"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【國立東華大學海洋生物研究所-所長】徵聘公告",
-        "timestamp": "1744248339",
-        "url": "mail_display.php?timestamp=1744248339",
-        "date": "2025/04/10 09:25",
-        "department": "環境暨海洋學院",
-        "author": {
-            "department": "環境暨海洋學院",
-            "name": "童泰力",
-            "email": "ttung@gms.ndhu.edu.tw",
-            "phone": "(03)890-3261"
-        },
-        "attachmentCount": 0
     }
 ]

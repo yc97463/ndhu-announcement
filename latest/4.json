@@ -1,5 +1,19 @@
 [
     {
+        "title": "更正【學生宿舍】本校五年修讀學碩士學位（3+2）之研究所新生申請114學年住宿事宜",
+        "timestamp": "1746001693",
+        "url": "mail_display.php?timestamp=1746001693",
+        "date": "2025/04/30 16:28",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳怡秀",
+            "email": "yishoue@gms.ndhu.edu.tw",
+            "phone": "6212"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【資安宣導】請定期變更您的密碼",
         "timestamp": "1746000938",
         "url": "mail_display.php?timestamp=1746000938",
@@ -194,19 +208,5 @@
             "phone": "038906228"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "114年5月份全校綠地除草維護時間及施作區域公告",
-        "timestamp": "1745972292",
-        "url": "mail_display.php?timestamp=1745972292",
-        "date": "2025/04/30 08:18",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "賴宜萱",
-            "email": "lai0210@gms.ndhu.edu.tw",
-            "phone": "6393"
-        },
-        "attachmentCount": 1
     }
 ]
