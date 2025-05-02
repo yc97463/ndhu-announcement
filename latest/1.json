@@ -1,5 +1,19 @@
 [
     {
+        "title": "涵星二莊、擷雲莊5月2日晚間因馬達故障暫無法持續補水至水塔，請節約用水。",
+        "timestamp": "1746206698",
+        "url": "mail_display.php?timestamp=1746206698",
+        "date": "2025/05/03 01:24",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉景富",
+            "email": "nickak@gms.ndhu.edu.tw",
+            "phone": "8906373"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【▲重要通知】114學年度第1學期「學生就學優待減免學雜費」申請公告",
         "timestamp": "1746187301",
         "url": "mail_display.php?timestamp=1746187301",
@@ -194,19 +208,5 @@
             "phone": "03-8906235"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "東華電子報 | 2025年04月刊 |",
-        "timestamp": "1746148798",
-        "url": "mail_display.php?timestamp=1746148798",
-        "date": "2025/05/02 09:19",
-        "department": "秘書室公關宣傳組",
-        "author": {
-            "department": "秘書室公關宣傳組",
-            "name": "林佩瑤",
-            "email": "peiyao@gms.ndhu.edu.tw",
-            "phone": "6013"
-        },
-        "attachmentCount": 0
     }
 ]
