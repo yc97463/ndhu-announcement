@@ -1,5 +1,33 @@
 [
     {
+        "title": "阿美編織手作體驗",
+        "timestamp": "1746154946",
+        "url": "mail_display.php?timestamp=1746154946",
+        "date": "2025/05/02 11:02",
+        "department": "管理學院",
+        "author": {
+            "department": "管理學院",
+            "name": "洄瀾共好大學社會責任中心",
+            "email": "techusr@gms.ndhu.edu.tw",
+            "phone": "038903771"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "【代轉學生會公告】洄潮計畫 Palirroia Fest.′25 正式啟航！",
+        "timestamp": "1746150999",
+        "url": "mail_display.php?timestamp=1746150999",
+        "date": "2025/05/02 09:56",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "姜紫淇",
+            "email": "yaya@gms.ndhu.edu.tw",
+            "phone": "03-8906235"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "東華電子報 | 2025年04月刊 |",
         "timestamp": "1746148798",
         "url": "mail_display.php?timestamp=1746148798",
@@ -180,33 +208,5 @@
             "phone": "6746"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【徵才】國立東華大學國際事務處徵聘助理2名",
-        "timestamp": "1746088059",
-        "url": "mail_display.php?timestamp=1746088059",
-        "date": "2025/05/01 16:27",
-        "department": "國際事務處",
-        "author": {
-            "department": "國際事務處",
-            "name": "劉力綺",
-            "email": "cheerio@gms.ndhu.edu.tw",
-            "phone": "5109"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【📣原資中心活動📣】5/6(二)全民原教以～烈市集",
-        "timestamp": "1746078477",
-        "url": "mail_display.php?timestamp=1746078477",
-        "date": "2025/05/01 13:47",
-        "department": "原住民族學生資源中心",
-        "author": {
-            "department": "原住民族學生資源中心",
-            "name": "葉靜瑜",
-            "email": "tipus1120103@gms.ndhu.edu.tw",
-            "phone": "5704"
-        },
-        "attachmentCount": 2
     }
 ]
