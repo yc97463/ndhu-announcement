@@ -1,5 +1,19 @@
 [
     {
+        "title": "管理學院會計學系身心障礙專案助理徵才公告(第六次公告)",
+        "timestamp": "1745973737",
+        "url": "mail_display.php?timestamp=1745973737",
+        "date": "2025/04/30 08:42",
+        "department": "會計學系",
+        "author": {
+            "department": "會計學系",
+            "name": "陳助理",
+            "email": "chrischen@gms.ndhu.edu.tw",
+            "phone": "8903072"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "宣導鼓勵參加教育部第七屆「我的未來我作主」校園反毒反霸凌影音創作競賽(如獲獎，獎勵金額1-5萬)，相關辦法及宣傳海報如附件。",
         "timestamp": "1745972853",
         "url": "mail_display.php?timestamp=1745972853",
@@ -194,19 +208,5 @@
             "phone": "(03)8903771"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "\"下週二5/6 10:10\"-音樂系音樂季【協奏曲】專題講座，名額有限，盡快報名。",
-        "timestamp": "1745914939",
-        "url": "mail_display.php?timestamp=1745914939",
-        "date": "2025/04/29 16:22",
-        "department": "音樂學系",
-        "author": {
-            "department": "音樂學系",
-            "name": "張純倩",
-            "email": "asd963741@gms.ndhu.edu.tw",
-            "phone": "03-8905168"
-        },
-        "attachmentCount": 5
     }
 ]

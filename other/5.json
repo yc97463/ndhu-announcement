@@ -1,5 +1,19 @@
 [
     {
+        "title": "【消防演練】原訂114年04月22日(二)上午10-12時體育館消防搶救演練，延後至下午16-18時進行。",
+        "timestamp": "1745284054",
+        "url": "mail_display.php?timestamp=1745284054",
+        "date": "2025/04/22 09:07",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "賴名塑",
+            "email": "a54604@gms.ndhu.edu.tw",
+            "phone": "8906378"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【113學年度就學貸款宣導】申請就學貸款之學生畢業離校前權利與義務宣導(非就貸生請略過此通知)",
         "timestamp": "1745283234",
         "url": "mail_display.php?timestamp=1745283234",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【2025校園徵才博覽月】RSM Technology 4/22(二)企業說明會，邀請您一起加入外商行列!🌍",
-        "timestamp": "1744991674",
-        "url": "mail_display.php?timestamp=1744991674",
-        "date": "2025/04/18 23:54",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
     }
 ]
