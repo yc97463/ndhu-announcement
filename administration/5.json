@@ -1,5 +1,19 @@
 [
     {
+        "title": "本校「新宿舍運動」-西區學生宿舍整建說明會",
+        "timestamp": "1744701970",
+        "url": "mail_display.php?timestamp=1744701970",
+        "date": "2025/04/15 15:26",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳芳甫",
+            "email": "a779563@gms.ndhu.edu.tw",
+            "phone": "6224"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "[消防演練]114年04月22日(二)上午10-12時體育館消防搶救演練公告",
         "timestamp": "1744687986",
         "url": "mail_display.php?timestamp=1744687986",
@@ -194,19 +208,5 @@
             "phone": "6115"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "本校委外廠商(真食鍋物)提供書劵獎得獎學生優惠券第2次公告",
-        "timestamp": "1744332429",
-        "url": "mail_display.php?timestamp=1744332429",
-        "date": "2025/04/11 08:47",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "潘姵辰",
-            "email": "papec1980@gms.ndhu.edu.tw",
-            "phone": "03-8906313"
-        },
-        "attachmentCount": 3
     }
 ]

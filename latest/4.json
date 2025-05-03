@@ -1,5 +1,19 @@
 [
     {
+        "title": "[Notice of Library Closure] The library will be closed on 5/10-11 (Saturday and Sunday).",
+        "timestamp": "1746065990",
+        "url": "mail_display.php?timestamp=1746065990",
+        "date": "2025/05/01 10:19",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "何銘俊",
+            "email": "robert@gms.ndhu.edu.tw",
+            "phone": "6841"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【多元文化教育講座】思考族鄉，思考教學：在持續殖民的情境中，反思以土地為根基的教育學",
         "timestamp": "1746065900",
         "url": "mail_display.php?timestamp=1746065900",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【徵才】南華大學114年5月15日辦理2025校園徵才博覽會",
-        "timestamp": "1746004314",
-        "url": "mail_display.php?timestamp=1746004314",
-        "date": "2025/04/30 17:11",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 2
     }
 ]

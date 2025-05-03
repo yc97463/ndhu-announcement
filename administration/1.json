@@ -1,5 +1,19 @@
 [
     {
+        "title": "涵星二莊、擷雲莊揚水馬達控制故障已修復，兩莊水塔目前已恢復補水。",
+        "timestamp": "1746245022",
+        "url": "mail_display.php?timestamp=1746245022",
+        "date": "2025/05/03 12:03",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉景富",
+            "email": "nickak@gms.ndhu.edu.tw",
+            "phone": "8906373"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "校長說明0403地震年度修繕工作執行情形",
         "timestamp": "1746241785",
         "url": "mail_display.php?timestamp=1746241785",
@@ -192,20 +206,6 @@
             "name": "趙心榆",
             "email": "vsychao@gms.ndhu.edu.tw",
             "phone": "6722"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【資安提醒】本校資通安全政策暨人員資通安全管理守則公告",
-        "timestamp": "1745998119",
-        "url": "mail_display.php?timestamp=1745998119",
-        "date": "2025/04/30 15:28",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "蕭澤宇",
-            "email": "zyhsiao@gms.ndhu.edu.tw",
-            "phone": "6727"
         },
         "attachmentCount": 0
     }
