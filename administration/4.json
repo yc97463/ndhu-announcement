@@ -1,5 +1,19 @@
 [
     {
+        "title": "本校管理學院施工公告 ",
+        "timestamp": "1745283969",
+        "url": "mail_display.php?timestamp=1745283969",
+        "date": "2025/04/22 09:06",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "許仁泉",
+            "email": "600130@gms.ndhu.edu.tw",
+            "phone": "6375"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "向晴莊機踏車棚(A01區)拆除公告",
         "timestamp": "1745282474",
         "url": "mail_display.php?timestamp=1745282474",
@@ -192,20 +206,6 @@
             "name": "陳芳甫",
             "email": "a779563@gms.ndhu.edu.tw",
             "phone": "6224"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "[消防演練]114年04月22日(二)上午10-12時體育館消防搶救演練公告",
-        "timestamp": "1744687986",
-        "url": "mail_display.php?timestamp=1744687986",
-        "date": "2025/04/15 11:33",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "賴名塑",
-            "email": "a54604@gms.ndhu.edu.tw",
-            "phone": "8906378"
         },
         "attachmentCount": 0
     }

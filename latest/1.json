@@ -1,5 +1,19 @@
 [
     {
+        "title": "校長說明0403地震年度修繕工作執行情形",
+        "timestamp": "1746241785",
+        "url": "mail_display.php?timestamp=1746241785",
+        "date": "2025/05/03 11:09",
+        "department": "秘書室公關宣傳組",
+        "author": {
+            "department": "秘書室公關宣傳組",
+            "name": "孫嘉莉",
+            "email": "clsun@gms.ndhu.edu.tw",
+            "phone": "6006"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "物理學系113.05.09 女性科技人學習與工作經驗分享 - 陳美杏博士",
         "timestamp": "1746230110",
         "url": "mail_display.php?timestamp=1746230110",
@@ -194,19 +208,5 @@
             "phone": "5243"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【國立東華大學民族語言與傳播學系-系主任】徵聘公告",
-        "timestamp": "1746175800",
-        "url": "mail_display.php?timestamp=1746175800",
-        "date": "2025/05/02 16:50",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "安梓濱Pasuya e Yasiungu",
-            "email": "pasuya@gms.ndhu.edu.tw",
-            "phone": "03-8905752"
-        },
-        "attachmentCount": 1
     }
 ]
