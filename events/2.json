@@ -1,5 +1,33 @@
 [
     {
+        "title": "【活動轉知】國立政治大學辦理2025 NCCU Innofest （113-2學期課程期末海報聯展），",
+        "timestamp": "1746165486",
+        "url": "mail_display.php?timestamp=1746165486",
+        "date": "2025/05/02 13:58",
+        "department": "人工智慧辦公室",
+        "author": {
+            "department": "人工智慧辦公室",
+            "name": "林佩瑤",
+            "email": "peiyao@gms.ndhu.edu.tw",
+            "phone": "6013"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【 協助轉知】2025永續發展目標教師培力營",
+        "timestamp": "1746156565",
+        "url": "mail_display.php?timestamp=1746156565",
+        "date": "2025/05/02 11:29",
+        "department": "永續發展中心",
+        "author": {
+            "department": "永續發展中心",
+            "name": "李莉莉 Li-Li Lee",
+            "email": "sd@gms.ndhu.edu.tw",
+            "phone": "03-890-5920"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "歷史學系歷史週系列講座(四)：《毋但是思念》東華校園放映 X 映後座談",
         "timestamp": "1746156219",
         "url": "mail_display.php?timestamp=1746156219",
@@ -180,33 +208,5 @@
             "phone": "6282"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【📣原資中心活動📣】5/6(二)全民原教以～烈市集",
-        "timestamp": "1746078477",
-        "url": "mail_display.php?timestamp=1746078477",
-        "date": "2025/05/01 13:47",
-        "department": "原住民族學生資源中心",
-        "author": {
-            "department": "原住民族學生資源中心",
-            "name": "葉靜瑜",
-            "email": "tipus1120103@gms.ndhu.edu.tw",
-            "phone": "5704"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【國際事務處】2025世界咖啡館 2025 World Café",
-        "timestamp": "1746070954",
-        "url": "mail_display.php?timestamp=1746070954",
-        "date": "2025/05/01 11:42",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "周昀樺",
-            "email": "kf50923@gms.ndhu.edu.tw",
-            "phone": "(03)8905173"
-        },
-        "attachmentCount": 2
     }
 ]
