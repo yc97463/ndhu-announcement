@@ -1,5 +1,19 @@
 [
     {
+        "title": "【公告】教育部修正「補(捐)助及委辦經費核撥結報作業要點」第4點附件2，自115年1月1日起生效",
+        "timestamp": "1746066180",
+        "url": "mail_display.php?timestamp=1746066180",
+        "date": "2025/05/01 10:23",
+        "department": "主計室",
+        "author": {
+            "department": "主計室",
+            "name": "曾俊達",
+            "email": "kleiber0576@gms.ndhu.edu.tw",
+            "phone": "(03)8906079"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "[Notice of Library Closure] The library will be closed on 5/10-11 (Saturday and Sunday).",
         "timestamp": "1746065990",
         "url": "mail_display.php?timestamp=1746065990",
@@ -194,19 +208,5 @@
             "phone": "6057"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【徵才】臺北市政府工務局公園路燈工程管理處「專案技工暨年度約僱人員甄選」(114年5月5日截止)",
-        "timestamp": "1746004922",
-        "url": "mail_display.php?timestamp=1746004922",
-        "date": "2025/04/30 17:22",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 4
     }
 ]

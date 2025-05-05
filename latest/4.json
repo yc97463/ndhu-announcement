@@ -1,5 +1,19 @@
 [
     {
+        "title": "【企管系】學程說明會(113學年度)",
+        "timestamp": "1746143706",
+        "url": "mail_display.php?timestamp=1746143706",
+        "date": "2025/05/02 07:55",
+        "department": "管理學院 企業管理學系",
+        "author": {
+            "department": "管理學院 企業管理學系",
+            "name": "陳雅芳",
+            "email": "mayachen@gms.ndhu.edu.tw",
+            "phone": "3162"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "危機處理工作坊–AI諮商輔助在危機應對中的應用",
         "timestamp": "1746143705",
         "url": "mail_display.php?timestamp=1746143705",
@@ -194,19 +208,5 @@
             "phone": "6841"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【公告】教育部修正「補(捐)助及委辦經費核撥結報作業要點」第4點附件2，自115年1月1日起生效",
-        "timestamp": "1746066180",
-        "url": "mail_display.php?timestamp=1746066180",
-        "date": "2025/05/01 10:23",
-        "department": "主計室",
-        "author": {
-            "department": "主計室",
-            "name": "曾俊達",
-            "email": "kleiber0576@gms.ndhu.edu.tw",
-            "phone": "(03)8906079"
-        },
-        "attachmentCount": 3
     }
 ]
