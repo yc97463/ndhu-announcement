@@ -1,5 +1,19 @@
 [
     {
+        "title": "【交通安全】志學中正路5月1日換邊停車，尚未移動車輛的同學，請盡快移動您的車輛。",
+        "timestamp": "1746060417",
+        "url": "mail_display.php?timestamp=1746060417",
+        "date": "2025/05/01 08:46",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "林嘉瑩",
+            "email": "tea7101@gms.ndhu.edu.tw",
+            "phone": "03-8906226"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【觀遊系休閒社會心理學體驗講座】林曉蘋 藝術治療師：藝術治療的多元樣貌",
         "timestamp": "1746057301",
         "url": "mail_display.php?timestamp=1746057301",
@@ -192,20 +206,6 @@
             "name": "李莉莉 Li-Li Lee",
             "email": "sd@gms.ndhu.edu.tw",
             "phone": "03-890-5920"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【2025 Glimmering Trails Prom】 Prom | Event Details Announcement and Invitation💫",
-        "timestamp": "1745918818",
-        "url": "mail_display.php?timestamp=1745918818",
-        "date": "2025/04/29 17:26",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "溫小姐",
-            "email": "fengting0804@gms.ndhu.edu.tw",
-            "phone": "6282"
         },
         "attachmentCount": 3
     }

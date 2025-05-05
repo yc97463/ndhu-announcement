@@ -1,5 +1,19 @@
 [
     {
+        "title": "【113-2師培研習】Edtech x English 翻轉你的英語課！",
+        "timestamp": "1746230107",
+        "url": "mail_display.php?timestamp=1746230107",
+        "date": "2025/05/03 07:55",
+        "department": "師資培育中心 中等學程組",
+        "author": {
+            "department": "師資培育中心 中等學程組",
+            "name": "劉姵君",
+            "email": "amyliou@gms.ndhu.edu.tw",
+            "phone": "6632"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "我們與永續的距離：ESG、企業與我",
         "timestamp": "1746230106",
         "url": "mail_display.php?timestamp=1746230106",
@@ -194,19 +208,5 @@
             "phone": "03-8906235"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【發社系-民族講座】PisLatuk撥動心弦",
-        "timestamp": "1746143708",
-        "url": "mail_display.php?timestamp=1746143708",
-        "date": "2025/05/02 07:55",
-        "department": "原住民民族學院 民族發展與社會工作學系",
-        "author": {
-            "department": "原住民民族學院 民族發展與社會工作學系",
-            "name": "郭雅婷",
-            "email": "tefi@gms.ndhu.edu.tw",
-            "phone": "5788"
-        },
-        "attachmentCount": 0
     }
 ]
