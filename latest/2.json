@@ -1,5 +1,19 @@
 [
     {
+        "title": "【法律學系】專題演講-「媒」那麼簡單—開「冠」你想不到的律師生活",
+        "timestamp": "1746416315",
+        "url": "mail_display.php?timestamp=1746416315",
+        "date": "2025/05/05 11:38",
+        "department": "法律學系",
+        "author": {
+            "department": "法律學系",
+            "name": "陳助教",
+            "email": "meditator@gms.ndhu.edu.tw",
+            "phone": "5662"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "就是今天！今天！月亮16:00📣5/6(二)全民原教以～烈市集📣【原資中心活動】",
         "timestamp": "1746415678",
         "url": "mail_display.php?timestamp=1746415678",
@@ -194,19 +208,5 @@
             "phone": "6006"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "物理學系113.05.09 女性科技人學習與工作經驗分享 - 陳美杏博士",
-        "timestamp": "1746230110",
-        "url": "mail_display.php?timestamp=1746230110",
-        "date": "2025/05/03 07:55",
-        "department": "理工學院 生化暨分子醫學科學系",
-        "author": {
-            "department": "理工學院 生化暨分子醫學科學系",
-            "name": "元淑英",
-            "email": "syyuan@gms.ndhu.edu.tw",
-            "phone": "3632"
-        },
-        "attachmentCount": 0
     }
 ]

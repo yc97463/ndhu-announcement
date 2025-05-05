@@ -1,5 +1,19 @@
 [
     {
+        "title": "【藝創系】2025花蓮青年夢想家＆產業專題補助計畫說明會(專業1小時認證)",
+        "timestamp": "1746060701",
+        "url": "mail_display.php?timestamp=1746060701",
+        "date": "2025/05/01 08:51",
+        "department": "藝術創意產業學系",
+        "author": {
+            "department": "藝術創意產業學系",
+            "name": "謝明海",
+            "email": "ocean@gms.ndhu.edu.tw",
+            "phone": "890-5889"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【交通安全】志學中正路5月1日換邊停車，尚未移動車輛的同學，請盡快移動您的車輛。",
         "timestamp": "1746060417",
         "url": "mail_display.php?timestamp=1746060417",
@@ -194,19 +208,5 @@
             "phone": "03-8905203"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【Forward 協助轉知】2025 Go Green 綠能創意競賽 Schneider Go Green 2025",
-        "timestamp": "1745970430",
-        "url": "mail_display.php?timestamp=1745970430",
-        "date": "2025/04/30 07:47",
-        "department": "永續發展中心",
-        "author": {
-            "department": "永續發展中心",
-            "name": "李莉莉 Li-Li Lee",
-            "email": "sd@gms.ndhu.edu.tw",
-            "phone": "03-890-5920"
-        },
-        "attachmentCount": 3
     }
 ]

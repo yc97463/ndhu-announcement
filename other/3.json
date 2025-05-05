@@ -1,5 +1,19 @@
 [
     {
+        "title": "Adobe Creative Cloud學生限定團購專案(即日起至2025年5月9日止)",
+        "timestamp": "1745895259",
+        "url": "mail_display.php?timestamp=1745895259",
+        "date": "2025/04/29 10:54",
+        "department": "圖書資訊處綜合業務組",
+        "author": {
+            "department": "圖書資訊處綜合業務組",
+            "name": "林循美",
+            "email": "cindy@gms.ndhu.edu.tw",
+            "phone": "8906774"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "🎓 畢典住宿快訊！東華美崙斯中樓開放預訂住宿啦！ 🏠✨",
         "timestamp": "1745887821",
         "url": "mail_display.php?timestamp=1745887821",
@@ -194,19 +208,5 @@
             "phone": "890-5889"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【實習】桃園國際機場股份有限公司「114年大專院校暑期實習」(校內收件至114年5月2日止)",
-        "timestamp": "1745579265",
-        "url": "mail_display.php?timestamp=1745579265",
-        "date": "2025/04/25 19:07",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
     }
 ]
