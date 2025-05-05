@@ -1,5 +1,61 @@
 [
     {
+        "title": "【專題演講】5/9(五)_Top Gun，飛機聯網系統設計與應用",
+        "timestamp": "1746230102",
+        "url": "mail_display.php?timestamp=1746230102",
+        "date": "2025/05/03 07:55",
+        "department": "理工學院 電機工程學系",
+        "author": {
+            "department": "理工學院 電機工程學系",
+            "name": "邱昭儒",
+            "email": "senorita@gms.ndhu.edu.tw",
+            "phone": "5063"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "我們與永續的距離：ESG、企業與我",
+        "timestamp": "1746230101",
+        "url": "mail_display.php?timestamp=1746230101",
+        "date": "2025/05/03 07:55",
+        "department": "管理學院 會計與資訊管理國際學士班",
+        "author": {
+            "department": "管理學院 會計與資訊管理國際學士班",
+            "name": "郭娜",
+            "email": "inagn@gms.ndhu.edu.tw",
+            "phone": "3007"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【國立東華大學族群關係與文化學系-系主任】徵聘公告",
+        "timestamp": "1746211390",
+        "url": "mail_display.php?timestamp=1746211390",
+        "date": "2025/05/03 02:43",
+        "department": "原住民民族學院",
+        "author": {
+            "department": "原住民民族學院",
+            "name": "安梓濱 Pasuya e Yasiungu",
+            "email": "pasuya@gms.ndhu.edu.tw",
+            "phone": "03-8905752"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "涵星二莊、擷雲莊5月2日晚間因馬達故障暫無法持續補水至水塔，請節約用水。",
+        "timestamp": "1746206698",
+        "url": "mail_display.php?timestamp=1746206698",
+        "date": "2025/05/03 01:24",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉景富",
+            "email": "nickak@gms.ndhu.edu.tw",
+            "phone": "8906373"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【▲重要通知】114學年度第1學期「學生就學優待減免學雜費」申請公告",
         "timestamp": "1746187301",
         "url": "mail_display.php?timestamp=1746187301",
@@ -152,61 +208,5 @@
             "phone": "038903771"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【代轉學生會公告】洄潮計畫 Palirroia Fest.′25 正式啟航！",
-        "timestamp": "1746150999",
-        "url": "mail_display.php?timestamp=1746150999",
-        "date": "2025/05/02 09:56",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "姜紫淇",
-            "email": "yaya@gms.ndhu.edu.tw",
-            "phone": "03-8906235"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "東華電子報 | 2025年04月刊 |",
-        "timestamp": "1746148798",
-        "url": "mail_display.php?timestamp=1746148798",
-        "date": "2025/05/02 09:19",
-        "department": "秘書室公關宣傳組",
-        "author": {
-            "department": "秘書室公關宣傳組",
-            "name": "林佩瑤",
-            "email": "peiyao@gms.ndhu.edu.tw",
-            "phone": "6013"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【發社系-民族講座】PisLatuk撥動心弦",
-        "timestamp": "1746143708",
-        "url": "mail_display.php?timestamp=1746143708",
-        "date": "2025/05/02 07:55",
-        "department": "原住民民族學院 民族發展與社會工作學系",
-        "author": {
-            "department": "原住民民族學院 民族發展與社會工作學系",
-            "name": "郭雅婷",
-            "email": "tefi@gms.ndhu.edu.tw",
-            "phone": "5788"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【企管系暨運籌所】113-2 Language Lounge-Group Discussion / Debate(第五場)",
-        "timestamp": "1746143707",
-        "url": "mail_display.php?timestamp=1746143707",
-        "date": "2025/05/02 07:55",
-        "department": "管理學院 企業管理學系",
-        "author": {
-            "department": "管理學院 企業管理學系",
-            "name": "陳雅芳",
-            "email": "mayachen@gms.ndhu.edu.tw",
-            "phone": "3162"
-        },
-        "attachmentCount": 0
     }
 ]

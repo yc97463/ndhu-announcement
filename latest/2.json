@@ -1,5 +1,61 @@
 [
     {
+        "title": "【服務奉獻時數】5/9（五）回收站體驗活動",
+        "timestamp": "1746407191",
+        "url": "mail_display.php?timestamp=1746407191",
+        "date": "2025/05/05 09:06",
+        "department": "環境暨海洋學院",
+        "author": {
+            "department": "環境暨海洋學院",
+            "name": "夏懿心",
+            "email": "heart630@gms.ndhu.edu.tw",
+            "phone": "8903277"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【亭午風起，有詩東華】113-2 英詩小講堂 5/14 第6場 \"Lyrical Lunch at Dong Hwa\" Poetry Reading Session 6",
+        "timestamp": "1746402901",
+        "url": "mail_display.php?timestamp=1746402901",
+        "date": "2025/05/05 07:55",
+        "department": "洄瀾學院 語言中心",
+        "author": {
+            "department": "洄瀾學院 語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "電影欣賞:雷鬼之父：音樂無國界",
+        "timestamp": "1746316501",
+        "url": "mail_display.php?timestamp=1746316501",
+        "date": "2025/05/04 07:55",
+        "department": "圖書資訊處 圖資服務組",
+        "author": {
+            "department": "圖書資訊處 圖資服務組",
+            "name": "廖銘珠",
+            "email": "min-judy@gms.ndhu.edu.tw",
+            "phone": "6855"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "2025 花蓮 HSH 黑客松｜創新創業競賽，熱列招募學員中！",
+        "timestamp": "1746258554",
+        "url": "mail_display.php?timestamp=1746258554",
+        "date": "2025/05/03 15:49",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "吳其璁",
+            "email": "dci93031@gms.ndhu.edu.tw",
+            "phone": "03-8903687"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【真實世界RPG：職業大挑戰】2025用全景視角看更大世界系列",
         "timestamp": "1746258324",
         "url": "mail_display.php?timestamp=1746258324",
@@ -150,62 +206,6 @@
             "name": "蔡怡臻",
             "email": "eng720@gms.ndhu.edu.tw",
             "phone": "6023"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【專題演講】5/9(五)_Top Gun，飛機聯網系統設計與應用",
-        "timestamp": "1746230102",
-        "url": "mail_display.php?timestamp=1746230102",
-        "date": "2025/05/03 07:55",
-        "department": "理工學院 電機工程學系",
-        "author": {
-            "department": "理工學院 電機工程學系",
-            "name": "邱昭儒",
-            "email": "senorita@gms.ndhu.edu.tw",
-            "phone": "5063"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "我們與永續的距離：ESG、企業與我",
-        "timestamp": "1746230101",
-        "url": "mail_display.php?timestamp=1746230101",
-        "date": "2025/05/03 07:55",
-        "department": "管理學院 會計與資訊管理國際學士班",
-        "author": {
-            "department": "管理學院 會計與資訊管理國際學士班",
-            "name": "郭娜",
-            "email": "inagn@gms.ndhu.edu.tw",
-            "phone": "3007"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【國立東華大學族群關係與文化學系-系主任】徵聘公告",
-        "timestamp": "1746211390",
-        "url": "mail_display.php?timestamp=1746211390",
-        "date": "2025/05/03 02:43",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "安梓濱 Pasuya e Yasiungu",
-            "email": "pasuya@gms.ndhu.edu.tw",
-            "phone": "03-8905752"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "涵星二莊、擷雲莊5月2日晚間因馬達故障暫無法持續補水至水塔，請節約用水。",
-        "timestamp": "1746206698",
-        "url": "mail_display.php?timestamp=1746206698",
-        "date": "2025/05/03 01:24",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉景富",
-            "email": "nickak@gms.ndhu.edu.tw",
-            "phone": "8906373"
         },
         "attachmentCount": 0
     }
