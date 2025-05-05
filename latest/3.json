@@ -1,5 +1,33 @@
 [
     {
+        "title": "【113-2師培研習】Edtech x English 翻轉你的英語課！",
+        "timestamp": "1746230107",
+        "url": "mail_display.php?timestamp=1746230107",
+        "date": "2025/05/03 07:55",
+        "department": "師資培育中心 中等學程組",
+        "author": {
+            "department": "師資培育中心 中等學程組",
+            "name": "劉姵君",
+            "email": "amyliou@gms.ndhu.edu.tw",
+            "phone": "6632"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "我們與永續的距離：ESG、企業與我",
+        "timestamp": "1746230106",
+        "url": "mail_display.php?timestamp=1746230106",
+        "date": "2025/05/03 07:55",
+        "department": "管理學院 管理科學與財金國際學士學位學程",
+        "author": {
+            "department": "管理學院 管理科學與財金國際學士學位學程",
+            "name": "郭娜",
+            "email": "inagn@gms.ndhu.edu.tw",
+            "phone": "3007"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": " [招募工作人員]-職涯工作坊 \u003c行銷人生模擬器：我適合哪個角色？\u003e",
         "timestamp": "1746230105",
         "url": "mail_display.php?timestamp=1746230105",
@@ -180,33 +208,5 @@
             "phone": "03-8906112--6116"
         },
         "attachmentCount": 12
-    },
-    {
-        "title": "【轉知】財團法人海華文教基金會第6屆海外十大傑出青年選拔與表揚事",
-        "timestamp": "1746165702",
-        "url": "mail_display.php?timestamp=1746165702",
-        "date": "2025/05/02 14:01",
-        "department": "秘書室公關宣傳組",
-        "author": {
-            "department": "秘書室公關宣傳組",
-            "name": "林佩瑤",
-            "email": "peiyao@gms.ndhu.edu.tw",
-            "phone": "6013"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【活動轉知】國立政治大學辦理2025 NCCU Innofest （113-2學期課程期末海報聯展），",
-        "timestamp": "1746165486",
-        "url": "mail_display.php?timestamp=1746165486",
-        "date": "2025/05/02 13:58",
-        "department": "人工智慧辦公室",
-        "author": {
-            "department": "人工智慧辦公室",
-            "name": "林佩瑤",
-            "email": "peiyao@gms.ndhu.edu.tw",
-            "phone": "6013"
-        },
-        "attachmentCount": 2
     }
 ]
