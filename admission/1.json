@@ -1,5 +1,19 @@
 [
     {
+        "title": "📚 114-1學期【手造獨木舟與河海連結】課程說明會",
+        "timestamp": "1746412992",
+        "url": "mail_display.php?timestamp=1746412992",
+        "date": "2025/05/05 10:43",
+        "department": "社會參與中心",
+        "author": {
+            "department": "社會參與中心",
+            "name": "徐小姐",
+            "email": "hsu-pangju@gms.ndhu.edu.tw",
+            "phone": "03-8905247"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【藝創系】2025花蓮青年夢想家＆產業專題補助計畫說明會(專業1小時認證)",
         "timestamp": "1746060701",
         "url": "mail_display.php?timestamp=1746060701",
@@ -194,19 +208,5 @@
             "phone": "8906607"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "歡迎參加114學年國小教育學程甄選說明會（就在今天喔！）",
-        "timestamp": "1741176241",
-        "url": "mail_display.php?timestamp=1741176241",
-        "date": "2025/03/05 20:04",
-        "department": "師資培育中心",
-        "author": {
-            "department": "師資培育中心",
-            "name": "陳淑貞",
-            "email": "sjchen@gms.ndhu.edu.tw",
-            "phone": "6636"
-        },
-        "attachmentCount": 2
     }
 ]

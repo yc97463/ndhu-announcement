@@ -1,5 +1,19 @@
 [
     {
+        "title": "歡迎參加114學年國小教育學程甄選說明會（就在今天喔！）",
+        "timestamp": "1741176241",
+        "url": "mail_display.php?timestamp=1741176241",
+        "date": "2025/03/05 20:04",
+        "department": "師資培育中心",
+        "author": {
+            "department": "師資培育中心",
+            "name": "陳淑貞",
+            "email": "sjchen@gms.ndhu.edu.tw",
+            "phone": "6636"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【課程推推💫】113-2「專案工具B微課程」開課啦！🪄",
         "timestamp": "1741079831",
         "url": "mail_display.php?timestamp=1741079831",
@@ -194,19 +208,5 @@
             "phone": "3772/3770"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "體育中心新學期的推廣課程開始報名",
-        "timestamp": "1739866707",
-        "url": "mail_display.php?timestamp=1739866707",
-        "date": "2025/02/18 16:18",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "楊",
-            "email": "yyy@gms.ndhu.edu.tw",
-            "phone": "038906612"
-        },
-        "attachmentCount": 1
     }
 ]
