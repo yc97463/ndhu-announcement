@@ -1,5 +1,19 @@
 [
     {
+        "title": "【資安宣導】請定期變更您的密碼",
+        "timestamp": "1746000938",
+        "url": "mail_display.php?timestamp=1746000938",
+        "date": "2025/04/30 16:15",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "趙心榆",
+            "email": "vsychao@gms.ndhu.edu.tw",
+            "phone": "6722"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【資安提醒】本校資通安全政策暨人員資通安全管理守則公告",
         "timestamp": "1745998119",
         "url": "mail_display.php?timestamp=1745998119",
@@ -194,19 +208,5 @@
             "phone": "(03)8906079"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【保管組公告】廢品清運作業",
-        "timestamp": "1745741891",
-        "url": "mail_display.php?timestamp=1745741891",
-        "date": "2025/04/27 16:18",
-        "department": "總務處保管組",
-        "author": {
-            "department": "總務處保管組",
-            "name": "林慧濘",
-            "email": "maya70@gms.ndhu.edu.tw",
-            "phone": "8906344"
-        },
-        "attachmentCount": 0
     }
 ]
