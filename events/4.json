@@ -1,5 +1,19 @@
 [
     {
+        "title": "【Rikec法學衝刺班】 報名進行中！",
+        "timestamp": "1746004235",
+        "url": "mail_display.php?timestamp=1746004235",
+        "date": "2025/04/30 17:10",
+        "department": "法律學系",
+        "author": {
+            "department": "法律學系",
+            "name": "Galaigai Cavalje 高蘇恩",
+            "email": "galaigai@gms.ndhu.edu.tw",
+            "phone": "890-5663"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【健康促進活動】響應2025年世界無菸日，衛保組邀您填問卷拿小禮",
         "timestamp": "1745999817",
         "url": "mail_display.php?timestamp=1745999817",
@@ -194,19 +208,5 @@
             "phone": "6282"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "International Affairs Office – Lecture Series on Retaining International Talent for Employment in Taiwan: How Green Chemistry Expands Green Collar Talent",
-        "timestamp": "1745918470",
-        "url": "mail_display.php?timestamp=1745918470",
-        "date": "2025/04/29 17:21",
-        "department": "國際事務處國際合作組",
-        "author": {
-            "department": "國際事務處國際合作組",
-            "name": "姜美松",
-            "email": "ariel@gms.ndhu.edu.tw",
-            "phone": "03-8905108"
-        },
-        "attachmentCount": 2
     }
 ]

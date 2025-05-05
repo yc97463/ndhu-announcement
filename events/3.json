@@ -1,5 +1,19 @@
 [
     {
+        "title": "【企管系】學程說明會(113學年度)",
+        "timestamp": "1746143706",
+        "url": "mail_display.php?timestamp=1746143706",
+        "date": "2025/05/02 07:55",
+        "department": "管理學院 企業管理學系",
+        "author": {
+            "department": "管理學院 企業管理學系",
+            "name": "陳雅芳",
+            "email": "mayachen@gms.ndhu.edu.tw",
+            "phone": "3162"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "危機處理工作坊–AI諮商輔助在危機應對中的應用",
         "timestamp": "1746143705",
         "url": "mail_display.php?timestamp=1746143705",
@@ -194,19 +208,5 @@
             "phone": "5602"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【Rikec法學衝刺班】 報名進行中！",
-        "timestamp": "1746004235",
-        "url": "mail_display.php?timestamp=1746004235",
-        "date": "2025/04/30 17:10",
-        "department": "法律學系",
-        "author": {
-            "department": "法律學系",
-            "name": "Galaigai Cavalje 高蘇恩",
-            "email": "galaigai@gms.ndhu.edu.tw",
-            "phone": "890-5663"
-        },
-        "attachmentCount": 2
     }
 ]
