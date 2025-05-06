@@ -1,5 +1,19 @@
 [
     {
+        "title": "【代轉學生會公告】洄潮計畫 Palirroia Fest.′25 正式啟航！",
+        "timestamp": "1746150999",
+        "url": "mail_display.php?timestamp=1746150999",
+        "date": "2025/05/02 09:56",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "姜紫淇",
+            "email": "yaya@gms.ndhu.edu.tw",
+            "phone": "03-8906235"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【發社系-民族講座】PisLatuk撥動心弦",
         "timestamp": "1746143708",
         "url": "mail_display.php?timestamp=1746143708",
@@ -194,19 +208,5 @@
             "phone": "3157"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【藝創系】2025花蓮青年夢想家＆產業專題補助計畫說明會(專業1小時認證)",
-        "timestamp": "1746060701",
-        "url": "mail_display.php?timestamp=1746060701",
-        "date": "2025/05/01 08:51",
-        "department": "藝術創意產業學系",
-        "author": {
-            "department": "藝術創意產業學系",
-            "name": "謝明海",
-            "email": "ocean@gms.ndhu.edu.tw",
-            "phone": "890-5889"
-        },
-        "attachmentCount": 2
     }
 ]
