@@ -1,5 +1,19 @@
 [
     {
+        "title": "【公告】有關本校適用勞基法人員114年5月1日(四)勞動節放假事宜",
+        "timestamp": "1746416766",
+        "url": "mail_display.php?timestamp=1746416766",
+        "date": "2025/05/05 11:46",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "劉依虹",
+            "email": "joyce_liu@gms.ndhu.edu.tw",
+            "phone": "6060"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【法律學系】專題演講-「媒」那麼簡單—開「冠」你想不到的律師生活",
         "timestamp": "1746416315",
         "url": "mail_display.php?timestamp=1746416315",
@@ -194,19 +208,5 @@
             "phone": "8906373"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "校長說明0403地震年度修繕工作執行情形",
-        "timestamp": "1746241785",
-        "url": "mail_display.php?timestamp=1746241785",
-        "date": "2025/05/03 11:09",
-        "department": "秘書室公關宣傳組",
-        "author": {
-            "department": "秘書室公關宣傳組",
-            "name": "孫嘉莉",
-            "email": "clsun@gms.ndhu.edu.tw",
-            "phone": "6006"
-        },
-        "attachmentCount": 2
     }
 ]
