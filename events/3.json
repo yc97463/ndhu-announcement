@@ -1,5 +1,19 @@
 [
     {
+        "title": "113-2歷史學系歷史週系列講座(四)：《毋但是思念》東華校園放映 X 映後座談",
+        "timestamp": "1746230109",
+        "url": "mail_display.php?timestamp=1746230109",
+        "date": "2025/05/03 07:55",
+        "department": "人文社會科學學院 歷史學系",
+        "author": {
+            "department": "人文社會科學學院 歷史學系",
+            "name": "吳芷萱",
+            "email": "suju1106@gms.ndhu.edu.tw",
+            "phone": "5323"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【114級中文系畢業動態展】 素履之往，詩酒趁年華",
         "timestamp": "1746230108",
         "url": "mail_display.php?timestamp=1746230108",
@@ -194,19 +208,5 @@
             "phone": "5323"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "阿美編織手作體驗",
-        "timestamp": "1746154946",
-        "url": "mail_display.php?timestamp=1746154946",
-        "date": "2025/05/02 11:02",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "洄瀾共好大學社會責任中心",
-            "email": "techusr@gms.ndhu.edu.tw",
-            "phone": "038903771"
-        },
-        "attachmentCount": 3
     }
 ]
