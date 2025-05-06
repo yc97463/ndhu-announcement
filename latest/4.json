@@ -1,5 +1,33 @@
 [
     {
+        "title": "電影欣賞:雷鬼之父：音樂無國界",
+        "timestamp": "1746316501",
+        "url": "mail_display.php?timestamp=1746316501",
+        "date": "2025/05/04 07:55",
+        "department": "圖書資訊處 圖資服務組",
+        "author": {
+            "department": "圖書資訊處 圖資服務組",
+            "name": "廖銘珠",
+            "email": "min-judy@gms.ndhu.edu.tw",
+            "phone": "6855"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "2025 花蓮 HSH 黑客松｜創新創業競賽，熱列招募學員中！",
+        "timestamp": "1746258554",
+        "url": "mail_display.php?timestamp=1746258554",
+        "date": "2025/05/03 15:49",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "吳其璁",
+            "email": "dci93031@gms.ndhu.edu.tw",
+            "phone": "03-8903687"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【真實世界RPG：職業大挑戰】2025用全景視角看更大世界系列",
         "timestamp": "1746258324",
         "url": "mail_display.php?timestamp=1746258324",
@@ -178,34 +206,6 @@
             "name": "郭娜",
             "email": "inagn@gms.ndhu.edu.tw",
             "phone": "3007"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【國立東華大學族群關係與文化學系-系主任】徵聘公告",
-        "timestamp": "1746211390",
-        "url": "mail_display.php?timestamp=1746211390",
-        "date": "2025/05/03 02:43",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "安梓濱 Pasuya e Yasiungu",
-            "email": "pasuya@gms.ndhu.edu.tw",
-            "phone": "03-8905752"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "涵星二莊、擷雲莊5月2日晚間因馬達故障暫無法持續補水至水塔，請節約用水。",
-        "timestamp": "1746206698",
-        "url": "mail_display.php?timestamp=1746206698",
-        "date": "2025/05/03 01:24",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉景富",
-            "email": "nickak@gms.ndhu.edu.tw",
-            "phone": "8906373"
         },
         "attachmentCount": 0
     }

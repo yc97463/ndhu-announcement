@@ -1,5 +1,33 @@
 [
     {
+        "title": "轉教育部114年「青年海外度假打工宣導會」簡章及電子版宣傳DM",
+        "timestamp": "1746432054",
+        "url": "mail_display.php?timestamp=1746432054",
+        "date": "2025/05/05 16:00",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "王文和",
+            "email": "rlawwh@gms.ndhu.edu.tw",
+            "phone": "分機6221"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【113-2教卓中心】優良TA獎勵金申請 / Application for  TA Excellence Awards",
+        "timestamp": "1746431627",
+        "url": "mail_display.php?timestamp=1746431627",
+        "date": "2025/05/05 15:53",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "游家盛",
+            "email": "hyttepd@gms.ndhu.edu.tw",
+            "phone": "6589"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "公教個人專戶制自主投資線上宣導講習會（第2場）",
         "timestamp": "1746427191",
         "url": "mail_display.php?timestamp=1746427191",
@@ -180,33 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "電影欣賞:雷鬼之父：音樂無國界",
-        "timestamp": "1746316501",
-        "url": "mail_display.php?timestamp=1746316501",
-        "date": "2025/05/04 07:55",
-        "department": "圖書資訊處 圖資服務組",
-        "author": {
-            "department": "圖書資訊處 圖資服務組",
-            "name": "廖銘珠",
-            "email": "min-judy@gms.ndhu.edu.tw",
-            "phone": "6855"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "2025 花蓮 HSH 黑客松｜創新創業競賽，熱列招募學員中！",
-        "timestamp": "1746258554",
-        "url": "mail_display.php?timestamp=1746258554",
-        "date": "2025/05/03 15:49",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "吳其璁",
-            "email": "dci93031@gms.ndhu.edu.tw",
-            "phone": "03-8903687"
-        },
-        "attachmentCount": 4
     }
 ]

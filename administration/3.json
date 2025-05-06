@@ -1,5 +1,19 @@
 [
     {
+        "title": "【Student Dormitory】114th Academic Year Dormitory Application (Waiting List ⅠI)",
+        "timestamp": "1745889014",
+        "url": "mail_display.php?timestamp=1745889014",
+        "date": "2025/04/29 09:10",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳怡秀",
+            "email": "yishoue@gms.ndhu.edu.tw",
+            "phone": "6212"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【學生宿舍】114學年學生宿舍候補二作業相關事項",
         "timestamp": "1745888835",
         "url": "mail_display.php?timestamp=1745888835",
@@ -194,19 +208,5 @@
             "phone": "038905778"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "[最後通知]請向晴莊(A01區)車棚機踏車於本(25)日下午6時前務必遷移",
-        "timestamp": "1745542336",
-        "url": "mail_display.php?timestamp=1745542336",
-        "date": "2025/04/25 08:52",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉景富",
-            "email": "nickak@gms.ndhu.edu.tw",
-            "phone": "8906373"
-        },
-        "attachmentCount": 1
     }
 ]
