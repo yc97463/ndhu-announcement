@@ -1,5 +1,19 @@
 [
     {
+        "title": "⟪ Perubahan Emosional Drastis: Tantangan Adaptasi dan Mengatur Emosi Mahasiswa Asing di Taiwan ⟫",
+        "timestamp": "1744097146",
+        "url": "mail_display.php?timestamp=1744097146",
+        "date": "2025/04/08 15:25",
+        "department": "社會參與中心",
+        "author": {
+            "department": "社會參與中心",
+            "name": "鄒小姐",
+            "email": "tsai_yen@gms.ndhu.edu.tw",
+            "phone": "5243"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "🔔【講座分享】移居到安居—情緒急轉彎：在台外籍生適應問題及情緒調節",
         "timestamp": "1744097056",
         "url": "mail_display.php?timestamp=1744097056",
@@ -194,19 +208,5 @@
             "phone": "6602"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【演講公告】2025.03.14 孟柱億教授「大師開講——針對跨文化交際的文化對比」系列講座",
-        "timestamp": "1741705755",
-        "url": "mail_display.php?timestamp=1741705755",
-        "date": "2025/03/11 23:09",
-        "department": "國際紅學研究中心",
-        "author": {
-            "department": "國際紅學研究中心",
-            "name": "阮氏玉映",
-            "email": "rdrc@gms.ndhu.edu.tw",
-            "phone": "38905403"
-        },
-        "attachmentCount": 1
     }
 ]
