@@ -1,5 +1,19 @@
 [
     {
+        "title": "人社一館 全棟消毒作業公告",
+        "timestamp": "1745541740",
+        "url": "mail_display.php?timestamp=1745541740",
+        "date": "2025/04/25 08:42",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "許智翔",
+            "email": "cocco3746@gms.ndhu.edu.tw",
+            "phone": "038906399"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "數位電話緊急事故通報快速鍵撥打方式",
         "timestamp": "1745481752",
         "url": "mail_display.php?timestamp=1745481752",
@@ -192,20 +206,6 @@
             "name": "劉昱淩",
             "email": "e56187@gms.ndhu.edu.tw",
             "phone": "890-6056"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "【學生兵役訊息】114年應接受常備兵役軍事訓練役男（83年次至93年次)，申請優先入營或延緩入營案公告",
-        "timestamp": "1745202384",
-        "url": "mail_display.php?timestamp=1745202384",
-        "date": "2025/04/21 10:26",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "黃勇程",
-            "email": "victor0903@gms.ndhu.edu.tw",
-            "phone": "6225"
         },
         "attachmentCount": 4
     }
