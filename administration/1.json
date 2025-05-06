@@ -1,5 +1,19 @@
 [
     {
+        "title": "校務發展委員會會議紀錄公告通知",
+        "timestamp": "1746523816",
+        "url": "mail_display.php?timestamp=1746523816",
+        "date": "2025/05/06 17:30",
+        "department": "秘書室議事公文組",
+        "author": {
+            "department": "秘書室議事公文組",
+            "name": "陳婉婉",
+            "email": "secretariat@gms.ndhu.edu.tw",
+            "phone": "6004"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "公文系統訂於114年5月14日(三)16~24時暫停服務公告",
         "timestamp": "1746517164",
         "url": "mail_display.php?timestamp=1746517164",
@@ -194,19 +208,5 @@
             "phone": "6006"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "涵星二莊、擷雲莊5月2日晚間因馬達故障暫無法持續補水至水塔，請節約用水。",
-        "timestamp": "1746206698",
-        "url": "mail_display.php?timestamp=1746206698",
-        "date": "2025/05/03 01:24",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉景富",
-            "email": "nickak@gms.ndhu.edu.tw",
-            "phone": "8906373"
-        },
-        "attachmentCount": 0
     }
 ]

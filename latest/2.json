@@ -1,5 +1,19 @@
 [
     {
+        "title": " 🎓 國立東華大學｜教育大數據微學程 熱烈招生中！",
+        "timestamp": "1746500490",
+        "url": "mail_display.php?timestamp=1746500490",
+        "date": "2025/05/06 11:01",
+        "department": "資訊管理學系",
+        "author": {
+            "department": "資訊管理學系",
+            "name": "張先生",
+            "email": "yunkai@gms.ndhu.edu.tw",
+            "phone": "3176"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【就業/考試】114年「專門職業及技術人員高等考試會計師、不動產估價師、專利師、植物診療師考試」(114年5月22日截止)",
         "timestamp": "1746499976",
         "url": "mail_display.php?timestamp=1746499976",
@@ -194,19 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【藝創系】2025花蓮青年夢想家＆產業專題補助計畫說明會(專業1小時認證)",
-        "timestamp": "1746487997",
-        "url": "mail_display.php?timestamp=1746487997",
-        "date": "2025/05/06 07:33",
-        "department": "藝術創意產業學系",
-        "author": {
-            "department": "藝術創意產業學系",
-            "name": "謝明海",
-            "email": "ocean@gms.ndhu.edu.tw",
-            "phone": "890-5889"
-        },
-        "attachmentCount": 3
     }
 ]
