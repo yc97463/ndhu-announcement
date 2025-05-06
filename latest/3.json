@@ -1,5 +1,19 @@
 [
     {
+        "title": "114年度校區內客貨電梯進行月保養排程通告(五月保養)(配合入學甄試日期修正）",
+        "timestamp": "1746437414",
+        "url": "mail_display.php?timestamp=1746437414",
+        "date": "2025/05/05 17:30",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "「全民原教以〜烈市集」封路管制公告",
         "timestamp": "1746436223",
         "url": "mail_display.php?timestamp=1746436223",
@@ -194,19 +208,5 @@
             "phone": "03-8906313"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "東華夜市第五場來囉～就在5月6日！",
-        "timestamp": "1746407689",
-        "url": "mail_display.php?timestamp=1746407689",
-        "date": "2025/05/05 09:14",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "姜紫淇",
-            "email": "yaya@gms.ndhu.edu.tw",
-            "phone": "03-8906235"
-        },
-        "attachmentCount": 5
     }
 ]
