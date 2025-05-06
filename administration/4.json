@@ -1,5 +1,47 @@
 [
     {
+        "title": "數位電話緊急事故通報快速鍵撥打方式",
+        "timestamp": "1745481752",
+        "url": "mail_display.php?timestamp=1745481752",
+        "date": "2025/04/24 16:02",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "范家榮",
+            "email": "jung@gms.ndhu.edu.tw",
+            "phone": "8906237"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "第25屆東華奇萊文學獎決審入圍名單公告",
+        "timestamp": "1745479749",
+        "url": "mail_display.php?timestamp=1745479749",
+        "date": "2025/04/24 15:29",
+        "department": "人文社會科學學院",
+        "author": {
+            "department": "人文社會科學學院",
+            "name": "姜妃澤",
+            "email": "ftc1029@gms.ndhu.edu.tw",
+            "phone": "03-8905203"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【停水】114年4月26日上午居南邨(含幼稚園)停水公告",
+        "timestamp": "1745407626",
+        "url": "mail_display.php?timestamp=1745407626",
+        "date": "2025/04/23 19:27",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
         "timestamp": "1745394418",
         "url": "mail_display.php?timestamp=1745394418",
@@ -166,47 +208,5 @@
             "phone": "6225"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "湖畔電梯故障維修停用公告",
-        "timestamp": "1744987408",
-        "url": "mail_display.php?timestamp=1744987408",
-        "date": "2025/04/18 22:43",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【Student Dormitory】114th Academic Year Dormitory Application (Waiting List Ⅰ)",
-        "timestamp": "1744958125",
-        "url": "mail_display.php?timestamp=1744958125",
-        "date": "2025/04/18 14:35",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳怡秀",
-            "email": "yishoue@gms.ndhu.edu.tw",
-            "phone": "6212"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【學生宿舍】114學年學生宿舍候補一作業相關事項",
-        "timestamp": "1744958063",
-        "url": "mail_display.php?timestamp=1744958063",
-        "date": "2025/04/18 14:34",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳怡秀",
-            "email": "yishoue@gms.ndhu.edu.tw",
-            "phone": "6212"
-        },
-        "attachmentCount": 2
     }
 ]
