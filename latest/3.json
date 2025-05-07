@@ -1,5 +1,19 @@
 [
     {
+        "title": "公文系統訂於114年5月14日(三)16~24時暫停服務公告",
+        "timestamp": "1746517164",
+        "url": "mail_display.php?timestamp=1746517164",
+        "date": "2025/05/06 15:39",
+        "department": "總務處文書組",
+        "author": {
+            "department": "總務處文書組",
+            "name": "張先生",
+            "email": "eric.chang@gms.ndhu.edu.tw",
+            "phone": "03-8906352"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "Creative Coping: A Stress-Relief Workshop (conducted in English) ",
         "timestamp": "1746516587",
         "url": "mail_display.php?timestamp=1746516587",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【就業/考試】114年度「公務人員特種考試外交領事人員及外交行政人員考試」(114年6月6日截止)",
-        "timestamp": "1746495391",
-        "url": "mail_display.php?timestamp=1746495391",
-        "date": "2025/05/06 09:36",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
     }
 ]

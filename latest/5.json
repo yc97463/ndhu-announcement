@@ -1,5 +1,19 @@
 [
     {
+        "title": "部分電梯停用通告",
+        "timestamp": "1746448306",
+        "url": "mail_display.php?timestamp=1746448306",
+        "date": "2025/05/05 20:31",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才】高雄市政府勞工局「114年度視覺功能障礙電話服務員」公開甄選(114年6月13日截止)",
         "timestamp": "1746440598",
         "url": "mail_display.php?timestamp=1746440598",
@@ -194,19 +208,5 @@
             "phone": "6522"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "📚 114-1學期【手造獨木舟與河海連結】課程說明會",
-        "timestamp": "1746412992",
-        "url": "mail_display.php?timestamp=1746412992",
-        "date": "2025/05/05 10:43",
-        "department": "社會參與中心",
-        "author": {
-            "department": "社會參與中心",
-            "name": "徐小姐",
-            "email": "hsu-pangju@gms.ndhu.edu.tw",
-            "phone": "03-8905247"
-        },
-        "attachmentCount": 2
     }
 ]
