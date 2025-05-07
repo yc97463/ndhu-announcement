@@ -1,5 +1,19 @@
 [
     {
+        "title": "公教個人專戶制自主投資線上宣導講習會（第2場）",
+        "timestamp": "1746427191",
+        "url": "mail_display.php?timestamp=1746427191",
+        "date": "2025/05/05 14:39",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "劉昱淩",
+            "email": "e56187@gms.ndhu.edu.tw",
+            "phone": "890-6056"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【公告】有關本校適用勞基法人員114年5月1日(四)勞動節放假事宜",
         "timestamp": "1746416766",
         "url": "mail_display.php?timestamp=1746416766",
@@ -194,19 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "更正【學生宿舍】本校五年修讀學碩士學位（3+2）之研究所新生申請114學年住宿事宜",
-        "timestamp": "1746001693",
-        "url": "mail_display.php?timestamp=1746001693",
-        "date": "2025/04/30 16:28",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳怡秀",
-            "email": "yishoue@gms.ndhu.edu.tw",
-            "phone": "6212"
-        },
-        "attachmentCount": 2
     }
 ]

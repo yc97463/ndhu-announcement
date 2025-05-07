@@ -1,5 +1,19 @@
 [
     {
+        "title": "【第三次公告】簡捷校內報支程序，取消劃帳清冊等事宜",
+        "timestamp": "1745798955",
+        "url": "mail_display.php?timestamp=1745798955",
+        "date": "2025/04/28 08:09",
+        "department": "主計室",
+        "author": {
+            "department": "主計室",
+            "name": "曾俊達",
+            "email": "kleiber0576@gms.ndhu.edu.tw",
+            "phone": "(03)8906079"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【保管組公告】廢品清運作業",
         "timestamp": "1745741891",
         "url": "mail_display.php?timestamp=1745741891",
@@ -194,19 +208,5 @@
             "phone": "890-6056"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【徵聘公告】國立東華大學資訊工程學系徵聘專任教師一名 (第1次公告)",
-        "timestamp": "1745309569",
-        "url": "mail_display.php?timestamp=1745309569",
-        "date": "2025/04/22 16:12",
-        "department": "資訊工程學系",
-        "author": {
-            "department": "資訊工程學系",
-            "name": "葉助理",
-            "email": "kiki2002@gms.ndhu.edu.tw",
-            "phone": "03-8905012"
-        },
-        "attachmentCount": 0
     }
 ]
