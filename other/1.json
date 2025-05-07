@@ -1,5 +1,19 @@
 [
     {
+        "title": "📢【公告】本校「教職啟程」專頁正式上線",
+        "timestamp": "1746581557",
+        "url": "mail_display.php?timestamp=1746581557",
+        "date": "2025/05/07 09:32",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "李淑淳",
+            "email": "chun@gms.ndhu.edu.tw",
+            "phone": "6522"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【轉知】教育部114年度「青年教育與就業儲蓄帳戶方案-青年就業領航計畫」歡迎提報職缺💖",
         "timestamp": "1746514958",
         "url": "mail_display.php?timestamp=1746514958",
@@ -194,19 +208,5 @@
             "phone": "6589"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "「2025台灣創新技術博覽會－未來科技館」之未來科技獎徵件，自即日起受理(校內截止期限：114年6月30日)",
-        "timestamp": "1746414143",
-        "url": "mail_display.php?timestamp=1746414143",
-        "date": "2025/05/05 11:02",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "李淑淳",
-            "email": "chun@gms.ndhu.edu.tw",
-            "phone": "6522"
-        },
-        "attachmentCount": 1
     }
 ]
