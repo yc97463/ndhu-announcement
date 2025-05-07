@@ -1,5 +1,19 @@
 [
     {
+        "title": "《英文學習萬花筒系列講座》第1場──與AI同行：一起玩出英文寫作力",
+        "timestamp": "1746575701",
+        "url": "mail_display.php?timestamp=1746575701",
+        "date": "2025/05/07 07:55",
+        "department": "洄瀾學院 語言中心",
+        "author": {
+            "department": "洄瀾學院 語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "第27屆「心靈捕手」招募說明會🙌你來~就是對的人🤜🤛",
         "timestamp": "1746551094",
         "url": "mail_display.php?timestamp=1746551094",
@@ -194,19 +208,5 @@
             "phone": "8903150"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【國際事務處】性平講座｜Gender Equality Lecture",
-        "timestamp": "1746508417",
-        "url": "mail_display.php?timestamp=1746508417",
-        "date": "2025/05/06 13:13",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "周昀樺",
-            "email": "kf50923@gms.ndhu.edu.tw",
-            "phone": "(03)8905173"
-        },
-        "attachmentCount": 3
     }
 ]
