@@ -1,19 +1,5 @@
 [
     {
-        "title": "【徵聘公告】國立東華大學資訊工程學系徵聘專任教師一名 (第1次公告)",
-        "timestamp": "1745309569",
-        "url": "mail_display.php?timestamp=1745309569",
-        "date": "2025/04/22 16:12",
-        "department": "資訊工程學系",
-        "author": {
-            "department": "資訊工程學系",
-            "name": "葉助理",
-            "email": "kiki2002@gms.ndhu.edu.tw",
-            "phone": "03-8905012"
-        },
-        "attachmentCount": 0
-    },
-    {
         "title": "請於本(114)年4月25日(星期五)下班前，將113學年度人事甄審暨考績委員會「票選委員」登記(推薦)表送人事室登記。",
         "timestamp": "1745286412",
         "url": "mail_display.php?timestamp=1745286412",
@@ -208,5 +194,19 @@
             "phone": "6004"
         },
         "attachmentCount": 1
+    },
+    {
+        "title": "4月14日有冒名釣魚信件暨教育部社交工程演練提醒",
+        "timestamp": "1744769195",
+        "url": "mail_display.php?timestamp=1744769195",
+        "date": "2025/04/16 10:06",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "葉宏達",
+            "email": "honda@gms.ndhu.edu.tw",
+            "phone": "8906747"
+        },
+        "attachmentCount": 3
     }
 ]
