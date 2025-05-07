@@ -1,5 +1,47 @@
 [
     {
+        "title": "【114級中文系畢業動態展】 素履之往，詩酒趁年華",
+        "timestamp": "1746230108",
+        "url": "mail_display.php?timestamp=1746230108",
+        "date": "2025/05/03 07:55",
+        "department": "人文社會科學學院 中國語文學系",
+        "author": {
+            "department": "人文社會科學學院 中國語文學系",
+            "name": "賴奕如",
+            "email": "411001020@gms.ndhu.edu.tw",
+            "phone": "0928096638"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【113-2師培研習】Edtech x English 翻轉你的英語課！",
+        "timestamp": "1746230107",
+        "url": "mail_display.php?timestamp=1746230107",
+        "date": "2025/05/03 07:55",
+        "department": "師資培育中心 中等學程組",
+        "author": {
+            "department": "師資培育中心 中等學程組",
+            "name": "劉姵君",
+            "email": "amyliou@gms.ndhu.edu.tw",
+            "phone": "6632"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "我們與永續的距離：ESG、企業與我",
+        "timestamp": "1746230106",
+        "url": "mail_display.php?timestamp=1746230106",
+        "date": "2025/05/03 07:55",
+        "department": "管理學院 管理科學與財金國際學士學位學程",
+        "author": {
+            "department": "管理學院 管理科學與財金國際學士學位學程",
+            "name": "郭娜",
+            "email": "inagn@gms.ndhu.edu.tw",
+            "phone": "3007"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": " [招募工作人員]-職涯工作坊 \u003c行銷人生模擬器：我適合哪個角色？\u003e",
         "timestamp": "1746230105",
         "url": "mail_display.php?timestamp=1746230105",
@@ -166,47 +208,5 @@
             "phone": "038903771"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【代轉學生會公告】洄潮計畫 Palirroia Fest.′25 正式啟航！",
-        "timestamp": "1746150999",
-        "url": "mail_display.php?timestamp=1746150999",
-        "date": "2025/05/02 09:56",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "姜紫淇",
-            "email": "yaya@gms.ndhu.edu.tw",
-            "phone": "03-8906235"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【發社系-民族講座】PisLatuk撥動心弦",
-        "timestamp": "1746143708",
-        "url": "mail_display.php?timestamp=1746143708",
-        "date": "2025/05/02 07:55",
-        "department": "原住民民族學院 民族發展與社會工作學系",
-        "author": {
-            "department": "原住民民族學院 民族發展與社會工作學系",
-            "name": "郭雅婷",
-            "email": "tefi@gms.ndhu.edu.tw",
-            "phone": "5788"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【企管系暨運籌所】113-2 Language Lounge-Group Discussion / Debate(第五場)",
-        "timestamp": "1746143707",
-        "url": "mail_display.php?timestamp=1746143707",
-        "date": "2025/05/02 07:55",
-        "department": "管理學院 企業管理學系",
-        "author": {
-            "department": "管理學院 企業管理學系",
-            "name": "陳雅芳",
-            "email": "mayachen@gms.ndhu.edu.tw",
-            "phone": "3162"
-        },
-        "attachmentCount": 0
     }
 ]
