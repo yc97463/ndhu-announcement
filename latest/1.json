@@ -1,5 +1,19 @@
 [
     {
+        "title": "【人事室公告】114年暑休事宜",
+        "timestamp": "1746687215",
+        "url": "mail_display.php?timestamp=1746687215",
+        "date": "2025/05/08 14:53",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "劉依虹",
+            "email": "joyce_liu@gms.ndhu.edu.tw",
+            "phone": "6060"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "縱谷講不停",
         "timestamp": "1746674211",
         "url": "mail_display.php?timestamp=1746674211",
@@ -192,20 +206,6 @@
             "name": "楊曉青",
             "email": "cindy4434@gms.ndhu.edu.tw",
             "phone": "6254"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "llyuw hma’uy na bnkis / 長者的舌尖  RIKEC立革司學生會113學年度部落有教室成果展暨第五屆正副會長交接大典",
-        "timestamp": "1746662104",
-        "url": "mail_display.php?timestamp=1746662104",
-        "date": "2025/05/08 07:55",
-        "department": "學務處 原住民族學生資源中心",
-        "author": {
-            "department": "學務處 原住民族學生資源中心",
-            "name": "潘麗娟",
-            "email": "panay13@gms.ndhu.edu.tw",
-            "phone": "朱璽恩/0921-689326"
         },
         "attachmentCount": 0
     }

@@ -1,5 +1,19 @@
 [
     {
+        "title": "校務發展委員會會議紀錄公告通知",
+        "timestamp": "1746523816",
+        "url": "mail_display.php?timestamp=1746523816",
+        "date": "2025/05/06 17:30",
+        "department": "秘書室議事公文組",
+        "author": {
+            "department": "秘書室議事公文組",
+            "name": "陳婉婉",
+            "email": "secretariat@gms.ndhu.edu.tw",
+            "phone": "6004"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "原民院C棟圓形(羅馬)廣場管制公告",
         "timestamp": "1746519394",
         "url": "mail_display.php?timestamp=1746519394",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": " 🎓 國立東華大學｜教育大數據微學程 熱烈招生中！",
-        "timestamp": "1746500490",
-        "url": "mail_display.php?timestamp=1746500490",
-        "date": "2025/05/06 11:01",
-        "department": "資訊管理學系",
-        "author": {
-            "department": "資訊管理學系",
-            "name": "張先生",
-            "email": "yunkai@gms.ndhu.edu.tw",
-            "phone": "3176"
-        },
-        "attachmentCount": 3
     }
 ]
