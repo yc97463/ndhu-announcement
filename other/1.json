@@ -1,5 +1,19 @@
 [
     {
+        "title": "📣【競賽資訊公告】2025戰國策全國創新創業競賽 現正熱烈報名中！",
+        "timestamp": "1746670696",
+        "url": "mail_display.php?timestamp=1746670696",
+        "date": "2025/05/08 10:18",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "詹雯雯",
+            "email": "wzhan0103@gms.ndhu.edu.tw",
+            "phone": "03-8903984"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【轉知】「第22屆國家新創獎」",
         "timestamp": "1746667042",
         "url": "mail_display.php?timestamp=1746667042",
@@ -192,20 +206,6 @@
             "name": "黃文雯",
             "email": "wenwen@gms.ndhu.edu.tw",
             "phone": "6283"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【藝創系】2025花蓮青年夢想家＆產業專題補助計畫說明會(專業1小時認證)",
-        "timestamp": "1746487997",
-        "url": "mail_display.php?timestamp=1746487997",
-        "date": "2025/05/06 07:33",
-        "department": "藝術創意產業學系",
-        "author": {
-            "department": "藝術創意產業學系",
-            "name": "謝明海",
-            "email": "ocean@gms.ndhu.edu.tw",
-            "phone": "890-5889"
         },
         "attachmentCount": 3
     }
