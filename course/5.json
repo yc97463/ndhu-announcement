@@ -1,5 +1,19 @@
 [
     {
+        "title": "[課程宣傳]113-2 實踐取向自主學習課程：學齡前與低年級學童早期識字（請出席第一堂課以確認選課）",
+        "timestamp": "1739862105",
+        "url": "mail_display.php?timestamp=1739862105",
+        "date": "2025/02/18 15:01",
+        "department": "偏鄉閱讀與行動中心",
+        "author": {
+            "department": "偏鄉閱讀與行動中心",
+            "name": "盧助理",
+            "email": "lesa@gms.ndhu.edu.tw",
+            "phone": "03-890-3813"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【開課通知】113-2 TAICA  人工智慧倫理  簡介",
         "timestamp": "1739848074",
         "url": "mail_display.php?timestamp=1739848074",
@@ -194,19 +208,5 @@
             "phone": "3772/3770"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "歡迎選修「股票投資分析與程式設計」(周五早上)",
-        "timestamp": "1738902008",
-        "url": "mail_display.php?timestamp=1738902008",
-        "date": "2025/02/07 12:20",
-        "department": "資訊工程學系",
-        "author": {
-            "department": "資訊工程學系",
-            "name": "葉助理",
-            "email": "kiki2002@gms.ndhu.edu.tw",
-            "phone": "5012"
-        },
-        "attachmentCount": 0
     }
 ]
