@@ -1,5 +1,33 @@
 [
     {
+        "title": "114-1「微課程\u0026BRICK學程」說明會🧾💡｜全新規劃帶你學分、經驗一網打盡〰️",
+        "timestamp": "1746748507",
+        "url": "mail_display.php?timestamp=1746748507",
+        "date": "2025/05/09 07:55",
+        "department": "社會參與中心 ",
+        "author": {
+            "department": "社會參與中心",
+            "name": "黃于軒",
+            "email": "yuxuan22@gms.ndhu.edu.tw",
+            "phone": "5246"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "國小綜合活動領域雙語教學經驗分享",
+        "timestamp": "1746748506",
+        "url": "mail_display.php?timestamp=1746748506",
+        "date": "2025/05/09 07:55",
+        "department": "花師教育學院 教育行政與管理學系",
+        "author": {
+            "department": "花師教育學院 教育行政與管理學系",
+            "name": "黃韻竹",
+            "email": "xianyu865@gms.ndhu.edu.tw",
+            "phone": "3912"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "乘風啟航：書寫我的世界地圖",
         "timestamp": "1746748505",
         "url": "mail_display.php?timestamp=1746748505",
@@ -180,33 +208,5 @@
             "phone": "890-6056"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "國立東華大學管理學院 財務金融學系系主任徵聘公告（第二次）",
-        "timestamp": "1746671337",
-        "url": "mail_display.php?timestamp=1746671337",
-        "date": "2025/05/08 10:28",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "林香君",
-            "email": "smgt@gms.ndhu.edu.tw",
-            "phone": "3002"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "📣【競賽資訊公告】2025戰國策全國創新創業競賽 現正熱烈報名中！",
-        "timestamp": "1746670696",
-        "url": "mail_display.php?timestamp=1746670696",
-        "date": "2025/05/08 10:18",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "詹雯雯",
-            "email": "wzhan0103@gms.ndhu.edu.tw",
-            "phone": "03-8903984"
-        },
-        "attachmentCount": 4
     }
 ]
