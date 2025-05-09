@@ -1,5 +1,19 @@
 [
     {
+        "title": "【Student Dormitory】Dormitory Application for Future NDHU Graduate Students(114th Academic Year)",
+        "timestamp": "1745888019",
+        "url": "mail_display.php?timestamp=1745888019",
+        "date": "2025/04/29 08:53",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳怡秀",
+            "email": "yishoue@gms.ndhu.edu.tw",
+            "phone": "6212"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【學生宿舍】留校就讀本校研究所新生或五年連續修讀學、碩士學位（3+2）同學申請114學年住宿事宜",
         "timestamp": "1745887940",
         "url": "mail_display.php?timestamp=1745887940",
@@ -192,20 +206,6 @@
             "name": "許智翔",
             "email": "cocco3746@gms.ndhu.edu.tw",
             "phone": "038906399"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "數位電話緊急事故通報快速鍵撥打方式",
-        "timestamp": "1745481752",
-        "url": "mail_display.php?timestamp=1745481752",
-        "date": "2025/04/24 16:02",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "范家榮",
-            "email": "jung@gms.ndhu.edu.tw",
-            "phone": "8906237"
         },
         "attachmentCount": 0
     }

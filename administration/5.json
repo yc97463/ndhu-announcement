@@ -1,5 +1,19 @@
 [
     {
+        "title": "數位電話緊急事故通報快速鍵撥打方式",
+        "timestamp": "1745481752",
+        "url": "mail_display.php?timestamp=1745481752",
+        "date": "2025/04/24 16:02",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "范家榮",
+            "email": "jung@gms.ndhu.edu.tw",
+            "phone": "8906237"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "第25屆東華奇萊文學獎決審入圍名單公告",
         "timestamp": "1745479749",
         "url": "mail_display.php?timestamp=1745479749",
@@ -194,19 +208,5 @@
             "phone": "6225"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "湖畔電梯故障維修停用公告",
-        "timestamp": "1744987408",
-        "url": "mail_display.php?timestamp=1744987408",
-        "date": "2025/04/18 22:43",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
     }
 ]
