@@ -1,5 +1,19 @@
 [
     {
+        "title": "雙語教學與AI輔助應用",
+        "timestamp": "1746748508",
+        "url": "mail_display.php?timestamp=1746748508",
+        "date": "2025/05/09 07:55",
+        "department": "花師教育學院 教育行政與管理學系",
+        "author": {
+            "department": "花師教育學院 教育行政與管理學系",
+            "name": "黃韻竹",
+            "email": "xianyu865@gms.ndhu.edu.tw",
+            "phone": "3912"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "114-1「微課程\u0026BRICK學程」說明會🧾💡｜全新規劃帶你學分、經驗一網打盡〰️",
         "timestamp": "1746748507",
         "url": "mail_display.php?timestamp=1746748507",
@@ -194,19 +208,5 @@
             "phone": "6023"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "114年5月14日「公教個人專戶制自主投資線上宣導講習會（第2場）」課程連結更新",
-        "timestamp": "1746672781",
-        "url": "mail_display.php?timestamp=1746672781",
-        "date": "2025/05/08 10:53",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "劉昱淩",
-            "email": "e56187@gms.ndhu.edu.tw",
-            "phone": "890-6056"
-        },
-        "attachmentCount": 2
     }
 ]

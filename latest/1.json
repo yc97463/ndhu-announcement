@@ -1,5 +1,19 @@
 [
     {
+        "title": "114-1「微課程\u0026BRICK學程」說明會🧾💡｜全新規劃帶你學分、經驗一網打盡〰️",
+        "timestamp": "1746782302",
+        "url": "mail_display.php?timestamp=1746782302",
+        "date": "2025/05/09 17:18",
+        "department": "社會參與中心",
+        "author": {
+            "department": "社會參與中心",
+            "name": "黃小姐",
+            "email": "yuxuan22@gms.ndhu.edu.tw",
+            "phone": "5246"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【轉知】國立空中大學辦理114年度非正規教育課程認證宣導暨遠距教學研習營",
         "timestamp": "1746779981",
         "url": "mail_display.php?timestamp=1746779981",
@@ -194,19 +208,5 @@
             "phone": "分機6221"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "雙語教學與AI輔助應用",
-        "timestamp": "1746748508",
-        "url": "mail_display.php?timestamp=1746748508",
-        "date": "2025/05/09 07:55",
-        "department": "花師教育學院 教育行政與管理學系",
-        "author": {
-            "department": "花師教育學院 教育行政與管理學系",
-            "name": "黃韻竹",
-            "email": "xianyu865@gms.ndhu.edu.tw",
-            "phone": "3912"
-        },
-        "attachmentCount": 0
     }
 ]
