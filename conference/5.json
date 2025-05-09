@@ -1,5 +1,19 @@
 [
     {
+        "title": "113-2歷史學系歷史週系列講座(一)：島嶼文化超展開：文總從扎根台灣到走向國際",
+        "timestamp": "1741141772",
+        "url": "mail_display.php?timestamp=1741141772",
+        "date": "2025/03/05 10:29",
+        "department": "歷史學系",
+        "author": {
+            "department": "歷史學系",
+            "name": "吳助理",
+            "email": "suju1106@gms.ndhu.edu.tw",
+            "phone": "5323"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【轉知】國立臺灣師範大學辦理「113-114非正規教育師資交流暨課程審查宣導工作坊」",
         "timestamp": "1741138338",
         "url": "mail_display.php?timestamp=1741138338",
@@ -194,19 +208,5 @@
             "phone": "5243"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "AI科技應用課程【認識X使用X操作】用創意行動讓夢想實踐【年度最後一堂】",
-        "timestamp": "1735179482",
-        "url": "mail_display.php?timestamp=1735179482",
-        "date": "2024/12/26 10:18",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "吳其璁",
-            "email": "dci93031@gms.ndhu.edu.tw",
-            "phone": "03-8903687"
-        },
-        "attachmentCount": 5
     }
 ]
