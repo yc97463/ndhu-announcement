@@ -1,5 +1,19 @@
 [
     {
+        "title": "【113-2推廣教育招生】「人物肖像似顏繪創作坊」",
+        "timestamp": "1742862315",
+        "url": "mail_display.php?timestamp=1742862315",
+        "date": "2025/03/25 08:25",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "8906607"
+        },
+        "attachmentCount": 6
+    },
+    {
         "title": "【公告】國立東華大學113學年度第二學期師資培育公費生（乙案）甄選簡章",
         "timestamp": "1741943210",
         "url": "mail_display.php?timestamp=1741943210",
@@ -194,19 +208,5 @@
             "phone": "5247"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【課程公告】114年第一梯次《環境教育人員認證課程100小時訓練及評量班暨30小時學歷核心科目研習班》",
-        "timestamp": "1740039933",
-        "url": "mail_display.php?timestamp=1740039933",
-        "date": "2025/02/20 16:25",
-        "department": "永續發展中心",
-        "author": {
-            "department": "永續發展中心",
-            "name": "李敏賢",
-            "email": "sd@gms.ndhu.edu.tw",
-            "phone": "5919"
-        },
-        "attachmentCount": 3
     }
 ]
