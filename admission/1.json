@@ -1,5 +1,19 @@
 [
     {
+        "title": "⭐教育大數據微學程招生說明會⭐歡迎您的參與！",
+        "timestamp": "1747014328",
+        "url": "mail_display.php?timestamp=1747014328",
+        "date": "2025/05/12 09:45",
+        "department": "資訊管理學系",
+        "author": {
+            "department": "資訊管理學系",
+            "name": "張先生",
+            "email": "yunkai@gms.ndhu.edu.tw",
+            "phone": "3176"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "114-1「微課程\u0026BRICK學程」說明會🧾💡｜全新規劃帶你學分、經驗一網打盡〰️",
         "timestamp": "1746974908",
         "url": "mail_display.php?timestamp=1746974908",
@@ -194,19 +208,5 @@
             "phone": "5246"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "114學年度國立東華大學附設花蓮縣私立實驗幼兒園(準公幼)招生訊息(第一次公告)",
-        "timestamp": "1743488501",
-        "url": "mail_display.php?timestamp=1743488501",
-        "date": "2025/04/01 14:21",
-        "department": "附設實驗幼兒園",
-        "author": {
-            "department": "附設實驗幼兒園",
-            "name": "魏家薰",
-            "email": "uniquejoannewei@gms.ndhu.edu.tw",
-            "phone": "6652"
-        },
-        "attachmentCount": 6
     }
 ]
