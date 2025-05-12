@@ -1,5 +1,19 @@
 [
     {
+        "title": "【代轉學生選舉委員會公告】公告第15屆學生自治會選舉選舉公報 15th Student Association Election Bulletin",
+        "timestamp": "1747039779",
+        "url": "mail_display.php?timestamp=1747039779",
+        "date": "2025/05/12 16:49",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "姜紫淇",
+            "email": "yaya@gms.ndhu.edu.tw",
+            "phone": "03-8906235"
+        },
+        "attachmentCount": 10
+    },
+    {
         "title": "📣 【熱門報名中!! 05/21履歷撰寫及面試技巧】 📣",
         "timestamp": "1747032008",
         "url": "mail_display.php?timestamp=1747032008",
@@ -194,19 +208,5 @@
             "phone": "5246"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "《十三班新航之舟-領航員招募再啟》報名至5/12(一)截止",
-        "timestamp": "1746949444",
-        "url": "mail_display.php?timestamp=1746949444",
-        "date": "2025/05/11 15:44",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "余惠真",
-            "email": "nacy4631@gms.ndhu.edu.tw",
-            "phone": "6232"
-        },
-        "attachmentCount": 3
     }
 ]
