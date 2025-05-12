@@ -1,5 +1,33 @@
 [
     {
+        "title": "📢⪦ 【欸 ㄩㄇ？】2025東華春藝季．泡泡色地帶校園演出",
+        "timestamp": "1747021617",
+        "url": "mail_display.php?timestamp=1747021617",
+        "date": "2025/05/12 11:46",
+        "department": "藝術中心",
+        "author": {
+            "department": "藝術中心",
+            "name": "周葦綸",
+            "email": "arts@gms.ndhu.edu.tw",
+            "phone": "6606"
+        },
+        "attachmentCount": 9
+    },
+    {
+        "title": "113-2教育議題講座-人權融入教學-我們不一樣，淺談兒童權利公約",
+        "timestamp": "1747020818",
+        "url": "mail_display.php?timestamp=1747020818",
+        "date": "2025/05/12 11:33",
+        "department": "師資培育中心",
+        "author": {
+            "department": "師資培育中心",
+            "name": "劉姵君",
+            "email": "amyliou@gms.ndhu.edu.tw",
+            "phone": "6632"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "113-2教育議題講座：品格力與學習力-談品格教育議題教學與學校課程",
         "timestamp": "1747020755",
         "url": "mail_display.php?timestamp=1747020755",
@@ -180,33 +208,5 @@
             "phone": "5246"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "就在今天~就在今天~  📚 114-1學期【手造獨木舟與河海連結】課程說明會",
-        "timestamp": "1746958706",
-        "url": "mail_display.php?timestamp=1746958706",
-        "date": "2025/05/11 18:18",
-        "department": "社會參與中心",
-        "author": {
-            "department": "社會參與中心",
-            "name": "徐小姐",
-            "email": "hsu-pangju@gms.ndhu.edu.tw",
-            "phone": "03-8905247"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "《十三班新航之舟-領航員招募再啟》報名至5/12(一)截止",
-        "timestamp": "1746949444",
-        "url": "mail_display.php?timestamp=1746949444",
-        "date": "2025/05/11 15:44",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "余惠真",
-            "email": "nacy4631@gms.ndhu.edu.tw",
-            "phone": "6232"
-        },
-        "attachmentCount": 3
     }
 ]
