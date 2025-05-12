@@ -1,5 +1,61 @@
 [
     {
+        "title": "【公告】有關本校適用勞基法人員114年5月1日(四)勞動節放假事宜",
+        "timestamp": "1746416766",
+        "url": "mail_display.php?timestamp=1746416766",
+        "date": "2025/05/05 11:46",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "劉依虹",
+            "email": "joyce_liu@gms.ndhu.edu.tw",
+            "phone": "6060"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "涵星二莊、擷雲莊揚水馬達控制故障已修復，兩莊水塔目前已恢復補水。",
+        "timestamp": "1746245022",
+        "url": "mail_display.php?timestamp=1746245022",
+        "date": "2025/05/03 12:03",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉景富",
+            "email": "nickak@gms.ndhu.edu.tw",
+            "phone": "8906373"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "校長說明0403地震年度修繕工作執行情形",
+        "timestamp": "1746241785",
+        "url": "mail_display.php?timestamp=1746241785",
+        "date": "2025/05/03 11:09",
+        "department": "秘書室公關宣傳組",
+        "author": {
+            "department": "秘書室公關宣傳組",
+            "name": "孫嘉莉",
+            "email": "clsun@gms.ndhu.edu.tw",
+            "phone": "6006"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "涵星二莊、擷雲莊5月2日晚間因馬達故障暫無法持續補水至水塔，請節約用水。",
+        "timestamp": "1746206698",
+        "url": "mail_display.php?timestamp=1746206698",
+        "date": "2025/05/03 01:24",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉景富",
+            "email": "nickak@gms.ndhu.edu.tw",
+            "phone": "8906373"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【▲重要通知】114學年度第1學期「學生就學優待減免學雜費」申請公告",
         "timestamp": "1746187301",
         "url": "mail_display.php?timestamp=1746187301",
@@ -152,61 +208,5 @@
             "phone": "6212"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【資安宣導】請定期變更您的密碼",
-        "timestamp": "1746000938",
-        "url": "mail_display.php?timestamp=1746000938",
-        "date": "2025/04/30 16:15",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "趙心榆",
-            "email": "vsychao@gms.ndhu.edu.tw",
-            "phone": "6722"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【資安提醒】本校資通安全政策暨人員資通安全管理守則公告",
-        "timestamp": "1745998119",
-        "url": "mail_display.php?timestamp=1745998119",
-        "date": "2025/04/30 15:28",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "蕭澤宇",
-            "email": "zyhsiao@gms.ndhu.edu.tw",
-            "phone": "6727"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "(投票通知)114年5月1日(星期四)上午9時至下午2時，補選113學年度人事甄審暨考績委員會「票選委員」。",
-        "timestamp": "1745984449",
-        "url": "mail_display.php?timestamp=1745984449",
-        "date": "2025/04/30 11:40",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "林淑惠",
-            "email": "linsh@gms.ndhu.edu.tw",
-            "phone": "038906059"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "114年5月份全校綠地除草維護時間及施作區域公告",
-        "timestamp": "1745972292",
-        "url": "mail_display.php?timestamp=1745972292",
-        "date": "2025/04/30 08:18",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "賴宜萱",
-            "email": "lai0210@gms.ndhu.edu.tw",
-            "phone": "6393"
-        },
-        "attachmentCount": 1
     }
 ]

@@ -1,5 +1,61 @@
 [
     {
+        "title": "【教務處公告】提醒任課教師於期末選課前(114/5/26)維護是否公開成績分佈圖功能",
+        "timestamp": "1747019625",
+        "url": "mail_display.php?timestamp=1747019625",
+        "date": "2025/05/12 11:13",
+        "department": "教務處註冊組",
+        "author": {
+            "department": "教務處註冊組",
+            "name": "莊珆芸專員",
+            "email": "registration@gms.ndhu.edu.tw",
+            "phone": "03-8906113--6116"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【課務組】期末「教學意見調查表」系統將自5月18日(日)起開放，完成填答的同學將有機會獲得兩百元超商禮券!  NDHU Teaching Feedback System will open on May 18. Students who filled out the feedback will enter a lucky draw for the chance of winning a NTD$200 gift certificate!",
+        "timestamp": "1747019051",
+        "url": "mail_display.php?timestamp=1747019051",
+        "date": "2025/05/12 11:04",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "辦理113-2學年【學生獎懲】作業通知(Notice of 113-2 Student Honor and Disciplinary)",
+        "timestamp": "1747018736",
+        "url": "mail_display.php?timestamp=1747018736",
+        "date": "2025/05/12 10:58",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "6225"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【人事室公告】113學年度第2學期環境暨海洋學院院長候選人治院理念說明會",
+        "timestamp": "1747018273",
+        "url": "mail_display.php?timestamp=1747018273",
+        "date": "2025/05/12 10:51",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "楊惠雯",
+            "email": "hwyang@gms.ndhu.edu.tw",
+            "phone": "6061"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "《十三班新航之舟-領航員招募再啟》報名至5/12(一)截止",
         "timestamp": "1746949444",
         "url": "mail_display.php?timestamp=1746949444",
@@ -152,61 +208,5 @@
             "phone": "03-8905754"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "請老師參考經濟部智慧財產局提供「教師授課著作權錦囊」之宣導資料",
-        "timestamp": "1746590333",
-        "url": "mail_display.php?timestamp=1746590333",
-        "date": "2025/05/07 11:58",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "陳惠汝",
-            "email": "richel@gms.ndhu.edu.tw",
-            "phone": "6725"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【圖書館公告】【114.05.10-11 (六、日)】休館二日，因配合本校學生會辦理「洄潮計畫音樂祭」大型活動！Library will be Closed on MAY 10-11, 2025.",
-        "timestamp": "1746581731",
-        "url": "mail_display.php?timestamp=1746581731",
-        "date": "2025/05/07 09:35",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "詹依萍",
-            "email": "ipchan@gms.ndhu.edu.tw",
-            "phone": "6813"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "原民院C棟圓形(羅馬)廣場管制公告",
-        "timestamp": "1746580147",
-        "url": "mail_display.php?timestamp=1746580147",
-        "date": "2025/05/07 09:09",
-        "department": "原住民族樂舞與藝術學士學位學程",
-        "author": {
-            "department": "原住民族樂舞與藝術學士學位學程",
-            "name": "王小姐",
-            "email": "ypwang@gms.ndhu.edu.tw",
-            "phone": "03-8905754"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "校務發展委員會會議紀錄公告通知",
-        "timestamp": "1746523816",
-        "url": "mail_display.php?timestamp=1746523816",
-        "date": "2025/05/06 17:30",
-        "department": "秘書室議事公文組",
-        "author": {
-            "department": "秘書室議事公文組",
-            "name": "陳婉婉",
-            "email": "secretariat@gms.ndhu.edu.tw",
-            "phone": "6004"
-        },
-        "attachmentCount": 1
     }
 ]

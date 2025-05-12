@@ -1,5 +1,61 @@
 [
     {
+        "title": "請老師參考經濟部智慧財產局提供「教師授課著作權錦囊」之宣導資料",
+        "timestamp": "1746590333",
+        "url": "mail_display.php?timestamp=1746590333",
+        "date": "2025/05/07 11:58",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "陳惠汝",
+            "email": "richel@gms.ndhu.edu.tw",
+            "phone": "6725"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【圖書館公告】【114.05.10-11 (六、日)】休館二日，因配合本校學生會辦理「洄潮計畫音樂祭」大型活動！Library will be Closed on MAY 10-11, 2025.",
+        "timestamp": "1746581731",
+        "url": "mail_display.php?timestamp=1746581731",
+        "date": "2025/05/07 09:35",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "詹依萍",
+            "email": "ipchan@gms.ndhu.edu.tw",
+            "phone": "6813"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "原民院C棟圓形(羅馬)廣場管制公告",
+        "timestamp": "1746580147",
+        "url": "mail_display.php?timestamp=1746580147",
+        "date": "2025/05/07 09:09",
+        "department": "原住民族樂舞與藝術學士學位學程",
+        "author": {
+            "department": "原住民族樂舞與藝術學士學位學程",
+            "name": "王小姐",
+            "email": "ypwang@gms.ndhu.edu.tw",
+            "phone": "03-8905754"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "校務發展委員會會議紀錄公告通知",
+        "timestamp": "1746523816",
+        "url": "mail_display.php?timestamp=1746523816",
+        "date": "2025/05/06 17:30",
+        "department": "秘書室議事公文組",
+        "author": {
+            "department": "秘書室議事公文組",
+            "name": "陳婉婉",
+            "email": "secretariat@gms.ndhu.edu.tw",
+            "phone": "6004"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "公文系統訂於114年5月14日(三)16~24時暫停服務公告",
         "timestamp": "1746517164",
         "url": "mail_display.php?timestamp=1746517164",
@@ -152,61 +208,5 @@
             "phone": "890-6056"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【公告】有關本校適用勞基法人員114年5月1日(四)勞動節放假事宜",
-        "timestamp": "1746416766",
-        "url": "mail_display.php?timestamp=1746416766",
-        "date": "2025/05/05 11:46",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "劉依虹",
-            "email": "joyce_liu@gms.ndhu.edu.tw",
-            "phone": "6060"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "涵星二莊、擷雲莊揚水馬達控制故障已修復，兩莊水塔目前已恢復補水。",
-        "timestamp": "1746245022",
-        "url": "mail_display.php?timestamp=1746245022",
-        "date": "2025/05/03 12:03",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉景富",
-            "email": "nickak@gms.ndhu.edu.tw",
-            "phone": "8906373"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "校長說明0403地震年度修繕工作執行情形",
-        "timestamp": "1746241785",
-        "url": "mail_display.php?timestamp=1746241785",
-        "date": "2025/05/03 11:09",
-        "department": "秘書室公關宣傳組",
-        "author": {
-            "department": "秘書室公關宣傳組",
-            "name": "孫嘉莉",
-            "email": "clsun@gms.ndhu.edu.tw",
-            "phone": "6006"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "涵星二莊、擷雲莊5月2日晚間因馬達故障暫無法持續補水至水塔，請節約用水。",
-        "timestamp": "1746206698",
-        "url": "mail_display.php?timestamp=1746206698",
-        "date": "2025/05/03 01:24",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉景富",
-            "email": "nickak@gms.ndhu.edu.tw",
-            "phone": "8906373"
-        },
-        "attachmentCount": 0
     }
 ]
