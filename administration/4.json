@@ -1,5 +1,19 @@
 [
     {
+        "title": "【閉館通知】5/10-11 (週六、日)兩天，圖書館閉館",
+        "timestamp": "1746066307",
+        "url": "mail_display.php?timestamp=1746066307",
+        "date": "2025/05/01 10:25",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "何銘俊",
+            "email": "robert@gms.ndhu.edu.tw",
+            "phone": "6841"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【公告】教育部修正「補(捐)助及委辦經費核撥結報作業要點」第4點附件2，自115年1月1日起生效",
         "timestamp": "1746066180",
         "url": "mail_display.php?timestamp=1746066180",
@@ -192,20 +206,6 @@
             "name": "陳怡秀",
             "email": "yishoue@gms.ndhu.edu.tw",
             "phone": "6212"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "【校園傳染病衛教宣導】肺之防護及居家照護",
-        "timestamp": "1745822572",
-        "url": "mail_display.php?timestamp=1745822572",
-        "date": "2025/04/28 14:42",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
         },
         "attachmentCount": 4
     }

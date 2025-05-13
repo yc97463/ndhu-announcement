@@ -1,5 +1,19 @@
 [
     {
+        "title": "涵星二莊1號電梯(前)故障停用。",
+        "timestamp": "1747130191",
+        "url": "mail_display.php?timestamp=1747130191",
+        "date": "2025/05/13 17:56",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【資安公告】資安時數提醒",
         "timestamp": "1747125626",
         "url": "mail_display.php?timestamp=1747125626",
@@ -194,19 +208,5 @@
             "phone": "038906228"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【轉知】114年度大專校院ODF-CNS15251競賽",
-        "timestamp": "1746753806",
-        "url": "mail_display.php?timestamp=1746753806",
-        "date": "2025/05/09 09:23",
-        "department": "圖書資訊處綜合業務組",
-        "author": {
-            "department": "圖書資訊處綜合業務組",
-            "name": "陳偉",
-            "email": "ichirowei@gms.ndhu.edu.tw",
-            "phone": "6743"
-        },
-        "attachmentCount": 1
     }
 ]
