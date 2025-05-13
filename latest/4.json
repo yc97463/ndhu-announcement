@@ -1,5 +1,61 @@
 [
     {
+        "title": "【課務組】期末「教學意見調查表」系統將自5月18日(日)起開放，完成填答的同學將有機會獲得兩百元超商禮券!  NDHU Teaching Feedback System will open on May 18. Students who filled out the feedback will enter a lucky draw for the chance of winning a NTD$200 gift certificate!",
+        "timestamp": "1747019051",
+        "url": "mail_display.php?timestamp=1747019051",
+        "date": "2025/05/12 11:04",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【國際事務處】性平講座｜Gender Equality Lecture",
+        "timestamp": "1747018823",
+        "url": "mail_display.php?timestamp=1747018823",
+        "date": "2025/05/12 11:00",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "Julia Chou",
+            "email": "kf50923@gms.ndhu.edu.tw",
+            "phone": "(03)8905173"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "辦理113-2學年【學生獎懲】作業通知(Notice of 113-2 Student Honor and Disciplinary)",
+        "timestamp": "1747018736",
+        "url": "mail_display.php?timestamp=1747018736",
+        "date": "2025/05/12 10:58",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "6225"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "Zongzi / Rice dumplings DIY",
+        "timestamp": "1747018417",
+        "url": "mail_display.php?timestamp=1747018417",
+        "date": "2025/05/12 10:53",
+        "department": "管理學院",
+        "author": {
+            "department": "管理學院",
+            "name": "洄瀾共好大學社會責任中心",
+            "email": "techusr@gms.ndhu.edu.tw",
+            "phone": "(03)8903771"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【人事室公告】113學年度第2學期環境暨海洋學院院長候選人治院理念說明會",
         "timestamp": "1747018273",
         "url": "mail_display.php?timestamp=1747018273",
@@ -150,62 +206,6 @@
             "name": "黃淑美",
             "email": "sumay@gms.ndhu.edu.tw",
             "phone": "5792"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【健康促進活動】回應2025年世界無菸日，衛保組邀您填問卷拿小禮",
-        "timestamp": "1746834940",
-        "url": "mail_display.php?timestamp=1746834940",
-        "date": "2025/05/10 07:55",
-        "department": "學務處 衛生保健組",
-        "author": {
-            "department": "學務處 衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【花師教育學院 特殊教育學系】特教四（114級）送舊活動",
-        "timestamp": "1746834939",
-        "url": "mail_display.php?timestamp=1746834939",
-        "date": "2025/05/10 07:55",
-        "department": "花師教育學院 特殊教育學系",
-        "author": {
-            "department": "花師教育學院 特殊教育學系",
-            "name": "宋玟諭",
-            "email": "411286031@gms.ndhu.edu.tw（鐘同學）",
-            "phone": "（03）890-3250"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "化學系專題研究介紹",
-        "timestamp": "1746834938",
-        "url": "mail_display.php?timestamp=1746834938",
-        "date": "2025/05/10 07:55",
-        "department": "理工學院 化學系",
-        "author": {
-            "department": "理工學院 化學系",
-            "name": "黃翎欣",
-            "email": "u882025@gms.ndhu.edu.tw",
-            "phone": "3574"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "人文社會科學學院教師著作分享會《風雲起:抗戰時期中國的氣象事業》",
-        "timestamp": "1746834937",
-        "url": "mail_display.php?timestamp=1746834937",
-        "date": "2025/05/10 07:55",
-        "department": "人文社會科學學院 ",
-        "author": {
-            "department": "人文社會科學學院",
-            "name": "吳雅萍",
-            "email": "ypwu@gms.ndhu.edu.tw",
-            "phone": "03-8905253"
         },
         "attachmentCount": 0
     }

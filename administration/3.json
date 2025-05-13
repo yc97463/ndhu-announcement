@@ -1,5 +1,19 @@
 [
     {
+        "title": "部分電梯停用通告",
+        "timestamp": "1746448306",
+        "url": "mail_display.php?timestamp=1746448306",
+        "date": "2025/05/05 20:31",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "114年度校區內客貨電梯進行月保養排程通告(五月保養)(配合入學甄試日期修正）",
         "timestamp": "1746437414",
         "url": "mail_display.php?timestamp=1746437414",
@@ -194,19 +208,5 @@
             "phone": "6841"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【公告】教育部修正「補(捐)助及委辦經費核撥結報作業要點」第4點附件2，自115年1月1日起生效",
-        "timestamp": "1746066180",
-        "url": "mail_display.php?timestamp=1746066180",
-        "date": "2025/05/01 10:23",
-        "department": "主計室",
-        "author": {
-            "department": "主計室",
-            "name": "曾俊達",
-            "email": "kleiber0576@gms.ndhu.edu.tw",
-            "phone": "(03)8906079"
-        },
-        "attachmentCount": 3
     }
 ]

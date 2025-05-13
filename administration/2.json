@@ -1,5 +1,19 @@
 [
     {
+        "title": "【菸害防制宣導】轉知衛生福利部國民健康署建置之電子菸及加熱式菸品危害主題專區",
+        "timestamp": "1746690791",
+        "url": "mail_display.php?timestamp=1746690791",
+        "date": "2025/05/08 15:53",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【人事室公告】114年暑休事宜",
         "timestamp": "1746687215",
         "url": "mail_display.php?timestamp=1746687215",
@@ -194,19 +208,5 @@
             "phone": "6232"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "部分電梯停用通告",
-        "timestamp": "1746448306",
-        "url": "mail_display.php?timestamp=1746448306",
-        "date": "2025/05/05 20:31",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
     }
 ]
