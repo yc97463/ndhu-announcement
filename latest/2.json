@@ -1,5 +1,19 @@
 [
     {
+        "title": "【幼教系】期末系員大會",
+        "timestamp": "1747094113",
+        "url": "mail_display.php?timestamp=1747094113",
+        "date": "2025/05/13 07:55",
+        "department": "花師教育學院 幼兒教育學系",
+        "author": {
+            "department": "花師教育學院 幼兒教育學系",
+            "name": "蕭羽芩",
+            "email": "kay200128@gms.ndhu.edu.tw",
+            "phone": "5266"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【幼教系】撥穗典禮工作人員",
         "timestamp": "1747094112",
         "url": "mail_display.php?timestamp=1747094112",
@@ -194,19 +208,5 @@
             "phone": "6282"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【徵才】臺灣桃園地方法院「114年第2次儲備約僱職務代理人」甄試(114年6月18日截止)",
-        "timestamp": "1747041383",
-        "url": "mail_display.php?timestamp=1747041383",
-        "date": "2025/05/12 17:16",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 4
     }
 ]

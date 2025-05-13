@@ -1,5 +1,19 @@
 [
     {
+        "title": "113-2教育議題講座：品格力與學習力-談品格教育議題教學與學校課程",
+        "timestamp": "1747020755",
+        "url": "mail_display.php?timestamp=1747020755",
+        "date": "2025/05/12 11:32",
+        "department": "師資培育中心",
+        "author": {
+            "department": "師資培育中心",
+            "name": "劉姵君",
+            "email": "amyliou@gms.ndhu.edu.tw",
+            "phone": "6632"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【教務處公告】提醒任課教師於期末選課前(114/5/26)維護是否公開成績分佈圖功能",
         "timestamp": "1747019625",
         "url": "mail_display.php?timestamp=1747019625",
@@ -194,19 +208,5 @@
             "phone": "6232"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "族文面對面系列講座－羅中峰(佛光大學退休副教授)講題《後現代文化圖像：包曼與布希亞》",
-        "timestamp": "1746834942",
-        "url": "mail_display.php?timestamp=1746834942",
-        "date": "2025/05/10 07:55",
-        "department": "原住民民族學院 族群關係與文化學系",
-        "author": {
-            "department": "原住民民族學院 族群關係與文化學系",
-            "name": "黃淑美",
-            "email": "sumay@gms.ndhu.edu.tw",
-            "phone": "5792"
-        },
-        "attachmentCount": 0
     }
 ]
