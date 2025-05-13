@@ -1,5 +1,19 @@
 [
     {
+        "title": "人總處於MyData建置「不得具大陸戶籍、護照、身分證、定居證或居住證情形具結書」線上填寫功能並自114年4月30日啟用。",
+        "timestamp": "1747025453",
+        "url": "mail_display.php?timestamp=1747025453",
+        "date": "2025/05/12 12:50",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "林淑惠",
+            "email": "linsh@gms.ndhu.edu.tw",
+            "phone": "038906059"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "勞動部訂定「身心障礙者職場合理調整行政指導」並自114年7月1日生效。",
         "timestamp": "1747024666",
         "url": "mail_display.php?timestamp=1747024666",
@@ -194,19 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "念頭？---善念、惡念、無念",
-        "timestamp": "1746976357",
-        "url": "mail_display.php?timestamp=1746976357",
-        "date": "2025/05/11 23:12",
-        "department": "物理學系",
-        "author": {
-            "department": "物理學系",
-            "name": "彭文平",
-            "email": "pengw@gms.ndhu.edu.tw",
-            "phone": "8903733"
-        },
-        "attachmentCount": 1
     }
 ]
