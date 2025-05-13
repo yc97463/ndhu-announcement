@@ -1,5 +1,19 @@
 [
     {
+        "title": "114年度校區內客貨電梯進行月保養排程通告(五月保養)(配合入學甄試日期修正）",
+        "timestamp": "1746437414",
+        "url": "mail_display.php?timestamp=1746437414",
+        "date": "2025/05/05 17:30",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "「全民原教以〜烈市集」封路管制公告",
         "timestamp": "1746436223",
         "url": "mail_display.php?timestamp=1746436223",
@@ -194,19 +208,5 @@
             "phone": "(03)8906079"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "[Notice of Library Closure] The library will be closed on 5/10-11 (Saturday and Sunday).",
-        "timestamp": "1746065990",
-        "url": "mail_display.php?timestamp=1746065990",
-        "date": "2025/05/01 10:19",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "何銘俊",
-            "email": "robert@gms.ndhu.edu.tw",
-            "phone": "6841"
-        },
-        "attachmentCount": 0
     }
 ]

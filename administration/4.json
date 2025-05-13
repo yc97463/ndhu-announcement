@@ -1,5 +1,19 @@
 [
     {
+        "title": "[Notice of Library Closure] The library will be closed on 5/10-11 (Saturday and Sunday).",
+        "timestamp": "1746065990",
+        "url": "mail_display.php?timestamp=1746065990",
+        "date": "2025/05/01 10:19",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "何銘俊",
+            "email": "robert@gms.ndhu.edu.tw",
+            "phone": "6841"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "(重要提醒)投票-114年5月1日(星期四)上午9時至下午2時，補選113學年度人事甄審暨考績委員會「票選委員」。",
         "timestamp": "1746062327",
         "url": "mail_display.php?timestamp=1746062327",
@@ -194,19 +208,5 @@
             "phone": "8906253"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "《十三班新航之舟-領航員招募再啟》",
-        "timestamp": "1745821647",
-        "url": "mail_display.php?timestamp=1745821647",
-        "date": "2025/04/28 14:27",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "余惠真",
-            "email": "nacy4631@gms.ndhu.edu.tw",
-            "phone": "6232"
-        },
-        "attachmentCount": 3
     }
 ]
