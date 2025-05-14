@@ -1,5 +1,19 @@
 [
     {
+        "title": "學人宿舍區樹木修剪作業公告。",
+        "timestamp": "1747033770",
+        "url": "mail_display.php?timestamp=1747033770",
+        "date": "2025/05/12 15:09",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "賴宜萱",
+            "email": "lai0210@gms.ndhu.edu.tw",
+            "phone": "6393"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "📣 【熱門報名中!! 05/21履歷撰寫及面試技巧】 📣",
         "timestamp": "1747032008",
         "url": "mail_display.php?timestamp=1747032008",
@@ -194,19 +208,5 @@
             "phone": "6061"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【財金系專題演講】5/16(五)14:00~16:00 銀行3.0 / 為您的投資組合注入動能",
-        "timestamp": "1747015481",
-        "url": "mail_display.php?timestamp=1747015481",
-        "date": "2025/05/12 10:04",
-        "department": "財務金融學系",
-        "author": {
-            "department": "財務金融學系",
-            "name": "林役霜",
-            "email": "ys012@gms.ndhu.edu.tw",
-            "phone": "3133"
-        },
-        "attachmentCount": 0
     }
 ]

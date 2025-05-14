@@ -1,5 +1,19 @@
 [
     {
+        "title": "行政會議 會議紀錄公告通知",
+        "timestamp": "1747207937",
+        "url": "mail_display.php?timestamp=1747207937",
+        "date": "2025/05/14 15:32",
+        "department": "秘書室議事公文組",
+        "author": {
+            "department": "秘書室議事公文組",
+            "name": "陳婉婉",
+            "email": "secretariat@gms.ndhu.edu.tw",
+            "phone": "6004"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【課務組通知】各學制學生114-1課程初選事宜  Preliminary Course Selection for Next Semester",
         "timestamp": "1747188344",
         "url": "mail_display.php?timestamp=1747188344",
@@ -194,19 +208,5 @@
             "phone": "6061"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "《十三班新航之舟-領航員招募再啟》報名至5/12(一)截止",
-        "timestamp": "1746949444",
-        "url": "mail_display.php?timestamp=1746949444",
-        "date": "2025/05/11 15:44",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "余惠真",
-            "email": "nacy4631@gms.ndhu.edu.tw",
-            "phone": "6232"
-        },
-        "attachmentCount": 3
     }
 ]

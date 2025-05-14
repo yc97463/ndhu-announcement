@@ -1,5 +1,19 @@
 [
     {
+        "title": "公文系統訂於114年5月14日(三)16~24時暫停服務公告",
+        "timestamp": "1746517164",
+        "url": "mail_display.php?timestamp=1746517164",
+        "date": "2025/05/06 15:39",
+        "department": "總務處文書組",
+        "author": {
+            "department": "總務處文書組",
+            "name": "張先生",
+            "email": "eric.chang@gms.ndhu.edu.tw",
+            "phone": "03-8906352"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113年度個人綜合所得稅申報事宜及提供報稅軟體下載，敬請參酌。",
         "timestamp": "1746509053",
         "url": "mail_display.php?timestamp=1746509053",
@@ -194,19 +208,5 @@
             "phone": "8906373"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【▲重要通知】114學年度第1學期「學生就學優待減免學雜費」申請公告",
-        "timestamp": "1746187301",
-        "url": "mail_display.php?timestamp=1746187301",
-        "date": "2025/05/02 20:01",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "林黃漢穎",
-            "email": "henry30180@gms.ndhu.edu.tw",
-            "phone": "8906218"
-        },
-        "attachmentCount": 2
     }
 ]
