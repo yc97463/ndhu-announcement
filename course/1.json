@@ -1,5 +1,19 @@
 [
     {
+        "title": "【課務組通知】各學制學生114-1課程初選事宜  Preliminary Course Selection for Next Semester",
+        "timestamp": "1747188344",
+        "url": "mail_display.php?timestamp=1747188344",
+        "date": "2025/05/14 10:05",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "📢講座通知｜《搞懂你要的工作｜在對的地方用對的方式努力》",
         "timestamp": "1747185801",
         "url": "mail_display.php?timestamp=1747185801",
@@ -194,19 +208,5 @@
             "phone": "03-890-5920"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "113-2國立東華大學語傳系【多元族群語言與文化】課堂專題演講",
-        "timestamp": "1746670078",
-        "url": "mail_display.php?timestamp=1746670078",
-        "date": "2025/05/08 10:07",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "黃仕柔",
-            "email": "miku@gms.ndhu.edu.tw",
-            "phone": "5839"
-        },
-        "attachmentCount": 2
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "財金系-校外實習分享會",
+        "timestamp": "1747180505",
+        "url": "mail_display.php?timestamp=1747180505",
+        "date": "2025/05/14 07:55",
+        "department": "管理學院 財務金融學系",
+        "author": {
+            "department": "管理學院 財務金融學系",
+            "name": "呂羅晟峰",
+            "email": "luluo@gms.ndhu.edu.tw",
+            "phone": "8903132"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "114學年度課規異動說明會",
         "timestamp": "1747180504",
         "url": "mail_display.php?timestamp=1747180504",
@@ -194,19 +208,5 @@
             "phone": "038906402"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【代轉】壽豐衛生所誠徵工讀生及志工",
-        "timestamp": "1747119007",
-        "url": "mail_display.php?timestamp=1747119007",
-        "date": "2025/05/13 14:50",
-        "department": "教育與潛能開發學系",
-        "author": {
-            "department": "教育與潛能開發學系",
-            "name": "黃偲婷",
-            "email": "cls39white@gms.ndhu.edu.tw",
-            "phone": "038903822"
-        },
-        "attachmentCount": 0
     }
 ]
