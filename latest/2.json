@@ -1,5 +1,19 @@
 [
     {
+        "title": "114-1 學期 TAICA 開課 東華大學第一次說明會",
+        "timestamp": "1747276586",
+        "url": "mail_display.php?timestamp=1747276586",
+        "date": "2025/05/15 10:36",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳禮凡",
+            "email": "lifan.chen@gms.ndhu.edu.tw",
+            "phone": "038906586"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【轉知】2025台灣創新技術博覽會「發明競賽」徵展訊息",
         "timestamp": "1747275228",
         "url": "mail_display.php?timestamp=1747275228",
@@ -194,19 +208,5 @@
             "phone": "5824"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "行政會議 會議紀錄公告通知",
-        "timestamp": "1747207937",
-        "url": "mail_display.php?timestamp=1747207937",
-        "date": "2025/05/14 15:32",
-        "department": "秘書室議事公文組",
-        "author": {
-            "department": "秘書室議事公文組",
-            "name": "陳婉婉",
-            "email": "secretariat@gms.ndhu.edu.tw",
-            "phone": "6004"
-        },
-        "attachmentCount": 1
     }
 ]

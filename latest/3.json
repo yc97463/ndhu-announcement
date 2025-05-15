@@ -1,5 +1,19 @@
 [
     {
+        "title": "行政會議 會議紀錄公告通知",
+        "timestamp": "1747207937",
+        "url": "mail_display.php?timestamp=1747207937",
+        "date": "2025/05/14 15:32",
+        "department": "秘書室議事公文組",
+        "author": {
+            "department": "秘書室議事公文組",
+            "name": "陳婉婉",
+            "email": "secretariat@gms.ndhu.edu.tw",
+            "phone": "6004"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "勿開啟來路不明信件（仍在教育部社交工程演練第一階段期間）",
         "timestamp": "1747206036",
         "url": "mail_display.php?timestamp=1747206036",
@@ -192,20 +206,6 @@
             "name": "高蘇恩",
             "email": "galaigai@gms.ndhu.edu.tw",
             "phone": "5663"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "公共行政學系113學年度第2學期-期末系員大會暨書卷獎頒獎",
-        "timestamp": "1747180508",
-        "url": "mail_display.php?timestamp=1747180508",
-        "date": "2025/05/14 07:55",
-        "department": "人文社會科學學院 公共行政學系",
-        "author": {
-            "department": "人文社會科學學院 公共行政學系",
-            "name": "蔡語宸",
-            "email": "yuchen@gms.ndhu.edu.tw",
-            "phone": "5512"
         },
         "attachmentCount": 0
     }
