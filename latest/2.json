@@ -1,5 +1,19 @@
 [
     {
+        "title": "東兔團隊招募說明會~一起打造最有創意 × 最有溫度的校園行動！",
+        "timestamp": "1747266906",
+        "url": "mail_display.php?timestamp=1747266906",
+        "date": "2025/05/15 07:55",
+        "department": "學務處 衛生保健組",
+        "author": {
+            "department": "學務處 衛生保健組",
+            "name": "吳星穎",
+            "email": "carmier@gms.ndhu.edu.tw",
+            "phone": "8906252"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "114學年度個人申請-工作人員-5月20日",
         "timestamp": "1747266905",
         "url": "mail_display.php?timestamp=1747266905",
@@ -194,19 +208,5 @@
             "phone": "6775"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "🔔原民生/一般生填寫問卷可獲得7-11禮券50元🔔",
-        "timestamp": "1747186540",
-        "url": "mail_display.php?timestamp=1747186540",
-        "date": "2025/05/14 09:35",
-        "department": "原住民族學生資源中心",
-        "author": {
-            "department": "原住民族學生資源中心",
-            "name": "林詠靖",
-            "email": "tipus@gms.ndhu.edu.tw",
-            "phone": "5707"
-        },
-        "attachmentCount": 5
     }
 ]
