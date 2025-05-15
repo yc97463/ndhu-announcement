@@ -1,5 +1,19 @@
 [
     {
+        "title": "(投票通知)114年5月1日(星期四)上午9時至下午2時，補選113學年度人事甄審暨考績委員會「票選委員」。",
+        "timestamp": "1745984449",
+        "url": "mail_display.php?timestamp=1745984449",
+        "date": "2025/04/30 11:40",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "林淑惠",
+            "email": "linsh@gms.ndhu.edu.tw",
+            "phone": "038906059"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "114年5月份全校綠地除草維護時間及施作區域公告",
         "timestamp": "1745972292",
         "url": "mail_display.php?timestamp=1745972292",
@@ -194,19 +208,5 @@
             "phone": "6060"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "113學年度擬畢業生之車輛違規紀錄，請儘速以愛校服務或繳納處理費完成銷單(第二次公告)",
-        "timestamp": "1745548399",
-        "url": "mail_display.php?timestamp=1745548399",
-        "date": "2025/04/25 10:33",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "許紹峯",
-            "email": "hsf113@gms.ndhu.edu.tw",
-            "phone": "03-8906314"
-        },
-        "attachmentCount": 2
     }
 ]

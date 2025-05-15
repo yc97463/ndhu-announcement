@@ -1,5 +1,19 @@
 [
     {
+        "title": "【公告】傲予莫那 Awi．Mona教授自114年8月1日起新任本校人文社會科學學院院長",
+        "timestamp": "1747298371",
+        "url": "mail_display.php?timestamp=1747298371",
+        "date": "2025/05/15 16:39",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "楊惠雯",
+            "email": "hwyang@gms.ndhu.edu.tw",
+            "phone": "6061"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【重要通知】113-2學期應屆畢業生離校領取學位證書公告",
         "timestamp": "1747210402",
         "url": "mail_display.php?timestamp=1747210402",
@@ -194,19 +208,5 @@
             "phone": "6122-6126"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "辦理113-2學年【學生獎懲】作業通知(Notice of 113-2 Student Honor and Disciplinary)",
-        "timestamp": "1747018736",
-        "url": "mail_display.php?timestamp=1747018736",
-        "date": "2025/05/12 10:58",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "黃勇程",
-            "email": "victor0903@gms.ndhu.edu.tw",
-            "phone": "6225"
-        },
-        "attachmentCount": 1
     }
 ]
