@@ -1,5 +1,19 @@
 [
     {
+        "title": "「2025台灣創新技術博覽會－未來科技館」之未來科技獎徵件，自即日起受理(校內截止期限：114年6月30日)",
+        "timestamp": "1746414143",
+        "url": "mail_display.php?timestamp=1746414143",
+        "date": "2025/05/05 11:02",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "李淑淳",
+            "email": "chun@gms.ndhu.edu.tw",
+            "phone": "6522"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "本校湖畔餐廳委外廠商(東華美食)提供優惠方案公告",
         "timestamp": "1746407711",
         "url": "mail_display.php?timestamp=1746407711",
@@ -194,19 +208,5 @@
             "phone": "8906253"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【轉知】「A* Awards－金仝獎」徵件活動",
-        "timestamp": "1745994443",
-        "url": "mail_display.php?timestamp=1745994443",
-        "date": "2025/04/30 14:27",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "李淑淳",
-            "email": "chun@gms.ndhu.edu.tw",
-            "phone": "6522"
-        },
-        "attachmentCount": 1
     }
 ]
