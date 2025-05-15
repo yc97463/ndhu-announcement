@@ -1,5 +1,33 @@
 [
     {
+        "title": "【課務組】114年大學部準新生暑期先修課程",
+        "timestamp": "1747289896",
+        "url": "mail_display.php?timestamp=1747289896",
+        "date": "2025/05/15 14:18",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "宋育縈",
+            "email": "suz@gms.ndhu.edu.tw",
+            "phone": "分機6126"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【課務組】114年暑期重補修課程（報名時間，詳見課程說明）",
+        "timestamp": "1747288980",
+        "url": "mail_display.php?timestamp=1747288980",
+        "date": "2025/05/15 14:03",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "宋育縈",
+            "email": "suz@gms.ndhu.edu.tw",
+            "phone": "分機6126"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "第27屆「心靈捕手✨」招募說明會-💪你來~就是對的人💪",
         "timestamp": "1747212739",
         "url": "mail_display.php?timestamp=1747212739",
@@ -180,33 +208,5 @@
             "phone": "6652"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "運籌管理研究所「五年(3+2)修讀學碩士學位」招生說明會(114.5.7中午12:10)",
-        "timestamp": "1745225613",
-        "url": "mail_display.php?timestamp=1745225613",
-        "date": "2025/04/21 16:53",
-        "department": "企業管理學系",
-        "author": {
-            "department": "企業管理學系",
-            "name": "莊巧萍",
-            "email": "cpjuang@gms.ndhu.edu.tw",
-            "phone": "03-8903013"
-        },
-        "attachmentCount": 5
-    },
-    {
-        "title": "企業管理學系「五年(3+2)修讀學碩士學位」招生說明會(114.4.29中午12:10)",
-        "timestamp": "1745225226",
-        "url": "mail_display.php?timestamp=1745225226",
-        "date": "2025/04/21 16:47",
-        "department": "企業管理學系",
-        "author": {
-            "department": "企業管理學系",
-            "name": "莊巧萍",
-            "email": "cpjuang@gms.ndhu.edu.tw",
-            "phone": "03-8903013"
-        },
-        "attachmentCount": 5
     }
 ]

@@ -1,5 +1,61 @@
 [
     {
+        "title": "【課務組】114年大學部準新生暑期先修課程",
+        "timestamp": "1747289896",
+        "url": "mail_display.php?timestamp=1747289896",
+        "date": "2025/05/15 14:18",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "宋育縈",
+            "email": "suz@gms.ndhu.edu.tw",
+            "phone": "分機6126"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【訊息轉知】2025宜得利NITORI探索計畫CAREER DESIGN 暑期職場體驗 歡迎報名參加! 📣 📣",
+        "timestamp": "1747289769",
+        "url": "mail_display.php?timestamp=1747289769",
+        "date": "2025/05/15 14:16",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "【活動訊息】教育部青年發展署-114年全國大專校院職涯輔導學生心得競賽-職涯夢起點",
+        "timestamp": "1747289305",
+        "url": "mail_display.php?timestamp=1747289305",
+        "date": "2025/05/15 14:08",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "郭舒羽",
+            "email": "hdoion@gms.ndhu.edu.tw",
+            "phone": "038906284"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【課務組】114年暑期重補修課程（報名時間，詳見課程說明）",
+        "timestamp": "1747288980",
+        "url": "mail_display.php?timestamp=1747288980",
+        "date": "2025/05/15 14:03",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "宋育縈",
+            "email": "suz@gms.ndhu.edu.tw",
+            "phone": "分機6126"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【轉知】實踐大學開設「勞動部勞動力發展署114年產業新尖兵計畫」三項青年職訓課程",
         "timestamp": "1747282278",
         "url": "mail_display.php?timestamp=1747282278",
@@ -150,62 +206,6 @@
             "name": "吳星穎",
             "email": "carmier@gms.ndhu.edu.tw",
             "phone": "8906252"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "114學年度個人申請-工作人員-5月20日",
-        "timestamp": "1747266905",
-        "url": "mail_display.php?timestamp=1747266905",
-        "date": "2025/05/15 07:55",
-        "department": "管理學院 會計學系",
-        "author": {
-            "department": "管理學院 會計學系",
-            "name": "陳良玫",
-            "email": "chrischen@gms.ndhu.edu.tw",
-            "phone": "3072"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "114學年度個人申請-工作人員-5月19日",
-        "timestamp": "1747266904",
-        "url": "mail_display.php?timestamp=1747266904",
-        "date": "2025/05/15 07:55",
-        "department": "管理學院 會計學系",
-        "author": {
-            "department": "管理學院 會計學系",
-            "name": "陳良玫",
-            "email": "chrischen@gms.ndhu.edu.tw",
-            "phone": "3072"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【玩出感同身受：同理心與情緒轉化桌遊工作坊】",
-        "timestamp": "1747266903",
-        "url": "mail_display.php?timestamp=1747266903",
-        "date": "2025/05/15 07:55",
-        "department": "心理諮商輔導中心 預防推廣組",
-        "author": {
-            "department": "心理諮商輔導中心 預防推廣組",
-            "name": "陳淑惠",
-            "email": "csh12967@gms.ndhu.edu.tw",
-            "phone": "8906276"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【113-2學期演講】(1) 軟體職涯不只是寫程式：從面試到混合辦公與特休無限的日常   (2) 探索本質的力量",
-        "timestamp": "1747266902",
-        "url": "mail_display.php?timestamp=1747266902",
-        "date": "2025/05/15 07:55",
-        "department": "管理學院 資訊管理學系",
-        "author": {
-            "department": "管理學院 資訊管理學系",
-            "name": "王文億",
-            "email": "wenyi@gms.ndhu.edu.tw",
-            "phone": "3103"
         },
         "attachmentCount": 0
     }
