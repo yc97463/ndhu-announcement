@@ -1,5 +1,33 @@
 [
     {
+        "title": "電影欣賞:夢想紅舞鞋",
+        "timestamp": "1747094114",
+        "url": "mail_display.php?timestamp=1747094114",
+        "date": "2025/05/13 07:55",
+        "department": "圖書資訊處 圖資服務組",
+        "author": {
+            "department": "圖書資訊處 圖資服務組",
+            "name": "廖銘珠",
+            "email": "min-judy@gms.ndhu.edu.tw",
+            "phone": "6855"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【幼教系】期末系員大會",
+        "timestamp": "1747094113",
+        "url": "mail_display.php?timestamp=1747094113",
+        "date": "2025/05/13 07:55",
+        "department": "花師教育學院 幼兒教育學系",
+        "author": {
+            "department": "花師教育學院 幼兒教育學系",
+            "name": "蕭羽芩",
+            "email": "kay200128@gms.ndhu.edu.tw",
+            "phone": "5266"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【幼教系】撥穗典禮工作人員",
         "timestamp": "1747094112",
         "url": "mail_display.php?timestamp=1747094112",
@@ -180,33 +208,5 @@
             "phone": "6282"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "🎓✨ 2025 東華星軌畢業舞會｜Glimmering Trails 💫",
-        "timestamp": "1747044700",
-        "url": "mail_display.php?timestamp=1747044700",
-        "date": "2025/05/12 18:11",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "溫小姐",
-            "email": "fengting0804@gms.ndhu.edu.tw",
-            "phone": "6282"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【代轉學生選舉委員會公告】公告第15屆學生自治會選舉選舉公報 15th Student Association Election Bulletin",
-        "timestamp": "1747039779",
-        "url": "mail_display.php?timestamp=1747039779",
-        "date": "2025/05/12 16:49",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "姜紫淇",
-            "email": "yaya@gms.ndhu.edu.tw",
-            "phone": "03-8906235"
-        },
-        "attachmentCount": 10
     }
 ]

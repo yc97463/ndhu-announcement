@@ -1,5 +1,19 @@
 [
     {
+        "title": "114-1 學期 TAICA 開課 東華大學第一次說明會",
+        "timestamp": "1747276586",
+        "url": "mail_display.php?timestamp=1747276586",
+        "date": "2025/05/15 10:36",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳禮凡",
+            "email": "lifan.chen@gms.ndhu.edu.tw",
+            "phone": "038906586"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "第27屆「心靈捕手✨」招募說明會-💪你來~就是對的人💪",
         "timestamp": "1747212739",
         "url": "mail_display.php?timestamp=1747212739",
@@ -194,19 +208,5 @@
             "phone": "03-8903984"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "114-1「微課程\u0026BRICK學程」說明會🧾💡｜全新規劃帶你學分、經驗一網打盡〰️",
-        "timestamp": "1746782302",
-        "url": "mail_display.php?timestamp=1746782302",
-        "date": "2025/05/09 17:18",
-        "department": "社會參與中心",
-        "author": {
-            "department": "社會參與中心",
-            "name": "黃小姐",
-            "email": "yuxuan22@gms.ndhu.edu.tw",
-            "phone": "5246"
-        },
-        "attachmentCount": 4
     }
 ]
