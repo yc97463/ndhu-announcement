@@ -1,5 +1,19 @@
 [
     {
+        "title": "【事務組公告】本校停車場電動車充電樁施工說明",
+        "timestamp": "1747383399",
+        "url": "mail_display.php?timestamp=1747383399",
+        "date": "2025/05/16 16:16",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "許紹峯",
+            "email": "hsf113@gms.ndhu.edu.tw",
+            "phone": "03-8906314"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【通識】114年暑期通識課程一覽，歡迎準大一生、在校生同學選修!",
         "timestamp": "1747363070",
         "url": "mail_display.php?timestamp=1747363070",
@@ -194,19 +208,5 @@
             "phone": "6061"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【轉知】國立高雄科技大學開設勞動部勞動力發展署「114年產業新尖兵計畫」課程資訊",
-        "timestamp": "1747295442",
-        "url": "mail_display.php?timestamp=1747295442",
-        "date": "2025/05/15 15:50",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 5
     }
 ]
