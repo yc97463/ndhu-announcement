@@ -1,5 +1,33 @@
 [
     {
+        "title": "113-2經濟學系學士班專題報告(B場)",
+        "timestamp": "1747180503",
+        "url": "mail_display.php?timestamp=1747180503",
+        "date": "2025/05/14 07:55",
+        "department": "人文社會科學學院 經濟學系",
+        "author": {
+            "department": "人文社會科學學院 經濟學系",
+            "name": "張筱茵",
+            "email": "ying@gms.ndhu.edu.tw",
+            "phone": "(03)890-5533"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113-2經濟學系學士班專題報告(A場)",
+        "timestamp": "1747180502",
+        "url": "mail_display.php?timestamp=1747180502",
+        "date": "2025/05/14 07:55",
+        "department": "人文社會科學學院 經濟學系",
+        "author": {
+            "department": "人文社會科學學院 經濟學系",
+            "name": "張筱茵",
+            "email": "ying@gms.ndhu.edu.tw",
+            "phone": "(03)890-5533"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "理財有道，幸福一生－給大學生的財務幸福指南",
         "timestamp": "1747180501",
         "url": "mail_display.php?timestamp=1747180501",
@@ -180,33 +208,5 @@
             "phone": "03-8905247"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "防制校園詐騙宣導通報-114年5月13日",
-        "timestamp": "1747109074",
-        "url": "mail_display.php?timestamp=1747109074",
-        "date": "2025/05/13 12:04",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "吳昭毅",
-            "email": "wuyi12831@gms.ndhu.edu.tw",
-            "phone": "038906228"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【徵才公告】國立東華大學理工學院徵聘校務基金助理兩名",
-        "timestamp": "1747096879",
-        "url": "mail_display.php?timestamp=1747096879",
-        "date": "2025/05/13 08:41",
-        "department": "理工學院",
-        "author": {
-            "department": "理工學院",
-            "name": "黃先生",
-            "email": "vict0913@gms.ndhu.edu.tw",
-            "phone": "(03)8903504"
-        },
-        "attachmentCount": 0
     }
 ]
