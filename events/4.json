@@ -1,5 +1,47 @@
 [
     {
+        "title": "【幼教系】期末系員大會",
+        "timestamp": "1747094113",
+        "url": "mail_display.php?timestamp=1747094113",
+        "date": "2025/05/13 07:55",
+        "department": "花師教育學院 幼兒教育學系",
+        "author": {
+            "department": "花師教育學院 幼兒教育學系",
+            "name": "蕭羽芩",
+            "email": "kay200128@gms.ndhu.edu.tw",
+            "phone": "5266"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【幼教系】撥穗典禮工作人員",
+        "timestamp": "1747094112",
+        "url": "mail_display.php?timestamp=1747094112",
+        "date": "2025/05/13 07:55",
+        "department": "花師教育學院 幼兒教育學系",
+        "author": {
+            "department": "花師教育學院 幼兒教育學系",
+            "name": "蕭羽芩",
+            "email": "kay200128@gms.ndhu.edu.tw",
+            "phone": "5266"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "Molecular Doping of 2D Semiconductors: Strategies for Electronic and Optical Property Modulation (書報討論課同學請勿報名)",
+        "timestamp": "1747094111",
+        "url": "mail_display.php?timestamp=1747094111",
+        "date": "2025/05/13 07:55",
+        "department": "理工學院 物理學系",
+        "author": {
+            "department": "理工學院 物理學系",
+            "name": "劉芝葳",
+            "email": "jenna@gms.ndhu.edu.tw",
+            "phone": "0966678051"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【發社系-民族講座】第五道浪之後：東海岸阿美族水下獵人的海洋傳統知識",
         "timestamp": "1747094110",
         "url": "mail_display.php?timestamp=1747094110",
@@ -166,47 +208,5 @@
             "phone": "6282"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【代轉學生選舉委員會公告】公告第15屆學生自治會選舉選舉公報 15th Student Association Election Bulletin",
-        "timestamp": "1747039779",
-        "url": "mail_display.php?timestamp=1747039779",
-        "date": "2025/05/12 16:49",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "姜紫淇",
-            "email": "yaya@gms.ndhu.edu.tw",
-            "phone": "03-8906235"
-        },
-        "attachmentCount": 10
-    },
-    {
-        "title": "📣 【熱門報名中!! 05/21履歷撰寫及面試技巧】 📣",
-        "timestamp": "1747032008",
-        "url": "mail_display.php?timestamp=1747032008",
-        "date": "2025/05/12 14:40",
-        "department": "原住民族學生資源中心",
-        "author": {
-            "department": "原住民族學生資源中心",
-            "name": "林詠靖",
-            "email": "tipus@gms.ndhu.edu.tw",
-            "phone": "5707"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "📣【🔥熱門報名中🔥｜05/23 原青族群自我認同文化講座 ✨× Malemeday 馬樂專輯發表】📣",
-        "timestamp": "1747031930",
-        "url": "mail_display.php?timestamp=1747031930",
-        "date": "2025/05/12 14:38",
-        "department": "原住民族學生資源中心",
-        "author": {
-            "department": "原住民族學生資源中心",
-            "name": "林詠靖",
-            "email": "tipus@gms.ndhu.edu.tw",
-            "phone": "5707"
-        },
-        "attachmentCount": 2
     }
 ]
