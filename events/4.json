@@ -1,5 +1,19 @@
 [
     {
+        "title": "防制校園詐騙宣導通報-114年5月13日",
+        "timestamp": "1747109074",
+        "url": "mail_display.php?timestamp=1747109074",
+        "date": "2025/05/13 12:04",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "吳昭毅",
+            "email": "wuyi12831@gms.ndhu.edu.tw",
+            "phone": "038906228"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "電影欣賞:夢想紅舞鞋",
         "timestamp": "1747094114",
         "url": "mail_display.php?timestamp=1747094114",
@@ -194,19 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "2025 NDHU Glimmering Trails Graduation Prom ✨💫",
-        "timestamp": "1747045008",
-        "url": "mail_display.php?timestamp=1747045008",
-        "date": "2025/05/12 18:16",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "溫小姐",
-            "email": "fengting0804@gms.ndhu.edu.tw",
-            "phone": "6282"
-        },
-        "attachmentCount": 3
     }
 ]

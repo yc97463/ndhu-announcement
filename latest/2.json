@@ -1,5 +1,19 @@
 [
     {
+        "title": "114年5月20、21日(星期二、星期三)大學申請入學招生甄試大門交通管制公告。",
+        "timestamp": "1747358021",
+        "url": "mail_display.php?timestamp=1747358021",
+        "date": "2025/05/16 09:13",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "公告114學年度第1學期校核心通識課程規劃重要相關注意事項Important Information about the University Core General Education Curriculum for Autumn 2025",
         "timestamp": "1747354996",
         "url": "mail_display.php?timestamp=1747354996",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【課務組】114年大學部準新生暑期先修課程",
-        "timestamp": "1747289896",
-        "url": "mail_display.php?timestamp=1747289896",
-        "date": "2025/05/15 14:18",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "宋育縈",
-            "email": "suz@gms.ndhu.edu.tw",
-            "phone": "分機6126"
-        },
-        "attachmentCount": 1
     }
 ]
