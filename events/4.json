@@ -1,5 +1,19 @@
 [
     {
+        "title": "電影欣賞:夢想紅舞鞋",
+        "timestamp": "1747094114",
+        "url": "mail_display.php?timestamp=1747094114",
+        "date": "2025/05/13 07:55",
+        "department": "圖書資訊處 圖資服務組",
+        "author": {
+            "department": "圖書資訊處 圖資服務組",
+            "name": "廖銘珠",
+            "email": "min-judy@gms.ndhu.edu.tw",
+            "phone": "6855"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【幼教系】期末系員大會",
         "timestamp": "1747094113",
         "url": "mail_display.php?timestamp=1747094113",
@@ -186,20 +200,6 @@
         "timestamp": "1747045008",
         "url": "mail_display.php?timestamp=1747045008",
         "date": "2025/05/12 18:16",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "溫小姐",
-            "email": "fengting0804@gms.ndhu.edu.tw",
-            "phone": "6282"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "🎓✨ 2025 東華星軌畢業舞會｜Glimmering Trails 💫",
-        "timestamp": "1747044700",
-        "url": "mail_display.php?timestamp=1747044700",
-        "date": "2025/05/12 18:11",
         "department": "學務處畢業生及校友服務組",
         "author": {
             "department": "學務處畢業生及校友服務組",
