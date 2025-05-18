@@ -1,5 +1,19 @@
 [
     {
+        "title": "【課務組】今日下午起北迴線因強降雨致暫時中斷，受影響之師生，明日（5/19）課程請彈性處理。",
+        "timestamp": "1747567570",
+        "url": "mail_display.php?timestamp=1747567570",
+        "date": "2025/05/18 19:26",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122~6126"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "✨點亮校園塔樓燈光~祝福畢業生前途光明似錦✨✨Light up the campus tower~Wish the graduates a bright future✨",
         "timestamp": "1747560664",
         "url": "mail_display.php?timestamp=1747560664",
@@ -194,19 +208,5 @@
             "phone": "6329"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "公告114學年度第1學期校核心通識課程規劃重要相關注意事項Important Information about the University Core General Education Curriculum for Autumn 2025",
-        "timestamp": "1747354996",
-        "url": "mail_display.php?timestamp=1747354996",
-        "date": "2025/05/16 08:23",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 2
     }
 ]
