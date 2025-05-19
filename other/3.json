@@ -1,5 +1,19 @@
 [
     {
+        "title": "辦理113-2學年【學生獎懲】作業通知(Notice of 113-2 Student Honor and Disciplinary)",
+        "timestamp": "1747018736",
+        "url": "mail_display.php?timestamp=1747018736",
+        "date": "2025/05/12 10:58",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "黃勇程",
+            "email": "victor0903@gms.ndhu.edu.tw",
+            "phone": "6225"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "𝟔月份超頂講座來囉！免費報名中～",
         "timestamp": "1746785444",
         "url": "mail_display.php?timestamp=1746785444",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【轉知】中華大學辦理「114年度經濟部產發署半導體國際連結創新賦能計畫-先進製程積體電路佈局工程師/IC應用工程師實務演練學程」",
-        "timestamp": "1746510693",
-        "url": "mail_display.php?timestamp=1746510693",
-        "date": "2025/05/06 13:51",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 7
     }
 ]
