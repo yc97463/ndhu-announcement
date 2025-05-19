@@ -1,5 +1,47 @@
 [
     {
+        "title": "校長說明0403地震年度修繕工作執行情形",
+        "timestamp": "1746241785",
+        "url": "mail_display.php?timestamp=1746241785",
+        "date": "2025/05/03 11:09",
+        "department": "秘書室公關宣傳組",
+        "author": {
+            "department": "秘書室公關宣傳組",
+            "name": "孫嘉莉",
+            "email": "clsun@gms.ndhu.edu.tw",
+            "phone": "6006"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "涵星二莊、擷雲莊5月2日晚間因馬達故障暫無法持續補水至水塔，請節約用水。",
+        "timestamp": "1746206698",
+        "url": "mail_display.php?timestamp=1746206698",
+        "date": "2025/05/03 01:24",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉景富",
+            "email": "nickak@gms.ndhu.edu.tw",
+            "phone": "8906373"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【▲重要通知】114學年度第1學期「學生就學優待減免學雜費」申請公告",
+        "timestamp": "1746187301",
+        "url": "mail_display.php?timestamp=1746187301",
+        "date": "2025/05/02 20:01",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "林黃漢穎",
+            "email": "henry30180@gms.ndhu.edu.tw",
+            "phone": "8906218"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "教務處公告--請大三同學於114/5/9-6/4在「學士班學程選課輔助及畢業初審系統」上傳課規年   Announcement of the Academic Affairs Office - Students who are Juniors please upload the course planning on the \"Undergraduate Course Selection Assistance and Graduation Preliminary Examination System\" before June 4th,2025.",
         "timestamp": "1746166989",
         "url": "mail_display.php?timestamp=1746166989",
@@ -166,47 +208,5 @@
             "phone": "6727"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "(投票通知)114年5月1日(星期四)上午9時至下午2時，補選113學年度人事甄審暨考績委員會「票選委員」。",
-        "timestamp": "1745984449",
-        "url": "mail_display.php?timestamp=1745984449",
-        "date": "2025/04/30 11:40",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "林淑惠",
-            "email": "linsh@gms.ndhu.edu.tw",
-            "phone": "038906059"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "114年5月份全校綠地除草維護時間及施作區域公告",
-        "timestamp": "1745972292",
-        "url": "mail_display.php?timestamp=1745972292",
-        "date": "2025/04/30 08:18",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "賴宜萱",
-            "email": "lai0210@gms.ndhu.edu.tw",
-            "phone": "6393"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【學生兵役訊息】114年應接受常備兵役軍事訓練役男（83年次至93年次)，申請優先入營或延緩入營案公告",
-        "timestamp": "1745897717",
-        "url": "mail_display.php?timestamp=1745897717",
-        "date": "2025/04/29 11:35",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "黃勇程",
-            "email": "victor0903@gms.ndhu.edu.tw",
-            "phone": "6225"
-        },
-        "attachmentCount": 4
     }
 ]

@@ -1,5 +1,47 @@
 [
     {
+        "title": "原民院C棟圓形(羅馬)廣場管制公告",
+        "timestamp": "1746580147",
+        "url": "mail_display.php?timestamp=1746580147",
+        "date": "2025/05/07 09:09",
+        "department": "原住民族樂舞與藝術學士學位學程",
+        "author": {
+            "department": "原住民族樂舞與藝術學士學位學程",
+            "name": "王小姐",
+            "email": "ypwang@gms.ndhu.edu.tw",
+            "phone": "03-8905754"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "校務發展委員會會議紀錄公告通知",
+        "timestamp": "1746523816",
+        "url": "mail_display.php?timestamp=1746523816",
+        "date": "2025/05/06 17:30",
+        "department": "秘書室議事公文組",
+        "author": {
+            "department": "秘書室議事公文組",
+            "name": "陳婉婉",
+            "email": "secretariat@gms.ndhu.edu.tw",
+            "phone": "6004"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "公文系統訂於114年5月14日(三)16~24時暫停服務公告",
+        "timestamp": "1746517164",
+        "url": "mail_display.php?timestamp=1746517164",
+        "date": "2025/05/06 15:39",
+        "department": "總務處文書組",
+        "author": {
+            "department": "總務處文書組",
+            "name": "張先生",
+            "email": "eric.chang@gms.ndhu.edu.tw",
+            "phone": "03-8906352"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113年度個人綜合所得稅申報事宜及提供報稅軟體下載，敬請參酌。",
         "timestamp": "1746509053",
         "url": "mail_display.php?timestamp=1746509053",
@@ -166,47 +208,5 @@
             "phone": "8906373"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "校長說明0403地震年度修繕工作執行情形",
-        "timestamp": "1746241785",
-        "url": "mail_display.php?timestamp=1746241785",
-        "date": "2025/05/03 11:09",
-        "department": "秘書室公關宣傳組",
-        "author": {
-            "department": "秘書室公關宣傳組",
-            "name": "孫嘉莉",
-            "email": "clsun@gms.ndhu.edu.tw",
-            "phone": "6006"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "涵星二莊、擷雲莊5月2日晚間因馬達故障暫無法持續補水至水塔，請節約用水。",
-        "timestamp": "1746206698",
-        "url": "mail_display.php?timestamp=1746206698",
-        "date": "2025/05/03 01:24",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉景富",
-            "email": "nickak@gms.ndhu.edu.tw",
-            "phone": "8906373"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【▲重要通知】114學年度第1學期「學生就學優待減免學雜費」申請公告",
-        "timestamp": "1746187301",
-        "url": "mail_display.php?timestamp=1746187301",
-        "date": "2025/05/02 20:01",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "林黃漢穎",
-            "email": "henry30180@gms.ndhu.edu.tw",
-            "phone": "8906218"
-        },
-        "attachmentCount": 2
     }
 ]
