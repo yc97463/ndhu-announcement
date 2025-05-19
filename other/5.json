@@ -1,5 +1,19 @@
 [
     {
+        "title": "東華電子報 | 2025年04月刊 |",
+        "timestamp": "1746148798",
+        "url": "mail_display.php?timestamp=1746148798",
+        "date": "2025/05/02 09:19",
+        "department": "秘書室公關宣傳組",
+        "author": {
+            "department": "秘書室公關宣傳組",
+            "name": "林佩瑤",
+            "email": "peiyao@gms.ndhu.edu.tw",
+            "phone": "6013"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【藝創系】2025花蓮青年夢想家＆產業專題補助計畫說明會(專業1小時認證)",
         "timestamp": "1746060701",
         "url": "mail_display.php?timestamp=1746060701",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【徵才】國立臺中科技大學114年5月7日辦理2025校園徵才博覽會",
-        "timestamp": "1745914569",
-        "url": "mail_display.php?timestamp=1745914569",
-        "date": "2025/04/29 16:16",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
     }
 ]

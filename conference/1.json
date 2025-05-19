@@ -1,5 +1,19 @@
 [
     {
+        "title": "【English Speech】Topic：Chatbot Buildiig and Authorship Forensic－Dr. Maiga Chang",
+        "timestamp": "1747623549",
+        "url": "mail_display.php?timestamp=1747623549",
+        "date": "2025/05/19 10:59",
+        "department": "資訊工程學系",
+        "author": {
+            "department": "資訊工程學系",
+            "name": "葉助理",
+            "email": "kiki2002@gms.ndhu.edu.tw",
+            "phone": "038905012"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【114年「雙語浪潮」教師社群講座活動】5/21「教育部教學實踐研究計畫撰寫及執行經驗分享──多模態創作專題建構英文讀寫學習歷程之實踐與反思」講座",
         "timestamp": "1747278132",
         "url": "mail_display.php?timestamp=1747278132",
@@ -194,19 +208,5 @@
             "phone": "3157"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【法律學系】專題演講-「媒」那麼簡單—開「冠」你想不到的律師生活",
-        "timestamp": "1746416315",
-        "url": "mail_display.php?timestamp=1746416315",
-        "date": "2025/05/05 11:38",
-        "department": "法律學系",
-        "author": {
-            "department": "法律學系",
-            "name": "陳助教",
-            "email": "meditator@gms.ndhu.edu.tw",
-            "phone": "5662"
-        },
-        "attachmentCount": 2
     }
 ]

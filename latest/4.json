@@ -1,5 +1,61 @@
 [
     {
+        "title": "【活動】《英文學習萬花筒系列講座》第1場：5/22",
+        "timestamp": "1747277931",
+        "url": "mail_display.php?timestamp=1747277931",
+        "date": "2025/05/15 10:58",
+        "department": "語言中心",
+        "author": {
+            "department": "語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【轉知】推廣教育協會辦理「2025年台灣大專校院推廣教育協會從業人員訓練」",
+        "timestamp": "1747277096",
+        "url": "mail_display.php?timestamp=1747277096",
+        "date": "2025/05/15 10:44",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "洪乃慈",
+            "email": "naitzu@gms.ndhu.edu.tw",
+            "phone": "6523"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "114-1 學期 TAICA 開課 東華大學第一次說明會",
+        "timestamp": "1747276586",
+        "url": "mail_display.php?timestamp=1747276586",
+        "date": "2025/05/15 10:36",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳禮凡",
+            "email": "lifan.chen@gms.ndhu.edu.tw",
+            "phone": "038906586"
+        },
+        "attachmentCount": 4
+    },
+    {
+        "title": "【轉知】2025台灣創新技術博覽會「發明競賽」徵展訊息",
+        "timestamp": "1747275228",
+        "url": "mail_display.php?timestamp=1747275228",
+        "date": "2025/05/15 10:13",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "李淑淳",
+            "email": "chun@gms.ndhu.edu.tw",
+            "phone": "6522"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【轉知】敬邀出席經濟部產業發展署「SD6綠色製程-金屬產業低碳製程技術服務機構服務能量登錄」說明會",
         "timestamp": "1747275153",
         "url": "mail_display.php?timestamp=1747275153",
@@ -152,61 +208,5 @@
             "phone": "8906842"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【重要通知】113-2學期應屆畢業生離校領取學位證書公告",
-        "timestamp": "1747210402",
-        "url": "mail_display.php?timestamp=1747210402",
-        "date": "2025/05/14 16:13",
-        "department": "教務處註冊組",
-        "author": {
-            "department": "教務處註冊組",
-            "name": "羅靖雯",
-            "email": "chage2000.tw@gms.ndhu.edu.tw",
-            "phone": "6115"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "✨2025.05.19-05.25國立東華大學 民族語言與傳播學系 114級畢業製作成果展《迴靈》盛大開幕✨",
-        "timestamp": "1747209028",
-        "url": "mail_display.php?timestamp=1747209028",
-        "date": "2025/05/14 15:50",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "璽祐．哈噜咪",
-            "email": "siyu@gms.ndhu.edu.tw",
-            "phone": "5824"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "行政會議 會議紀錄公告通知",
-        "timestamp": "1747207937",
-        "url": "mail_display.php?timestamp=1747207937",
-        "date": "2025/05/14 15:32",
-        "department": "秘書室議事公文組",
-        "author": {
-            "department": "秘書室議事公文組",
-            "name": "陳婉婉",
-            "email": "secretariat@gms.ndhu.edu.tw",
-            "phone": "6004"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "勿開啟來路不明信件（仍在教育部社交工程演練第一階段期間）",
-        "timestamp": "1747206036",
-        "url": "mail_display.php?timestamp=1747206036",
-        "date": "2025/05/14 15:00",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "葉宏達",
-            "email": "honda@gms.ndhu.edu.tw",
-            "phone": "8906747"
-        },
-        "attachmentCount": 1
     }
 ]

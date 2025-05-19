@@ -1,5 +1,47 @@
 [
     {
+        "title": "【Student Dormitory】National Dong Hwa University 113th Academic Year, Second Semester Announcement on End-of-Term Dormitory Closure, Luggage Storage, and Summer Accommodation Operations",
+        "timestamp": "1747620901",
+        "url": "mail_display.php?timestamp=1747620901",
+        "date": "2025/05/19 10:15",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "鍾佩玲",
+            "email": "free22011@gms.ndhu.edu.tw",
+            "phone": "03890-6217"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【學生宿舍】國立東華大學113學年度第二學期學生宿舍【期末閉宿暨行李寄放及暑期住宿】作業公告",
+        "timestamp": "1747620738",
+        "url": "mail_display.php?timestamp=1747620738",
+        "date": "2025/05/19 10:12",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "鍾佩玲",
+            "email": "free22011@gms.ndhu.edu.tw",
+            "phone": "03890-6217"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【學生宿舍】113-2學期離校手續單一窗口宿舍部分作業說明 【Student Dormitory】 Explanation of dormitory-related procedures at the Departure Procedures Contact for the 113-2 Semester",
+        "timestamp": "1747620568",
+        "url": "mail_display.php?timestamp=1747620568",
+        "date": "2025/05/19 10:09",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳怡秀",
+            "email": "yishoue@gms.ndhu.edu.tw",
+            "phone": "6232"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【公告】114/5/13行政院院授主預字第1140101390號函，修正「國外出差旅費報支要點」部分規定，自115年1月1日起生效",
         "timestamp": "1747619511",
         "url": "mail_display.php?timestamp=1747619511",
@@ -166,47 +208,5 @@
             "phone": "6004"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【課務組通知】各學制學生114-1課程初選事宜  Preliminary Course Selection for Next Semester",
-        "timestamp": "1747188344",
-        "url": "mail_display.php?timestamp=1747188344",
-        "date": "2025/05/14 10:05",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "utd1003@gms.ndhu.edu.tw",
-            "phone": "6122-6126"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【更正公告】學人宿舍區樹木修剪作業。",
-        "timestamp": "1747186158",
-        "url": "mail_display.php?timestamp=1747186158",
-        "date": "2025/05/14 09:29",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "賴宜萱",
-            "email": "lai0210@gms.ndhu.edu.tw",
-            "phone": "6393"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "本校教學區將於114年5月22日至5月23日進行病媒蚊防治消毒作業，敬請配合。Mosquito-Borne Disease Prevention and Disinfection in the Academic Area on May 22nd and 23rd, 2025",
-        "timestamp": "1747185908",
-        "url": "mail_display.php?timestamp=1747185908",
-        "date": "2025/05/14 09:25",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "許智翔",
-            "email": "cocco3746@gms.ndhu.edu.tw",
-            "phone": "03-8906399"
-        },
-        "attachmentCount": 0
     }
 ]
