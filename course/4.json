@@ -1,5 +1,19 @@
 [
     {
+        "title": "【教務處通知】113全學年專任教師授課時數確認通知（請於5月23日前完成）",
+        "timestamp": "1744696890",
+        "url": "mail_display.php?timestamp=1744696890",
+        "date": "2025/04/15 14:01",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "陳君如",
+            "email": "ju@gms.ndhu.edu.tw",
+            "phone": "6124"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "諮商中心資源教室：【身心障礙者就業資源盤點與就業成功經驗分享講座】",
         "timestamp": "1744679630",
         "url": "mail_display.php?timestamp=1744679630",
@@ -194,19 +208,5 @@
             "phone": "6613"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【課務組通知】授課教師可列印113-2學期選課確認名單",
-        "timestamp": "1742181445",
-        "url": "mail_display.php?timestamp=1742181445",
-        "date": "2025/03/17 11:17",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "utd1003@gms.ndhu.edu.tw",
-            "phone": "6122-6126"
-        },
-        "attachmentCount": 0
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "【Rikec法學衝刺班】 報名進行中！",
+        "timestamp": "1746004235",
+        "url": "mail_display.php?timestamp=1746004235",
+        "date": "2025/04/30 17:10",
+        "department": "法律學系",
+        "author": {
+            "department": "法律學系",
+            "name": "Galaigai Cavalje 高蘇恩",
+            "email": "galaigai@gms.ndhu.edu.tw",
+            "phone": "890-5663"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "加開假日瑜珈推廣班",
         "timestamp": "1745846535",
         "url": "mail_display.php?timestamp=1745846535",
@@ -192,20 +206,6 @@
             "name": "何振揚",
             "email": "cyang@gms.ndhu.edu.tw",
             "phone": "6746"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【教務處通知】113全學年專任教師授課時數確認通知（請於5月23日前完成）",
-        "timestamp": "1744696890",
-        "url": "mail_display.php?timestamp=1744696890",
-        "date": "2025/04/15 14:01",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "陳君如",
-            "email": "ju@gms.ndhu.edu.tw",
-            "phone": "6124"
         },
         "attachmentCount": 0
     }

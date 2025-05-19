@@ -1,5 +1,19 @@
 [
     {
+        "title": "【課務組通知】授課教師可列印113-2學期選課確認名單",
+        "timestamp": "1742181445",
+        "url": "mail_display.php?timestamp=1742181445",
+        "date": "2025/03/17 11:17",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【課務組】 114年度暑期課程調查通知",
         "timestamp": "1741930302",
         "url": "mail_display.php?timestamp=1741930302",
@@ -194,19 +208,5 @@
             "phone": "8906607"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【課務組通知】113-2加退選後課程確認及加簽作業(2/27-3/7) Course Confirm Online and Add Course Requests (Feb. 27-Mar. 7)",
-        "timestamp": "1740469830",
-        "url": "mail_display.php?timestamp=1740469830",
-        "date": "2025/02/25 15:50",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "utd1003@gms.ndhu.edu.tw",
-            "phone": "6122-6126"
-        },
-        "attachmentCount": 0
     }
 ]
