@@ -1,5 +1,19 @@
 [
     {
+        "title": "【國立東華大學113學年度畢業典禮】敬邀出席🎉 [National Dong Hwa University 2025 Graduation Ceremony] Invitation to attend🎉",
+        "timestamp": "1747654958",
+        "url": "mail_display.php?timestamp=1747654958",
+        "date": "2025/05/19 19:42",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "溫小姐",
+            "email": "fengting0804@gms.ndhu.edu.tw",
+            "phone": "6282"
+        },
+        "attachmentCount": 6
+    },
+    {
         "title": "花蓮縣綠能永續廉政工作坊",
         "timestamp": "1747647540",
         "url": "mail_display.php?timestamp=1747647540",
@@ -194,19 +208,5 @@
             "phone": "8906252"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【kitjaula | 從土地長出來的祝福】法專第五屆畢業典禮暨成年禮系列活動",
-        "timestamp": "1747362652",
-        "url": "mail_display.php?timestamp=1747362652",
-        "date": "2025/05/16 10:30",
-        "department": "法律學系",
-        "author": {
-            "department": "法律學系",
-            "name": "Galaigai Cavalje 高蘇恩",
-            "email": "galaigai@gms.ndhu.edu.tw",
-            "phone": "038905663"
-        },
-        "attachmentCount": 4
     }
 ]

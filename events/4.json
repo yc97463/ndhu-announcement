@@ -1,5 +1,19 @@
 [
     {
+        "title": "【企管系暨運籌所】113-2 Language Lounge-Cultural Food Exchange(第七場)",
+        "timestamp": "1747180507",
+        "url": "mail_display.php?timestamp=1747180507",
+        "date": "2025/05/14 07:55",
+        "department": "管理學院 企業管理學系",
+        "author": {
+            "department": "管理學院 企業管理學系",
+            "name": "陳雅芳",
+            "email": "mayachen@gms.ndhu.edu.tw",
+            "phone": "3162"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【企管系暨運籌所】113-2 Language Lounge-Group Painting Session(第六場)",
         "timestamp": "1747180506",
         "url": "mail_display.php?timestamp=1747180506",
@@ -192,20 +206,6 @@
             "name": "林淑玲",
             "email": "shuling@gms.ndhu.edu.tw",
             "phone": "8903204"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【專題演講】5/16(五)_AI以及數據科學在金融信用風險與個人貸款徵信的應用",
-        "timestamp": "1747094108",
-        "url": "mail_display.php?timestamp=1747094108",
-        "date": "2025/05/13 07:55",
-        "department": "理工學院 電機工程學系",
-        "author": {
-            "department": "理工學院 電機工程學系",
-            "name": "邱昭儒",
-            "email": "senorita@gms.ndhu.edu.tw",
-            "phone": "5063"
         },
         "attachmentCount": 0
     }
