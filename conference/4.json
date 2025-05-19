@@ -1,5 +1,19 @@
 [
     {
+        "title": "【財金系專題演講】4/11(五)14:00~16:00 Financial and Market Risks of Bitcoin Adoption as Legal Tender: Evidence from El Salvado",
+        "timestamp": "1744091787",
+        "url": "mail_display.php?timestamp=1744091787",
+        "date": "2025/04/08 13:56",
+        "department": "財務金融學系",
+        "author": {
+            "department": "財務金融學系",
+            "name": "林役霜",
+            "email": "ys012@gms.ndhu.edu.tw",
+            "phone": "3133"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "2025花蓮 HSH 黑客松｜東華校園培力課程即將在4/14舉辦！",
         "timestamp": "1744004140",
         "url": "mail_display.php?timestamp=1744004140",
@@ -194,19 +208,5 @@
             "phone": "5323"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【創業基礎班】2025創業基礎系列課程",
-        "timestamp": "1741521125",
-        "url": "mail_display.php?timestamp=1741521125",
-        "date": "2025/03/09 19:52",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "吳其璁",
-            "email": "dci93031@gms.ndhu.edu.tw",
-            "phone": "03-8903687"
-        },
-        "attachmentCount": 4
     }
 ]
