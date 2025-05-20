@@ -1,5 +1,19 @@
 [
     {
+        "title": "【學生宿舍】113-2學期離校手續單一窗口宿舍部分作業說明 【Student Dormitory】 Explanation of dormitory-related procedures at the Departure Procedures Contact for the 113-2 Semester",
+        "timestamp": "1747620568",
+        "url": "mail_display.php?timestamp=1747620568",
+        "date": "2025/05/19 10:09",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳怡秀",
+            "email": "yishoue@gms.ndhu.edu.tw",
+            "phone": "6232"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【公告】114/5/13行政院院授主預字第1140101390號函，修正「國外出差旅費報支要點」部分規定，自115年1月1日起生效",
         "timestamp": "1747619511",
         "url": "mail_display.php?timestamp=1747619511",
@@ -194,19 +208,5 @@
             "phone": "3632"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【徵才】臺中市政府勞工局114年5月23日辦理「富市台中 就業成功」北屯區聯合徵才",
-        "timestamp": "1747396597",
-        "url": "mail_display.php?timestamp=1747396597",
-        "date": "2025/05/16 19:56",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
     }
 ]
