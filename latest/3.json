@@ -1,5 +1,19 @@
 [
     {
+        "title": "【English Speech】Topic：Chatbot Buildiig and Authorship Forensic－Dr. Maiga Chang",
+        "timestamp": "1747623549",
+        "url": "mail_display.php?timestamp=1747623549",
+        "date": "2025/05/19 10:59",
+        "department": "資訊工程學系",
+        "author": {
+            "department": "資訊工程學系",
+            "name": "葉助理",
+            "email": "kiki2002@gms.ndhu.edu.tw",
+            "phone": "038905012"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【Student Dormitory】National Dong Hwa University 113th Academic Year, Second Semester Announcement on End-of-Term Dormitory Closure, Luggage Storage, and Summer Accommodation Operations",
         "timestamp": "1747620901",
         "url": "mail_display.php?timestamp=1747620901",
@@ -194,19 +208,5 @@
             "phone": "03-8906219"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "協助國際事務中心場地整理",
-        "timestamp": "1747439703",
-        "url": "mail_display.php?timestamp=1747439703",
-        "date": "2025/05/17 07:55",
-        "department": "管理學院 管理科學與財金國際學士學位學程",
-        "author": {
-            "department": "管理學院 管理科學與財金國際學士學位學程",
-            "name": "蔡雨倫",
-            "email": "tsaiyulun@gms.ndhu.edu.tw",
-            "phone": "03-8903006"
-        },
-        "attachmentCount": 0
     }
 ]

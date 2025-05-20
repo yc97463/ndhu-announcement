@@ -1,5 +1,19 @@
 [
     {
+        "title": "【週四法語角】113-2 French Lunch Hour 法文午餐會話時間 5/29 第10場 Session 10",
+        "timestamp": "1747698902",
+        "url": "mail_display.php?timestamp=1747698902",
+        "date": "2025/05/20 07:55",
+        "department": "洄瀾學院 語言中心",
+        "author": {
+            "department": "洄瀾學院 語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【國立東華大學113學年度畢業典禮】敬邀出席🎉 [National Dong Hwa University 2025 Graduation Ceremony] Invitation to attend🎉",
         "timestamp": "1747654958",
         "url": "mail_display.php?timestamp=1747654958",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【English Speech】Topic：Chatbot Buildiig and Authorship Forensic－Dr. Maiga Chang",
-        "timestamp": "1747623549",
-        "url": "mail_display.php?timestamp=1747623549",
-        "date": "2025/05/19 10:59",
-        "department": "資訊工程學系",
-        "author": {
-            "department": "資訊工程學系",
-            "name": "葉助理",
-            "email": "kiki2002@gms.ndhu.edu.tw",
-            "phone": "038905012"
-        },
-        "attachmentCount": 4
     }
 ]

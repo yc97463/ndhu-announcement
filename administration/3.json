@@ -1,5 +1,19 @@
 [
     {
+        "title": "勞動部訂定「身心障礙者職場合理調整行政指導」並自114年7月1日生效。",
+        "timestamp": "1747024666",
+        "url": "mail_display.php?timestamp=1747024666",
+        "date": "2025/05/12 12:37",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "林淑惠",
+            "email": "linsh@gms.ndhu.edu.tw",
+            "phone": "038906059"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【教務處公告】提醒任課教師於期末選課前(114/5/26)維護是否公開成績分佈圖功能",
         "timestamp": "1747019625",
         "url": "mail_display.php?timestamp=1747019625",
@@ -194,19 +208,5 @@
             "phone": "03-8906113--6116"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "原民院C棟圓形(羅馬)廣場關燈公告",
-        "timestamp": "1746597116",
-        "url": "mail_display.php?timestamp=1746597116",
-        "date": "2025/05/07 13:51",
-        "department": "原住民族樂舞與藝術學士學位學程",
-        "author": {
-            "department": "原住民族樂舞與藝術學士學位學程",
-            "name": "王小姐",
-            "email": "ypwang@gms.ndhu.edu.tw",
-            "phone": "03-8905754"
-        },
-        "attachmentCount": 0
     }
 ]
