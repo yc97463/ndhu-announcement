@@ -1,5 +1,19 @@
 [
     {
+        "title": "【轉知】政治大學「圖書資訊學數位碩士在職專班」114學年度招生訊息",
+        "timestamp": "1733204477",
+        "url": "mail_display.php?timestamp=1733204477",
+        "date": "2024/12/03 13:41",
+        "department": "圖書資訊處",
+        "author": {
+            "department": "圖書資訊處",
+            "name": "周小萍",
+            "email": "hedy@gms.ndhu.edu.tw",
+            "phone": "8906852"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【113-1 專A微課程】報名倒數🤩囉！想做專案但不知道從何下手? 快點擊內文連結🔗",
         "timestamp": "1731825370",
         "url": "mail_display.php?timestamp=1731825370",
@@ -194,19 +208,5 @@
             "phone": "8906607"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "📢113-1 教育大數據微學程實務課推廣📢",
-        "timestamp": "1726152203",
-        "url": "mail_display.php?timestamp=1726152203",
-        "date": "2024/09/12 22:43",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "黃小姐",
-            "email": "chinghua@gms.ndhu.edu.tw",
-            "phone": "6579"
-        },
-        "attachmentCount": 3
     }
 ]

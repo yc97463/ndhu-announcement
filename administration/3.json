@@ -1,5 +1,33 @@
 [
     {
+        "title": "【教務處公告】提醒任課教師於期末選課前(114/5/26)維護是否公開成績分佈圖功能",
+        "timestamp": "1747019625",
+        "url": "mail_display.php?timestamp=1747019625",
+        "date": "2025/05/12 11:13",
+        "department": "教務處註冊組",
+        "author": {
+            "department": "教務處註冊組",
+            "name": "莊珆芸專員",
+            "email": "registration@gms.ndhu.edu.tw",
+            "phone": "03-8906113--6116"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【課務組】期末「教學意見調查表」系統將自5月18日(日)起開放，完成填答的同學將有機會獲得兩百元超商禮券!  NDHU Teaching Feedback System will open on May 18. Students who filled out the feedback will enter a lucky draw for the chance of winning a NTD$200 gift certificate!",
+        "timestamp": "1747019051",
+        "url": "mail_display.php?timestamp=1747019051",
+        "date": "2025/05/12 11:04",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "辦理113-2學年【學生獎懲】作業通知(Notice of 113-2 Student Honor and Disciplinary)",
         "timestamp": "1747018736",
         "url": "mail_display.php?timestamp=1747018736",
@@ -178,34 +206,6 @@
             "name": "王小姐",
             "email": "ypwang@gms.ndhu.edu.tw",
             "phone": "03-8905754"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "請老師參考經濟部智慧財產局提供「教師授課著作權錦囊」之宣導資料",
-        "timestamp": "1746590333",
-        "url": "mail_display.php?timestamp=1746590333",
-        "date": "2025/05/07 11:58",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "陳惠汝",
-            "email": "richel@gms.ndhu.edu.tw",
-            "phone": "6725"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【圖書館公告】【114.05.10-11 (六、日)】休館二日，因配合本校學生會辦理「洄潮計畫音樂祭」大型活動！Library will be Closed on MAY 10-11, 2025.",
-        "timestamp": "1746581731",
-        "url": "mail_display.php?timestamp=1746581731",
-        "date": "2025/05/07 09:35",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "詹依萍",
-            "email": "ipchan@gms.ndhu.edu.tw",
-            "phone": "6813"
         },
         "attachmentCount": 0
     }

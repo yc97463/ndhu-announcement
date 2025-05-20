@@ -1,5 +1,131 @@
 [
     {
+        "title": "今晚19點【在聲中行旅】國立東華大學音樂學系教授聯合音樂會",
+        "timestamp": "1747704130",
+        "url": "mail_display.php?timestamp=1747704130",
+        "date": "2025/05/20 09:22",
+        "department": "音樂學系",
+        "author": {
+            "department": "音樂學系",
+            "name": "張純倩",
+            "email": "asd963741@gms.ndhu.edu.tw",
+            "phone": "03-8905168"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "【Forward 協助轉知】「2025 ESG不動產淨零管理師」研習會",
+        "timestamp": "1747701560",
+        "url": "mail_display.php?timestamp=1747701560",
+        "date": "2025/05/20 08:39",
+        "department": "永續發展中心",
+        "author": {
+            "department": "永續發展中心",
+            "name": "李莉莉 Li-Li Lee",
+            "email": "sd@gms.ndhu.edu.tw",
+            "phone": "03-890-5920"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "東華大學秋野芒劇團公益巡演【山海戲旅系列通識課程】表單重新開放，招生中!!",
+        "timestamp": "1747701386",
+        "url": "mail_display.php?timestamp=1747701386",
+        "date": "2025/05/20 08:36",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "蔡文潔助理",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "0905-737192"
+        },
+        "attachmentCount": 5
+    },
+    {
+        "title": "(資工系)校友講座－114/06/02(一) 張閎傑 校友(學士班第17屆畢業)",
+        "timestamp": "1747698907",
+        "url": "mail_display.php?timestamp=1747698907",
+        "date": "2025/05/20 07:55",
+        "department": "理工學院 資訊工程學系",
+        "author": {
+            "department": "理工學院 資訊工程學系",
+            "name": "葉子綺",
+            "email": "kiki2002@gms.ndhu.edu.tw",
+            "phone": "5012"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【專題演講】5/23(五)_智能聲浪：AI重塑資訊傳播與輿情監測新戰場",
+        "timestamp": "1747698906",
+        "url": "mail_display.php?timestamp=1747698906",
+        "date": "2025/05/20 07:55",
+        "department": "理工學院 電機工程學系",
+        "author": {
+            "department": "理工學院 電機工程學系",
+            "name": "邱昭儒",
+            "email": "senorita@gms.ndhu.edu.tw",
+            "phone": "5063"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【學習與創意講座】有勇氣過自己想過的生活",
+        "timestamp": "1747698905",
+        "url": "mail_display.php?timestamp=1747698905",
+        "date": "2025/05/20 07:55",
+        "department": "教學卓越中心 教學與學習組",
+        "author": {
+            "department": "教學卓越中心 教學與學習組",
+            "name": "方紀蘋",
+            "email": "viya@gms.ndhu.edu.tw",
+            "phone": "6593"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113-2 ESP Lunch Gathering 第3場 Session 3：5/28",
+        "timestamp": "1747698904",
+        "url": "mail_display.php?timestamp=1747698904",
+        "date": "2025/05/20 07:55",
+        "department": "洄瀾學院 語言中心",
+        "author": {
+            "department": "洄瀾學院 語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【English Speech】Topic：Chatbot Buildiig and Authorship Forensic－Dr. Maiga Chang",
+        "timestamp": "1747698903",
+        "url": "mail_display.php?timestamp=1747698903",
+        "date": "2025/05/20 07:55",
+        "department": "理工學院 資訊工程學系",
+        "author": {
+            "department": "理工學院 資訊工程學系",
+            "name": "葉子綺",
+            "email": "kiki2002@gms.ndhu.edu.tw",
+            "phone": "5012"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【週四法語角】113-2 French Lunch Hour 法文午餐會話時間 5/29 第10場 Session 10",
+        "timestamp": "1747698902",
+        "url": "mail_display.php?timestamp=1747698902",
+        "date": "2025/05/20 07:55",
+        "department": "洄瀾學院 語言中心",
+        "author": {
+            "department": "洄瀾學院 語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【國立東華大學113學年度畢業典禮】敬邀出席🎉 [National Dong Hwa University 2025 Graduation Ceremony] Invitation to attend🎉",
         "timestamp": "1747654958",
         "url": "mail_display.php?timestamp=1747654958",
@@ -82,131 +208,5 @@
             "phone": "5107"
         },
         "attachmentCount": 7
-    },
-    {
-        "title": "【English Speech】Topic：Chatbot Buildiig and Authorship Forensic－Dr. Maiga Chang",
-        "timestamp": "1747623549",
-        "url": "mail_display.php?timestamp=1747623549",
-        "date": "2025/05/19 10:59",
-        "department": "資訊工程學系",
-        "author": {
-            "department": "資訊工程學系",
-            "name": "葉助理",
-            "email": "kiki2002@gms.ndhu.edu.tw",
-            "phone": "038905012"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "國立東華大學113學年度第2學期 通識教育中心 推廣教育 「人物肖像似顏繪創作坊」非學分班招生簡章",
-        "timestamp": "1747614518",
-        "url": "mail_display.php?timestamp=1747614518",
-        "date": "2025/05/19 08:28",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "【活動】113-2 Lunchtime Chats! 午餐英語會話時間！！2025 Spring",
-        "timestamp": "1747577010",
-        "url": "mail_display.php?timestamp=1747577010",
-        "date": "2025/05/18 22:03",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "電影欣賞:龍馬精神",
-        "timestamp": "1747526101",
-        "url": "mail_display.php?timestamp=1747526101",
-        "date": "2025/05/18 07:55",
-        "department": "圖書資訊處 圖資服務組",
-        "author": {
-            "department": "圖書資訊處 圖資服務組",
-            "name": "廖銘珠",
-            "email": "min-judy@gms.ndhu.edu.tw",
-            "phone": "6855"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "協助國際事務中心場地整理",
-        "timestamp": "1747439703",
-        "url": "mail_display.php?timestamp=1747439703",
-        "date": "2025/05/17 07:55",
-        "department": "管理學院 管理科學與財金國際學士學位學程",
-        "author": {
-            "department": "管理學院 管理科學與財金國際學士學位學程",
-            "name": "蔡雨倫",
-            "email": "tsaiyulun@gms.ndhu.edu.tw",
-            "phone": "03-8903006"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "民族語言與傳播學系114級畢業製作成果展(限工作人員)",
-        "timestamp": "1747439702",
-        "url": "mail_display.php?timestamp=1747439702",
-        "date": "2025/05/17 07:55",
-        "department": "原住民民族學院 民族語言與傳播學系",
-        "author": {
-            "department": "原住民民族學院 民族語言與傳播學系",
-            "name": "璽祐.哈?咪",
-            "email": "siyu@gms.ndhu.edu.tw",
-            "phone": "5824"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "生醫系5/23(週五)專題講座公告，歡迎踴躍參加~~",
-        "timestamp": "1747439701",
-        "url": "mail_display.php?timestamp=1747439701",
-        "date": "2025/05/17 07:55",
-        "department": "理工學院 生化暨分子醫學科學系",
-        "author": {
-            "department": "理工學院 生化暨分子醫學科學系",
-            "name": "元淑英",
-            "email": "syyuan@gms.ndhu.edu.tw",
-            "phone": "3632"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "🎉113學年度畢業典禮🎊事前報名且當日全程參與，享有Apple好禮抽獎資格🎁🎉2025 Graduation Ceremony 🎉 Register in advance and participate throughout the entire event to be eligible for the Apple prize draw!",
-        "timestamp": "1747395832",
-        "url": "mail_display.php?timestamp=1747395832",
-        "date": "2025/05/16 19:43",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "溫小姐",
-            "email": "fengting0804@gms.ndhu.edu.tw",
-            "phone": "6282"
-        },
-        "attachmentCount": 5
-    },
-    {
-        "title": "🐰東兔團隊招募說明會~獎學金\u0026時數一把抓~一起打造最有創意大學生活吧💕 ",
-        "timestamp": "1747388673",
-        "url": "mail_display.php?timestamp=1747388673",
-        "date": "2025/05/16 17:44",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "吳星穎",
-            "email": "carmier@gms.ndhu.edu.tw",
-            "phone": "8906252"
-        },
-        "attachmentCount": 3
     }
 ]
