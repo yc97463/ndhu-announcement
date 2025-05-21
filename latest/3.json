@@ -1,5 +1,33 @@
 [
     {
+        "title": "2025年端午節連續假期垃圾清運時間調整，敬請留意。Adjustment of Garbage Collection Schedule during the 2025 Dragon Boat Festival Long Weekend",
+        "timestamp": "1747700068",
+        "url": "mail_display.php?timestamp=1747700068",
+        "date": "2025/05/20 08:14",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "許智翔",
+            "email": "cocco3746@gms.ndhu.edu.tw",
+            "phone": "038906399"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "(資工系)校友講座－114/06/02(一) 張閎傑 校友(學士班第17屆畢業)",
+        "timestamp": "1747698907",
+        "url": "mail_display.php?timestamp=1747698907",
+        "date": "2025/05/20 07:55",
+        "department": "理工學院 資訊工程學系",
+        "author": {
+            "department": "理工學院 資訊工程學系",
+            "name": "葉子綺",
+            "email": "kiki2002@gms.ndhu.edu.tw",
+            "phone": "5012"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【專題演講】5/23(五)_智能聲浪：AI重塑資訊傳播與輿情監測新戰場",
         "timestamp": "1747698906",
         "url": "mail_display.php?timestamp=1747698906",
@@ -180,33 +208,5 @@
             "phone": "6061"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【學習與創意講座】有勇氣過自己想過的生活(6/6)",
-        "timestamp": "1747639109",
-        "url": "mail_display.php?timestamp=1747639109",
-        "date": "2025/05/19 15:18",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "方紀蘋",
-            "email": "viya@gms.ndhu.edu.tw",
-            "phone": "6593"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "Zongzi / Rice dumplings DIY",
-        "timestamp": "1747638266",
-        "url": "mail_display.php?timestamp=1747638266",
-        "date": "2025/05/19 15:04",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "洄瀾共好大學社會責任中心",
-            "email": "techusr@gms.ndhu.edu.tw",
-            "phone": "038903771"
-        },
-        "attachmentCount": 2
     }
 ]
