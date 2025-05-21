@@ -1,5 +1,19 @@
 [
     {
+        "title": "【專題演講】5/23(五)_智能聲浪：AI重塑資訊傳播與輿情監測新戰場",
+        "timestamp": "1747698906",
+        "url": "mail_display.php?timestamp=1747698906",
+        "date": "2025/05/20 07:55",
+        "department": "理工學院 電機工程學系",
+        "author": {
+            "department": "理工學院 電機工程學系",
+            "name": "邱昭儒",
+            "email": "senorita@gms.ndhu.edu.tw",
+            "phone": "5063"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【學習與創意講座】有勇氣過自己想過的生活",
         "timestamp": "1747698905",
         "url": "mail_display.php?timestamp=1747698905",
@@ -194,19 +208,5 @@
             "phone": "038903771"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "東華夜市最終場 即將登場！",
-        "timestamp": "1747637462",
-        "url": "mail_display.php?timestamp=1747637462",
-        "date": "2025/05/19 14:51",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "姜紫淇",
-            "email": "yaya@gms.ndhu.edu.tw",
-            "phone": "03-8906235"
-        },
-        "attachmentCount": 5
     }
 ]
