@@ -1,5 +1,19 @@
 [
     {
+        "title": "【保管組公告】廢品借用通知暨報廢傢俱一物一拍作業",
+        "timestamp": "1747615911",
+        "url": "mail_display.php?timestamp=1747615911",
+        "date": "2025/05/19 08:51",
+        "department": "總務處保管組",
+        "author": {
+            "department": "總務處保管組",
+            "name": "林慧濘",
+            "email": "maya70@gms.ndhu.edu.tw",
+            "phone": "8906344"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "國立東華大學113學年度第2學期 通識教育中心 推廣教育 「人物肖像似顏繪創作坊」非學分班招生簡章",
         "timestamp": "1747614518",
         "url": "mail_display.php?timestamp=1747614518",
@@ -194,19 +208,5 @@
             "phone": "8906252"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【事務組公告】本校停車場電動車充電樁施工說明",
-        "timestamp": "1747383399",
-        "url": "mail_display.php?timestamp=1747383399",
-        "date": "2025/05/16 16:16",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "許紹峯",
-            "email": "hsf113@gms.ndhu.edu.tw",
-            "phone": "03-8906314"
-        },
-        "attachmentCount": 2
     }
 ]
