@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】花蓮縣玉里國小教育基金會114年度獎助學金 (限該校校友且為低或中低收)",
+        "timestamp": "1747700907",
+        "url": "mail_display.php?timestamp=1747700907",
+        "date": "2025/05/20 08:28",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "2025年端午節連續假期垃圾清運時間調整，敬請留意。Adjustment of Garbage Collection Schedule during the 2025 Dragon Boat Festival Long Weekend",
         "timestamp": "1747700068",
         "url": "mail_display.php?timestamp=1747700068",
@@ -194,19 +208,5 @@
             "phone": "890-6056"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "【公告】戴興盛教授自114年8月1日起新任本校環境暨海洋學院院長",
-        "timestamp": "1747640896",
-        "url": "mail_display.php?timestamp=1747640896",
-        "date": "2025/05/19 15:48",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "楊惠雯",
-            "email": "hwyang@gms.ndhu.edu.tw",
-            "phone": "6061"
-        },
-        "attachmentCount": 0
     }
 ]

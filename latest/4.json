@@ -1,5 +1,19 @@
 [
     {
+        "title": "【公告】戴興盛教授自114年8月1日起新任本校環境暨海洋學院院長",
+        "timestamp": "1747640896",
+        "url": "mail_display.php?timestamp=1747640896",
+        "date": "2025/05/19 15:48",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "楊惠雯",
+            "email": "hwyang@gms.ndhu.edu.tw",
+            "phone": "6061"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【學習與創意講座】有勇氣過自己想過的生活(6/6)",
         "timestamp": "1747639109",
         "url": "mail_display.php?timestamp=1747639109",
@@ -194,19 +208,5 @@
             "phone": "8906607"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
-        "timestamp": "1747613999",
-        "url": "mail_display.php?timestamp=1747613999",
-        "date": "2025/05/19 08:19",
-        "department": "圖書資訊處校務系統組",
-        "author": {
-            "department": "圖書資訊處校務系統組",
-            "name": "林志軒",
-            "email": "chshlin@gms.ndhu.edu.tw",
-            "phone": "6752"
-        },
-        "attachmentCount": 0
     }
 ]
