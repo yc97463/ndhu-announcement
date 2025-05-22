@@ -1,5 +1,19 @@
 [
     {
+        "title": "114-1社會創新課程公告",
+        "timestamp": "1747895624",
+        "url": "mail_display.php?timestamp=1747895624",
+        "date": "2025/05/22 14:33",
+        "department": "社會學系",
+        "author": {
+            "department": "社會學系",
+            "name": "社會系",
+            "email": "nancyya@gms.ndhu.edu.tw",
+            "phone": "5582"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】慈暉文教基金會114年大學以上優秀清寒學生獎學金 (限籍台北市或新北市低收或中低收)",
         "timestamp": "1747892119",
         "url": "mail_display.php?timestamp=1747892119",
@@ -194,19 +208,5 @@
             "phone": "6329"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "113-2「Dongto東兔系列活動-VR異次元大冒險」🎮沉浸式狂歡來襲🎮，趕快來報名!!",
-        "timestamp": "1747815158",
-        "url": "mail_display.php?timestamp=1747815158",
-        "date": "2025/05/21 16:12",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "郭舒羽",
-            "email": "hdoion@gms.ndhu.edu.tw",
-            "phone": "038906284"
-        },
-        "attachmentCount": 2
     }
 ]
