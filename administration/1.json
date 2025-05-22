@@ -1,5 +1,19 @@
 [
     {
+        "title": "114年教職員工消防演練公告。",
+        "timestamp": "1747883470",
+        "url": "mail_display.php?timestamp=1747883470",
+        "date": "2025/05/22 11:11",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "賴名塑",
+            "email": "a54604@gms.ndhu.edu.tw",
+            "phone": "8906378"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【新航之舟】新生輪轉工作坊招募  一同迎新生",
         "timestamp": "1747871823",
         "url": "mail_display.php?timestamp=1747871823",
@@ -194,19 +208,5 @@
             "phone": "(03)8906079"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【防制校園詐騙宣導通報】-114年5月20日",
-        "timestamp": "1747617803",
-        "url": "mail_display.php?timestamp=1747617803",
-        "date": "2025/05/19 09:23",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "吳昭毅",
-            "email": "wuyi12831@gms.ndhu.edu.tw",
-            "phone": "038906228"
-        },
-        "attachmentCount": 0
     }
 ]
