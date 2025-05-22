@@ -1,5 +1,19 @@
 [
     {
+        "title": "【國立東華大學113學年度畢業典禮】敬邀出席🎉 [National Dong Hwa University 2025 Graduation Ceremony] Invitation to attend🎉",
+        "timestamp": "1747654958",
+        "url": "mail_display.php?timestamp=1747654958",
+        "date": "2025/05/19 19:42",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "溫小姐",
+            "email": "fengting0804@gms.ndhu.edu.tw",
+            "phone": "6282"
+        },
+        "attachmentCount": 6
+    },
+    {
         "title": "花蓮縣綠能永續廉政工作坊",
         "timestamp": "1747647540",
         "url": "mail_display.php?timestamp=1747647540",
@@ -194,19 +208,5 @@
             "phone": "038905012"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【Student Dormitory】National Dong Hwa University 113th Academic Year, Second Semester Announcement on End-of-Term Dormitory Closure, Luggage Storage, and Summer Accommodation Operations",
-        "timestamp": "1747620901",
-        "url": "mail_display.php?timestamp=1747620901",
-        "date": "2025/05/19 10:15",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "鍾佩玲",
-            "email": "free22011@gms.ndhu.edu.tw",
-            "phone": "03890-6217"
-        },
-        "attachmentCount": 2
     }
 ]
