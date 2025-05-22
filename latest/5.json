@@ -1,5 +1,19 @@
 [
     {
+        "title": "Zongzi / Rice dumplings DIY",
+        "timestamp": "1747638266",
+        "url": "mail_display.php?timestamp=1747638266",
+        "date": "2025/05/19 15:04",
+        "department": "管理學院",
+        "author": {
+            "department": "管理學院",
+            "name": "洄瀾共好大學社會責任中心",
+            "email": "techusr@gms.ndhu.edu.tw",
+            "phone": "038903771"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "東華夜市最終場 即將登場！",
         "timestamp": "1747637462",
         "url": "mail_display.php?timestamp=1747637462",
@@ -194,19 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【課務組】今日下午起北迴線因強降雨致暫時中斷，受影響之師生，明日（5/19）課程請彈性處理。",
-        "timestamp": "1747567570",
-        "url": "mail_display.php?timestamp=1747567570",
-        "date": "2025/05/18 19:26",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "utd1003@gms.ndhu.edu.tw",
-            "phone": "6122~6126"
-        },
-        "attachmentCount": 0
     }
 ]
