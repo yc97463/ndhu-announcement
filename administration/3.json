@@ -1,5 +1,19 @@
 [
     {
+        "title": "【資安公告】資安時數提醒",
+        "timestamp": "1747125626",
+        "url": "mail_display.php?timestamp=1747125626",
+        "date": "2025/05/13 16:40",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "趙心榆",
+            "email": "vsychao@gms.ndhu.edu.tw",
+            "phone": "6722"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "國立東華大學師資培育中心徵聘地方教育輔導組職務代理人(第二次公告)",
         "timestamp": "1747121677",
         "url": "mail_display.php?timestamp=1747121677",
@@ -194,19 +208,5 @@
             "phone": "6743"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【菸害防制宣導】轉知衛生福利部國民健康署建置之電子菸及加熱式菸品危害主題專區",
-        "timestamp": "1746690791",
-        "url": "mail_display.php?timestamp=1746690791",
-        "date": "2025/05/08 15:53",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 2
     }
 ]
