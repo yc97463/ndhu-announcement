@@ -1,5 +1,33 @@
 [
     {
+        "title": "【徵才】國立東華大學國際事務處徵聘助理2名 (收件截止：6/3) ",
+        "timestamp": "1747902568",
+        "url": "mail_display.php?timestamp=1747902568",
+        "date": "2025/05/22 16:29",
+        "department": "國際事務處",
+        "author": {
+            "department": "國際事務處",
+            "name": "劉力綺",
+            "email": "cheerio@gms.ndhu.edu.tw",
+            "phone": "5109"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "國立東華大學社會責任行動中心誠徵計畫助理一名",
+        "timestamp": "1747897446",
+        "url": "mail_display.php?timestamp=1747897446",
+        "date": "2025/05/22 15:04",
+        "department": "管理學院",
+        "author": {
+            "department": "管理學院",
+            "name": "社會責任行動中心",
+            "email": "techusr@gms.ndhu.edu.tw",
+            "phone": "3772/3770"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "地方教育輔導組職務代理人招募中｜加入師資培育中心，深入了解教育行政的第一步！",
         "timestamp": "1747354707",
         "url": "mail_display.php?timestamp=1747354707",
@@ -180,33 +208,5 @@
             "phone": "03-8905247"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【徵才公告】國立東華大學總務處出納組徵聘【校務基金短期助理】",
-        "timestamp": "1745375797",
-        "url": "mail_display.php?timestamp=1745375797",
-        "date": "2025/04/23 10:36",
-        "department": "總務處出納組",
-        "author": {
-            "department": "總務處出納組",
-            "name": "鄧瑞美",
-            "email": "deng@gms.ndhu.edu.tw",
-            "phone": "03-8906361"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【徵聘公告】國立東華大學資訊工程學系徵聘專任教師一名 (第1次公告)",
-        "timestamp": "1745309569",
-        "url": "mail_display.php?timestamp=1745309569",
-        "date": "2025/04/22 16:12",
-        "department": "資訊工程學系",
-        "author": {
-            "department": "資訊工程學系",
-            "name": "葉助理",
-            "email": "kiki2002@gms.ndhu.edu.tw",
-            "phone": "03-8905012"
-        },
-        "attachmentCount": 0
     }
 ]

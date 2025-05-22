@@ -1,5 +1,33 @@
 [
     {
+        "title": "【徵才公告】國立東華大學總務處出納組徵聘【校務基金短期助理】",
+        "timestamp": "1745375797",
+        "url": "mail_display.php?timestamp=1745375797",
+        "date": "2025/04/23 10:36",
+        "department": "總務處出納組",
+        "author": {
+            "department": "總務處出納組",
+            "name": "鄧瑞美",
+            "email": "deng@gms.ndhu.edu.tw",
+            "phone": "03-8906361"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【徵聘公告】國立東華大學資訊工程學系徵聘專任教師一名 (第1次公告)",
+        "timestamp": "1745309569",
+        "url": "mail_display.php?timestamp=1745309569",
+        "date": "2025/04/22 16:12",
+        "department": "資訊工程學系",
+        "author": {
+            "department": "資訊工程學系",
+            "name": "葉助理",
+            "email": "kiki2002@gms.ndhu.edu.tw",
+            "phone": "03-8905012"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才公告】本校總務處(事務組) 校務基金助理徵才公告",
         "timestamp": "1744937087",
         "url": "mail_display.php?timestamp=1744937087",
@@ -178,34 +206,6 @@
             "name": "洪耀明教授",
             "email": "hongyaoming@gms.ndhu.edu.tw",
             "phone": "(03)890-3295"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【人才招募】113-2學期數位大學伴招募~急徵!!!",
-        "timestamp": "1743152330",
-        "url": "mail_display.php?timestamp=1743152330",
-        "date": "2025/03/28 16:58",
-        "department": "花師教育學院",
-        "author": {
-            "department": "花師教育學院",
-            "name": "李宛玲",
-            "email": "etutor_c226@gms.ndhu.edu.tw",
-            "phone": "890-3816"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【國立東華大學管理學院財務金融學系系主任】 徵聘公告",
-        "timestamp": "1743127338",
-        "url": "mail_display.php?timestamp=1743127338",
-        "date": "2025/03/28 10:02",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "林香君",
-            "email": "smgt@gms.ndhu.edu.tw",
-            "phone": "8903002"
         },
         "attachmentCount": 1
     }

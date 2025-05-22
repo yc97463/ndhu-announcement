@@ -1,5 +1,19 @@
 [
     {
+        "title": "勿開啟來路不明信件（仍在教育部社交工程演練第一階段期間）",
+        "timestamp": "1747206036",
+        "url": "mail_display.php?timestamp=1747206036",
+        "date": "2025/05/14 15:00",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "葉宏達",
+            "email": "honda@gms.ndhu.edu.tw",
+            "phone": "8906747"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "涵星二莊1號電梯(前)故障停用。",
         "timestamp": "1747130191",
         "url": "mail_display.php?timestamp=1747130191",
@@ -194,19 +208,5 @@
             "phone": "03-8903984"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "📣 別再瞎忙學習！你需要的是一場思維的升級！",
-        "timestamp": "1746753206",
-        "url": "mail_display.php?timestamp=1746753206",
-        "date": "2025/05/09 09:13",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "溫小姐",
-            "email": "fengting0804@gms.ndhu.edu.tw",
-            "phone": "6282"
-        },
-        "attachmentCount": 1
     }
 ]
