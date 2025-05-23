@@ -1,5 +1,19 @@
 [
     {
+        "title": "【教育大數據產學合作與專題實作】114-1學程實務課推廣",
+        "timestamp": "1747971343",
+        "url": "mail_display.php?timestamp=1747971343",
+        "date": "2025/05/23 11:35",
+        "department": "資訊管理學系",
+        "author": {
+            "department": "資訊管理學系",
+            "name": "張先生",
+            "email": "yunkai@gms.ndhu.edu.tw",
+            "phone": "3176"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "東華大學秋野芒劇團公益巡演【山海戲旅系列通識課程】表單重新開放，招生中!!",
         "timestamp": "1747701386",
         "url": "mail_display.php?timestamp=1747701386",
@@ -192,20 +206,6 @@
             "name": "徐小姐",
             "email": "hsu-pangju@gms.ndhu.edu.tw",
             "phone": "03-8905247"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【藝創系】2025花蓮青年夢想家＆產業專題補助計畫說明會(專業1小時認證)",
-        "timestamp": "1746060701",
-        "url": "mail_display.php?timestamp=1746060701",
-        "date": "2025/05/01 08:51",
-        "department": "藝術創意產業學系",
-        "author": {
-            "department": "藝術創意產業學系",
-            "name": "謝明海",
-            "email": "ocean@gms.ndhu.edu.tw",
-            "phone": "890-5889"
         },
         "attachmentCount": 2
     }
