@@ -1,5 +1,19 @@
 [
     {
+        "title": "【代轉學生選舉委員會公告】🗳️第15屆學生自治會選舉【投票日】Student Association Election Day",
+        "timestamp": "1747874407",
+        "url": "mail_display.php?timestamp=1747874407",
+        "date": "2025/05/22 08:40",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "姜紫淇",
+            "email": "yaya@gms.ndhu.edu.tw",
+            "phone": "03-8906235"
+        },
+        "attachmentCount": 6
+    },
+    {
         "title": "本校114年5月30日至6月1日端午連假校內委外廠商營業時間公告",
         "timestamp": "1747871902",
         "url": "mail_display.php?timestamp=1747871902",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【徵才】環境部氣候變遷署「114年第3次特約人員外補甄選」(114年6月2日截止)",
-        "timestamp": "1747805842",
-        "url": "mail_display.php?timestamp=1747805842",
-        "date": "2025/05/21 13:37",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
     }
 ]
