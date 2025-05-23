@@ -1,5 +1,19 @@
 [
     {
+        "title": "【第15屆學生自治會選舉】 🎉投完票請你吃冰！東華大學「民主冰棒」限量發送🍦",
+        "timestamp": "1747712127",
+        "url": "mail_display.php?timestamp=1747712127",
+        "date": "2025/05/20 11:35",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "姜紫淇",
+            "email": "yaya@gms.ndhu.edu.tw",
+            "phone": "03-8906235"
+        },
+        "attachmentCount": 10
+    },
+    {
         "title": "東兔團隊招募收件即將截止~快來報名一起打造最有創意 × 最有溫度的校園行動！",
         "timestamp": "1747708263",
         "url": "mail_display.php?timestamp=1747708263",
@@ -194,19 +208,5 @@
             "phone": "8905248"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【活動】114年度高等教育深耕計畫素養導向教學增能系列講座：第2場5/28",
-        "timestamp": "1747643773",
-        "url": "mail_display.php?timestamp=1747643773",
-        "date": "2025/05/19 16:36",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 2
     }
 ]
