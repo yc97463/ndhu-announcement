@@ -1,5 +1,47 @@
 [
     {
+        "title": "【AI活動講座】AI × No-Code 自動化：n8n 連結 200+服務 快速上手工作坊",
+        "timestamp": "1747896563",
+        "url": "mail_display.php?timestamp=1747896563",
+        "date": "2025/05/22 14:49",
+        "department": "人工智慧辦公室",
+        "author": {
+            "department": "人工智慧辦公室",
+            "name": "林佩瑤",
+            "email": "peiyao@gms.ndhu.edu.tw",
+            "phone": "6013"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "114-1社會創新課程公告",
+        "timestamp": "1747895624",
+        "url": "mail_display.php?timestamp=1747895624",
+        "date": "2025/05/22 14:33",
+        "department": "社會學系",
+        "author": {
+            "department": "社會學系",
+            "name": "社會系",
+            "email": "nancyya@gms.ndhu.edu.tw",
+            "phone": "5582"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【獎助學金申請】慈暉文教基金會114年大學以上優秀清寒學生獎學金 (限籍台北市或新北市低收或中低收)",
+        "timestamp": "1747892119",
+        "url": "mail_display.php?timestamp=1747892119",
+        "date": "2025/05/22 13:35",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "114年教職員工消防演練公告。",
         "timestamp": "1747883470",
         "url": "mail_display.php?timestamp=1747883470",
@@ -166,47 +208,5 @@
             "phone": "6282"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "行政大樓高樓層辦公室窗台裝設防墜(鴿)網施工公告",
-        "timestamp": "1747817208",
-        "url": "mail_display.php?timestamp=1747817208",
-        "date": "2025/05/21 16:46",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "113-2「Dongto東兔系列活動-VR異次元大冒險」🎮沉浸式狂歡來襲🎮，趕快來報名!!",
-        "timestamp": "1747815158",
-        "url": "mail_display.php?timestamp=1747815158",
-        "date": "2025/05/21 16:12",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "郭舒羽",
-            "email": "hdoion@gms.ndhu.edu.tw",
-            "phone": "038906284"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【徵才】嘉義縣學生輔導諮商中心專任專業輔導人員甄選」(心理師、社工師)(114年6月18日截止)",
-        "timestamp": "1747814089",
-        "url": "mail_display.php?timestamp=1747814089",
-        "date": "2025/05/21 15:54",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 5
     }
 ]

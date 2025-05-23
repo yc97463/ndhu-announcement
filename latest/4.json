@@ -1,5 +1,47 @@
 [
     {
+        "title": "【發社系民族講座】從開場白到最後一頁-簡報攻防術",
+        "timestamp": "1747785304",
+        "url": "mail_display.php?timestamp=1747785304",
+        "date": "2025/05/21 07:55",
+        "department": "原住民民族學院 民族發展與社會工作學系",
+        "author": {
+            "department": "原住民民族學院 民族發展與社會工作學系",
+            "name": "楊鵑穎",
+            "email": "ringo@gms.ndhu.edu.tw",
+            "phone": "5822"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "本校113學年「畢業典禮」徵求志願服務人員-第2次公告",
+        "timestamp": "1747785303",
+        "url": "mail_display.php?timestamp=1747785303",
+        "date": "2025/05/21 07:55",
+        "department": "學務處 生活輔導組",
+        "author": {
+            "department": "學務處 生活輔導組",
+            "name": "陳詩啓",
+            "email": "sam0831@gms.ndhu.edu.tw",
+            "phone": "(03)890-6216"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113學年度第2學期 教保實習成果展",
+        "timestamp": "1747785302",
+        "url": "mail_display.php?timestamp=1747785302",
+        "date": "2025/05/21 07:55",
+        "department": "花師教育學院 幼兒教育學系",
+        "author": {
+            "department": "花師教育學院 幼兒教育學系",
+            "name": "蕭羽芩",
+            "email": "kay200128@gms.ndhu.edu.tw",
+            "phone": "5266"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【應數系演講】114-05-28陳延安博士",
         "timestamp": "1747785301",
         "url": "mail_display.php?timestamp=1747785301",
@@ -166,47 +208,5 @@
             "phone": "0905-737192"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【獎助學金申請】花蓮縣玉里國小教育基金會114年度獎助學金 (限該校校友且為低或中低收)",
-        "timestamp": "1747700907",
-        "url": "mail_display.php?timestamp=1747700907",
-        "date": "2025/05/20 08:28",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "2025年端午節連續假期垃圾清運時間調整，敬請留意。Adjustment of Garbage Collection Schedule during the 2025 Dragon Boat Festival Long Weekend",
-        "timestamp": "1747700068",
-        "url": "mail_display.php?timestamp=1747700068",
-        "date": "2025/05/20 08:14",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "許智翔",
-            "email": "cocco3746@gms.ndhu.edu.tw",
-            "phone": "038906399"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "(資工系)校友講座－114/06/02(一) 張閎傑 校友(學士班第17屆畢業)",
-        "timestamp": "1747698907",
-        "url": "mail_display.php?timestamp=1747698907",
-        "date": "2025/05/20 07:55",
-        "department": "理工學院 資訊工程學系",
-        "author": {
-            "department": "理工學院 資訊工程學系",
-            "name": "葉子綺",
-            "email": "kiki2002@gms.ndhu.edu.tw",
-            "phone": "5012"
-        },
-        "attachmentCount": 0
     }
 ]
