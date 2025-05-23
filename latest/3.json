@@ -1,5 +1,33 @@
 [
     {
+        "title": "【獎助學金申請】中技社2025年「科技創意獎學金」(大三以上)",
+        "timestamp": "1747877061",
+        "url": "mail_display.php?timestamp=1747877061",
+        "date": "2025/05/22 09:24",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【課務組】近日北迴線鐵路常因強降雨致暫時中斷，請教師彈性處理課務以及學生因交通中斷無法到課之情事。",
+        "timestamp": "1747876597",
+        "url": "mail_display.php?timestamp=1747876597",
+        "date": "2025/05/22 09:16",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【代轉學生選舉委員會公告】🗳️第15屆學生自治會選舉【投票日】Student Association Election Day",
         "timestamp": "1747874407",
         "url": "mail_display.php?timestamp=1747874407",
@@ -180,33 +208,5 @@
             "phone": "8906422"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【轉知】114學年度「臺灣-奧地利高教科研種籽基金」獎學金計畫",
-        "timestamp": "1747811115",
-        "url": "mail_display.php?timestamp=1747811115",
-        "date": "2025/05/21 15:05",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【轉知】國立高雄科技大學「114年度產業新尖兵計畫」開設「5G AIoT實務與應用人才培訓班」",
-        "timestamp": "1747810376",
-        "url": "mail_display.php?timestamp=1747810376",
-        "date": "2025/05/21 14:52",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 4
     }
 ]
