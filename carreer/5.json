@@ -1,5 +1,33 @@
 [
     {
+        "title": "【徵才公告】國立東華大學管理學院會計與資訊管理國際學士班徵聘專任教師",
+        "timestamp": "1740362077",
+        "url": "mail_display.php?timestamp=1740362077",
+        "date": "2025/02/24 09:54",
+        "department": "會計與資訊管理國際學士班",
+        "author": {
+            "department": "會計與資訊管理國際學士班",
+            "name": "郭娜",
+            "email": "inagn@gms.ndhu.edu.tw",
+            "phone": "03-8903007"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【熱烈招募】113-2數位大學伴招募~招募期限延長~2/28(五)",
+        "timestamp": "1740142658",
+        "url": "mail_display.php?timestamp=1740142658",
+        "date": "2025/02/21 20:57",
+        "department": "花師教育學院",
+        "author": {
+            "department": "花師教育學院",
+            "name": "李宛玲",
+            "email": "etutor_c226@gms.ndhu.edu.tw",
+            "phone": "890-3816"
+        },
+        "attachmentCount": 6
+    },
+    {
         "title": "【熱烈招募】113-2數位大學伴招募~招募期限延長~2/28(五)",
         "timestamp": "1740142422",
         "url": "mail_display.php?timestamp=1740142422",
@@ -180,33 +208,5 @@
             "phone": "3816"
         },
         "attachmentCount": 7
-    },
-    {
-        "title": "國立東華大學洄瀾共好大學社會責任中心誠徵計畫助理一名(第一次公告)",
-        "timestamp": "1739256577",
-        "url": "mail_display.php?timestamp=1739256577",
-        "date": "2025/02/11 14:49",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "洄瀾共好大學社會責任中心",
-            "email": "techusr@gms.ndhu.edu.tw",
-            "phone": "3772"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【徵才訊息】國立東華大學教學卓越中心課程與科技組徵聘計畫助理3名",
-        "timestamp": "1739159999",
-        "url": "mail_display.php?timestamp=1739159999",
-        "date": "2025/02/10 11:59",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "李貞穎",
-            "email": "jeannie@gms.ndhu.edu.tw",
-            "phone": "8906587"
-        },
-        "attachmentCount": 0
     }
 ]

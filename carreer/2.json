@@ -1,5 +1,33 @@
 [
     {
+        "title": "國立東華大學師資培育中心徵聘地方教育輔導組職務代理人",
+        "timestamp": "1745564608",
+        "url": "mail_display.php?timestamp=1745564608",
+        "date": "2025/04/25 15:03",
+        "department": "師資培育中心",
+        "author": {
+            "department": "師資培育中心",
+            "name": "陳淑貞",
+            "email": "sjchen@gms.ndhu.edu.tw",
+            "phone": "(03)8906636"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【徵人公告】國立東華大學社會參與中心誠徵大學社會責任專任計畫助理(修正應徵資格)",
+        "timestamp": "1745400555",
+        "url": "mail_display.php?timestamp=1745400555",
+        "date": "2025/04/23 17:29",
+        "department": "社會參與中心",
+        "author": {
+            "department": "社會參與中心",
+            "name": "徐小姐",
+            "email": "hsu-pangju@gms.ndhu.edu.tw",
+            "phone": "03-8905247"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【徵才公告】國立東華大學總務處出納組徵聘【校務基金短期助理】",
         "timestamp": "1745375797",
         "url": "mail_display.php?timestamp=1745375797",
@@ -180,33 +208,5 @@
             "phone": "5109"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【徵才公告】113-2數位大學伴~急徵!!!",
-        "timestamp": "1743391617",
-        "url": "mail_display.php?timestamp=1743391617",
-        "date": "2025/03/31 11:26",
-        "department": "花師教育學院",
-        "author": {
-            "department": "花師教育學院",
-            "name": "李宛玲",
-            "email": "etutor_c226@gms.ndhu.edu.tw",
-            "phone": "890-3816"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【徵才】環境暨海洋學院碳中和研究中心，誠徵助理2名",
-        "timestamp": "1743382908",
-        "url": "mail_display.php?timestamp=1743382908",
-        "date": "2025/03/31 09:01",
-        "department": "環境暨海洋學院",
-        "author": {
-            "department": "環境暨海洋學院",
-            "name": "洪耀明教授",
-            "email": "hongyaoming@gms.ndhu.edu.tw",
-            "phone": "(03)890-3295"
-        },
-        "attachmentCount": 1
     }
 ]
