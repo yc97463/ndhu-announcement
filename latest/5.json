@@ -1,5 +1,33 @@
 [
     {
+        "title": "【應數系演講】114-05-28陳延安博士",
+        "timestamp": "1747785301",
+        "url": "mail_display.php?timestamp=1747785301",
+        "date": "2025/05/21 07:55",
+        "department": "理工學院 應用數學系",
+        "author": {
+            "department": "理工學院 應用數學系",
+            "name": "陳素琳",
+            "email": "chsulin@gms.ndhu.edu.tw",
+            "phone": "3561"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "重要!!【防制校園詐騙宣導通報】攸關學生校外租屋防詐-114年5月21日",
+        "timestamp": "1747735235",
+        "url": "mail_display.php?timestamp=1747735235",
+        "date": "2025/05/20 18:00",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "吳昭毅",
+            "email": "wuyi12831@gms.ndhu.edu.tw",
+            "phone": "038906228"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【論文獎助】國立高雄師範大學經學研究所「第21屆青年經學學術研討會」徵稿",
         "timestamp": "1747729576",
         "url": "mail_display.php?timestamp=1747729576",
@@ -178,34 +206,6 @@
             "name": "葉子綺",
             "email": "kiki2002@gms.ndhu.edu.tw",
             "phone": "5012"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【專題演講】5/23(五)_智能聲浪：AI重塑資訊傳播與輿情監測新戰場",
-        "timestamp": "1747698906",
-        "url": "mail_display.php?timestamp=1747698906",
-        "date": "2025/05/20 07:55",
-        "department": "理工學院 電機工程學系",
-        "author": {
-            "department": "理工學院 電機工程學系",
-            "name": "邱昭儒",
-            "email": "senorita@gms.ndhu.edu.tw",
-            "phone": "5063"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【學習與創意講座】有勇氣過自己想過的生活",
-        "timestamp": "1747698905",
-        "url": "mail_display.php?timestamp=1747698905",
-        "date": "2025/05/20 07:55",
-        "department": "教學卓越中心 教學與學習組",
-        "author": {
-            "department": "教學卓越中心 教學與學習組",
-            "name": "方紀蘋",
-            "email": "viya@gms.ndhu.edu.tw",
-            "phone": "6593"
         },
         "attachmentCount": 0
     }
