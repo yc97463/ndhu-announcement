@@ -1,5 +1,47 @@
 [
     {
+        "title": "【徵才公告】國立東華大學理工學院徵聘校務基金助理兩名(第二次公告)",
+        "timestamp": "1747961628",
+        "url": "mail_display.php?timestamp=1747961628",
+        "date": "2025/05/23 08:53",
+        "department": "理工學院",
+        "author": {
+            "department": "理工學院",
+            "name": "黃先生",
+            "email": "vict0913@gms.ndhu.edu.tw",
+            "phone": "(03)8903504"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "今晚19點【東華新聲】東華交響2025交響協奏音樂會",
+        "timestamp": "1747960677",
+        "url": "mail_display.php?timestamp=1747960677",
+        "date": "2025/05/23 08:37",
+        "department": "音樂學系",
+        "author": {
+            "department": "音樂學系",
+            "name": "張純倩",
+            "email": "asd963741@gms.ndhu.edu.tw",
+            "phone": "03-8905168"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "【材料系演講公告】5/26(一)15:10-17:00由單晶至單晶光纖與單晶光纖雷射",
+        "timestamp": "1747958101",
+        "url": "mail_display.php?timestamp=1747958101",
+        "date": "2025/05/23 07:55",
+        "department": "理工學院 材料科學與工程學系",
+        "author": {
+            "department": "理工學院 材料科學與工程學系",
+            "name": "林淑玲",
+            "email": "shuling@gms.ndhu.edu.tw",
+            "phone": "8903204"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "🎉 2025 東華大學Glimmering Trails舞會購票持續開放中！🎉🎉 2025 Dong Hwa University Prom Tickets Still Available! 🎉",
         "timestamp": "1747909178",
         "url": "mail_display.php?timestamp=1747909178",
@@ -166,47 +208,5 @@
             "phone": "038221316"
         },
         "attachmentCount": 7
-    },
-    {
-        "title": "5月21日有冒名釣魚信件暨教育部社交工程演練提醒",
-        "timestamp": "1747880061",
-        "url": "mail_display.php?timestamp=1747880061",
-        "date": "2025/05/22 10:14",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "葉宏達",
-            "email": "honda@gms.ndhu.edu.tw",
-            "phone": "8906747"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【獎助學金申請】中技社2025年「科技創意獎學金」(大三以上)",
-        "timestamp": "1747877061",
-        "url": "mail_display.php?timestamp=1747877061",
-        "date": "2025/05/22 09:24",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【課務組】近日北迴線鐵路常因強降雨致暫時中斷，請教師彈性處理課務以及學生因交通中斷無法到課之情事。",
-        "timestamp": "1747876597",
-        "url": "mail_display.php?timestamp=1747876597",
-        "date": "2025/05/22 09:16",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "utd1003@gms.ndhu.edu.tw",
-            "phone": "6122-6126"
-        },
-        "attachmentCount": 0
     }
 ]
