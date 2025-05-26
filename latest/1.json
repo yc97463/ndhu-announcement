@@ -1,5 +1,33 @@
 [
     {
+        "title": "重要!!【防制校園詐騙宣導通報】假售票防詐-114年5月27日",
+        "timestamp": "1748296985",
+        "url": "mail_display.php?timestamp=1748296985",
+        "date": "2025/05/27 06:03",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "吳昭毅",
+            "email": "wuyi12831@gms.ndhu.edu.tw",
+            "phone": "038906228"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "重要!!【防制校園詐騙宣導通報】假抽獎中獎遭詐騙-114年5月27日",
+        "timestamp": "1748296869",
+        "url": "mail_display.php?timestamp=1748296869",
+        "date": "2025/05/27 06:01",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "吳昭毅",
+            "email": "wuyi12831@gms.ndhu.edu.tw",
+            "phone": "038906228"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【保管組公告】廢品借用通知暨報廢傢俱一物一拍作業(第二次公告)",
         "timestamp": "1748261856",
         "url": "mail_display.php?timestamp=1748261856",
@@ -180,33 +208,5 @@
             "phone": "5107"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【圖書館公告】端午節及補假【114.05.30-31 (五至六) 】休館二日。Library will be Closed for Dragon Boat Festival on May 30-31, 2025.",
-        "timestamp": "1748220402",
-        "url": "mail_display.php?timestamp=1748220402",
-        "date": "2025/05/26 08:46",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "詹依萍",
-            "email": "ipchan@gms.ndhu.edu.tw",
-            "phone": "6813"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【會計學系】演講：財報舞弊案例研討-光洋應用材料科技股份有限公司",
-        "timestamp": "1748217301",
-        "url": "mail_display.php?timestamp=1748217301",
-        "date": "2025/05/26 07:55",
-        "department": "管理學院 會計學系",
-        "author": {
-            "department": "管理學院 會計學系",
-            "name": "陳良玫",
-            "email": "chrischen@gms.ndhu.edu.tw",
-            "phone": "3072"
-        },
-        "attachmentCount": 0
     }
 ]

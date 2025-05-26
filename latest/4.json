@@ -1,5 +1,33 @@
 [
     {
+        "title": "國立東華大學社會責任行動中心誠徵計畫助理一名",
+        "timestamp": "1747897446",
+        "url": "mail_display.php?timestamp=1747897446",
+        "date": "2025/05/22 15:04",
+        "department": "管理學院",
+        "author": {
+            "department": "管理學院",
+            "name": "社會責任行動中心",
+            "email": "techusr@gms.ndhu.edu.tw",
+            "phone": "3772/3770"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【AI活動講座】AI × No-Code 自動化：n8n 連結 200+服務 快速上手工作坊",
+        "timestamp": "1747896563",
+        "url": "mail_display.php?timestamp=1747896563",
+        "date": "2025/05/22 14:49",
+        "department": "人工智慧辦公室",
+        "author": {
+            "department": "人工智慧辦公室",
+            "name": "林佩瑤",
+            "email": "peiyao@gms.ndhu.edu.tw",
+            "phone": "6013"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "114-1社會創新課程公告",
         "timestamp": "1747895624",
         "url": "mail_display.php?timestamp=1747895624",
@@ -180,33 +208,5 @@
             "phone": "03-8905920"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "🎉國立東華大學113學年度畢業典禮 (🎉2025 National Dong Hwa University Commencement)",
-        "timestamp": "1747820911",
-        "url": "mail_display.php?timestamp=1747820911",
-        "date": "2025/05/21 17:48",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "溫小姐",
-            "email": "fengting0804@gms.ndhu.edu.tw",
-            "phone": "6282"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "行政大樓高樓層辦公室窗台裝設防墜(鴿)網施工公告",
-        "timestamp": "1747817208",
-        "url": "mail_display.php?timestamp=1747817208",
-        "date": "2025/05/21 16:46",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "連小雅",
-            "email": "lienhy@gms.ndhu.edu.tw",
-            "phone": "6329"
-        },
-        "attachmentCount": 1
     }
 ]
