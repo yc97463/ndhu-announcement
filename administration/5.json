@@ -1,5 +1,19 @@
 [
     {
+        "title": "請老師參考經濟部智慧財產局提供「教師授課著作權錦囊」之宣導資料",
+        "timestamp": "1746590333",
+        "url": "mail_display.php?timestamp=1746590333",
+        "date": "2025/05/07 11:58",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "陳惠汝",
+            "email": "richel@gms.ndhu.edu.tw",
+            "phone": "6725"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【圖書館公告】【114.05.10-11 (六、日)】休館二日，因配合本校學生會辦理「洄潮計畫音樂祭」大型活動！Library will be Closed on MAY 10-11, 2025.",
         "timestamp": "1746581731",
         "url": "mail_display.php?timestamp=1746581731",
@@ -194,19 +208,5 @@
             "phone": "890-6056"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【公告】有關本校適用勞基法人員114年5月1日(四)勞動節放假事宜",
-        "timestamp": "1746416766",
-        "url": "mail_display.php?timestamp=1746416766",
-        "date": "2025/05/05 11:46",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "劉依虹",
-            "email": "joyce_liu@gms.ndhu.edu.tw",
-            "phone": "6060"
-        },
-        "attachmentCount": 1
     }
 ]

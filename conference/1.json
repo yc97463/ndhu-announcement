@@ -1,5 +1,19 @@
 [
     {
+        "title": "【演講公告】AI走入教育現場實境的可能",
+        "timestamp": "1748243984",
+        "url": "mail_display.php?timestamp=1748243984",
+        "date": "2025/05/26 15:19",
+        "department": "教育與潛能開發學系",
+        "author": {
+            "department": "教育與潛能開發學系",
+            "name": "黃芝嫻",
+            "email": "411088019@gms.ndhu.edu.tw",
+            "phone": "038903822"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【活動】114年度高等教育深耕計畫素養導向教學增能系列講座：第2場5/28",
         "timestamp": "1747643773",
         "url": "mail_display.php?timestamp=1747643773",
@@ -192,20 +206,6 @@
             "name": "吳助理",
             "email": "suju1106@gms.ndhu.edu.tw",
             "phone": "5323"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【多元文化教育講座】實踐之間：邁向真實化的批判教育",
-        "timestamp": "1746492560",
-        "url": "mail_display.php?timestamp=1746492560",
-        "date": "2025/05/06 08:49",
-        "department": "多元文化教育碩博班",
-        "author": {
-            "department": "多元文化教育碩博班",
-            "name": "孫菁嬅",
-            "email": "jinghua@gms.ndhu.edu.tw",
-            "phone": "3157"
         },
         "attachmentCount": 1
     }

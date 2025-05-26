@@ -1,5 +1,19 @@
 [
     {
+        "title": "【多元文化教育講座】實踐之間：邁向真實化的批判教育",
+        "timestamp": "1746492560",
+        "url": "mail_display.php?timestamp=1746492560",
+        "date": "2025/05/06 08:49",
+        "department": "多元文化教育碩博班",
+        "author": {
+            "department": "多元文化教育碩博班",
+            "name": "孫菁嬅",
+            "email": "jinghua@gms.ndhu.edu.tw",
+            "phone": "3157"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【多元文化教育講座】原住民族出版事業的多重面向：毛利文化、教育與族群自決",
         "timestamp": "1746492332",
         "url": "mail_display.php?timestamp=1746492332",
@@ -194,19 +208,5 @@
             "phone": "(03)8906636"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "🔆跨域時數🔆與你同行-情緒轉化與同理心桌遊工作坊\u0026聰明用網工作坊",
-        "timestamp": "1745303681",
-        "url": "mail_display.php?timestamp=1745303681",
-        "date": "2025/04/22 14:34",
-        "department": "心理諮商輔導中心",
-        "author": {
-            "department": "心理諮商輔導中心",
-            "name": "王淳羽",
-            "email": "smileevelyn@gms.ndhu.edu.tw",
-            "phone": "03-8906273"
-        },
-        "attachmentCount": 4
     }
 ]
