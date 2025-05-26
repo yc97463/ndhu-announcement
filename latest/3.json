@@ -1,5 +1,19 @@
 [
     {
+        "title": "（南島永續教育計畫）Intensive Study Program for FY2025 Okinawa, Japan.",
+        "timestamp": "1747968159",
+        "url": "mail_display.php?timestamp=1747968159",
+        "date": "2025/05/23 10:42",
+        "department": "國際事務處國際學生組",
+        "author": {
+            "department": "國際事務處國際學生組",
+            "name": "陳良愛",
+            "email": "issa@gms.ndhu.edu.tw",
+            "phone": "5107"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "📢 體育中心113-2學期體適能檢測提醒｜請把握第16週最後機會！",
         "timestamp": "1747965385",
         "url": "mail_display.php?timestamp=1747965385",
@@ -194,19 +208,5 @@
             "phone": "6013"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "114-1社會創新課程公告",
-        "timestamp": "1747895624",
-        "url": "mail_display.php?timestamp=1747895624",
-        "date": "2025/05/22 14:33",
-        "department": "社會學系",
-        "author": {
-            "department": "社會學系",
-            "name": "社會系",
-            "email": "nancyya@gms.ndhu.edu.tw",
-            "phone": "5582"
-        },
-        "attachmentCount": 1
     }
 ]
