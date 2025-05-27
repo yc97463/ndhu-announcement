@@ -1,5 +1,19 @@
 [
     {
+        "title": "【更正】【113學年度畢業典禮】雨天備案[Graduation Ceremony of the 113th Academic Year] Alternative plan of rainy day",
+        "timestamp": "1747998905",
+        "url": "mail_display.php?timestamp=1747998905",
+        "date": "2025/05/23 19:15",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "溫小姐",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6282"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【人事室公告】更新差勤(刷卡)系統網址，請以新的網址登入及簽到退。(即刻可用新網址登入)",
         "timestamp": "1747992761",
         "url": "mail_display.php?timestamp=1747992761",
@@ -194,19 +208,5 @@
             "phone": "6282"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【轉知】中國 南京農業大學2025年兩岸大學生農業農村現代化與公共治理創新研習",
-        "timestamp": "1747904127",
-        "url": "mail_display.php?timestamp=1747904127",
-        "date": "2025/05/22 16:55",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 4
     }
 ]

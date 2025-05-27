@@ -1,5 +1,19 @@
 [
     {
+        "title": "【演講公告】AI走入教育現場實境的可能",
+        "timestamp": "1748243984",
+        "url": "mail_display.php?timestamp=1748243984",
+        "date": "2025/05/26 15:19",
+        "department": "教育與潛能開發學系",
+        "author": {
+            "department": "教育與潛能開發學系",
+            "name": "黃芝嫻",
+            "email": "411088019@gms.ndhu.edu.tw",
+            "phone": "038903822"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【學生自主學習社群】114-1學期社群即日起開放徵件，歡迎有興趣的同學組團申請!!",
         "timestamp": "1748242403",
         "url": "mail_display.php?timestamp=1748242403",
@@ -194,19 +208,5 @@
             "phone": "6282"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【更正】【113學年度畢業典禮】雨天備案[Graduation Ceremony of the 113th Academic Year] Alternative plan of rainy day",
-        "timestamp": "1747998905",
-        "url": "mail_display.php?timestamp=1747998905",
-        "date": "2025/05/23 19:15",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "溫小姐",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6282"
-        },
-        "attachmentCount": 0
     }
 ]
