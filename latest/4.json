@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才公告】國立東華大學理工學院徵聘校務基金助理兩名(第二次公告)",
+        "timestamp": "1747961628",
+        "url": "mail_display.php?timestamp=1747961628",
+        "date": "2025/05/23 08:53",
+        "department": "理工學院",
+        "author": {
+            "department": "理工學院",
+            "name": "黃先生",
+            "email": "vict0913@gms.ndhu.edu.tw",
+            "phone": "(03)8903504"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "今晚19點【東華新聲】東華交響2025交響協奏音樂會",
         "timestamp": "1747960677",
         "url": "mail_display.php?timestamp=1747960677",
@@ -194,19 +208,5 @@
             "phone": "038221316"
         },
         "attachmentCount": 7
-    },
-    {
-        "title": "5月21日有冒名釣魚信件暨教育部社交工程演練提醒",
-        "timestamp": "1747880061",
-        "url": "mail_display.php?timestamp=1747880061",
-        "date": "2025/05/22 10:14",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "葉宏達",
-            "email": "honda@gms.ndhu.edu.tw",
-            "phone": "8906747"
-        },
-        "attachmentCount": 1
     }
 ]

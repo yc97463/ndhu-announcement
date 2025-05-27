@@ -1,5 +1,19 @@
 [
     {
+        "title": "今日（5/23）人社ㄧ館ABD棟供水異常說明",
+        "timestamp": "1748011662",
+        "url": "mail_display.php?timestamp=1748011662",
+        "date": "2025/05/23 22:47",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【實習】基隆市政府「114年度基隆青年公部門見習計畫」(114年6月10日截止)",
         "timestamp": "1748003105",
         "url": "mail_display.php?timestamp=1748003105",
@@ -194,19 +208,5 @@
             "phone": "5582"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【徵才公告】國立東華大學理工學院徵聘校務基金助理兩名(第二次公告)",
-        "timestamp": "1747961628",
-        "url": "mail_display.php?timestamp=1747961628",
-        "date": "2025/05/23 08:53",
-        "department": "理工學院",
-        "author": {
-            "department": "理工學院",
-            "name": "黃先生",
-            "email": "vict0913@gms.ndhu.edu.tw",
-            "phone": "(03)8903504"
-        },
-        "attachmentCount": 0
     }
 ]
