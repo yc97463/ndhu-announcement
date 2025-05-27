@@ -1,5 +1,19 @@
 [
     {
+        "title": "【實習】基隆市政府「114年度基隆青年公部門見習計畫」(114年6月10日截止)",
+        "timestamp": "1748003105",
+        "url": "mail_display.php?timestamp=1748003105",
+        "date": "2025/05/23 20:25",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 6
+    },
+    {
         "title": "🎓 東華大學113學年度畢業典禮現場直播公告Live Stream Announcement-NDHU 113th Academic Year Commencement Ceremony",
         "timestamp": "1748002591",
         "url": "mail_display.php?timestamp=1748002591",
@@ -194,19 +208,5 @@
             "phone": "(03)8903504"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "今晚19點【東華新聲】東華交響2025交響協奏音樂會",
-        "timestamp": "1747960677",
-        "url": "mail_display.php?timestamp=1747960677",
-        "date": "2025/05/23 08:37",
-        "department": "音樂學系",
-        "author": {
-            "department": "音樂學系",
-            "name": "張純倩",
-            "email": "asd963741@gms.ndhu.edu.tw",
-            "phone": "03-8905168"
-        },
-        "attachmentCount": 3
     }
 ]
