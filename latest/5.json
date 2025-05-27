@@ -1,5 +1,19 @@
 [
     {
+        "title": "知愛有禮：線上愛滋知識挑戰賽",
+        "timestamp": "1747871701",
+        "url": "mail_display.php?timestamp=1747871701",
+        "date": "2025/05/22 07:55",
+        "department": "學務處 衛生保健組",
+        "author": {
+            "department": "學務處 衛生保健組",
+            "name": "吳星穎",
+            "email": "carmier@gms.ndhu.edu.tw",
+            "phone": "8906252"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【協助轉知】崑山科技大學舉辦「跨域協作 PBL 工作坊-讓永續發電、也驅動生活的轉變」",
         "timestamp": "1747870663",
         "url": "mail_display.php?timestamp=1747870663",
@@ -194,19 +208,5 @@
             "phone": "5107"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "景碩科技x東華大學-專業半導體載板實習計畫說明會工作人員",
-        "timestamp": "1747785307",
-        "url": "mail_display.php?timestamp=1747785307",
-        "date": "2025/05/21 07:55",
-        "department": "理工學院 材料科學與工程學系",
-        "author": {
-            "department": "理工學院 材料科學與工程學系",
-            "name": "林淑玲",
-            "email": "shuling@gms.ndhu.edu.tw",
-            "phone": "8903204"
-        },
-        "attachmentCount": 0
     }
 ]
