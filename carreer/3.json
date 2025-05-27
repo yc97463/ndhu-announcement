@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才】國立東華大學國際事務處誠徵計畫專任助理1名",
+        "timestamp": "1744096582",
+        "url": "mail_display.php?timestamp=1744096582",
+        "date": "2025/04/08 15:16",
+        "department": "國際事務處",
+        "author": {
+            "department": "國際事務處",
+            "name": "劉力綺",
+            "email": "cheerio@gms.ndhu.edu.tw",
+            "phone": "5109"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才公告】113-2數位大學伴~急徵!!!",
         "timestamp": "1743391617",
         "url": "mail_display.php?timestamp=1743391617",
@@ -194,19 +208,5 @@
             "phone": "890-3816"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【徵才公告】國立東華大學資訊管理學系誠徵【行政助理】一名",
-        "timestamp": "1741928465",
-        "url": "mail_display.php?timestamp=1741928465",
-        "date": "2025/03/14 13:01",
-        "department": "資訊管理學系",
-        "author": {
-            "department": "資訊管理學系",
-            "name": "王先生",
-            "email": "wenyi@gms.ndhu.edu.tw",
-            "phone": "8903103"
-        },
-        "attachmentCount": 0
     }
 ]

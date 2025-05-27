@@ -1,5 +1,33 @@
 [
     {
+        "title": "【註冊組公告】113-2學期成績預計於114/6/30(週二)下班前開放查詢(請登錄電子學習履歷系統)   The grades for the 113-2 semester are expected to be available for inquiry by the end of work hours on Tuesday, June 30th of 2025 (Please log in to the Electronic Learning Portfolio System).",
+        "timestamp": "1748244942",
+        "url": "mail_display.php?timestamp=1748244942",
+        "date": "2025/05/26 15:35",
+        "department": "教務處註冊組",
+        "author": {
+            "department": "教務處註冊組",
+            "name": "莊珆芸專員",
+            "email": "registration@gms.ndhu.edu.tw",
+            "phone": "03-8906113--6116"
+        },
+        "attachmentCount": 8
+    },
+    {
+        "title": "教育與潛能開發學系「閱讀科技專題製作」成果展",
+        "timestamp": "1748244804",
+        "url": "mail_display.php?timestamp=1748244804",
+        "date": "2025/05/26 15:33",
+        "department": "教育與潛能開發學系",
+        "author": {
+            "department": "教育與潛能開發學系",
+            "name": "黃冠魁",
+            "email": "411188036@gms.ndhu.edu.tw",
+            "phone": "038903822"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【演講公告】AI走入教育現場實境的可能",
         "timestamp": "1748243984",
         "url": "mail_display.php?timestamp=1748243984",
@@ -180,33 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "🎓 東華大學113學年度畢業典禮現場直播公告Live Stream Announcement-NDHU 113th Academic Year Commencement Ceremony",
-        "timestamp": "1748002591",
-        "url": "mail_display.php?timestamp=1748002591",
-        "date": "2025/05/23 20:16",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "溫小姐",
-            "email": "fengting0804@gms.ndhu.edu.tw",
-            "phone": "6282"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【113學年度畢業典禮】🎉113學年度畢業典禮注意事項~畢業生看過來🔍️Important Notes for the 2025 Graduation Ceremony! ",
-        "timestamp": "1747999947",
-        "url": "mail_display.php?timestamp=1747999947",
-        "date": "2025/05/23 19:32",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "溫小姐",
-            "email": "fengting0804@gms.ndhu.edu.tw",
-            "phone": "6282"
-        },
-        "attachmentCount": 5
     }
 ]

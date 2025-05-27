@@ -1,5 +1,33 @@
 [
     {
+        "title": "圖書資訊處徵聘【校務行政系統開發】碩士級技術師一名",
+        "timestamp": "1748337903",
+        "url": "mail_display.php?timestamp=1748337903",
+        "date": "2025/05/27 17:25",
+        "department": "圖書資訊處",
+        "author": {
+            "department": "圖書資訊處",
+            "name": "周小萍",
+            "email": "hedy@gms.ndhu.edu.tw",
+            "phone": "8906852"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【歡迎報名】東華大學「學期週數調整諮詢會」",
+        "timestamp": "1748336274",
+        "url": "mail_display.php?timestamp=1748336274",
+        "date": "2025/05/27 16:57",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "陳君如",
+            "email": "ju@gms.ndhu.edu.tw",
+            "phone": "6124"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【徵才】花蓮縣政府114年6月7日辦理114年度就業博覽會",
         "timestamp": "1748329824",
         "url": "mail_display.php?timestamp=1748329824",
@@ -180,33 +208,5 @@
             "phone": "5107"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【註冊組公告】113-2學期成績預計於114/6/30(週二)下班前開放查詢(請登錄電子學習履歷系統)   The grades for the 113-2 semester are expected to be available for inquiry by the end of work hours on Tuesday, June 30th of 2025 (Please log in to the Electronic Learning Portfolio System).",
-        "timestamp": "1748244942",
-        "url": "mail_display.php?timestamp=1748244942",
-        "date": "2025/05/26 15:35",
-        "department": "教務處註冊組",
-        "author": {
-            "department": "教務處註冊組",
-            "name": "莊珆芸專員",
-            "email": "registration@gms.ndhu.edu.tw",
-            "phone": "03-8906113--6116"
-        },
-        "attachmentCount": 8
-    },
-    {
-        "title": "教育與潛能開發學系「閱讀科技專題製作」成果展",
-        "timestamp": "1748244804",
-        "url": "mail_display.php?timestamp=1748244804",
-        "date": "2025/05/26 15:33",
-        "department": "教育與潛能開發學系",
-        "author": {
-            "department": "教育與潛能開發學系",
-            "name": "黃冠魁",
-            "email": "411188036@gms.ndhu.edu.tw",
-            "phone": "038903822"
-        },
-        "attachmentCount": 2
     }
 ]
