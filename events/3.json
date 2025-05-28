@@ -1,5 +1,19 @@
 [
     {
+        "title": "【語言中心】5/25(日)上午9:00-12:00 於人社二館辦理多益公開考 TOEIC test at H\u0026S building II on 5/25",
+        "timestamp": "1748068590",
+        "url": "mail_display.php?timestamp=1748068590",
+        "date": "2025/05/24 14:36",
+        "department": "語言中心",
+        "author": {
+            "department": "語言中心",
+            "name": "林瑜珊",
+            "email": "lc@gms.ndhu.edu.tw",
+            "phone": "03-895492"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "族文系講座講者：Robin Visser（亞洲和中東研究，東華華文系講座教授）講題：超越人類：台灣原住民文學中的靈性主題",
         "timestamp": "1748044502",
         "url": "mail_display.php?timestamp=1748044502",
@@ -194,19 +208,5 @@
             "phone": "5107"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "🌿【端午包粽免費體驗活動】🌿",
-        "timestamp": "1747900074",
-        "url": "mail_display.php?timestamp=1747900074",
-        "date": "2025/05/22 15:47",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "洄瀾共好大學社會責任中心",
-            "email": "techusr@gms.ndhu.edu.tw",
-            "phone": "038903771"
-        },
-        "attachmentCount": 1
     }
 ]
