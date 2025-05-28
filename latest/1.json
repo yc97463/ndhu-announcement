@@ -1,5 +1,19 @@
 [
     {
+        "title": "【K書中心公告】K書中心A館於5/30(五)~6/1(日)休館三日 / K Study Center  A Closed from May 30 to Jun 1",
+        "timestamp": "1748422752",
+        "url": "mail_display.php?timestamp=1748422752",
+        "date": "2025/05/28 16:59",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "陳宇鴻",
+            "email": "hector.c@gms.ndhu.edu.tw",
+            "phone": "5846"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【實習】UNIQLO「 2025全球儲備菁英 夏季U先培訓營」刻正招募中🔥(114年6月5日截止)",
         "timestamp": "1748420941",
         "url": "mail_display.php?timestamp=1748420941",
@@ -194,19 +208,5 @@
             "phone": "03-8906021"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【招募學員】 轉知中華民國紅十字會114東區(花、東)城市基礎搜救（初階）訓練計畫",
-        "timestamp": "1748402472",
-        "url": "mail_display.php?timestamp=1748402472",
-        "date": "2025/05/28 11:21",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 3
     }
 ]
