@@ -1,5 +1,19 @@
 [
     {
+        "title": "📣 AI＋數位轉型課程🔥免費報名中！",
+        "timestamp": "1746785194",
+        "url": "mail_display.php?timestamp=1746785194",
+        "date": "2025/05/09 18:06",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "詹雯雯",
+            "email": "wzhan0103@gms.ndhu.edu.tw",
+            "phone": "03-8903984"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "114-1「微課程\u0026BRICK學程」說明會🧾💡｜全新規劃帶你學分、經驗一網打盡〰️",
         "timestamp": "1746782302",
         "url": "mail_display.php?timestamp=1746782302",
@@ -194,19 +208,5 @@
             "phone": "6057"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "  歡迎參加國語文教學「「從備課到上台——準教師的養成之道」",
-        "timestamp": "1745401775",
-        "url": "mail_display.php?timestamp=1745401775",
-        "date": "2025/04/23 17:49",
-        "department": "師資培育中心",
-        "author": {
-            "department": "師資培育中心",
-            "name": "陳淑貞",
-            "email": "sjchen@gms.ndhu.edu.tw",
-            "phone": "(03)8906636"
-        },
-        "attachmentCount": 1
     }
 ]

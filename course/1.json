@@ -1,5 +1,19 @@
 [
     {
+        "title": "📣 《AI賦能行銷實戰系列課程》開始報名啦！",
+        "timestamp": "1748418132",
+        "url": "mail_display.php?timestamp=1748418132",
+        "date": "2025/05/28 15:42",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "詹雯雯",
+            "email": "wzhan0103@gms.ndhu.edu.tw",
+            "phone": "03-8903984"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【招募學員】 轉知中華民國紅十字會114東區(花、東)城市基礎搜救（初階）訓練計畫",
         "timestamp": "1748402472",
         "url": "mail_display.php?timestamp=1748402472",
@@ -194,19 +208,5 @@
             "phone": "分機6126"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【課務組】114年暑期重補修課程（報名時間，詳見課程說明）",
-        "timestamp": "1747288980",
-        "url": "mail_display.php?timestamp=1747288980",
-        "date": "2025/05/15 14:03",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "宋育縈",
-            "email": "suz@gms.ndhu.edu.tw",
-            "phone": "分機6126"
-        },
-        "attachmentCount": 3
     }
 ]
