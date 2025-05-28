@@ -1,5 +1,47 @@
 [
     {
+        "title": "族文系講座講者：Robin Visser（亞洲和中東研究，東華華文系講座教授）講題：超越人類：台灣原住民文學中的靈性主題",
+        "timestamp": "1748044502",
+        "url": "mail_display.php?timestamp=1748044502",
+        "date": "2025/05/24 07:55",
+        "department": "原住民民族學院 族群關係與文化學系",
+        "author": {
+            "department": "原住民民族學院 族群關係與文化學系",
+            "name": "葉秀燕",
+            "email": "sumay@gms.ndhu.edu.tw",
+            "phone": "5792"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【觀遊系全球化與觀光休憩趨勢系列專題講座】實習心得分享(二)：飯店產業",
+        "timestamp": "1748044501",
+        "url": "mail_display.php?timestamp=1748044501",
+        "date": "2025/05/24 07:55",
+        "department": "管理學院 觀光暨休閒遊憩學系",
+        "author": {
+            "department": "管理學院 觀光暨休閒遊憩學系",
+            "name": "陳麗如",
+            "email": "trls@gms.ndhu.edu.tw",
+            "phone": "5602"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "🎓 東華大學113學年度畢業典禮現場直播公告Live Stream Announcement-NDHU 113th Academic Year Commencement Ceremony",
+        "timestamp": "1748002591",
+        "url": "mail_display.php?timestamp=1748002591",
+        "date": "2025/05/23 20:16",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "溫小姐",
+            "email": "fengting0804@gms.ndhu.edu.tw",
+            "phone": "6282"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【113學年度畢業典禮】🎉113學年度畢業典禮注意事項~畢業生看過來🔍️Important Notes for the 2025 Graduation Ceremony! ",
         "timestamp": "1747999947",
         "url": "mail_display.php?timestamp=1747999947",
@@ -166,47 +208,5 @@
             "phone": "038903771"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【AI活動講座】AI × No-Code 自動化：n8n 連結 200+服務 快速上手工作坊",
-        "timestamp": "1747896563",
-        "url": "mail_display.php?timestamp=1747896563",
-        "date": "2025/05/22 14:49",
-        "department": "人工智慧辦公室",
-        "author": {
-            "department": "人工智慧辦公室",
-            "name": "林佩瑤",
-            "email": "peiyao@gms.ndhu.edu.tw",
-            "phone": "6013"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "🚀 數位行銷力全面進化！花蓮5-7月AI\u0026數位應用密集班開跑！",
-        "timestamp": "1747881262",
-        "url": "mail_display.php?timestamp=1747881262",
-        "date": "2025/05/22 10:34",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "翁欣儀",
-            "email": "cari20240307@gms.ndhu.edu.tw",
-            "phone": "038221316"
-        },
-        "attachmentCount": 7
-    },
-    {
-        "title": "【代轉學生選舉委員會公告】🗳️第15屆學生自治會選舉【投票日】Student Association Election Day",
-        "timestamp": "1747874407",
-        "url": "mail_display.php?timestamp=1747874407",
-        "date": "2025/05/22 08:40",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "姜紫淇",
-            "email": "yaya@gms.ndhu.edu.tw",
-            "phone": "03-8906235"
-        },
-        "attachmentCount": 6
     }
 ]

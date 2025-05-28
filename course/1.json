@@ -1,5 +1,19 @@
 [
     {
+        "title": "【招募學員】 轉知中華民國紅十字會114東區(花、東)城市基礎搜救（初階）訓練計畫",
+        "timestamp": "1748402472",
+        "url": "mail_display.php?timestamp=1748402472",
+        "date": "2025/05/28 11:21",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "📢 體育中心113-2學期體適能檢測提醒｜請把握第16週最後機會！(第二次通知)",
         "timestamp": "1748397345",
         "url": "mail_display.php?timestamp=1748397345",
@@ -194,19 +208,5 @@
             "phone": "分機6126"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "114-1 學期 TAICA 開課 東華大學第一次說明會",
-        "timestamp": "1747276586",
-        "url": "mail_display.php?timestamp=1747276586",
-        "date": "2025/05/15 10:36",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "陳禮凡",
-            "email": "lifan.chen@gms.ndhu.edu.tw",
-            "phone": "038906586"
-        },
-        "attachmentCount": 4
     }
 ]

@@ -1,5 +1,47 @@
 [
     {
+        "title": "【AI活動講座】AI × No-Code 自動化：n8n 連結 200+服務 快速上手工作坊",
+        "timestamp": "1747896563",
+        "url": "mail_display.php?timestamp=1747896563",
+        "date": "2025/05/22 14:49",
+        "department": "人工智慧辦公室",
+        "author": {
+            "department": "人工智慧辦公室",
+            "name": "林佩瑤",
+            "email": "peiyao@gms.ndhu.edu.tw",
+            "phone": "6013"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "🚀 數位行銷力全面進化！花蓮5-7月AI\u0026數位應用密集班開跑！",
+        "timestamp": "1747881262",
+        "url": "mail_display.php?timestamp=1747881262",
+        "date": "2025/05/22 10:34",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "翁欣儀",
+            "email": "cari20240307@gms.ndhu.edu.tw",
+            "phone": "038221316"
+        },
+        "attachmentCount": 7
+    },
+    {
+        "title": "【代轉學生選舉委員會公告】🗳️第15屆學生自治會選舉【投票日】Student Association Election Day",
+        "timestamp": "1747874407",
+        "url": "mail_display.php?timestamp=1747874407",
+        "date": "2025/05/22 08:40",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "姜紫淇",
+            "email": "yaya@gms.ndhu.edu.tw",
+            "phone": "03-8906235"
+        },
+        "attachmentCount": 6
+    },
+    {
         "title": "114.5.28（三）中午12:10_114-1人社院在地社會實踐課程-「慢城與地方創生」線上選課說明會",
         "timestamp": "1747871702",
         "url": "mail_display.php?timestamp=1747871702",
@@ -166,47 +208,5 @@
             "phone": "5266"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【應數系演講】114-05-28陳延安博士",
-        "timestamp": "1747785301",
-        "url": "mail_display.php?timestamp=1747785301",
-        "date": "2025/05/21 07:55",
-        "department": "理工學院 應用數學系",
-        "author": {
-            "department": "理工學院 應用數學系",
-            "name": "陳素琳",
-            "email": "chsulin@gms.ndhu.edu.tw",
-            "phone": "3561"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【第15屆學生自治會選舉】 🎉投完票請你吃冰！東華大學「民主冰棒」限量發送🍦",
-        "timestamp": "1747712127",
-        "url": "mail_display.php?timestamp=1747712127",
-        "date": "2025/05/20 11:35",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "姜紫淇",
-            "email": "yaya@gms.ndhu.edu.tw",
-            "phone": "03-8906235"
-        },
-        "attachmentCount": 10
-    },
-    {
-        "title": "東兔團隊招募收件即將截止~快來報名一起打造最有創意 × 最有溫度的校園行動！",
-        "timestamp": "1747708263",
-        "url": "mail_display.php?timestamp=1747708263",
-        "date": "2025/05/20 10:31",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "吳星穎",
-            "email": "carmier@gms.ndhu.edu.tw",
-            "phone": "8906252"
-        },
-        "attachmentCount": 1
     }
 ]
