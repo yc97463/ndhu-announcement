@@ -1,5 +1,61 @@
 [
     {
+        "title": "📢 體育中心113-2學期體適能檢測提醒｜請把握第16週最後機會！(第二次通知)",
+        "timestamp": "1748397345",
+        "url": "mail_display.php?timestamp=1748397345",
+        "date": "2025/05/28 09:55",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "莊璦綺",
+            "email": "ichi@gms.ndhu.edu.tw",
+            "phone": "6613"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【徵才】臺北市政府工務局公園路燈工程管理處招募約僱人員(土木類別)(114年6月2日截止)",
+        "timestamp": "1748396639",
+        "url": "mail_display.php?timestamp=1748396639",
+        "date": "2025/05/28 09:43",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 4
+    },
+    {
+        "title": "【畢業生請注意】提醒學位服歸還期限。【Attention Graduates】 Reminder of Degree Uniform Return Deadline",
+        "timestamp": "1748394793",
+        "url": "mail_display.php?timestamp=1748394793",
+        "date": "2025/05/28 09:13",
+        "department": "總務處保管組",
+        "author": {
+            "department": "總務處保管組",
+            "name": "陳鵬安",
+            "email": "led973@gms.ndhu.edu.tw",
+            "phone": "890-6343"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "「縱目歐亞-空間與人文的對話」課程系列講座_06/11（三）原友蘭副教授（東海大學景觀系）_飛行與足跡：來自打卡與觀察數據的觀光衝擊圖譜",
+        "timestamp": "1748390111",
+        "url": "mail_display.php?timestamp=1748390111",
+        "date": "2025/05/28 07:55",
+        "department": "人文社會科學學院 ",
+        "author": {
+            "department": "人文社會科學學院",
+            "name": "姜妃澤",
+            "email": "ftc1029@gms.ndhu.edu.tw",
+            "phone": "03-8905203"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113-2理工學院書卷獎頒獎典禮",
         "timestamp": "1748390110",
         "url": "mail_display.php?timestamp=1748390110",
@@ -152,61 +208,5 @@
             "phone": "6667"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "圖書資訊處徵聘【校務行政系統開發】碩士級技術師一名",
-        "timestamp": "1748337903",
-        "url": "mail_display.php?timestamp=1748337903",
-        "date": "2025/05/27 17:25",
-        "department": "圖書資訊處",
-        "author": {
-            "department": "圖書資訊處",
-            "name": "周小萍",
-            "email": "hedy@gms.ndhu.edu.tw",
-            "phone": "8906852"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【歡迎報名】東華大學「學期週數調整諮詢會」",
-        "timestamp": "1748336274",
-        "url": "mail_display.php?timestamp=1748336274",
-        "date": "2025/05/27 16:57",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "陳君如",
-            "email": "ju@gms.ndhu.edu.tw",
-            "phone": "6124"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【徵才】花蓮縣政府114年6月7日辦理114年度就業博覽會",
-        "timestamp": "1748329824",
-        "url": "mail_display.php?timestamp=1748329824",
-        "date": "2025/05/27 15:10",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "【把愛傳下去─二手教科書捐贈活動】",
-        "timestamp": "1748326188",
-        "url": "mail_display.php?timestamp=1748326188",
-        "date": "2025/05/27 14:09",
-        "department": "圖書資訊處採訪編目組",
-        "author": {
-            "department": "圖書資訊處採訪編目組",
-            "name": "林孟蓉",
-            "email": "rita@gms.ndhu.edu.tw",
-            "phone": "(03)890-6814"
-        },
-        "attachmentCount": 0
     }
 ]
