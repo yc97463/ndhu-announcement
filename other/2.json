@@ -1,5 +1,19 @@
 [
     {
+        "title": "114-1社會創新課程公告",
+        "timestamp": "1747895624",
+        "url": "mail_display.php?timestamp=1747895624",
+        "date": "2025/05/22 14:33",
+        "department": "社會學系",
+        "author": {
+            "department": "社會學系",
+            "name": "社會系",
+            "email": "nancyya@gms.ndhu.edu.tw",
+            "phone": "5582"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "114年教職員工消防演練公告。",
         "timestamp": "1747883470",
         "url": "mail_display.php?timestamp=1747883470",
@@ -194,19 +208,5 @@
             "phone": "8906344"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "✨點亮校園塔樓燈光~祝福畢業生前途光明似錦✨✨Light up the campus tower~Wish the graduates a bright future✨",
-        "timestamp": "1747560664",
-        "url": "mail_display.php?timestamp=1747560664",
-        "date": "2025/05/18 17:31",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "溫小姐",
-            "email": "fengting0804@gms.ndhu.edu.tw",
-            "phone": "6282"
-        },
-        "attachmentCount": 4
     }
 ]

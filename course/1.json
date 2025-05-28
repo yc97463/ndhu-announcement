@@ -1,5 +1,19 @@
 [
     {
+        "title": "📢 體育中心113-2學期體適能檢測提醒｜請把握第16週最後機會！(第二次通知)",
+        "timestamp": "1748397345",
+        "url": "mail_display.php?timestamp=1748397345",
+        "date": "2025/05/28 09:55",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "莊璦綺",
+            "email": "ichi@gms.ndhu.edu.tw",
+            "phone": "6613"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【歡迎報名】東華大學「學期週數調整諮詢會」",
         "timestamp": "1748336274",
         "url": "mail_display.php?timestamp=1748336274",
@@ -194,19 +208,5 @@
             "phone": "038906586"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "第27屆「心靈捕手✨」招募說明會-💪你來~就是對的人💪",
-        "timestamp": "1747212739",
-        "url": "mail_display.php?timestamp=1747212739",
-        "date": "2025/05/14 16:52",
-        "department": "社會參與中心",
-        "author": {
-            "department": "社會參與中心",
-            "name": "黃小姐",
-            "email": "yuxuan22@gms.ndhu.edu.tw",
-            "phone": "5246"
-        },
-        "attachmentCount": 3
     }
 ]
