@@ -1,5 +1,19 @@
 [
     {
+        "title": "【113-2推廣教育招生】「人物肖像似顏繪創作坊」",
+        "timestamp": "1748478259",
+        "url": "mail_display.php?timestamp=1748478259",
+        "date": "2025/05/29 08:24",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "8906607"
+        },
+        "attachmentCount": 6
+    },
+    {
         "title": "【招募學員】 轉知中華民國紅十字會114東區(花、東)城市基礎搜救（初階）訓練計畫",
         "timestamp": "1748402472",
         "url": "mail_display.php?timestamp=1748402472",
@@ -194,19 +208,5 @@
             "phone": "03-8905247"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "114-1「微課程\u0026BRICK學程」說明會🧾💡｜全新規劃帶你學分、經驗一網打盡〰️",
-        "timestamp": "1746782302",
-        "url": "mail_display.php?timestamp=1746782302",
-        "date": "2025/05/09 17:18",
-        "department": "社會參與中心",
-        "author": {
-            "department": "社會參與中心",
-            "name": "黃小姐",
-            "email": "yuxuan22@gms.ndhu.edu.tw",
-            "phone": "5246"
-        },
-        "attachmentCount": 4
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "【113-2推廣教育招生】「人物肖像似顏繪創作坊」",
+        "timestamp": "1748478259",
+        "url": "mail_display.php?timestamp=1748478259",
+        "date": "2025/05/29 08:24",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "8906607"
+        },
+        "attachmentCount": 6
+    },
+    {
         "title": "📣 《AI賦能行銷實戰系列課程》開始報名啦！",
         "timestamp": "1748418132",
         "url": "mail_display.php?timestamp=1748418132",
@@ -194,19 +208,5 @@
             "phone": "8906607"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【課務組】114年大學部準新生暑期先修課程",
-        "timestamp": "1747289896",
-        "url": "mail_display.php?timestamp=1747289896",
-        "date": "2025/05/15 14:18",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "宋育縈",
-            "email": "suz@gms.ndhu.edu.tw",
-            "phone": "分機6126"
-        },
-        "attachmentCount": 1
     }
 ]
