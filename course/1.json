@@ -1,5 +1,19 @@
 [
     {
+        "title": "【教育大數據產學合作與專題實作】114-1學程實務課推廣",
+        "timestamp": "1748484367",
+        "url": "mail_display.php?timestamp=1748484367",
+        "date": "2025/05/29 10:06",
+        "department": "資訊管理學系",
+        "author": {
+            "department": "資訊管理學系",
+            "name": "張先生",
+            "email": "yunkai@gms.ndhu.edu.tw",
+            "phone": "3176"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【113-2推廣教育招生】「人物肖像似顏繪創作坊」",
         "timestamp": "1748478259",
         "url": "mail_display.php?timestamp=1748478259",
@@ -194,19 +208,5 @@
             "phone": "6602"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "公告114學年度第1學期校核心通識課程規劃重要相關注意事項Important Information about the University Core General Education Curriculum for Autumn 2025",
-        "timestamp": "1747354996",
-        "url": "mail_display.php?timestamp=1747354996",
-        "date": "2025/05/16 08:23",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 2
     }
 ]
