@@ -1,5 +1,33 @@
 [
     {
+        "title": "【資工系專題講座】114/06/06(五) 簡暐哲副處長",
+        "timestamp": "1748562902",
+        "url": "mail_display.php?timestamp=1748562902",
+        "date": "2025/05/30 07:55",
+        "department": "理工學院 資訊工程學系",
+        "author": {
+            "department": "理工學院 資訊工程學系",
+            "name": "葉子綺",
+            "email": "kiki2002@gms.ndhu.edu.tw",
+            "phone": "5012"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113-2族文系期末系員大會",
+        "timestamp": "1748562901",
+        "url": "mail_display.php?timestamp=1748562901",
+        "date": "2025/05/30 07:55",
+        "department": "原住民民族學院 族群關係與文化學系",
+        "author": {
+            "department": "原住民民族學院 族群關係與文化學系",
+            "name": "黃淑美",
+            "email": "411196017@gms.ndhu.edu.tw",
+            "phone": "邱毓陞 0908059539"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "《2025花蓮青年鏈結地方產業專題成果補助計畫》延長收件至6/2！",
         "timestamp": "1748504285",
         "url": "mail_display.php?timestamp=1748504285",
@@ -180,33 +208,5 @@
             "phone": "890-6056"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "📣 《AI賦能行銷實戰系列課程》開始報名啦！",
-        "timestamp": "1748418132",
-        "url": "mail_display.php?timestamp=1748418132",
-        "date": "2025/05/28 15:42",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "詹雯雯",
-            "email": "wzhan0103@gms.ndhu.edu.tw",
-            "phone": "03-8903984"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "🍉 東華首次🍉【校園西瓜大賽】吃瓜吃到笑出來！",
-        "timestamp": "1748416805",
-        "url": "mail_display.php?timestamp=1748416805",
-        "date": "2025/05/28 15:20",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "無邊境合作社",
-            "email": "techusr@gms.ndhu.edu.tw",
-            "phone": "(03)8903780"
-        },
-        "attachmentCount": 2
     }
 ]
