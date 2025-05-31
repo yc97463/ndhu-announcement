@@ -1,5 +1,33 @@
 [
     {
+        "title": "【演講公告】AI走入教育現場實境的可能",
+        "timestamp": "1748243984",
+        "url": "mail_display.php?timestamp=1748243984",
+        "date": "2025/05/26 15:19",
+        "department": "教育與潛能開發學系",
+        "author": {
+            "department": "教育與潛能開發學系",
+            "name": "黃芝嫻",
+            "email": "411088019@gms.ndhu.edu.tw",
+            "phone": "038903822"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【學生自主學習社群】114-1學期社群即日起開放徵件，歡迎有興趣的同學組團申請!!",
+        "timestamp": "1748242403",
+        "url": "mail_display.php?timestamp=1748242403",
+        "date": "2025/05/26 14:53",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "李貞穎",
+            "email": "jeannie@gms.ndhu.edu.tw",
+            "phone": "8906587"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【更新簡章】中國 南京農業大學2025年兩岸大學生農業農村現代化與公共治理創新研習",
         "timestamp": "1748225860",
         "url": "mail_display.php?timestamp=1748225860",
@@ -180,33 +208,5 @@
             "phone": "5107"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "🎉 國立東華大學 銀髮健身俱樂部 114年暑期體能訓練室志工招募開跑！",
-        "timestamp": "1747963156",
-        "url": "mail_display.php?timestamp=1747963156",
-        "date": "2025/05/23 09:19",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "莊璦綺",
-            "email": "ichi@gms.ndhu.edu.tw",
-            "phone": "6613"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "今晚19點【東華新聲】東華交響2025交響協奏音樂會",
-        "timestamp": "1747960677",
-        "url": "mail_display.php?timestamp=1747960677",
-        "date": "2025/05/23 08:37",
-        "department": "音樂學系",
-        "author": {
-            "department": "音樂學系",
-            "name": "張純倩",
-            "email": "asd963741@gms.ndhu.edu.tw",
-            "phone": "03-8905168"
-        },
-        "attachmentCount": 3
     }
 ]
