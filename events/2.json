@@ -1,5 +1,19 @@
 [
     {
+        "title": "【教育大數據產學合作與專題實作】114-1學程實務課推廣",
+        "timestamp": "1748484367",
+        "url": "mail_display.php?timestamp=1748484367",
+        "date": "2025/05/29 10:06",
+        "department": "資訊管理學系",
+        "author": {
+            "department": "資訊管理學系",
+            "name": "張先生",
+            "email": "yunkai@gms.ndhu.edu.tw",
+            "phone": "3176"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【113-2推廣教育招生】「人物肖像似顏繪創作坊」",
         "timestamp": "1748478259",
         "url": "mail_display.php?timestamp=1748478259",
@@ -194,19 +208,5 @@
             "phone": "03-8906021"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【招募學員】 轉知中華民國紅十字會114東區(花、東)城市基礎搜救（初階）訓練計畫",
-        "timestamp": "1748402472",
-        "url": "mail_display.php?timestamp=1748402472",
-        "date": "2025/05/28 11:21",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 3
     }
 ]
