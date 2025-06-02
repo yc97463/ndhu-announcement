@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】華嚴蓮社114年大專學生佛學慈孝獎學金",
+        "timestamp": "1748832619",
+        "url": "mail_display.php?timestamp=1748832619",
+        "date": "2025/06/02 10:50",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【徵才】中央銀行招募經濟金融研究專業人員（辦事員）(114年6月30日截止)",
         "timestamp": "1748831247",
         "url": "mail_display.php?timestamp=1748831247",
@@ -194,19 +208,5 @@
             "phone": "8906607"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "AI素養培力講座",
-        "timestamp": "1748476505",
-        "url": "mail_display.php?timestamp=1748476505",
-        "date": "2025/05/29 07:55",
-        "department": "人文社會科學學院 諮商與臨床心理學系",
-        "author": {
-            "department": "人文社會科學學院 諮商與臨床心理學系",
-            "name": "王沂釗",
-            "email": "scholarwang@gms.ndhu.edu.tw",
-            "phone": "5654"
-        },
-        "attachmentCount": 0
     }
 ]
