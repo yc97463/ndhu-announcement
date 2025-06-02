@@ -1,5 +1,61 @@
 [
     {
+        "title": "(更新版)【學生宿舍】國立東華大學113學年度第二學期學生宿舍「期末閉宿暨行李寄放及暑期住宿」作業公告",
+        "timestamp": "1748416161",
+        "url": "mail_display.php?timestamp=1748416161",
+        "date": "2025/05/28 15:09",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "鍾佩玲",
+            "email": "free22011@gms.ndhu.edu.tw",
+            "phone": "03890-6217"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": " 今晚19點【烏托邦】國立東華大學音樂系管樂團音樂會",
+        "timestamp": "1748415021",
+        "url": "mail_display.php?timestamp=1748415021",
+        "date": "2025/05/28 14:50",
+        "department": "音樂學系",
+        "author": {
+            "department": "音樂學系",
+            "name": "張純倩",
+            "email": "asd963741@gms.ndhu.edu.tw",
+            "phone": "03-8905168"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "【活動】French Lunch Hour第10場5/28(本學期最後一場)Final Session",
+        "timestamp": "1748410492",
+        "url": "mail_display.php?timestamp=1748410492",
+        "date": "2025/05/28 13:34",
+        "department": "語言中心",
+        "author": {
+            "department": "語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "本學期學生免費法律諮詢最終場!",
+        "timestamp": "1748402554",
+        "url": "mail_display.php?timestamp=1748402554",
+        "date": "2025/05/28 11:22",
+        "department": "秘書室法制組",
+        "author": {
+            "department": "秘書室法制組",
+            "name": "阮念慈",
+            "email": "nt0701@gms.ndhu.edu.tw",
+            "phone": "03-8906021"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【招募學員】 轉知中華民國紅十字會114東區(花、東)城市基礎搜救（初階）訓練計畫",
         "timestamp": "1748402472",
         "url": "mail_display.php?timestamp=1748402472",
@@ -152,61 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【畢業生請注意】提醒學位服歸還期限。【Attention Graduates】 Reminder of Degree Uniform Return Deadline",
-        "timestamp": "1748394793",
-        "url": "mail_display.php?timestamp=1748394793",
-        "date": "2025/05/28 09:13",
-        "department": "總務處保管組",
-        "author": {
-            "department": "總務處保管組",
-            "name": "陳鵬安",
-            "email": "led973@gms.ndhu.edu.tw",
-            "phone": "890-6343"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "「縱目歐亞-空間與人文的對話」課程系列講座_06/11（三）原友蘭副教授（東海大學景觀系）_飛行與足跡：來自打卡與觀察數據的觀光衝擊圖譜",
-        "timestamp": "1748390111",
-        "url": "mail_display.php?timestamp=1748390111",
-        "date": "2025/05/28 07:55",
-        "department": "人文社會科學學院 ",
-        "author": {
-            "department": "人文社會科學學院",
-            "name": "姜妃澤",
-            "email": "ftc1029@gms.ndhu.edu.tw",
-            "phone": "03-8905203"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "113-2理工學院書卷獎頒獎典禮",
-        "timestamp": "1748390110",
-        "url": "mail_display.php?timestamp=1748390110",
-        "date": "2025/05/28 07:55",
-        "department": "理工學院",
-        "author": {
-            "department": "理工學院",
-            "name": "黃科智",
-            "email": "vict0913@gms.ndhu.edu.tw",
-            "phone": "(03)8903504"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【材料系演講公告】6/2(一)15:10-17:00鋰電池的性能提升、回收議題與新型態二氧化碳電池的探討",
-        "timestamp": "1748390109",
-        "url": "mail_display.php?timestamp=1748390109",
-        "date": "2025/05/28 07:55",
-        "department": "理工學院 材料科學與工程學系",
-        "author": {
-            "department": "理工學院 材料科學與工程學系",
-            "name": "林淑玲",
-            "email": "shuling@gms.ndhu.edu.tw",
-            "phone": "8903204"
-        },
-        "attachmentCount": 0
     }
 ]
