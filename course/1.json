@@ -1,5 +1,19 @@
 [
     {
+        "title": "【AI活動講座】AI × No-Code 自動化：n8n 連結 200+服務 快速上手工作坊",
+        "timestamp": "1748906049",
+        "url": "mail_display.php?timestamp=1748906049",
+        "date": "2025/06/03 07:14",
+        "department": "人工智慧辦公室",
+        "author": {
+            "department": "人工智慧辦公室",
+            "name": "林佩瑤",
+            "email": "peiyao@gms.ndhu.edu.tw",
+            "phone": "6013"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "行政院人事行政總處辦理114年度「新進人員英語力提升研習班」實施計畫、課程表及報名表",
         "timestamp": "1748850922",
         "url": "mail_display.php?timestamp=1748850922",
@@ -194,19 +208,5 @@
             "phone": "0905-737192"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "國立東華大學113學年度第2學期 通識教育中心 推廣教育 「人物肖像似顏繪創作坊」非學分班招生簡章",
-        "timestamp": "1747614518",
-        "url": "mail_display.php?timestamp=1747614518",
-        "date": "2025/05/19 08:28",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 4
     }
 ]
