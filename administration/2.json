@@ -1,5 +1,19 @@
 [
     {
+        "title": "【圖書館公告】端午節及補假【114.05.30-31 (五至六) 】休館二日。Library will be Closed for Dragon Boat Festival on May 30-31, 2025.",
+        "timestamp": "1748220402",
+        "url": "mail_display.php?timestamp=1748220402",
+        "date": "2025/05/26 08:46",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "詹依萍",
+            "email": "ipchan@gms.ndhu.edu.tw",
+            "phone": "6813"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "今日（5/23）人社ㄧ館ABD棟供水異常說明",
         "timestamp": "1748011662",
         "url": "mail_display.php?timestamp=1748011662",
@@ -194,19 +208,5 @@
             "phone": "038906399"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "國立宜蘭大學114年5月25日(星期日)辦理114年「宜愛之名 蘭情有約」單身聯誼第一梯次活動，目前尚有女性名額(全程參加每人補助新臺幣1,350元)",
-        "timestamp": "1747642792",
-        "url": "mail_display.php?timestamp=1747642792",
-        "date": "2025/05/19 16:19",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "劉昱淩",
-            "email": "e56187@gms.ndhu.edu.tw",
-            "phone": "890-6056"
-        },
-        "attachmentCount": 4
     }
 ]
