@@ -1,5 +1,47 @@
 [
     {
+        "title": "【把愛傳下去─二手教科書捐贈活動】",
+        "timestamp": "1748326188",
+        "url": "mail_display.php?timestamp=1748326188",
+        "date": "2025/05/27 14:09",
+        "department": "圖書資訊處採訪編目組",
+        "author": {
+            "department": "圖書資訊處採訪編目組",
+            "name": "林孟蓉",
+            "email": "rita@gms.ndhu.edu.tw",
+            "phone": "(03)890-6814"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【就業/考試】「114年公務人員特種考試外交領事人員及外交行政人員、國際經濟商務人員、民航人員及原住民族考試」(114年6月6日截止)📣",
+        "timestamp": "1748324975",
+        "url": "mail_display.php?timestamp=1748324975",
+        "date": "2025/05/27 13:49",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【學術講座─國際化人才培育】《全程中文講授》從中國傳統的「禮」談佛教的誦經：重新認識修行對身心健康的益處（線上直播）",
+        "timestamp": "1748310846",
+        "url": "mail_display.php?timestamp=1748310846",
+        "date": "2025/05/27 09:54",
+        "department": "國際事務處國際合作組",
+        "author": {
+            "department": "國際事務處國際合作組",
+            "name": "姜美松",
+            "email": "ariel@gms.ndhu.edu.tw",
+            "phone": "5108"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "東華大學秋野芒劇團公益巡演【山海戲旅系列通識課程】熱情招生中!!",
         "timestamp": "1748305281",
         "url": "mail_display.php?timestamp=1748305281",
@@ -166,47 +208,5 @@
             "phone": "038903822"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【學生自主學習社群】114-1學期社群即日起開放徵件，歡迎有興趣的同學組團申請!!",
-        "timestamp": "1748242403",
-        "url": "mail_display.php?timestamp=1748242403",
-        "date": "2025/05/26 14:53",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "李貞穎",
-            "email": "jeannie@gms.ndhu.edu.tw",
-            "phone": "8906587"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "114-1學期自主學習培力獎勵方案開放申請",
-        "timestamp": "1748242241",
-        "url": "mail_display.php?timestamp=1748242241",
-        "date": "2025/05/26 14:50",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "鄭宏昱",
-            "email": "bighead7361@gms.ndhu.edu.tw",
-            "phone": "6590"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【電腦教室公告】「端午節」114.05.30-114.06.01連續假期，電腦教室不開放。The computer lab one will be closed on May 30-June1, 2025.",
-        "timestamp": "1748228655",
-        "url": "mail_display.php?timestamp=1748228655",
-        "date": "2025/05/26 11:04",
-        "department": "圖書資訊處綜合業務組",
-        "author": {
-            "department": "圖書資訊處綜合業務組",
-            "name": "林循美",
-            "email": "cindy@gms.ndhu.edu.tw",
-            "phone": "8906774"
-        },
-        "attachmentCount": 0
     }
 ]
