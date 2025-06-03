@@ -1,5 +1,19 @@
 [
     {
+        "title": "重要!!【防制校園詐騙宣導通報】假售票防詐-114年5月27日",
+        "timestamp": "1748296985",
+        "url": "mail_display.php?timestamp=1748296985",
+        "date": "2025/05/27 06:03",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "吳昭毅",
+            "email": "wuyi12831@gms.ndhu.edu.tw",
+            "phone": "038906228"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "重要!!【防制校園詐騙宣導通報】假抽獎中獎遭詐騙-114年5月27日",
         "timestamp": "1748296869",
         "url": "mail_display.php?timestamp=1748296869",
@@ -194,19 +208,5 @@
             "phone": "038906228"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【人事室公告】差勤(刷卡)系統於114年5月21日(三)中午12~14時暫停服務",
-        "timestamp": "1747725833",
-        "url": "mail_display.php?timestamp=1747725833",
-        "date": "2025/05/20 15:23",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "劉依虹",
-            "email": "joyce_liu@gms.ndhu.edu.tw",
-            "phone": "6060"
-        },
-        "attachmentCount": 0
     }
 ]
