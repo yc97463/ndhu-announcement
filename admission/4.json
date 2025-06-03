@@ -1,5 +1,19 @@
 [
     {
+        "title": "【課程公告】114年第一梯次《環境教育人員認證課程100小時訓練及評量班暨30小時學歷核心科目研習班》",
+        "timestamp": "1740039933",
+        "url": "mail_display.php?timestamp=1740039933",
+        "date": "2025/02/20 16:25",
+        "department": "永續發展中心",
+        "author": {
+            "department": "永續發展中心",
+            "name": "李敏賢",
+            "email": "sd@gms.ndhu.edu.tw",
+            "phone": "5919"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "體育中心新學期的推廣課程開始報名",
         "timestamp": "1740014665",
         "url": "mail_display.php?timestamp=1740014665",
@@ -194,19 +208,5 @@
             "phone": "03-8903013"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "📊讓你成為教育大數據人才 詳情請見招生說明會",
-        "timestamp": "1733909505",
-        "url": "mail_display.php?timestamp=1733909505",
-        "date": "2024/12/11 17:31",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "黃小姐",
-            "email": "chinghua@gms.ndhu.edu.tw",
-            "phone": "6579"
-        },
-        "attachmentCount": 1
     }
 ]

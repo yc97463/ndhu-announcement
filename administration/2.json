@@ -1,5 +1,33 @@
 [
     {
+        "title": "重要!!【防制校園詐騙宣導通報】假抽獎中獎遭詐騙-114年5月27日",
+        "timestamp": "1748296869",
+        "url": "mail_display.php?timestamp=1748296869",
+        "date": "2025/05/27 06:01",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "吳昭毅",
+            "email": "wuyi12831@gms.ndhu.edu.tw",
+            "phone": "038906228"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【註冊組公告】113-2學期成績預計於114/6/30(週二)下班前開放查詢(請登錄電子學習履歷系統)   The grades for the 113-2 semester are expected to be available for inquiry by the end of work hours on Tuesday, June 30th of 2025 (Please log in to the Electronic Learning Portfolio System).",
+        "timestamp": "1748244942",
+        "url": "mail_display.php?timestamp=1748244942",
+        "date": "2025/05/26 15:35",
+        "department": "教務處註冊組",
+        "author": {
+            "department": "教務處註冊組",
+            "name": "莊珆芸專員",
+            "email": "registration@gms.ndhu.edu.tw",
+            "phone": "03-8906113--6116"
+        },
+        "attachmentCount": 8
+    },
+    {
         "title": "【電腦教室公告】「端午節」114.05.30-114.06.01連續假期，電腦教室不開放。The computer lab one will be closed on May 30-June1, 2025.",
         "timestamp": "1748228655",
         "url": "mail_display.php?timestamp=1748228655",
@@ -180,33 +208,5 @@
             "phone": "6060"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "公文系統訂於114年5月21日(三)中午12~13時暫停服務公告",
-        "timestamp": "1747721000",
-        "url": "mail_display.php?timestamp=1747721000",
-        "date": "2025/05/20 14:03",
-        "department": "總務處文書組",
-        "author": {
-            "department": "總務處文書組",
-            "name": "張先生",
-            "email": "eric.chang@gms.ndhu.edu.tw",
-            "phone": "03-8906352"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "東華大學秋野芒劇團公益巡演【山海戲旅系列通識課程】表單重新開放，招生中!!",
-        "timestamp": "1747701386",
-        "url": "mail_display.php?timestamp=1747701386",
-        "date": "2025/05/20 08:36",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "蔡文潔助理",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "0905-737192"
-        },
-        "attachmentCount": 5
     }
 ]
