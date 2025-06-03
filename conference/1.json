@@ -1,5 +1,19 @@
 [
     {
+        "title": "【114年「雙語浪潮」教師社群講座活動】6/11「善用人工智慧於適性語言學習與教學」講座",
+        "timestamp": "1748931298",
+        "url": "mail_display.php?timestamp=1748931298",
+        "date": "2025/06/03 14:14",
+        "department": "語言中心",
+        "author": {
+            "department": "語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【演講公告】AI走入教育現場實境的可能",
         "timestamp": "1748243984",
         "url": "mail_display.php?timestamp=1748243984",
@@ -194,19 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "歷史系專題演講：美國與戰後臺灣國防航空基礎建設——兼論檔案應用經驗談",
-        "timestamp": "1746511881",
-        "url": "mail_display.php?timestamp=1746511881",
-        "date": "2025/05/06 14:11",
-        "department": "歷史學系",
-        "author": {
-            "department": "歷史學系",
-            "name": "吳助理",
-            "email": "suju1106@gms.ndhu.edu.tw",
-            "phone": "5323"
-        },
-        "attachmentCount": 1
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "歷史系專題演講：美國與戰後臺灣國防航空基礎建設——兼論檔案應用經驗談",
+        "timestamp": "1746511881",
+        "url": "mail_display.php?timestamp=1746511881",
+        "date": "2025/05/06 14:11",
+        "department": "歷史學系",
+        "author": {
+            "department": "歷史學系",
+            "name": "吳助理",
+            "email": "suju1106@gms.ndhu.edu.tw",
+            "phone": "5323"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【多元文化教育講座】實踐之間：邁向真實化的批判教育",
         "timestamp": "1746492560",
         "url": "mail_display.php?timestamp=1746492560",
@@ -194,19 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "  歡迎參加國語文教學「「從備課到上台——準教師的養成之道」",
-        "timestamp": "1745401775",
-        "url": "mail_display.php?timestamp=1745401775",
-        "date": "2025/04/23 17:49",
-        "department": "師資培育中心",
-        "author": {
-            "department": "師資培育中心",
-            "name": "陳淑貞",
-            "email": "sjchen@gms.ndhu.edu.tw",
-            "phone": "(03)8906636"
-        },
-        "attachmentCount": 1
     }
 ]
