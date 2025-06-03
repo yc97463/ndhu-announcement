@@ -1,5 +1,33 @@
 [
     {
+        "title": "AI素養培力講座",
+        "timestamp": "1748476505",
+        "url": "mail_display.php?timestamp=1748476505",
+        "date": "2025/05/29 07:55",
+        "department": "人文社會科學學院 諮商與臨床心理學系",
+        "author": {
+            "department": "人文社會科學學院 諮商與臨床心理學系",
+            "name": "王沂釗",
+            "email": "scholarwang@gms.ndhu.edu.tw",
+            "phone": "5654"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "自資系期末系員大會",
+        "timestamp": "1748476504",
+        "url": "mail_display.php?timestamp=1748476504",
+        "date": "2025/05/29 07:55",
+        "department": "環境暨海洋學院 自然資源與環境學系",
+        "author": {
+            "department": "環境暨海洋學院 自然資源與環境學系",
+            "name": "夏懿心",
+            "email": "411254014@gms.ndhu.edu.tw",
+            "phone": "董祐綸0906-630-370"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "鄭典鋼琴音樂會",
         "timestamp": "1748476503",
         "url": "mail_display.php?timestamp=1748476503",
@@ -178,34 +206,6 @@
             "name": "無邊境合作社",
             "email": "techusr@gms.ndhu.edu.tw",
             "phone": "(03)8903780"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "(Updated Version)【Student Dormitory】National Dong Hwa University 113th Academic Year, Second Semester Announcement on End-of-Term Dormitory Closure, Luggage Storage, and Summer Accommodation Operations",
-        "timestamp": "1748416288",
-        "url": "mail_display.php?timestamp=1748416288",
-        "date": "2025/05/28 15:11",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "鍾佩玲",
-            "email": "free22011@gms.ndhu.edu.tw",
-            "phone": "03890-6217"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "(更新版)【學生宿舍】國立東華大學113學年度第二學期學生宿舍「期末閉宿暨行李寄放及暑期住宿」作業公告",
-        "timestamp": "1748416161",
-        "url": "mail_display.php?timestamp=1748416161",
-        "date": "2025/05/28 15:09",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "鍾佩玲",
-            "email": "free22011@gms.ndhu.edu.tw",
-            "phone": "03890-6217"
         },
         "attachmentCount": 2
     }

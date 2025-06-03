@@ -1,5 +1,33 @@
 [
     {
+        "title": "(Updated Version)【Student Dormitory】National Dong Hwa University 113th Academic Year, Second Semester Announcement on End-of-Term Dormitory Closure, Luggage Storage, and Summer Accommodation Operations",
+        "timestamp": "1748416288",
+        "url": "mail_display.php?timestamp=1748416288",
+        "date": "2025/05/28 15:11",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "鍾佩玲",
+            "email": "free22011@gms.ndhu.edu.tw",
+            "phone": "03890-6217"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "(更新版)【學生宿舍】國立東華大學113學年度第二學期學生宿舍「期末閉宿暨行李寄放及暑期住宿」作業公告",
+        "timestamp": "1748416161",
+        "url": "mail_display.php?timestamp=1748416161",
+        "date": "2025/05/28 15:09",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "鍾佩玲",
+            "email": "free22011@gms.ndhu.edu.tw",
+            "phone": "03890-6217"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": " 今晚19點【烏托邦】國立東華大學音樂系管樂團音樂會",
         "timestamp": "1748415021",
         "url": "mail_display.php?timestamp=1748415021",
@@ -180,33 +208,5 @@
             "phone": "6613"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【徵才】臺北市政府工務局公園路燈工程管理處招募約僱人員(土木類別)(114年6月2日截止)",
-        "timestamp": "1748396639",
-        "url": "mail_display.php?timestamp=1748396639",
-        "date": "2025/05/28 09:43",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "【畢業生請注意】提醒學位服歸還期限。【Attention Graduates】 Reminder of Degree Uniform Return Deadline",
-        "timestamp": "1748394793",
-        "url": "mail_display.php?timestamp=1748394793",
-        "date": "2025/05/28 09:13",
-        "department": "總務處保管組",
-        "author": {
-            "department": "總務處保管組",
-            "name": "陳鵬安",
-            "email": "led973@gms.ndhu.edu.tw",
-            "phone": "890-6343"
-        },
-        "attachmentCount": 2
     }
 ]

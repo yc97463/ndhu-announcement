@@ -1,5 +1,33 @@
 [
     {
+        "title": "行政大樓高樓層辦公室窗台裝設防墜(鴿)網施工公告",
+        "timestamp": "1747817208",
+        "url": "mail_display.php?timestamp=1747817208",
+        "date": "2025/05/21 16:46",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "重要!!【防制校園詐騙宣導通報】攸關學生校外租屋防詐-114年5月21日",
+        "timestamp": "1747735235",
+        "url": "mail_display.php?timestamp=1747735235",
+        "date": "2025/05/20 18:00",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "吳昭毅",
+            "email": "wuyi12831@gms.ndhu.edu.tw",
+            "phone": "038906228"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【人事室公告】差勤(刷卡)系統於114年5月21日(三)中午12~14時暫停服務",
         "timestamp": "1747725833",
         "url": "mail_display.php?timestamp=1747725833",
@@ -180,33 +208,5 @@
             "phone": "8906607"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
-        "timestamp": "1747613999",
-        "url": "mail_display.php?timestamp=1747613999",
-        "date": "2025/05/19 08:19",
-        "department": "圖書資訊處校務系統組",
-        "author": {
-            "department": "圖書資訊處校務系統組",
-            "name": "林志軒",
-            "email": "chshlin@gms.ndhu.edu.tw",
-            "phone": "6752"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【課務組】今日下午起北迴線因強降雨致暫時中斷，受影響之師生，明日（5/19）課程請彈性處理。",
-        "timestamp": "1747567570",
-        "url": "mail_display.php?timestamp=1747567570",
-        "date": "2025/05/18 19:26",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "utd1003@gms.ndhu.edu.tw",
-            "phone": "6122~6126"
-        },
-        "attachmentCount": 0
     }
 ]
