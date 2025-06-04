@@ -1,5 +1,19 @@
 [
     {
+        "title": "【轉知】IC Taiwan Grand Challenge全球徵案競賽資訊",
+        "timestamp": "1749026516",
+        "url": "mail_display.php?timestamp=1749026516",
+        "date": "2025/06/04 16:41",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "李淑淳",
+            "email": "chun@gms.ndhu.edu.tw",
+            "phone": "6522"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "[向晴莊機車棚改建太陽能光電車棚]臨時停車區等施工規劃",
         "timestamp": "1749024566",
         "url": "mail_display.php?timestamp=1749024566",
@@ -194,19 +208,5 @@
             "phone": "6216"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【圖書館公告】113-2期末考延長開館時間。[Library NOTICE] Library Extended Opening Hours for Study and Exam Periods.",
-        "timestamp": "1748917138",
-        "url": "mail_display.php?timestamp=1748917138",
-        "date": "2025/06/03 10:18",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "詹依萍",
-            "email": "ipchan@gms.ndhu.edu.tw",
-            "phone": "6813"
-        },
-        "attachmentCount": 0
     }
 ]

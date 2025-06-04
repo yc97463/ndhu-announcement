@@ -1,5 +1,19 @@
 [
     {
+        "title": "姚微依鋼琴畢業音樂會",
+        "timestamp": "1748476501",
+        "url": "mail_display.php?timestamp=1748476501",
+        "date": "2025/05/29 07:55",
+        "department": "藝術學院 音樂學系",
+        "author": {
+            "department": "藝術學院 音樂學系",
+            "name": "張純倩",
+            "email": "asd963741@gms.ndhu.edu.tw",
+            "phone": "03-8905168"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【K書中心公告】K書中心A館於5/30(五)~6/1(日)休館三日 / K Study Center  A Closed from May 30 to Jun 1",
         "timestamp": "1748422752",
         "url": "mail_display.php?timestamp=1748422752",
@@ -194,19 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "本學期學生免費法律諮詢最終場!",
-        "timestamp": "1748402554",
-        "url": "mail_display.php?timestamp=1748402554",
-        "date": "2025/05/28 11:22",
-        "department": "秘書室法制組",
-        "author": {
-            "department": "秘書室法制組",
-            "name": "阮念慈",
-            "email": "nt0701@gms.ndhu.edu.tw",
-            "phone": "03-8906021"
-        },
-        "attachmentCount": 1
     }
 ]

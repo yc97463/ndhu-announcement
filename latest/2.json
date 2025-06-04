@@ -1,5 +1,19 @@
 [
     {
+        "title": "【圖書館公告】113-2期末考延長開館時間。[Library NOTICE] Library Extended Opening Hours for Study and Exam Periods.",
+        "timestamp": "1748917138",
+        "url": "mail_display.php?timestamp=1748917138",
+        "date": "2025/06/03 10:18",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "詹依萍",
+            "email": "ipchan@gms.ndhu.edu.tw",
+            "phone": "6813"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【圖書館公告】114 暑假優惠借期Summer vacation’s preferential loan period",
         "timestamp": "1748916979",
         "url": "mail_display.php?timestamp=1748916979",
@@ -194,19 +208,5 @@
             "phone": "890-6056"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "🍡🍡114學年度第1學期【深耕起飛計畫-起飛見習生】召募開始囉!🔥🔥",
-        "timestamp": "1748850516",
-        "url": "mail_display.php?timestamp=1748850516",
-        "date": "2025/06/02 15:48",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "鄭小姐",
-            "email": "ting@gms.ndhu.edu.tw",
-            "phone": "8906215"
-        },
-        "attachmentCount": 1
     }
 ]
