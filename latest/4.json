@@ -1,5 +1,47 @@
 [
     {
+        "title": "【資工系專題講座】114/06/06(五) 簡暐哲副處長",
+        "timestamp": "1748562902",
+        "url": "mail_display.php?timestamp=1748562902",
+        "date": "2025/05/30 07:55",
+        "department": "理工學院 資訊工程學系",
+        "author": {
+            "department": "理工學院 資訊工程學系",
+            "name": "葉子綺",
+            "email": "kiki2002@gms.ndhu.edu.tw",
+            "phone": "5012"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "113-2族文系期末系員大會",
+        "timestamp": "1748562901",
+        "url": "mail_display.php?timestamp=1748562901",
+        "date": "2025/05/30 07:55",
+        "department": "原住民民族學院 族群關係與文化學系",
+        "author": {
+            "department": "原住民民族學院 族群關係與文化學系",
+            "name": "黃淑美",
+            "email": "411196017@gms.ndhu.edu.tw",
+            "phone": "邱毓陞 0908059539"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "《2025花蓮青年鏈結地方產業專題成果補助計畫》延長收件至6/2！",
+        "timestamp": "1748504285",
+        "url": "mail_display.php?timestamp=1748504285",
+        "date": "2025/05/29 15:38",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "詹雯雯",
+            "email": "wzhan0103@gms.ndhu.edu.tw",
+            "phone": "03 8903984"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "今晚19點【室內樂之夜】 國立東華大學音樂學系室內樂音樂會",
         "timestamp": "1748500806",
         "url": "mail_display.php?timestamp=1748500806",
@@ -166,47 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "【轉知】延長報名~韓國建國大學–International Summer School (ISS)",
-        "timestamp": "1748420720",
-        "url": "mail_display.php?timestamp=1748420720",
-        "date": "2025/05/28 16:25",
-        "department": "國際事務處國際學生組",
-        "author": {
-            "department": "國際事務處國際學生組",
-            "name": "陳良愛",
-            "email": "issa@gms.ndhu.edu.tw",
-            "phone": "5107"
-        },
-        "attachmentCount": 17
-    },
-    {
-        "title": "📢【公告】國立東華大學 2025 年系際盃 _SUP 闖關接力賽活動簡章發布！",
-        "timestamp": "1748420659",
-        "url": "mail_display.php?timestamp=1748420659",
-        "date": "2025/05/28 16:24",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "莊璦綺",
-            "email": "ichi@gms.ndhu.edu.tw",
-            "phone": "6613"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【論文獎助】公平交易委員會114年度「研究生撰寫研究論文獎助」暨「公平交易季刊徵稿」",
-        "timestamp": "1748419789",
-        "url": "mail_display.php?timestamp=1748419789",
-        "date": "2025/05/28 16:09",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]
