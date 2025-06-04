@@ -1,5 +1,19 @@
 [
     {
+        "title": "自資系期末系員大會",
+        "timestamp": "1748476504",
+        "url": "mail_display.php?timestamp=1748476504",
+        "date": "2025/05/29 07:55",
+        "department": "環境暨海洋學院 自然資源與環境學系",
+        "author": {
+            "department": "環境暨海洋學院 自然資源與環境學系",
+            "name": "夏懿心",
+            "email": "411254014@gms.ndhu.edu.tw",
+            "phone": "董祐綸0906-630-370"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "鄭典鋼琴音樂會",
         "timestamp": "1748476503",
         "url": "mail_display.php?timestamp=1748476503",
@@ -194,19 +208,5 @@
             "phone": "890-6056"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "國立金門大學辦理114年「烘出幸福心滋味」單身聯誼活動",
-        "timestamp": "1748398799",
-        "url": "mail_display.php?timestamp=1748398799",
-        "date": "2025/05/28 10:19",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "劉昱淩",
-            "email": "e56187@gms.ndhu.edu.tw",
-            "phone": "890-6056"
-        },
-        "attachmentCount": 2
     }
 ]
