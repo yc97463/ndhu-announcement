@@ -1,5 +1,19 @@
 [
     {
+        "title": "租屋騙局-租屋族看過來，未看房先匯款必是詐騙!",
+        "timestamp": "1748921442",
+        "url": "mail_display.php?timestamp=1748921442",
+        "date": "2025/06/03 11:30",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "陳詩啓",
+            "email": "sam0831@gms.ndhu.edu.tw",
+            "phone": "6216"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【圖書館公告】113-2期末考延長開館時間。[Library NOTICE] Library Extended Opening Hours for Study and Exam Periods.",
         "timestamp": "1748917138",
         "url": "mail_display.php?timestamp=1748917138",
@@ -194,19 +208,5 @@
             "phone": "890-6056"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "行政院人事行政總處辦理114年度「新進人員英語力提升研習班」實施計畫、課程表及報名表",
-        "timestamp": "1748850922",
-        "url": "mail_display.php?timestamp=1748850922",
-        "date": "2025/06/02 15:55",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "劉昱淩",
-            "email": "e56187@gms.ndhu.edu.tw",
-            "phone": "890-6056"
-        },
-        "attachmentCount": 4
     }
 ]
