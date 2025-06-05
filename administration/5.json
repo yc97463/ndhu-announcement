@@ -1,5 +1,19 @@
 [
     {
+        "title": "【課務組通知】各學制學生114-1課程初選事宜  Preliminary Course Selection for Next Semester",
+        "timestamp": "1747188344",
+        "url": "mail_display.php?timestamp=1747188344",
+        "date": "2025/05/14 10:05",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【更正公告】學人宿舍區樹木修剪作業。",
         "timestamp": "1747186158",
         "url": "mail_display.php?timestamp=1747186158",
@@ -194,19 +208,5 @@
             "phone": "6232"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【轉知】成功大學博物館「第二屆校史與機構史研討會」徵稿",
-        "timestamp": "1746772717",
-        "url": "mail_display.php?timestamp=1746772717",
-        "date": "2025/05/09 14:38",
-        "department": "圖書資訊處採訪編目組",
-        "author": {
-            "department": "圖書資訊處採訪編目組",
-            "name": "張麗玉",
-            "email": "liyu@gms.ndhu.edu.tw",
-            "phone": "6853"
-        },
-        "attachmentCount": 1
     }
 ]

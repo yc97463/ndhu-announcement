@@ -1,5 +1,19 @@
 [
     {
+        "title": "【資安教育訓練_通識】",
+        "timestamp": "1749113108",
+        "url": "mail_display.php?timestamp=1749113108",
+        "date": "2025/06/05 16:45",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "趙心榆",
+            "email": "vsychao@gms.ndhu.edu.tw",
+            "phone": "6722"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【活動】113-2英語電影語言與文化AB活動：《無姦道》 BILLY AND ROGER 校園首映會！",
         "timestamp": "1749108423",
         "url": "mail_display.php?timestamp=1749108423",
@@ -194,19 +208,5 @@
             "phone": "03-8906377"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "🔥🔥勞動部113-114年度大專校院職場企業參訪-114年下半年開放申請囉~~(校內收件至114年6月25日止)",
-        "timestamp": "1749022998",
-        "url": "mail_display.php?timestamp=1749022998",
-        "date": "2025/06/04 15:43",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "郭舒羽",
-            "email": "hdoion@gms.ndhu.edu.tw",
-            "phone": "038906284"
-        },
-        "attachmentCount": 3
     }
 ]
