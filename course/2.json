@@ -1,5 +1,19 @@
 [
     {
+        "title": "114-1社會創新課程公告",
+        "timestamp": "1747962255",
+        "url": "mail_display.php?timestamp=1747962255",
+        "date": "2025/05/23 09:04",
+        "department": "社會學系",
+        "author": {
+            "department": "社會學系",
+            "name": "社會系",
+            "email": "nancyya@gms.ndhu.edu.tw",
+            "phone": "5582"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "114-1人社院在地社會實踐課程-「慢城與地方創生」選課說明會（114.5.28中午12:10）",
         "timestamp": "1747902511",
         "url": "mail_display.php?timestamp=1747902511",
@@ -194,19 +208,5 @@
             "phone": "6282"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "纖絲記憶：走進噶瑪蘭 ni tenunan tu benina 香蕉絲文化工藝體驗與參訪",
-        "timestamp": "1747185217",
-        "url": "mail_display.php?timestamp=1747185217",
-        "date": "2025/05/14 09:13",
-        "department": "原住民族學生資源中心",
-        "author": {
-            "department": "原住民族學生資源中心",
-            "name": "曾暐娟",
-            "email": "kinu@gms.ndhu.edu.tw",
-            "phone": "038905759"
-        },
-        "attachmentCount": 2
     }
 ]
