@@ -1,5 +1,33 @@
 [
     {
+        "title": "🤑獎金五千元🤑《東湖樂閣大初徵 第六季》",
+        "timestamp": "1749104467",
+        "url": "mail_display.php?timestamp=1749104467",
+        "date": "2025/06/05 14:21",
+        "department": "藝術中心",
+        "author": {
+            "department": "藝術中心",
+            "name": "周葦綸",
+            "email": "arts@gms.ndhu.edu.tw",
+            "phone": "6606"
+        },
+        "attachmentCount": 7
+    },
+    {
+        "title": "【資安公告】行政院公共工程委員會訂定「採購契約範本附記條款特別聲明」",
+        "timestamp": "1749104373",
+        "url": "mail_display.php?timestamp=1749104373",
+        "date": "2025/06/05 14:19",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "蕭澤宇",
+            "email": "zyhsiao@gms.ndhu.edu.tw",
+            "phone": "6727"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【徵才】臺中市就業服務處114年6月21日辦理「富市台中 就業成功」暑期打工聯合徵才",
         "timestamp": "1749100685",
         "url": "mail_display.php?timestamp=1749100685",
@@ -180,33 +208,5 @@
             "phone": "890-6056"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "這樣運動可以預防失智症",
-        "timestamp": "1749020222",
-        "url": "mail_display.php?timestamp=1749020222",
-        "date": "2025/06/04 14:57",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "楊曉青",
-            "email": "cindy4434@gms.ndhu.edu.tw",
-            "phone": "8906254"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【徵才】花蓮縣身心健康及成癮防治所計畫及約用人員招募(114年6月18日截止)",
-        "timestamp": "1749018954",
-        "url": "mail_display.php?timestamp=1749018954",
-        "date": "2025/06/04 14:35",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "【更正公告】學人宿舍區樹木修剪作業。",
+        "timestamp": "1747186158",
+        "url": "mail_display.php?timestamp=1747186158",
+        "date": "2025/05/14 09:29",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "賴宜萱",
+            "email": "lai0210@gms.ndhu.edu.tw",
+            "phone": "6393"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "本校教學區將於114年5月22日至5月23日進行病媒蚊防治消毒作業，敬請配合。Mosquito-Borne Disease Prevention and Disinfection in the Academic Area on May 22nd and 23rd, 2025",
         "timestamp": "1747185908",
         "url": "mail_display.php?timestamp=1747185908",
@@ -192,20 +206,6 @@
             "name": "張麗玉",
             "email": "liyu@gms.ndhu.edu.tw",
             "phone": "6853"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【人事室公告】113學年度第2學期人文社會科學學院院長候選人治院理念說明會",
-        "timestamp": "1746771002",
-        "url": "mail_display.php?timestamp=1746771002",
-        "date": "2025/05/09 14:10",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "楊惠雯",
-            "email": "hwyang@gms.ndhu.edu.tw",
-            "phone": "6061"
         },
         "attachmentCount": 1
     }
