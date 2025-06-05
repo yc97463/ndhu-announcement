@@ -1,5 +1,19 @@
 [
     {
+        "title": "113-2縱谷跨域書院家族成果展（工作人員）",
+        "timestamp": "1748390108",
+        "url": "mail_display.php?timestamp=1748390108",
+        "date": "2025/05/28 07:55",
+        "department": "洄瀾學院 縱谷跨域書院學士學位學程",
+        "author": {
+            "department": "洄瀾學院 縱谷跨域書院學士學位學程",
+            "name": "蔡怡臻",
+            "email": "eng720@gms.ndhu.edu.tw",
+            "phone": "6023"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113-2縱谷跨域書院家族成果展（來賓）",
         "timestamp": "1748390107",
         "url": "mail_display.php?timestamp=1748390107",
@@ -194,19 +208,5 @@
             "phone": "5107"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【會計學系】演講：財報舞弊案例研討-光洋應用材料科技股份有限公司",
-        "timestamp": "1748217301",
-        "url": "mail_display.php?timestamp=1748217301",
-        "date": "2025/05/26 07:55",
-        "department": "管理學院 會計學系",
-        "author": {
-            "department": "管理學院 會計學系",
-            "name": "陳良玫",
-            "email": "chrischen@gms.ndhu.edu.tw",
-            "phone": "3072"
-        },
-        "attachmentCount": 0
     }
 ]
