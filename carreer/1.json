@@ -1,5 +1,19 @@
 [
     {
+        "title": "國立東華大學總務處環境保護組徵聘助理1名",
+        "timestamp": "1749085841",
+        "url": "mail_display.php?timestamp=1749085841",
+        "date": "2025/06/05 09:10",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "陳小姐",
+            "email": "aspen@gms.ndhu.edu.tw",
+            "phone": "6392"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "圖書資訊處徵聘【校務行政系統開發】碩士級技術師一名",
         "timestamp": "1748337903",
         "url": "mail_display.php?timestamp=1748337903",
@@ -194,19 +208,5 @@
             "phone": "03-8905752"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【徵才】國立東華大學國際事務處徵聘助理2名",
-        "timestamp": "1746088059",
-        "url": "mail_display.php?timestamp=1746088059",
-        "date": "2025/05/01 16:27",
-        "department": "國際事務處",
-        "author": {
-            "department": "國際事務處",
-            "name": "劉力綺",
-            "email": "cheerio@gms.ndhu.edu.tw",
-            "phone": "5109"
-        },
-        "attachmentCount": 0
     }
 ]

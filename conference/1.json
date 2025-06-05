@@ -1,5 +1,19 @@
 [
     {
+        "title": "【Forward 協助轉知】「洄瀾淨學堂」系列之 ESG 永續發展講座",
+        "timestamp": "1749086584",
+        "url": "mail_display.php?timestamp=1749086584",
+        "date": "2025/06/05 09:23",
+        "department": "永續發展中心",
+        "author": {
+            "department": "永續發展中心",
+            "name": "李莉莉 Li-Li Lee",
+            "email": "sd@gms.ndhu.edu.tw",
+            "phone": "03-890-5920"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【114年「雙語浪潮」教師社群講座活動】6/11「善用人工智慧於適性語言學習與教學」講座",
         "timestamp": "1748931298",
         "url": "mail_display.php?timestamp=1748931298",
@@ -194,19 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【114年「雙語浪潮」教師社群講座活動】5/21「教育部教學實踐研究計畫撰寫及執行經驗分享──多模態創作專題建構英文讀寫學習歷程之實踐與反思」講座",
-        "timestamp": "1746608294",
-        "url": "mail_display.php?timestamp=1746608294",
-        "date": "2025/05/07 16:58",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 2
     }
 ]
