@@ -1,5 +1,19 @@
 [
     {
+        "title": "🎭 街舞進場．聲心合一｜藝術與人文領域教學探索實作工作坊",
+        "timestamp": "1748999890",
+        "url": "mail_display.php?timestamp=1748999890",
+        "date": "2025/06/04 09:18",
+        "department": "音樂學系",
+        "author": {
+            "department": "音樂學系",
+            "name": "張純倩",
+            "email": "asd963741@gms.ndhu.edu.tw",
+            "phone": "03-8905168"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "東華電子報 | 2025年05月刊 |",
         "timestamp": "1748997438",
         "url": "mail_display.php?timestamp=1748997438",
@@ -194,19 +208,5 @@
             "phone": "03-8905168"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【工讀生徵選】生輔組徵選114學年新生宿舍進住 工讀生",
-        "timestamp": "1748908131",
-        "url": "mail_display.php?timestamp=1748908131",
-        "date": "2025/06/03 07:48",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "吳昭毅",
-            "email": "wuyi12831@gms.ndhu.edu.tw",
-            "phone": "038906228"
-        },
-        "attachmentCount": 1
     }
 ]
