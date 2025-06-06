@@ -1,5 +1,19 @@
 [
     {
+        "title": "歷史系專題演講：「移動與空間：點線面串連起來的交通史」",
+        "timestamp": "1745808416",
+        "url": "mail_display.php?timestamp=1745808416",
+        "date": "2025/04/28 10:46",
+        "department": "歷史學系",
+        "author": {
+            "department": "歷史學系",
+            "name": "吳助理",
+            "email": "suju1106@gms.ndhu.edu.tw",
+            "phone": "5323"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【活動】114年度高等教育深耕計畫素養導向教學增能系列講座：第1場5/14",
         "timestamp": "1745744190",
         "url": "mail_display.php?timestamp=1745744190",
@@ -194,19 +208,5 @@
             "phone": "03-8903267"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【代轉】人社期刊申請加入國際引文資料庫（Web of Science與Scopus）推廣說明會",
-        "timestamp": "1744184777",
-        "url": "mail_display.php?timestamp=1744184777",
-        "date": "2025/04/09 15:46",
-        "department": "圖書資訊處",
-        "author": {
-            "department": "圖書資訊處",
-            "name": "周小萍",
-            "email": "hedy@gms.ndhu.edu.tw",
-            "phone": "6852"
-        },
-        "attachmentCount": 2
     }
 ]

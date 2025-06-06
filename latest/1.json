@@ -1,5 +1,19 @@
 [
     {
+        "title": "6/13《OSCE在心理衡鑑初次晤談之應用：以憂鬱症個案為例》新書發表會(花蓮場)",
+        "timestamp": "1749200423",
+        "url": "mail_display.php?timestamp=1749200423",
+        "date": "2025/06/06 17:00",
+        "department": "諮商與臨床心理學系",
+        "author": {
+            "department": "諮商與臨床心理學系",
+            "name": "徐小姐",
+            "email": "mandy_hsu@gms.ndhu.edu.tw",
+            "phone": "5633"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "[消防演練]114年6月9日(一)消防搶救演練公告。",
         "timestamp": "1749193134",
         "url": "mail_display.php?timestamp=1749193134",
@@ -194,19 +208,5 @@
             "phone": "6060"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【Forward 協助轉知】「洄瀾淨學堂」系列之 ESG 永續發展講座",
-        "timestamp": "1749086584",
-        "url": "mail_display.php?timestamp=1749086584",
-        "date": "2025/06/05 09:23",
-        "department": "永續發展中心",
-        "author": {
-            "department": "永續發展中心",
-            "name": "李莉莉 Li-Li Lee",
-            "email": "sd@gms.ndhu.edu.tw",
-            "phone": "03-890-5920"
-        },
-        "attachmentCount": 4
     }
 ]
