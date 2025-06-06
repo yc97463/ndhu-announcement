@@ -1,5 +1,33 @@
 [
     {
+        "title": "【停電】學人宿舍線路配電盤線路破損包覆。",
+        "timestamp": "1749205241",
+        "url": "mail_display.php?timestamp=1749205241",
+        "date": "2025/06/06 18:20",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "理工一館B棟1樓走道天花板拆除公告",
+        "timestamp": "1749203737",
+        "url": "mail_display.php?timestamp=1749203737",
+        "date": "2025/06/06 17:55",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "邱健榮",
+            "email": "janus@gms.ndhu.edu.tw",
+            "phone": "6385"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "[消防演練]114年6月9日(一)消防搶救演練公告。",
         "timestamp": "1749193134",
         "url": "mail_display.php?timestamp=1749193134",
@@ -180,33 +208,5 @@
             "phone": "038906228"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "114-1學期新舊生註冊須知Summary of the registration procedures in the 114-1 semester",
-        "timestamp": "1748847803",
-        "url": "mail_display.php?timestamp=1748847803",
-        "date": "2025/06/02 15:03",
-        "department": "教務處註冊組",
-        "author": {
-            "department": "教務處註冊組",
-            "name": "羅靖雯",
-            "email": "chage2000.tw@gms.ndhu.edu.tw",
-            "phone": "6115"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【無菸校園宣導】「禁止攜帶電子煙或加熱菸入境」之英日韓三國語言版本宣導單張，請參考使用",
-        "timestamp": "1748835140",
-        "url": "mail_display.php?timestamp=1748835140",
-        "date": "2025/06/02 11:32",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 3
     }
 ]
