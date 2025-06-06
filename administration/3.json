@@ -1,5 +1,19 @@
 [
     {
+        "title": "今日（5/23）人社ㄧ館ABD棟供水異常說明",
+        "timestamp": "1748011662",
+        "url": "mail_display.php?timestamp=1748011662",
+        "date": "2025/05/23 22:47",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【人事室公告】更新差勤(刷卡)系統網址，請以新的網址登入及簽到退。(即刻可用新網址登入)",
         "timestamp": "1747992761",
         "url": "mail_display.php?timestamp=1747992761",
@@ -194,19 +208,5 @@
             "phone": "890-6056"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "各單位擬推薦參加本（114）年度「教育部社會教育貢獻獎」之案件，請於114年6月4日前將推薦名單及相關表件送人事室彙辦",
-        "timestamp": "1747642499",
-        "url": "mail_display.php?timestamp=1747642499",
-        "date": "2025/05/19 16:14",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "劉昱淩",
-            "email": "e56187@gms.ndhu.edu.tw",
-            "phone": "890-6056"
-        },
-        "attachmentCount": 6
     }
 ]

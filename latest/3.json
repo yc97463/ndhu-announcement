@@ -1,5 +1,19 @@
 [
     {
+        "title": "【資安宣導】請定期變更您的密碼",
+        "timestamp": "1748938689",
+        "url": "mail_display.php?timestamp=1748938689",
+        "date": "2025/06/03 16:18",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "趙心榆",
+            "email": "vsychao@gms.ndhu.edu.tw",
+            "phone": "6722"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【114年「雙語浪潮」教師社群講座活動】6/11「善用人工智慧於適性語言學習與教學」講座",
         "timestamp": "1748931298",
         "url": "mail_display.php?timestamp=1748931298",
@@ -194,19 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "國立中央大學辦理114年「鐵道追風天燈傳情」未婚聯誼活動實施計畫、活動行程表及報名表",
-        "timestamp": "1748851339",
-        "url": "mail_display.php?timestamp=1748851339",
-        "date": "2025/06/02 16:02",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "劉昱淩",
-            "email": "e56187@gms.ndhu.edu.tw",
-            "phone": "890-6056"
-        },
-        "attachmentCount": 4
     }
 ]

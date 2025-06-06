@@ -1,5 +1,19 @@
 [
     {
+        "title": "[消防演練]114年6月9日(一)消防搶救演練公告。",
+        "timestamp": "1749193134",
+        "url": "mail_display.php?timestamp=1749193134",
+        "date": "2025/06/06 14:58",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "賴名塑",
+            "email": "a54604@gms.ndhu.edu.tw",
+            "phone": "8906378"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "請各計畫主持人務必將學術研發服務網所登錄之智慧財產資料同步登錄於STRIKE系統",
         "timestamp": "1749173283",
         "url": "mail_display.php?timestamp=1749173283",
@@ -194,19 +208,5 @@
             "phone": "03-890-5920"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "國立東華大學總務處環境保護組徵聘助理1名",
-        "timestamp": "1749085841",
-        "url": "mail_display.php?timestamp=1749085841",
-        "date": "2025/06/05 09:10",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "陳小姐",
-            "email": "aspen@gms.ndhu.edu.tw",
-            "phone": "6392"
-        },
-        "attachmentCount": 0
     }
 ]

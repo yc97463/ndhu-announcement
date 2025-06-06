@@ -1,5 +1,19 @@
 [
     {
+        "title": "[消防演練]114年6月9日(一)消防搶救演練公告。",
+        "timestamp": "1749193134",
+        "url": "mail_display.php?timestamp=1749193134",
+        "date": "2025/06/06 14:58",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "賴名塑",
+            "email": "a54604@gms.ndhu.edu.tw",
+            "phone": "8906378"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "請各計畫主持人務必將學術研發服務網所登錄之智慧財產資料同步登錄於STRIKE系統",
         "timestamp": "1749173283",
         "url": "mail_display.php?timestamp=1749173283",
@@ -194,19 +208,5 @@
             "phone": "8906215"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【轉知】勞動部勞工保險局勞工退休金「個人自願提繳退休金」制度",
-        "timestamp": "1748843295",
-        "url": "mail_display.php?timestamp=1748843295",
-        "date": "2025/06/02 13:48",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
     }
 ]
