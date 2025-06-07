@@ -1,5 +1,19 @@
 [
     {
+        "title": "113-2理工學院書卷獎頒獎典禮",
+        "timestamp": "1748390110",
+        "url": "mail_display.php?timestamp=1748390110",
+        "date": "2025/05/28 07:55",
+        "department": "理工學院",
+        "author": {
+            "department": "理工學院",
+            "name": "黃科智",
+            "email": "vict0913@gms.ndhu.edu.tw",
+            "phone": "(03)8903504"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【材料系演講公告】6/2(一)15:10-17:00鋰電池的性能提升、回收議題與新型態二氧化碳電池的探討",
         "timestamp": "1748390109",
         "url": "mail_display.php?timestamp=1748390109",
@@ -194,19 +208,5 @@
             "phone": "038903822"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【學生自主學習社群】114-1學期社群即日起開放徵件，歡迎有興趣的同學組團申請!!",
-        "timestamp": "1748242403",
-        "url": "mail_display.php?timestamp=1748242403",
-        "date": "2025/05/26 14:53",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "李貞穎",
-            "email": "jeannie@gms.ndhu.edu.tw",
-            "phone": "8906587"
-        },
-        "attachmentCount": 3
     }
 ]

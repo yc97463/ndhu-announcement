@@ -1,5 +1,19 @@
 [
     {
+        "title": "夏季高溫來襲，戶外作業請實施預防措施並注意熱危害",
+        "timestamp": "1748833425",
+        "url": "mail_display.php?timestamp=1748833425",
+        "date": "2025/06/02 11:03",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "陳小姐",
+            "email": "aspen@gms.ndhu.edu.tw",
+            "phone": "6392"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【以此篇為主】🎉114年大專校院職涯輔導學生心得競賽【職涯夢起點】熱烈徵件中！",
         "timestamp": "1748833241",
         "url": "mail_display.php?timestamp=1748833241",
@@ -192,20 +206,6 @@
             "name": "羅郁庭",
             "email": "erntmap@gmail.com",
             "phone": "8905179"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【教育大數據產學合作與專題實作】114-1學程實務課推廣",
-        "timestamp": "1748484367",
-        "url": "mail_display.php?timestamp=1748484367",
-        "date": "2025/05/29 10:06",
-        "department": "資訊管理學系",
-        "author": {
-            "department": "資訊管理學系",
-            "name": "張先生",
-            "email": "yunkai@gms.ndhu.edu.tw",
-            "phone": "3176"
         },
         "attachmentCount": 3
     }
