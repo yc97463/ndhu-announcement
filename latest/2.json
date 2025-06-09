@@ -1,5 +1,19 @@
 [
     {
+        "title": "新建仰山莊停車棚工程區尚未開放停放機車公告",
+        "timestamp": "1749116399",
+        "url": "mail_display.php?timestamp=1749116399",
+        "date": "2025/06/05 17:39",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "邱健榮",
+            "email": "janus@gms.ndhu.edu.tw",
+            "phone": "6385"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "東華大學語言中心主辦的2025 ESBB 國際研討會——熱烈徵稿中！",
         "timestamp": "1749116069",
         "url": "mail_display.php?timestamp=1749116069",
@@ -194,19 +208,5 @@
             "phone": "0905-737192"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "國立東華大學 驗證中心【6/21(六)及7/18(五)好菌守田園-系列課程活動】歡迎報名參加!!",
-        "timestamp": "1749030199",
-        "url": "mail_display.php?timestamp=1749030199",
-        "date": "2025/06/04 17:43",
-        "department": "技術服務中心",
-        "author": {
-            "department": "技術服務中心",
-            "name": "汪曉玲",
-            "email": "erin@gms.ndhu.edu.tw",
-            "phone": "3507"
-        },
-        "attachmentCount": 4
     }
 ]
