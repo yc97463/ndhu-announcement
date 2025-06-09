@@ -1,5 +1,33 @@
 [
     {
+        "title": "【圖書館公告】114 暑假優惠借期Summer vacation’s preferential loan period",
+        "timestamp": "1748916979",
+        "url": "mail_display.php?timestamp=1748916979",
+        "date": "2025/06/03 10:16",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "詹依萍",
+            "email": "ipchan@gms.ndhu.edu.tw",
+            "phone": "6813"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【徵才】嘉義市政府辦理「過渡性教育措施實施計畫專案輔導員」甄選 (心理師、社工師)(114年6月16日截止)",
+        "timestamp": "1748916547",
+        "url": "mail_display.php?timestamp=1748916547",
+        "date": "2025/06/03 10:09",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【徵才】臺北市就業服務處114年6月20日辦理「FUN SUMMER打工迎薪樂」聯合徵才活動",
         "timestamp": "1748913950",
         "url": "mail_display.php?timestamp=1748913950",
@@ -180,33 +208,5 @@
             "phone": "8906215"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "📢📢深耕起飛計畫~🔥114學年度第1學期校內行政單位【起飛見習生】開放登記申請!🔥",
-        "timestamp": "1748849022",
-        "url": "mail_display.php?timestamp=1748849022",
-        "date": "2025/06/02 15:23",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "鄭小姐",
-            "email": "ting@gms.ndhu.edu.tw",
-            "phone": "8906215"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "114-1學期新舊生註冊須知Summary of the registration procedures in the 114-1 semester",
-        "timestamp": "1748847803",
-        "url": "mail_display.php?timestamp=1748847803",
-        "date": "2025/06/02 15:03",
-        "department": "教務處註冊組",
-        "author": {
-            "department": "教務處註冊組",
-            "name": "羅靖雯",
-            "email": "chage2000.tw@gms.ndhu.edu.tw",
-            "phone": "6115"
-        },
-        "attachmentCount": 2
     }
 ]
