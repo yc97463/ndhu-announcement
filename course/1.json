@@ -1,5 +1,19 @@
 [
     {
+        "title": "📢 畢業體適能追加測驗公告｜請務必把握最後機會！",
+        "timestamp": "1749455724",
+        "url": "mail_display.php?timestamp=1749455724",
+        "date": "2025/06/09 15:55",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "莊璦綺",
+            "email": "ichi@gms.ndhu.edu.tw",
+            "phone": "6613"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "🎉【2025跨域綠能科學營】熱烈招生中！",
         "timestamp": "1749095010",
         "url": "mail_display.php?timestamp=1749095010",
@@ -192,20 +206,6 @@
             "name": "陳君如",
             "email": "ju@gms.ndhu.edu.tw",
             "phone": "6124"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "📢 體育中心113-2學期體適能檢測提醒｜請把握第16週最後機會！",
-        "timestamp": "1747965385",
-        "url": "mail_display.php?timestamp=1747965385",
-        "date": "2025/05/23 09:56",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "莊璦綺",
-            "email": "ichi@gms.ndhu.edu.tw",
-            "phone": "6613"
         },
         "attachmentCount": 1
     }

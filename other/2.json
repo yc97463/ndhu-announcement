@@ -1,5 +1,19 @@
 [
     {
+        "title": "東華電子報 | 2025年05月刊 |",
+        "timestamp": "1748997438",
+        "url": "mail_display.php?timestamp=1748997438",
+        "date": "2025/06/04 08:37",
+        "department": "秘書室公關宣傳組",
+        "author": {
+            "department": "秘書室公關宣傳組",
+            "name": "林佩瑤",
+            "email": "peiyao@gms.ndhu.edu.tw",
+            "phone": "6013"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "租屋騙局-租屋族看過來，未看房先匯款必是詐騙!",
         "timestamp": "1748921442",
         "url": "mail_display.php?timestamp=1748921442",
@@ -194,19 +208,5 @@
             "phone": "890-6056"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【徵才】臺北市政府工務局公園路燈工程管理處招募約僱人員(土木類別)(114年6月2日截止)",
-        "timestamp": "1748396639",
-        "url": "mail_display.php?timestamp=1748396639",
-        "date": "2025/05/28 09:43",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 4
     }
 ]

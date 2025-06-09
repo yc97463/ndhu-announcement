@@ -1,5 +1,33 @@
 [
     {
+        "title": "本校114年慶生會訂於114年6月6日(五)下午2時，於行政大樓3樓301簡報室及中庭辦理，敬邀本校教職員工同仁共襄盛舉。",
+        "timestamp": "1748397476",
+        "url": "mail_display.php?timestamp=1748397476",
+        "date": "2025/05/28 09:57",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "劉昱淩",
+            "email": "e56187@gms.ndhu.edu.tw",
+            "phone": "890-6056"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "「縱目歐亞-空間與人文的對話」課程系列講座_06/11（三）原友蘭副教授（東海大學景觀系）_飛行與足跡：來自打卡與觀察數據的觀光衝擊圖譜",
+        "timestamp": "1748390111",
+        "url": "mail_display.php?timestamp=1748390111",
+        "date": "2025/05/28 07:55",
+        "department": "人文社會科學學院 ",
+        "author": {
+            "department": "人文社會科學學院",
+            "name": "姜妃澤",
+            "email": "ftc1029@gms.ndhu.edu.tw",
+            "phone": "03-8905203"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "113-2理工學院書卷獎頒獎典禮",
         "timestamp": "1748390110",
         "url": "mail_display.php?timestamp=1748390110",
@@ -180,33 +208,5 @@
             "phone": "5107"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "教育與潛能開發學系「閱讀科技專題製作」成果展",
-        "timestamp": "1748244804",
-        "url": "mail_display.php?timestamp=1748244804",
-        "date": "2025/05/26 15:33",
-        "department": "教育與潛能開發學系",
-        "author": {
-            "department": "教育與潛能開發學系",
-            "name": "黃冠魁",
-            "email": "411188036@gms.ndhu.edu.tw",
-            "phone": "038903822"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【演講公告】AI走入教育現場實境的可能",
-        "timestamp": "1748243984",
-        "url": "mail_display.php?timestamp=1748243984",
-        "date": "2025/05/26 15:19",
-        "department": "教育與潛能開發學系",
-        "author": {
-            "department": "教育與潛能開發學系",
-            "name": "黃芝嫻",
-            "email": "411088019@gms.ndhu.edu.tw",
-            "phone": "038903822"
-        },
-        "attachmentCount": 2
     }
 ]

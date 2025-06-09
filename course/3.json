@@ -1,5 +1,19 @@
 [
     {
+        "title": "📢講座通知｜《搞懂你要的工作｜在對的地方用對的方式努力》",
+        "timestamp": "1747185801",
+        "url": "mail_display.php?timestamp=1747185801",
+        "date": "2025/05/14 09:23",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "溫小姐",
+            "email": "fengting0804@gms.ndhu.edu.tw",
+            "phone": "6282"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "纖絲記憶：走進噶瑪蘭 ni tenunan tu benina 香蕉絲文化工藝體驗與參訪",
         "timestamp": "1747185217",
         "url": "mail_display.php?timestamp=1747185217",
@@ -194,19 +208,5 @@
             "phone": "5839"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【訊息轉知】國立陽明交通大學「Supply Chain Challenge, Management and Leadership in Semiconductor Industry」磨課師系列課程",
-        "timestamp": "1746666204",
-        "url": "mail_display.php?timestamp=1746666204",
-        "date": "2025/05/08 09:03",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 5
     }
 ]
