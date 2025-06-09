@@ -1,5 +1,19 @@
 [
     {
+        "title": "本校「講堂、教室借用系統」之講堂開放登錄時間公告",
+        "timestamp": "1749434360",
+        "url": "mail_display.php?timestamp=1749434360",
+        "date": "2025/06/09 09:59",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "徐小姐",
+            "email": "eai3737@gms.ndhu.edu.tw",
+            "phone": "6333"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【停電】學人宿舍線路配電盤線路破損包覆。",
         "timestamp": "1749205241",
         "url": "mail_display.php?timestamp=1749205241",
@@ -194,19 +208,5 @@
             "phone": "0905-737192"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【工讀生徵選】生輔組徵選114學年新生宿舍進住 工讀生",
-        "timestamp": "1748908131",
-        "url": "mail_display.php?timestamp=1748908131",
-        "date": "2025/06/03 07:48",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "吳昭毅",
-            "email": "wuyi12831@gms.ndhu.edu.tw",
-            "phone": "038906228"
-        },
-        "attachmentCount": 1
     }
 ]
