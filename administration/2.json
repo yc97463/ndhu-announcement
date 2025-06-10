@@ -1,5 +1,19 @@
 [
     {
+        "title": "【資安公告】資安時數提醒",
+        "timestamp": "1748938859",
+        "url": "mail_display.php?timestamp=1748938859",
+        "date": "2025/06/03 16:20",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "趙心榆",
+            "email": "vsychao@gms.ndhu.edu.tw",
+            "phone": "6722"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【資安宣導】請定期變更您的密碼",
         "timestamp": "1748938689",
         "url": "mail_display.php?timestamp=1748938689",
@@ -194,19 +208,5 @@
             "phone": "890-6343"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【工讀生徵選】生輔組徵選114學年新生宿舍進住 工讀生",
-        "timestamp": "1748389246",
-        "url": "mail_display.php?timestamp=1748389246",
-        "date": "2025/05/28 07:40",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "吳昭毅",
-            "email": "wuyi12831@gms.ndhu.edu.tw",
-            "phone": "038906228"
-        },
-        "attachmentCount": 1
     }
 ]

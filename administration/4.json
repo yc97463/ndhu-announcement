@@ -1,5 +1,19 @@
 [
     {
+        "title": "行政大樓高樓層辦公室窗台裝設防墜(鴿)網施工公告",
+        "timestamp": "1747817208",
+        "url": "mail_display.php?timestamp=1747817208",
+        "date": "2025/05/21 16:46",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "連小雅",
+            "email": "lienhy@gms.ndhu.edu.tw",
+            "phone": "6329"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "重要!!【防制校園詐騙宣導通報】攸關學生校外租屋防詐-114年5月21日",
         "timestamp": "1747735235",
         "url": "mail_display.php?timestamp=1747735235",
@@ -194,19 +208,5 @@
             "phone": "8906607"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
-        "timestamp": "1747613999",
-        "url": "mail_display.php?timestamp=1747613999",
-        "date": "2025/05/19 08:19",
-        "department": "圖書資訊處校務系統組",
-        "author": {
-            "department": "圖書資訊處校務系統組",
-            "name": "林志軒",
-            "email": "chshlin@gms.ndhu.edu.tw",
-            "phone": "6752"
-        },
-        "attachmentCount": 0
     }
 ]

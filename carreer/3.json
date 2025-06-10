@@ -1,5 +1,19 @@
 [
     {
+        "title": "【國立東華大學海洋生物研究所-所長】徵聘公告",
+        "timestamp": "1744248339",
+        "url": "mail_display.php?timestamp=1744248339",
+        "date": "2025/04/10 09:25",
+        "department": "環境暨海洋學院",
+        "author": {
+            "department": "環境暨海洋學院",
+            "name": "童泰力",
+            "email": "ttung@gms.ndhu.edu.tw",
+            "phone": "(03)890-3261"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【國立東華大學自然資源與環境學系-系主任】徵聘公告",
         "timestamp": "1744098836",
         "url": "mail_display.php?timestamp=1744098836",
@@ -194,19 +208,5 @@
             "phone": "3007"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "全民國防訊息】114年下半年役男申請服一般替代役甄選作業訊息公告",
-        "timestamp": "1742282664",
-        "url": "mail_display.php?timestamp=1742282664",
-        "date": "2025/03/18 15:24",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "黃勇程",
-            "email": "victor0903@gms.ndhu.edu.tw",
-            "phone": "6225"
-        },
-        "attachmentCount": 3
     }
 ]
