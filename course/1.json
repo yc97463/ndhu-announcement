@@ -1,5 +1,19 @@
 [
     {
+        "title": "114-1 閱讀培力計畫-限教育系(有意修課者務必填寫表單，經面試且通知錄取後才會選課成功！)",
+        "timestamp": "1749533387",
+        "url": "mail_display.php?timestamp=1749533387",
+        "date": "2025/06/10 13:29",
+        "department": "偏鄉閱讀與行動中心",
+        "author": {
+            "department": "偏鄉閱讀與行動中心",
+            "name": "盧助理",
+            "email": "lesa@gms.ndhu.edu.tw",
+            "phone": "03-890-3813"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "📢 畢業體適能追加測驗公告｜請務必把握最後機會！",
         "timestamp": "1749455724",
         "url": "mail_display.php?timestamp=1749455724",
@@ -192,20 +206,6 @@
             "name": "莊璦綺",
             "email": "ichi@gms.ndhu.edu.tw",
             "phone": "6613"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【歡迎報名】東華大學「學期週數調整諮詢會」",
-        "timestamp": "1748336274",
-        "url": "mail_display.php?timestamp=1748336274",
-        "date": "2025/05/27 16:57",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "陳君如",
-            "email": "ju@gms.ndhu.edu.tw",
-            "phone": "6124"
         },
         "attachmentCount": 1
     }

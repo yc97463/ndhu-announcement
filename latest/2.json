@@ -1,5 +1,33 @@
 [
     {
+        "title": "【學生自主學習社群】114-1學期社群即日起開放徵件，歡迎有興趣的同學組團申請!!(第二次公告)",
+        "timestamp": "1749455780",
+        "url": "mail_display.php?timestamp=1749455780",
+        "date": "2025/06/09 15:56",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "李貞穎",
+            "email": "jeannie@gms.ndhu.edu.tw",
+            "phone": "8906587"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "📢 畢業體適能追加測驗公告｜請務必把握最後機會！",
+        "timestamp": "1749455724",
+        "url": "mail_display.php?timestamp=1749455724",
+        "date": "2025/06/09 15:55",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "莊璦綺",
+            "email": "ichi@gms.ndhu.edu.tw",
+            "phone": "6613"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【轉知】花蓮縣光復鄉公所為辦理114年全國性公民投票，函請本校推薦投開票所工作人員，俾利選務作業推動，詳如說明，請查照。",
         "timestamp": "1749451680",
         "url": "mail_display.php?timestamp=1749451680",
@@ -180,33 +208,5 @@
             "phone": "5633"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "[消防演練]114年6月9日(一)消防搶救演練公告。",
-        "timestamp": "1749193134",
-        "url": "mail_display.php?timestamp=1749193134",
-        "date": "2025/06/06 14:58",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "賴名塑",
-            "email": "a54604@gms.ndhu.edu.tw",
-            "phone": "8906378"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "請各計畫主持人務必將學術研發服務網所登錄之智慧財產資料同步登錄於STRIKE系統",
-        "timestamp": "1749173283",
-        "url": "mail_display.php?timestamp=1749173283",
-        "date": "2025/06/06 09:28",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "李淑淳",
-            "email": "chun@gms.ndhu.edu.tw",
-            "phone": "6522"
-        },
-        "attachmentCount": 0
     }
 ]

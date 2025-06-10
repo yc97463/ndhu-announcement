@@ -1,5 +1,19 @@
 [
     {
+        "title": "【歡迎報名】東華大學「學期週數調整諮詢會」",
+        "timestamp": "1748336274",
+        "url": "mail_display.php?timestamp=1748336274",
+        "date": "2025/05/27 16:57",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "陳君如",
+            "email": "ju@gms.ndhu.edu.tw",
+            "phone": "6124"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "📢 體育中心113-2學期體適能檢測提醒｜請把握第16週最後機會！",
         "timestamp": "1747965385",
         "url": "mail_display.php?timestamp=1747965385",
@@ -194,19 +208,5 @@
             "phone": "5246"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【課務組通知】各學制學生114-1課程初選事宜  Preliminary Course Selection for Next Semester",
-        "timestamp": "1747188344",
-        "url": "mail_display.php?timestamp=1747188344",
-        "date": "2025/05/14 10:05",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "utd1003@gms.ndhu.edu.tw",
-            "phone": "6122-6126"
-        },
-        "attachmentCount": 1
     }
 ]

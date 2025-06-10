@@ -1,5 +1,19 @@
 [
     {
+        "title": "【113-2推廣教育招生】「人物肖像似顏繪創作坊」",
+        "timestamp": "1748478259",
+        "url": "mail_display.php?timestamp=1748478259",
+        "date": "2025/05/29 08:24",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "8906607"
+        },
+        "attachmentCount": 6
+    },
+    {
         "title": "AI素養培力講座",
         "timestamp": "1748476505",
         "url": "mail_display.php?timestamp=1748476505",
@@ -194,19 +208,5 @@
             "phone": "8906253"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【招募學員】 轉知中華民國紅十字會2025年暑期青年防災士培力計畫",
-        "timestamp": "1748402315",
-        "url": "mail_display.php?timestamp=1748402315",
-        "date": "2025/05/28 11:18",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 1
     }
 ]
