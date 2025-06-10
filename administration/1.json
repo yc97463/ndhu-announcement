@@ -1,5 +1,19 @@
 [
     {
+        "title": "本校114年暑假期間(6/21~9/7)校內委外廠商營業時間公告。",
+        "timestamp": "1749535943",
+        "url": "mail_display.php?timestamp=1749535943",
+        "date": "2025/06/10 14:12",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "潘姵辰",
+            "email": "papec1980@gms.ndhu.edu.tw",
+            "phone": "03-8906313"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "國立東華大學114年暑假期間學生安全注意事項",
         "timestamp": "1749512921",
         "url": "mail_display.php?timestamp=1749512921",
@@ -194,19 +208,5 @@
             "phone": "0905-737192"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "[向晴莊機車棚改建太陽能光電車棚]臨時停車區等施工規劃",
-        "timestamp": "1749024566",
-        "url": "mail_display.php?timestamp=1749024566",
-        "date": "2025/06/04 16:09",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "張宗玲",
-            "email": "AJ0191@gms.ndhu.edu.tw",
-            "phone": "03-8906377"
-        },
-        "attachmentCount": 1
     }
 ]

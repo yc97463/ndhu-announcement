@@ -1,6 +1,20 @@
 [
     {
         "title": "6/13《OSCE在心理衡鑑初次晤談之應用：以憂鬱症個案為例》新書發表會(花蓮場)",
+        "timestamp": "1749537136",
+        "url": "mail_display.php?timestamp=1749537136",
+        "date": "2025/06/10 14:32",
+        "department": "諮商與臨床心理學系",
+        "author": {
+            "department": "諮商與臨床心理學系",
+            "name": "徐小姐",
+            "email": "mandy_hsu@gms.ndhu.edu.tw",
+            "phone": "5633"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "6/13《OSCE在心理衡鑑初次晤談之應用：以憂鬱症個案為例》新書發表會(花蓮場)",
         "timestamp": "1749200423",
         "url": "mail_display.php?timestamp=1749200423",
         "date": "2025/06/06 17:00",
@@ -194,19 +208,5 @@
             "phone": "6533"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "113-2國立東華大學語傳系【多元族群語言與文化】課堂專題演講",
-        "timestamp": "1746670078",
-        "url": "mail_display.php?timestamp=1746670078",
-        "date": "2025/05/08 10:07",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "黃仕柔",
-            "email": "miku@gms.ndhu.edu.tw",
-            "phone": "5839"
-        },
-        "attachmentCount": 2
     }
 ]

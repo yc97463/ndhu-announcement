@@ -1,5 +1,19 @@
 [
     {
+        "title": "【畢業生請注意】提醒學位服歸還期限。【Attention Graduates】 Reminder of Degree Uniform Return Deadline",
+        "timestamp": "1748394793",
+        "url": "mail_display.php?timestamp=1748394793",
+        "date": "2025/05/28 09:13",
+        "department": "總務處保管組",
+        "author": {
+            "department": "總務處保管組",
+            "name": "陳鵬安",
+            "email": "led973@gms.ndhu.edu.tw",
+            "phone": "890-6343"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【工讀生徵選】生輔組徵選114學年新生宿舍進住 工讀生",
         "timestamp": "1748389246",
         "url": "mail_display.php?timestamp=1748389246",
@@ -194,19 +208,5 @@
             "phone": "8906378"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【新航之舟】新生輪轉工作坊招募  一同迎新生",
-        "timestamp": "1747871823",
-        "url": "mail_display.php?timestamp=1747871823",
-        "date": "2025/05/22 07:57",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "余惠真",
-            "email": "nacy4631@gms.ndhu.edu.tw",
-            "phone": "6232"
-        },
-        "attachmentCount": 7
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "113-2國立東華大學語傳系【多元族群語言與文化】課堂專題演講",
+        "timestamp": "1746670078",
+        "url": "mail_display.php?timestamp=1746670078",
+        "date": "2025/05/08 10:07",
+        "department": "原住民民族學院",
+        "author": {
+            "department": "原住民民族學院",
+            "name": "黃仕柔",
+            "email": "miku@gms.ndhu.edu.tw",
+            "phone": "5839"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【講座5/13】Teaching with Artificial Intelligence in Humanly Intelligent Ways ",
         "timestamp": "1746669215",
         "url": "mail_display.php?timestamp=1746669215",
@@ -194,19 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【活動】114年度高等教育深耕計畫素養導向教學增能系列講座：第1場5/14",
-        "timestamp": "1745814218",
-        "url": "mail_display.php?timestamp=1745814218",
-        "date": "2025/04/28 12:23",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
-        },
-        "attachmentCount": 4
     }
 ]

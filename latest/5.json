@@ -1,5 +1,33 @@
 [
     {
+        "title": "東華電子報 | 2025年05月刊 |",
+        "timestamp": "1748997438",
+        "url": "mail_display.php?timestamp=1748997438",
+        "date": "2025/06/04 08:37",
+        "department": "秘書室公關宣傳組",
+        "author": {
+            "department": "秘書室公關宣傳組",
+            "name": "林佩瑤",
+            "email": "peiyao@gms.ndhu.edu.tw",
+            "phone": "6013"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【資安公告】資安時數提醒",
+        "timestamp": "1748938859",
+        "url": "mail_display.php?timestamp=1748938859",
+        "date": "2025/06/03 16:20",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "趙心榆",
+            "email": "vsychao@gms.ndhu.edu.tw",
+            "phone": "6722"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【資安宣導】請定期變更您的密碼",
         "timestamp": "1748938689",
         "url": "mail_display.php?timestamp=1748938689",
@@ -178,34 +206,6 @@
             "name": "吳昭毅",
             "email": "wuyi12831@gms.ndhu.edu.tw",
             "phone": "038906228"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【AI活動講座】AI × No-Code 自動化：n8n 連結 200+服務 快速上手工作坊",
-        "timestamp": "1748906049",
-        "url": "mail_display.php?timestamp=1748906049",
-        "date": "2025/06/03 07:14",
-        "department": "人工智慧辦公室",
-        "author": {
-            "department": "人工智慧辦公室",
-            "name": "林佩瑤",
-            "email": "peiyao@gms.ndhu.edu.tw",
-            "phone": "6013"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【活動】113-2 Lunchtime Chats! 6/4午餐英語會話時間本學期最後一場！Final Session",
-        "timestamp": "1748870348",
-        "url": "mail_display.php?timestamp=1748870348",
-        "date": "2025/06/02 21:19",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "呂岳芳",
-            "email": "carollu@gms.ndhu.edu.tw",
-            "phone": "03-8905497"
         },
         "attachmentCount": 1
     }
