@@ -1,5 +1,33 @@
 [
     {
+        "title": "有關教育部國教署為建置高級中等以下學校學生申訴及再申訴評議委員會校外專家學者人才庫案",
+        "timestamp": "1749462427",
+        "url": "mail_display.php?timestamp=1749462427",
+        "date": "2025/06/09 17:47",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "楊惠雯",
+            "email": "hwyang@gms.ndhu.edu.tw",
+            "phone": "6061"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【資安第二次公告】資安教育訓練_通識",
+        "timestamp": "1749458855",
+        "url": "mail_display.php?timestamp=1749458855",
+        "date": "2025/06/09 16:47",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "趙心榆",
+            "email": "vsychao@gms.ndhu.edu.tw",
+            "phone": "6722"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才】臺南市政府觀光旅遊局114年6月21日辦理「2025臺南旅宿業就業博覽會」",
         "timestamp": "1749458183",
         "url": "mail_display.php?timestamp=1749458183",
@@ -180,33 +208,5 @@
             "phone": "03-8906219"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "原語薪傳 原民院族語口譯室暨語傳系族語多媒體教室落成典禮",
-        "timestamp": "1749257996",
-        "url": "mail_display.php?timestamp=1749257996",
-        "date": "2025/06/07 08:59",
-        "department": "原住民民族學院",
-        "author": {
-            "department": "原住民民族學院",
-            "name": "蕭宇恆",
-            "email": "pasuya@gms.ndhu.edu.tw",
-            "phone": "038905753"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【停電】學人宿舍線路配電盤線路破損包覆。",
-        "timestamp": "1749205241",
-        "url": "mail_display.php?timestamp=1749205241",
-        "date": "2025/06/06 18:20",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
     }
 ]

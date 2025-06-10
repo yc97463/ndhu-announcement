@@ -1,5 +1,33 @@
 [
     {
+        "title": "🎉【2025跨域綠能科學營】熱烈招生中！",
+        "timestamp": "1749095010",
+        "url": "mail_display.php?timestamp=1749095010",
+        "date": "2025/06/05 11:43",
+        "department": "能源科技中心",
+        "author": {
+            "department": "能源科技中心",
+            "name": "能源科技中心",
+            "email": "algar0905@gms.ndhu.edu.tw",
+            "phone": "3688"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "轉知衛生福利部「預防熱傷害」衛教宣導資料，請妥為運用與推廣，以維護師生健康安全。",
+        "timestamp": "1749089037",
+        "url": "mail_display.php?timestamp=1749089037",
+        "date": "2025/06/05 10:03",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "吳星穎",
+            "email": "carmier@gms.ndhu.edu.tw",
+            "phone": "8906252"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【轉知】花蓮縣鳳林鎮公所為辦理114年全國性公民投票，函請本校推薦投開票所工作人員，俾利選務作業推動，詳如說明，請查照。",
         "timestamp": "1749086922",
         "url": "mail_display.php?timestamp=1749086922",
@@ -180,33 +208,5 @@
             "phone": "8906254"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "114-1垂直整合專題(三) 「科技農牧與資源循環再利用」課程說明會  澎湖移地學習X海洋生態行動 🪸",
-        "timestamp": "1749006958",
-        "url": "mail_display.php?timestamp=1749006958",
-        "date": "2025/06/04 11:15",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "社會責任行動中心",
-            "email": "techusr@gms.ndhu.edu.tw",
-            "phone": "3772/3770"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "🎭 街舞進場．聲心合一｜藝術與人文領域教學探索實作工作坊",
-        "timestamp": "1748999890",
-        "url": "mail_display.php?timestamp=1748999890",
-        "date": "2025/06/04 09:18",
-        "department": "音樂學系",
-        "author": {
-            "department": "音樂學系",
-            "name": "張純倩",
-            "email": "asd963741@gms.ndhu.edu.tw",
-            "phone": "03-8905168"
-        },
-        "attachmentCount": 2
     }
 ]

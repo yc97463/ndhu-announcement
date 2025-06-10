@@ -1,5 +1,19 @@
 [
     {
+        "title": "【訊息轉知】114年教育部數位學習課程設計及認證工作坊",
+        "timestamp": "1749543100",
+        "url": "mail_display.php?timestamp=1749543100",
+        "date": "2025/06/10 16:11",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "114-1 閱讀培力計畫-限教育系(有意修課者務必填寫表單，經面試且通知錄取後才會選課成功！)",
         "timestamp": "1749533387",
         "url": "mail_display.php?timestamp=1749533387",
@@ -194,19 +208,5 @@
             "phone": "0905-737192"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "國立東華大學 驗證中心【6/21(六)及7/18(五)好菌守田園-系列課程活動】歡迎報名參加!!",
-        "timestamp": "1749030199",
-        "url": "mail_display.php?timestamp=1749030199",
-        "date": "2025/06/04 17:43",
-        "department": "技術服務中心",
-        "author": {
-            "department": "技術服務中心",
-            "name": "汪曉玲",
-            "email": "erin@gms.ndhu.edu.tw",
-            "phone": "3507"
-        },
-        "attachmentCount": 4
     }
 ]
