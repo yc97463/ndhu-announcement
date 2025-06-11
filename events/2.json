@@ -1,19 +1,5 @@
 [
     {
-        "title": "🤑獎金五千元🤑《東湖樂閣大初徵 第六季》",
-        "timestamp": "1749104467",
-        "url": "mail_display.php?timestamp=1749104467",
-        "date": "2025/06/05 14:21",
-        "department": "藝術中心",
-        "author": {
-            "department": "藝術中心",
-            "name": "周葦綸",
-            "email": "arts@gms.ndhu.edu.tw",
-            "phone": "6606"
-        },
-        "attachmentCount": 7
-    },
-    {
         "title": "🎉【2025跨域綠能科學營】熱烈招生中！",
         "timestamp": "1749095010",
         "url": "mail_display.php?timestamp=1749095010",
@@ -208,5 +194,19 @@
             "phone": "6013"
         },
         "attachmentCount": 0
+    },
+    {
+        "title": "【活動】113-2 Lunchtime Chats! 6/4午餐英語會話時間本學期最後一場！Final Session",
+        "timestamp": "1748870348",
+        "url": "mail_display.php?timestamp=1748870348",
+        "date": "2025/06/02 21:19",
+        "department": "語言中心",
+        "author": {
+            "department": "語言中心",
+            "name": "呂岳芳",
+            "email": "carollu@gms.ndhu.edu.tw",
+            "phone": "03-8905497"
+        },
+        "attachmentCount": 1
     }
 ]
