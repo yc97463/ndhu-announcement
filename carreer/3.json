@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵聘教師】國立東華大學材料科學與工程學系徵聘助理教授(含)以上專任教師1名",
+        "timestamp": "1744610003",
+        "url": "mail_display.php?timestamp=1744610003",
+        "date": "2025/04/14 13:53",
+        "department": "材料科學與工程學系",
+        "author": {
+            "department": "材料科學與工程學系",
+            "name": "林淑玲",
+            "email": "shuling@gms.ndhu.edu.tw",
+            "phone": "8903204"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【國立東華大學海洋生物研究所-所長】徵聘公告",
         "timestamp": "1744248339",
         "url": "mail_display.php?timestamp=1744248339",
@@ -194,19 +208,5 @@
             "phone": "3816"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【徵聘公告】國立東華大學管理學院數位行銷與服務創新國際學士班徵聘專任(案)教師二名",
-        "timestamp": "1742287519",
-        "url": "mail_display.php?timestamp=1742287519",
-        "date": "2025/03/18 16:45",
-        "department": "數位行銷與服務創新國際學士班",
-        "author": {
-            "department": "數位行銷與服務創新國際學士班",
-            "name": "郭娜",
-            "email": "inagn@gms.ndhu.edu.tw",
-            "phone": "3007"
-        },
-        "attachmentCount": 1
     }
 ]
