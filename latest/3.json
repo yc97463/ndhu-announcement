@@ -1,5 +1,33 @@
 [
     {
+        "title": "本校「講堂、教室借用系統」之講堂開放登錄時間公告",
+        "timestamp": "1749434360",
+        "url": "mail_display.php?timestamp=1749434360",
+        "date": "2025/06/09 09:59",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "徐小姐",
+            "email": "eai3737@gms.ndhu.edu.tw",
+            "phone": "6333"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【徵才】臺灣新北地方法院「114年儲備法官助理」甄試(114年6月13日截止)",
+        "timestamp": "1749434257",
+        "url": "mail_display.php?timestamp=1749434257",
+        "date": "2025/06/09 09:57",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 7
+    },
+    {
         "title": "【論文獎助】國家鐵道博物館籌備處「114年度博碩士論文研究獎助」",
         "timestamp": "1749429570",
         "url": "mail_display.php?timestamp=1749429570",
@@ -180,33 +208,5 @@
             "phone": "6606"
         },
         "attachmentCount": 7
-    },
-    {
-        "title": "【資安公告】行政院公共工程委員會訂定「採購契約範本附記條款特別聲明」",
-        "timestamp": "1749104373",
-        "url": "mail_display.php?timestamp=1749104373",
-        "date": "2025/06/05 14:19",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "蕭澤宇",
-            "email": "zyhsiao@gms.ndhu.edu.tw",
-            "phone": "6727"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【徵才】臺中市就業服務處114年6月21日辦理「富市台中 就業成功」暑期打工聯合徵才",
-        "timestamp": "1749100685",
-        "url": "mail_display.php?timestamp=1749100685",
-        "date": "2025/06/05 13:18",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
     }
 ]

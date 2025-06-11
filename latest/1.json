@@ -1,5 +1,33 @@
 [
     {
+        "title": "【獎助學金申請】忠欣股份有限公司2025「TOEFL ITP測驗-高等教育學術研究獎學金」",
+        "timestamp": "1749611576",
+        "url": "mail_display.php?timestamp=1749611576",
+        "date": "2025/06/11 11:12",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【徵才】高雄市政府勞工局114年6月21日辦理現場徵才活動",
+        "timestamp": "1749608547",
+        "url": "mail_display.php?timestamp=1749608547",
+        "date": "2025/06/11 10:22",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【訊息轉知】國立政治大學開設5門磨課師(MOOCs)線上課程",
         "timestamp": "1749603724",
         "url": "mail_display.php?timestamp=1749603724",
@@ -180,33 +208,5 @@
             "phone": "038906228"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "重要!!【防制校園詐騙宣導通報】學生校外租屋防詐-114年6月10日",
-        "timestamp": "1749512525",
-        "url": "mail_display.php?timestamp=1749512525",
-        "date": "2025/06/10 07:42",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "吳昭毅",
-            "email": "wuyi12831@gms.ndhu.edu.tw",
-            "phone": "038906228"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "重要!!【防制校園詐騙宣導通報】網路FB社團販賣家電用品遭詐騙-114年6月10日",
-        "timestamp": "1749512100",
-        "url": "mail_display.php?timestamp=1749512100",
-        "date": "2025/06/10 07:35",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "吳昭毅",
-            "email": "wuyi12831@gms.ndhu.edu.tw",
-            "phone": "038906228"
-        },
-        "attachmentCount": 0
     }
 ]
