@@ -1,5 +1,19 @@
 [
     {
+        "title": "國立東華大學 驗證中心【6/21(六)及7/18(五)好菌守田園-系列課程活動】歡迎報名參加!!",
+        "timestamp": "1749030199",
+        "url": "mail_display.php?timestamp=1749030199",
+        "date": "2025/06/04 17:43",
+        "department": "技術服務中心",
+        "author": {
+            "department": "技術服務中心",
+            "name": "汪曉玲",
+            "email": "erin@gms.ndhu.edu.tw",
+            "phone": "3507"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "【轉知】IC Taiwan Grand Challenge全球徵案競賽資訊",
         "timestamp": "1749026516",
         "url": "mail_display.php?timestamp=1749026516",
@@ -194,19 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "租屋騙局-租屋族看過來，未看房先匯款必是詐騙!",
-        "timestamp": "1748921442",
-        "url": "mail_display.php?timestamp=1748921442",
-        "date": "2025/06/03 11:30",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "陳詩啓",
-            "email": "sam0831@gms.ndhu.edu.tw",
-            "phone": "6216"
-        },
-        "attachmentCount": 3
     }
 ]
