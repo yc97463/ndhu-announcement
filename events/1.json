@@ -1,5 +1,19 @@
 [
     {
+        "title": "【代轉學生會公告】2025 你丟我撿 免費市集",
+        "timestamp": "1749623751",
+        "url": "mail_display.php?timestamp=1749623751",
+        "date": "2025/06/11 14:35",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "姜紫淇",
+            "email": "yaya@gms.ndhu.edu.tw",
+            "phone": "03-8906235"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "東華大學語言中心主辦的2025 ESBB 國際研討會——熱烈徵稿中！(收件截止日期更正)",
         "timestamp": "1749615311",
         "url": "mail_display.php?timestamp=1749615311",
@@ -194,19 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "🤑獎金五千元🤑《東湖樂閣大初徵 第六季》",
-        "timestamp": "1749104467",
-        "url": "mail_display.php?timestamp=1749104467",
-        "date": "2025/06/05 14:21",
-        "department": "藝術中心",
-        "author": {
-            "department": "藝術中心",
-            "name": "周葦綸",
-            "email": "arts@gms.ndhu.edu.tw",
-            "phone": "6606"
-        },
-        "attachmentCount": 7
     }
 ]
