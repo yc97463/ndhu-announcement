@@ -1,5 +1,19 @@
 [
     {
+        "title": "理工一館B棟1樓走道天花板拆除公告",
+        "timestamp": "1749203737",
+        "url": "mail_display.php?timestamp=1749203737",
+        "date": "2025/06/06 17:55",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "邱健榮",
+            "email": "janus@gms.ndhu.edu.tw",
+            "phone": "6385"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "6/13《OSCE在心理衡鑑初次晤談之應用：以憂鬱症個案為例》新書發表會(花蓮場)",
         "timestamp": "1749200423",
         "url": "mail_display.php?timestamp=1749200423",
@@ -194,19 +208,5 @@
             "phone": "6060"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【Forward 協助轉知】「洄瀾淨學堂」系列之 ESG 永續發展講座",
-        "timestamp": "1749086584",
-        "url": "mail_display.php?timestamp=1749086584",
-        "date": "2025/06/05 09:23",
-        "department": "永續發展中心",
-        "author": {
-            "department": "永續發展中心",
-            "name": "李莉莉 Li-Li Lee",
-            "email": "sd@gms.ndhu.edu.tw",
-            "phone": "03-890-5920"
-        },
-        "attachmentCount": 4
     }
 ]
