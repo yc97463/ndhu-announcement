@@ -1,5 +1,33 @@
 [
     {
+        "title": "本校114年暑假期間(6/21~9/7)校內委外廠商營業時間公告。",
+        "timestamp": "1749535943",
+        "url": "mail_display.php?timestamp=1749535943",
+        "date": "2025/06/10 14:12",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "潘姵辰",
+            "email": "papec1980@gms.ndhu.edu.tw",
+            "phone": "03-8906313"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "景碩科技KINSUS校園大使熱力招募",
+        "timestamp": "1749534347",
+        "url": "mail_display.php?timestamp=1749534347",
+        "date": "2025/06/10 13:45",
+        "department": "材料科學與工程學系",
+        "author": {
+            "department": "材料科學與工程學系",
+            "name": "林淑玲",
+            "email": "shuling@gms.ndhu.edu.tw",
+            "phone": "8903204"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "114-1 閱讀培力計畫-限教育系(有意修課者務必填寫表單，經面試且通知錄取後才會選課成功！)",
         "timestamp": "1749533387",
         "url": "mail_display.php?timestamp=1749533387",
@@ -180,33 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "國立臺北教育大學辦理114年「相遇˙心動中」單身聯誼活動，請符合資格之女性單身同仁踴躍報名參加。",
-        "timestamp": "1749455989",
-        "url": "mail_display.php?timestamp=1749455989",
-        "date": "2025/06/09 15:59",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "陳旺志",
-            "email": "dchen829@gms.ndhu.edu.tw",
-            "phone": "03-8906058"
-        },
-        "attachmentCount": 5
-    },
-    {
-        "title": "【學生自主學習社群】114-1學期社群即日起開放徵件，歡迎有興趣的同學組團申請!!(第二次公告)",
-        "timestamp": "1749455780",
-        "url": "mail_display.php?timestamp=1749455780",
-        "date": "2025/06/09 15:56",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "李貞穎",
-            "email": "jeannie@gms.ndhu.edu.tw",
-            "phone": "8906587"
-        },
-        "attachmentCount": 3
     }
 ]
