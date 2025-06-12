@@ -1,5 +1,61 @@
 [
     {
+        "title": "校務會議紀錄公告通知",
+        "timestamp": "1749719258",
+        "url": "mail_display.php?timestamp=1749719258",
+        "date": "2025/06/12 17:07",
+        "department": "秘書室議事公文組",
+        "author": {
+            "department": "秘書室議事公文組",
+            "name": "陳婉婉",
+            "email": "secretariat@gms.ndhu.edu.tw",
+            "phone": "6004"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【徵才】花蓮慈濟醫院「國際擬真醫學教育訓練中心」招募辦事員2名",
+        "timestamp": "1749719079",
+        "url": "mail_display.php?timestamp=1749719079",
+        "date": "2025/06/12 17:04",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
+        "timestamp": "1749717880",
+        "url": "mail_display.php?timestamp=1749717880",
+        "date": "2025/06/12 16:44",
+        "department": "圖書資訊處校務系統組",
+        "author": {
+            "department": "圖書資訊處校務系統組",
+            "name": "林志軒",
+            "email": "chshlin@gms.ndhu.edu.tw",
+            "phone": "6752"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【獎助學金申請】鴻海教育基金會2025年「鴻海獎學鯨」獎助學金",
+        "timestamp": "1749717469",
+        "url": "mail_display.php?timestamp=1749717469",
+        "date": "2025/06/12 16:37",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【轉知】104人力銀行提供「升學就業地圖」與「工作世界」免費職涯探索資源",
         "timestamp": "1749716782",
         "url": "mail_display.php?timestamp=1749716782",
@@ -152,61 +208,5 @@
             "phone": "038905153"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【徵才】臺中市政府勞工局114年7月9日辦理「富市台中 就業成功」潭子區聯合徵才活動",
-        "timestamp": "1749633298",
-        "url": "mail_display.php?timestamp=1749633298",
-        "date": "2025/06/11 17:14",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": " 🔔原民生/一般生填寫問券領取【7-11禮券50元】 🔔",
-        "timestamp": "1749629526",
-        "url": "mail_display.php?timestamp=1749629526",
-        "date": "2025/06/11 16:12",
-        "department": "原住民族學生資源中心",
-        "author": {
-            "department": "原住民族學生資源中心",
-            "name": "林詠靖",
-            "email": "tipus@gms.ndhu.edu.tw",
-            "phone": "5707"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【徵聘教師】國立東華大學電機工程學系徵聘專任助理教授(含)以上之專任師資2名",
-        "timestamp": "1749626395",
-        "url": "mail_display.php?timestamp=1749626395",
-        "date": "2025/06/11 15:19",
-        "department": "電機工程學系",
-        "author": {
-            "department": "電機工程學系",
-            "name": "邱小姐",
-            "email": "senorita@gms.ndhu.edu.tw",
-            "phone": "03-8905063"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【代轉學生會公告】2025 你丟我撿 免費市集",
-        "timestamp": "1749623751",
-        "url": "mail_display.php?timestamp=1749623751",
-        "date": "2025/06/11 14:35",
-        "department": "學務處課外活動組",
-        "author": {
-            "department": "學務處課外活動組",
-            "name": "姜紫淇",
-            "email": "yaya@gms.ndhu.edu.tw",
-            "phone": "03-8906235"
-        },
-        "attachmentCount": 0
     }
 ]
