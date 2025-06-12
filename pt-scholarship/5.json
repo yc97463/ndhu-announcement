@@ -1,5 +1,19 @@
 [
     {
+        "title": "轉嘉義縣政府辦理「114年青年學生公部門暑期工讀暨企業職場體驗」宣傳海報EDM",
+        "timestamp": "1744092788",
+        "url": "mail_display.php?timestamp=1744092788",
+        "date": "2025/04/08 14:13",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "王文和",
+            "email": "rlawwh@gms.ndhu.edu.tw",
+            "phone": "分機6221"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "轉彰化縣政府辦理「114年度彰化縣大專青年學生公部門暑期工讀計畫」簡章",
         "timestamp": "1744092032",
         "url": "mail_display.php?timestamp=1744092032",
@@ -194,19 +208,5 @@
             "phone": "03-8906219"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "轉臺中市政府勞工局提供設籍臺中市大專青年學生公部門暑期工讀機會訊息",
-        "timestamp": "1742782772",
-        "url": "mail_display.php?timestamp=1742782772",
-        "date": "2025/03/24 10:19",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "王文和",
-            "email": "rlawwh@gms.ndhu.edu.tw",
-            "phone": "分機6221"
-        },
-        "attachmentCount": 0
     }
 ]
