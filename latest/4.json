@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才】立榮航空公司花蓮機場運務助理招募(114年6月22日截止)",
+        "timestamp": "1749441594",
+        "url": "mail_display.php?timestamp=1749441594",
+        "date": "2025/06/09 11:59",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【獎助學金申請】高雄市祥和社會福利慈善基金會113學年度清寒學生獎助學金 (限高雄市籍)",
         "timestamp": "1749439977",
         "url": "mail_display.php?timestamp=1749439977",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【資安教育訓練_通識】",
-        "timestamp": "1749113108",
-        "url": "mail_display.php?timestamp=1749113108",
-        "date": "2025/06/05 16:45",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "趙心榆",
-            "email": "vsychao@gms.ndhu.edu.tw",
-            "phone": "6722"
-        },
-        "attachmentCount": 0
     }
 ]
