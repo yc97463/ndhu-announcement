@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】第一商業銀行文教基金會114年度資優學生獎學金 (限低或中低收)",
+        "timestamp": "1749700779",
+        "url": "mail_display.php?timestamp=1749700779",
+        "date": "2025/06/12 11:59",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "轉知【免費活動】全新科普著作《身體之河》新書發表會，誠摯歡迎本校學生參與！",
         "timestamp": "1749696975",
         "url": "mail_display.php?timestamp=1749696975",
@@ -194,19 +208,5 @@
             "phone": "03-895492"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "大農大富親子遊",
-        "timestamp": "1749615202",
-        "url": "mail_display.php?timestamp=1749615202",
-        "date": "2025/06/11 12:13",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "楊曉青",
-            "email": "cindy4434@gms.ndhu.edu.tw",
-            "phone": "8906254"
-        },
-        "attachmentCount": 1
     }
 ]

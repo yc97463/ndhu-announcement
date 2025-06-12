@@ -1,5 +1,19 @@
 [
     {
+        "title": "🤑獎金五千元🤑《東湖樂閣大初徵 第六季》",
+        "timestamp": "1749104467",
+        "url": "mail_display.php?timestamp=1749104467",
+        "date": "2025/06/05 14:21",
+        "department": "藝術中心",
+        "author": {
+            "department": "藝術中心",
+            "name": "周葦綸",
+            "email": "arts@gms.ndhu.edu.tw",
+            "phone": "6606"
+        },
+        "attachmentCount": 7
+    },
+    {
         "title": "【資安公告】行政院公共工程委員會訂定「採購契約範本附記條款特別聲明」",
         "timestamp": "1749104373",
         "url": "mail_display.php?timestamp=1749104373",
@@ -194,19 +208,5 @@
             "phone": "890-6056"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "這樣運動可以預防失智症",
-        "timestamp": "1749020222",
-        "url": "mail_display.php?timestamp=1749020222",
-        "date": "2025/06/04 14:57",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "楊曉青",
-            "email": "cindy4434@gms.ndhu.edu.tw",
-            "phone": "8906254"
-        },
-        "attachmentCount": 1
     }
 ]
