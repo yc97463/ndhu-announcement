@@ -1,5 +1,19 @@
 [
     {
+        "title": "【活動時間更正】本校退休人員歡送茶會，進場時間更正為：下午14:30開始，日期6/11及活動地點不變。",
+        "timestamp": "1749519818",
+        "url": "mail_display.php?timestamp=1749519818",
+        "date": "2025/06/10 09:43",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "陳美玲",
+            "email": "susan089@gms.ndhu.edu.tw",
+            "phone": "6057"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "📢 【第二次公告】志工招募倒數中！ 🎉 國立東華大學 銀髮健身俱樂部 114年暑期體能訓練室志工招募",
         "timestamp": "1749516086",
         "url": "mail_display.php?timestamp=1749516086",
@@ -194,19 +208,5 @@
             "phone": "03-8905168"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【圖書館公告】114 暑假優惠借期Summer vacation’s preferential loan period",
-        "timestamp": "1748916979",
-        "url": "mail_display.php?timestamp=1748916979",
-        "date": "2025/06/03 10:16",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "詹依萍",
-            "email": "ipchan@gms.ndhu.edu.tw",
-            "phone": "6813"
-        },
-        "attachmentCount": 0
     }
 ]
