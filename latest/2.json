@@ -1,5 +1,19 @@
 [
     {
+        "title": "【公告】新城鄉公所為辦理114年全國性公民投票，函請本校推薦投開票所工作人員，詳如說明。",
+        "timestamp": "1749775315",
+        "url": "mail_display.php?timestamp=1749775315",
+        "date": "2025/06/13 08:41",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "劉依虹",
+            "email": "joyce_liu@gms.ndhu.edu.tw",
+            "phone": "6060"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "校務會議紀錄公告通知",
         "timestamp": "1749719258",
         "url": "mail_display.php?timestamp=1749719258",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【樂之夜】國立東華大學音樂學系室內樂音樂會",
-        "timestamp": "1749633568",
-        "url": "mail_display.php?timestamp=1749633568",
-        "date": "2025/06/11 17:19",
-        "department": "音樂學系",
-        "author": {
-            "department": "音樂學系",
-            "name": "藍筱筑",
-            "email": "cathylan@gms.ndhu.edu.tw",
-            "phone": "038905153"
-        },
-        "attachmentCount": 1
     }
 ]

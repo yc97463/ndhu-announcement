@@ -1,5 +1,19 @@
 [
     {
+        "title": "國立臺北教育大學辦理114年「相遇˙心動中」單身聯誼活動，請符合資格之女性單身同仁踴躍報名參加。",
+        "timestamp": "1749455989",
+        "url": "mail_display.php?timestamp=1749455989",
+        "date": "2025/06/09 15:59",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "陳旺志",
+            "email": "dchen829@gms.ndhu.edu.tw",
+            "phone": "03-8906058"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "【學生自主學習社群】114-1學期社群即日起開放徵件，歡迎有興趣的同學組團申請!!(第二次公告)",
         "timestamp": "1749455780",
         "url": "mail_display.php?timestamp=1749455780",
@@ -194,19 +208,5 @@
             "phone": "6385"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "6/13《OSCE在心理衡鑑初次晤談之應用：以憂鬱症個案為例》新書發表會(花蓮場)",
-        "timestamp": "1749200423",
-        "url": "mail_display.php?timestamp=1749200423",
-        "date": "2025/06/06 17:00",
-        "department": "諮商與臨床心理學系",
-        "author": {
-            "department": "諮商與臨床心理學系",
-            "name": "徐小姐",
-            "email": "mandy_hsu@gms.ndhu.edu.tw",
-            "phone": "5633"
-        },
-        "attachmentCount": 1
     }
 ]

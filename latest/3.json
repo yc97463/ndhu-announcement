@@ -1,5 +1,19 @@
 [
     {
+        "title": "【樂之夜】國立東華大學音樂學系室內樂音樂會",
+        "timestamp": "1749633568",
+        "url": "mail_display.php?timestamp=1749633568",
+        "date": "2025/06/11 17:19",
+        "department": "音樂學系",
+        "author": {
+            "department": "音樂學系",
+            "name": "藍筱筑",
+            "email": "cathylan@gms.ndhu.edu.tw",
+            "phone": "038905153"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【徵才】臺中市政府勞工局114年7月9日辦理「富市台中 就業成功」潭子區聯合徵才活動",
         "timestamp": "1749633298",
         "url": "mail_display.php?timestamp=1749633298",
@@ -194,19 +208,5 @@
             "phone": "5633"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "本校114年暑假期間(6/21~9/7)校內委外廠商營業時間公告。",
-        "timestamp": "1749535943",
-        "url": "mail_display.php?timestamp=1749535943",
-        "date": "2025/06/10 14:12",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "潘姵辰",
-            "email": "papec1980@gms.ndhu.edu.tw",
-            "phone": "03-8906313"
-        },
-        "attachmentCount": 2
     }
 ]
