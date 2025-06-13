@@ -1,5 +1,19 @@
 [
     {
+        "title": " 🔔原民生/一般生填寫問券領取【7-11禮券50元】 🔔",
+        "timestamp": "1749629526",
+        "url": "mail_display.php?timestamp=1749629526",
+        "date": "2025/06/11 16:12",
+        "department": "原住民族學生資源中心",
+        "author": {
+            "department": "原住民族學生資源中心",
+            "name": "林詠靖",
+            "email": "tipus@gms.ndhu.edu.tw",
+            "phone": "5707"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵聘教師】國立東華大學電機工程學系徵聘專任助理教授(含)以上之專任師資2名",
         "timestamp": "1749626395",
         "url": "mail_display.php?timestamp=1749626395",
@@ -194,19 +208,5 @@
             "phone": "8903204"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "114-1 閱讀培力計畫-限教育系(有意修課者務必填寫表單，經面試且通知錄取後才會選課成功！)",
-        "timestamp": "1749533387",
-        "url": "mail_display.php?timestamp=1749533387",
-        "date": "2025/06/10 13:29",
-        "department": "偏鄉閱讀與行動中心",
-        "author": {
-            "department": "偏鄉閱讀與行動中心",
-            "name": "盧助理",
-            "email": "lesa@gms.ndhu.edu.tw",
-            "phone": "03-890-3813"
-        },
-        "attachmentCount": 2
     }
 ]
