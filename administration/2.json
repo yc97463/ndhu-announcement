@@ -1,5 +1,19 @@
 [
     {
+        "title": "【資安公告】行政院公共工程委員會訂定「採購契約範本附記條款特別聲明」",
+        "timestamp": "1749104373",
+        "url": "mail_display.php?timestamp=1749104373",
+        "date": "2025/06/05 14:19",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "蕭澤宇",
+            "email": "zyhsiao@gms.ndhu.edu.tw",
+            "phone": "6727"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "馬偕學校財團法人馬偕醫護管理專科學校辦理「第十三屆傑出校友遴選」遴選辦法暨推薦表",
         "timestamp": "1749097434",
         "url": "mail_display.php?timestamp=1749097434",
@@ -194,19 +208,5 @@
             "phone": "(03)8906079"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【113-2推廣教育招生】「人物肖像似顏繪創作坊」",
-        "timestamp": "1748478259",
-        "url": "mail_display.php?timestamp=1748478259",
-        "date": "2025/05/29 08:24",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 6
     }
 ]

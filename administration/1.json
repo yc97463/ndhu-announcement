@@ -1,5 +1,19 @@
 [
     {
+        "title": "學人宿舍區天溝清理作業公告",
+        "timestamp": "1749775971",
+        "url": "mail_display.php?timestamp=1749775971",
+        "date": "2025/06/13 08:52",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "賴小姐",
+            "email": "lai0210@gms.ndhu.edu.tw",
+            "phone": "890-6393"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "校務會議紀錄公告通知",
         "timestamp": "1749719258",
         "url": "mail_display.php?timestamp=1749719258",
@@ -194,19 +208,5 @@
             "phone": "6722"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【資安公告】行政院公共工程委員會訂定「採購契約範本附記條款特別聲明」",
-        "timestamp": "1749104373",
-        "url": "mail_display.php?timestamp=1749104373",
-        "date": "2025/06/05 14:19",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "蕭澤宇",
-            "email": "zyhsiao@gms.ndhu.edu.tw",
-            "phone": "6727"
-        },
-        "attachmentCount": 3
     }
 ]

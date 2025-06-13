@@ -1,5 +1,61 @@
 [
     {
+        "title": "【協助轉知】114年度東區中毒急救教育訓練(初階)",
+        "timestamp": "1749777201",
+        "url": "mail_display.php?timestamp=1749777201",
+        "date": "2025/06/13 09:13",
+        "department": "永續發展中心",
+        "author": {
+            "department": "永續發展中心",
+            "name": "李莉莉 Li-Li Lee",
+            "email": "sd@gms.ndhu.edu.tw",
+            "phone": "03-890-5920"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "學人宿舍區天溝清理作業公告",
+        "timestamp": "1749775971",
+        "url": "mail_display.php?timestamp=1749775971",
+        "date": "2025/06/13 08:52",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "賴小姐",
+            "email": "lai0210@gms.ndhu.edu.tw",
+            "phone": "890-6393"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "本校新簽定之嘉美瑞品飯店特約商店公告。",
+        "timestamp": "1749775317",
+        "url": "mail_display.php?timestamp=1749775317",
+        "date": "2025/06/13 08:41",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "潘姵辰",
+            "email": "papec1980@gms.ndhu.edu.tw",
+            "phone": "03-8906313"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【公告】新城鄉公所為辦理114年全國性公民投票，函請本校推薦投開票所工作人員，詳如說明。",
+        "timestamp": "1749775315",
+        "url": "mail_display.php?timestamp=1749775315",
+        "date": "2025/06/13 08:41",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "劉依虹",
+            "email": "joyce_liu@gms.ndhu.edu.tw",
+            "phone": "6060"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "校務會議紀錄公告通知",
         "timestamp": "1749719258",
         "url": "mail_display.php?timestamp=1749719258",
@@ -152,61 +208,5 @@
             "phone": "03-8905168"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【轉知】花蓮市公所為辦理114年全國性公民投票，函請本校推薦投開票所工作人員，詳如說明。",
-        "timestamp": "1749692117",
-        "url": "mail_display.php?timestamp=1749692117",
-        "date": "2025/06/12 09:35",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "劉依虹",
-            "email": "joyce_liu@gms.ndhu.edu.tw",
-            "phone": "6060"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "圖書館電梯停用公告",
-        "timestamp": "1749657700",
-        "url": "mail_display.php?timestamp=1749657700",
-        "date": "2025/06/12 00:01",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【實習】啟坤科技股份有限公司餐務部(打貓廚房)實習(114年7月20日截止)",
-        "timestamp": "1749634354",
-        "url": "mail_display.php?timestamp=1749634354",
-        "date": "2025/06/11 17:32",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【樂之夜】國立東華大學音樂學系室內樂音樂會",
-        "timestamp": "1749633568",
-        "url": "mail_display.php?timestamp=1749633568",
-        "date": "2025/06/11 17:19",
-        "department": "音樂學系",
-        "author": {
-            "department": "音樂學系",
-            "name": "藍筱筑",
-            "email": "cathylan@gms.ndhu.edu.tw",
-            "phone": "038905153"
-        },
-        "attachmentCount": 1
     }
 ]
