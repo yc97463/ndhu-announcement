@@ -1,5 +1,19 @@
 [
     {
+        "title": "【Student Dormitory】National Dong Hwa University 113th Academic Year, Second Semester Announcement on End-of-Term Dormitory Closure, Luggage Storage, and Summer Accommodation Operations",
+        "timestamp": "1747620901",
+        "url": "mail_display.php?timestamp=1747620901",
+        "date": "2025/05/19 10:15",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "鍾佩玲",
+            "email": "free22011@gms.ndhu.edu.tw",
+            "phone": "03890-6217"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【學生宿舍】國立東華大學113學年度第二學期學生宿舍【期末閉宿暨行李寄放及暑期住宿】作業公告",
         "timestamp": "1747620738",
         "url": "mail_display.php?timestamp=1747620738",
@@ -192,20 +206,6 @@
             "name": "陳婉婉",
             "email": "secretariat@gms.ndhu.edu.tw",
             "phone": "6004"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【課務組通知】各學制學生114-1課程初選事宜  Preliminary Course Selection for Next Semester",
-        "timestamp": "1747188344",
-        "url": "mail_display.php?timestamp=1747188344",
-        "date": "2025/05/14 10:05",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "utd1003@gms.ndhu.edu.tw",
-            "phone": "6122-6126"
         },
         "attachmentCount": 1
     }

@@ -1,5 +1,19 @@
 [
     {
+        "title": "【資安教育訓練_通識】",
+        "timestamp": "1749113108",
+        "url": "mail_display.php?timestamp=1749113108",
+        "date": "2025/06/05 16:45",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "趙心榆",
+            "email": "vsychao@gms.ndhu.edu.tw",
+            "phone": "6722"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【資安公告】行政院公共工程委員會訂定「採購契約範本附記條款特別聲明」",
         "timestamp": "1749104373",
         "url": "mail_display.php?timestamp=1749104373",
@@ -194,19 +208,5 @@
             "phone": "8906607"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【公告】本年度分配至各單位之部門預算，114年6月30日止之資本門執行率應達60%，至9月30日止之執行率應達90%",
-        "timestamp": "1748478866",
-        "url": "mail_display.php?timestamp=1748478866",
-        "date": "2025/05/29 08:34",
-        "department": "主計室",
-        "author": {
-            "department": "主計室",
-            "name": "曾俊達",
-            "email": "kleiber0576@gms.ndhu.edu.tw",
-            "phone": "(03)8906079"
-        },
-        "attachmentCount": 0
     }
 ]
