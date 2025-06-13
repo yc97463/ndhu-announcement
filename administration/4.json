@@ -1,5 +1,19 @@
 [
     {
+        "title": "【人事室公告】更新差勤(刷卡)系統網址，請以新的網址登入及簽到退。(即刻可用新網址登入)",
+        "timestamp": "1747992761",
+        "url": "mail_display.php?timestamp=1747992761",
+        "date": "2025/05/23 17:32",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "劉依虹",
+            "email": "joyce_liu@gms.ndhu.edu.tw",
+            "phone": "6060"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【人事室緊急公告】目前刷卡(差勤)系統暫無法使用，請於5/26(一)至差勤系統補登出勤。",
         "timestamp": "1747990932",
         "url": "mail_display.php?timestamp=1747990932",
@@ -194,19 +208,5 @@
             "phone": "890-6056"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "【公告】戴興盛教授自114年8月1日起新任本校環境暨海洋學院院長",
-        "timestamp": "1747640896",
-        "url": "mail_display.php?timestamp=1747640896",
-        "date": "2025/05/19 15:48",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "楊惠雯",
-            "email": "hwyang@gms.ndhu.edu.tw",
-            "phone": "6061"
-        },
-        "attachmentCount": 0
     }
 ]

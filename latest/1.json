@@ -1,9 +1,37 @@
 [
     {
+        "title": "【徵才】財團法人台灣金融研訓院受託辦理兆豐銀行、華南銀行及台灣票據交換所人才甄試",
+        "timestamp": "1749803376",
+        "url": "mail_display.php?timestamp=1749803376",
+        "date": "2025/06/13 16:29",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 8
+    },
+    {
+        "title": "育成中心電力設備改善工程",
+        "timestamp": "1749802602",
+        "url": "mail_display.php?timestamp=1749802602",
+        "date": "2025/06/13 16:16",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "張宗玲",
+            "email": "aj0191@gms.ndhu.edu.tw",
+            "phone": "8906377"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【領取印章通知✨】有申請原民會原住民學生獎助學金之同學，已可至原資中心(學活C103)領回印章✨",
-        "timestamp": "1749798948",
-        "url": "mail_display.php?timestamp=1749798948",
-        "date": "2025/06/13 15:15",
+        "timestamp": "1749802411",
+        "url": "mail_display.php?timestamp=1749802411",
+        "date": "2025/06/13 16:13",
         "department": "原住民族學生資源中心",
         "author": {
             "department": "原住民族學生資源中心",
@@ -180,33 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
-        "timestamp": "1749717880",
-        "url": "mail_display.php?timestamp=1749717880",
-        "date": "2025/06/12 16:44",
-        "department": "圖書資訊處校務系統組",
-        "author": {
-            "department": "圖書資訊處校務系統組",
-            "name": "林志軒",
-            "email": "chshlin@gms.ndhu.edu.tw",
-            "phone": "6752"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【獎助學金申請】鴻海教育基金會2025年「鴻海獎學鯨」獎助學金",
-        "timestamp": "1749717469",
-        "url": "mail_display.php?timestamp=1749717469",
-        "date": "2025/06/12 16:37",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]

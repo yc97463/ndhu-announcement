@@ -1,5 +1,19 @@
 [
     {
+        "title": "敬邀參加-第38屆校園試映會(電影製作藝術、紀錄片製作成果發表)",
+        "timestamp": "1748826946",
+        "url": "mail_display.php?timestamp=1748826946",
+        "date": "2025/06/02 09:15",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "8906607"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【公告】本年度分配至各單位之部門預算，114年6月30日止之資本門執行率應達60%，至9月30日止之執行率應達90%",
         "timestamp": "1748478866",
         "url": "mail_display.php?timestamp=1748478866",
@@ -194,19 +208,5 @@
             "phone": "6376"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【人事室公告】更新差勤(刷卡)系統網址，請以新的網址登入及簽到退。(即刻可用新網址登入)",
-        "timestamp": "1747992761",
-        "url": "mail_display.php?timestamp=1747992761",
-        "date": "2025/05/23 17:32",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "劉依虹",
-            "email": "joyce_liu@gms.ndhu.edu.tw",
-            "phone": "6060"
-        },
-        "attachmentCount": 1
     }
 ]
