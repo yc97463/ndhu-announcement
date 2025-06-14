@@ -1,5 +1,19 @@
 [
     {
+        "title": "圖書館電梯停用公告",
+        "timestamp": "1749657700",
+        "url": "mail_display.php?timestamp=1749657700",
+        "date": "2025/06/12 00:01",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【實習】啟坤科技股份有限公司餐務部(打貓廚房)實習(114年7月20日截止)",
         "timestamp": "1749634354",
         "url": "mail_display.php?timestamp=1749634354",
@@ -194,19 +208,5 @@
             "phone": "8906422"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【訊息轉知】114年教育部數位學習課程設計及認證工作坊",
-        "timestamp": "1749543100",
-        "url": "mail_display.php?timestamp=1749543100",
-        "date": "2025/06/10 16:11",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 1
     }
 ]

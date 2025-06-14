@@ -1,5 +1,19 @@
 [
     {
+        "title": "【訊息轉知】114年教育部數位學習課程設計及認證工作坊",
+        "timestamp": "1749543100",
+        "url": "mail_display.php?timestamp=1749543100",
+        "date": "2025/06/10 16:11",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "6/13《OSCE在心理衡鑑初次晤談之應用：以憂鬱症個案為例》新書發表會(花蓮場)",
         "timestamp": "1749537136",
         "url": "mail_display.php?timestamp=1749537136",
@@ -194,19 +208,5 @@
             "phone": "6061"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【資安第二次公告】資安教育訓練_通識",
-        "timestamp": "1749458855",
-        "url": "mail_display.php?timestamp=1749458855",
-        "date": "2025/06/09 16:47",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "趙心榆",
-            "email": "vsychao@gms.ndhu.edu.tw",
-            "phone": "6722"
-        },
-        "attachmentCount": 0
     }
 ]
