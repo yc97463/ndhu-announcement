@@ -1,5 +1,19 @@
 [
     {
+        "title": "【停電】學人宿舍線路配電盤線路破損包覆。",
+        "timestamp": "1749205241",
+        "url": "mail_display.php?timestamp=1749205241",
+        "date": "2025/06/06 18:20",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "[消防演練]114年6月9日(一)消防搶救演練公告。",
         "timestamp": "1749193134",
         "url": "mail_display.php?timestamp=1749193134",
@@ -186,20 +200,6 @@
         "timestamp": "1748850516",
         "url": "mail_display.php?timestamp=1748850516",
         "date": "2025/06/02 15:48",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "鄭小姐",
-            "email": "ting@gms.ndhu.edu.tw",
-            "phone": "8906215"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "📢📢深耕起飛計畫~🔥114學年度第1學期校內行政單位【起飛見習生】開放登記申請!🔥",
-        "timestamp": "1748849022",
-        "url": "mail_display.php?timestamp=1748849022",
-        "date": "2025/06/02 15:23",
         "department": "學務處",
         "author": {
             "department": "學務處",

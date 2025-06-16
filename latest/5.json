@@ -1,5 +1,19 @@
 [
     {
+        "title": "114-1 閱讀培力計畫-限教育系(有意修課者務必填寫表單，經面試且通知錄取後才會選課成功！)",
+        "timestamp": "1749533387",
+        "url": "mail_display.php?timestamp=1749533387",
+        "date": "2025/06/10 13:29",
+        "department": "偏鄉閱讀與行動中心",
+        "author": {
+            "department": "偏鄉閱讀與行動中心",
+            "name": "盧助理",
+            "email": "lesa@gms.ndhu.edu.tw",
+            "phone": "03-890-3813"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "活動轉發【探究式閱讀種子師資培訓工作坊】",
         "timestamp": "1749524917",
         "url": "mail_display.php?timestamp=1749524917",
@@ -194,19 +208,5 @@
             "phone": "8906587"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "📢 畢業體適能追加測驗公告｜請務必把握最後機會！",
-        "timestamp": "1749455724",
-        "url": "mail_display.php?timestamp=1749455724",
-        "date": "2025/06/09 15:55",
-        "department": "體育中心",
-        "author": {
-            "department": "體育中心",
-            "name": "莊璦綺",
-            "email": "ichi@gms.ndhu.edu.tw",
-            "phone": "6613"
-        },
-        "attachmentCount": 0
     }
 ]
