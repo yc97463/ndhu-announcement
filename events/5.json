@@ -1,5 +1,19 @@
 [
     {
+        "title": "端午佳節玩科學！東華大學在立川漁場帶大家動手學仿生",
+        "timestamp": "1748485433",
+        "url": "mail_display.php?timestamp=1748485433",
+        "date": "2025/05/29 10:23",
+        "department": "環境暨海洋學院",
+        "author": {
+            "department": "環境暨海洋學院",
+            "name": "羅郁庭",
+            "email": "erntmap@gmail.com",
+            "phone": "8905179"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【教育大數據產學合作與專題實作】114-1學程實務課推廣",
         "timestamp": "1748484367",
         "url": "mail_display.php?timestamp=1748484367",
@@ -194,19 +208,5 @@
             "phone": "03-8905497"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "本學期學生免費法律諮詢最終場!",
-        "timestamp": "1748402554",
-        "url": "mail_display.php?timestamp=1748402554",
-        "date": "2025/05/28 11:22",
-        "department": "秘書室法制組",
-        "author": {
-            "department": "秘書室法制組",
-            "name": "阮念慈",
-            "email": "nt0701@gms.ndhu.edu.tw",
-            "phone": "03-8906021"
-        },
-        "attachmentCount": 1
     }
 ]
