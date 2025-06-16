@@ -1,5 +1,19 @@
 [
     {
+        "title": "工作機會轉發【全職或兼職】花蓮工業技術研究院行政人員招募",
+        "timestamp": "1750056106",
+        "url": "mail_display.php?timestamp=1750056106",
+        "date": "2025/06/16 14:41",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "吳其璁",
+            "email": "dci93031@gms.ndhu.edu.tw",
+            "phone": "03-8903687"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵聘教師】國立東華大學電機工程學系徵聘專任助理教授(含)以上之專任師資2名",
         "timestamp": "1749626395",
         "url": "mail_display.php?timestamp=1749626395",
@@ -194,19 +208,5 @@
             "phone": "(03)8903504"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "國立東華大學管理學院 財務金融學系系主任徵聘公告（第二次）",
-        "timestamp": "1746671337",
-        "url": "mail_display.php?timestamp=1746671337",
-        "date": "2025/05/08 10:28",
-        "department": "管理學院",
-        "author": {
-            "department": "管理學院",
-            "name": "林香君",
-            "email": "smgt@gms.ndhu.edu.tw",
-            "phone": "3002"
-        },
-        "attachmentCount": 1
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才】國際事務處國際合作組徵聘校務基金學士級助理一名",
+        "timestamp": "1744680326",
+        "url": "mail_display.php?timestamp=1744680326",
+        "date": "2025/04/15 09:25",
+        "department": "國際事務處",
+        "author": {
+            "department": "國際事務處",
+            "name": "劉力綺",
+            "email": "cheerio@gms.ndhu.edu.tw",
+            "phone": "5109"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "師資培育中心徵聘地方教育輔導組職務代理人",
         "timestamp": "1744617950",
         "url": "mail_display.php?timestamp=1744617950",
@@ -194,19 +208,5 @@
             "phone": "038906361"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【徵才】本校徵求環境暨海洋學院院長人選",
-        "timestamp": "1742776623",
-        "url": "mail_display.php?timestamp=1742776623",
-        "date": "2025/03/24 08:37",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "楊惠雯",
-            "email": "hwyang@gms.ndhu.edu.tw",
-            "phone": "6061"
-        },
-        "attachmentCount": 1
     }
 ]

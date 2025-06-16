@@ -1,5 +1,19 @@
 [
     {
+        "title": "【最後一天🔥】東湖樂閣大初徵 🤑5000元獎金🤑",
+        "timestamp": "1750057834",
+        "url": "mail_display.php?timestamp=1750057834",
+        "date": "2025/06/16 15:10",
+        "department": "藝術中心",
+        "author": {
+            "department": "藝術中心",
+            "name": "周葦綸",
+            "email": "arts@gms.ndhu.edu.tw",
+            "phone": "6606"
+        },
+        "attachmentCount": 11
+    },
+    {
         "title": "國立臺中教育大學函送該校傑出校友選拔暨表揚要點及推薦表",
         "timestamp": "1750040177",
         "url": "mail_display.php?timestamp=1750040177",
@@ -194,19 +208,5 @@
             "phone": "03-8906235"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "東華大學語言中心主辦的2025 ESBB 國際研討會——熱烈徵稿中！(收件截止日期更正)",
-        "timestamp": "1749615311",
-        "url": "mail_display.php?timestamp=1749615311",
-        "date": "2025/06/11 12:15",
-        "department": "語言中心",
-        "author": {
-            "department": "語言中心",
-            "name": "林小姐",
-            "email": "lc@gms.ndhu.edu.tw",
-            "phone": "03-895492"
-        },
-        "attachmentCount": 2
     }
 ]
