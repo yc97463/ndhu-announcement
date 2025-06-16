@@ -1,5 +1,33 @@
 [
     {
+        "title": "【獎助學金申請】勵馨社會福利事業基金會「114學年度欣恩獎助學金」(限女性學生)",
+        "timestamp": "1749909722",
+        "url": "mail_display.php?timestamp=1749909722",
+        "date": "2025/06/14 22:02",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【更正公告】學人宿舍區天溝清理作業",
+        "timestamp": "1749861179",
+        "url": "mail_display.php?timestamp=1749861179",
+        "date": "2025/06/14 08:32",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "賴小姐",
+            "email": "lai0210@gms.ndhu.edu.tw",
+            "phone": "6393"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "原住民民族學院圓形教室屋頂施工通知",
         "timestamp": "1749821221",
         "url": "mail_display.php?timestamp=1749821221",
@@ -178,34 +206,6 @@
             "name": "李莉莉 Li-Li Lee",
             "email": "sd@gms.ndhu.edu.tw",
             "phone": "03-890-5920"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "學人宿舍區天溝清理作業公告",
-        "timestamp": "1749775971",
-        "url": "mail_display.php?timestamp=1749775971",
-        "date": "2025/06/13 08:52",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "賴小姐",
-            "email": "lai0210@gms.ndhu.edu.tw",
-            "phone": "890-6393"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "本校新簽定之嘉美瑞品飯店特約商店公告。",
-        "timestamp": "1749775317",
-        "url": "mail_display.php?timestamp=1749775317",
-        "date": "2025/06/13 08:41",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "潘姵辰",
-            "email": "papec1980@gms.ndhu.edu.tw",
-            "phone": "03-8906313"
         },
         "attachmentCount": 2
     }

@@ -1,5 +1,33 @@
 [
     {
+        "title": "學人宿舍區天溝清理作業公告",
+        "timestamp": "1749775971",
+        "url": "mail_display.php?timestamp=1749775971",
+        "date": "2025/06/13 08:52",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "賴小姐",
+            "email": "lai0210@gms.ndhu.edu.tw",
+            "phone": "890-6393"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "本校新簽定之嘉美瑞品飯店特約商店公告。",
+        "timestamp": "1749775317",
+        "url": "mail_display.php?timestamp=1749775317",
+        "date": "2025/06/13 08:41",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "潘姵辰",
+            "email": "papec1980@gms.ndhu.edu.tw",
+            "phone": "03-8906313"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【公告】新城鄉公所為辦理114年全國性公民投票，函請本校推薦投開票所工作人員，詳如說明。",
         "timestamp": "1749775315",
         "url": "mail_display.php?timestamp=1749775315",
@@ -178,34 +206,6 @@
             "name": "劉依虹",
             "email": "joyce_liu@gms.ndhu.edu.tw",
             "phone": "6060"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "圖書館電梯停用公告",
-        "timestamp": "1749657700",
-        "url": "mail_display.php?timestamp=1749657700",
-        "date": "2025/06/12 00:01",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【實習】啟坤科技股份有限公司餐務部(打貓廚房)實習(114年7月20日截止)",
-        "timestamp": "1749634354",
-        "url": "mail_display.php?timestamp=1749634354",
-        "date": "2025/06/11 17:32",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
         },
         "attachmentCount": 2
     }

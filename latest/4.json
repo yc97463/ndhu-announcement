@@ -1,5 +1,33 @@
 [
     {
+        "title": "圖書館電梯停用公告",
+        "timestamp": "1749657700",
+        "url": "mail_display.php?timestamp=1749657700",
+        "date": "2025/06/12 00:01",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【實習】啟坤科技股份有限公司餐務部(打貓廚房)實習(114年7月20日截止)",
+        "timestamp": "1749634354",
+        "url": "mail_display.php?timestamp=1749634354",
+        "date": "2025/06/11 17:32",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【樂之夜】國立東華大學音樂學系室內樂音樂會",
         "timestamp": "1749633568",
         "url": "mail_display.php?timestamp=1749633568",
@@ -180,33 +208,5 @@
             "phone": "8906422"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【訊息轉知】114年教育部數位學習課程設計及認證工作坊",
-        "timestamp": "1749543100",
-        "url": "mail_display.php?timestamp=1749543100",
-        "date": "2025/06/10 16:11",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "王立凡",
-            "email": "lfwang@gms.ndhu.edu.tw",
-            "phone": "8906422"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "6/13《OSCE在心理衡鑑初次晤談之應用：以憂鬱症個案為例》新書發表會(花蓮場)",
-        "timestamp": "1749537136",
-        "url": "mail_display.php?timestamp=1749537136",
-        "date": "2025/06/10 14:32",
-        "department": "諮商與臨床心理學系",
-        "author": {
-            "department": "諮商與臨床心理學系",
-            "name": "徐小姐",
-            "email": "mandy_hsu@gms.ndhu.edu.tw",
-            "phone": "5633"
-        },
-        "attachmentCount": 1
     }
 ]
