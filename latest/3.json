@@ -1,5 +1,19 @@
 [
     {
+        "title": "【更正公告】學人宿舍區天溝清理作業",
+        "timestamp": "1749861179",
+        "url": "mail_display.php?timestamp=1749861179",
+        "date": "2025/06/14 08:32",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "賴小姐",
+            "email": "lai0210@gms.ndhu.edu.tw",
+            "phone": "6393"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "原住民民族學院圓形教室屋頂施工通知",
         "timestamp": "1749821221",
         "url": "mail_display.php?timestamp=1749821221",
@@ -194,19 +208,5 @@
             "phone": "890-6393"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "本校新簽定之嘉美瑞品飯店特約商店公告。",
-        "timestamp": "1749775317",
-        "url": "mail_display.php?timestamp=1749775317",
-        "date": "2025/06/13 08:41",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "潘姵辰",
-            "email": "papec1980@gms.ndhu.edu.tw",
-            "phone": "03-8906313"
-        },
-        "attachmentCount": 2
     }
 ]
