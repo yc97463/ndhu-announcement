@@ -1,5 +1,33 @@
 [
     {
+        "title": "114年教職員工消防演練公告。",
+        "timestamp": "1747883470",
+        "url": "mail_display.php?timestamp=1747883470",
+        "date": "2025/05/22 11:11",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "賴名塑",
+            "email": "a54604@gms.ndhu.edu.tw",
+            "phone": "8906378"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【新航之舟】新生輪轉工作坊招募  一同迎新生",
+        "timestamp": "1747871823",
+        "url": "mail_display.php?timestamp=1747871823",
+        "date": "2025/05/22 07:57",
+        "department": "學務處課外活動組",
+        "author": {
+            "department": "學務處課外活動組",
+            "name": "余惠真",
+            "email": "nacy4631@gms.ndhu.edu.tw",
+            "phone": "6232"
+        },
+        "attachmentCount": 7
+    },
+    {
         "title": "行政大樓高樓層辦公室窗台裝設防墜(鴿)網施工公告",
         "timestamp": "1747817208",
         "url": "mail_display.php?timestamp=1747817208",
@@ -180,33 +208,5 @@
             "phone": "(03)8906079"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【防制校園詐騙宣導通報】-114年5月20日",
-        "timestamp": "1747617803",
-        "url": "mail_display.php?timestamp=1747617803",
-        "date": "2025/05/19 09:23",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "吳昭毅",
-            "email": "wuyi12831@gms.ndhu.edu.tw",
-            "phone": "038906228"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "國立東華大學113學年度第2學期 通識教育中心 推廣教育 「人物肖像似顏繪創作坊」非學分班招生簡章",
-        "timestamp": "1747614518",
-        "url": "mail_display.php?timestamp=1747614518",
-        "date": "2025/05/19 08:28",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 4
     }
 ]
