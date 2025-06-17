@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】平安菁英教育基金會114-1平安菁英獎學金",
+        "timestamp": "1748841338",
+        "url": "mail_display.php?timestamp=1748841338",
+        "date": "2025/06/02 13:15",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】華嚴蓮社114年大專學生佛學慈孝獎學金",
         "timestamp": "1748832619",
         "url": "mail_display.php?timestamp=1748832619",
@@ -194,19 +208,5 @@
             "phone": "分機6221"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【獎助學金申請】花蓮縣玉里國小教育基金會114年度獎助學金 (限該校校友且為低或中低收)",
-        "timestamp": "1747700907",
-        "url": "mail_display.php?timestamp=1747700907",
-        "date": "2025/05/20 08:28",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]

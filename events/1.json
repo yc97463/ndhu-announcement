@@ -1,5 +1,19 @@
 [
     {
+        "title": "資安教育訓練",
+        "timestamp": "1750140517",
+        "url": "mail_display.php?timestamp=1750140517",
+        "date": "2025/06/17 14:08",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "劉維忠",
+            "email": "samliu@gms.ndhu.edu.tw",
+            "phone": "03-8906741"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "114年6月22日(星期日)，大農大富親子遊，歡迎全體教職員參加",
         "timestamp": "1750121390",
         "url": "mail_display.php?timestamp=1750121390",
@@ -194,19 +208,5 @@
             "phone": "038905153"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": " 🔔原民生/一般生填寫問券領取【7-11禮券50元】 🔔",
-        "timestamp": "1749629526",
-        "url": "mail_display.php?timestamp=1749629526",
-        "date": "2025/06/11 16:12",
-        "department": "原住民族學生資源中心",
-        "author": {
-            "department": "原住民族學生資源中心",
-            "name": "林詠靖",
-            "email": "tipus@gms.ndhu.edu.tw",
-            "phone": "5707"
-        },
-        "attachmentCount": 0
     }
 ]

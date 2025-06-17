@@ -1,5 +1,19 @@
 [
     {
+        "title": "【停水】大學路正門右側入口水管漏水緊急搶修，停水公告。",
+        "timestamp": "1750141168",
+        "url": "mail_display.php?timestamp=1750141168",
+        "date": "2025/06/17 14:19",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "賴名塑",
+            "email": "a54604@gms.ndhu.edu.tw",
+            "phone": "8906378"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才】國立彰化師範大學環境保護暨安全衛生中心招募「專案行政組員(職業安全/衛生管理師)」",
         "timestamp": "1750129617",
         "url": "mail_display.php?timestamp=1750129617",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "本校新簽定之嘉美瑞品飯店特約商店公告。",
-        "timestamp": "1749775317",
-        "url": "mail_display.php?timestamp=1749775317",
-        "date": "2025/06/13 08:41",
-        "department": "總務處事務組",
-        "author": {
-            "department": "總務處事務組",
-            "name": "潘姵辰",
-            "email": "papec1980@gms.ndhu.edu.tw",
-            "phone": "03-8906313"
-        },
-        "attachmentCount": 2
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "資安教育訓練",
+        "timestamp": "1750140517",
+        "url": "mail_display.php?timestamp=1750140517",
+        "date": "2025/06/17 14:08",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "劉維忠",
+            "email": "samliu@gms.ndhu.edu.tw",
+            "phone": "03-8906741"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "本校訂於114年6月23日(星期一)辦理人權教育訓練，請各位同仁踴躍參加。",
         "timestamp": "1749786223",
         "url": "mail_display.php?timestamp=1749786223",
@@ -194,19 +208,5 @@
             "phone": "03-8903984"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【招募學員】 轉知中華民國紅十字會114東區(花、東)城市基礎搜救（初階）訓練計畫",
-        "timestamp": "1748402472",
-        "url": "mail_display.php?timestamp=1748402472",
-        "date": "2025/05/28 11:21",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 3
     }
 ]

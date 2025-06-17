@@ -1,5 +1,47 @@
 [
     {
+        "title": "國家圖書館為建置「新世代博碩士論文系統」， 敬請撥冗協助填寫問卷調查。",
+        "timestamp": "1750046427",
+        "url": "mail_display.php?timestamp=1750046427",
+        "date": "2025/06/16 12:00",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "簡民享",
+            "email": "jms@gms.ndhu.edu.tw",
+            "phone": "6842"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【徵才】2025會展產業徵才博覽會× 面試履歷優化健檢 6月28日熱力登場",
+        "timestamp": "1750043082",
+        "url": "mail_display.php?timestamp=1750043082",
+        "date": "2025/06/16 11:04",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 4
+    },
+    {
+        "title": "🔥🔥勞動部113-(第二次公告)114年度大專校院職場企業參訪-114年下半年開放申請囉~~(校內收件至114年6月25日止)",
+        "timestamp": "1750042374",
+        "url": "mail_display.php?timestamp=1750042374",
+        "date": "2025/06/16 10:52",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "郭舒羽",
+            "email": "hdoion@gms.ndhu.edu.tw",
+            "phone": "038906284"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "國立臺中教育大學函送該校傑出校友選拔暨表揚要點及推薦表",
         "timestamp": "1750040177",
         "url": "mail_display.php?timestamp=1750040177",
@@ -166,47 +208,5 @@
             "phone": "6060"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【徵才】宜蘭縣立岳明國民中小學114學年度新進教師及專任運動教練(帆船項目)甄選(114年6月18日截止)",
-        "timestamp": "1749806439",
-        "url": "mail_display.php?timestamp=1749806439",
-        "date": "2025/06/13 17:20",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 5
-    },
-    {
-        "title": "【徵才】財團法人台灣金融研訓院受託辦理兆豐銀行、華南銀行及台灣票據交換所人才甄試",
-        "timestamp": "1749803376",
-        "url": "mail_display.php?timestamp=1749803376",
-        "date": "2025/06/13 16:29",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 8
-    },
-    {
-        "title": "育成中心電力設備改善工程",
-        "timestamp": "1749802602",
-        "url": "mail_display.php?timestamp=1749802602",
-        "date": "2025/06/13 16:16",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "張宗玲",
-            "email": "aj0191@gms.ndhu.edu.tw",
-            "phone": "8906377"
-        },
-        "attachmentCount": 0
     }
 ]
