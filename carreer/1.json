@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才】國立東華大學國際事務處徵聘助理2名 (6/30截止)",
+        "timestamp": "1750146679",
+        "url": "mail_display.php?timestamp=1750146679",
+        "date": "2025/06/17 15:51",
+        "department": "國際事務處",
+        "author": {
+            "department": "國際事務處",
+            "name": "劉力綺",
+            "email": "cheerio@gms.ndhu.edu.tw",
+            "phone": "5109"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "工作機會轉發【全職或兼職】花蓮工業技術研究院行政人員招募",
         "timestamp": "1750056106",
         "url": "mail_display.php?timestamp=1750056106",
@@ -194,19 +208,5 @@
             "phone": "5109"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【徵才公告】國立東華大學理工學院徵聘校務基金助理兩名",
-        "timestamp": "1747096879",
-        "url": "mail_display.php?timestamp=1747096879",
-        "date": "2025/05/13 08:41",
-        "department": "理工學院",
-        "author": {
-            "department": "理工學院",
-            "name": "黃先生",
-            "email": "vict0913@gms.ndhu.edu.tw",
-            "phone": "(03)8903504"
-        },
-        "attachmentCount": 0
     }
 ]
