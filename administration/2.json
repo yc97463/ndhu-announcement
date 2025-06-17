@@ -1,5 +1,47 @@
 [
     {
+        "title": "國立東華大學114年暑假期間學生安全注意事項",
+        "timestamp": "1749512921",
+        "url": "mail_display.php?timestamp=1749512921",
+        "date": "2025/06/10 07:48",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "吳昭毅",
+            "email": "wuyi12831@gms.ndhu.edu.tw",
+            "phone": "038906228"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "重要!!【防制校園詐騙宣導通報】學生校外租屋防詐-114年6月10日",
+        "timestamp": "1749512525",
+        "url": "mail_display.php?timestamp=1749512525",
+        "date": "2025/06/10 07:42",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "吳昭毅",
+            "email": "wuyi12831@gms.ndhu.edu.tw",
+            "phone": "038906228"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "重要!!【防制校園詐騙宣導通報】網路FB社團販賣家電用品遭詐騙-114年6月10日",
+        "timestamp": "1749512100",
+        "url": "mail_display.php?timestamp=1749512100",
+        "date": "2025/06/10 07:35",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "吳昭毅",
+            "email": "wuyi12831@gms.ndhu.edu.tw",
+            "phone": "038906228"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【資安第二次公告】資安教育訓練_通識",
         "timestamp": "1749458855",
         "url": "mail_display.php?timestamp=1749458855",
@@ -166,47 +208,5 @@
             "phone": "03-8906377"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【資安公告】資安時數提醒",
-        "timestamp": "1748938859",
-        "url": "mail_display.php?timestamp=1748938859",
-        "date": "2025/06/03 16:20",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "趙心榆",
-            "email": "vsychao@gms.ndhu.edu.tw",
-            "phone": "6722"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【資安宣導】請定期變更您的密碼",
-        "timestamp": "1748938689",
-        "url": "mail_display.php?timestamp=1748938689",
-        "date": "2025/06/03 16:18",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "趙心榆",
-            "email": "vsychao@gms.ndhu.edu.tw",
-            "phone": "6722"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【圖書館公告】113-2期末考延長開館時間。[Library NOTICE] Library Extended Opening Hours for Study and Exam Periods.",
-        "timestamp": "1748917138",
-        "url": "mail_display.php?timestamp=1748917138",
-        "date": "2025/06/03 10:18",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "詹依萍",
-            "email": "ipchan@gms.ndhu.edu.tw",
-            "phone": "6813"
-        },
-        "attachmentCount": 0
     }
 ]
