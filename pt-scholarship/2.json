@@ -1,5 +1,19 @@
 [
     {
+        "title": "📢📢深耕起飛計畫~🔥114學年度第1學期校內行政單位【起飛見習生】開放登記申請!🔥",
+        "timestamp": "1748849022",
+        "url": "mail_display.php?timestamp=1748849022",
+        "date": "2025/06/02 15:23",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "鄭小姐",
+            "email": "ting@gms.ndhu.edu.tw",
+            "phone": "8906215"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】平安菁英教育基金會114-1平安菁英獎學金",
         "timestamp": "1748841338",
         "url": "mail_display.php?timestamp=1748841338",
@@ -194,19 +208,5 @@
             "phone": "分機6221"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "轉嘉義縣政府 114 年暑期廉政營隊2天1夜隊輔工讀計畫簡章與報名表",
-        "timestamp": "1747717793",
-        "url": "mail_display.php?timestamp=1747717793",
-        "date": "2025/05/20 13:09",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "王文和",
-            "email": "rlawwh@gms.ndhu.edu.tw",
-            "phone": "分機6221"
-        },
-        "attachmentCount": 2
     }
 ]

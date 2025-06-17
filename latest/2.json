@@ -1,5 +1,33 @@
 [
     {
+        "title": "114年6月22日(星期日)，大農大富親子遊，歡迎全體教職員參加",
+        "timestamp": "1750121390",
+        "url": "mail_display.php?timestamp=1750121390",
+        "date": "2025/06/17 08:49",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "劉昱淩",
+            "email": "e56187@gms.ndhu.edu.tw",
+            "phone": "890-6056"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【人事室公告】差勤(刷卡)系統於今日6月17日(二)中午12~13時暫停服務",
+        "timestamp": "1750121109",
+        "url": "mail_display.php?timestamp=1750121109",
+        "date": "2025/06/17 08:45",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "劉依虹",
+            "email": "joyce_liu@gms.ndhu.edu.tw",
+            "phone": "6060"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【公告】本校第八屆傑出校友暨第七屆榮譽校友當選人名單",
         "timestamp": "1750062575",
         "url": "mail_display.php?timestamp=1750062575",
@@ -178,34 +206,6 @@
             "name": "羅靖雯",
             "email": "chage2000.tw@gms.ndhu.edu.tw",
             "phone": "03-8906115"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "捐血有你-熱血相挺",
-        "timestamp": "1750031701",
-        "url": "mail_display.php?timestamp=1750031701",
-        "date": "2025/06/16 07:55",
-        "department": "學務處 衛生保健組",
-        "author": {
-            "department": "學務處 衛生保健組",
-            "name": "楊曉青",
-            "email": "cindy4434@gms.ndhu.edu.tw",
-            "phone": "6254"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "行政大樓貨梯停用公告",
-        "timestamp": "1749982272",
-        "url": "mail_display.php?timestamp=1749982272",
-        "date": "2025/06/15 18:11",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
         },
         "attachmentCount": 0
     }
