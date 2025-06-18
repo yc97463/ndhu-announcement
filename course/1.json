@@ -1,5 +1,33 @@
 [
     {
+        "title": "114-1校核心通識課程異動(增開及停開)公告",
+        "timestamp": "1750210018",
+        "url": "mail_display.php?timestamp=1750210018",
+        "date": "2025/06/18 09:26",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "8906607"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "歡迎參加資安教育訓練(每人每年需有3小時資安教育訓練時數)",
+        "timestamp": "1750207298",
+        "url": "mail_display.php?timestamp=1750207298",
+        "date": "2025/06/18 08:41",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "劉維忠",
+            "email": "samliu@gms.ndhu.edu.tw",
+            "phone": "03-8906741"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "資安教育訓練",
         "timestamp": "1750140517",
         "url": "mail_display.php?timestamp=1750140517",
@@ -180,33 +208,5 @@
             "phone": "3176"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【113-2推廣教育招生】「人物肖像似顏繪創作坊」",
-        "timestamp": "1748478259",
-        "url": "mail_display.php?timestamp=1748478259",
-        "date": "2025/05/29 08:24",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 6
-    },
-    {
-        "title": "📣 《AI賦能行銷實戰系列課程》開始報名啦！",
-        "timestamp": "1748418132",
-        "url": "mail_display.php?timestamp=1748418132",
-        "date": "2025/05/28 15:42",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "詹雯雯",
-            "email": "wzhan0103@gms.ndhu.edu.tw",
-            "phone": "03-8903984"
-        },
-        "attachmentCount": 2
     }
 ]

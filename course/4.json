@@ -1,5 +1,33 @@
 [
     {
+        "title": "𝟔月份超頂講座來囉！免費報名中～",
+        "timestamp": "1746785444",
+        "url": "mail_display.php?timestamp=1746785444",
+        "date": "2025/05/09 18:10",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "詹雯雯",
+            "email": "wzhan0103@gms.ndhu.edu.tw",
+            "phone": "03-8903984"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "📣 AI＋數位轉型課程🔥免費報名中！",
+        "timestamp": "1746785194",
+        "url": "mail_display.php?timestamp=1746785194",
+        "date": "2025/05/09 18:06",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "詹雯雯",
+            "email": "wzhan0103@gms.ndhu.edu.tw",
+            "phone": "03-8903984"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "114-1「微課程\u0026BRICK學程」說明會🧾💡｜全新規劃帶你學分、經驗一網打盡〰️",
         "timestamp": "1746782302",
         "url": "mail_display.php?timestamp=1746782302",
@@ -180,33 +208,5 @@
             "phone": "03-890-5920"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【公告】行政院人事行政總處公務人力發展學院「114年度訓練計畫」及名額分配業登載於該學院全球資訊網。",
-        "timestamp": "1745403167",
-        "url": "mail_display.php?timestamp=1745403167",
-        "date": "2025/04/23 18:12",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "莊博凱",
-            "email": "jonhnny77@gms.ndhu.edu.tw",
-            "phone": "6057"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "  歡迎參加國語文教學「「從備課到上台——準教師的養成之道」",
-        "timestamp": "1745401775",
-        "url": "mail_display.php?timestamp=1745401775",
-        "date": "2025/04/23 17:49",
-        "department": "師資培育中心",
-        "author": {
-            "department": "師資培育中心",
-            "name": "陳淑貞",
-            "email": "sjchen@gms.ndhu.edu.tw",
-            "phone": "(03)8906636"
-        },
-        "attachmentCount": 1
     }
 ]

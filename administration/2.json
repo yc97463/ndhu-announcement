@@ -1,5 +1,47 @@
 [
     {
+        "title": "【課務組】113-2學期「教學意見調查表」線上問卷填寫抽獎活動獲獎名單 113-2 Teaching Survey - Prize Winner Announcement",
+        "timestamp": "1749785905",
+        "url": "mail_display.php?timestamp=1749785905",
+        "date": "2025/06/13 11:38",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "學人宿舍區天溝清理作業公告",
+        "timestamp": "1749775971",
+        "url": "mail_display.php?timestamp=1749775971",
+        "date": "2025/06/13 08:52",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "賴小姐",
+            "email": "lai0210@gms.ndhu.edu.tw",
+            "phone": "890-6393"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "校務會議紀錄公告通知",
+        "timestamp": "1749719258",
+        "url": "mail_display.php?timestamp=1749719258",
+        "date": "2025/06/12 17:07",
+        "department": "秘書室議事公文組",
+        "author": {
+            "department": "秘書室議事公文組",
+            "name": "陳婉婉",
+            "email": "secretariat@gms.ndhu.edu.tw",
+            "phone": "6004"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "校務行政系統主機更新與維護(School Administrative-affair System Upgrade and Maintenance)",
         "timestamp": "1749717880",
         "url": "mail_display.php?timestamp=1749717880",
@@ -166,47 +208,5 @@
             "phone": "6385"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【資安教育訓練_通識】",
-        "timestamp": "1749113108",
-        "url": "mail_display.php?timestamp=1749113108",
-        "date": "2025/06/05 16:45",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "趙心榆",
-            "email": "vsychao@gms.ndhu.edu.tw",
-            "phone": "6722"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【資安公告】行政院公共工程委員會訂定「採購契約範本附記條款特別聲明」",
-        "timestamp": "1749104373",
-        "url": "mail_display.php?timestamp=1749104373",
-        "date": "2025/06/05 14:19",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "蕭澤宇",
-            "email": "zyhsiao@gms.ndhu.edu.tw",
-            "phone": "6727"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "馬偕學校財團法人馬偕醫護管理專科學校辦理「第十三屆傑出校友遴選」遴選辦法暨推薦表",
-        "timestamp": "1749097434",
-        "url": "mail_display.php?timestamp=1749097434",
-        "date": "2025/06/05 12:23",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "劉昱淩",
-            "email": "e56187@gms.ndhu.edu.tw",
-            "phone": "890-6056"
-        },
-        "attachmentCount": 2
     }
 ]
