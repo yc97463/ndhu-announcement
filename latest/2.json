@@ -1,5 +1,19 @@
 [
     {
+        "title": "--轉知--【美台學術交流工作坊】認識研究環境安全及智慧財產權風險",
+        "timestamp": "1750143716",
+        "url": "mail_display.php?timestamp=1750143716",
+        "date": "2025/06/17 15:01",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "李淑淳",
+            "email": "chun@gms.ndhu.edu.tw",
+            "phone": "6522"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【停水】大學路正門右側入口水管漏水緊急搶修，停水公告。",
         "timestamp": "1750141168",
         "url": "mail_display.php?timestamp=1750141168",
@@ -194,19 +208,5 @@
             "phone": "6606"
         },
         "attachmentCount": 11
-    },
-    {
-        "title": "工作機會轉發【全職或兼職】花蓮工業技術研究院行政人員招募",
-        "timestamp": "1750056106",
-        "url": "mail_display.php?timestamp=1750056106",
-        "date": "2025/06/16 14:41",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "吳其璁",
-            "email": "dci93031@gms.ndhu.edu.tw",
-            "phone": "03-8903687"
-        },
-        "attachmentCount": 0
     }
 ]
