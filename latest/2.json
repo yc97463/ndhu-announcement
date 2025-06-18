@@ -1,5 +1,33 @@
 [
     {
+        "title": "重要!!【防制校園詐騙宣導通報】假捐款詐騙-114年6月18日",
+        "timestamp": "1750204776",
+        "url": "mail_display.php?timestamp=1750204776",
+        "date": "2025/06/18 07:59",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "吳昭毅",
+            "email": "wuyi12831@gms.ndhu.edu.tw",
+            "phone": "038906228"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "重要!!【防制校園詐騙宣導通報】二手物品拍賣詐騙手法-114年6月18日",
+        "timestamp": "1750204416",
+        "url": "mail_display.php?timestamp=1750204416",
+        "date": "2025/06/18 07:53",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "吳昭毅",
+            "email": "wuyi12831@gms.ndhu.edu.tw",
+            "phone": "038906228"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【工讀生徵選】生輔組徵選114學年新生宿舍進住 工讀生",
         "timestamp": "1750204084",
         "url": "mail_display.php?timestamp=1750204084",
@@ -180,33 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "遴薦公務人員傑出貢獻獎選拔及表揚作業，請於本年6月18日中午12時前將推薦名單及相關表件送人事室彙辦",
-        "timestamp": "1750129493",
-        "url": "mail_display.php?timestamp=1750129493",
-        "date": "2025/06/17 11:04",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "劉昱淩",
-            "email": "e56187@gms.ndhu.edu.tw",
-            "phone": "890-6056"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【圖書館公告】114年暑假開館時間。Library summer vacation opening hours.",
-        "timestamp": "1750123499",
-        "url": "mail_display.php?timestamp=1750123499",
-        "date": "2025/06/17 09:24",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "詹依萍",
-            "email": "ipchan@gms.ndhu.edu.tw",
-            "phone": "6813"
-        },
-        "attachmentCount": 0
     }
 ]
