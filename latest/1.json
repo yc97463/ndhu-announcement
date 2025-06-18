@@ -1,5 +1,19 @@
 [
     {
+        "title": "【教學卓越中心】「114-1IDEAS教學課程計畫開始徵件至114/7/15~",
+        "timestamp": "1750240301",
+        "url": "mail_display.php?timestamp=1750240301",
+        "date": "2025/06/18 17:51",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "郭心怡",
+            "email": "imyeee@gms.ndhu.edu.tw",
+            "phone": "6591"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "行政會議及擴大行政會議 會議紀錄公告通知",
         "timestamp": "1750238429",
         "url": "mail_display.php?timestamp=1750238429",
@@ -194,19 +208,5 @@
             "phone": "890-6056"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "歡迎參加資安教育訓練(每人每年需有3小時資安教育訓練時數)",
-        "timestamp": "1750207298",
-        "url": "mail_display.php?timestamp=1750207298",
-        "date": "2025/06/18 08:41",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "劉維忠",
-            "email": "samliu@gms.ndhu.edu.tw",
-            "phone": "03-8906741"
-        },
-        "attachmentCount": 0
     }
 ]
