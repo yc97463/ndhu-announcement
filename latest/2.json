@@ -1,5 +1,47 @@
 [
     {
+        "title": "【停水】大學路正門右側入口水管漏水緊急搶修，停水公告。",
+        "timestamp": "1750141168",
+        "url": "mail_display.php?timestamp=1750141168",
+        "date": "2025/06/17 14:19",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "賴名塑",
+            "email": "a54604@gms.ndhu.edu.tw",
+            "phone": "8906378"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【論文獎助】中華民國航空測量及遙感探測學會114年度碩、博士學位論文獎",
+        "timestamp": "1750140791",
+        "url": "mail_display.php?timestamp=1750140791",
+        "date": "2025/06/17 14:13",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "資安教育訓練",
+        "timestamp": "1750140517",
+        "url": "mail_display.php?timestamp=1750140517",
+        "date": "2025/06/17 14:08",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "劉維忠",
+            "email": "samliu@gms.ndhu.edu.tw",
+            "phone": "03-8906741"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【論文獎助】國家教育研究院原住民族教育研究中心「114年原住民族教育政策研討會」徵稿",
         "timestamp": "1750132376",
         "url": "mail_display.php?timestamp=1750132376",
@@ -166,47 +208,5 @@
             "phone": "03-8903687"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "國家圖書館為建置「新世代博碩士論文系統」， 敬請撥冗協助填寫問卷調查。",
-        "timestamp": "1750046427",
-        "url": "mail_display.php?timestamp=1750046427",
-        "date": "2025/06/16 12:00",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "簡民享",
-            "email": "jms@gms.ndhu.edu.tw",
-            "phone": "6842"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【徵才】2025會展產業徵才博覽會× 面試履歷優化健檢 6月28日熱力登場",
-        "timestamp": "1750043082",
-        "url": "mail_display.php?timestamp=1750043082",
-        "date": "2025/06/16 11:04",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 4
-    },
-    {
-        "title": "🔥🔥勞動部113-(第二次公告)114年度大專校院職場企業參訪-114年下半年開放申請囉~~(校內收件至114年6月25日止)",
-        "timestamp": "1750042374",
-        "url": "mail_display.php?timestamp=1750042374",
-        "date": "2025/06/16 10:52",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "郭舒羽",
-            "email": "hdoion@gms.ndhu.edu.tw",
-            "phone": "038906284"
-        },
-        "attachmentCount": 3
     }
 ]

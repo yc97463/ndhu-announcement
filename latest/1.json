@@ -1,5 +1,47 @@
 [
     {
+        "title": "【學生自主學習社群】114-1學期社群即日起開放徵件，距截止日期僅剩5天，請同學多多把握!!",
+        "timestamp": "1750216478",
+        "url": "mail_display.php?timestamp=1750216478",
+        "date": "2025/06/18 11:14",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "李貞穎",
+            "email": "jeannie@gms.ndhu.edu.tw",
+            "phone": "8906587"
+        },
+        "attachmentCount": 3
+    },
+    {
+        "title": " 🔔原民生/一般生填寫問券領取【7-11禮券50元】 🔔",
+        "timestamp": "1750213926",
+        "url": "mail_display.php?timestamp=1750213926",
+        "date": "2025/06/18 10:32",
+        "department": "原住民族學生資源中心",
+        "author": {
+            "department": "原住民族學生資源中心",
+            "name": "林詠靖",
+            "email": "tipus@gms.ndhu.edu.tw",
+            "phone": "5707"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "請授課教師提供114學年度第1學期「教師指定參考書清單」，謝謝。",
+        "timestamp": "1750213910",
+        "url": "mail_display.php?timestamp=1750213910",
+        "date": "2025/06/18 10:31",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "陳昱佐",
+            "email": "yutuchen@gms.ndhu.edu.tw",
+            "phone": "038906824"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "114-1校核心通識課程異動(增開及停開)公告",
         "timestamp": "1750210018",
         "url": "mail_display.php?timestamp=1750210018",
@@ -166,47 +208,5 @@
             "phone": "6522"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【停水】大學路正門右側入口水管漏水緊急搶修，停水公告。",
-        "timestamp": "1750141168",
-        "url": "mail_display.php?timestamp=1750141168",
-        "date": "2025/06/17 14:19",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "賴名塑",
-            "email": "a54604@gms.ndhu.edu.tw",
-            "phone": "8906378"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【論文獎助】中華民國航空測量及遙感探測學會114年度碩、博士學位論文獎",
-        "timestamp": "1750140791",
-        "url": "mail_display.php?timestamp=1750140791",
-        "date": "2025/06/17 14:13",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "資安教育訓練",
-        "timestamp": "1750140517",
-        "url": "mail_display.php?timestamp=1750140517",
-        "date": "2025/06/17 14:08",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "劉維忠",
-            "email": "samliu@gms.ndhu.edu.tw",
-            "phone": "03-8906741"
-        },
-        "attachmentCount": 0
     }
 ]
