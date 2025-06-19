@@ -1,5 +1,33 @@
 [
     {
+        "title": "【Rikec法學衝刺班】 報名進行中！",
+        "timestamp": "1746004235",
+        "url": "mail_display.php?timestamp=1746004235",
+        "date": "2025/04/30 17:10",
+        "department": "法律學系",
+        "author": {
+            "department": "法律學系",
+            "name": "Galaigai Cavalje 高蘇恩",
+            "email": "galaigai@gms.ndhu.edu.tw",
+            "phone": "890-5663"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "加開假日瑜珈推廣班",
+        "timestamp": "1745846535",
+        "url": "mail_display.php?timestamp=1745846535",
+        "date": "2025/04/28 21:22",
+        "department": "體育中心",
+        "author": {
+            "department": "體育中心",
+            "name": "楊永義",
+            "email": "yyy@gms.ndhu.edu.tw",
+            "phone": "8906612"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "114學年度大專生金融就業公益專班  招生說明會暨活動公告",
         "timestamp": "1745572086",
         "url": "mail_display.php?timestamp=1745572086",
@@ -180,33 +208,5 @@
             "phone": "6746"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【教務處通知】113全學年專任教師授課時數確認通知（請於5月23日前完成）",
-        "timestamp": "1744696890",
-        "url": "mail_display.php?timestamp=1744696890",
-        "date": "2025/04/15 14:01",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "陳君如",
-            "email": "ju@gms.ndhu.edu.tw",
-            "phone": "6124"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "諮商中心資源教室：【身心障礙者就業資源盤點與就業成功經驗分享講座】",
-        "timestamp": "1744679630",
-        "url": "mail_display.php?timestamp=1744679630",
-        "date": "2025/04/15 09:13",
-        "department": "心理諮商輔導中心資源開發組",
-        "author": {
-            "department": "心理諮商輔導中心資源開發組",
-            "name": "鍾雅琳",
-            "email": "lin.chung@gms.ndhu.edu.tw",
-            "phone": "03-8903155"
-        },
-        "attachmentCount": 3
     }
 ]

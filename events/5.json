@@ -1,5 +1,19 @@
 [
     {
+        "title": "原住民族委員會辦理「推動原住民族事務有功人員表揚活動」",
+        "timestamp": "1748838666",
+        "url": "mail_display.php?timestamp=1748838666",
+        "date": "2025/06/02 12:31",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "劉昱淩",
+            "email": "e56187@gms.ndhu.edu.tw",
+            "phone": "890-6056"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "內政部辦理114年「緣起相遇時」單身聯誼活動，第6－9梯次受理報名",
         "timestamp": "1748838243",
         "url": "mail_display.php?timestamp=1748838243",
@@ -194,19 +208,5 @@
             "phone": "3176"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【113-2推廣教育招生】「人物肖像似顏繪創作坊」",
-        "timestamp": "1748478259",
-        "url": "mail_display.php?timestamp=1748478259",
-        "date": "2025/05/29 08:24",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 6
     }
 ]
