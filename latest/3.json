@@ -1,5 +1,19 @@
 [
     {
+        "title": "【停水】大學路正門右側入口水管漏水緊急搶修，停水公告。",
+        "timestamp": "1750141168",
+        "url": "mail_display.php?timestamp=1750141168",
+        "date": "2025/06/17 14:19",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "賴名塑",
+            "email": "a54604@gms.ndhu.edu.tw",
+            "phone": "8906378"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【論文獎助】中華民國航空測量及遙感探測學會114年度碩、博士學位論文獎",
         "timestamp": "1750140791",
         "url": "mail_display.php?timestamp=1750140791",
@@ -192,20 +206,6 @@
             "name": "吳其璁",
             "email": "dci93031@gms.ndhu.edu.tw",
             "phone": "03-8903687"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "國家圖書館為建置「新世代博碩士論文系統」， 敬請撥冗協助填寫問卷調查。",
-        "timestamp": "1750046427",
-        "url": "mail_display.php?timestamp=1750046427",
-        "date": "2025/06/16 12:00",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "簡民享",
-            "email": "jms@gms.ndhu.edu.tw",
-            "phone": "6842"
         },
         "attachmentCount": 0
     }
