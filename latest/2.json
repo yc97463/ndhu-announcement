@@ -1,5 +1,19 @@
 [
     {
+        "title": "行政會議及擴大行政會議 會議紀錄公告通知",
+        "timestamp": "1750238429",
+        "url": "mail_display.php?timestamp=1750238429",
+        "date": "2025/06/18 17:20",
+        "department": "秘書室議事公文組",
+        "author": {
+            "department": "秘書室議事公文組",
+            "name": "陳婉婉",
+            "email": "secretariat@gms.ndhu.edu.tw",
+            "phone": "6004"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【資安宣導】使用資通系統或服務蒐集個人資料注意事項",
         "timestamp": "1750236253",
         "url": "mail_display.php?timestamp=1750236253",
@@ -192,20 +206,6 @@
             "name": "劉維忠",
             "email": "samliu@gms.ndhu.edu.tw",
             "phone": "03-8906741"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "重要!!【防制校園詐騙宣導通報】假捐款詐騙-114年6月18日",
-        "timestamp": "1750204776",
-        "url": "mail_display.php?timestamp=1750204776",
-        "date": "2025/06/18 07:59",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "吳昭毅",
-            "email": "wuyi12831@gms.ndhu.edu.tw",
-            "phone": "038906228"
         },
         "attachmentCount": 0
     }

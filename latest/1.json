@@ -1,5 +1,19 @@
 [
     {
+        "title": "【獎助學金申請】統一數位翻譯股份有限公司(PTSGI.com)第23屆翻譯獎學金",
+        "timestamp": "1750348257",
+        "url": "mail_display.php?timestamp=1750348257",
+        "date": "2025/06/19 23:50",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【獎助學金申請】李長榮教育基金會2025年(第十四屆)獎學金 (限化學、材料等博士班)",
         "timestamp": "1750345282",
         "url": "mail_display.php?timestamp=1750345282",
@@ -192,20 +206,6 @@
             "name": "郭心怡",
             "email": "imyeee@gms.ndhu.edu.tw",
             "phone": "6591"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "行政會議及擴大行政會議 會議紀錄公告通知",
-        "timestamp": "1750238429",
-        "url": "mail_display.php?timestamp=1750238429",
-        "date": "2025/06/18 17:20",
-        "department": "秘書室議事公文組",
-        "author": {
-            "department": "秘書室議事公文組",
-            "name": "陳婉婉",
-            "email": "secretariat@gms.ndhu.edu.tw",
-            "phone": "6004"
         },
         "attachmentCount": 1
     }

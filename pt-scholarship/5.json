@@ -1,5 +1,19 @@
 [
     {
+        "title": "《2025花蓮青年夢想家提案競賽》開始囉！",
+        "timestamp": "1745840089",
+        "url": "mail_display.php?timestamp=1745840089",
+        "date": "2025/04/28 19:34",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "詹雯雯",
+            "email": "wzhan0103@gms.ndhu.edu.tw",
+            "phone": "03-8903984"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "轉財團法人慶寶勤勞社會福利慈善事業基金會2025 年暑期工讀計畫資料(申請注意事項)",
         "timestamp": "1745479200",
         "url": "mail_display.php?timestamp=1745479200",
@@ -194,19 +208,5 @@
             "phone": "分機6221"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "轉嘉義市政府辦理「114年大專青年學生公部門暑期工讀」訊息",
-        "timestamp": "1744090873",
-        "url": "mail_display.php?timestamp=1744090873",
-        "date": "2025/04/08 13:41",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "王文和",
-            "email": "rlawwh@gms.ndhu.edu.tw",
-            "phone": "分機6221"
-        },
-        "attachmentCount": 2
     }
 ]
