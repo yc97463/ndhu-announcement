@@ -1,5 +1,19 @@
 [
     {
+        "title": "【圖書館公告】114年暑假開館時間。Library summer vacation opening hours.",
+        "timestamp": "1750123499",
+        "url": "mail_display.php?timestamp=1750123499",
+        "date": "2025/06/17 09:24",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "詹依萍",
+            "email": "ipchan@gms.ndhu.edu.tw",
+            "phone": "6813"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "大學路正門右側入口週邊開挖查漏作業公告。",
         "timestamp": "1750122573",
         "url": "mail_display.php?timestamp=1750122573",
@@ -192,20 +206,6 @@
             "name": "王韻蘋",
             "email": "yingc2308@gmail.com",
             "phone": "0907205588(陳同學)"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "113-2教學意見調查問卷填寫",
-        "timestamp": "1750031703",
-        "url": "mail_display.php?timestamp=1750031703",
-        "date": "2025/06/16 07:55",
-        "department": "人文社會科學學院 英美語文學系",
-        "author": {
-            "department": "人文社會科學學院 英美語文學系",
-            "name": "林旭霞",
-            "email": "shs0205@gms.ndhu.edu.tw",
-            "phone": "5294"
         },
         "attachmentCount": 0
     }
