@@ -1,5 +1,19 @@
 [
     {
+        "title": "【公告】修訂本校「專利申請及智慧財產權移轉作業要點」",
+        "timestamp": "1750310333",
+        "url": "mail_display.php?timestamp=1750310333",
+        "date": "2025/06/19 13:18",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "李淑淳",
+            "email": "chun@gms.ndhu.edu.tw",
+            "phone": "6522"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "行政會議及擴大行政會議 會議紀錄公告通知",
         "timestamp": "1750238429",
         "url": "mail_display.php?timestamp=1750238429",
@@ -192,20 +206,6 @@
             "name": "劉依虹",
             "email": "joyce_liu@gms.ndhu.edu.tw",
             "phone": "6060"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "公文系統訂於114年6月17日(二)中午12~13時暫停服務公告。",
-        "timestamp": "1750034164",
-        "url": "mail_display.php?timestamp=1750034164",
-        "date": "2025/06/16 08:36",
-        "department": "總務處文書組",
-        "author": {
-            "department": "總務處文書組",
-            "name": "張先生",
-            "email": "eric.chang@gms.ndhu.edu.tw",
-            "phone": "03-8906352"
         },
         "attachmentCount": 0
     }
