@@ -1,5 +1,19 @@
 [
     {
+        "title": "【資安教育訓練】114年資通安全內部稽核整備教育訓練(專業)",
+        "timestamp": "1750324116",
+        "url": "mail_display.php?timestamp=1750324116",
+        "date": "2025/06/19 17:08",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "趙心榆",
+            "email": "vsychao@gms.ndhu.edu.tw",
+            "phone": "6722"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "114年暑假期間總務處業務相關注意事項",
         "timestamp": "1750314809",
         "url": "mail_display.php?timestamp=1750314809",
@@ -194,19 +208,5 @@
             "phone": "890-6056"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【圖書館公告】114年暑假開館時間。Library summer vacation opening hours.",
-        "timestamp": "1750123499",
-        "url": "mail_display.php?timestamp=1750123499",
-        "date": "2025/06/17 09:24",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "詹依萍",
-            "email": "ipchan@gms.ndhu.edu.tw",
-            "phone": "6813"
-        },
-        "attachmentCount": 0
     }
 ]
