@@ -1,5 +1,19 @@
 [
     {
+        "title": "【公告】新訂「國立東華大學辦理教育部博士生獎學金補助計畫實施要點」",
+        "timestamp": "1750386244",
+        "url": "mail_display.php?timestamp=1750386244",
+        "date": "2025/06/20 10:24",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "綜企組吳羿潔",
+            "email": "wj@gms.ndhu.edu.tw",
+            "phone": "6510"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【資安教育訓練】114年資通安全內部稽核整備教育訓練(專業)",
         "timestamp": "1750324116",
         "url": "mail_display.php?timestamp=1750324116",
@@ -194,19 +208,5 @@
             "phone": "6005"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "遴薦公務人員傑出貢獻獎選拔及表揚作業，請於本年6月18日中午12時前將推薦名單及相關表件送人事室彙辦",
-        "timestamp": "1750129493",
-        "url": "mail_display.php?timestamp=1750129493",
-        "date": "2025/06/17 11:04",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "劉昱淩",
-            "email": "e56187@gms.ndhu.edu.tw",
-            "phone": "890-6056"
-        },
-        "attachmentCount": 2
     }
 ]

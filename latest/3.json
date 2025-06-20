@@ -1,5 +1,19 @@
 [
     {
+        "title": "歡迎參加資安教育訓練(每人每年需有3小時資安教育訓練時數)",
+        "timestamp": "1750207298",
+        "url": "mail_display.php?timestamp=1750207298",
+        "date": "2025/06/18 08:41",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "劉維忠",
+            "email": "samliu@gms.ndhu.edu.tw",
+            "phone": "03-8906741"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "重要!!【防制校園詐騙宣導通報】假捐款詐騙-114年6月18日",
         "timestamp": "1750204776",
         "url": "mail_display.php?timestamp=1750204776",
@@ -194,19 +208,5 @@
             "phone": "6005"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【徵才】國立彰化師範大學環境保護暨安全衛生中心招募「專案行政組員(職業安全/衛生管理師)」",
-        "timestamp": "1750129617",
-        "url": "mail_display.php?timestamp=1750129617",
-        "date": "2025/06/17 11:06",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
     }
 ]
