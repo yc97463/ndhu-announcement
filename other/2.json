@@ -1,5 +1,19 @@
 [
     {
+        "title": "大學路正門右側入口週邊開挖查漏作業公告。",
+        "timestamp": "1750122573",
+        "url": "mail_display.php?timestamp=1750122573",
+        "date": "2025/06/17 09:09",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "賴名塑",
+            "email": "a54604@gms.ndhu.edu.tw",
+            "phone": "8906378"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【公告】本校第八屆傑出校友暨第七屆榮譽校友當選人名單",
         "timestamp": "1750062575",
         "url": "mail_display.php?timestamp=1750062575",
@@ -194,19 +208,5 @@
             "phone": "6060"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【徵才】花蓮慈濟醫院「國際擬真醫學教育訓練中心」招募辦事員2名",
-        "timestamp": "1749719079",
-        "url": "mail_display.php?timestamp=1749719079",
-        "date": "2025/06/12 17:04",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
     }
 ]
