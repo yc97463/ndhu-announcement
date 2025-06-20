@@ -1,5 +1,19 @@
 [
     {
+        "title": "【資安教育訓練】114年資通安全內部稽核整備教育訓練(專業)",
+        "timestamp": "1750324116",
+        "url": "mail_display.php?timestamp=1750324116",
+        "date": "2025/06/19 17:08",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "趙心榆",
+            "email": "vsychao@gms.ndhu.edu.tw",
+            "phone": "6722"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "114年暑假期間總務處業務相關注意事項",
         "timestamp": "1750314809",
         "url": "mail_display.php?timestamp=1750314809",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 6
-    },
-    {
-        "title": "【獎助學金申請-延長收件日期】普仁青年關懷基金會「114年度大手拉小手育成計畫」(限114學年度升大三) ",
-        "timestamp": "1750224559",
-        "url": "mail_display.php?timestamp=1750224559",
-        "date": "2025/06/18 13:29",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
     }
 ]
