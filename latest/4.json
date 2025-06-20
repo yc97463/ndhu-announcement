@@ -1,5 +1,19 @@
 [
     {
+        "title": "【轉知】教育部依紀念日及節日實施條例規定，核定每年4月20日為「性別平等教育日」",
+        "timestamp": "1750129944",
+        "url": "mail_display.php?timestamp=1750129944",
+        "date": "2025/06/17 11:12",
+        "department": "秘書室",
+        "author": {
+            "department": "秘書室",
+            "name": "蔡麗燕",
+            "email": "liyen@gms.ndhu.edu.tw",
+            "phone": "6005"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【徵才】國立彰化師範大學環境保護暨安全衛生中心招募「專案行政組員(職業安全/衛生管理師)」",
         "timestamp": "1750129617",
         "url": "mail_display.php?timestamp=1750129617",
@@ -194,19 +208,5 @@
             "phone": "890-6056"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "公文系統訂於114年6月17日(二)中午12~13時暫停服務公告。",
-        "timestamp": "1750034164",
-        "url": "mail_display.php?timestamp=1750034164",
-        "date": "2025/06/16 08:36",
-        "department": "總務處文書組",
-        "author": {
-            "department": "總務處文書組",
-            "name": "張先生",
-            "email": "eric.chang@gms.ndhu.edu.tw",
-            "phone": "03-8906352"
-        },
-        "attachmentCount": 0
     }
 ]
