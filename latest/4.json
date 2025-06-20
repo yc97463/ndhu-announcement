@@ -1,5 +1,19 @@
 [
     {
+        "title": "資安教育訓練",
+        "timestamp": "1750140517",
+        "url": "mail_display.php?timestamp=1750140517",
+        "date": "2025/06/17 14:08",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "劉維忠",
+            "email": "samliu@gms.ndhu.edu.tw",
+            "phone": "03-8906741"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【論文獎助】國家教育研究院原住民族教育研究中心「114年原住民族教育政策研討會」徵稿",
         "timestamp": "1750132376",
         "url": "mail_display.php?timestamp=1750132376",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "🔥🔥勞動部113-(第二次公告)114年度大專校院職場企業參訪-114年下半年開放申請囉~~(校內收件至114年6月25日止)",
-        "timestamp": "1750042374",
-        "url": "mail_display.php?timestamp=1750042374",
-        "date": "2025/06/16 10:52",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "郭舒羽",
-            "email": "hdoion@gms.ndhu.edu.tw",
-            "phone": "038906284"
-        },
-        "attachmentCount": 3
     }
 ]
