@@ -1,5 +1,33 @@
 [
     {
+        "title": "學生宿舍暑宿網路IP請使用自動取得IP",
+        "timestamp": "1750648926",
+        "url": "mail_display.php?timestamp=1750648926",
+        "date": "2025/06/23 11:22",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "賴銀富",
+            "email": "yin@gms.ndhu.edu.tw",
+            "phone": "6728"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "[向晴莊機車棚改建太陽能光電車棚]臨時停車區等施工規劃(第二次公告)",
+        "timestamp": "1750645705",
+        "url": "mail_display.php?timestamp=1750645705",
+        "date": "2025/06/23 10:28",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "張宗玲",
+            "email": "aj0191@gms.ndhu.edu.tw",
+            "phone": "8906377"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "衛保組113學年度暑假期間服務時間公告Health Care Office Summer Service Hours Announcement (June 23 – September 5, 2025)",
         "timestamp": "1750640419",
         "url": "mail_display.php?timestamp=1750640419",
@@ -180,33 +208,5 @@
             "phone": "6722"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "國際溝通能力及文化素養訓練課程-職場英文:Business Writing（英文書信寫作課程）",
-        "timestamp": "1750227146",
-        "url": "mail_display.php?timestamp=1750227146",
-        "date": "2025/06/18 14:12",
-        "department": "國際事務處國際合作組",
-        "author": {
-            "department": "國際事務處國際合作組",
-            "name": "姜美松",
-            "email": "ariel@gms.ndhu.edu.tw",
-            "phone": "5108"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "【學生自主學習社群】114-1學期社群即日起開放徵件，距截止日期僅剩5天，請同學多多把握!!",
-        "timestamp": "1750216478",
-        "url": "mail_display.php?timestamp=1750216478",
-        "date": "2025/06/18 11:14",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "李貞穎",
-            "email": "jeannie@gms.ndhu.edu.tw",
-            "phone": "8906587"
-        },
-        "attachmentCount": 3
     }
 ]

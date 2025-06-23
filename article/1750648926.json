@@ -1,0 +1,22 @@
+{
+    "title": "學生宿舍暑宿網路IP請使用自動取得IP",
+    "timestamp": "1750648926",
+    "url": "mail_display.php?timestamp=1750648926",
+    "date": "2025/06/23 11:22",
+    "department": "圖書資訊處網路管理組",
+    "author": {
+        "department": "圖書資訊處網路管理組",
+        "name": "賴銀富",
+        "email": "yin@gms.ndhu.edu.tw",
+        "phone": "6728"
+    },
+    "content": "\u003cdiv class=\"column1-unit\"\u003e\n\n\u003c!--  信件內容   --\u003e\n\u003cpre\u003e分類： 行政公告\n來源： 圖書資訊處網路管理組 - 賴銀富 - yin@gms.ndhu.edu.tw - 電話6728\n對象： 全校學生\n標題： 學生宿舍暑宿網路IP請使用自動取得IP\n日期： Mon, 23 Jun 2025 11:22:06 +0800\n\u003c/pre\u003e\u003chr class=\"clear-contentunit\"/\u003e\u003cpre\u003e宿舍網路公告\n暑宿期間 無需申請IP,請將IP位置改為自動,就可以上網\n暑宿 宿舍  行雲莊及迎曦莊\n\n網路管理組\n學生宿舍網路異常報修系統\n\u003ca href=\"http://134.208.12.37/repair/index.html\" target=\"_blank\"\u003ehttp://134.208.12.37/repair/index.html\u003c/a\u003e\u003c/pre\u003e\n\t\t\n\u003c/div\u003e",
+    "attachments": [
+        {
+            "fileName": "http://134.208.12.37/repair/index.html",
+            "fileSize": "宿舍網路公告\n暑宿期間 無需申請IP,請將IP位置改為自動,就可以上網\n暑宿 宿舍  行雲莊及迎曦莊\n\n網路管理組\n學生宿舍網路異常報修系統",
+            "filePath": "http://134.208.12.37/repair/index.html",
+            "thumbPath": null
+        }
+    ]
+}

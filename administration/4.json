@@ -1,5 +1,33 @@
 [
     {
+        "title": "理工一館B棟1樓走道天花板拆除公告",
+        "timestamp": "1749203737",
+        "url": "mail_display.php?timestamp=1749203737",
+        "date": "2025/06/06 17:55",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "邱健榮",
+            "email": "janus@gms.ndhu.edu.tw",
+            "phone": "6385"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "[消防演練]114年6月9日(一)消防搶救演練公告。",
+        "timestamp": "1749193134",
+        "url": "mail_display.php?timestamp=1749193134",
+        "date": "2025/06/06 14:58",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "賴名塑",
+            "email": "a54604@gms.ndhu.edu.tw",
+            "phone": "8906378"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "新建仰山莊停車棚工程區尚未開放停放機車公告",
         "timestamp": "1749116399",
         "url": "mail_display.php?timestamp=1749116399",
@@ -180,33 +208,5 @@
             "phone": "6115"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "【無菸校園宣導】「禁止攜帶電子煙或加熱菸入境」之英日韓三國語言版本宣導單張，請參考使用",
-        "timestamp": "1748835140",
-        "url": "mail_display.php?timestamp=1748835140",
-        "date": "2025/06/02 11:32",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "王惠貞",
-            "email": "labi@gms.ndhu.edu.tw",
-            "phone": "8906253"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "夏季高溫來襲，戶外作業請實施預防措施並注意熱危害",
-        "timestamp": "1748833425",
-        "url": "mail_display.php?timestamp=1748833425",
-        "date": "2025/06/02 11:03",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "陳小姐",
-            "email": "aspen@gms.ndhu.edu.tw",
-            "phone": "6392"
-        },
-        "attachmentCount": 3
     }
 ]

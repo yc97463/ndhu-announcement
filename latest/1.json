@@ -1,5 +1,33 @@
 [
     {
+        "title": "學生宿舍暑宿網路IP請使用自動取得IP",
+        "timestamp": "1750648926",
+        "url": "mail_display.php?timestamp=1750648926",
+        "date": "2025/06/23 11:22",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "賴銀富",
+            "email": "yin@gms.ndhu.edu.tw",
+            "phone": "6728"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "[向晴莊機車棚改建太陽能光電車棚]臨時停車區等施工規劃(第二次公告)",
+        "timestamp": "1750645705",
+        "url": "mail_display.php?timestamp=1750645705",
+        "date": "2025/06/23 10:28",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "張宗玲",
+            "email": "aj0191@gms.ndhu.edu.tw",
+            "phone": "8906377"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "📢【原住民山域嚮導新訓班招生公告】",
         "timestamp": "1750643411",
         "url": "mail_display.php?timestamp=1750643411",
@@ -180,33 +208,5 @@
             "phone": "8906225"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "114年消防設備檢修改善施工公告",
-        "timestamp": "1750396555",
-        "url": "mail_display.php?timestamp=1750396555",
-        "date": "2025/06/20 13:15",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "賴名塑",
-            "email": "a54604@gms.ndhu.edu.tw",
-            "phone": "6389"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【徵才】新北市立十三行博物館招募外語、華語導覽人員(時薪制)(114年7月4日截止)",
-        "timestamp": "1750392159",
-        "url": "mail_display.php?timestamp=1750392159",
-        "date": "2025/06/20 12:02",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 2
     }
 ]
