@@ -1,5 +1,19 @@
 [
     {
+        "title": "請授課教師提供114學年度第1學期「教師指定參考書清單」，謝謝。",
+        "timestamp": "1750213910",
+        "url": "mail_display.php?timestamp=1750213910",
+        "date": "2025/06/18 10:31",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "陳昱佐",
+            "email": "yutuchen@gms.ndhu.edu.tw",
+            "phone": "038906824"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "114-1校核心通識課程異動(增開及停開)公告",
         "timestamp": "1750210018",
         "url": "mail_display.php?timestamp=1750210018",
@@ -194,19 +208,5 @@
             "phone": "03-8906219"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "資安教育訓練",
-        "timestamp": "1750140517",
-        "url": "mail_display.php?timestamp=1750140517",
-        "date": "2025/06/17 14:08",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "劉維忠",
-            "email": "samliu@gms.ndhu.edu.tw",
-            "phone": "03-8906741"
-        },
-        "attachmentCount": 0
     }
 ]
