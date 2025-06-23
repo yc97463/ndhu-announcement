@@ -1,5 +1,47 @@
 [
     {
+        "title": "衛保組113學年度暑假期間服務時間公告Health Care Office Summer Service Hours Announcement (June 23 – September 5, 2025)",
+        "timestamp": "1750640419",
+        "url": "mail_display.php?timestamp=1750640419",
+        "date": "2025/06/23 09:00",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "吳星穎",
+            "email": "carmier@gms.ndhu.edu.tw",
+            "phone": "8906252"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "114年消防設備檢修改善施工公告",
+        "timestamp": "1750640118",
+        "url": "mail_display.php?timestamp=1750640118",
+        "date": "2025/06/23 08:55",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "賴名塑",
+            "email": "a54604@gms.ndhu.edu.tw",
+            "phone": "8906378"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【工讀生徵選】生輔組徵選114學年新生宿舍進住 工讀生",
+        "timestamp": "1750636575",
+        "url": "mail_display.php?timestamp=1750636575",
+        "date": "2025/06/23 07:56",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "吳昭毅",
+            "email": "wuyi12831@gms.ndhu.edu.tw",
+            "phone": "038906228"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "湖畔至行政大樓人行步道路燈裝置公告(6/21~7/19)",
         "timestamp": "1750406530",
         "url": "mail_display.php?timestamp=1750406530",
@@ -166,47 +208,5 @@
             "phone": "8906587"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "請授課教師提供114學年度第1學期「教師指定參考書清單」，謝謝。",
-        "timestamp": "1750213910",
-        "url": "mail_display.php?timestamp=1750213910",
-        "date": "2025/06/18 10:31",
-        "department": "圖書資訊處圖資服務組",
-        "author": {
-            "department": "圖書資訊處圖資服務組",
-            "name": "陳昱佐",
-            "email": "yutuchen@gms.ndhu.edu.tw",
-            "phone": "038906824"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "114-1校核心通識課程異動(增開及停開)公告",
-        "timestamp": "1750210018",
-        "url": "mail_display.php?timestamp=1750210018",
-        "date": "2025/06/18 09:26",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "重要!!【防制校園詐騙宣導通報】假捐款詐騙-114年6月18日",
-        "timestamp": "1750204776",
-        "url": "mail_display.php?timestamp=1750204776",
-        "date": "2025/06/18 07:59",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "吳昭毅",
-            "email": "wuyi12831@gms.ndhu.edu.tw",
-            "phone": "038906228"
-        },
-        "attachmentCount": 0
     }
 ]

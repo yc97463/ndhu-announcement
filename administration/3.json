@@ -1,5 +1,47 @@
 [
     {
+        "title": "育成中心電力設備改善工程",
+        "timestamp": "1749802602",
+        "url": "mail_display.php?timestamp=1749802602",
+        "date": "2025/06/13 16:16",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "張宗玲",
+            "email": "aj0191@gms.ndhu.edu.tw",
+            "phone": "8906377"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【課務組】113-2學期「教學意見調查表」線上問卷填寫抽獎活動獲獎名單 113-2 Teaching Survey - Prize Winner Announcement",
+        "timestamp": "1749785905",
+        "url": "mail_display.php?timestamp=1749785905",
+        "date": "2025/06/13 11:38",
+        "department": "教務處課務組",
+        "author": {
+            "department": "教務處課務組",
+            "name": "課務組",
+            "email": "utd1003@gms.ndhu.edu.tw",
+            "phone": "6122-6126"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "學人宿舍區天溝清理作業公告",
+        "timestamp": "1749775971",
+        "url": "mail_display.php?timestamp=1749775971",
+        "date": "2025/06/13 08:52",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "賴小姐",
+            "email": "lai0210@gms.ndhu.edu.tw",
+            "phone": "890-6393"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "校務會議紀錄公告通知",
         "timestamp": "1749719258",
         "url": "mail_display.php?timestamp=1749719258",
@@ -166,47 +208,5 @@
             "phone": "8906378"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "新建仰山莊停車棚工程區尚未開放停放機車公告",
-        "timestamp": "1749116399",
-        "url": "mail_display.php?timestamp=1749116399",
-        "date": "2025/06/05 17:39",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "邱健榮",
-            "email": "janus@gms.ndhu.edu.tw",
-            "phone": "6385"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【資安教育訓練_通識】",
-        "timestamp": "1749113108",
-        "url": "mail_display.php?timestamp=1749113108",
-        "date": "2025/06/05 16:45",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "趙心榆",
-            "email": "vsychao@gms.ndhu.edu.tw",
-            "phone": "6722"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【資安公告】行政院公共工程委員會訂定「採購契約範本附記條款特別聲明」",
-        "timestamp": "1749104373",
-        "url": "mail_display.php?timestamp=1749104373",
-        "date": "2025/06/05 14:19",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "蕭澤宇",
-            "email": "zyhsiao@gms.ndhu.edu.tw",
-            "phone": "6727"
-        },
-        "attachmentCount": 3
     }
 ]

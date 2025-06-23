@@ -1,5 +1,47 @@
 [
     {
+        "title": "請授課教師提供114學年度第1學期「教師指定參考書清單」，謝謝。",
+        "timestamp": "1750213910",
+        "url": "mail_display.php?timestamp=1750213910",
+        "date": "2025/06/18 10:31",
+        "department": "圖書資訊處圖資服務組",
+        "author": {
+            "department": "圖書資訊處圖資服務組",
+            "name": "陳昱佐",
+            "email": "yutuchen@gms.ndhu.edu.tw",
+            "phone": "038906824"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "114-1校核心通識課程異動(增開及停開)公告",
+        "timestamp": "1750210018",
+        "url": "mail_display.php?timestamp=1750210018",
+        "date": "2025/06/18 09:26",
+        "department": "通識教育中心",
+        "author": {
+            "department": "通識教育中心",
+            "name": "陳美娥",
+            "email": "mayer@gms.ndhu.edu.tw",
+            "phone": "8906607"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "重要!!【防制校園詐騙宣導通報】假捐款詐騙-114年6月18日",
+        "timestamp": "1750204776",
+        "url": "mail_display.php?timestamp=1750204776",
+        "date": "2025/06/18 07:59",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "吳昭毅",
+            "email": "wuyi12831@gms.ndhu.edu.tw",
+            "phone": "038906228"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "重要!!【防制校園詐騙宣導通報】二手物品拍賣詐騙手法-114年6月18日",
         "timestamp": "1750204416",
         "url": "mail_display.php?timestamp=1750204416",
@@ -166,47 +208,5 @@
             "phone": "6060"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "育成中心電力設備改善工程",
-        "timestamp": "1749802602",
-        "url": "mail_display.php?timestamp=1749802602",
-        "date": "2025/06/13 16:16",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "張宗玲",
-            "email": "aj0191@gms.ndhu.edu.tw",
-            "phone": "8906377"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【課務組】113-2學期「教學意見調查表」線上問卷填寫抽獎活動獲獎名單 113-2 Teaching Survey - Prize Winner Announcement",
-        "timestamp": "1749785905",
-        "url": "mail_display.php?timestamp=1749785905",
-        "date": "2025/06/13 11:38",
-        "department": "教務處課務組",
-        "author": {
-            "department": "教務處課務組",
-            "name": "課務組",
-            "email": "utd1003@gms.ndhu.edu.tw",
-            "phone": "6122-6126"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "學人宿舍區天溝清理作業公告",
-        "timestamp": "1749775971",
-        "url": "mail_display.php?timestamp=1749775971",
-        "date": "2025/06/13 08:52",
-        "department": "總務處環境保護組",
-        "author": {
-            "department": "總務處環境保護組",
-            "name": "賴小姐",
-            "email": "lai0210@gms.ndhu.edu.tw",
-            "phone": "890-6393"
-        },
-        "attachmentCount": 1
     }
 ]

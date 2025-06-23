@@ -1,5 +1,33 @@
 [
     {
+        "title": "【徵才】104人力銀行辦理臺北(1140628)及臺南(1140718-0720)徵才博覽會",
+        "timestamp": "1750225642",
+        "url": "mail_display.php?timestamp=1750225642",
+        "date": "2025/06/18 13:47",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 6
+    },
+    {
+        "title": "【學生自主學習社群】114-1學期社群即日起開放徵件，距截止日期僅剩5天，請同學多多把握!!",
+        "timestamp": "1750216478",
+        "url": "mail_display.php?timestamp=1750216478",
+        "date": "2025/06/18 11:14",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "李貞穎",
+            "email": "jeannie@gms.ndhu.edu.tw",
+            "phone": "8906587"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "📢【暑期職場體驗職缺來啦！】花蓮職探所｜錄取單位名單＋報名連結一次看（資訊轉發）",
         "timestamp": "1750150824",
         "url": "mail_display.php?timestamp=1750150824",
@@ -180,33 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【徵才】財團法人台灣金融研訓院受託辦理兆豐銀行、華南銀行及台灣票據交換所人才甄試",
-        "timestamp": "1749803376",
-        "url": "mail_display.php?timestamp=1749803376",
-        "date": "2025/06/13 16:29",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 8
-    },
-    {
-        "title": "【領取印章通知✨】有申請原民會原住民學生獎助學金之同學，已可至原資中心(學活C103)領回印章✨",
-        "timestamp": "1749802411",
-        "url": "mail_display.php?timestamp=1749802411",
-        "date": "2025/06/13 16:13",
-        "department": "原住民族學生資源中心",
-        "author": {
-            "department": "原住民族學生資源中心",
-            "name": "林佳儀",
-            "email": "tipus1120103@gms.ndhu.edu.tw",
-            "phone": "5718"
-        },
-        "attachmentCount": 0
     }
 ]

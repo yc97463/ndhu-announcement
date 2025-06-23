@@ -1,5 +1,47 @@
 [
     {
+        "title": "新建仰山莊停車棚工程區尚未開放停放機車公告",
+        "timestamp": "1749116399",
+        "url": "mail_display.php?timestamp=1749116399",
+        "date": "2025/06/05 17:39",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "邱健榮",
+            "email": "janus@gms.ndhu.edu.tw",
+            "phone": "6385"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【資安教育訓練_通識】",
+        "timestamp": "1749113108",
+        "url": "mail_display.php?timestamp=1749113108",
+        "date": "2025/06/05 16:45",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "趙心榆",
+            "email": "vsychao@gms.ndhu.edu.tw",
+            "phone": "6722"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【資安公告】行政院公共工程委員會訂定「採購契約範本附記條款特別聲明」",
+        "timestamp": "1749104373",
+        "url": "mail_display.php?timestamp=1749104373",
+        "date": "2025/06/05 14:19",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "蕭澤宇",
+            "email": "zyhsiao@gms.ndhu.edu.tw",
+            "phone": "6727"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "馬偕學校財團法人馬偕醫護管理專科學校辦理「第十三屆傑出校友遴選」遴選辦法暨推薦表",
         "timestamp": "1749097434",
         "url": "mail_display.php?timestamp=1749097434",
@@ -166,47 +208,5 @@
             "phone": "6392"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "敬邀參加-第38屆校園試映會(電影製作藝術、紀錄片製作成果發表)",
-        "timestamp": "1748826946",
-        "url": "mail_display.php?timestamp=1748826946",
-        "date": "2025/06/02 09:15",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【公告】本年度分配至各單位之部門預算，114年6月30日止之資本門執行率應達60%，至9月30日止之執行率應達90%",
-        "timestamp": "1748478866",
-        "url": "mail_display.php?timestamp=1748478866",
-        "date": "2025/05/29 08:34",
-        "department": "主計室",
-        "author": {
-            "department": "主計室",
-            "name": "曾俊達",
-            "email": "kleiber0576@gms.ndhu.edu.tw",
-            "phone": "(03)8906079"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【113-2推廣教育招生】「人物肖像似顏繪創作坊」",
-        "timestamp": "1748478259",
-        "url": "mail_display.php?timestamp=1748478259",
-        "date": "2025/05/29 08:24",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 6
     }
 ]
