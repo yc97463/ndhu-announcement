@@ -1,5 +1,19 @@
 [
     {
+        "title": "【徵才】臺南市政府教育局114年度約聘專任專業輔導人員甄選(心理師)(114年7月11日截止)",
+        "timestamp": "1750401895",
+        "url": "mail_display.php?timestamp=1750401895",
+        "date": "2025/06/20 14:44",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "更新本校學生校外活動申請表",
         "timestamp": "1750399582",
         "url": "mail_display.php?timestamp=1750399582",
@@ -194,19 +208,5 @@
             "phone": "5174"
         },
         "attachmentCount": 7
-    },
-    {
-        "title": "【公告】修訂本校「專利申請及智慧財產權移轉作業要點」",
-        "timestamp": "1750310333",
-        "url": "mail_display.php?timestamp=1750310333",
-        "date": "2025/06/19 13:18",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "李淑淳",
-            "email": "chun@gms.ndhu.edu.tw",
-            "phone": "6522"
-        },
-        "attachmentCount": 2
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "title": "【公告】修訂本校「專利申請及智慧財產權移轉作業要點」",
+        "timestamp": "1750310333",
+        "url": "mail_display.php?timestamp=1750310333",
+        "date": "2025/06/19 13:18",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "李淑淳",
+            "email": "chun@gms.ndhu.edu.tw",
+            "phone": "6522"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "桃園市政府函知有關辦理114年「桃然心動 今生有緣」未婚同仁聯誼活動，第四梯次調整至114年9月6日及7日辦理",
         "timestamp": "1750294798",
         "url": "mail_display.php?timestamp=1750294798",
@@ -194,19 +208,5 @@
             "phone": "8906587"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": " 🔔原民生/一般生填寫問券領取【7-11禮券50元】 🔔",
-        "timestamp": "1750213926",
-        "url": "mail_display.php?timestamp=1750213926",
-        "date": "2025/06/18 10:32",
-        "department": "原住民族學生資源中心",
-        "author": {
-            "department": "原住民族學生資源中心",
-            "name": "林詠靖",
-            "email": "tipus@gms.ndhu.edu.tw",
-            "phone": "5707"
-        },
-        "attachmentCount": 1
     }
 ]

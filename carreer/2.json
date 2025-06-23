@@ -1,5 +1,19 @@
 [
     {
+        "title": "國立東華大學師資培育中心徵聘地方教育輔導組職務代理人(第二次公告)",
+        "timestamp": "1747121677",
+        "url": "mail_display.php?timestamp=1747121677",
+        "date": "2025/05/13 15:34",
+        "department": "師資培育中心",
+        "author": {
+            "department": "師資培育中心",
+            "name": "陳淑貞",
+            "email": "sjchen@gms.ndhu.edu.tw",
+            "phone": "(03)8906636"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才】國界外的天空：國際事務處招募新夥伴說明會",
         "timestamp": "1747120256",
         "url": "mail_display.php?timestamp=1747120256",
@@ -194,19 +208,5 @@
             "phone": "03-8905247"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【徵才公告】圖書資訊處徵聘【校務行政系統開發】碩士級技術師一名",
-        "timestamp": "1744859209",
-        "url": "mail_display.php?timestamp=1744859209",
-        "date": "2025/04/17 11:06",
-        "department": "圖書資訊處",
-        "author": {
-            "department": "圖書資訊處",
-            "name": "周小萍",
-            "email": "hedy@gms.ndhu.edu.tw",
-            "phone": "8906852"
-        },
-        "attachmentCount": 2
     }
 ]
