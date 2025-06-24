@@ -1,5 +1,19 @@
 [
     {
+        "title": "【網路維護】網站應用防火牆安全性漏洞更新作業",
+        "timestamp": "1750744038",
+        "url": "mail_display.php?timestamp=1750744038",
+        "date": "2025/06/24 13:47",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "黃金城",
+            "email": "hjc@gms.ndhu.edu.tw",
+            "phone": "6724"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【資安規定】本校軟體與即時通訊軟體安裝使用管控規則",
         "timestamp": "1750728805",
         "url": "mail_display.php?timestamp=1750728805",
@@ -194,19 +208,5 @@
             "phone": "6522"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "行政會議及擴大行政會議 會議紀錄公告通知",
-        "timestamp": "1750238429",
-        "url": "mail_display.php?timestamp=1750238429",
-        "date": "2025/06/18 17:20",
-        "department": "秘書室議事公文組",
-        "author": {
-            "department": "秘書室議事公文組",
-            "name": "陳婉婉",
-            "email": "secretariat@gms.ndhu.edu.tw",
-            "phone": "6004"
-        },
-        "attachmentCount": 1
     }
 ]

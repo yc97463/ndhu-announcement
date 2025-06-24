@@ -1,5 +1,19 @@
 [
     {
+        "title": "行政會議及擴大行政會議 會議紀錄公告通知",
+        "timestamp": "1750238429",
+        "url": "mail_display.php?timestamp=1750238429",
+        "date": "2025/06/18 17:20",
+        "department": "秘書室議事公文組",
+        "author": {
+            "department": "秘書室議事公文組",
+            "name": "陳婉婉",
+            "email": "secretariat@gms.ndhu.edu.tw",
+            "phone": "6004"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【資安宣導】使用資通系統或服務蒐集個人資料注意事項",
         "timestamp": "1750236253",
         "url": "mail_display.php?timestamp=1750236253",
@@ -192,20 +206,6 @@
             "name": "張先生",
             "email": "eric.chang@gms.ndhu.edu.tw",
             "phone": "03-8906352"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "行政大樓貨梯停用公告",
-        "timestamp": "1749982272",
-        "url": "mail_display.php?timestamp=1749982272",
-        "date": "2025/06/15 18:11",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "劉宏銘",
-            "email": "hung.liu@gms.ndhu.edu.tw",
-            "phone": "6376"
         },
         "attachmentCount": 0
     }
