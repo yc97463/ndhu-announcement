@@ -1,5 +1,33 @@
 [
     {
+        "title": "【徵才】國立東華大學國際事務處徵聘助理2名 (6/30截止)",
+        "timestamp": "1750146679",
+        "url": "mail_display.php?timestamp=1750146679",
+        "date": "2025/06/17 15:51",
+        "department": "國際事務處",
+        "author": {
+            "department": "國際事務處",
+            "name": "劉力綺",
+            "email": "cheerio@gms.ndhu.edu.tw",
+            "phone": "5109"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "[ Fly Me To The Moon音樂會 ]✨Tamorak共學園\u0026東華爵士大樂團✨",
+        "timestamp": "1750145138",
+        "url": "mail_display.php?timestamp=1750145138",
+        "date": "2025/06/17 15:25",
+        "department": "音樂學系",
+        "author": {
+            "department": "音樂學系",
+            "name": "張純倩",
+            "email": "asd963741@gms.ndhu.edu.tw",
+            "phone": "03-8905168"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "「國家科學及技術委員會科學技術研究發展成果歸屬及運用辦法」第十一條、第十三條規定解釋令",
         "timestamp": "1750143777",
         "url": "mail_display.php?timestamp=1750143777",
@@ -180,33 +208,5 @@
             "phone": "6060"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【公告】本校第八屆傑出校友暨第七屆榮譽校友當選人名單",
-        "timestamp": "1750062575",
-        "url": "mail_display.php?timestamp=1750062575",
-        "date": "2025/06/16 16:29",
-        "department": "秘書室公關宣傳組",
-        "author": {
-            "department": "秘書室公關宣傳組",
-            "name": "林佩瑤",
-            "email": "peiyao@gms.ndhu.edu.tw",
-            "phone": "6013"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "6/20「未來科技獎」線上徵件說明會，歡迎計畫團隊踴躍參與！",
-        "timestamp": "1750060785",
-        "url": "mail_display.php?timestamp=1750060785",
-        "date": "2025/06/16 15:59",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "李淑淳",
-            "email": "chun@gms.ndhu.edu.tw",
-            "phone": "6522"
-        },
-        "attachmentCount": 1
     }
 ]
