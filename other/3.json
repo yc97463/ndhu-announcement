@@ -1,5 +1,19 @@
 [
     {
+        "title": "行政大樓貨梯停用公告",
+        "timestamp": "1749982272",
+        "url": "mail_display.php?timestamp=1749982272",
+        "date": "2025/06/15 18:11",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才】宜蘭縣立岳明國民中小學114學年度新進教師及專任運動教練(帆船項目)甄選(114年6月18日截止)",
         "timestamp": "1749806439",
         "url": "mail_display.php?timestamp=1749806439",
@@ -186,20 +200,6 @@
         "timestamp": "1749634354",
         "url": "mail_display.php?timestamp=1749634354",
         "date": "2025/06/11 17:32",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【徵才】臺中市政府勞工局114年7月9日辦理「富市台中 就業成功」潭子區聯合徵才活動",
-        "timestamp": "1749633298",
-        "url": "mail_display.php?timestamp=1749633298",
-        "date": "2025/06/11 17:14",
         "department": "學務處畢業生及校友服務組",
         "author": {
             "department": "學務處畢業生及校友服務組",

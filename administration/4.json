@@ -1,5 +1,19 @@
 [
     {
+        "title": "【停電】學人宿舍線路配電盤線路破損包覆。",
+        "timestamp": "1749205241",
+        "url": "mail_display.php?timestamp=1749205241",
+        "date": "2025/06/06 18:20",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "劉宏銘",
+            "email": "hung.liu@gms.ndhu.edu.tw",
+            "phone": "6376"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "理工一館B棟1樓走道天花板拆除公告",
         "timestamp": "1749203737",
         "url": "mail_display.php?timestamp=1749203737",
@@ -194,19 +208,5 @@
             "phone": "038906228"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "114-1學期新舊生註冊須知Summary of the registration procedures in the 114-1 semester",
-        "timestamp": "1748847803",
-        "url": "mail_display.php?timestamp=1748847803",
-        "date": "2025/06/02 15:03",
-        "department": "教務處註冊組",
-        "author": {
-            "department": "教務處註冊組",
-            "name": "羅靖雯",
-            "email": "chage2000.tw@gms.ndhu.edu.tw",
-            "phone": "6115"
-        },
-        "attachmentCount": 2
     }
 ]

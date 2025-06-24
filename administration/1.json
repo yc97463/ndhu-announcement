@@ -1,5 +1,19 @@
 [
     {
+        "title": "【資安規定】本校軟體與即時通訊軟體安裝使用管控規則",
+        "timestamp": "1750728805",
+        "url": "mail_display.php?timestamp=1750728805",
+        "date": "2025/06/24 09:33",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "蕭澤宇",
+            "email": "zyhsiao@gms.ndhu.edu.tw",
+            "phone": "6727"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "學生宿舍暑宿網路IP請使用自動取得IP",
         "timestamp": "1750648926",
         "url": "mail_display.php?timestamp=1750648926",
@@ -194,19 +208,5 @@
             "phone": "6004"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【資安宣導】使用資通系統或服務蒐集個人資料注意事項",
-        "timestamp": "1750236253",
-        "url": "mail_display.php?timestamp=1750236253",
-        "date": "2025/06/18 16:44",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "趙心榆",
-            "email": "vsychao@gms.ndhu.edu.tw",
-            "phone": "6722"
-        },
-        "attachmentCount": 0
     }
 ]
