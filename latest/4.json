@@ -1,5 +1,19 @@
 [
     {
+        "title": "國際溝通能力及文化素養訓練課程-職場英文:Business Writing（英文書信寫作課程）",
+        "timestamp": "1750227146",
+        "url": "mail_display.php?timestamp=1750227146",
+        "date": "2025/06/18 14:12",
+        "department": "國際事務處國際合作組",
+        "author": {
+            "department": "國際事務處國際合作組",
+            "name": "姜美松",
+            "email": "ariel@gms.ndhu.edu.tw",
+            "phone": "5108"
+        },
+        "attachmentCount": 3
+    },
+    {
         "title": "【轉知】教育部函轉勞動部「初次尋職青年穩定就業計畫」✖️勞動部就業協助服務",
         "timestamp": "1750226749",
         "url": "mail_display.php?timestamp=1750226749",
@@ -194,19 +208,5 @@
             "phone": "03-8905860"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【教師講座】AI模組安裝中｜教學AI人備課趣(06/23)",
-        "timestamp": "1750150090",
-        "url": "mail_display.php?timestamp=1750150090",
-        "date": "2025/06/17 16:48",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "陳雅茹",
-            "email": "chenslation0222@gms.ndhu.edu.tw",
-            "phone": "6579"
-        },
-        "attachmentCount": 1
     }
 ]

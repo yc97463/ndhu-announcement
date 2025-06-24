@@ -1,5 +1,19 @@
 [
     {
+        "title": "【網路維護】網站應用防火牆安全性漏洞更新作業",
+        "timestamp": "1750744038",
+        "url": "mail_display.php?timestamp=1750744038",
+        "date": "2025/06/24 13:47",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "黃金城",
+            "email": "hjc@gms.ndhu.edu.tw",
+            "phone": "6724"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【轉知】臺北市政府青年局「青年以戰代訓銜接職場計畫」",
         "timestamp": "1750736527",
         "url": "mail_display.php?timestamp=1750736527",
@@ -194,19 +208,5 @@
             "phone": "038906228"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "【工讀生徵選】生輔組徵選114學年新生宿舍進住 工讀生",
-        "timestamp": "1750636575",
-        "url": "mail_display.php?timestamp=1750636575",
-        "date": "2025/06/23 07:56",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "吳昭毅",
-            "email": "wuyi12831@gms.ndhu.edu.tw",
-            "phone": "038906228"
-        },
-        "attachmentCount": 1
     }
 ]

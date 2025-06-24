@@ -1,5 +1,19 @@
 [
     {
+        "title": "【教學卓越中心】「114-1IDEAS教學課程計畫開始徵件至114/7/15~",
+        "timestamp": "1750340366",
+        "url": "mail_display.php?timestamp=1750340366",
+        "date": "2025/06/19 21:39",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "郭心怡",
+            "email": "imyeee@gms.ndhu.edu.tw",
+            "phone": "6591"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【論文獎助】中華民國戶外遊憩學會114年度優秀碩士論文獎",
         "timestamp": "1750339281",
         "url": "mail_display.php?timestamp=1750339281",
@@ -194,19 +208,5 @@
             "phone": "890-6056"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "國際溝通能力及文化素養訓練課程-職場英文:Business Writing（英文書信寫作課程）",
-        "timestamp": "1750227146",
-        "url": "mail_display.php?timestamp=1750227146",
-        "date": "2025/06/18 14:12",
-        "department": "國際事務處國際合作組",
-        "author": {
-            "department": "國際事務處國際合作組",
-            "name": "姜美松",
-            "email": "ariel@gms.ndhu.edu.tw",
-            "phone": "5108"
-        },
-        "attachmentCount": 3
     }
 ]
