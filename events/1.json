@@ -1,5 +1,19 @@
 [
     {
+        "title": "【訊息轉知】教育部114年度第2梯次數位學習課程認證規定及指標說明會",
+        "timestamp": "1750821586",
+        "url": "mail_display.php?timestamp=1750821586",
+        "date": "2025/06/25 11:19",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "暑假期間體育館『體能訓練室』開放公告",
         "timestamp": "1750736454",
         "url": "mail_display.php?timestamp=1750736454",
@@ -194,19 +208,5 @@
             "phone": "03-8905860"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【教師講座】AI模組安裝中｜教學AI人備課趣(06/23)",
-        "timestamp": "1750150090",
-        "url": "mail_display.php?timestamp=1750150090",
-        "date": "2025/06/17 16:48",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "陳雅茹",
-            "email": "chenslation0222@gms.ndhu.edu.tw",
-            "phone": "6579"
-        },
-        "attachmentCount": 1
     }
 ]

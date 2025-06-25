@@ -1,5 +1,19 @@
 [
     {
+        "title": "📢【暑期職場體驗職缺來啦！】花蓮職探所｜錄取單位名單＋報名連結一次看（資訊轉發）",
+        "timestamp": "1750150824",
+        "url": "mail_display.php?timestamp=1750150824",
+        "date": "2025/06/17 17:00",
+        "department": "研發處創新育成中心",
+        "author": {
+            "department": "研發處創新育成中心",
+            "name": "詹雯雯",
+            "email": "wzhan0103@gms.ndhu.edu.tw",
+            "phone": "03-8905860"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "【教師講座】AI模組安裝中｜教學AI人備課趣(06/23)",
         "timestamp": "1750150090",
         "url": "mail_display.php?timestamp=1750150090",
@@ -194,19 +208,5 @@
             "phone": "8906378"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "114年6月22日(星期日)，大農大富親子遊，歡迎全體教職員參加",
-        "timestamp": "1750121390",
-        "url": "mail_display.php?timestamp=1750121390",
-        "date": "2025/06/17 08:49",
-        "department": "人事室",
-        "author": {
-            "department": "人事室",
-            "name": "劉昱淩",
-            "email": "e56187@gms.ndhu.edu.tw",
-            "phone": "890-6056"
-        },
-        "attachmentCount": 1
     }
 ]
