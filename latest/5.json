@@ -1,5 +1,19 @@
 [
     {
+        "title": "【工讀生徵選】生輔組徵選114學年新生宿舍進住 工讀生",
+        "timestamp": "1750204084",
+        "url": "mail_display.php?timestamp=1750204084",
+        "date": "2025/06/18 07:48",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "吳昭毅",
+            "email": "wuyi12831@gms.ndhu.edu.tw",
+            "phone": "038906228"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "📢【暑期職場體驗職缺來啦！】花蓮職探所｜錄取單位名單＋報名連結一次看（資訊轉發）",
         "timestamp": "1750150824",
         "url": "mail_display.php?timestamp=1750150824",
@@ -194,19 +208,5 @@
             "phone": "6813"
         },
         "attachmentCount": 0
-    },
-    {
-        "title": "大學路正門右側入口週邊開挖查漏作業公告。",
-        "timestamp": "1750122573",
-        "url": "mail_display.php?timestamp=1750122573",
-        "date": "2025/06/17 09:09",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "賴名塑",
-            "email": "a54604@gms.ndhu.edu.tw",
-            "phone": "8906378"
-        },
-        "attachmentCount": 2
     }
 ]

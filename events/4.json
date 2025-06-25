@@ -1,5 +1,19 @@
 [
     {
+        "title": "國立臺北教育大學辦理114年「相遇˙心動中」單身聯誼活動，請符合資格之女性單身同仁踴躍報名參加。",
+        "timestamp": "1749455989",
+        "url": "mail_display.php?timestamp=1749455989",
+        "date": "2025/06/09 15:59",
+        "department": "人事室",
+        "author": {
+            "department": "人事室",
+            "name": "陳旺志",
+            "email": "dchen829@gms.ndhu.edu.tw",
+            "phone": "03-8906058"
+        },
+        "attachmentCount": 5
+    },
+    {
         "title": "【學生自主學習社群】114-1學期社群即日起開放徵件，歡迎有興趣的同學組團申請!!(第二次公告)",
         "timestamp": "1749455780",
         "url": "mail_display.php?timestamp=1749455780",
@@ -194,19 +208,5 @@
             "phone": "0905-737192"
         },
         "attachmentCount": 5
-    },
-    {
-        "title": "【社會學系期末系員大會活動】1140605（四）12：00~13：00 社會學系期末系員大會",
-        "timestamp": "1748908503",
-        "url": "mail_display.php?timestamp=1748908503",
-        "date": "2025/06/03 07:55",
-        "department": "人文社會科學學院 社會學系",
-        "author": {
-            "department": "人文社會科學學院 社會學系",
-            "name": "葉珮芳",
-            "email": "",
-            "phone": "謝明臻  (email: 41124B007@gms.ndhu.edu.tw)"
-        },
-        "attachmentCount": 0
     }
 ]
