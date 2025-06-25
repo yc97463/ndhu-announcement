@@ -1,5 +1,19 @@
 [
     {
+        "title": "公文系統訂於114年6月17日(二)中午12~13時暫停服務公告。",
+        "timestamp": "1750034164",
+        "url": "mail_display.php?timestamp=1750034164",
+        "date": "2025/06/16 08:36",
+        "department": "總務處文書組",
+        "author": {
+            "department": "總務處文書組",
+            "name": "張先生",
+            "email": "eric.chang@gms.ndhu.edu.tw",
+            "phone": "03-8906352"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "行政大樓貨梯停用公告",
         "timestamp": "1749982272",
         "url": "mail_display.php?timestamp=1749982272",
@@ -192,20 +206,6 @@
             "name": "吳昭毅",
             "email": "wuyi12831@gms.ndhu.edu.tw",
             "phone": "038906228"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【資安第二次公告】資安教育訓練_通識",
-        "timestamp": "1749458855",
-        "url": "mail_display.php?timestamp=1749458855",
-        "date": "2025/06/09 16:47",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "趙心榆",
-            "email": "vsychao@gms.ndhu.edu.tw",
-            "phone": "6722"
         },
         "attachmentCount": 0
     }

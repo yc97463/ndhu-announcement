@@ -1,5 +1,19 @@
 [
     {
+        "title": "【事務組公告】環境暨海洋學院夜間機車停車場暑假開放使用公告",
+        "timestamp": "1750845803",
+        "url": "mail_display.php?timestamp=1750845803",
+        "date": "2025/06/25 18:03",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "許紹峯",
+            "email": "hsf113@gms.ndhu.edu.tw",
+            "phone": "03-8906314"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【網路維護】網站應用防火牆安全性漏洞更新作業",
         "timestamp": "1750744038",
         "url": "mail_display.php?timestamp=1750744038",
@@ -194,19 +208,5 @@
             "phone": "5174"
         },
         "attachmentCount": 7
-    },
-    {
-        "title": "【公告】修訂本校「專利申請及智慧財產權移轉作業要點」",
-        "timestamp": "1750310333",
-        "url": "mail_display.php?timestamp=1750310333",
-        "date": "2025/06/19 13:18",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "李淑淳",
-            "email": "chun@gms.ndhu.edu.tw",
-            "phone": "6522"
-        },
-        "attachmentCount": 2
     }
 ]
