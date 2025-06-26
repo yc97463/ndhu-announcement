@@ -1,5 +1,19 @@
 [
     {
+        "title": "【公告】本校第八屆傑出校友暨第七屆榮譽校友當選人名單",
+        "timestamp": "1750062575",
+        "url": "mail_display.php?timestamp=1750062575",
+        "date": "2025/06/16 16:29",
+        "department": "秘書室公關宣傳組",
+        "author": {
+            "department": "秘書室公關宣傳組",
+            "name": "林佩瑤",
+            "email": "peiyao@gms.ndhu.edu.tw",
+            "phone": "6013"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "6/20「未來科技獎」線上徵件說明會，歡迎計畫團隊踴躍參與！",
         "timestamp": "1750060785",
         "url": "mail_display.php?timestamp=1750060785",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【轉知】104人力銀行提供「升學就業地圖」與「工作世界」免費職涯探索資源",
-        "timestamp": "1749716782",
-        "url": "mail_display.php?timestamp=1749716782",
-        "date": "2025/06/12 16:26",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 4
     }
 ]

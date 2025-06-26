@@ -1,5 +1,19 @@
 [
     {
+        "title": "【論文獎助】日本台灣交流協會「2025年度撰寫碩博士論文經費資助」",
+        "timestamp": "1750906602",
+        "url": "mail_display.php?timestamp=1750906602",
+        "date": "2025/06/26 10:56",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "葉俊良",
+            "email": "ycliang@gms.ndhu.edu.tw",
+            "phone": "03-8906219"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【論文獎助】台灣社會網絡學會2025年碩博士論文獎徵稿",
         "timestamp": "1750905256",
         "url": "mail_display.php?timestamp=1750905256",
@@ -194,19 +208,5 @@
             "phone": "03-8903013"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "📢📢深耕起飛計畫~🔥114學年度第1學期校內行政單位【起飛見習生】開放登記申請!🔥(第2次通知)",
-        "timestamp": "1750654448",
-        "url": "mail_display.php?timestamp=1750654448",
-        "date": "2025/06/23 12:54",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "鄭小姐",
-            "email": "ting@gms.ndhu.edu.tw",
-            "phone": "8906215"
-        },
-        "attachmentCount": 1
     }
 ]
