@@ -1,5 +1,19 @@
 [
     {
+        "title": "6/20「未來科技獎」線上徵件說明會，歡迎計畫團隊踴躍參與！",
+        "timestamp": "1750060785",
+        "url": "mail_display.php?timestamp=1750060785",
+        "date": "2025/06/16 15:59",
+        "department": "研發處",
+        "author": {
+            "department": "研發處",
+            "name": "李淑淳",
+            "email": "chun@gms.ndhu.edu.tw",
+            "phone": "6522"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "國家圖書館為建置「新世代博碩士論文系統」， 敬請撥冗協助填寫問卷調查。",
         "timestamp": "1750046427",
         "url": "mail_display.php?timestamp=1750046427",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 4
-    },
-    {
-        "title": "【轉知】「2025馬來西亞MTE尖端醫療保健和生命科學國際發明展」資訊",
-        "timestamp": "1749694808",
-        "url": "mail_display.php?timestamp=1749694808",
-        "date": "2025/06/12 10:20",
-        "department": "研發處",
-        "author": {
-            "department": "研發處",
-            "name": "李淑淳",
-            "email": "chun@gms.ndhu.edu.tw",
-            "phone": "6522"
-        },
-        "attachmentCount": 1
     }
 ]
