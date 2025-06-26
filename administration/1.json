@@ -1,5 +1,33 @@
 [
     {
+        "title": "【傳染病宣導】暑假麻疹升溫中！請您提高警覺!",
+        "timestamp": "1750918626",
+        "url": "mail_display.php?timestamp=1750918626",
+        "date": "2025/06/26 14:17",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【衛教宣導】登山健行季，小心「隱形殺手」恙蟲病來襲！",
+        "timestamp": "1750918385",
+        "url": "mail_display.php?timestamp=1750918385",
+        "date": "2025/06/26 14:13",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【人事室公告】113學年度(學年制)國民旅遊卡休假補助即將到期，請儘速辦理核銷。(無需附黏存單)",
         "timestamp": "1750911052",
         "url": "mail_display.php?timestamp=1750911052",
@@ -178,34 +206,6 @@
             "name": "綜企組吳羿潔",
             "email": "wj@gms.ndhu.edu.tw",
             "phone": "6510"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【資安教育訓練】114年資通安全內部稽核整備教育訓練(專業)",
-        "timestamp": "1750324116",
-        "url": "mail_display.php?timestamp=1750324116",
-        "date": "2025/06/19 17:08",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "趙心榆",
-            "email": "vsychao@gms.ndhu.edu.tw",
-            "phone": "6722"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "114年暑假期間總務處業務相關注意事項",
-        "timestamp": "1750314809",
-        "url": "mail_display.php?timestamp=1750314809",
-        "date": "2025/06/19 14:33",
-        "department": "總務處",
-        "author": {
-            "department": "總務處",
-            "name": "陳宇欽",
-            "email": "yuchin@gms.ndhu.edu.tw",
-            "phone": "分機6307"
         },
         "attachmentCount": 1
     }

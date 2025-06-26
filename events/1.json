@@ -1,5 +1,19 @@
 [
     {
+        "title": "【傳染病宣導】暑假麻疹升溫中！請您提高警覺!",
+        "timestamp": "1750918626",
+        "url": "mail_display.php?timestamp=1750918626",
+        "date": "2025/06/26 14:17",
+        "department": "學務處衛生保健組",
+        "author": {
+            "department": "學務處衛生保健組",
+            "name": "王惠貞",
+            "email": "labi@gms.ndhu.edu.tw",
+            "phone": "8906253"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "轉知現代婦女教育基金會114年8月舉辦「性平種子校園宣導講師培育營」資訊供參考運用",
         "timestamp": "1750908513",
         "url": "mail_display.php?timestamp=1750908513",
@@ -194,19 +208,5 @@
             "phone": "5108"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": " 🔔原民生/一般生填寫問券領取【7-11禮券50元】 🔔",
-        "timestamp": "1750213926",
-        "url": "mail_display.php?timestamp=1750213926",
-        "date": "2025/06/18 10:32",
-        "department": "原住民族學生資源中心",
-        "author": {
-            "department": "原住民族學生資源中心",
-            "name": "林詠靖",
-            "email": "tipus@gms.ndhu.edu.tw",
-            "phone": "5707"
-        },
-        "attachmentCount": 1
     }
 ]

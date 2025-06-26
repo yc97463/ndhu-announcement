@@ -1,5 +1,47 @@
 [
     {
+        "title": "【工讀生徵選】生輔組徵選114學年新生宿舍進住 工讀生",
+        "timestamp": "1750636575",
+        "url": "mail_display.php?timestamp=1750636575",
+        "date": "2025/06/23 07:56",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "吳昭毅",
+            "email": "wuyi12831@gms.ndhu.edu.tw",
+            "phone": "038906228"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【徵才公告】國立東華大學總務處環境保護組徵聘助理1名（6月30日截止）",
+        "timestamp": "1750486211",
+        "url": "mail_display.php?timestamp=1750486211",
+        "date": "2025/06/21 14:10",
+        "department": "總務處環境保護組",
+        "author": {
+            "department": "總務處環境保護組",
+            "name": "陳小姐",
+            "email": "aspen@gms.ndhu.edu.tw",
+            "phone": "6392"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【徵才】中央印製廠114年新進人員甄試✨ (114年7月28日截止)",
+        "timestamp": "1750409114",
+        "url": "mail_display.php?timestamp=1750409114",
+        "date": "2025/06/20 16:45",
+        "department": "學務處畢業生及校友服務組",
+        "author": {
+            "department": "學務處畢業生及校友服務組",
+            "name": "黃文雯",
+            "email": "wenwen@gms.ndhu.edu.tw",
+            "phone": "6283"
+        },
+        "attachmentCount": 4
+    },
+    {
         "title": "湖畔至行政大樓人行步道路燈裝置公告(6/21~7/19)",
         "timestamp": "1750406530",
         "url": "mail_display.php?timestamp=1750406530",
@@ -166,47 +208,5 @@
             "phone": "03-8906219"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【教學卓越中心】「114-1IDEAS教學課程計畫開始徵件至114/7/15~",
-        "timestamp": "1750340366",
-        "url": "mail_display.php?timestamp=1750340366",
-        "date": "2025/06/19 21:39",
-        "department": "教學卓越中心",
-        "author": {
-            "department": "教學卓越中心",
-            "name": "郭心怡",
-            "email": "imyeee@gms.ndhu.edu.tw",
-            "phone": "6591"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【論文獎助】中華民國戶外遊憩學會114年度優秀碩士論文獎",
-        "timestamp": "1750339281",
-        "url": "mail_display.php?timestamp=1750339281",
-        "date": "2025/06/19 21:21",
-        "department": "學務處",
-        "author": {
-            "department": "學務處",
-            "name": "葉俊良",
-            "email": "ycliang@gms.ndhu.edu.tw",
-            "phone": "03-8906219"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "【徵才】台塑石化公司「大專儲備幹部」招募中✨ (114年7月15日截止)",
-        "timestamp": "1750324300",
-        "url": "mail_display.php?timestamp=1750324300",
-        "date": "2025/06/19 17:11",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
     }
 ]

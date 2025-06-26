@@ -1,5 +1,19 @@
 [
     {
+        "title": "協助郵寄114學年度新生資料袋業務",
+        "timestamp": "1750031702",
+        "url": "mail_display.php?timestamp=1750031702",
+        "date": "2025/06/16 07:55",
+        "department": "教務處 註冊組",
+        "author": {
+            "department": "教務處 註冊組",
+            "name": "羅靖雯",
+            "email": "chage2000.tw@gms.ndhu.edu.tw",
+            "phone": "03-8906115"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "捐血有你-熱血相挺",
         "timestamp": "1750031701",
         "url": "mail_display.php?timestamp=1750031701",
@@ -192,20 +206,6 @@
             "name": "盧助理",
             "email": "lesa@gms.ndhu.edu.tw",
             "phone": "03-890-3813"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "活動轉發【探究式閱讀種子師資培訓工作坊】",
-        "timestamp": "1749524917",
-        "url": "mail_display.php?timestamp=1749524917",
-        "date": "2025/06/10 11:08",
-        "department": "研發處創新育成中心",
-        "author": {
-            "department": "研發處創新育成中心",
-            "name": "劉美慧",
-            "email": "rita0118@gms.ndhu.edu.tw",
-            "phone": "03-903241"
         },
         "attachmentCount": 2
     }
