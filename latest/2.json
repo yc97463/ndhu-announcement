@@ -1,5 +1,61 @@
 [
     {
+        "title": "【徵聘教師公告】國立東華大學企業管理學系暨運籌管理研究所徵聘專任(案)教師1名",
+        "timestamp": "1750658911",
+        "url": "mail_display.php?timestamp=1750658911",
+        "date": "2025/06/23 14:08",
+        "department": "企業管理學系",
+        "author": {
+            "department": "企業管理學系",
+            "name": "莊巧萍",
+            "email": "cpjuang@gms.ndhu.edu.tw",
+            "phone": "03-8903013"
+        },
+        "attachmentCount": 4
+    },
+    {
+        "title": "📢📢深耕起飛計畫~🔥114學年度第1學期校內行政單位【起飛見習生】開放登記申請!🔥(第2次通知)",
+        "timestamp": "1750654448",
+        "url": "mail_display.php?timestamp=1750654448",
+        "date": "2025/06/23 12:54",
+        "department": "學務處",
+        "author": {
+            "department": "學務處",
+            "name": "鄭小姐",
+            "email": "ting@gms.ndhu.edu.tw",
+            "phone": "8906215"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "學生宿舍暑宿網路IP請使用自動取得IP",
+        "timestamp": "1750648926",
+        "url": "mail_display.php?timestamp=1750648926",
+        "date": "2025/06/23 11:22",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "賴銀富",
+            "email": "yin@gms.ndhu.edu.tw",
+            "phone": "6728"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "[向晴莊機車棚改建太陽能光電車棚]臨時停車區等施工規劃(第二次公告)",
+        "timestamp": "1750645705",
+        "url": "mail_display.php?timestamp=1750645705",
+        "date": "2025/06/23 10:28",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "張宗玲",
+            "email": "aj0191@gms.ndhu.edu.tw",
+            "phone": "8906377"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "📢【原住民山域嚮導新訓班招生公告】",
         "timestamp": "1750643411",
         "url": "mail_display.php?timestamp=1750643411",
@@ -152,61 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "【徵才】臺南市政府教育局114年度約聘專任專業輔導人員甄選(心理師)(114年7月11日截止)",
-        "timestamp": "1750401895",
-        "url": "mail_display.php?timestamp=1750401895",
-        "date": "2025/06/20 14:44",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "更新本校學生校外活動申請表",
-        "timestamp": "1750399582",
-        "url": "mail_display.php?timestamp=1750399582",
-        "date": "2025/06/20 14:06",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "黃勇程",
-            "email": "victor0903@gms.ndhu.edu.tw",
-            "phone": "8906225"
-        },
-        "attachmentCount": 3
-    },
-    {
-        "title": "114年消防設備檢修改善施工公告",
-        "timestamp": "1750396555",
-        "url": "mail_display.php?timestamp=1750396555",
-        "date": "2025/06/20 13:15",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "賴名塑",
-            "email": "a54604@gms.ndhu.edu.tw",
-            "phone": "6389"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "【徵才】新北市立十三行博物館招募外語、華語導覽人員(時薪制)(114年7月4日截止)",
-        "timestamp": "1750392159",
-        "url": "mail_display.php?timestamp=1750392159",
-        "date": "2025/06/20 12:02",
-        "department": "學務處畢業生及校友服務組",
-        "author": {
-            "department": "學務處畢業生及校友服務組",
-            "name": "黃文雯",
-            "email": "wenwen@gms.ndhu.edu.tw",
-            "phone": "6283"
-        },
-        "attachmentCount": 2
     }
 ]
