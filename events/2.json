@@ -1,5 +1,33 @@
 [
     {
+        "title": "歡迎參加資安教育訓練(每人每年需有3小時資安教育訓練時數)",
+        "timestamp": "1750207298",
+        "url": "mail_display.php?timestamp=1750207298",
+        "date": "2025/06/18 08:41",
+        "department": "圖書資訊處網路管理組",
+        "author": {
+            "department": "圖書資訊處網路管理組",
+            "name": "劉維忠",
+            "email": "samliu@gms.ndhu.edu.tw",
+            "phone": "03-8906741"
+        },
+        "attachmentCount": 0
+    },
+    {
+        "title": "【工讀生徵選】生輔組徵選114學年新生宿舍進住 工讀生",
+        "timestamp": "1750204084",
+        "url": "mail_display.php?timestamp=1750204084",
+        "date": "2025/06/18 07:48",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "吳昭毅",
+            "email": "wuyi12831@gms.ndhu.edu.tw",
+            "phone": "038906228"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "📢【暑期職場體驗職缺來啦！】花蓮職探所｜錄取單位名單＋報名連結一次看（資訊轉發）",
         "timestamp": "1750150824",
         "url": "mail_display.php?timestamp=1750150824",
@@ -180,33 +208,5 @@
             "phone": "5107"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【協助轉知】114年度東區中毒急救教育訓練(初階)",
-        "timestamp": "1749777201",
-        "url": "mail_display.php?timestamp=1749777201",
-        "date": "2025/06/13 09:13",
-        "department": "永續發展中心",
-        "author": {
-            "department": "永續發展中心",
-            "name": "李莉莉 Li-Li Lee",
-            "email": "sd@gms.ndhu.edu.tw",
-            "phone": "03-890-5920"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【代轉】原住民族委員會第10屆MAKAPAH美術獎",
-        "timestamp": "1749709728",
-        "url": "mail_display.php?timestamp=1749709728",
-        "date": "2025/06/12 14:28",
-        "department": "原住民族樂舞與藝術學士學位學程",
-        "author": {
-            "department": "原住民族樂舞與藝術學士學位學程",
-            "name": "王小姐",
-            "email": "ypwang@gms.ndhu.edu.tw",
-            "phone": "03-8905754"
-        },
-        "attachmentCount": 4
     }
 ]

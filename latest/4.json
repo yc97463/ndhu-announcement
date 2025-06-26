@@ -1,5 +1,33 @@
 [
     {
+        "title": "【教學卓越中心】「114-1IDEAS教學課程計畫開始徵件至114/7/15~",
+        "timestamp": "1750240301",
+        "url": "mail_display.php?timestamp=1750240301",
+        "date": "2025/06/18 17:51",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "郭心怡",
+            "email": "imyeee@gms.ndhu.edu.tw",
+            "phone": "6591"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "行政會議及擴大行政會議 會議紀錄公告通知",
+        "timestamp": "1750238429",
+        "url": "mail_display.php?timestamp=1750238429",
+        "date": "2025/06/18 17:20",
+        "department": "秘書室議事公文組",
+        "author": {
+            "department": "秘書室議事公文組",
+            "name": "陳婉婉",
+            "email": "secretariat@gms.ndhu.edu.tw",
+            "phone": "6004"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【資安宣導】使用資通系統或服務蒐集個人資料注意事項",
         "timestamp": "1750236253",
         "url": "mail_display.php?timestamp=1750236253",
@@ -180,33 +208,5 @@
             "phone": "890-6056"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "歡迎參加資安教育訓練(每人每年需有3小時資安教育訓練時數)",
-        "timestamp": "1750207298",
-        "url": "mail_display.php?timestamp=1750207298",
-        "date": "2025/06/18 08:41",
-        "department": "圖書資訊處網路管理組",
-        "author": {
-            "department": "圖書資訊處網路管理組",
-            "name": "劉維忠",
-            "email": "samliu@gms.ndhu.edu.tw",
-            "phone": "03-8906741"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "重要!!【防制校園詐騙宣導通報】假捐款詐騙-114年6月18日",
-        "timestamp": "1750204776",
-        "url": "mail_display.php?timestamp=1750204776",
-        "date": "2025/06/18 07:59",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "吳昭毅",
-            "email": "wuyi12831@gms.ndhu.edu.tw",
-            "phone": "038906228"
-        },
-        "attachmentCount": 0
     }
 ]
