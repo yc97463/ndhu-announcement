@@ -1,5 +1,19 @@
 [
     {
+        "title": "代轉發~國立東華大學 驗證中心【徵才】公告: 產銷履歷/有機農產品驗證人員",
+        "timestamp": "1747302305",
+        "url": "mail_display.php?timestamp=1747302305",
+        "date": "2025/05/15 17:45",
+        "department": "技術服務中心",
+        "author": {
+            "department": "技術服務中心",
+            "name": "汪曉玲",
+            "email": "erin@gms.ndhu.edu.tw",
+            "phone": "3507"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "國立東華大學師資培育中心徵聘地方教育輔導組職務代理人(第二次公告)",
         "timestamp": "1747121677",
         "url": "mail_display.php?timestamp=1747121677",
@@ -194,19 +208,5 @@
             "phone": "6329"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "【徵人公告】國立東華大學社會參與中心誠徵大學社會責任專任計畫助理",
-        "timestamp": "1744880476",
-        "url": "mail_display.php?timestamp=1744880476",
-        "date": "2025/04/17 17:01",
-        "department": "社會參與中心",
-        "author": {
-            "department": "社會參與中心",
-            "name": "徐小姐",
-            "email": "hsu-pangju@gms.ndhu.edu.tw",
-            "phone": "03-8905247"
-        },
-        "attachmentCount": 3
     }
 ]
