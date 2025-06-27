@@ -1,5 +1,33 @@
 [
     {
+        "title": "【事務組公告】本校停車場新設電動車充電樁辦理開挖回填說明",
+        "timestamp": "1751006665",
+        "url": "mail_display.php?timestamp=1751006665",
+        "date": "2025/06/27 14:44",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "許紹峯",
+            "email": "hsf113@gms.ndhu.edu.tw",
+            "phone": "03-8906314"
+        },
+        "attachmentCount": 2
+    },
+    {
+        "title": "【事務組公告】本校停車場新設電動車充電樁辦理開挖回填說明",
+        "timestamp": "1751006615",
+        "url": "mail_display.php?timestamp=1751006615",
+        "date": "2025/06/27 14:43",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "許紹峯",
+            "email": "hsf113@gms.ndhu.edu.tw",
+            "phone": "03-8906314"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【論文獎助】正覺教育基金會 2025 年生命教育系列 「生命教育與心靈成長」心得寫作徵文",
         "timestamp": "1750995872",
         "url": "mail_display.php?timestamp=1750995872",
@@ -180,33 +208,5 @@
             "phone": "890-6056"
         },
         "attachmentCount": 1
-    },
-    {
-        "title": "本校「街道醫生」票選結果成功獲選「優先改善案件」",
-        "timestamp": "1750921246",
-        "url": "mail_display.php?timestamp=1750921246",
-        "date": "2025/06/26 15:00",
-        "department": "總務處",
-        "author": {
-            "department": "總務處",
-            "name": "塗蕙慈",
-            "email": "charissa@gms.ndhu.edu.tw",
-            "phone": "6303"
-        },
-        "attachmentCount": 2
-    },
-    {
-        "title": "【🎶 教授聯合音樂會｜2025國立東華大學國際鋼琴音樂營】",
-        "timestamp": "1750920527",
-        "url": "mail_display.php?timestamp=1750920527",
-        "date": "2025/06/26 14:48",
-        "department": "音樂學系",
-        "author": {
-            "department": "音樂學系",
-            "name": "張純倩",
-            "email": "asd963741@gms.ndhu.edu.tw",
-            "phone": "03-8905168"
-        },
-        "attachmentCount": 3
     }
 ]

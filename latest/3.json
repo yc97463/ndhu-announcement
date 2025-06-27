@@ -1,5 +1,33 @@
 [
     {
+        "title": "【課程公告】如何運用AI整理與設計製作多元簡報",
+        "timestamp": "1750838416",
+        "url": "mail_display.php?timestamp=1750838416",
+        "date": "2025/06/25 16:00",
+        "department": "圖書資訊處綜合業務組",
+        "author": {
+            "department": "圖書資訊處綜合業務組",
+            "name": "何振揚",
+            "email": "cyang@gms.ndhu.edu.tw",
+            "phone": "6746"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【訊息轉知】教育部114年度第2梯次數位學習課程認證規定及指標說明會",
+        "timestamp": "1750821586",
+        "url": "mail_display.php?timestamp=1750821586",
+        "date": "2025/06/25 11:19",
+        "department": "教學卓越中心",
+        "author": {
+            "department": "教學卓越中心",
+            "name": "王立凡",
+            "email": "lfwang@gms.ndhu.edu.tw",
+            "phone": "8906422"
+        },
+        "attachmentCount": 2
+    },
+    {
         "title": "【網路維護】網站應用防火牆安全性漏洞更新作業",
         "timestamp": "1750744038",
         "url": "mail_display.php?timestamp=1750744038",
@@ -178,34 +206,6 @@
             "name": "吳星穎",
             "email": "carmier@gms.ndhu.edu.tw",
             "phone": "8906252"
-        },
-        "attachmentCount": 0
-    },
-    {
-        "title": "114年消防設備檢修改善施工公告",
-        "timestamp": "1750640118",
-        "url": "mail_display.php?timestamp=1750640118",
-        "date": "2025/06/23 08:55",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "賴名塑",
-            "email": "a54604@gms.ndhu.edu.tw",
-            "phone": "8906378"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "重要!!【防制校園詐騙宣導通報】假網購詐騙-114年6月23日",
-        "timestamp": "1750636799",
-        "url": "mail_display.php?timestamp=1750636799",
-        "date": "2025/06/23 07:59",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "吳昭毅",
-            "email": "wuyi12831@gms.ndhu.edu.tw",
-            "phone": "038906228"
         },
         "attachmentCount": 0
     }

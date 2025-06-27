@@ -1,5 +1,33 @@
 [
     {
+        "title": "114年消防設備檢修改善施工公告",
+        "timestamp": "1750640118",
+        "url": "mail_display.php?timestamp=1750640118",
+        "date": "2025/06/23 08:55",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "賴名塑",
+            "email": "a54604@gms.ndhu.edu.tw",
+            "phone": "8906378"
+        },
+        "attachmentCount": 1
+    },
+    {
+        "title": "【工讀生徵選】生輔組徵選114學年新生宿舍進住 工讀生",
+        "timestamp": "1750636575",
+        "url": "mail_display.php?timestamp=1750636575",
+        "date": "2025/06/23 07:56",
+        "department": "學務處生活輔導組",
+        "author": {
+            "department": "學務處生活輔導組",
+            "name": "吳昭毅",
+            "email": "wuyi12831@gms.ndhu.edu.tw",
+            "phone": "038906228"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "湖畔至行政大樓人行步道路燈裝置公告(6/21~7/19)",
         "timestamp": "1750406530",
         "url": "mail_display.php?timestamp=1750406530",
@@ -180,33 +208,5 @@
             "phone": "038906824"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "114-1校核心通識課程異動(增開及停開)公告",
-        "timestamp": "1750210018",
-        "url": "mail_display.php?timestamp=1750210018",
-        "date": "2025/06/18 09:26",
-        "department": "通識教育中心",
-        "author": {
-            "department": "通識教育中心",
-            "name": "陳美娥",
-            "email": "mayer@gms.ndhu.edu.tw",
-            "phone": "8906607"
-        },
-        "attachmentCount": 1
-    },
-    {
-        "title": "重要!!【防制校園詐騙宣導通報】假捐款詐騙-114年6月18日",
-        "timestamp": "1750204776",
-        "url": "mail_display.php?timestamp=1750204776",
-        "date": "2025/06/18 07:59",
-        "department": "學務處生活輔導組",
-        "author": {
-            "department": "學務處生活輔導組",
-            "name": "吳昭毅",
-            "email": "wuyi12831@gms.ndhu.edu.tw",
-            "phone": "038906228"
-        },
-        "attachmentCount": 0
     }
 ]
