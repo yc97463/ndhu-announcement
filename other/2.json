@@ -1,5 +1,19 @@
 [
     {
+        "title": "114年消防設備檢修改善施工公告",
+        "timestamp": "1750396555",
+        "url": "mail_display.php?timestamp=1750396555",
+        "date": "2025/06/20 13:15",
+        "department": "總務處營繕組",
+        "author": {
+            "department": "總務處營繕組",
+            "name": "賴名塑",
+            "email": "a54604@gms.ndhu.edu.tw",
+            "phone": "6389"
+        },
+        "attachmentCount": 0
+    },
+    {
         "title": "【徵才】新北市立十三行博物館招募外語、華語導覽人員(時薪制)(114年7月4日截止)",
         "timestamp": "1750392159",
         "url": "mail_display.php?timestamp=1750392159",
@@ -194,19 +208,5 @@
             "phone": "6283"
         },
         "attachmentCount": 3
-    },
-    {
-        "title": "大學路正門右側入口週邊開挖查漏作業公告。",
-        "timestamp": "1750122573",
-        "url": "mail_display.php?timestamp=1750122573",
-        "date": "2025/06/17 09:09",
-        "department": "總務處營繕組",
-        "author": {
-            "department": "總務處營繕組",
-            "name": "賴名塑",
-            "email": "a54604@gms.ndhu.edu.tw",
-            "phone": "8906378"
-        },
-        "attachmentCount": 2
     }
 ]
