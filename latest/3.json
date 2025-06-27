@@ -1,5 +1,19 @@
 [
     {
+        "title": "【事務組公告】環境暨海洋學院夜間機車停車場暑假開放使用公告",
+        "timestamp": "1750845803",
+        "url": "mail_display.php?timestamp=1750845803",
+        "date": "2025/06/25 18:03",
+        "department": "總務處事務組",
+        "author": {
+            "department": "總務處事務組",
+            "name": "許紹峯",
+            "email": "hsf113@gms.ndhu.edu.tw",
+            "phone": "03-8906314"
+        },
+        "attachmentCount": 1
+    },
+    {
         "title": "【課程公告】如何運用AI整理與設計製作多元簡報",
         "timestamp": "1750838416",
         "url": "mail_display.php?timestamp=1750838416",
@@ -194,19 +208,5 @@
             "phone": "6522"
         },
         "attachmentCount": 2
-    },
-    {
-        "title": "衛保組113學年度暑假期間服務時間公告Health Care Office Summer Service Hours Announcement (June 23 – September 5, 2025)",
-        "timestamp": "1750640419",
-        "url": "mail_display.php?timestamp=1750640419",
-        "date": "2025/06/23 09:00",
-        "department": "學務處衛生保健組",
-        "author": {
-            "department": "學務處衛生保健組",
-            "name": "吳星穎",
-            "email": "carmier@gms.ndhu.edu.tw",
-            "phone": "8906252"
-        },
-        "attachmentCount": 0
     }
 ]
